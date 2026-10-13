@@ -71,9 +71,12 @@ We organize **11 citation-behavior feature groups** along three complementary di
 
 **Human prose changes citation usage.** RAG and Outline-Guided writing cite predominantly as affirmative evidence. Text guidance brings citation purpose and stance closer to human writing, including a larger share of neutral citations.
 
-<p align="center"><a href="assets/fidelity.pdf"><img src="assets/fidelity.svg" alt="Citation fidelity: evidence grounding and evidence provenance across writing conditions" width="100%"></a><br><sub><b>Fidelity:</b> stronger guidance improves grounding.</sub></p>
-
-<p align="center"><a href="assets/usage.pdf"><img src="assets/usage.svg" alt="Citation usage: purpose and stance distributions across writing conditions" width="100%"></a><br><sub><b>Usage:</b> human prose changes how evidence is used.</sub></p>
+<table>
+<tr>
+<td width="50%" align="center"><a href="assets/fidelity.pdf"><img src="assets/fidelity.svg" alt="Citation fidelity: evidence grounding and evidence provenance across writing conditions" width="100%"></a><br><sub><b>Fidelity:</b> stronger guidance improves grounding.</sub></td>
+<td width="50%" align="center"><a href="assets/usage.pdf"><img src="assets/usage.svg" alt="Citation usage: purpose and stance distributions across writing conditions" width="100%"></a><br><sub><b>Usage:</b> human prose changes how evidence is used.</sub></td>
+</tr>
+</table>
 
 **AI reference networks remain broader and less interconnected.** AI-involved surveys span more venues and fields and favor highly cited references, while human reference networks show stronger clustering. Text guidance only partially closes these structural gaps.
 

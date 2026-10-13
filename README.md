@@ -28,7 +28,14 @@ Taewon Yun &nbsp;·&nbsp; Jisu Shin &nbsp;·&nbsp; Hwanjun Song<sup>†</sup>
 <a href="#quick-start"><b>Quick start</b></a>
 </p>
 
-<a href="assets/overview.pdf"><img src="assets/overview.png" width="100%" alt="CiteSpectrum study overview: five levels of AI involvement, three dimensions of citation behavior, and citation-based AI paper detection"></a>
+<a href="assets/overview.pdf"><img src="assets/overview.svg" width="100%" alt="CiteSpectrum study overview: five levels of AI involvement, three dimensions of citation behavior, and citation-based AI paper detection"></a>
+
+<details>
+<summary><b>Enlarged views of the study design</b></summary>
+<p><a href="assets/overview-spectrum.pdf"><img src="assets/overview-spectrum.svg" width="65%" alt="Enlarged panel A: the five levels of AI involvement"></a></p>
+<p><a href="assets/overview-analysis.pdf"><img src="assets/overview-analysis.svg" width="100%" alt="Enlarged panel B: citation fidelity, usage, and topology"></a></p>
+<p><a href="assets/overview-detection.pdf"><img src="assets/overview-detection.svg" width="65%" alt="Enlarged panel C: citation-based AI paper detection"></a></p>
+</details>
 
 </div>
 
@@ -68,16 +75,13 @@ We organize **11 citation-behavior feature groups** along three complementary di
 
 **Human prose changes citation usage.** RAG and Outline-Guided writing cite predominantly as affirmative evidence. Text guidance brings citation purpose and stance closer to human writing, including a larger share of neutral citations.
 
-<table>
-<tr>
-<td width="50%" align="center"><a href="assets/fidelity.pdf"><img src="assets/fidelity.png" alt="Citation fidelity: evidence grounding and evidence provenance across writing conditions" width="100%"></a><br><sub><b>Fidelity:</b> stronger guidance improves grounding.</sub></td>
-<td width="50%" align="center"><a href="assets/usage.pdf"><img src="assets/usage.png" alt="Citation usage: purpose and stance distributions across writing conditions" width="100%"></a><br><sub><b>Usage:</b> human prose changes how evidence is used.</sub></td>
-</tr>
-</table>
+<p align="center"><a href="assets/fidelity.pdf"><img src="assets/fidelity.svg" alt="Citation fidelity: evidence grounding and evidence provenance across writing conditions" width="100%"></a><br><sub><b>Fidelity:</b> stronger guidance improves grounding.</sub></p>
+
+<p align="center"><a href="assets/usage.pdf"><img src="assets/usage.svg" alt="Citation usage: purpose and stance distributions across writing conditions" width="100%"></a><br><sub><b>Usage:</b> human prose changes how evidence is used.</sub></p>
 
 **AI reference networks remain broader and less interconnected.** AI-involved surveys span more venues and fields and favor highly cited references, while human reference networks show stronger clustering. Text guidance only partially closes these structural gaps.
 
-<p align="center"><a href="assets/topology.pdf"><img src="assets/topology.png" width="100%" alt="Six citation topology features: reference age, venue diversity, field diversity, citation count, repetition rate, and clustering coefficient"></a><br><sub>Figures reproduced from the paper. Click any figure for its vector PDF.</sub></p>
+<p align="center"><a href="assets/topology.pdf"><img src="assets/topology.svg" width="100%" alt="Six citation topology features: reference age, venue diversity, field diversity, citation count, repetition rate, and clustering coefficient"></a><br><sub>Figures reproduced from the paper. Click any figure to zoom in its vector PDF. <a href="assets/README.md">Download full-resolution figures.</a></sub></p>
 
 ## Citation-based AI paper detection
 

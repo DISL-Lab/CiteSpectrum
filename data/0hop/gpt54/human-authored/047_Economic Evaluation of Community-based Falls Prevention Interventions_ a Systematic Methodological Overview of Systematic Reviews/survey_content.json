@@ -1,0 +1,315 @@
+{
+  "title": "Economic Evaluation of Community-based Falls Prevention Interventions: a Systematic Methodological Overview of Systematic Reviews",
+  "subsections": [
+    {
+      "section_title": "Aim and objectives",
+      "subsection_title": "Aim and objectives (1)",
+      "content": "The aim is to conduct a systematic overview of previous systematic reviews of community-based falls prevention interventions. The objectives are to:"
+    },
+    {
+      "section_title": "Aim and objectives",
+      "subsection_title": "Aim and objectives (2)",
+      "content": "1. Systematically search for and identify previous systematic reviews of community-based falls prevention economic evaluations; 2. Describe the methods and ndings of previous systematic reviews, including their aim, search strategy and results, data extracted, quality assessment and commissioning and research recommendations;"
+    },
+    {
+      "section_title": "Aim and objectives",
+      "subsection_title": "Aim and objectives (3)",
+      "content": "3. Critically appraise the methodology of previous systematic reviews and highlight areas of improvement for future systematic reviews;"
+    },
+    {
+      "section_title": "Aim and objectives",
+      "subsection_title": "Aim and objectives (4)",
+      "content": "4. Suggest commissioning recommendations for falls prevention interventions based on syntheses of results and methodological quality of economic evaluations identi ed by systematic overview."
+    },
+    {
+      "section_title": "Methods",
+      "subsection_title": "Methods",
+      "content": "The systematic overview followed the Cochrane guideline on overview of reviews (19) and the Preferred Reporting Items for Systematic Reviews and Meta-Analyse (PRISMA) guideline (13). See Supplementary material for the PRISMA checklist. The review protocol is registered in the Prospective Register of Systematic Reviews (CRD42021234379)."
+    },
+    {
+      "section_title": "Search strategy and selection criteria",
+      "subsection_title": "Search strategy and selection criteria (1)",
+      "content": "The Two researchers independently reviewed the titles and abstracts of identi ed articles at the rst stage and the full texts of approved article at the second stage. Those that received two second-stage approvals were included for data extraction. Another researcher arbitrated in case of disagreement."
+    },
+    {
+      "section_title": "Search strategy and selection criteria",
+      "subsection_title": "Search strategy and selection criteria (2)",
+      "content": "Included studies must have conducted a systematic review -i.e., involving the use of explicit, reproducible methodology, comprehensive search strategy and acceptable methods for data extraction and validity assessment of included studies by two or more researchers (19). Additionally, more than 50% of the review's included studies must have all of the following characteristics: (i) target population of community-dwelling elderly persons (aged 60+) and/or individuals aged 50-59 who are at high falls risk; (ii) any intervention designed to reduce the number of falls or fall-related injuries; (iii) any comparator(s); (iv) conduct full economic evaluations (i.e., comparative analyses of interventions in terms of their relative costs and consequences (17)); and (v) full text in English. Both single-vehicle evaluations (SVEs) (e.g., alongside RCTs) and decision models were included. Speci c disease rehabilitation (e.g., for stroke) with minor falls prevention component were excluded."
+    },
+    {
+      "section_title": "Data extraction and synthesis",
+      "subsection_title": "Data extraction and synthesis (1)",
+      "content": "Following the Cochrane guideline (19), the following data were extracted from the included reviews and narratively synthesised: (1) author(s), publication year and review aim; (2) search strategy and results -period, databases, eligible study designs, eligible interventions, other eligibility criteria, and number of economic evaluations identi ed;"
+    },
+    {
+      "section_title": "Data extraction and synthesis",
+      "subsection_title": "Data extraction and synthesis (2)",
+      "content": "(3) reference and characteristics of economic evaluations identi ed by reviews; (4) data elds extracted from economic evaluations by reviews; (5) methods for quality assessment of economic evaluations by reviews; and (6) commissioning and research recommendations made by reviews."
+    },
+    {
+      "section_title": "Data extraction and synthesis",
+      "subsection_title": "Data extraction and synthesis (3)",
+      "content": "Critical appraisal of previous systematic review methodology As recommended by the Cochrane guideline (19), the 11-item AMSTAR checklist (20) was applied independently by two reviewers to assess the reporting and methodological qualities of previous systematic reviews. Strengths and limitations stated by the systematic review authors were also noted."
+    },
+    {
+      "section_title": "Data extraction and synthesis",
+      "subsection_title": "Data extraction and synthesis (4)",
+      "content": "The methodological quality of reviews was further critically appraised narratively. Speci cally, the following guidelines and academic papers were used to establish what methodological features and outcomes of falls prevention economic evaluations should be extracted and analysed by the systematic reviews: (a) the expert guideline and checklist on conducting and reporting falls prevention economic evaluation (21); (b) the review of key methodological challenges to economic evaluation of geriatric public health interventions (22); (c) the health technology assessment checklist for quality assessment of decision models (23); and (d) the systematic methodological review of key methodological challenges to public health economic model development (24) and the associated model conceptualisation framework (14). Table 1 shows the data elds grouped into higher categories. Table 1 Key data elds that should be extracted and narratively synthesised by systematic reviews of falls prevention economic evaluations."
+    },
+    {
+      "section_title": "Category",
+      "subsection_title": "Category",
+      "content": "Data eld 12 Decision models should ensure that the characteristics of the external intervention study's target population/sample (e.g., inclusion/exclusion criteria) match those of the model population. 13 Lifetime horizon is recommended by the expert guideline on falls prevention economic evaluation (21). 14 Reviews should note the modelling methods and the data type, source and quality reported by evaluations. 15 An example of a method used to characterise the dynamic complexity of falls risk is to incorporate tunnel states in Markov cohort models to capture the secular age-related increase in falls risk (56). Long-term consequences of falls can be captured by incorporating the relationship between falls and a broader health pro le such as frailty. Intervention need (i.e., eligibility) can change over time as individuals' falls risk factor and broader health pro les change. 16 Prospective reduction in structural uncertainty can be achieved through stakeholder engagement and model conceptualisation that precedes model parameterisation (14)."
+    },
+    {
+      "section_title": "Category",
+      "subsection_title": "Category",
+      "content": "Data eld 18 E ciency cost may arise if prioritising intervention at a particular vulnerable group for an equity objective results in e ciency loss (i.e., there is an equity-e ciency trade-off) (57)."
+    },
+    {
+      "section_title": "Commissioning recommendation by this systematic overview",
+      "subsection_title": "Commissioning recommendation by this systematic overview",
+      "content": "The results and methodological features were extracted from a subset of primary economic evaluations and reanalysed to inform the commissioning recommendations made by the systematic overview. Speci cally, data were extracted from general population models (as opposed to models targeting speci c patient groups) analysed over lifetime horizons since these are most informative for jurisdiction-level commissioning decisions on falls prevention (21,25). Such re-analysis of primary study outcomes is recommended by the Cochrane guideline if this suits the purpose of the systematic overview (19). Key methodological features of the models that are likely to in uence their outcomes are considered while formulating the commissioning recommendations."
+    },
+    {
+      "section_title": "Results",
+      "subsection_title": "Results (1)",
+      "content": "Systematic overview search results Figure 1 presents the PRISMA ow diagram: 15,730 titles and abstracts were screened; and 55 full texts screened, from which 7 systematic reviews were identi ed."
+    },
+    {
+      "section_title": "Results",
+      "subsection_title": "Results (2)",
+      "content": "Methods and ndings of previous systematic reviews Aim, search strategy and search result Table 2 summarizes the aim, search strategy and search results of previous systematic reviews. The reviews shared the aim of assessing the cost-effectiveness evidence within their targeted intervention area. Two reviews speci cally targeted community-based falls prevention interventions (26, 27); three targeted falls prevention in both community and institutionalised settings (16, 28, 29); and two targeted a broader range of geriatric public health interventions, more than 50% of which were community-based falls prevention interventions (30,31). Several reviews had further aims of informing: the development of the NICE falls prevention clinical guideline (16); the development of a new falls prevention decision model (27); the practice of and research on falls prevention exercise (29); and the methodologies of subsequent falls prevention economic evaluations (28, 30, 31). All searches covered at least 4 academic databases, while three further covered grey literature sites. Data elds extracted by systematic reviews Table 3 shows the data elds extracted from economic evaluations by previous reviews. There was a marked variation across reviews in the number of data elds extracted, ranging from 8 to 33. Data elds for model features were the most limited, restricted to model type and evidence source. No review quantitatively pooled the evaluation outcomes due to signi cant underlying methodological differences.  1 This table does not account for data elds extracted by reviews for applying a quality assessment checklist. 2 Includes outcomes such as total intervention cost and total number of falls prevented. 3 Includes one-/two-way deterministic sensitivity analysis and probabilistic sensitivity analysis. 4 Analysis of alternative modelling assumptions: e.g., whether fear of falling exerts a health utility decrement. 5 Analysis of intervention impact on social inequalities/inequities in health. 6 These concern issues stated and discussed by the economic evaluation authors, not systematic reviewers."
+    },
+    {
+      "section_title": "Results",
+      "subsection_title": "Results (3)",
+      "content": "a Distinguished between fall-related and all-cause care cost and reported detailed list: emergency department; hospitalization; outpatient visit; GP visit; district nurse visit; home care; equipment; meal-on-wheel; day care centre; residential care; nursing home; patient and caregiver's cost (out-of-pocket expenditure, time cost)."
+    },
+    {
+      "section_title": "Results",
+      "subsection_title": "Results (4)",
+      "content": "b Reported detailed list of intervention resources for costing: recruitment; marketing; printing; development; administration; overheads; staff labour; staff transport; training; equipment; home modi cation; specialist service (e.g., cataract operation); comparator intervention resource/cost. c These elds were extracted as items in the applied checklist."
+    },
+    {
+      "section_title": "Results",
+      "subsection_title": "Results (5)",
+      "content": "Quality assessment of economic evaluations by systematic reviews All reviews except RCN applied a checklist to assess the reporting and methodological quality of their included studies. In total, four checklists were applied, all of them generic (i.e., all disease areas) and all-design (i.e., SVEs and models). Table C in Supplementary material lists the items of the checklists used, and Table 4 shows the quantitative checklist scores given to individual economic evaluations by the reviews. The scores are converted to percentage to ease comparison."
+    },
+    {
+      "section_title": "Results",
+      "subsection_title": "Results (6)",
+      "content": "Thirteen out of 24 SVEs and 11 out of 21 models received scores from multiple reviews. The last column of Table 4 shows the standard deviation (SD) of scores per evaluation. The SD varied markedly between evaluations, ranging from 0.9 to 45.0. The average checklist scores were also calculated for each review by study design. By comparing an individual evaluation's score against the average, its relative quality ranking (above or below average) within each review could be determined. Table 4 highlighted in light grey the evaluations which consistently scored above or below average in all reviews that identi ed them, and in dark grey those whose relative ranking changed across reviews. Only 7 of the 13 SVEs that received multiple scores received consistent ranking, while only 5 of 11 models did. There were hence potential differences in how reviews perceived the relative quality of their included evaluations based on the checklist scores (though the relative rankings would also depend on what evaluations are included). For example, Hektoen (2009) received the Drummond checklist score of 90.0% in the DJ review and was above the review average for models (70.9%); but it received NICE checklist score of 26.3% in the PHE review which was markedly below the review average for models (59.6%)."
+    },
+    {
+      "section_title": "Results",
+      "subsection_title": "Results (7)",
+      "content": "In addition to checklists, the DJ review narratively synthesised limitations of included studies around the following methodological themes: identifying and measuring costs and bene ts; uncertainty over input variables; short time horizon; problems with sample (e.g., low participation); and problems with generalizability. The PHE review noted the main limitations of evaluations as perceived by the evaluation authors or reviewers but did not group them by themes. The Huter review narratively synthesised how evaluations handled the challenges of societal analysis, namely the incorporation of: (1) informal caregiving cost; (2) productivity cost; (3) unrelated cost in added life years; and (4) wider non-health effects. It was found that these challenges were handled in few evaluations; and when handled, were done using very heterogenous methods."
+    },
+    {
+      "section_title": "Results",
+      "subsection_title": "Results (8)",
+      "content": "Commissioning and research recommendations in systematic reviews Table 5 summarizes the commissioning and research recommendations made by previous reviews. • \"We conclude that single interventions (such as the Otago Exercise Programme) targeted at high-risk groups can prevent the greatest number of falls at the lowest incremental costs.\" (p. 89)"
+    },
+    {
+      "section_title": "Results",
+      "subsection_title": "Results (9)",
+      "content": "• \"We recommend that future economic evaluations be guided in part by the checklists available for assessing economic evaluations.\" (p. 88)"
+    },
+    {
+      "section_title": "Results",
+      "subsection_title": "Results (10)",
+      "content": "• Development of guideline and checklist for falls prevention economic evaluations (21) DJ (30) • Cost-effective/cost-saving interventions in 'Good' quality studies: resistance exercise; Otago exercise; Tai Chi; citywide nonpharmaceutical multifactorial programme"
+    },
+    {
+      "section_title": "Results",
+      "subsection_title": "Results (11)",
+      "content": "• \"The existing studies are characterized by huge differences in the methods applied as well as overall quality which limits the comparability and generalizability of the results.\" (p. 670)"
+    },
+    {
+      "section_title": "Results",
+      "subsection_title": "Results (12)",
+      "content": "• \"There is a need for… methods adjusted to particular character of health promotion and primary prevention strategies for older population. • \"A comparison of results of different economic evaluations, even of similar interventions, has to be carried out with great caution.\" (p. 8)"
+    },
+    {
+      "section_title": "Results",
+      "subsection_title": "Results (13)",
+      "content": "• \"A comparison of the cost-effectiveness results with… other age groups is not possible and therefore not advisable.\" (p. 9)"
+    },
+    {
+      "section_title": "Results",
+      "subsection_title": "Results (14)",
+      "content": "• \"Disregarding [the four features 1 ] could implicitly lead to a discrimination of health promotion and disease prevention against older people.\" (p. 9)"
+    },
+    {
+      "section_title": "Results",
+      "subsection_title": "Results (15)",
+      "content": "• \"More research is necessary on the different approaches for [the four features'] inclusion and on their respective effects on the outcomes.\" (p. 9)"
+    },
+    {
+      "section_title": "Results",
+      "subsection_title": "Results (16)",
+      "content": "Winser (29) • \"A tailored exercise program including strengthening of lower extremities, balance training, cardiovascular exercise, stretching and functional training of moderate intensity performed twice per week with each session lasting 60 min for 6 or more months delivered in groups of 3 to 8 participants [by PT or nurse trained by PT] with home-based follow-up appears to be cost-effective in preventing falls in older people.\" (p. 69)"
+    },
+    {
+      "section_title": "Results",
+      "subsection_title": "Results (17)",
+      "content": "• \"Exercise-only programs were more cost-effective than multifactorial falls prevention programs.\" But \"there were not enough studies of each to draw rm conclusions.\" (p. 75, 78)"
+    },
+    {
+      "section_title": "Results",
+      "subsection_title": "Results (18)",
+      "content": "• \"We recommend future studies to test the bene ts of adding scheduled walking to the falls prevention exercise protocol.\" (p. 76)"
+    },
+    {
+      "section_title": "Results",
+      "subsection_title": "Results (19)",
+      "content": "• \"Research is needed to evaluate the e cacy of [groupbased learning and homebased practice] programs, in particular in comparison to other programs that may require more resources.\" (p. 76)"
+    },
+    {
+      "section_title": "Results",
+      "subsection_title": "Results (20)",
+      "content": "• \"Further research is needed… in developing and underdeveloped countries.\" (p. The DJ review reported three exercise interventions and a citywide multifactorial intervention that produced the lowest cost-per-unit ratios from 'Good' quality evaluations (those that received 90-100% Drummond checklist score). The PHE review based recommendations by intervention type on cost-per-unit ratios. The Olij review recommended HAM over exercise and multifactorial interventions for community-dwelling elderly based on incremental cost per QALY ratios under CUA. The Winser review listed the characteristics of an ideal exercise intervention based on those of interventions that yielded favourable cost-per-unit ratios. It also found that single-component exercises produced more favourable ratios than exercises within multifactorial interventions but called for further direct comparisons."
+    },
+    {
+      "section_title": "Results",
+      "subsection_title": "Results (21)",
+      "content": "For research implications, the RCN and PHE reviews determined that a de novo model is required to assist commissioning due to lack of current evidence. The Davis and Olij reviews recommended that future evaluations follow a validated guideline or checklist for economic evaluations. The Davis review later informed the development of the expert guideline/checklist for falls prevention economic evaluations (21). The Huter review stressed that future evaluations should incorporate the four methodological challenges associated with societal analyses (given above) to counteract the indirect bias of economic evaluations against older age groups (e.g., due to reduced scope of QALY gain). It should nevertheless be noted that inclusion of productivity costs would favour economically active/younger populations (see the results of Johansson (2008) (32) in Table 6 below where addition of net consumption changed the evaluation outcome from dominance to a relatively high ICER due to low elderly productivity)."
+    },
+    {
+      "section_title": "Results",
+      "subsection_title": "Results (22)",
+      "content": "Critical appraisal of previous systematic review methodology"
+    },
+    {
+      "section_title": "Results",
+      "subsection_title": "Results (23)",
+      "content": "According to the 11-item AMSTAR checklist, the systematic reviews were of comparable quality, with most scoring between 7 and 8 (see Table D in Supplementary material). Most prevalent issues were the non-provision of the list of excluded studies (item 5), the lack of assessment of publication bias (item 10), and whether the reviews adequately considered the scienti c/methodological quality of included studies in formulating conclusions (item 8). Limitations acknowledged by the review authors included: limited search coverage (27)(28)(29)(30); lack of quantitative meta-analysis (27,29); non-assessment of publication bias (27,28); and limited assessment of the quality of underlying clinical studies (27,28)."
+    },
+    {
+      "section_title": "Results",
+      "subsection_title": "Results (24)",
+      "content": "Two further limitations of systematic reviews can be noted by this systematic overview:"
+    },
+    {
+      "section_title": "Results",
+      "subsection_title": "Results (25)",
+      "content": "1. The limited range of methodological features extracted from studies, particularly models; and 2. The limited range of evaluation outcomes extracted to inform commissioning."
+    },
+    {
+      "section_title": "Results",
+      "subsection_title": "Results (26)",
+      "content": "The rst limitation is made clear by comparing Tables 1 and 3. There was a marked difference between what data elds could or should have been extracted by systematic reviews according to expert guidelines and literature (14,(21)(22)(23)(24) (Table 1) and those extracted (Table 3). Decision model features were the most neglected category. One particularly important (yet neglected) set of modelling features are methods for characterising the dynamic progression in falls risk and falls prevention intervention need. An individual's falls risk pro le encompasses multiple interacting risk factors -including age, falls history, physical function (e.g., gait and balance) and cognitive function (15) -which are all highly dynamic; and changes to the falls risk pro le would then entail changes to intervention need and eligibility. As far as time and resources permit, systematic reviews should account for how such features were modelled, including the data sources and parameters used and structural assumptions made. Insofar as models -and particularly population-level long-horizon models -provide the most relevant information to commissioners, the reviews' limited focus on the modelling features reduces their capacity to inform not only the commissioning decisions but also the conceptualisation of future falls prevention economic models."
+    },
+    {
+      "section_title": "Results",
+      "subsection_title": "Results (27)",
+      "content": "The second limitation concerns the way in which reviews' commissioning recommendations were based chie y on cost-per-unit ratios without considering aggregate outcomes. For example, the Davis review recommended the Otago home exercise for population aged 80 + based on a single SVE result that the intervention produced a net cost saving (33). Yet another evaluation in the review reported a similar cost saving from a citywide intersectoral intervention over a 5-year horizon (34). Even with comparable cost-per-unit ratios, consideration of aggregate impact would favour the citywide intervention. The cost-per-unit ratio also provides little information on the coverage of priority subgroups within the target population. For example, the Olij and Winser reviews recommended HAM and exercise, respectively, over multifactorial interventions based on comparisons of cost-per-unit ratios alone. Yet multifactorial interventions may achieve greater coverage of the most vulnerable patient groups (e.g., those contraindicated for exercise) and hence may be preferred by commissioners who aim to prioritise the care of such groups. Alternatively, HAM/exercise and multifactorial intervention may be commissioned as non-mutually exclusive options, with the more cost-effective option subsidising the lesser. The cost-per-unit ratios estimated in the absence of any capacity constraint should also be interpreted with caution since they would rise quickly once the intervention scale reaches the capacity limit."
+    },
+    {
+      "section_title": "Commissioning recommendation by this systematic overview",
+      "subsection_title": "Commissioning recommendation by this systematic overview",
+      "content": "Assuming that decision-makers overseeing a health jurisdiction (e.g., at city, state or national level) would prefer general population, lifetime evidence to capture the full health and economic impacts of falls for the whole jurisdiction rather than speci c patient groups (21,25), Table 6 summarises the characteristics and results of ve general population, lifetime models that were identi ed by the previous systematic reviews. Two principles are maintained in interpreting the model results: (I) attention is paid to methodological features that may in uence the outcomes or the applicability of the outcomes to the decision-making setting (see category (D) in Table 1); and (II) recommendation is based on a wide range of reported outcomes, not cost-per-unit ratio alone (see category (E) in Table 1)."
+    },
+    {
+      "section_title": "Methodological caveats",
+      "subsection_title": "Methodological caveats (1)",
+      "content": "Concerning principle (I), two salient features emerge from Table 6. First, as shown in the falls epidemiology column, there is signi cant between-study variation in the fall-related health and economic consequences incorporated and in the data sources used to characterise falls risk. Hence, the decision-maker preference over the range of fall-related health and economic consequences would in uence the results' applicability. Secondly, each evaluation has several methodological caveats (see last column) that may affect the credibility of model results. For example, all ve studies developed Markov cohort models but mentioned no tunnel states to account for the secular age-related increase in falls risk, which would bias the result against those who are younger at baseline (and against early prevention). Only Johansson (2008) assessed the model's external validity. The decision-maker should consider these methodological shortcomings when using the model evidence."
+    },
+    {
+      "section_title": "Methodological caveats",
+      "subsection_title": "Methodological caveats (2)",
+      "content": "Four models that conducted CUA produced cost-per-unit ratios for at least one intervention relative to usual care that can be deemed cost-effective under the cost-effectiveness threshold of £30,000 per QALY gain (i.e., the NICE health technology assessment threshold (35)). In the order of increasing ICER values, the results were: Given the favourable ratios, a key decisional factor under principle (II) is the population reach of each intervention that determines its aggregate impact, as well as any budget and capacity constraints of the decision-maker. For example, it may be the case that Tai Chi enjoys a substantially greater uptake rate than HAM in the decision-making setting (perhaps due to high prevalence of rented accommodations which makes home modi cation di cult (36)). In this case, Tai Chi would generate greater aggregate gain (measured by incremental net monetary bene t that incorporates QALY gain and net costs) than HAM despite its higher ICER. But if there are signi cant budget or capacity constraints such that the wide Tai Chi uptake cannot be realised, then HAM would be preferred since it delivers more health gain per monetary unit of investment. A similar comparison should be made between universal provision of HAM and its targeted provision in Pega (2016). The targeted approach generates lower ICER but generates lower total QALY gain than universal provision: 20,100 QALYs at £3.5 million total net cost vs. 34,000"
+    },
+    {
+      "section_title": "Methodological caveats",
+      "subsection_title": "Methodological caveats (3)",
+      "content": "QALYs at £62.6 million total net cost. The additional 13,900 QALYs from universal provision is of greater value than the £59.1 million additional net cost if the cost-effectiveness threshold is greater than £4,252 per QALY. Thus, the targeted approach should be pursued only if there are budget/capacity constraints (or an equity objective; see below) that preclude the universal provision."
+    },
+    {
+      "section_title": "Methodological caveats",
+      "subsection_title": "Methodological caveats (4)",
+      "content": "The combined multifactorial and environmental intervention in Johansson (2008) potentially has the greatest reach since it addresses community-wide environmental risk factors (independently of demand by older people) as well as individually tailored treatments including Tai Chi and HAM. However, the model is based on evidence from a quasiexperimental study in a small community of 5,500 older people, and there is no supplementary evidence that it can be successfully implemented in other communities. Hence, the decision-maker should rst consult local stakeholders to determine whether the intervention in Johansson (2008) can be scaled up within the budget and capacity constraints. Whether older people's productivity is considered in the evaluation is another decisional factor since the outcome changes from dominance to ICER of £16,890 per QALY if net consumption cost in added life-years is included."
+    },
+    {
+      "section_title": "Methodological caveats",
+      "subsection_title": "Methodological caveats (5)",
+      "content": "OMAS (2008) was the only model to conduct CEA for ve single-component interventions relative to usual care: exercise, HAM, vitamin D & calcium, psychotropics withdrawal, and gait stabilising device (39). All interventions reduced the number of MA falls and the net healthcare cost, thus dominating usual care. Gait stabilising device produced the highest reduction in MA falls and net cost and had the greatest population reach (65.8%) and hence should be the preferred option. However, there were two main methodological caveats. First, no assessment of parameter uncertainty was conducted despite the paucity of evidence for several model parameters (e.g., only one trial was available for e cacy of gait stabilising device). Secondly, the population reaches of interventions were not based on the characteristics of the simulated model population but imposed exogenously. For example, gait stabilising device was eligible only for mobile seniors without disability, and according to an external survey, this group comprised 65.8% of the general elderly population. The study then simply assumed that 65.8% of health gains and costs accrue to this intervention subgroup. But the simulated model population were de ned by age, sex and MA falls history, not mobility or disability, and hence the true reach of gait stabilising device is unknown. These caveats reduced the credibility of the reported results."
+    },
+    {
+      "section_title": "Methodological caveats",
+      "subsection_title": "Methodological caveats (6)",
+      "content": "Another key decisional factor under principle (II) is equity consideration beyond cost-effectiveness. Here, only Pega (2016) disaggregated the evaluation results into social subgroups: female vs. male; and non-Maori majority vs. Maori ethnic minority in New Zealand. Male and Maori subgroups had higher ICERs than their respective counterparts, and gained less QALYs per person (e.g., 0.046 for Maori vs. 0.060 for non-Maori). Hence, universal HAM provision worsens the health inequity between Maori and non-Maori (the decision-maker may similarly see the health inequality between men and women as unfair). Though the speci c ethnic divide is unique to New Zealand, the decision-maker may choose to generalise this case to predict the distribution of HAM impact across locally relevant gradient in social marginalisation. Having done so, commissioning can consider HAM strategies that do not exacerbate the existing health inequity -e.g., targeting the socially marginalised group -even at the expense of reduced cost-effectiveness. Similar considerations are warranted for other cost-effective interventions, but there are insu cient subgroup results from other models to enable this."
+    },
+    {
+      "section_title": "Methodological caveats",
+      "subsection_title": "Methodological caveats (7)",
+      "content": "Pega (2016) also provides an insight into the underlying cause of inequitable subgroup impacts. A scenario analysis is conducted wherein the Maori subgroup is assigned the longer life expectancy of the non-Maori subgroup, and it is found that Maori's QALY gain becomes higher than that of non-Maori (0.071 vs. 0.060) and the ICERs become similar. Hence, the inequitable impact can be attributed mainly to the life expectancy differential between ethnic subgroupsthough other potential causes of inequitable impact (e.g., lower intervention uptake or e cacy among the Maori) cannot be investigated due to homogenous parameter assumptions across ethnic subgroups. This suggests that falls prevention commissioning should be complemented by upstream interventions at earlier life stages to correct the life expectancy differential that emerges at age 65."
+    },
+    {
+      "section_title": "Methodological caveats",
+      "subsection_title": "Methodological caveats (8)",
+      "content": "Overall, the commissioning recommendations of this systematic overview are as follows:"
+    },
+    {
+      "section_title": "Methodological caveats",
+      "subsection_title": "Methodological caveats (9)",
+      "content": "1. There is some evidence that combined multifactorial and environmental intervention, HAM and Tai Chi are costeffective over the lifetime for general elderly populations aged 65+."
+    },
+    {
+      "section_title": "Methodological caveats",
+      "subsection_title": "Methodological caveats (10)",
+      "content": "2. The decision-maker should investigate the feasible reaches of the above interventions in the local setting within the budget and capacity constraints. Commissioning of additional implementation support (e.g., peer motivators) can also be considered."
+    },
+    {
+      "section_title": "Methodological caveats",
+      "subsection_title": "Methodological caveats (11)",
+      "content": "3. There is some evidence that national provision of HAM exacerbates the existing health inequity across social subgroups, and this may generalise to the other two interventions. The decision-maker could consider targeting the intervention at socially marginalised groups or a universal provision supplemented by additional implementation support for the marginalised groups. Upstream interventions at early life stages can also supplement falls prevention."
+    },
+    {
+      "section_title": "Methodological caveats",
+      "subsection_title": "Methodological caveats (12)",
+      "content": "4. There are methodological caveats that may signi cantly in uence the model outcomes. The decision-maker could consider commissioning the development of a de novo general population, lifetime model that addresses the main methodological challenges, such as the dynamic complexity in falls risk pro le and the psychological and sociological factors that in uence the intervention reach and hence its aggregate impact."
+    },
+    {
+      "section_title": "Discussion",
+      "subsection_title": "Discussion (1)",
+      "content": "This systematic overview identi ed 7 systematic reviews containing 44 falls prevention intervention economic evaluations for older people living in community. The number of data elds extracted from studies differed markedly across reviews, ranging from 8 to 33. Four checklists were applied by reviews, while narrative quality assessment was conducted at varying levels of detail and topic range. Commissioning recommendations were based primarily on cost-per-unit ratios. Research recommendations ranged from a call for greater adherence to pre-established guidelines for economic evaluations to development of de novo decision models. The systematic overview made its own commissioning recommendations and critically appraised the methods of previous reviews, particularly regarding the extraction of methodological features and the synthesis of evaluation outcomes."
+    },
+    {
+      "section_title": "Discussion",
+      "subsection_title": "Discussion (2)",
+      "content": "Application of the AMSTAR checklist to assess the reporting and methodological quality of systematic reviews yielded limited results: the 7 reviews received comparable AMSTAR scores despite the marked variation in the number of data elds extracted. A key issue is that AMSTAR, as well as its alternatives, AMSTAR2 (40) and ROBIS (41), recommended by the Cochrane guideline (19), are not designed speci cally for assessing the quality of systematic reviews of economic evaluations, let alone of falls prevention economic evaluations. This systematic overview hence used expert guidelines on falls prevention economic evaluation and broader methodological literature on public health economic evaluation and modelling (14,(21)(22)(23)(24) to formulate an independent set of criteria for determining the quality of systematic reviews. A similar approach was taken by a previous overview of systematic reviews of community pharmacy economic evaluations which formulated its quality assessment criteria (as well as applying AMSTAR2) based on a wide range of academic and policy literature on economic evaluation of public health interventions and trial-based economic evaluations (42). Future systematic overviews would likewise bene t from tailoring their quality assessment criteria to the disease area and study design of interest."
+    },
+    {
+      "section_title": "Discussion",
+      "subsection_title": "Discussion (3)",
+      "content": "A noticeable nding of this overview was that previous systematic reviews of falls prevention economic evaluations neglected the extraction and analysis of decision model features. As mentioned, this greatly compromises the ability of systematic reviews to inform decision-making at the population level over a time horizon long enough to capture all relevant costs and consequences of a preventive intervention (25,35). According to the systematic methodological review already referenced in Table 1, the key methodological challenges within public health economic model development include: (I) incorporating wider costs and effects; (II) considering dynamic complexity (e.g., long-term progression of falls risk factors); (III) incorporating psychological and sociological factors (e.g., those affecting intervention uptake/adherence); and (IV) considering social determinants of health and conducting equity analyses (24). The Huter review covered only (I), while the PHE review only (IV). Future systematic reviews of public health economic models should endeavour to cover as many of these aspects as possible. This would help judge the structural validity and credibility of included models before they inform commissioning decisions and/or conceptualisation of de novo falls prevention economic models. It would also inform additional commissioning strategies that could supplement falls prevention, such as upstream interventions to address the underlying social disadvantages resulting in inequitable impact of falls prevention (43), and implementation strategies to increase falls prevention uptake (44)(45)(46)(47)(48)."
+    },
+    {
+      "section_title": "Discussion",
+      "subsection_title": "Discussion (4)",
+      "content": "A possible contributory factor to the neglect of decision model features is the nature of checklists used by previous systematic reviews to assess the reporting and methodological quality of their identi ed economic evaluations. All four checklists used by the reviews were designed for all disease areas and for all study designs. Though reviewers are not con ned to extracting only the checklist items, the use of a generic, all-design checklist would likely reduce the effort spent in identifying how evaluations captured the disease-and modelling-speci c features. Thus, using the fallspeci c (but all-design) checklist designed by falls prevention experts (21) may improve the attention paid to features of falls epidemiology and falls prevention intervention by future systematic reviews, while using the model-speci c (but generic) HTA checklist (23) may similarly improve the attention on modelling features. However, any quantitative checklist is likely too limited to serve as the main methodological assessment tool. Speci cally, its use of binary/ordinal item scores, followed by aggregation to a single index, conceals the highly idiosyncratic nature of methodological issues and the way and extent to which they affect the evaluation outcomes (26). Hence, checklist application is necessary but insu cient to analyse the methodological quality of economic evaluations and must be complemented by a narrative synthesis of methodological features. This dual approach was adopted by few previous systematic reviews in this overview and hence remains a research priority for future systematic reviews."
+    },
+    {
+      "section_title": "Discussion",
+      "subsection_title": "Discussion (5)",
+      "content": "Sole reliance on cost-per-unit ratios would generate incomplete and biased commissioning recommendations. As noted above, single-component HAM or exercise may generate very favourable cost-per-unit ratios and yet perform poorly in terms of aggregate impact and/or coverage of priority groups relative to a multifactorial intervention. This observation contributes to an ongoing debate on whether less resource-intensive exercise should be preferred over (the widely recommended) multifactorial interventions (49,50). The debate is primarily centred around e cacy estimates and cost-per-unit ratios, but the nal verdict cannot and should not be reached without considering the aggregate impact (51, 52) and decisional priorities beyond cost-effectiveness (53). Consideration of aggregate outcomes is also important for informing targeting strategies (under budget/capacity constraints) and assessing the returns on intervention scale-up (44). Systematic reviews should therefore endeavour to extract a wide range of economic evaluation outcomes, though the feasible range would largely depend on the methodological and reporting practices of underlying evaluations."
+    },
+    {
+      "section_title": "Strengths and limitations of this systematic overview",
+      "subsection_title": "Strengths and limitations of this systematic overview (1)",
+      "content": "This systematic overview is the rst of its kind in the falls prevention economic evaluation context. It covered 12 academic databases and grey literature between 2003 and 2020 and followed the Cochrane guideline (19). It offered commissioning recommendations based on general population, lifetime models after considering their methodological caveats and outcomes beyond cost-per-unit ratios. It also critically appraised the methodological quality of previous systematic reviews, and this would help improve the quality of future systematic reviews' data extraction, quality assessment and formulation of commissioning recommendations. This would in turn aid the conceptualisation and implementation of future falls prevention economic evaluations, particularly those employing decision models."
+    },
+    {
+      "section_title": "Strengths and limitations of this systematic overview",
+      "subsection_title": "Strengths and limitations of this systematic overview (2)",
+      "content": "The overview nevertheless has limitations, including non-coverage of the period before 2003, non-inclusion of systematic reviews of falls prevention RCTs that contained a minority of studies that were economic evaluations (10)(11)(12), and non-inclusion of reviews that targeted speci c patient groups such as those with neurological disorders (54). The commissioning recommendations were made under certain assumptions on decision-maker preferencei.e., prioritization of general population, lifetime modelling evidence -and neglected evidence from SVEs and shorthorizon models."
+    },
+    {
+      "section_title": "Conclusion",
+      "subsection_title": "Conclusion",
+      "content": "The systematic overview found signi cant variation and limitations in the methodological quality of existing systematic reviews of falls prevention economic evaluations which could bias commissioning decisions and hinder the design of future evaluations. Systematic reviews should: be as comprehensive as possible in the extraction and narrative synthesis of evaluation features associated with falls epidemiology, falls prevention intervention and decision modelling; they should also base the commissioning recommendations on the full range of reported outcomes and equity objectives to avoid biased and incomplete information being provided to decision-makers."
+    }
+  ]
+}

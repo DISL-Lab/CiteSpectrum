@@ -1,0 +1,980 @@
+{
+  "title": "A Systematic Review of Optimization Algorithms for Structural Health Monitoring and Optimal Sensor Placement",
+  "subsections": [
+    {
+      "section_title": "Introduction",
+      "subsection_title": "Introduction (1)",
+      "content": "In recent decades, SHM systems have become increasingly popular worldwide due to decaying infrastructure, ever-increasing load demands on existing structures, and the construction of complex new systems. In an SHM system, changes in engineering structures, such as bridges and buildings, are monitored over time using periodic response measurements [1][2][3][4][5]. A typical monitoring system involves two major processes: (I) sensing, to measure structure-dependent data, and (II) data analysis, to identify features from the acquired data allowing the distinction between an undamaged and damaged structure. Ideally, an SHM system fulfills the following requirements: high sensitivity to low damage levels and different types of faults, the capability of continuous monitoring, insensitivity to loading conditions and environmental effects, robustness to measurement of noise, and low installation and maintenance costs. Table 1 outlines the five principal levels of health monitoring, i.e., damage detection, localization, classification, quantification, and prognosis. In general, SHM systems consist of four components: (I) data collection systems, (II) transmission subsystems, (III) information management databases, and (IV) health Research on SHM sensor technologies has been ongoing for decades [12]. Recently, researchers have been increasingly interested in embedding sensors for SHM systems. In [13], Rocha et al. reviewed embedded sensors for SHM systems and discussed sensor characteristics, interactions between sensor materials and host materials, embedding procedures, acquired sensor data, and material behavior. Stoll et al. [14] evaluated the feasibility of embedding eddy current sensors in laser powder bed fusion (LPBF) components for SHM. Environmental and operational conditions (EOCs) pose a significant challenge to SHM systems. For SHM in high-temperature settings, Dutta et al. [15] investigated developments, limitations, applications, and recent advancements in fiber Bragg grating and eddy current sensors. In [16], Simon et al. presented a reliable SHM strategy using radar sensors at 60 GHz embedded in a wind turbine blade and exposed to a defined environment in a climate chamber. Recently, Mieloszyk et al. [17] analyzed the possibility of embedding fiber Bragg grating sensors into additive manufacturing polymeric elements with temperature exposure (both elevated and sub-zero). In recent decades, researchers have discussed different aspects of smart monitoring concepts. Guzman-Acevedo et al. [18] demonstrated the application of global positioning system (GPS) receivers, smartphones, and accelerometers, integrated into a smart sensor system for the SHM of bridges. In [7], Hassani et al. emphasized two main areas relating to smart monitoring: advanced sensing technologies and advanced damage identification algorithms. In addition to highlighting the application of remote and wireless sensing, they showed that advanced data management and analysis techniques are key to managing and interpreting data obtained from monitoring systems."
+    },
+    {
+      "section_title": "Introduction",
+      "subsection_title": "Introduction (2)",
+      "content": "Characterizing an existing system is only feasible if a minimum amount of data is available. This requirement is directly related to the density of the sensor network, i.e., the least number of sensors that must be placed on the system under evaluation. Sensors must be adequately located, providing optimal data for assessing the structural behavior and status. The measured degrees of freedom (DOF) of complex and large-scale systems must provide sufficient data to characterize the structure's behavior accurately. Therefore, the following significant challenges must be met in the design of an SHM system: (I) what sensor types to select, (II) how many DOFs to measure, and (III) where to place the sensors. Considering the cost restrictions of an SHM system, decisions have to be made on the sensors' optimal type, quantity, and locations."
+    },
+    {
+      "section_title": "Introduction",
+      "subsection_title": "Introduction (3)",
+      "content": "Sensor configuration, also known as sensor placement or deployment, is the fundamental process of constructing sensor networks for monitoring systems. Optimized sensor placement (OSP) improves the overall system performance by enabling optimal system usage, reducing downtime, and avoiding catastrophic failures. The optimization of sensor networks needs to consider multiple aspects to meet the needs of SHM systems. Placing sensors at the most advantageous locations is imperative. Otherwise, incomplete information, such as incomplete modal data, might be recorded, and accurate structural monitoring compromised. The sensor configuration must be specified individually for each system being monitored. Generally, placements can be selected purely based on engineering judgment. However, to support OSP, numerous computational methods have been developed to optimize sensor deployments. Ideally, OSP techniques are able to do the following: (i) reduce the number of sensors, (ii) improve the system's accuracy, and (iii) provide a robust and optimal design. Comprehensive review articles on the application of sensor placement systems can be found in [19] for aerospace structures, in [20] for the processing industry, and in [21] for the safe operation of nuclear reactors. Many OSP methods have been developed over the years, including effective independence, modal kinetic energy, and information entropy (IE) methods. Detailed descriptions of the most effective OSP methods are presented in the following sections. Although OSP has received some research interest, this only represents 9% of research papers in SHM (according to a keyword search on Google Scholar on 10 March 2023). Consequently, more research is needed to advance OSP techniques that enable accurate, reliable, and cost-effective SHM systems."
+    },
+    {
+      "section_title": "Introduction",
+      "subsection_title": "Introduction (4)",
+      "content": "Objective functions in OSP problems can be solved using several computational methods, including artificial intelligence (AI) and optimization algorithms. The literature reports many strategies for solving optimal sensor configuration problems, and several approaches have been proposed, including heuristic approaches, intuitive placement strategies, and systematic optimization. More recently, researchers have been combining AI and OSP, known as \"Modern OSP\". In [22], Deng et al. proposed an OSP solution based on deep neural network (DNN) for turbulent flow recovery using an ensemble Kalman filter (EnKF). Dinh-Cong et al. [23] developed an OSP reduced order model applying a model reduction technique that employs iterated improved reduced systems (IIRSs). In their research, OSP was applied using the Jaya algorithm. Furthermore, the objective function was created and solved based on a correlation between the flexibility matrix obtained from an original finite element model and its corresponding IIRS matrix."
+    },
+    {
+      "section_title": "Background on Optimization Algorithms for SHM",
+      "subsection_title": "Background on Optimization Algorithms for SHM (1)",
+      "content": "Optimization strategies have existed since the times of Cauchy, Newton, and Lagrange. Newton and Leibniz upgraded differential calculus strategies for system optimization. Bernoulli, Euler, and Lagrange developed the fundamentals and basic concepts of calculus of variations related to the minimization of objective functions. In constrained engineering optimization, unknown multipliers are added to problems. In honor of its inventor, Lagrange, it is named after him. In an unconstrained optimization engineering problem, Cauchy implemented the steepest descent technique. With the development of high-speed digital computers in the late twentieth century, complex optimization processes were implemented, allowing new optimization approaches to be developed. Following these advances, much literature was generated on optimization techniques [24]. In addition, this development led to several well-defined new areas of optimization theory. Optimization algorithms are based on the minimization (or maximization) of an objective function (also referred to as an Error function) E(x). This mathematical function depends on the model's internal learnable parameters, which provide the basis for calculating target values (Y) based on predictors (X). Different types of objectives can be minimized or maximized, including distance, cost, energy, weight, waste, raw material consumption, processing time, loss, conversion, profit, efficiency, yield, capacity, and utility. An intelligent optimization algorithm with a learning ability is called a learning-based intelligent optimization algorithm (LIOA). An extensive survey of LIOAs was carried out by Li et al. [25], including statistical analysis, classification of LIOA learning methods, and applications of LIOAs in complex optimization scenarios."
+    },
+    {
+      "section_title": "Background on Optimization Algorithms for SHM",
+      "subsection_title": "Background on Optimization Algorithms for SHM (2)",
+      "content": "The following outlines the typical steps of an optimization process:"
+    },
+    {
+      "section_title": "Background on Optimization Algorithms for SHM",
+      "subsection_title": "Background on Optimization Algorithms for SHM (4)",
+      "content": "Definition of the optimization problem."
+    },
+    {
+      "section_title": "2.",
+      "subsection_title": "2.",
+      "content": "Specification of the objectives to be maximized or minimized."
+    },
+    {
+      "section_title": "3.",
+      "subsection_title": "3.",
+      "content": "Selection of decision variables."
+    },
+    {
+      "section_title": "4.",
+      "subsection_title": "4.",
+      "content": "Consideration of restraints."
+    },
+    {
+      "section_title": "5.",
+      "subsection_title": "5. (1)",
+      "content": "Formulation of final models. Here, the desired goal is defined as the objective function, consisting of variables and constraints, which are functional relations of the inequalities and equalities of the variables."
+    },
+    {
+      "section_title": "5.",
+      "subsection_title": "5. (2)",
+      "content": "Optimization methods can be divided into two broad categories: derivative-free optimization (DFO) [26] and derivative algorithms [27]."
+    },
+    {
+      "section_title": "5.",
+      "subsection_title": "5. (3)",
+      "content": "DFO provides an approach for optimizing over simulations when a closed form of the objective function is unavailable. The theory of DFO algorithms has developed over time, making them useful in a wide variety of practical applications. DFO methods are model-based; they learn the model by evaluating solutions. As a result, the model is used to guide the sampling of solutions in the next round. For example, cross-entropy methods may use Gaussian distributions as models, Bayesian optimization strategies employ Gaussian processes to model joint distributions, and learning algorithms have been incorporated into distribution estimation algorithms."
+    },
+    {
+      "section_title": "5.",
+      "subsection_title": "5. (4)",
+      "content": "Derivative-based optimization uses gradient-based optimization techniques to determine the direction of the search based on the derivative information of an objective function. These optimization algorithms can be classified into two main categories:"
+    },
+    {
+      "section_title": "5.",
+      "subsection_title": "5. (5)",
+      "content": "• First-order optimization algorithms [28]: Optimization algorithms minimize or maximize a loss function (or objective function), E(x), using gradient values. Gradient descent is a widely used first-order optimization algorithm. First-order derivatives can determine whether a function increases or decreases at a particular point. First-order derivatives are lines that are tangential to their error surfaces. First-order optimization techniques are generally time-saving and straightforward calculation methods that converge quickly for large datasets. • Second-order optimization algorithms [29]: In these algorithms, error functions (or objective functions) E(x) are maximized or minimized using a second-order derivative, also known as the Hessian. The Hessian of a matrix can be considered the partial derivative of the second order of the same matrix. The second order is rarely used, considering the cost of calculating second derivatives. A function's curvature, also known as the second-order derivative, can be used to determine whether the first derivative is increasing or decreasing. Second-order derivatives are quadratic surfaces where the error surface's curvature can be touched. In general, second-order optimization techniques are time-consuming and memory-intensive."
+    },
+    {
+      "section_title": "5.",
+      "subsection_title": "5. (6)",
+      "content": "For SHM systems, optimization algorithms have been used in many areas, including sensor system design and structural damage detection. As such, optimization algorithms can help to determine the optimal number of sensors and the best sensor locations. A set of objectives is defined, based on the problem's variables. The error function can be categorized into single-and multi-objective functions. An important issue is the selection of a suitable optimization algorithm, which should be determined based on objective function types. For structural damage detection, objective functions can be used to identify the location and severity of damage in one-step methods or multi-step methods. One-step methods use optimization methods to determine the extent and location of damage in one step, while in multi-step methods the extent and location of damage are detected in more stages."
+    },
+    {
+      "section_title": "5.",
+      "subsection_title": "5. (7)",
+      "content": "A summary of review articles on optimization algorithms for SHM systems is presented in Table 2. Since 2000, optimization algorithms have been used in 13% of all publications in the field of SHM (according to a keyword search on Google Scholar on 10 March 2023). A selection of publications on optimization algorithms for OSP and SDD between 2010 and 2023 is provided in two tables. Table 3 presents the use of optimization algorithms for OSP, and Table 4 outlines applications of optimization algorithms for Structural Damage Detection (SSD). Here, various specifications are given, including the investigated optimization algorithm, the analysis type, the damage type, and the monitoring system. This paper reviewed advancements in the design of SHM systems, from sensor placement optimization (SPO) strategies to system evaluation."
+    },
+    {
+      "section_title": "5.",
+      "subsection_title": "5. (8)",
+      "content": "Hassani et al. [38] 2022 Sensors"
+    },
+    {
+      "section_title": "5.",
+      "subsection_title": "5. (9)",
+      "content": "This study presented an overview of current developments in sensing technologies, sensor placement, and damage detection for composite structures."
+    },
+    {
+      "section_title": "5.",
+      "subsection_title": "5. (10)",
+      "content": "Ghannadi et al. [39] 2023 Frattura ed Integrità Strutturale"
+    },
+    {
+      "section_title": "5.",
+      "subsection_title": "5. (11)",
+      "content": "Simulation annealing algorithms were examined in this work for various SHM applications, including damage detection, optimal sensor placement, and updating of finite element models. Table 3. Papers on optimization algorithms used for OSP (between 2010-2023)."
+    },
+    {
+      "section_title": "Optimization Algorithm OSP Method",
+      "subsection_title": "Optimization Algorithm OSP Method",
+      "content": "Year Ref."
+    },
+    {
+      "section_title": "GA",
+      "subsection_title": "GA",
+      "content": "Bayesian statistics approach 2010 [40] PSO algorithm Fisher information matrix 2011 [41] Single parenthood GA (SPGA) Modal assurance criterion 2012 [42] Improved discrete PSO (IDPSO) Nearest neighbor index 2013 [43] Geometrical viewpoint and GA (GVGA) Modal assurance criterion 2014 [44] GA-based evolutionary optimization Modal assurance criterion 2015 [45] Stochastic optimization Bayesian experimental design approach 2016 [46] GA Effective independence method 2017 [47] Jaya algorithm Reduced order model 2018 [23] Quantum-inspired evolutionary optimization algorithm (DQEA) Triaxial modal assurance criterion 2019 [48] PSO algorithm Multi-objective decision-making strategy 2020 [49] GA Iterative updating process 2021 [50] Multi-objective optimization algorithm Effective independence method 2022 [51] GA Augmented Kalman Filter (AKF) technique 2023 [52]"
+    },
+    {
+      "section_title": "Selection Process and Organization of Papers",
+      "subsection_title": "Selection Process and Organization of Papers (1)",
+      "content": "The selection of relevant papers for a review article is a challenging task. A process flowchart outlining the various steps that guided the article selection process for this literature review is presented in Figure 1. In Table 5, we also provide the inclusion and exclusion criteria in selecting the articles. For this review paper, a total of 344 articles were selected and reviewed. Figure 2 shows the number of reviewed articles subdivided by year. As can be seen, this work focused mainly on recent articles (almost 70% of the reviewed articles were from 2015 to now). Since many journals publish research on optimization algorithms (OAs), SHM systems, and OSP techniques, Table 6 provides researchers with a fast way to find suitable journals related to these subjects. This table gives information about the type of journal (Q1 or Q2) and its founding year. The table also shows the number of articles published so far in each area. -Inclusion and exclusion criteria: Based on Table 5."
+    },
+    {
+      "section_title": "Selection Process and Organization of Papers",
+      "subsection_title": "Selection Process and Organization of Papers (2)",
+      "content": "-Duplicates removed: 80 -Irrelevant studies based on     The present article systematically reviews the history of research on optimization algorithm development for SHM systems. The paper's wealthy literature review investigates numerous approaches and their effectiveness. Moreover, readers are provided with the concept of optimization algorithms and their applications for OSP and SDD methods. Besides all this, as complementary tools, flowcharts, and tables are presented. These summarize the processes of the most important optimization algorithms used for SHM and provide an overview of recent related literature. A diagram of the manuscript's structure summarizing the different sections of this work is displayed in Figure 3."
+    },
+    {
+      "section_title": "Structural Health Monitoring",
+      "subsection_title": "Structural Health Monitoring (1)",
+      "content": "In general, an SHM system involves continuously monitoring an engineering structure to identify and analyze changes in the structure's geometric and material properties over time. In the 1980s, different SHM strategies were developed for various applications, from offshore structures to bridges to aerospace systems. For each application, unique monitoring strategies were developed, focusing on the particular requirements of the structures. Adams et al. [67] published one of the first milestone papers in this field. The au-thors developed an innovative non-destructive testing (NDT) method based on vibration measurements. Using vibration data from the structure and a suitable theoretical model (acceptance function), it was shown that damage could be identified in a one-dimensional model, estimating its location and magnitude. During this time, Cawley et al. [68] realized that damage causes local stiffness reductions and changes in natural frequencies that can be used to locate the damage. Today's state-of-the-art in SHM aims to provide accurate and robust systems that can detect, locate, and estimate the size and type of damage and provide remaining lifetime estimations. The health assessment of a system involves identifying four system characteristics: (1) Environmental and operational conditions (EOCs), (2) Mechanical damage or fault, (3) Growth of fault or damage, and (4) System performance after damage or fault."
+    },
+    {
+      "section_title": "Structural Health Monitoring",
+      "subsection_title": "Structural Health Monitoring (2)",
+      "content": "Recently, Hu et al. [69] proposed a hybrid strategy for damage detection and condition assessment of hollow slab bridge hinge joints using physical models and vision-based measurements. Using this method, the authors determined the damage's existence, location, and severity based on reduction in the stiffness of hinge joints. In [70], Dessena et al. introduced a novel approach to damage detection and quantification, based on a Kriging approach, to update numerical systems."
+    },
+    {
+      "section_title": "Structural Health Monitoring",
+      "subsection_title": "Structural Health Monitoring (3)",
+      "content": "The following outlines a general step-by-step technical strategy of an SHM system:"
+    },
+    {
+      "section_title": "Degrees of Freedom",
+      "subsection_title": "Degrees of Freedom (1)",
+      "content": "As stated above, an SHM system aims to continuously assess a structure to identify structural damage, including material damage and structural stability problems. Structural instability can occur due to joint displacements. The Degrees of Freedom (DOF) of joints are determined by their possible free movements or rotations, i.e., the number of directions in which the joints of a system can cause a displacement. Therefore, DOFs are good candidates for installing sensors to collect data for structural damage detection."
+    },
+    {
+      "section_title": "Degrees of Freedom",
+      "subsection_title": "Degrees of Freedom (2)",
+      "content": "There are two types of DOF in each node of an element: translational and rotational. A system's component nodes may have rotational and translational degrees. For example, the node of a laminate composite plate has five DOFs, including two degrees of rotation and three degrees of translation [75]. A three-dimensional truss also has three translational DOFs per node [65]. Depending on the system, each node can have different DOFs. Readers interested in DOFs are referred to [89] for more information. The placement of sensors is usually based on the translational degrees, since the measurement of rotational degrees is more challenging and expensive to implement. Due to this, OSP systems are typically aligned with translational degrees."
+    },
+    {
+      "section_title": "Degrees of Freedom",
+      "subsection_title": "Degrees of Freedom (3)",
+      "content": "Numerical experiments generally require three-dimensional finite element models (FEMs) to optimize sensor configurations and to detect damage. Due to the complexity of large structures, the generated FEMs may have thousands of DOFs. Therefore, model simplification and reduction methods are typically used for efficient sensor configuration modeling. For instance, Ni et al. [90] developed an equivalent reduced-order FEM for the Canton tower with 37 beam elements and 185 DOFs. This FEM was also used by Yi et al. [91] for an evolutionary algorithm-based sensor configuration study on the Canton tower."
+    },
+    {
+      "section_title": "Degrees of Freedom",
+      "subsection_title": "Degrees of Freedom (4)",
+      "content": "Many computational applications can generate three-dimensional (3D) FEMs for OSP and SHM systems. FEM is predominantly modeled using ANSYS [91], SAP [92], ETABS [93], ABAQUS [94], Python Chen et al. [95], and MATLAB [75]."
+    },
+    {
+      "section_title": "SHM Assessment Types",
+      "subsection_title": "SHM Assessment Types (1)",
+      "content": "Before choosing the type of SHM system, two main decision factors should be determined: (I) monitoring time frame and (II) monitoring scale. Depending on the time frame, a structure may be under short-term or long-term monitoring. Monitoring scales may also include assessing either (I) a specific problematic location or (II) the entire system. Below we discuss these factors in more detail:"
+    },
+    {
+      "section_title": "SHM Assessment Types",
+      "subsection_title": "SHM Assessment Types (2)",
+      "content": "• Monitoring time frames:"
+    },
+    {
+      "section_title": "SHM Assessment Types",
+      "subsection_title": "SHM Assessment Types (3)",
+      "content": ". Long-term monitoring: This monitoring aims to identify structural faults in a system by monitoring its performance over a long period. ."
+    },
+    {
+      "section_title": "SHM Assessment Types",
+      "subsection_title": "SHM Assessment Types (4)",
+      "content": "Short-term monitoring: Assessment methods with a short-term objective, typically involving NDT techniques. ."
+    },
+    {
+      "section_title": "SHM Assessment Types",
+      "subsection_title": "SHM Assessment Types (5)",
+      "content": "Early warning: In this type of monitoring, an early warning alarm is issued when a predetermined threshold is exceeded, informing the user to monitor for possible damage. ."
+    },
+    {
+      "section_title": "SHM Assessment Types",
+      "subsection_title": "SHM Assessment Types (6)",
+      "content": "Inspection: This type of monitoring aims at assessing the condition of a system or its components on a regularly scheduled basis. ."
+    },
+    {
+      "section_title": "SHM Assessment Types",
+      "subsection_title": "SHM Assessment Types (7)",
+      "content": "Collapse warning: This monitoring plan involves the shutdown of the inspected systems when there is a risk of system collapse."
+    },
+    {
+      "section_title": "SHM Assessment Types",
+      "subsection_title": "SHM Assessment Types (8)",
+      "content": "• Monitoring scales:"
+    },
+    {
+      "section_title": "SHM Assessment Types",
+      "subsection_title": "SHM Assessment Types (10)",
+      "content": "Member monitoring: A specific member of a system is monitored. ."
+    },
+    {
+      "section_title": "SHM Assessment Types",
+      "subsection_title": "SHM Assessment Types (11)",
+      "content": "Local monitoring: A particular region of a system is assessed. ."
+    },
+    {
+      "section_title": "SHM Assessment Types",
+      "subsection_title": "SHM Assessment Types (12)",
+      "content": "Global monitoring: The overall health state of the entire system is monitored."
+    },
+    {
+      "section_title": "Sensor Characteristics",
+      "subsection_title": "Sensor Characteristics (1)",
+      "content": "Sensors are devices capable of detecting and recording inputs from the physical environment. The input can be heat, light, motion, pressure, moisture, or other environmental phenomena. The sensor output is generally a signal, such as a voltage measurement, that can be converted into a human-readable scale or recorded as a digital quantity, and displayed at the sensor location or sent electronically over a network for further analysis and processing. Specific characteristics of sensors include range, accuracy, sensitivity, stability, static and dynamic specifications, repeatability, compensation of EOC changes, and energy harvesting. An ideal sensor is sensitive to the measured property and insensitive to any other properties they might encounter in their application."
+    },
+    {
+      "section_title": "Sensor Characteristics",
+      "subsection_title": "Sensor Characteristics (2)",
+      "content": "Sensors can be categorized as active or passive. The term \"active sensor\" refers to one that requires an external power source to react to environmental input and produce output. Weather satellite sensors, for example, require energy to provide meteorological data about the earth's atmosphere. By contrast, passive sensors do not require an external power source to detect environmental input. Power is provided by the environment itself, such as light or thermal energy. An example of a passive sensor is a mercury-based glass thermometer. Fluctuating temperatures cause mercury to expand and contract, changing the mercury volume in the glass tube. A human-readable gauge is provided outside the glass tube to display the temperature."
+    },
+    {
+      "section_title": "Sensor Characteristics",
+      "subsection_title": "Sensor Characteristics (3)",
+      "content": "A typical health monitoring system is composed of a network of sensors that measure quantities such as stress, strain, vibration, inclination, humidity, and temperature of the structure and its surrounding environment. Over the years, researchers have developed a variety of sensors suitable for SHM based on the latest advances in sensor technology. Generally, sensors in SHM systems fall into two categories: advanced [96] and conventional [97]. The most widely used sensors for SHM include fiber optic sensors (FOSs), accelerometers, vibrating wire traducers, linear variable differential transformers (LVDTs), load cells, strain gauges, inclinometers (slope indicators), tiltmeters, acoustic emission sensors, microelectromechanical systems (MEMSs), and temperature sensors. Table 7 lists the different types of sensors used for SHM systems and the measurement types they perform. A challenge in designing an effective and efficient SHM system is the choice of suitable sensors, and various factors must be considered. In the following, we provide a list of criteria for the reader to assist in sensor selection."
+    },
+    {
+      "section_title": "Hassani and Dackermann [8] 2023 Sensors",
+      "subsection_title": "Hassani and Dackermann [8] 2023 Sensors",
+      "content": "A systematic review of conventional and advanced sensor technologies was conducted in this article to provide input parameters for NDT and SHM systems and to determine whether they are suitable for determining the health state of structures."
+    },
+    {
+      "section_title": "SHM Methodologies",
+      "subsection_title": "SHM Methodologies (1)",
+      "content": "SHM methods can be divided into two general categories: global and local. The importance of considering a global monitoring approach is often apparent when a specific structural component cannot be accessed, or the entire structure needs to be evaluated. Figure 5 displays various subdivisions of SHM systems. As can be seen in the figure, global monitoring can be subdivided into static and dynamic categories. Moreover, dynamic-based methods can be further divided into model-based and data-based methods. Data-based methodologies are based solely on measured data from monitoring systems and analytical rules to evaluate the structure and predict how a damage scenario will escalate over time or when a fault will occur. Model-based methods involve solving an inverse problem."
+    },
+    {
+      "section_title": "SHM Methodologies",
+      "subsection_title": "SHM Methodologies (2)",
+      "content": "Global damage detection methods face two critical challenges: (1) finding a feature that is sensitive enough to detect minor damage and (2) developing methods that are not affected by changes in EOCs."
+    },
+    {
+      "section_title": "Dynamic-Based",
+      "subsection_title": "Dynamic-Based (1)",
+      "content": "Static-Based  As a traditional global SHM system, Frigui et al. [111] investigated a new vibrationbased damage detection method (VBDDM) to detect and localize damage. This method was tested on a finite element model of an existing building. In [112], a nonlinear vibroacoustic modulation technique was used for structural damage identification. To illustrate the proposed methodology, nonlinear vibro-acoustic responses from composites were simulated, and data from an impact test was used."
+    },
+    {
+      "section_title": "Dynamic-Based",
+      "subsection_title": "Dynamic-Based (2)",
+      "content": "A data-based SHM approach was proposed in [113], by Svendsen et al., for damage detection in steel bridges. In [114], Shi et al. presented a two-dimensional directional continuous wavelet transform (2D-DCWT)-based damage identification algorithm for line-type damage detection in plate structures. Zhang et al. [115] aimed to minimize the influence of modeling uncertainty during model updating so that the updated model could accurately represent damage states. To accomplish this goal, the researchers developed a methodology using pattern recognition techniques to supervise the structural damage identification and guide the Bayesian model updating (BMU). In [116], a new damage detection method for bridges with precast deck panels was developed, based on FE analysis and load testing results. The method successfully identified the location, and significance, of potential deck joint damage by measuring bridge responses and updating models. In a recent study, Ni et al. [117] proposed a likelihood-free Bayesian method for identifying structural parameters. Bayesian inference was performed using a transitional Markov chain Monte Carlo (MCMC) model and an adaptive Gaussian surrogate model (GSM). Many recent review articles, such as [38,118], have provided good insights into global monitoring methods."
+    },
+    {
+      "section_title": "Dynamic-Based",
+      "subsection_title": "Dynamic-Based (3)",
+      "content": "For local damage detection, a large variety of NDT techniques can be used, such as the following: visual inspection (VI), infrared testing (IR), acoustic emission testing (AE), electromagnetic testing (ET), liquid penetrant testing (PT), radiographic testing (RT), magnetic particle testing (MPT), ultrasonic testing (UT), film radiography (FR), straight beam ultrasonic testing (SBUT), leak testing (LT), eddy current testing (ECT), magnetic flux leakage (MFL), laser profilometry (LP), alternating current field measurement (ACFM), angle beam (AB), automated ultrasonic backscatter technique (AUBT), holographic testing (HT), laser shearography (LS), computed tomography (CT), digital radiography (DR), computed radiography (CR), electromagnetic acoustic transducer (EMAT), time-of-flightdiffraction (TOFD), long range ultrasonic testing (LRUT), immersion testing (IT), internal rotary inspection system (IRIS), and phased array ultrasonic testing (PAUT). As part of a local monitoring system, Sun et al. [119] presented a hybrid ultrasonic sensing system, named diffuse ultrasonic wave (DUW), to detect damage to railway tracks using a lead-zirconate-titanate (PZT) actuator and an FBG hybrid sensing system. The experimental results showed that DUW signals could detect damage on railway tracks more effectively than the energy-based index. An NDT method, using electromagnetic waves (EMWs), called EMW-NDT, was proposed in [120]. Delamination, cracks, and other defects in CFRP composites were detected using the proposed EMW-NDT method. Su et al. [121] proposed a technique for detecting cavity damage in automated machines using AE tomography, combining the fast-sweeping method with the limited-memory Broyden-Fletcher-Goldfarb-Shanno (L-BFGS) method. Recent review articles, such as [122,123], discuss various local monitoring methods."
+    },
+    {
+      "section_title": "Dynamic-Based",
+      "subsection_title": "Dynamic-Based (4)",
+      "content": "Many advanced damage detection techniques are based on artificial intelligence (AI), including machine learning (ML) and deep learning (DL). ML methods can solve two problems: regression and classification. Both problems have been addressed in advanced damage detection approaches. A typical example of AI is big data (BD) management, which uses graphics processing units (GPUs) to interpret and manage large data sets. GPU also provides the possibility of analyzing information using DL methods. Convolutional neural networks (CNNs), long short-term memories (LSTMs), and graph convolutional networks (GCNs) are examples of DL methods used for monitoring systems. Cha et al. [124] proposed a deep architecture of CNNs for a vision-based concrete crack detection method without calculating defect features. Guo et al. [125] presented a DL-based damage detection method for extracting desired features from mode shapes in damaged systems without requiring any hand-engineered features or prior knowledge. Using deep CNNs, Yu et al. [126] proposed a new method based on smart control devices to identify and localize building structural damages. In recent years, DL has been implemented to reduce noise in images and signals. Singh et al. [127] implemented convolutional autoencoders, based on DL, to model noise and denoise ultrasonic images. In their paper, ultrasonic images were quantitatively analyzed using structural similarity index measure (SSIM) and peak-signalto-noise ratio (PSNR) metrics. The authors in [75,128,129] provide more information on methods for detecting damage based on reducing noise in input signals."
+    },
+    {
+      "section_title": "Dynamic-Based",
+      "subsection_title": "Dynamic-Based (5)",
+      "content": "An overview of recent review papers discussing the state-of-the-art in SHM is presented in Table 9. Some recent research articles on new data analysis methods for SHM are listed in Table 10."
+    },
+    {
+      "section_title": "Ref. Year Journal Description",
+      "subsection_title": "Ref. Year Journal Description (1)",
+      "content": "Gordan et al. [134] 2022 Measurement"
+    },
+    {
+      "section_title": "Ref. Year Journal Description",
+      "subsection_title": "Ref. Year Journal Description (2)",
+      "content": "This work presented functions, models, and categories of data mining (DM) strategies, including GA, fuzzy logic, ANN, and principal element analysis, used for SHM systems."
+    },
+    {
+      "section_title": "Ref. Year Journal Description",
+      "subsection_title": "Ref. Year Journal Description (3)",
+      "content": "Ramalho et al. [135] 2022 Structural Control and Health Monitoring"
+    },
+    {
+      "section_title": "Ref. Year Journal Description",
+      "subsection_title": "Ref. Year Journal Description (4)",
+      "content": "This article comprehensively reviewed testing procedures, equipment, and techniques adopted in NDT and SHM systems. It also presented the basics of Lamb waves and their application to fault identification, ML, statistical analysis, simulation methods, and signal processing."
+    },
+    {
+      "section_title": "Ref. Year Journal Description",
+      "subsection_title": "Ref. Year Journal Description (5)",
+      "content": "Civera and Surace [136] 2022 Sensors"
+    },
+    {
+      "section_title": "Ref. Year Journal Description",
+      "subsection_title": "Ref. Year Journal Description (6)",
+      "content": "This work reviewed recent developments in NDT systems, including acoustic emissions, visual inspection, ultrasonic testing, radiographic testing, infrared thermography, oil monitoring, and electromagnetic testing."
+    },
+    {
+      "section_title": "Ref. Year Journal Description",
+      "subsection_title": "Ref. Year Journal Description (8)",
+      "content": "In this work, the authors comprehensively reviewed the development history of, and research in, different damage detection strategies in composite laminated plates."
+    },
+    {
+      "section_title": "Ref. Year Journal Description",
+      "subsection_title": "Ref. Year Journal Description (9)",
+      "content": "Payawal and Kim [137] 2023 Applied Sciences A review of image-based SHM applications was conducted, which includes discovering and identifying, monitoring and measuring, automating and improving efficiency, and promoting 3D model development. This paper presented a new data-driven strategy using ANNs to analyze acceleration records from multiple passes of a traversing vehicle for drive-by monitoring of bridges."
+    },
+    {
+      "section_title": "Ref. Year Analysis Method Monitored System Description",
+      "subsection_title": "Ref. Year Analysis Method Monitored System Description (1)",
+      "content": "Hajializadeh [141] 2022 DL Bridge This paper proposed a novel numerical data-driven damage detection system using a deep convolutional neural network on train-borne signals while moving over a bridge at traffic speed."
+    },
+    {
+      "section_title": "Ref. Year Analysis Method Monitored System Description",
+      "subsection_title": "Ref. Year Analysis Method Monitored System Description (2)",
+      "content": "Xu et al. [142] 2022 Bayesian method Wind turbine blade This paper proposed a time series analysis method, based on Bayesian cointegration, to include more than two damage-sensitive features in the analysis simultaneously."
+    },
+    {
+      "section_title": "Ref. Year Analysis Method Monitored System Description",
+      "subsection_title": "Ref. Year Analysis Method Monitored System Description (3)",
+      "content": "Hassani et al. [74] 2022 VMD algorithm Composite plate"
+    },
+    {
+      "section_title": "Ref. Year Analysis Method Monitored System Description",
+      "subsection_title": "Ref. Year Analysis Method Monitored System Description (4)",
+      "content": "In this work, a novel strategy was proposed using VMD algorithm to assemble a new set of input responses captured from condensed frequency response function rows for use in a model updating problem, based on sensitivity."
+    },
+    {
+      "section_title": "Optimal Sensor Placement",
+      "subsection_title": "Optimal Sensor Placement (1)",
+      "content": "The objective of OSP is to find an optimal subset of measurement locations from a large set of candidates. The resulting sensor layout should be able to accurately represent the system using only a limited number of DOFs, resulting in time and cost savings. The following optimization equation defines the mathematical model of the OSP problem:"
+    },
+    {
+      "section_title": "Optimal Sensor Placement",
+      "subsection_title": "Optimal Sensor Placement (2)",
+      "content": "where f is defined as the error function; n is the given limited number of sensors; S = (s 1 , s 1 , . . . , s n ) is denoted as the candidate locations placed at the DOFs of an FE structural model; Z + is the set of positive integers; and S ub and S lb represent the vectors of the upper and lower bound of S, respectively. A typical OSP system can be considered a three-step decision-making strategy:"
+    },
+    {
+      "section_title": "Optimal Sensor Placement",
+      "subsection_title": "Optimal Sensor Placement (3)",
+      "content": "1. Set sensor quantities: In this step, the number of sensors installed on a system is determined. It defines the most cost-effective method by selecting the optimal number of sensors that still enables accurate system representation."
+    },
+    {
+      "section_title": "2.",
+      "subsection_title": "2.",
+      "content": "Optimize sensor locations: This step involves deriving the best sensor placements to obtain the most accurate system data."
+    },
+    {
+      "section_title": "3.",
+      "subsection_title": "3. (1)",
+      "content": "Evaluate sensor layout: In this step, the performance of various sensor configurations are evaluated, based on optimal system representation."
+    },
+    {
+      "section_title": "3.",
+      "subsection_title": "3. (2)",
+      "content": "The issue of deriving an optimized sensor layout has been studied over many decades, and various strategies have been applied. From the viewpoint of an optimization problem, the sensor locations are the variables in a discrete optimization problem, while the sensor numbers are the constraints. Figure 6 shows a flowchart representing OSP as an optimization problem. Part A specifies the type and number of sensors, and part B defines the optimization algorithm for minimizing or maximizing the objective function. OSP has a wide range of applications. The concept of OSP was first discussed in electronic science before finding broad applications in structural dynamics and SHM. In [144], Padula et al. provided an overview of OSP for aerospace applications, while Naimimohasses et al. [145] studied OSP for the process industry, and Oh et al. [146] discussed nuclear reactor placement for safety. Sun et al. [147] recently developed a novel discrete optimization scheme based on the artificial bee colony (ABC) algorithm to solve OSP, based on a modal assurance criterion-oriented objective function. A significant challenge of OSP is unmeasured DOFs and harsh environmental conditions. These challenges were recently addressed by Nieminen et al. [148], who proposed a two-phase OSP method that can be applied to commonly used triaxial accelerometers. The proposed method used the minimum variance criterion to estimate structural responses. To minimize the redundancy between the triaxial sensors, the redundancy of information was introduced as an additional criterion for their placement. A proposal for weighting methods, based on modal displacement, was proposed to avoid selecting sensor locations with low vibration energies in an environment with high noise levels. The technique was highly suitable for large-scale FEMs of structures with fine meshes in the industrial sector. In recent years, many review papers have comprehensively addressed OSP systems. For example, Ostachowicz [35] presented an exhaustive review of research studies on sensor placement optimization, comprehensively defining and categorizing the optimization algorithms. Some of the most well-regarded reviews on this topic can be found in [13,106]."
+    },
+    {
+      "section_title": "3.",
+      "subsection_title": "3. (3)",
+      "content": "A classification overview of different OSP methods is shown in Figure 7, presenting the following methods: effective independence driving-point residue (EI-DPR), effective independence (EI), kinetic energy (KE), Fisher information matrix (FIM), average drivingpoint residue (ADPR), eigenvalue vector product (EVP), modal assurance criterion (MAC), and strain energy distribution methods. Table 11 reviews recent papers on proposed algorithms used for OSP in SHM. The following sections provide a comprehensive overview of various popular OSP methods."
+    },
+    {
+      "section_title": "Effective Independence",
+      "subsection_title": "Effective Independence (1)",
+      "content": "The Effective Independence (EI) method is one of the most widely used OSP methods for modal testing and was proposed by Kammer [158]. It is an iterative method based on the Fisher matrix (FIM), providing information about unknown parameters of a sampled random variable. Fisher information refers to the variance of the score regarding the unknown parameter. Multiple unknown parameters can be expressed using these matrices and their elements. Fisher information is defined by:"
+    },
+    {
+      "section_title": "Effective Independence",
+      "subsection_title": "Effective Independence (2)",
+      "content": "where • The vector of the unknown is defined by θ = θ 1 , θ 2 , ..., θ N ."
+    },
+    {
+      "section_title": "Effective Independence",
+      "subsection_title": "Effective Independence (3)",
+      "content": "• The unknown parameters are θ j and θ i . • X defines the sampled random variable. •"
+    },
+    {
+      "section_title": "Effective Independence",
+      "subsection_title": "Effective Independence (4)",
+      "content": "The likelihood function of θ is defined by f (X; θ) = L(θ). • E defines the expectation."
+    },
+    {
+      "section_title": "Effective Independence",
+      "subsection_title": "Effective Independence (5)",
+      "content": "Among a set of candidates, the lowest ranked DOF is eliminated, and the remaining DOFs are ranked based on their contributions to the FIM determinant. The new, reduced, set is iteratively reranked until the desired number of sensors is reached. As a result, this set of optimal placements is accepted. By maintaining the FIM determinant, a collection of linearly independent sensor sites can be selected, retaining sufficient information about target modal responses. This approach is based on the distribution vector E D of EI, which can be represented as the prediction matrix diagonal, E:"
+    },
+    {
+      "section_title": "Effective Independence",
+      "subsection_title": "Effective Independence (6)",
+      "content": "While the matrix of FE target modes is defined as Φ, it can be partitioned using sensor distribution. A diagonal element determines each sensor location's fractional contribution to rank E, which can be the full rank when the target mode partitions are linearly independent. As an iterative approach, the terms E D are sorted according to the least important sensor, removing the least important ones each time. The corresponding matrix elements and relevant features are also removed. The iterative algorithm continues until the required number of sensors is reached."
+    },
+    {
+      "section_title": "Effective Independence",
+      "subsection_title": "Effective Independence (7)",
+      "content": "Yang et al. [159] presented an interval-EI technique for OSP with uncertain structural information. The paper treated uncertainties as non-probability intervals to overcome the insufficient statistical description of uncertain parameters. The study considered eliminating steps with uncertain cases using the iterative process of the classical EI method. So, their FIM method was extended to interval numbers, which would be more compatible with engineering. Li et al. [160] addressed the inherent relationship and comparison between KE and EI, which are two influencing methods in OSP. KE's connection to the EI method was studied by analyzing OSP with the EI method from the perspective of a new reduced system. The derived relationship was then verified by applying both methods to the I-40 Bridge, located over the Rio Grande in Albuquerque, New Mexico. Comprehensive reviews have been published providing more detailed information on the EI method [160,161]."
+    },
+    {
+      "section_title": "Effective Independence Driving-Point Residue (EI-DPR)",
+      "subsection_title": "Effective Independence Driving-Point Residue (EI-DPR) (1)",
+      "content": "The greatest weakness of the EI method is that it is vulnerable to high noise conditions, since the algorithm can only select sensor locations with low signal strength. Average driving-point residue (ADPR) can provide a contribution measure of each point to the overall modal signal."
+    },
+    {
+      "section_title": "Effective Independence Driving-Point Residue (EI-DPR)",
+      "subsection_title": "Effective Independence Driving-Point Residue (EI-DPR) (2)",
+      "content": "In this case, if j = 1, . . . , N interest modes should be measured, and ω j is the jth mode eigenvalue, ADPR in the ith DOF can be calculated as follows:"
+    },
+    {
+      "section_title": "Effective Independence Driving-Point Residue (EI-DPR)",
+      "subsection_title": "Effective Independence Driving-Point Residue (EI-DPR) (3)",
+      "content": "The EI-DPR vector can be obtained by weighting the EI algorithm values with ADPR values. Considering the ith DOF:"
+    },
+    {
+      "section_title": "Effective Independence Driving-Point Residue (EI-DPR)",
+      "subsection_title": "Effective Independence Driving-Point Residue (EI-DPR) (4)",
+      "content": "Chang et al. [162] proposed a methodology to derive the optimum number and location of sensors for bridge SHM and compared their method to other OSP techniques. The results showed that the EI-DPR method concentrated sensors at the midspan, while the KE and EI methods located sensors uniformly throughout the investigated structures. Three examples were used to verify the proposed framework: (1) numerical simulations of a supported beam, (2) FEMs of the Northampton Street Bridge (NSB), and (3) wireless sensor data from the Golden Gate Bridge (GGB). More information about the EI-DPR method can be found in several comprehensive reviews [36,163]."
+    },
+    {
+      "section_title": "Kinetic Energy (KE)",
+      "subsection_title": "Kinetic Energy (KE) (1)",
+      "content": "The KE approach is based on the principle that if any sensor is placed at a point of maximum KE, the sensor has maximum ability to measure the modes of interest. Possible sensor locations are ranked, based on their dynamic contribution to the target mode shapes. There is a critical difference between this method and the EI method, i.e., instead of analyzing the FIM determinant, a KE measure is maximized here. Engineering literature refers to this method as the kinetic energy method (KEM) or modal kinetic energy (MKE). For all candidate sensor sites, KE indices can be determined as follows:"
+    },
+    {
+      "section_title": "Kinetic Energy (KE)",
+      "subsection_title": "Kinetic Energy (KE) (2)",
+      "content": "with M representing the mass matrix. Sensor locations with the highest KE index are selected. The signal-to-noise ratio of this method is higher than that of the EI method, because it chooses sensor locations with the largest available signal amplitudes. Since this method can handle high noise levels, it has been widely applied to real-world structures in noisy environments. However, unlike the EI method, the KE method does not consider the linear independence of the target modes, which is an essential consideration for testanalysis correlation and modal identification."
+    },
+    {
+      "section_title": "Kinetic Energy (KE)",
+      "subsection_title": "Kinetic Energy (KE) (3)",
+      "content": "The number and location of measurements in experimental modal testing greatly influence the quality of the results. Thus, Heo et al. [164] proposed an improved KE optimization method and applied the technique to experimental data derived from an asymmetric long-span bridge model. A comparison was made between the algorithm proposed in this paper and the EI algorithm using experimental data from the bridge model. A detailed description of the KE method can be found in [36]."
+    },
+    {
+      "section_title": "Eigenvalue Vector Product (EVP)",
+      "subsection_title": "Eigenvalue Vector Product (EVP) (1)",
+      "content": "The EVP method calculates the product of eigenvector elements to derive sensor locations from N modes. The best sensor locations are those with the highest values of EVP. An advantage of EVP is that it avoids locating sensors on node points of a mode, maximizing the vibration energy of the resulting sensor layout. The EVP of the ith DOF can be calculated as follows:"
+    },
+    {
+      "section_title": "Eigenvalue Vector Product (EVP)",
+      "subsection_title": "Eigenvalue Vector Product (EVP) (2)",
+      "content": "Yang et al. [165] proposed a novel non-probabilistic sensor placement method for SHM, combining the EVP and EI methods. To optimize sensor positioning, the researchers proposed to use interval numbers based on the Relationship of Interval for Sensor Number (RISEN) index and an algorithm based on iterative multi-objective optimization. Four examples were studied, validating the method. Tan and Zhang [36] presented a comprehensive review of the EVP method, providing more details."
+    },
+    {
+      "section_title": "Mutual Information",
+      "subsection_title": "Mutual Information (1)",
+      "content": "This method measures how much data is learned from one sensor location to another by using mutual information. In its definition, A and B are two measurement sites, which refer to the amount of information a i retained about b j while considering I(a i , b j )."
+    },
+    {
+      "section_title": "Mutual Information",
+      "subsection_title": "Mutual Information (2)",
+      "content": "where • a i and b j are the measurements from locations A and B, respectively. • P A (a i ) and P B (b j ) are the individual probability densities for data A and B, respectively. •"
+    },
+    {
+      "section_title": "Mutual Information",
+      "subsection_title": "Mutual Information (3)",
+      "content": "The joint probability density for data A and B is defined by P AB (a i , b j ). I(a i , b j ) becomes zero only if the data of a i is thoroughly independent of the data of b j . By averaging all sensor sites, the average of mutual information between A and B can be calculated, and by minimizing the mutual information between recorders, the results of OSP can be reached. Gierlichs et al. [166] provide more details of the mutual information analysis."
+    },
+    {
+      "section_title": "Information Entropy Method",
+      "subsection_title": "Information Entropy Method (1)",
+      "content": "The best location for sensors is obtained by minimizing the variation in information entropy H(D), which is determined by the following equation:"
+    },
+    {
+      "section_title": "Information Entropy Method",
+      "subsection_title": "Information Entropy Method (2)",
+      "content": "where • θ is the uncertain parameter set (e.g., stiffness parameters, modal parameters, etc.) • D is defined as the information of the dynamic test. • E θ is the mathematical expectation concerning θ."
+    },
+    {
+      "section_title": "Information Entropy Method",
+      "subsection_title": "Information Entropy Method (3)",
+      "content": "Information theory minimizes uncertainty in model estimates. The information entropy method puts more significance on the information content, allowing exact quantification of energy. This is considered a crucial distinction from the EI method, as, in this method, the chosen DOF is given relative importance, while the information entropy is related to the total maximum limit of the entropy. Said et al. [167] presented a novel metric based on information entropy for optimizing sensor placements to detect impact in a composite plate, and used GA to optimize impact detection using strain measurements. Ye et al. [168] proposed an information entropy-based sensor placement method for damage detection and tested it on the Canton tower and the benchmark model. Pei et al. [169] proposed a conditional information entropy-based OSP technique to separately investigate the influences of noise in measurements and the model error in multi-dimensional sensor placement. Golan and Maasoumi [170] provide more detailed information on the information entropy method."
+    },
+    {
+      "section_title": "Sensitivity-Based Methods",
+      "subsection_title": "Sensitivity-Based Methods (1)",
+      "content": "In general, sensitivity-based methods analyze how different sources of uncertainty in a mathematical model contribute to the model's overall uncertainty. As an extension of the EI strategy, the prediction E matrix is adjusted to apply a sensitivity matrix created for the location of damage. Below is a formula for calculating the modified E matrix:"
+    },
+    {
+      "section_title": "Sensitivity-Based Methods",
+      "subsection_title": "Sensitivity-Based Methods (2)",
+      "content": "F(K) is defined as a sensitivity coefficient vector of mode shape variations corresponding to damage vectors. Following the explanation of the EI approach given earlier, the E diagonal terms represent the fractional contribution of the corresponding record site to the E rank. The location with the least contribution is deleted, and this process is continued as an iterative algorithm until the required number of sensors remains."
+    },
+    {
+      "section_title": "Sensitivity-Based Methods",
+      "subsection_title": "Sensitivity-Based Methods (3)",
+      "content": "Based on sensitivity-based methods, Sun et al. [171] developed a novel OSP to identify the number and location of three types of sensors: accelerometers and Fiber Brag Gauges (FBGs), which are commonly used in vibration tests, and piezoelectric sensors (PZT), which are commonly used in SHM using active sensing. Liu et al. [172] proposed a novel sensitivity-based method for determining the minimum number and optimal locations of sensors. The local sensitivity matrix of the recorded outputs to initial states was applied as a measure of observability. The minimum number of sensors was determined, based on the full-column rank of the local sensitivity matrix. The subset of sensors that satisfied the full-rank condition and provided the maximum degree of observability was considered OSP. More details on sensitivity-based methods are provided in [36]."
+    },
+    {
+      "section_title": "Optimization Algorithms",
+      "subsection_title": "Optimization Algorithms (1)",
+      "content": "As introduced in Section 1.1, optimization procedures can be employed to optimize processes in many different disciplines, including civil, mechanical, power, medical, chemical, electrical, electronics, and industrial engineering. Optimization Algorithms (OAs) help reduce the cost and risk of engineering design and operation and are applied to the design of multi-phase reactors, flow systems, SHM systems, neural networks, sensor detection systems, image processing, or manufacturing processes. The concept of optimization can be explained in several ways:"
+    },
+    {
+      "section_title": "Optimization Algorithms",
+      "subsection_title": "Optimization Algorithms (2)",
+      "content": "• Optimization describes and predicts the behavior of a process and is implemented with a mathematical model. •"
+    },
+    {
+      "section_title": "Optimization Algorithms",
+      "subsection_title": "Optimization Algorithms (3)",
+      "content": "Optimization aims to find decision variables that minimize or maximize one or more objectives while satisfying constraints. •"
+    },
+    {
+      "section_title": "Optimization Algorithms",
+      "subsection_title": "Optimization Algorithms (4)",
+      "content": "The choice of the optimization technique and the formulation of the objective functions affect the reliability of optimal solutions. • Optimization can effectively estimate unknown parameters, especially in complex nonlinear processes."
+    },
+    {
+      "section_title": "Optimization Algorithms",
+      "subsection_title": "Optimization Algorithms (5)",
+      "content": "An optimization problem consists of three major components: the objective function, variations, and constraints."
+    },
+    {
+      "section_title": "Global Local",
+      "subsection_title": "Global Local (1)",
+      "content": "Not using Gradient Gradient-based Gradient Heuristic  Global [175,176] -Ability to escape from sub-optimal regions of the search space."
+    },
+    {
+      "section_title": "Global Local",
+      "subsection_title": "Global Local (2)",
+      "content": "-Very low convergence speed, especially in the neighborhood of optimal solutions. -High optimization effort."
+    },
+    {
+      "section_title": "Global Local",
+      "subsection_title": "Global Local (3)",
+      "content": "-Uncertain quality of the optimization results."
+    },
+    {
+      "section_title": "Global Local",
+      "subsection_title": "Global Local (4)",
+      "content": "Over the years, many optimization techniques have been developed, and based on their complexity and efficiency, they can be divided into two main categories:"
+    },
+    {
+      "section_title": "Global Local",
+      "subsection_title": "Global Local (5)",
+      "content": "• Traditional optimization techniques [177]: These algorithms are deterministic algorithms that follow specific rules to move from one solution to another. Many engineering design problems have been successfully solved using these types of optimization, such as the following: geometric programming, dynamic programming, nonlinear programming, generalized reduced gradient method, and quadratic programming, etc. The two general divisions of these methods are as follows:"
+    },
+    {
+      "section_title": "Global Local",
+      "subsection_title": "Global Local (7)",
+      "content": "Derivative algorithms: hill-climbing algorithms, including gradient descent and Newton's method. ."
+    },
+    {
+      "section_title": "Global Local",
+      "subsection_title": "Global Local (8)",
+      "content": "Derivative-free algorithms: trust-region or pattern search methods."
+    },
+    {
+      "section_title": "Global Local",
+      "subsection_title": "Global Local (9)",
+      "content": "Despite the widespread use of traditional optimization methods for mechanical design optimization, these techniques are ineffective across a broad spectrum of problems. This is primarily due to their tendency to find local optimal solutions, which are not suitable for solving multivariate problems. • Advanced optimization techniques [178]: These algorithms are based on stochastic approaches with probabilistic transition rules. Implementing these methods is relatively new and gaining popularity, since they offer properties that deterministic algorithms do not have. These algorithms are also known as metaheuristic algorithms and include the following: differential evolution (DE), evolutionary algorithm (EA), harmony elements algorithm (HEA), genetic algorithm (GA), Hybrid (Hy) algorithm, biogeography-based optimization (BBO), particle swarm optimization (PSO), swarm intelligence (SI) algorithm, artificial immune algorithm (AIA), artificial bee colony (ABC), simulated annealing (SA), differential evolution ( In SHM, optimization algorithms can solve different objective functions and be used for OSP and at each of the four damage identification levels of a structure, i.e., age detection, localization, quantification, and even lifetime prediction. Figure 9 provides a classification overview of the most recent optimization algorithms. To assist in choosing the latest and most suitable optimization algorithm for the design of SHM systems, we summarized the advantaged and disadvantages of each of these methods in Table 13 and compiled a table (Table 14) presenting all optimization algorithms sorted by their year of development. Optimization methodologies used for SHM systems were reviewed by Gomez et al. in [11,179]. Due to the plethora of available optimization algorithms, selecting the most suitable algorithm can be challenging. Several criteria need to be considered in the algorithm selection process, including feature robustness, probability of finding the global optimum, ease of setup, number of function evaluations (speed), and accuracy of the answer. Many researchers developed methods and guidelines for choosing the best optimization method. For example, Rice formalized the algorithm selection problem in [180], where selection mapping is learned from a set of problems containing certain features. The most appropriate algorithm is subsequently selected from the available set of algorithms."
+    },
+    {
+      "section_title": "Global Local",
+      "subsection_title": "Global Local (10)",
+      "content": "In general, algorithms can be selected either based on theoretical or empirical considerations. In the theoretical algorithm comparison, only one function class is considered [181]. In the more common empirical algorithm selection, algorithms are ranked according to their performance, and an automated recommendation of the most appropriate algorithm is based on, for example, a specific function [182] or a set of functions, so-called benchmarks. In regard to benchmark selection, a wealth of literature has been compiled [183], ranging from benchmarks based on mathematical functions to benchmarks based on real-world instances. Nevertheless, the results obtained from a particular benchmark cannot be easily generalized to other problems not included in the benchmark."
+    },
+    {
+      "section_title": "Global Local",
+      "subsection_title": "Global Local (11)",
+      "content": "Numerous comparisons of optimization algorithms have been conducted [184,185]. However, comparing all optimizations correctly and fairly is impossible, since each optimization algorithm is optimized for a particular objective function, i.e., individual optimizations are tailored to specific problems. An algorithm may perform excellently in one kind of problem and perform poorly in another kind of problem. Therefore, the type of objective function is the essential criterion for choosing an optimization algorithm. An overview of articles comparing optimization algorithms is presented in Table 15. Table 13. Advantages, and different types, of optimization algorithms."
+    },
+    {
+      "section_title": "Type Refs. Advantages Disadvantages",
+      "subsection_title": "Type Refs. Advantages Disadvantages (1)",
+      "content": "GA [186,187] -Convergence with low probability to local maxima or minima; -Insensitive to target functions of a specific type; -Possibility of parallel and distributed implementations; -Sensitive to parameters in a string of bits, not values; -Relies on probabilistic transition rules; -Uses objective function information, not derivatives."
+    },
+    {
+      "section_title": "Type Refs. Advantages Disadvantages",
+      "subsection_title": "Type Refs. Advantages Disadvantages (2)",
+      "content": "-Is complex, especially in multi-objective optimization issues; -Long computation time; -Premature convergence may occur due to fitness function coding."
+    },
+    {
+      "section_title": "Type Refs. Advantages Disadvantages",
+      "subsection_title": "Type Refs. Advantages Disadvantages (3)",
+      "content": "PSO [188,189] -Fast convergence, especially in improved PSO (IPSO) models; -Simple implementation and supported platforms; -Time efficient compared to GA; -Practicality in solving multimodal and nonlinear functions; -Improved versions can solve high-dimensional problems."
+    },
+    {
+      "section_title": "Type Refs. Advantages Disadvantages",
+      "subsection_title": "Type Refs. Advantages Disadvantages (4)",
+      "content": "-Effects of high inertial weight on optimal convergence; -Possibility of convergence to a local optimum, especially at large inputs; -Cannot optimize discrete problems; -Inferior to GA in terms of commercialization and maturity."
+    },
+    {
+      "section_title": "Type Refs. Advantages Disadvantages",
+      "subsection_title": "Type Refs. Advantages Disadvantages (5)",
+      "content": "SA [190,191] -Applicable for large, complex, and highly nonlinear optimization; -Has flexibility and guarantees optimal global convergence; -Known as a versatile programming, and complete, algorithm."
+    },
+    {
+      "section_title": "Type Refs. Advantages Disadvantages",
+      "subsection_title": "Type Refs. Advantages Disadvantages (6)",
+      "content": "-Inverse relationship between computational time and solution quality; -Not efficient in smooth and minor optimization problems; -Sensitive to the rate of initial temperature change in its initializations; -High computational cost, especially for large data sets."
+    },
+    {
+      "section_title": "Type Refs. Advantages Disadvantages",
+      "subsection_title": "Type Refs. Advantages Disadvantages (7)",
+      "content": "MILP [192,193] -Simple implementation and supported platforms; -High rate of convergence and low gap percentage compared to heuristic optimization methods; -Guaranteed global optimal convergence; -Ability to formulate, especially for different constraints."
+    },
+    {
+      "section_title": "Type Refs. Advantages Disadvantages",
+      "subsection_title": "Type Refs. Advantages Disadvantages (8)",
+      "content": "-Sensitive to nonlinear system effects; -Low-quality solutions; -No balance between computing time and accuracy; -Sensitive to a large number of binary variables."
+    },
+    {
+      "section_title": "Type Refs. Advantages Disadvantages",
+      "subsection_title": "Type Refs. Advantages Disadvantages (9)",
+      "content": "DE [194,195] -Better performance compared to GA; -Uses a combination of the same population chromosome in the formation of a new generation."
+    },
+    {
+      "section_title": "Type Refs. Advantages Disadvantages",
+      "subsection_title": "Type Refs. Advantages Disadvantages (10)",
+      "content": "-Hardly any chromosomes of the previous generation are carried forward to the next generation. However, better results can be achieved."
+    },
+    {
+      "section_title": "Type Refs. Advantages Disadvantages",
+      "subsection_title": "Type Refs. Advantages Disadvantages (11)",
+      "content": "-Mutation and crossover operations are performed in one process."
+    },
+    {
+      "section_title": "Type Refs. Advantages Disadvantages",
+      "subsection_title": "Type Refs. Advantages Disadvantages (12)",
+      "content": "ABC [196,197] -Self-organizing; -Collective intelligent data; -Few control parameters; -Fast convergence; -Employs both exploration and exploitation -Search space limited by initial solution (normal distribution sample should be used in initialization step); -Abandons poor solutions; -Poor local search ability."
+    },
+    {
+      "section_title": "Type Refs. Advantages Disadvantages",
+      "subsection_title": "Type Refs. Advantages Disadvantages (13)",
+      "content": "ACO [198,199] -Simple implementation; -Derivative free; -Good global convergence properties; -Stable optimal result."
+    },
+    {
+      "section_title": "Type Refs. Advantages Disadvantages",
+      "subsection_title": "Type Refs. Advantages Disadvantages (14)",
+      "content": "-Uncertain convergence time; -Low computational performance and accuracy of the original ACO."
+    },
+    {
+      "section_title": "Type Refs. Advantages Disadvantages",
+      "subsection_title": "Type Refs. Advantages Disadvantages (15)",
+      "content": "MA [200,201] -Able to search globally; -Able to efficiently search locally; -Generates optimal solutions with a higher level of stability."
+    },
+    {
+      "section_title": "Type Refs. Advantages Disadvantages",
+      "subsection_title": "Type Refs. Advantages Disadvantages (16)",
+      "content": "-Originally designed for problems with continuous variables."
+    },
+    {
+      "section_title": "Type Refs. Advantages Disadvantages",
+      "subsection_title": "Type Refs. Advantages Disadvantages (17)",
+      "content": "TS [202,203] -Quick convergence; -Flexible algorithm; -Good-quality solutions are provided by the algorithm; -Secondary designs are provided by the algorithm."
+    },
+    {
+      "section_title": "Type Refs. Advantages Disadvantages",
+      "subsection_title": "Type Refs. Advantages Disadvantages (18)",
+      "content": "-Some algorithm parameters need adjustments to find a good solution; -Penalty parameters must be used to satisfy the mathematical model's constraints; -Re-running the algorithm could change the obtained design."
+    },
+    {
+      "section_title": "Ref. Year Optimization Algorithms Description",
+      "subsection_title": "Ref. Year Optimization Algorithms Description (2)",
+      "content": "Discrete Armijo gradient algorithm, GA, PSO, and Hooke-Jeeves algorithm,"
+    },
+    {
+      "section_title": "Ref. Year Optimization Algorithms Description",
+      "subsection_title": "Ref. Year Optimization Algorithms Description (3)",
+      "content": "Based on the results of this study, it was revealed that the biggest cost reduction is achieved by combining particle swarms and Hooke-Jeeves algorithms. Additionally, it was shown that a simple GA is an excellent choice if a user is willing to accept a slight reduction in accuracy for the benefit of fewer simulations."
+    },
+    {
+      "section_title": "Ref. Year Optimization Algorithms Description",
+      "subsection_title": "Ref. Year Optimization Algorithms Description (4)",
+      "content": "Hassan et al. [205] 2005 PSO and GA"
+    },
+    {
+      "section_title": "Ref. Year Optimization Algorithms Description",
+      "subsection_title": "Ref. Year Optimization Algorithms Description (5)",
+      "content": "The results revealed that both PSO and GA produced high-quality solutions, with quality indices of more than 99% confidence levels. However, the computational effort required to reach such high-quality solutions by PSO was lower than the computational effort required by GA."
+    },
+    {
+      "section_title": "Ref. Year Optimization Algorithms Description",
+      "subsection_title": "Ref. Year Optimization Algorithms Description (6)",
+      "content": "Bandyopadhyay et al. [206] 2008 AMOSA, NSGA-II, and PAES"
+    },
+    {
+      "section_title": "Ref. Year Optimization Algorithms Description",
+      "subsection_title": "Ref. Year Optimization Algorithms Description (7)",
+      "content": "In the study, SA-based multi-objective optimization algorithm (AMOSA) performed better in most cases than MOSA or non-dominated sorting GA II (NSGA-II), while Pareto archived evolution strategy (PAES) performed poorly in most cases. In complex cases, AMOSA was less time-consuming than NSGA-II. Further, AMOSA performed much better than NSGA-II regarding problems with multiple objectives."
+    },
+    {
+      "section_title": "Ref. Year Optimization Algorithms Description",
+      "subsection_title": "Ref. Year Optimization Algorithms Description",
+      "content": "Hamdy et al. [209]  The optimization problem for OSP strategies is defined with the sensor locations being the discrete optimization variables (parameters), while the constraint is usually the number of sensors. The objective function is then minimized or maximized based on the dynamic characteristics of the structural system. Optimization methodologies used for OSP systems are reviewed in [35,36]. In the following sections, we present four popular optimization techniques used in OSP and SHM systems, including biologybased algorithms, geography-based algorithms, physics-based algorithms, and sequential placement algorithms. Figure 10 shows the percentage of use of each optimization algorithm in SHM (according to a keyword search on Google Scholar on 20 February 2023). As it turns out, biology-based algorithms are much more common."
+    },
+    {
+      "section_title": "Biology-Based Algorithms",
+      "subsection_title": "Biology-Based Algorithms (1)",
+      "content": "Biology-based, or bioinspired, optimization algorithms are called memetic algorithms, due to their analogy with biological evolution and activity. The algorithms can be subdivided into two categories: trajectory-based algorithms and population-based algorithms. Population-based algorithms are also referred to as evolutionary algorithms (EAs). EAs are search methods that mimic biological evolution processes and species' social behaviors. The subsequent generation surpasses the parents of algorithms through learning, evaluation, and adaptation. Among them, GA and its variations are the most common algorithms."
+    },
+    {
+      "section_title": "Biology-Based Algorithms",
+      "subsection_title": "Biology-Based Algorithms (2)",
+      "content": "Various biological processes, in regard to the collective behavior of animals and natural evolution, have inspired the development of biology-based algorithms. These methods can be classified into two groups: swarm-based algorithms and evolution-based algorithms. Several evolutionary algorithms have been developed, including DE, GA, evolutionary strategies, cultural evolution, and genetic programming. This article divides these methods into four main groups: (I) ecology-based, (II) evolutionary-based, (III) swarm intelligence-based, and (IV) multi-objective algorithms. An overview of the classification of biology-based algorithms is presented in Figure 11."
+    },
+    {
+      "section_title": "Invasive Weed Optimization",
+      "subsection_title": "Invasive Weed Optimization",
+      "content": "Ecology-based  Figure 11. Classification of biology-based algorithms."
+    },
+    {
+      "section_title": "Genetic Algorithm (GA)",
+      "subsection_title": "Genetic Algorithm (GA) (1)",
+      "content": "GA is based on Darwin's theory of selection and evolution [213]. The features used in this optimization are genes, chromosomes, and population. A gene is an individual characterized by a set of parameters (variables). A chromosome is formed by joining genes into a string (solution). A population is composed of individuals who are the starting point of the process."
+    },
+    {
+      "section_title": "Genetic Algorithm (GA)",
+      "subsection_title": "Genetic Algorithm (GA) (2)",
+      "content": "GA involves four main operations, e.g., encoding, selection, crossover, and mutation, as described below: Mutations include displacement mutation, inversion mutation, scramble mutation, big flipping mutation, and reversing mutation. • Crossover: During mating, a crossover point is randomly selected between each pair of parents. Crossover methods include K-point crossover, single-point crossover, partially mapped crossover, uniform crossover, order crossover, precedence preserving crossover, shuffle crossover, reduced surrogate crossover, and cycle crossover."
+    },
+    {
+      "section_title": "Genetic Algorithm (GA)",
+      "subsection_title": "Genetic Algorithm (GA) (3)",
+      "content": "A step-by-step guide to implementing GA is provided below:"
+    },
+    {
+      "section_title": "Differential Evolution (DE) Algorithm",
+      "subsection_title": "Differential Evolution (DE) Algorithm (1)",
+      "content": "DE is a population-based metaheuristic search algorithm that iteratively improves a candidate solution based on an evolutionary process. This algorithm was first presented by Storn and Price [219] in 1997. There are three real control parameters in this optimization algorithm: (1) crossover constant C r , (2) differentiation constant F, and (3) population size. Other parameters include:"
+    },
+    {
+      "section_title": "Differential Evolution (DE) Algorithm",
+      "subsection_title": "Differential Evolution (DE) Algorithm (2)",
+      "content": "• stopping criteria that determine the maximum number of generations G (or iterations), • the dimensions of problem S that scales the difficulty of optimization, • the boundaries that limit the feasible area X m in and X m ax."
+    },
+    {
+      "section_title": "Differential Evolution (DE) Algorithm",
+      "subsection_title": "Differential Evolution (DE) Algorithm (3)",
+      "content": "In DE, the initial solution to the problem is generated as a set of random populations. A mutant vector v i,m is derived from three randomly selected target vectors. The mathematical representation of this process is:"
+    },
+    {
+      "section_title": "Differential Evolution (DE) Algorithm",
+      "subsection_title": "Differential Evolution (DE) Algorithm (4)",
+      "content": "The step-by-step procedure of DE is presented below:"
+    },
+    {
+      "section_title": "Differential Evolution (DE) Algorithm",
+      "subsection_title": "Differential Evolution (DE) Algorithm (6)",
+      "content": "Step 1: Set up the DE parameters that are required for the algorithm. •"
+    },
+    {
+      "section_title": "Differential Evolution (DE) Algorithm",
+      "subsection_title": "Differential Evolution (DE) Algorithm (7)",
+      "content": "Step 2: Create a random population of the specified size. •"
+    },
+    {
+      "section_title": "Differential Evolution (DE) Algorithm",
+      "subsection_title": "Differential Evolution (DE) Algorithm (8)",
+      "content": "Step 3: Calculate the objective function for all solutions. •"
+    },
+    {
+      "section_title": "Differential Evolution (DE) Algorithm",
+      "subsection_title": "Differential Evolution (DE) Algorithm (9)",
+      "content": "Step 4: Select three different target vectors. •"
+    },
+    {
+      "section_title": "Differential Evolution (DE) Algorithm",
+      "subsection_title": "Differential Evolution (DE) Algorithm (10)",
+      "content": "Step 5: Determine the trial vector using the crossover constant. •"
+    },
+    {
+      "section_title": "Differential Evolution (DE) Algorithm",
+      "subsection_title": "Differential Evolution (DE) Algorithm (11)",
+      "content": "Step 6: Choose a vector between the trial and target vectors. •"
+    },
+    {
+      "section_title": "Differential Evolution (DE) Algorithm",
+      "subsection_title": "Differential Evolution (DE) Algorithm (12)",
+      "content": "Step 7: Repeat procedures 3 to 6 until the specified number of generations is reached. Figure 13 presents the flowchart of the DE algorithm, and Algorithm 2 provides the pseudo-code using coding terminology to assist the reader in understanding the process. The advantages and disadvantages of the DE algorithm are also summarized in Table 13. Generate a random index J r ∈ {1, 2, ..., d} by permutation 8: Generate a randomly distributed number r i ∈ [0, 1] 9: end for 10: for j = 1tod do 11: For each parameter ν i,j (jth component of ν i ), update 12:"
+    },
+    {
+      "section_title": "Differential Evolution (DE) Algorithm",
+      "subsection_title": "Differential Evolution (DE) Algorithm (13)",
+      "content": "if r i C r or j = J r x t i,j if r i > C r and j = J r , 13: end for 14: select and update the solution 15: end while DE algorithms have been studied to solve SHM and OSP problems. As such, Kim et al. [220] proposed an efficient technique for determining multiple damage locations and severity in truss structures based on the DE algorithm and vibration data. Natural frequencies and mode shapes were used to formulate the objective function. Three numerical examples of planar and space truss structures were examined to verify the effectiveness and practicality of this application. The DE-based method proved reliable for determining multiple damage conditions by comparing the proposed method with a GA approach."
+    },
+    {
+      "section_title": "Differential Evolution (DE) Algorithm",
+      "subsection_title": "Differential Evolution (DE) Algorithm (14)",
+      "content": "Recently, a sine-cosine algorithm was investigated as a potential meta-heuristic method for structural damage detection. Bureerat and Pholdee [221] proposed integrating the algorithm's leading reproduction operators with the mutation operator of DE to design a self-adaptive algorithm. Combined with the differential evolution (ASCA-DE) algorithm, this adaptive sine-cosine algorithm performed better than some established meta-heuristics. A nonlinear optimization problem was proposed by Guedria et al. [222] based on an accelerated DE (ADE) algorithm for detecting and quantifying damage in plate-like structures. An objective function was established by altering the flexibility matrix of the structure with a penalty function that prevents false alarm detection. In the new ADE algorithm, three modifications were introduced to the standard DE algorithm, as follows:"
+    },
+    {
+      "section_title": "Differential Evolution (DE) Algorithm",
+      "subsection_title": "Differential Evolution (DE) Algorithm (15)",
+      "content": "(i) The initial population of a structure was generated using its damage scenario. (ii) During the mutation process, a new difference vector was generated, based on the dispersion of individuals through the search space, to automatically balance local and global searching. (iii) A new exchange operator was designed to avoid the untimely convergence of local optima."
+    },
+    {
+      "section_title": "Differential Evolution (DE) Algorithm",
+      "subsection_title": "Differential Evolution (DE) Algorithm (16)",
+      "content": "The ADE method was validated in terms of solution accuracy and computational cost, as well as its ability to locate and assess damage even when the data was contaminated with noise."
+    },
+    {
+      "section_title": "Differential Evolution (DE) Algorithm",
+      "subsection_title": "Differential Evolution (DE) Algorithm (17)",
+      "content": "Using an improved DE algorithm, Seok et al. [223] proposed a sensor deployment method for radio frequency identification (RFID) sensor networks for mobile robot localization. For surveillance and security, this study suggested two optimization strategies: direct optimization, which optimizes initial information intuitively, and full coverage optimization, which optimizes dense coverage. Experimental results showed that guided parameter settings resulted in better sensor deployment. In addition, the complete coverage optimization strategy also yielded excellent results based on guidelines from the standard DE algorithm."
+    },
+    {
+      "section_title": "Differential Evolution (DE) Algorithm",
+      "subsection_title": "Differential Evolution (DE) Algorithm (18)",
+      "content": "Localization of sensor networks based on connectivity can be modeled as a nonconvex optimization problem. In current models, only convex constraints are considered, i.e., connections between the nodes. An algorithm based on heuristics and a modified DE algorithm was proposed by Qiao et al. [224] in the context of unknown communication ranges. The algorithm included a new crossover procedure to create a new generation of individuals/candidates. A \"single node treatment\" procedure was developed as part of the search procedure to construct a new set of location coordinates to jump out from the local minimum. Compared to other convex-constraint methods, the results indicated that better solutions could be achieved with the new method."
+    },
+    {
+      "section_title": "Differential Evolution (DE) Algorithm",
+      "subsection_title": "Differential Evolution (DE) Algorithm (19)",
+      "content": "Wireless sensor networks (WSNs) with 3D directional sensor nodes are becoming increasingly popular in real-life applications, motivating research that optimizes sensor deployment. In [225], Cao et al. devised an optimization strategy for 3D directional WSNs by considering coverage, sensor node connectivity, lifetime, cluster header connectivity, and reliability. Based on a cooperative coevolutionary framework, a modified DE algorithm was proposed, based on crossover rate sort and polynomial-based mutation. Experimental results revealed the improved performance of the modified algorithm regarding optimization results and operation time."
+    },
+    {
+      "section_title": "Particle Swarm Optimization (PSO) Algorithm",
+      "subsection_title": "Particle Swarm Optimization (PSO) Algorithm",
+      "content": "In 1995, Kennedy and Eberhart proposed an evolutionary computation method called PSO [189]. In this algorithm, every solution is considered a bird flock particle. Accordingly, in addition to individual intelligence, the birds show extended social behaviors and coordinate their movement to a specific goal. Initially, random positions and velocities are assumed for each particle in the search space. To find the optimal solution, the position and velocity of each particle are updated, based on three main factors:"
+    },
+    {
+      "section_title": "1.",
+      "subsection_title": "1.",
+      "content": "P B est (best position): the best position of an individual particle."
+    },
+    {
+      "section_title": "2.",
+      "subsection_title": "2.",
+      "content": "G B est (global best position [Global-PSO]): the position of each particle is influenced by the best-fit particle in the entire swarm."
+    },
+    {
+      "section_title": "3.",
+      "subsection_title": "3. (1)",
+      "content": "L B est (local best position [Local-PSO]): the position of each particle is influenced by the best-fit particle chosen from its immediate neighbors."
+    },
+    {
+      "section_title": "3.",
+      "subsection_title": "3. (2)",
+      "content": "To find the best solution through iterations, the process begins by randomly generating a swarm of particles. The positions of the i th particle in an S-dimensional search space provide a candidate solution for the optimization, where S is defined as the number of variables involved in the optimization problem. The i th particle is calculated numerically using the following three vectors:"
+    },
+    {
+      "section_title": "3.",
+      "subsection_title": "3. (3)",
+      "content": ". . , v is )."
+    },
+    {
+      "section_title": "3.",
+      "subsection_title": "3. (4)",
+      "content": "A particle moves to a new position during the search process finding P best in each iteration. The neighbors of ((L best )) are considered as best solutions, where P best = (p best,i1 p best,i1 . . . p best,is ), L best = (l best,i1 l best,i1 . . . l best,is )"
+    },
+    {
+      "section_title": "3.",
+      "subsection_title": "3. (5)",
+      "content": "The velocity and position of each particle are updated using the following equations:"
+    },
+    {
+      "section_title": "3.",
+      "subsection_title": "3. (6)",
+      "content": "x t+1 ij = x t ij + v t ij , ∀i ∈ P , and ∀j ∈ S"
+    },
+    {
+      "section_title": "3.",
+      "subsection_title": "3. (7)",
+      "content": "The parameters r 1 and r 2 , in Equation (12), are two independent random numbers between 0 and 1. c 1 and c 2 are two positive constants named learning rates or factors. w is a factor of inertial weight at tth iteration to control the impact and calculated as"
+    },
+    {
+      "section_title": "3.",
+      "subsection_title": "3. (8)",
+      "content": "where w min and w max are defined, respectively, as the initial inertial and final weight. t and t max are the current iteration number and the maximum number of iterations. The velocity of the particles is an important factor that defines the resolution. Therefore, the velocity of each particle is usually limited between the range"
+    },
+    {
+      "section_title": "3.",
+      "subsection_title": "3. (9)",
+      "content": "where x max and x min denote the dynamic range of the variable in each dimension. The algorithm terminates after satisfying the convergence criteria or reaching the maximum number of iterations. A step-by-step explanation of PSO is provided below:"
+    },
+    {
+      "section_title": "Physics-Based Algorithms",
+      "subsection_title": "Physics-Based Algorithms (1)",
+      "content": "Physics-based algorithms are heuristic algorithms that mimic matter's physical properties or physical behavior. These algorithms include Simulated Annealing (SA), Gravitational Search Algorithm (GSA), Electromagnetism-Like Algorithm (EMA), Particle Collision Algorithm (PCA), and Gravitation Field Algorithm (GFA). Below, SA is discussed in more detail. The reader is referred to [239][240][241] for a comprehensive overview of other physics-inspired optimization techniques."
+    },
+    {
+      "section_title": "Physics-Based Algorithms",
+      "subsection_title": "Physics-Based Algorithms (2)",
+      "content": "SA is a stochastic global search optimization algorithm inspired by annealing mechanisms in metallurgy. In the 1980s, SA significantly impacted the field of heuristic search for its simplicity and efficiency in solving combinatorial optimization problems. SA algorithms are based on the studies of Metropolis et al. [242] and Kirkpatrick et al. [243], who proposed an optimization process that simulates the thermodynamic physics of metal cooling and annealing [244]. Perturbation operators drive annealing in the iteration process. Every variable is perturbed randomly during the SA iteration. The operator uses direction cosines for each variable to generate a random direction. By using constraints, the search domain is kept within iterations until the best solution is found. A flowchart of SA is presented in Figure 15. The advantages and disadvantages of the algorithm are summarized in Table 13."
+    },
+    {
+      "section_title": "Physics-Based Algorithms",
+      "subsection_title": "Physics-Based Algorithms (3)",
+      "content": "Applications of SA are numerous, and include SHM and OSP applications. As such, He et al. [245] developed an algorithm combining an adaptive real-parameter GA with SA to detect damage in beam-type structures. The finite element software ANSYS was used to obtain natural frequencies and static displacements. The proposed algorithm effectively identified flexural stiffness damage in beam-type systems in noise-free and noisy conditions."
+    },
+    {
+      "section_title": "Physics-Based Algorithms",
+      "subsection_title": "Physics-Based Algorithms (4)",
+      "content": "An innovative method to detect damage in a self-anchored suspension bridge was introduced in [246]. Here, a BP neural network was first constructed to estimate the damage locations. Then, a genetic-SA algorithm was proposed using the characteristics of GA and SA algorithms to identify the locations and extent of the damage. The new algorithm achieved an improved global convergence effect over traditional GA by incorporating the Metropolis acceptance rule of the SA algorithm."
+    },
+    {
+      "section_title": "Physics-Based Algorithms",
+      "subsection_title": "Physics-Based Algorithms (5)",
+      "content": "In [247], Zimmerman et al. proposed an innovative parallelization of the SA stochastic search algorithm to compare model predictions with experimental results and used this algorithm to update structural models. A three-story steel structure, subjected to seismic base motion, was tested using the resulting distributed model updating algorithm within a network of wireless sensors. An improved SA algorithm was presented by Tong et al. [248] to solve a sensor placement problem. The algorithm was developed using the coordinate system of the sensor location to enable further dimension searching while minimizing computational efforts in SA's random search. According to the results, the proposed method outperformed conventional SA and GA in the search for the optimal placement of sensors."
+    },
+    {
+      "section_title": "Physics-Based Algorithms",
+      "subsection_title": "Physics-Based Algorithms (6)",
+      "content": "As reported in [249], a robust OSP framework was proposed by Nasr et al. by combining an optimization-based algorithm, SA, and ensemble Kalman filter (EnKF). The difference between the actual measured data and its corresponding EnKF predictions was used as an objective function. A comparison was conducted between the results and the optimal sensor locations determined by a brute-force search method."
+    },
+    {
+      "section_title": "Physics-Based Algorithms",
+      "subsection_title": "Physics-Based Algorithms (7)",
+      "content": "The SA method was further used in conjunction with artificial neural networks (ANNs) to predict the response of reinforced concrete (RC) shear walls [250]. For system identification, Jeong et al. [251] proposed an efficient hybrid algorithm, named ASAGA (Adaptive Simulated Annealing Genetic Algorithm)."
+    },
+    {
+      "section_title": "Sequential Sensor Placement Algorithms",
+      "subsection_title": "Sequential Sensor Placement Algorithms (1)",
+      "content": "In general, meta-heuristic algorithms use low computational power but require a long time to reach an optimal solution. Hence, they are designed to find a solution that is \"good enough\" in a time that is \"small enough\". Likewise, sequential sensor placement (SSP) algorithms are computationally efficient but may require a long time to determine the true global optimum from the obtained solution. Iterative algorithms, such as SSP, optimize error functions by adding or removing a subset of candidates in each iteration. In cases where the candidates are sequentially removed, the algorithms are termed backward sequential sensor placement (BSSP), while in cases where they are added, they are termed forward sequential sensor placement (FSSP) [256]."
+    },
+    {
+      "section_title": "Sequential Sensor Placement Algorithms",
+      "subsection_title": "Sequential Sensor Placement Algorithms (2)",
+      "content": "Several works in the area of OSP in SHM are based on SSP algorithms. For instance, a novel relaxation sequential (RS) algorithm was proposed by Yin et al. [257] to address the considerable tension in the optimal sensor placement solution obtained by the sequential algorithm. Here, the sequential algorithm was modified to incorporate Dijkstra's edge relaxation algorithm. Using the sequential algorithm, an initial solution set was generated, which relaxation improved until the relaxation operation terminated. As an error function, the MAC was used in this algorithm. According to the results, the RS algorithm derived a solution with fewer sensors and could reach higher maximum off-diagonal elements in the MAC matrix."
+    },
+    {
+      "section_title": "Sequential Sensor Placement Algorithms",
+      "subsection_title": "Sequential Sensor Placement Algorithms (3)",
+      "content": "In [258], Lam et al. developed an enhanced sequential sensor placement (ESSP) algorithm to address computational bottlenecks in candidate configurations with many DOFs. A minimum sensor interval and spatially corrected prediction errors were considered to address sensor redundancy in finely meshing models. Compared with conventional methods, the proposed method achieved superior sensor configurations."
+    },
+    {
+      "section_title": "Sequential Sensor Placement Algorithms",
+      "subsection_title": "Sequential Sensor Placement Algorithms (4)",
+      "content": "While SSP methodologies are computationally efficient, since they have a deterministic number of computations, multi-objective optimization cannot easily be implemented. Due to this limitation, as well as the increase in available computing power, SSP algorithms have become obsolete. For real-world applications, all subsequent meta-heuristic algorithms outperformed SSP algorithms. The purpose of optimization algorithms is to achieve the most optimal results. According to the \"no free lunch\" theorem [259], the results of all optimization technique overall class problems are similar. Performance improvements for one class of problems results in performance drops for other types."
+    },
+    {
+      "section_title": "Other Optimization Methodologies",
+      "subsection_title": "Other Optimization Methodologies (1)",
+      "content": "In addition to the optimization methodologies presented above, researchers developed and employed various other techniques to detect damage and find optimized sensor configurations. For instance, an optimization strategy called Snobfit [260] was designed by Guratzsch [19] to optimize noisy objective functions under bound constraints. In [261], a novel approach to detecting damage to trusses, space frames, and plate structures was presented by combining Bayesian data fusion with teaching-learning-based optimization (TLBO) algorithms. The Kalman filter algorithm [262], which estimates state vectors and the variances of errors, was utilized in combination with sequential placement strategies for addressing OSP problems in [263]. In [264], a forward sub-structuring approach, modal strain energy, and the enhanced bat algorithm (EBA) were utilized in an effective threestage method for detecting damage in large-scale space structures. Additionally, a variety of other methodologies are also available for OSP, such as the following: energy-efficient sensor deployment [265], backup sensor-based fault-tolerance SHM method [266], mixed variable pattern search algorithm [267], frequency domain-based OSP technique [268], three-phase sensor placement approach [269], Gram-Schmidt orthogonalization procedure [270], e-Estimator algorithms [271], and wave propagation-based local interaction simulation approach [272]. SHM problems can also be analyzed using other computational methodologies, including the guided water strider algorithm [273], grasshopper optimization algorithm (GOA) [274], improved imperialist competitive algorithm [275], atom search algorithm (ASO) [276], equilibrium optimizer algorithm [277], grey wolf optimizer algorithm [278], balancing composite motion optimization [279], Q-learning evolutionary algorithm [280], Kriging-particle swarm optimization algorithm [281], and topology optimization [282]. More details of these methodologies can be found in the associated studies."
+    },
+    {
+      "section_title": "Other Optimization Methodologies",
+      "subsection_title": "Other Optimization Methodologies (2)",
+      "content": "As mentioned earlier, optimization algorithms are widely used in OSP and at all levels of SHM. To provide an overview of optimization algorithm applications in these fields, the authors extensively reviewed related articles in Table 17. Tables 18 and 19 provide an overview of the application of optimization algorithms in OSP and SHM methods, respectively. In these two tables, optimization algorithms and corresponding objective functions are listed.     Yang et al. [51] 2022"
+    },
+    {
+      "section_title": "Mode shape and stiffness",
+      "subsection_title": "Mode shape and stiffness (1)",
+      "content": "Vo-Duy et al. [333] 2016 Multi-stage"
+    },
+    {
+      "section_title": "Mode shape and stiffness",
+      "subsection_title": "Mode shape and stiffness (2)",
+      "content": "Mode shape"
+    },
+    {
+      "section_title": "Mode shape and stiffness",
+      "subsection_title": "Mode shape and stiffness (3)",
+      "content": "Gomes et al. [334] 2016 Multi-stage Composite material A and E J ="
+    },
+    {
+      "section_title": "Natural frequency and acceleration",
+      "subsection_title": "Natural frequency and acceleration",
+      "content": "Gui et al. [335] 2017 One-stage Frame aluminum structure E and A"
+    },
+    {
+      "section_title": "Using Optimization Algorithms in Artificial Intelligence",
+      "subsection_title": "Using Optimization Algorithms in Artificial Intelligence (1)",
+      "content": "Optimization algorithms are further used in AI technologies, such as ANN [337], ML [338], and DL [339], to optimize and automatically improve the learning. As such, a neural network optimizer changes attributes of the network, such as weights and learning rate, to reduce losses. The first step in solving a neural network problem is to define a loss function. Optimization algorithms and strategies are used to minimize losses to provide the most accurate results. Different types of optimizers to reduce the loss function include the following: gradient descent, stochastic gradient descent (SGD), mini-batch stochastic gradient descent (MB-SGD), SGD with momentum, Nesterov accelerated gradient (NAG), adaptive gradient (AdaGrad), AdaDelta, RMSprop, and Adam."
+    },
+    {
+      "section_title": "Using Optimization Algorithms in Artificial Intelligence",
+      "subsection_title": "Using Optimization Algorithms in Artificial Intelligence (2)",
+      "content": "Much research has recently focused on combining AI and OA for structural damage detection and optimized sensor placement. A novel technique for training ANNs in detecting laminated composite structural damages was proposed by Tran-Ngoc et al. [64] using gradient descent (GD) techniques and a global search capacity of EAs. Further, the researchers proposed a hybrid metaheuristic optimization algorithm (HGACS) to enhance global search efficiency by combining the advantages of GA and Cuckoo Search. For SHM of laminated composite plates, Shirazi et al. [66] developed a new hybrid YUKI-ANN. A modified ANN was used to predict damage levels using four optimization algorithms: Balancing Composite Motion Optimization (BCMO), Arithmetic Optimizing Algorithm (AOA), PSO, and YUKI algorithm. The study revealed superior YUKI algorithm (YA) results compared to the AOA, PSO, and BCMO algorithms. In [340], a flexible combination of an ANN and a Cuckoo Search (CS) algorithm was used to detect structural damage. ANNs used CS to improve the training parameters (weight and bias) by minimizing the difference between the actual and desired outputs. The authors in [341] addressed the application of the ANN-enhanced Jaya algorithm (ANN-E JAYA) in predicting tensile load reduction as a function of crack lengths from an extended FEM (XFEM)."
+    },
+    {
+      "section_title": "Using Optimization Algorithms in Artificial Intelligence",
+      "subsection_title": "Using Optimization Algorithms in Artificial Intelligence (3)",
+      "content": "Recently, Lan et al. [342] developed an Optimized AdaBoost-Linear SVM approach to predict bridge damage based on raw vibrational signals from passing vehicles. In this paper, an optimizing algorithm was designed to modify its configuration to make Linear SVM an effective component learner in AdaBoost. The authors in Yu et al. [343] proposed a hybrid framework for structural damage diagnosis based on principal component analysis (PCA), deep stacked autoencoders (DSAE), and data fusion. To improve the diagnosis model, the authors optimized the meta-parameters of DSAE using the enhanced whale optimization algorithm (EWOA), which included the dropout parameter, the weight decay coefficient, the learning rate, and the hidden layer neuron numbers. An example of ANN techniques applying optimization algorithms to detect composite damage can be found in [344]. The results in this paper showed how recent optimization techniques have been used to calibrate the influential parameters during the training of ANN, including Jaya, Whale Optimization Algorithm (WOA), enhanced Jaya (E-Jaya), and Arithmetic Optimization Algorithm (AOA)."
+    },
+    {
+      "section_title": "Conclusions",
+      "subsection_title": "Conclusions",
+      "content": "This study systematically reviewed the application of optimization algorithms (OAs) for structural health monitoring (SHM) and optimal sensor placement (OSP). The integration of optimization methodologies for monitoring strategies is essential for the design of cost-effective and reliable systems. The paper provided a comprehensive overview of current SHM and OSP techniques. It included problem definitions and critical discussions on the advantages and disadvantages of the principal methodologies and suitable applications. The state-of-the-art optimization algorithms were presented, including biology-based algorithms, physics-based algorithms, geography-based algorithms, and sequential placement algorithms. Since evolutionary algorithms outperform other methods when addressing combinational methodologies, such as OSP, the most widely used evolutionary algorithms, and their most recently improved variants were summarized. Using machine learning algorithms in SHM and OSP is an emerging technology with many advantages over traditional approaches. As a final note, the study discussed the suitability of computational methods for specific OSP and SHM applications, where evolutionary algorithms are used more commonly. Numerous summary tables were provided as a guide for the reader to solve SHM and OSP problems using the most suitable optimization methodology."
+    }
+  ]
+}

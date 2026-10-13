@@ -68,4 +68,4 @@ paired = {
 
 The full CiteSpectrum study analyzes **550 papers and 78,016 citation events**. Its survey subset has **450 unique papers and 73,586 citation events**; its method subset has 100 papers and 4,430 citation events. This release distributes the survey subset's text at hop 0.
 
-See Section 3 and Appendix C of the [paper](../docs/paper.pdf) for the study design, corpus construction, and statistics.
+See Section 3 and Appendix C of the paper for the study design, corpus construction, and statistics.

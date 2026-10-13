@@ -12,13 +12,12 @@
 
 <p>
 <img src="https://img.shields.io/badge/EMNLP_2026-Oral-6D4BC3?style=flat-square" alt="EMNLP 2026 Oral">
-<a href="docs/paper.pdf"><img src="https://img.shields.io/badge/Paper-PDF-BD4B52?style=flat-square" alt="Read the paper"></a>
 <a href="data/0hop"><img src="https://img.shields.io/badge/Dataset-450_surveys-287B74?style=flat-square" alt="450 unique surveys"></a>
 <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache_2.0-476C9B?style=flat-square" alt="Apache 2.0 license"></a>
 </p>
 
 <p>
-<a href="docs/paper.pdf"><b>Paper</b></a> &nbsp;·&nbsp;
+<b>Paper</b> &nbsp;·&nbsp;
 <a href="data/0hop"><b>Browse data</b></a> &nbsp;·&nbsp;
 <a href="https://github.com/DISL-Lab/CiteSpectrum/archive/refs/heads/main.zip"><b>Download</b></a> &nbsp;·&nbsp;
 <a href="#quick-start"><b>Quick start</b></a>
@@ -73,8 +72,8 @@ We organize **11 citation-behavior feature groups** along three complementary di
 
 <table>
 <tr>
-<td width="50%" align="center"><a href="assets/fidelity.pdf"><img src="assets/fidelity.svg" alt="Citation fidelity: evidence grounding and evidence provenance across writing conditions" width="100%"></a><br><sub><b>Fidelity:</b> stronger guidance improves grounding.</sub></td>
-<td width="50%" align="center"><a href="assets/usage.pdf"><img src="assets/usage.svg" alt="Citation usage: purpose and stance distributions across writing conditions" width="100%"></a><br><sub><b>Usage:</b> human prose changes how evidence is used.</sub></td>
+<td width="50%" align="center" valign="top"><a href="assets/fidelity.pdf"><img src="assets/fidelity.svg" alt="Citation fidelity: evidence grounding and evidence provenance across writing conditions" width="100%"></a><br><sub><b>Fidelity:</b> stronger guidance improves grounding.</sub></td>
+<td width="50%" align="center" valign="top"><a href="assets/usage.pdf"><img src="assets/usage.svg" alt="Citation usage: purpose and stance distributions across writing conditions" width="100%"></a><br><sub><b>Usage:</b> human prose changes how evidence is used.</sub></td>
 </tr>
 </table>
 
@@ -96,7 +95,7 @@ A lightweight **Citation-MLP** uses citation behavior to distinguish AI-involved
 | Llama-3.2-3B | 0.793 | 0.792 | 0.924 |
 | **Citation-MLP (Ours)** | **0.880** | **0.876** | **0.944** |
 
-Results are from Table 4 of the [paper](docs/paper.pdf), using domain-balanced five-fold cross-validation on 350 AI-generated and 100 human-authored papers. This detection split combines survey and method papers; the release below contains the **0-hop survey subset**.
+Results are from Table 4 of the paper, using domain-balanced five-fold cross-validation on 350 AI-generated and 100 human-authored papers. This detection split combines survey and method papers; the release below contains the **0-hop survey subset**.
 
 ## Released data
 
@@ -108,7 +107,7 @@ The release contains **survey text at hop 0**: the focal survey's title, section
 | Qwen3-Next-80B surveys across all five conditions | [`data/0hop/qwen80b/`](data/0hop/qwen80b) |
 | Model, condition, source ID, file path, and checksum for every survey | [`data/0hop/manifest.json`](data/0hop/manifest.json) |
 | Data format and pairing guide | [`data/README.md`](data/README.md) |
-| Full paper | [`docs/paper.pdf`](docs/paper.pdf) |
+| Paper | — |
 
 The full study covers **550 papers and 78,016 citation events**, including the survey and method subsets. This repository releases the **450-survey text subset**. See Appendix C of the paper for the full study's corpus construction and statistics.
 
@@ -165,8 +164,6 @@ CiteSpectrum/
 ├── README.md
 ├── LICENSE
 ├── assets/                    # High-resolution figures and vector PDFs
-├── docs/
-│   └── paper.pdf
 └── data/
     ├── README.md
     └── 0hop/

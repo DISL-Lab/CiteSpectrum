@@ -6,13 +6,9 @@
 
 <p><b>Tracing how AI uses scientific evidence, from model-only writing to human authorship.</b></p>
 
-<p>
-Jihwan Oh<sup>*</sup> &nbsp;·&nbsp; Gyeonghun Sun<sup>*</sup> &nbsp;·&nbsp; Jisoo Kim &nbsp;·&nbsp; Yuho Lee<br>
-Taewon Yun &nbsp;·&nbsp; Jisu Shin &nbsp;·&nbsp; Hwanjun Song<sup>†</sup>
-</p>
+<p>Jihwan Oh &nbsp;·&nbsp; Gyeonghun Sun &nbsp;·&nbsp; Jisoo Kim &nbsp;·&nbsp; Yuho Lee &nbsp;·&nbsp; Taewon Yun &nbsp;·&nbsp; Jisu Shin &nbsp;·&nbsp; Hwanjun Song</p>
 
-<p>Korea Advanced Institute of Science and Technology (KAIST) &nbsp;·&nbsp; Cluvion<br>
-<sub><sup>*</sup> Equal contribution &nbsp;&nbsp; <sup>†</sup> Corresponding author</sub></p>
+<p>Korea Advanced Institute of Science and Technology (KAIST) &nbsp;·&nbsp; Cluvion</p>
 
 <p>
 <img src="https://img.shields.io/badge/EMNLP_2026-Oral-6D4BC3?style=flat-square" alt="EMNLP 2026 Oral">

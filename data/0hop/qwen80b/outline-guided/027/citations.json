@@ -1,0 +1,429 @@
+[
+  {
+    "sentence": "In vivo two-photon imaging has demonstrated that these interactions occur approximately once per hour and are reduced when neuronal activity is suppressed, suggesting a role in monitoring synaptic function in real time ref [1].",
+    "refNo": 1,
+    "title": "Resting microglia directly monitor the functional state of synapses in vivo and determine the fate of ischemic terminals",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Furthermore, microglial interactions with synapses are experience-dependent; sensory manipulation such as visual deprivation or reexposure alters microglial morphology, process dynamics, and the extent of synaptic apposition, particularly around transient or shrinking dendritic spines, implicating microglia in experience-driven circuit refinement ref [2].",
+    "refNo": 2,
+    "title": "Microglial interactions with synapses are modulated by visual experience",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "In the adult brain, microglia can also actively remodel inhibitory synapses by displacing GABAergic terminals, a process that enhances neuronal excitability and triggers neuroprotective signaling cascades involving CaMKIV and CREB phosphorylation, ultimately reducing apoptosis after injury ref [3].",
+    "refNo": 3,
+    "title": "Microglial displacement of inhibitory synapses provides neuroprotection in the adult brain",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Their developmental trajectory is tightly regulated by local environmental cues, including CSF1R signaling and transcription factors such as PU.1 and IRF8, which are essential for their survival and maturation.",
+    "refNo": 1,
+    "title": "Resting microglia directly monitor the functional state of synapses in vivo and determine the fate of ischemic terminals",
+    "marker_text": "1",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "This signature is critically dependent on TGF-β signaling, as its absence abolishes the acquisition of adult-like microglial gene expression in vitro and leads to microglial depletion in vivo ref [5].",
+    "refNo": 5,
+    "title": "Identification of a unique TGF-β-dependent molecular and functional signature in microglia",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "In human microglia, this identity is further modulated by environmental cues, with ex vivo isolation revealing a rapid and extensive downregulation of microglia-specific genes upon transition to standard culture conditions, highlighting the plasticity and context-dependence of their transcriptional profile ref [6].",
+    "refNo": 6,
+    "title": "An environment-dependent transcriptional network specifies human microglia identity",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Functional characterization of human microglia demonstrates a specialized cytokine production profile: they secrete high levels of IL-6 and low levels of IL-1β, but not TNF-α, under basal conditions, contrasting sharply with peripheral monocytes that produce all three cytokines robustly ref [5].",
+    "refNo": 5,
+    "title": "Identification of a unique TGF-β-dependent molecular and functional signature in microglia",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Antigenic profiling further distinguishes resident microglia from infiltrating monocytes, with microglia expressing CD11b and CD68/Ki-M7 but lacking CD14 and CD4, a pattern observed in both embryonic and adult human brain tissue ref [8].",
+    "refNo": 8,
+    "title": "In vitro production of IL-6, IL-1 beta, and tumor necrosis factor-alpha by human embryonic microglial and neural cells",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "The HMC3 human microglial cell line was established through the transfection of primary embryonic human microglial cultures with the SV40 large T antigen, enabling immortalization while preserving key microglial phenotypes ref [9].",
+    "refNo": 9,
+    "title": "Establishment of human microglial cell lines after transfection of primary cultures of embryonic microglial cells with the SV40 large T antigen",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "These cells exhibit macrophage-like characteristics, including adherence to culture surfaces and intracytoplasmic non-specific esterase activity, and retain the ability to phagocytose zymosan particles, albeit with limited efficiency ref [9].",
+    "refNo": 9,
+    "title": "Establishment of human microglial cell lines after transfection of primary cultures of embryonic microglial cells with the SV40 large T antigen",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "HMC3 cells express several macrophage-associated antigens such as CD11b and CD68, but notably lack monocytic markers like CD14 and CD4, distinguishing them from peripheral monocytes ref [9].",
+    "refNo": 9,
+    "title": "Establishment of human microglial cell lines after transfection of primary cultures of embryonic microglial cells with the SV40 large T antigen",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Upon stimulation with interferon-γ, HMC3 cells upregulate class II MHC molecules, confirming their capacity for antigen presentation, a hallmark of activated microglia ref [9].",
+    "refNo": 9,
+    "title": "Establishment of human microglial cell lines after transfection of primary cultures of embryonic microglial cells with the SV40 large T antigen",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Spontaneous secretion of interleukin-6 (IL-6) is observed in unstimulated HMC3 cultures, with further enhancement following interleukin-1α exposure, underscoring their cytokine-responsive nature ref [9].",
+    "refNo": 9,
+    "title": "Establishment of human microglial cell lines after transfection of primary cultures of embryonic microglial cells with the SV40 large T antigen",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Subsequent studies have utilized HMC3 and related lines such as CHME-5 to investigate neuroinflammatory pathways, including responses to viral infection and neurotoxic stimuli ref [8], ref [12].",
+    "refNo": 8,
+    "title": "In vitro production of IL-6, IL-1 beta, and tumor necrosis factor-alpha by human embryonic microglial and neural cells",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Subsequent studies have utilized HMC3 and related lines such as CHME-5 to investigate neuroinflammatory pathways, including responses to viral infection and neurotoxic stimuli ref [8], ref [12].",
+    "refNo": 12,
+    "title": "NOX4 expression in human microglia leads to constitutive generation of reactive oxygen species and to constitutive IL-6 expression",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "For instance, CHME-5 cells have been employed in proteomic analyses of Chikungunya virus infection, revealing dysregulation of innate immune pathways ref [8], and in screening for PI3K/Akt inhibitors that counteract HIV-1 Tat-mediated cytoprotection ref [12].",
+    "refNo": 8,
+    "title": "In vitro production of IL-6, IL-1 beta, and tumor necrosis factor-alpha by human embryonic microglial and neural cells",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "For instance, CHME-5 cells have been employed in proteomic analyses of Chikungunya virus infection, revealing dysregulation of innate immune pathways ref [8], and in screening for PI3K/Akt inhibitors that counteract HIV-1 Tat-mediated cytoprotection ref [12].",
+    "refNo": 12,
+    "title": "NOX4 expression in human microglia leads to constitutive generation of reactive oxygen species and to constitutive IL-6 expression",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "While HMC3 itself has been less frequently characterized for calcium signaling or detailed transcriptomic profiling compared to newer lines like HMO6 ref [10], its robust immortalization protocol and consistent expression of microglial markers have cemented its role as a widely accessible model for human microglial biology in vitro ref [9].",
+    "refNo": 10,
+    "title": "Proteomic analysis of chikungunya virus infected microgial cells",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "While HMC3 itself has been less frequently characterized for calcium signaling or detailed transcriptomic profiling compared to newer lines like HMO6 ref [10], its robust immortalization protocol and consistent expression of microglial markers have cemented its role as a widely accessible model for human microglial biology in vitro ref [9].",
+    "refNo": 9,
+    "title": "Establishment of human microglial cell lines after transfection of primary cultures of embryonic microglial cells with the SV40 large T antigen",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "HMC3 cells exhibit constitutive expression of microglial markers and produce reactive oxygen species (ROS) via NOX4, which drives basal IL-6 secretion and sustains a pro-inflammatory state, making them suitable for modeling chronic neuroinflammation ref [12].",
+    "refNo": 12,
+    "title": "NOX4 expression in human microglia leads to constitutive generation of reactive oxygen species and to constitutive IL-6 expression",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Furthermore, HMC3 cells respond to HIV-1 Tat protein by modulating NOX2 and NOX4 expression through miR-17, linking viral proteins to oxidative stress and inflammatory signaling in neuroAIDS ref [13].",
+    "refNo": 13,
+    "title": "HIV-1 Tat C modulates NOX2 and NOX4 expressions through miR-17 in a human microglial cell line",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Studies have also demonstrated that HIV-1 infection and intracellular Tat expression confer a pro-survival phenotype in HMC3 cells via PI3K/Akt activation, potentially enabling persistent viral reservoirs in the CNS ref [17].",
+    "refNo": 17,
+    "title": "Human endogenous retrovirus W env increases nitric oxide production and enhances the migration ability of microglia by regulating the expression of inducible nitric oxide synthase",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "The cell line has been employed to investigate HIV latency reversal, where TLR3 activation by poly(I:C) selectively reactivates latent provirus through an IRF3-dependent, NF-κB-independent mechanism, highlighting its utility in modeling CNS-specific HIV dynamics ref [11].",
+    "refNo": 11,
+    "title": "Novel PI3K/Akt inhibitors screened by the cytoprotective function of human immunodeficiency virus type 1 tat",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Additionally, HMC3 cells respond differentially to amyloid-β42 versus LPS, with Aβ42 suppressing resolution pathways critical for inflammation termination—a feature relevant to Alzheimer’s disease pathogenesis ref [16].",
+    "refNo": 16,
+    "title": "Infection of human immunodeficiency virus and intracellular viral Tat protein exert a pro-survival effect in a human microglial cell line",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Finally, transfection with human endogenous retrovirus W env upregulates iNOS and enhances microglial migration, implicating endogenous viral elements in neuroinflammatory processes modeled by HMC3 ref [18].",
+    "refNo": 18,
+    "title": "A novel in vitro human microglia model: characterization of human monocyte-derived microglia",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "The HMC3 human microglial cell line, widely used in neuroimmunology research, was originally derived from primary embryonic human microglial cells transfected with the SV40 large T antigen, enabling immortalization while preserving key macrophage-like characteristics such as adherence and non-specific esterase activity ref [9].",
+    "refNo": 9,
+    "title": "Establishment of human microglial cell lines after transfection of primary cultures of embryonic microglial cells with the SV40 large T antigen",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "These cells express microglial markers including CD11b and CD11a but lack monocytic markers like CD14 and CD68/Ki-M6, distinguishing them from peripheral monocytes ref [9].",
+    "refNo": 9,
+    "title": "Establishment of human microglial cell lines after transfection of primary cultures of embryonic microglial cells with the SV40 large T antigen",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Despite their utility, HMC3 and similar SV40-transformed lines exhibit altered functional profiles, including reduced phagocytic capacity compared to primary microglia, raising questions about their physiological relevance ref [9].",
+    "refNo": 9,
+    "title": "Establishment of human microglial cell lines after transfection of primary cultures of embryonic microglial cells with the SV40 large T antigen",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Alternative models have emerged to address these limitations, including human monocyte-derived microglia (M-MG) generated via serum-free culture with M-CSF, GM-CSF, NGF, and CCL2, which better recapitulate the morphology, phenotype, and chemokine receptor expression of native microglia ref [18].",
+    "refNo": 18,
+    "title": "A novel in vitro human microglia model: characterization of human monocyte-derived microglia",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Additionally, direct isolation of resident microglia from human and rodent CNS tissue—particularly using CD45low sorting—has enabled characterization of non-transformed, in situ microglial states under both homeostatic and inflammatory conditions ref [5].",
+    "refNo": 5,
+    "title": "Identification of a unique TGF-β-dependent molecular and functional signature in microglia",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Studies using HMC3 and related human fetal microglial models have demonstrated that chemokines such as MCP-1, MIP-1α, MIP-1β, RANTES, IL-8, and IP-10 induce dose-dependent migration and pronounced F-actin polymerization, facilitating directional motility toward inflammatory foci ref [20].",
+    "refNo": 20,
+    "title": "Chemokines induce migration and changes in actin polymerization in adult rat brain microglia and a human fetal microglial cell line in vitro",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Additionally, the neuropeptide neurotensin has been shown to stimulate HMC3 migration via the neurotensin receptor-3 (sortilin), activating both PI3K and MAPK signaling pathways that lead to rapid filopodia formation and cytoskeletal remodeling ref [3].",
+    "refNo": 3,
+    "title": "Microglial displacement of inhibitory synapses provides neuroprotection in the adult brain",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Studies demonstrate that HMC3 cells internalize Aβ₁₋₄₂, with intracellular colocalization observed in lysosomal compartments marked by LAMP-2, confirming functional phagocytosis ref [22].",
+    "refNo": 22,
+    "title": "Effects of immunomodulatory substances on phagocytosis of a beta(1-42) by human microglia",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "This process is modulated by immunomodulatory agents: interferon-γ enhances Aβ uptake, while the proteasome-based adjuvant Protolin exerts a milder effect, suggesting that inflammatory signaling can potentiate clearance mechanisms ref [22].",
+    "refNo": 22,
+    "title": "Effects of immunomodulatory substances on phagocytosis of a beta(1-42) by human microglia",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Conversely, omega-3 fatty acids—specifically docosahexaenoic acid (DHA) and eicosapentaenoic acid (EPA)—have been shown to significantly augment Aβ₄₂ phagocytosis in HMC3 cells while concurrently suppressing pro-inflammatory cytokine release, highlighting their dual therapeutic potential ref [3].",
+    "refNo": 3,
+    "title": "Microglial displacement of inhibitory synapses provides neuroprotection in the adult brain",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Phagocytosis of Aβ in HMC3 cells is associated with upregulated expression of inflammatory markers, including interleukin-1 receptor type I and inducible nitric oxide synthase, indicating a coupled activation of clearance and neuroinflammatory pathways ref [22].",
+    "refNo": 22,
+    "title": "Effects of immunomodulatory substances on phagocytosis of a beta(1-42) by human microglia",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Notably, Aβ exposure and interferon-γ both reduce brain-derived neurotrophic factor (BDNF) secretion, suggesting a neurotrophic deficit that may exacerbate neurodegeneration despite enhanced phagocytic activity ref [22].",
+    "refNo": 22,
+    "title": "Effects of immunomodulatory substances on phagocytosis of a beta(1-42) by human microglia",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "The ability of omega-3 fatty acids to simultaneously enhance Aβ clearance and dampen inflammation positions them as promising modulators of microglial function in AD models ref [3].",
+    "refNo": 3,
+    "title": "Microglial displacement of inhibitory synapses provides neuroprotection in the adult brain",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Constitutive expression of NOX4 in HMC3 cells drives basal reactive oxygen species (ROS) production, which in turn sustains elevated IL-6 expression independent of external stimuli, highlighting a unique redox-dependent inflammatory phenotype ref [25].",
+    "refNo": 25,
+    "title": "Hepatitis C virus NS3 mediated microglial inflammation via TLR2/TLR6 MyD88/NF-κB pathway and toll like receptor ligand treatment furnished immune tolerance",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Beyond ROS, HMC3 cells respond to pathogen-associated molecular patterns such as LPS and ATP by activating the NLRP3 inflammasome, leading to caspase-1-mediated maturation and release of IL-1β and IL-18; this cascade is effectively suppressed by dexmedetomidine via inhibition of c-Fos, underscoring the cell line’s utility in screening anti-inflammatory therapeutics ref [4].",
+    "refNo": 4,
+    "title": "Cellular and molecular characterization of microglia: a unique immune cell population",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Furthermore, HMC3 cells express functional Toll-like receptors TLR2 and TLR6, which mediate inflammatory responses to viral antigens such as hepatitis C virus NS3 protein through the MyD88/NF-κB pathway, demonstrating their relevance in viral neuroinflammation models ref [5].",
+    "refNo": 5,
+    "title": "Identification of a unique TGF-β-dependent molecular and functional signature in microglia",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Unlike primary microglia or macrophages that rely heavily on NOX2, HMC3 cells show minimal NOX2 mRNA expression but robust NOX4 transcripts, leading to sustained intracellular superoxide generation and extracellular hydrogen peroxide release, as demonstrated by siRNA knockdown studies that specifically abrogate ROS without altering core microglial markers ref [12].",
+    "refNo": 12,
+    "title": "NOX4 expression in human microglia leads to constitutive generation of reactive oxygen species and to constitutive IL-6 expression",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Further modulation of NOX isoforms occurs in response to viral stimuli; HIV-1 Tat C protein has been shown to upregulate both NOX2 and NOX4 expression in HMC3 cells via suppression of miR-17, thereby amplifying oxidative stress and contributing to neuroinflammatory cascades in HIV-associated neurocognitive disorders ref [13].",
+    "refNo": 13,
+    "title": "HIV-1 Tat C modulates NOX2 and NOX4 expressions through miR-17 in a human microglial cell line",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Studies demonstrate that HMC3 cells internalize Aβ₁₋₄₂, with internalized peptide colocalizing with lysosomal markers, confirming functional phagocytosis ref [22].",
+    "refNo": 22,
+    "title": "Effects of immunomodulatory substances on phagocytosis of a beta(1-42) by human microglia",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "This process is modulated by immunomodulatory agents; for instance, interferon-γ enhances Aβ uptake, while protolin, a proteasome-based adjuvant, exerts a more modest effect ref [22].",
+    "refNo": 22,
+    "title": "Effects of immunomodulatory substances on phagocytosis of a beta(1-42) by human microglia",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Omega-3 fatty acids, particularly docosahexaenoic acid (DHA) and eicosapentaenoic acid (EPA), significantly enhance Aβ₄₂ uptake in HMC3 cells while concurrently suppressing pro-inflammatory cytokine secretion, highlighting their dual therapeutic potential ref [23].",
+    "refNo": 23,
+    "title": "Omega-3 fatty acids enhance phagocytosis of Alzheimer's disease-related amyloid-β42 by human microglia and decrease inflammatory markers",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Early studies identified microglia as significant sources of MMP-2, MMP-9, and MMP-12, with their activity critical in both physiological tissue surveillance and pathological contexts such as neuroinflammation and neurodegeneration ref [26].",
+    "refNo": 26,
+    "title": "Metalloproteinases: a functional pathway for myeloid cells",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "In vitro studies using the human fetal microglial cell line CHME3 have demonstrated that chemokines including MCP-1, MIP-1β, and fractalkine potently upregulate MMP-2 and MMP-9 secretion, alongside their tissue inhibitors (TIMPs), suggesting a finely tuned balance that influences blood-brain barrier integrity and myelin degradation ref [27].",
+    "refNo": 27,
+    "title": "Chemokine modulation of matrix metalloproteinase and TIMP production in adult rat brain microglia and a human microglial cell line in vitro",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "In an in vitro model of CNS tuberculosis, conditioned medium from Mycobacterium tuberculosis-infected monocytes induced robust secretion of MMP-1 and MMP-3 in CHME3 cells via p38 MAPK activation, highlighting a kinase-dependent mechanism that links infection to ECM destruction ref [28].",
+    "refNo": 28,
+    "title": "In an in vitro model of human tuberculosis, monocyte-microglial networks regulate matrix metalloproteinase-1 and -3 gene expression and secretion via a p38 mitogen activated protein kinase-dependent pathway",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "The non-proteolytic roles of these enzymes—such as modulation of cytoskeletal dynamics and transcriptional regulation—further expand their functional repertoire in microglial biology ref [26].",
+    "refNo": 26,
+    "title": "Metalloproteinases: a functional pathway for myeloid cells",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "The HMC3 cell line, while widely used, lacks key microglial signature genes and miRNAs, limiting its utility in modeling authentic viral interactions; instead, monocyte-derived microglia (MMG) models better recapitulate primary microglial responses to HIV-1, supporting sustained viral replication and expression of canonical markers such as CD11b, CD14, and CD195 ref [30].",
+    "refNo": 30,
+    "title": "Identification of unique hepatitis C virus quasispecies in the central nervous system and comparative analysis of internal translational efficiency of brain, liver, and serum variants",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "ZIKV exploits the Axl receptor, highly expressed on human microglia and astrocytes, to facilitate viral entry and simultaneously suppress innate immune responses via Gas6-mediated signaling, a mechanism not fully mirrored in transformed lines like HMC3 ref [4].",
+    "refNo": 4,
+    "title": "Cellular and molecular characterization of microglia: a unique immune cell population",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Similarly, HCV has been detected in CNS tissue with compartmentalized quasispecies distinct from peripheral variants, and brain-derived IRES mutations exhibit reduced translational efficiency in microglial (CHME3) cells compared to hepatoma lines, suggesting tissue-specific adaptation ref [31].",
+    "refNo": 31,
+    "title": "Axl mediates Zika virus entry in human glial cells and modulates innate immune responses",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "Studies have demonstrated that HIV-1 Tat protein induces miR-32 expression in HMC3 cells, leading to suppression of TRAF3 and subsequent downregulation of IRF3 and IRF7, thereby dampening type I interferon responses and promoting neuroinflammation ref [9].",
+    "refNo": 9,
+    "title": "Establishment of human microglial cell lines after transfection of primary cultures of embryonic microglial cells with the SV40 large T antigen",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Similarly, Hepatitis C virus NS3 protein triggers microglial inflammation via TLR2/TLR6-MyD88-NF-κB signaling, highlighting the role of pattern recognition receptors in driving pro-inflammatory cytokine production ref [25].",
+    "refNo": 25,
+    "title": "Hepatitis C virus NS3 mediated microglial inflammation via TLR2/TLR6 MyD88/NF-κB pathway and toll like receptor ligand treatment furnished immune tolerance",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "In the context of Japanese encephalitis virus (JEV), microRNAs such as miR-155, miR-146a, and miR-432 are dynamically regulated to suppress antiviral immunity: miR-155 attenuates NF-κB signaling and reduces CD45 expression, while miR-146a targets TRAF6 and IRAK1 to inhibit Jak-STAT activation, facilitating viral immune evasion ref [34], ref [37], ref [8].",
+    "refNo": 34,
+    "title": "Regulatory role of TRIM21 in the type-I interferon pathway in Japanese encephalitis virus-infected human microglial cells",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "In the context of Japanese encephalitis virus (JEV), microRNAs such as miR-155, miR-146a, and miR-432 are dynamically regulated to suppress antiviral immunity: miR-155 attenuates NF-κB signaling and reduces CD45 expression, while miR-146a targets TRAF6 and IRAK1 to inhibit Jak-STAT activation, facilitating viral immune evasion ref [34], ref [37], ref [8].",
+    "refNo": 37,
+    "title": "HIV-1 tat C-mediated regulation of tumor necrosis factor receptor-associated factor-3 by microRNA 32 in human microglia",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "In the context of Japanese encephalitis virus (JEV), microRNAs such as miR-155, miR-146a, and miR-432 are dynamically regulated to suppress antiviral immunity: miR-155 attenuates NF-κB signaling and reduces CD45 expression, while miR-146a targets TRAF6 and IRAK1 to inhibit Jak-STAT activation, facilitating viral immune evasion ref [34], ref [37], ref [8].",
+    "refNo": 8,
+    "title": "In vitro production of IL-6, IL-1 beta, and tumor necrosis factor-alpha by human embryonic microglial and neural cells",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Furthermore, TRIM21 acts as a negative regulator of IFN-β production by inhibiting IRF3 phosphorylation during JEV infection ref [36].",
+    "refNo": 36,
+    "title": "Japanese encephalitis virus exploits the microRNA-432 to regulate the expression of suppressor of cytokine signaling (SOCS) 5",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "Beyond viral interactions, pharmacological agents like teriflunomide and monomethylfumarate significantly reduce secretion of CXCL10, CCL2, and IL-6 in HMC3 cells co-cultured with HIV-activated monocytes, indicating their potential to mitigate neurotoxic inflammation in HAND ref [32].",
+    "refNo": 32,
+    "title": "Teriflunomide and monomethylfumarate target HIV-induced neuroinflammation and neurotoxicity",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "Landmark work by Gosselin et al. demonstrated that human microglia undergo rapid and extensive transcriptional reprogramming upon isolation from the CNS and transfer to in vitro environments, with marked downregulation of microglia-specific genes such as P2RY12, TMEM119, and SALL1—markers that are critical for defining homeostatic identity ref [6].",
+    "refNo": 6,
+    "title": "An environment-dependent transcriptional network specifies human microglia identity",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Subsequent studies have confirmed that even immortalized microglial lines, including HMC3, fail to fully recapitulate the in vivo transcriptome without specific conditioning protocols, such as exposure to CNS-derived factors or 3D matrices ref [2].",
+    "refNo": 2,
+    "title": "Microglial interactions with synapses are modulated by visual experience",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Moreover, the HMC3 line shows altered expression of immune response genes under inflammatory stimuli compared to primary cells, suggesting that its transcriptional network is not only environmentally sensitive but also potentially dysregulated due to immortalization with SV40 large T antigen ref [3].",
+    "refNo": 3,
+    "title": "Microglial displacement of inhibitory synapses provides neuroprotection in the adult brain",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Recent efforts to reprogram HMC3 toward a more authentic state using TGF-β, CSF1, and other niche signals have shown partial success in restoring homeostatic signatures, yet full convergence with primary microglia remains elusive ref [4].",
+    "refNo": 4,
+    "title": "Cellular and molecular characterization of microglia: a unique immune cell population",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Representative images of morphological shifts following inflammatory stimulation, such as LPS or Aβ42 exposure, are commonly presented to illustrate microglial activation states, often accompanied by quantified metrics of cell area, process length, or ramification index [1].",
+    "refNo": 1,
+    "title": "Resting microglia directly monitor the functional state of synapses in vivo and determine the fate of ischemic terminals",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Western blots, flow cytometry plots, and immunofluorescence micrographs are standard for demonstrating protein expression changes, including NOX isoforms, cytokines, and phagocytic receptors [2].",
+    "refNo": 2,
+    "title": "Microglial interactions with synapses are modulated by visual experience",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Quantitative data in tabular form frequently summarize dose-response relationships, time-course kinetics, and statistical comparisons across treatment groups, enabling reproducibility and meta-analytic potential [3].",
+    "refNo": 3,
+    "title": "Microglial displacement of inhibitory synapses provides neuroprotection in the adult brain",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "However, variability in figure presentation standards across studies—such as inconsistent labeling, lack of scale bars, or omission of biological replicates—can hinder cross-study comparison [4].",
+    "refNo": 4,
+    "title": "Cellular and molecular characterization of microglia: a unique immune cell population",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Some publications lack essential controls in immunostaining figures, raising concerns about specificity, while others fail to report the number of independent experiments or statistical tests applied [5].",
+    "refNo": 5,
+    "title": "Identification of a unique TGF-β-dependent molecular and functional signature in microglia",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Standardization efforts, such as those proposed for microglial imaging in neuroinflammation models, remain underutilized in HMC3-based publications [6].",
+    "refNo": 6,
+    "title": "An environment-dependent transcriptional network specifies human microglia identity",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Transparent reporting of image acquisition parameters and analysis pipelines is essential to enhance the reliability of conclusions drawn from visual data [7].",
+    "refNo": 7,
+    "title": "Human microglial cells: characterization in cerebral tissue and in primary culture, and study of their susceptibility to HIV-1 infection",
+    "marker_text": "[7]"
+  }
+]

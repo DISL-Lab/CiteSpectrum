@@ -1,0 +1,536 @@
+[
+  {
+    "sentence": "The foundational definition, proposed by Wrzesniewski and Dutton [1], framed job crafting as the physical and cognitive changes individuals make to their task boundaries, relational boundaries, or cognitive interpretations of their work.",
+    "refNo": 1,
+    "title": "Making work more personal: Crafting a job to fit your self",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Tims and Bakker [2] introduced a three-dimensional model—task crafting, relational crafting, and cognitive crafting—which became widely adopted for empirical measurement.",
+    "refNo": 2,
+    "title": "Work engagement and the job demands-resources model: A longitudinal study",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "This typology was later refined by Berg et al. [3], who emphasized the role of identity and self-concept in shaping cognitive crafting, particularly in service and care-oriented roles.",
+    "refNo": 3,
+    "title": "Job crafting: A review and future directions",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "For instance, Dik et al. [4].",
+    "refNo": 4,
+    "title": "The role of calling in job crafting: A qualitative study",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "argued for the inclusion of purpose-driven crafting in meaning-intensive occupations, while Grant and Ashford [5] highlighted the interplay between crafting and feedback-seeking behaviors, suggesting a dynamic, iterative process rather than static categories.",
+    "refNo": 5,
+    "title": "Feedback-seeking behavior and job crafting: A social learning perspective",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Research shows that perceived social support and observational learning from colleagues significantly predict engagement in job crafting, particularly when individuals internalize social cues as indicators of appropriate work behaviors [1].",
+    "refNo": 1,
+    "title": "Making work more personal: Crafting a job to fit your self",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Moreover, leadership behaviors—such as empowering leadership and transformational leadership—have been empirically linked to increased job crafting, as leaders who foster autonomy and provide meaningful feedback create contexts conducive to employee-initiated change [2].",
+    "refNo": 2,
+    "title": "Work engagement and the job demands-resources model: A longitudinal study",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Organizational culture and peer norms also play a constitutive role: in environments where innovation and personal initiative are socially reinforced, job crafting is more prevalent and diverse in form [3].",
+    "refNo": 3,
+    "title": "Job crafting: A review and future directions",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Conversely, in highly bureaucratic or risk-averse cultures, social pressures may suppress crafting behaviors, even when individuals possess the motivation [4].",
+    "refNo": 4,
+    "title": "The role of calling in job crafting: A qualitative study",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Recent work further highlights that social identity processes, including the desire to align with valued professional groups, can drive crafting as a means of signaling competence or commitment [5].",
+    "refNo": 5,
+    "title": "Feedback-seeking behavior and job crafting: A social learning perspective",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Early measures, such as the Job Crafting Scale (Tims et al., 2012), attempted to capture three core dimensions—task crafting, relational crafting, and cognitive crafting—but have been critiqued for conflating intentions with behaviors and for lacking temporal specificity [1].",
+    "refNo": 1,
+    "title": "Making work more personal: Crafting a job to fit your self",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Subsequent efforts to refine measurement have introduced ecological momentary assessment and diary methods to reduce retrospective bias, yet these approaches remain resource-intensive and limit generalizability [2].",
+    "refNo": 2,
+    "title": "Work engagement and the job demands-resources model: A longitudinal study",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Furthermore, the distinction between job crafting and related constructs like proactive behavior or work engagement remains ambiguous in many instruments, leading to construct overlap and inflated correlations [3].",
+    "refNo": 3,
+    "title": "Job crafting: A review and future directions",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Cross-cultural applications also reveal measurement invariance issues, as items reflecting relational crafting may be interpreted differently in individualistic versus collectivistic contexts [4].",
+    "refNo": 4,
+    "title": "The role of calling in job crafting: A qualitative study",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Finally, the absence of a gold-standard observational protocol means most studies rely on self-report, introducing common method bias and social desirability effects that compromise validity [5].",
+    "refNo": 5,
+    "title": "Feedback-seeking behavior and job crafting: A social learning perspective",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "When supervisors provide psychological safety, encourage initiative, and delegate meaningful authority, employees are more likely to proactively redefine task boundaries, build relationships, and reframe their work roles [16].",
+    "refNo": 16,
+    "title": "The spillover-crossover model of work-family interaction: A review and research agenda",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Empowering leadership has been empirically linked to increased job crafting through the mediation of psychological empowerment, where employees perceive greater control over their work and a stronger sense of impact [17].",
+    "refNo": 17,
+    "title": "Work-family balance and job crafting: The mediating role of recovery experiences",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "This dynamic is especially salient in high-demand environments, where supervisor endorsement can buffer stress and legitimize self-initiated changes that might otherwise be perceived as deviant or risky [18].",
+    "refNo": 18,
+    "title": "Social support from non-work sources and employee proactive behavior: A longitudinal study",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Supervisors who engage in constructive feedback, recognize effort, and align individual goals with team objectives amplify employees’ sense of legitimacy in reshaping their roles [19].",
+    "refNo": 19,
+    "title": "Family support and job crafting: The role of identity affirmation and psychological safety",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Conversely, controlling or unsupportive supervision can suppress job crafting by reinforcing rigid role expectations and discouraging self-expression at work [20].",
+    "refNo": 20,
+    "title": "Negative spillover from family to work: Implications for employee initiative and job crafting",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Employees frequently observe and emulate the crafting strategies of colleagues, particularly when these behaviors are perceived as effective or socially rewarded, aligning with social learning mechanisms ref [10].",
+    "refNo": 10,
+    "title": "Social identity and job crafting: Aligning work with professional self-concepts",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Conversely, peer norms that prioritize conformity or discourage autonomy may suppress crafting efforts, especially in highly hierarchical or risk-averse work environments ref [9].",
+    "refNo": 9,
+    "title": "Constraints on job crafting: The role of organizational control and social sanctions",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Research indicates that coworker support—particularly when it involves collaborative problem-solving or emotional encouragement—can amplify the motivational effects of job crafting, especially in roles with high demands or low autonomy ref [14].",
+    "refNo": 14,
+    "title": "Cultural variations in job crafting: Measurement invariance across nations",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "In service and healthcare settings, peer networks often co-construct meaning and resilience through shared crafting practices, reinforcing identity-based adjustments to work demands ref [13].",
+    "refNo": 13,
+    "title": "Job crafting and proactive behavior: Overlapping or distinct constructs?",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Emotional support from partners and close relatives can buffer job stress, enabling individuals to invest cognitive and emotional energy into redefining their roles outside formal organizational structures [1].",
+    "refNo": 1,
+    "title": "Making work more personal: Crafting a job to fit your self",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Instrumental support, such as assistance with household responsibilities, frees up time and mental bandwidth for employees to experiment with task redesign or relational crafting [2].",
+    "refNo": 2,
+    "title": "Work engagement and the job demands-resources model: A longitudinal study",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Informational support from non-work networks—such as advice from friends or community members—can introduce alternative perspectives on work roles, fostering creative approaches to job redesign that may not emerge within the workplace [3].",
+    "refNo": 3,
+    "title": "Job crafting: A review and future directions",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "For instance, family members who validate an employee’s desire for more meaningful work may strengthen their resolve to pursue crafting behaviors, even in the face of organizational resistance [4].",
+    "refNo": 4,
+    "title": "The role of calling in job crafting: A qualitative study",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Conversely, lack of support or negative attitudes from family toward work-related initiatives can inhibit crafting efforts, particularly when employees internalize these views as barriers to personal fulfillment [5].",
+    "refNo": 5,
+    "title": "Feedback-seeking behavior and job crafting: A social learning perspective",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "In such cultures, leaders encourage self-direction, provide rationale for tasks, and minimize intrusive oversight, which enhances employees' intrinsic motivation to proactively redesign their jobs [1].",
+    "refNo": 1,
+    "title": "Making work more personal: Crafting a job to fit your self",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "This contrasts sharply with control-oriented cultures, characterized by rigid hierarchies, surveillance, and standardized procedures, which constrain job crafting by signaling that deviation from prescribed roles is undesirable or risky [2].",
+    "refNo": 2,
+    "title": "Work engagement and the job demands-resources model: A longitudinal study",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Employees in control-oriented settings often suppress proactive behaviors due to fear of sanctions or perceptions of futility, even when they possess the capability and desire to craft their jobs [3].",
+    "refNo": 3,
+    "title": "Job crafting: A review and future directions",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Research indicates that autonomy-supportive climates are associated with higher levels of psychological empowerment and self-determination, both of which mediate the relationship between organizational culture and job crafting behaviors [4].",
+    "refNo": 4,
+    "title": "The role of calling in job crafting: A qualitative study",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Conversely, control-oriented cultures activate threat-based motivation, leading to disengagement and reduced initiative, as employees focus on compliance rather than innovation [5].",
+    "refNo": 5,
+    "title": "Feedback-seeking behavior and job crafting: A social learning perspective",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "These dynamics are particularly salient in knowledge-intensive industries, where job crafting is essential for adapting to dynamic demands, yet remain stifled under authoritarian management styles [6].",
+    "refNo": 6,
+    "title": "The role of social support in job crafting: A social exchange perspective",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Research indicates that perceived tolerance for deviance is positively associated with job crafting, particularly when employees feel psychologically safe to deviate from formal role expectations without fear of retribution [1].",
+    "refNo": 1,
+    "title": "Making work more personal: Crafting a job to fit your self",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "In contrast, rigid conformity norms can inhibit job crafting by reinforcing hierarchical compliance, as seen in bureaucratic organizations where deviation is equated with incompetence or insubordination [2].",
+    "refNo": 2,
+    "title": "Work engagement and the job demands-resources model: A longitudinal study",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Notably, the interplay between conformity norms and professional identity can moderate these effects: employees with strong professional identities may still craft their jobs despite organizational pressures, leveraging their expertise to justify deviations [3].",
+    "refNo": 3,
+    "title": "Job crafting: A review and future directions",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Moreover, peer norms play a critical role; when deviant crafting behaviors are modeled by respected colleagues, they become normalized and more likely to be emulated [4].",
+    "refNo": 4,
+    "title": "The role of calling in job crafting: A qualitative study",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "In highly regulated industries such as healthcare and finance, rigid policy frameworks can suppress proactive job crafting, as employees prioritize adherence over innovation to avoid sanctions or audit failures [1].",
+    "refNo": 1,
+    "title": "Making work more personal: Crafting a job to fit your self",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Conversely, institutional pressures that emphasize legitimacy and social responsibility—such as sustainability certifications or diversity mandates—can create new avenues for crafting, enabling employees to align their roles with broader organizational values [2].",
+    "refNo": 2,
+    "title": "Work engagement and the job demands-resources model: A longitudinal study",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Moreover, formal policies that institutionalize flexibility—such as remote work allowances, flexible scheduling, or skill development stipends—can function as enablers of job crafting by legitimizing autonomy within structured boundaries [3].",
+    "refNo": 3,
+    "title": "Job crafting: A review and future directions",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "However, when such policies are inconsistently implemented or perceived as performative, they may generate cynicism and reduce their motivational impact [4].",
+    "refNo": 4,
+    "title": "The role of calling in job crafting: A qualitative study",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "The interplay between institutional isomorphism and individual agency thus determines whether formal policies serve as cages or catalysts for job crafting, depending on their design, enforcement, and cultural embedding [5].",
+    "refNo": 5,
+    "title": "Feedback-seeking behavior and job crafting: A social learning perspective",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "For instance, women of color in male-dominated fields may engage in identity-affirming crafting by strategically emphasizing expertise and building alliances to counter stereotype threat, thereby reclaiming agency within restrictive environments [1].",
+    "refNo": 1,
+    "title": "Making work more personal: Crafting a job to fit your self",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Similarly, LGBTQ+ employees may craft relational demands by selectively disclosing identity-relevant information to foster psychological safety, a strategy tied to identity concealment or disclosure dynamics [2].",
+    "refNo": 2,
+    "title": "Work engagement and the job demands-resources model: A longitudinal study",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Individuals with disabilities often reframe task boundaries to emphasize strengths rather than limitations, transforming job demands into opportunities for accommodation and visibility [3].",
+    "refNo": 3,
+    "title": "Job crafting: A review and future directions",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Identity-based crafting also manifests in meaning-making: employees from racial and ethnic minority groups may craft tasks to incorporate cultural values or community representation, such as mentoring co-ethnics or integrating culturally relevant content into their work [4].",
+    "refNo": 4,
+    "title": "The role of calling in job crafting: A qualitative study",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Research shows that inclusive leaders amplify employee voice, particularly among racial and gender minorities, by creating spaces where identity-affirming job crafting is not only permitted but encouraged, thereby reducing the cognitive and emotional labor often required to navigate hostile or indifferent environments [1].",
+    "refNo": 1,
+    "title": "Making work more personal: Crafting a job to fit your self",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "When leaders model equity-oriented behaviors—such as co-creating role definitions or adjusting performance metrics to reflect diverse contributions—they signal that crafting is not a privilege reserved for dominant groups but a universal right [2].",
+    "refNo": 2,
+    "title": "Work engagement and the job demands-resources model: A longitudinal study",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "This shifts organizational norms from uniformity to pluralism, enabling more equitable access to crafting opportunities across identity lines [3].",
+    "refNo": 3,
+    "title": "Job crafting: A review and future directions",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Empirical evidence further indicates that inclusive leadership mediates the relationship between social identity and crafting outcomes, particularly when paired with structural supports like flexible work arrangements and bias-aware performance systems [4].",
+    "refNo": 4,
+    "title": "The role of calling in job crafting: A qualitative study",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Without such leadership, even well-intentioned crafting initiatives risk reinforcing existing hierarchies by favoring employees with greater social capital or identity conformity [5].",
+    "refNo": 5,
+    "title": "Feedback-seeking behavior and job crafting: A social learning perspective",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Research indicates that participation in such communities enhances self-efficacy and reduces perceived isolation, particularly among geographically dispersed workers who lack access to in-person mentorship or social cues [1].",
+    "refNo": 1,
+    "title": "Making work more personal: Crafting a job to fit your self",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "For instance, employees in tech and creative industries frequently use peer communities to prototype new task configurations, share tools for efficiency, and validate their efforts to reshape roles in ways that enhance autonomy and purpose [2].",
+    "refNo": 2,
+    "title": "Work engagement and the job demands-resources model: A longitudinal study",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Such peer-driven validation can buffer against organizational constraints and foster a sense of collective agency [3].",
+    "refNo": 3,
+    "title": "Job crafting: A review and future directions",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "When designed with equity in mind, online peer networks can serve as counter-institutional spaces that expand the repertoire of job crafting behaviors available to employees across diverse contexts [4].",
+    "refNo": 4,
+    "title": "The role of calling in job crafting: A qualitative study",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "When employees perceive constant observation, they may suppress proactive work redesign efforts to avoid scrutiny or misinterpretation of their activities, leading to a form of self-censorship that undermines authentic job crafting [44].",
+    "refNo": 44,
+    "title": "Inclusive leadership and employee well-being: The mediating role of perceived organizational support",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "These pressures can trigger conformity behaviors, where individuals align their work routines with perceived peer expectations rather than personal or contextual needs, thereby limiting relational and cognitive job crafting [44].",
+    "refNo": 44,
+    "title": "Inclusive leadership and employee well-being: The mediating role of perceived organizational support",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "Research shows that psychological safety in virtual teams is a critical enabler of relational crafting, allowing members to express needs and redefine interpersonal boundaries without fear of reprisal [1].",
+    "refNo": 1,
+    "title": "Making work more personal: Crafting a job to fit your self",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Conversely, inclusive leadership and structured team rituals can mitigate these dynamics, fostering equitable opportunities for relational redefinition across diverse membership [2].",
+    "refNo": 2,
+    "title": "Work engagement and the job demands-resources model: A longitudinal study",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Studies further indicate that relational crafting in virtual settings is often contingent on prior interpersonal histories and the extent to which team members perceive shared goals, with high-trust teams demonstrating more adaptive and reciprocal crafting patterns [3].",
+    "refNo": 3,
+    "title": "Job crafting: A review and future directions",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Empowering leadership demonstrates a medium-sized association with job crafting (r = .32), particularly through its influence on psychological empowerment and perceived autonomy [4].",
+    "refNo": 4,
+    "title": "The role of calling in job crafting: A qualitative study",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Social support from colleagues and supervisors also shows a significant, though slightly weaker, effect (r = .28), aligning with social exchange theory where reciprocal relationships motivate proactive behavioral adjustments [12].",
+    "refNo": 12,
+    "title": "Diary methods in job crafting research: Capturing dynamic processes",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Peer norms, particularly in team-based settings, exert a notable influence (r = .26), as employees are more likely to engage in crafting when they observe and internalize proactive behaviors among peers [40].",
+    "refNo": 40,
+    "title": "Identity-based job crafting among women of color: Navigating intersectional bias in professional settings",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "In contrast, organizational culture and institutional legitimacy show smaller but statistically significant effects (r = .18–.21), suggesting that macro-level social structures enable crafting only when aligned with micro-level interpersonal dynamics [30].",
+    "refNo": 30,
+    "title": "Social contagion of proactive behavior: How peer norms shape employee initiative",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "Notably, the effect of inclusive leadership on job crafting remains moderate (r = .29), but its impact is amplified in contexts with high identity threat, indicating conditional strength [10].",
+    "refNo": 10,
+    "title": "Social identity and job crafting: Aligning work with professional self-concepts",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "The influence of social factors on job crafting varies significantly across industries, with service-oriented sectors such as healthcare and education showing stronger associations between peer support and crafting behaviors than highly regulated industries like manufacturing or public administration, where formal role boundaries constrain autonomy [34].",
+    "refNo": 34,
+    "title": "The hollowing out of HR practices: When formal policies fail to translate into employee empowerment",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "In knowledge-intensive industries, digital collaboration tools enable informal job redesign, amplifying the impact of virtual peer networks on crafting, whereas in routine-based settings, social norms often reinforce role rigidity [47].",
+    "refNo": 47,
+    "title": "The role of online peer networks in shaping job crafting behaviors among remote workers",
+    "marker_text": "[47]"
+  },
+  {
+    "sentence": "Studies comparing Western individualistic contexts with East Asian collectivist settings reveal that social support from supervisors more strongly predicts crafting in collectivist cultures, where harmony and group alignment are prioritized, whereas autonomy-driven crafting is more prevalent in individualistic contexts [20].",
+    "refNo": 20,
+    "title": "Negative spillover from family to work: Implications for employee initiative and job crafting",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Similarly, institutional pressures in high-power-distance regions may suppress proactive crafting unless legitimized by hierarchical endorsement [32].",
+    "refNo": 32,
+    "title": "Institutional legitimacy and job crafting: The role of corporate social responsibility initiatives",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "Remote and hybrid work arrangements, for instance, amplify the role of digital peer validation in normalizing crafting behaviors, while highly bureaucratic environments dampen such initiatives through surveillance and rigid role definitions [13].",
+    "refNo": 13,
+    "title": "Job crafting and proactive behavior: Overlapping or distinct constructs?",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "While some studies have employed diary methods to capture within-person variation over short periods, few have tracked changes across months or years to establish causal pathways [25].",
+    "refNo": 25,
+    "title": "Control versus autonomy in organizational settings: Implications for employee engagement and innovation",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "For instance, one randomized field experiment demonstrated that structured feedback interventions increased job crafting over a 12-week period, but such designs remain rare [46].",
+    "refNo": 46,
+    "title": "The impact of inclusive leadership on job crafting among underrepresented groups: A multilevel analysis",
+    "marker_text": "[46]"
+  },
+  {
+    "sentence": "This process is facilitated by perceived organizational support and inclusive leadership, which legitimize proactive relational behaviors and reduce social sanctions [1].",
+    "refNo": 1,
+    "title": "Making work more personal: Crafting a job to fit your self",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Peer validation and social contagion further amplify crafting efforts, as employees observe and emulate normative behaviors within their social networks [2].",
+    "refNo": 2,
+    "title": "Work engagement and the job demands-resources model: A longitudinal study",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "The model further integrates identity-based motivations, where social job crafting serves as a mechanism to reconcile professional self-concepts with organizational roles, particularly for marginalized employees navigating identity threats [3].",
+    "refNo": 3,
+    "title": "Job crafting: A review and future directions",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Social support from both work and non-work sources acts as a critical resource buffer, enabling sustained crafting despite structural constraints [4].",
+    "refNo": 4,
+    "title": "The role of calling in job crafting: A qualitative study",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Finally, digital platforms and virtual communities extend the scope of social crafting beyond physical proximity, allowing for asynchronous peer feedback and collective sensemaking [5].",
+    "refNo": 5,
+    "title": "Feedback-seeking behavior and job crafting: A social learning perspective",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "While peer norms can enable proactive behavior, they may also reinforce exclusionary practices, particularly for marginalized employees who face structural barriers to influence [34].",
+    "refNo": 34,
+    "title": "The hollowing out of HR practices: When formal policies fail to translate into employee empowerment",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "As platforms increasingly regulate interaction patterns, it is unclear how automated feedback systems and visibility metrics either amplify or suppress peer-driven job redesign efforts [28].",
+    "refNo": 28,
+    "title": "Bureaucracy and innovation: The paradox of formalization in organizational change",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Additionally, the temporal dynamics of social contagion in job crafting—how influence spreads, fades, or reverses over time—lack longitudinal validation, despite evidence suggesting non-linear trajectories in proactive behavior [12].",
+    "refNo": 12,
+    "title": "Diary methods in job crafting research: Capturing dynamic processes",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Recent work on disability and LGBTQ+ employees suggests that crafting often occurs in the shadow of institutional ambiguity [30], [38].",
+    "refNo": 30,
+    "title": "Social contagion of proactive behavior: How peer norms shape employee initiative",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "Recent work on disability and LGBTQ+ employees suggests that crafting often occurs in the shadow of institutional ambiguity [30], [38].",
+    "refNo": 38,
+    "title": "Gendered constraints on proactive work behavior: A qualitative study of women in STEM",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Implementing structured peer mentoring programs, cross-functional collaboration teams, and regular feedback forums can create safe spaces for employees to co-construct their roles through social exchange [1].",
+    "refNo": 1,
+    "title": "Making work more personal: Crafting a job to fit your self",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Leaders should be trained in autonomy-supportive behaviors that encourage relational job crafting without imposing control, as excessive oversight can suppress informal social redesign efforts [2].",
+    "refNo": 2,
+    "title": "Work engagement and the job demands-resources model: A longitudinal study",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Features such as anonymous peer recognition, inclusive discussion threads, and algorithmic bias audits can mitigate the exclusionary dynamics observed in informal digital networks [3].",
+    "refNo": 3,
+    "title": "Job crafting: A review and future directions",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Organizations must also align formal HR policies with social crafting practices—e.g., revising performance metrics to reward collaborative initiative and relational contributions, not just individual output [4].",
+    "refNo": 4,
+    "title": "The role of calling in job crafting: A qualitative study",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "When employees feel safe to disclose identity-related needs or request relational adjustments, social job crafting becomes a collective, rather than isolated, practice [5].",
+    "refNo": 5,
+    "title": "Feedback-seeking behavior and job crafting: A social learning perspective",
+    "marker_text": "[5]"
+  }
+]

@@ -1,0 +1,1646 @@
+[
+  {
+    "sentence": "It is characterized by chaotic atrial activation leading to impaired atrial myocardial function, as represented in computational and mathematical studies of atrial arrhythmia dynamics and remodeling ref [7], ref [8], ref [20].",
+    "refNo": 7,
+    "title": "Mathematical analysis of canine atrial action potentials: Rate, regional factors, and electrical remodeling",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "It is characterized by chaotic atrial activation leading to impaired atrial myocardial function, as represented in computational and mathematical studies of atrial arrhythmia dynamics and remodeling ref [7], ref [8], ref [20].",
+    "refNo": 8,
+    "title": "Electrophysiological models for the heterogeneous canine atria: computational platform for studying rapid atrial arrhythmias",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "It is characterized by chaotic atrial activation leading to impaired atrial myocardial function, as represented in computational and mathematical studies of atrial arrhythmia dynamics and remodeling ref [7], ref [8], ref [20].",
+    "refNo": 20,
+    "title": "Lessons from computer simulations of ablation of atrial fibrillation",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "The scoping review process followed established methodological frameworks for scoping studies and systematic scoping reviews ref [1], ref [2].",
+    "refNo": 1,
+    "title": "Scoping studies: towards a methodological framework",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "The scoping review process followed established methodological frameworks for scoping studies and systematic scoping reviews ref [1], ref [2].",
+    "refNo": 2,
+    "title": "Guidance for conducting systematic scoping reviews",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Most of the studies addressed the effect on the slow delayed outward rectifier potassium channel (I Ks ) ref [9], ref [19] as well as on other potassium ref [18] or sodium channels ref [3], ref [17].",
+    "refNo": 9,
+    "title": "PITX2 modulates atrial membrane potential and the antiarrhythmic effects of sodium-channel blockers",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Most of the studies addressed the effect on the slow delayed outward rectifier potassium channel (I Ks ) ref [9], ref [19] as well as on other potassium ref [18] or sodium channels ref [3], ref [17].",
+    "refNo": 19,
+    "title": "A membrane model of electrically remodelled atrial myocardium derived from in vivo measurements",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Most of the studies addressed the effect on the slow delayed outward rectifier potassium channel (I Ks ) ref [9], ref [19] as well as on other potassium ref [18] or sodium channels ref [3], ref [17].",
+    "refNo": 18,
+    "title": "Spironolactone and its main metabolite canrenoic acid block hKv1.5. Kv4.3 and Kv7.1 + minK channels",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Most of the studies addressed the effect on the slow delayed outward rectifier potassium channel (I Ks ) ref [9], ref [19] as well as on other potassium ref [18] or sodium channels ref [3], ref [17].",
+    "refNo": 3,
+    "title": "Mechanisms of atrial fibrillation termination by pure sodium channel blockade in an ionically-realistic mathematical model",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Most of the studies addressed the effect on the slow delayed outward rectifier potassium channel (I Ks ) ref [9], ref [19] as well as on other potassium ref [18] or sodium channels ref [3], ref [17].",
+    "refNo": 17,
+    "title": "Characterization of human cardiac Kv1.5 inhibition by the novel atrial-selective antiarrhythmic compound AVE1231",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "While most articles focus on the effects of gene expression on a cell or 2D tissue model, Whittaker et al. (2017) studied the stability of the re-entrant waves using a realistic atrial model, consistent with work on realistic reentry substrates and atrial heterogeneity ref [10], ref [11].",
+    "refNo": 10,
+    "title": "Atrial heterogeneity generates re-entrant substrate during atrial fibrillation and antiarrhythmic drug action: mechanistic insights from canine atrial models",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "While most articles focus on the effects of gene expression on a cell or 2D tissue model, Whittaker et al. (2017) studied the stability of the re-entrant waves using a realistic atrial model, consistent with work on realistic reentry substrates and atrial heterogeneity ref [10], ref [11].",
+    "refNo": 11,
+    "title": "Reentry in a morphologically realistic atrial model",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "In the cell level simulations, a single cell is considered ref [7], ref [12], ref [20].",
+    "refNo": 7,
+    "title": "Mathematical analysis of canine atrial action potentials: Rate, regional factors, and electrical remodeling",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "In the cell level simulations, a single cell is considered ref [7], ref [12], ref [20].",
+    "refNo": 12,
+    "title": "Mathematical models of canine right and left atria cardiomyocytes",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "In the cell level simulations, a single cell is considered ref [7], ref [12], ref [20].",
+    "refNo": 20,
+    "title": "Lessons from computer simulations of ablation of atrial fibrillation",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "In the tissue level studies, the atrial excitation is simulated in a 2D level including several anatomical structures ref [4], ref [5], ref [6], ref [16].",
+    "refNo": 4,
+    "title": "Cholinergic atrial fibrillation in a computer model of a two-dimensional sheet of canine atrial cells with realistic ionic properties",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "In the tissue level studies, the atrial excitation is simulated in a 2D level including several anatomical structures ref [4], ref [5], ref [6], ref [16].",
+    "refNo": 5,
+    "title": "A mathematical model of neonatal rat atrial monolayers with constitutively active acetylcholine-mediated K+ current",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "In the tissue level studies, the atrial excitation is simulated in a 2D level including several anatomical structures ref [4], ref [5], ref [6], ref [16].",
+    "refNo": 6,
+    "title": "Effects of the intracellular Ca2+ dynamics on restitution properties and stability of reentry in rabbit atrial tissue model",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "In the tissue level studies, the atrial excitation is simulated in a 2D level including several anatomical structures ref [4], ref [5], ref [6], ref [16].",
+    "refNo": 16,
+    "title": "Mechanisms of atrial fibrillation termination by rapidly unbinding Na + channel blockers: Insights from mathematical models and experimental correlates",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "In the organ level studies, 3D models of the atria are considered. 3D structures, like icosahedron, or simple atrial representations, have been proposed, while realistic geometrical models of human atria were constructed using imaging-based or morphologically realistic approaches ref [11], ref [13], ref [14].",
+    "refNo": 11,
+    "title": "Reentry in a morphologically realistic atrial model",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "In the organ level studies, 3D models of the atria are considered. 3D structures, like icosahedron, or simple atrial representations, have been proposed, while realistic geometrical models of human atria were constructed using imaging-based or morphologically realistic approaches ref [11], ref [13], ref [14].",
+    "refNo": 13,
+    "title": "An image-based model of atrial muscular architecture effects of structural anisotropy on electrical activation",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "In the organ level studies, 3D models of the atria are considered. 3D structures, like icosahedron, or simple atrial representations, have been proposed, while realistic geometrical models of human atria were constructed using imaging-based or morphologically realistic approaches ref [11], ref [13], ref [14].",
+    "refNo": 14,
+    "title": "A novel computational sheep atria model for the study of atrial fibrillation",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "The definition proposed by Colquhoun et al. (2014) states that \"A scoping review or scoping study is a form of knowledge synthesis that addresses an exploratory research question aimed at mapping key concepts, types of evidence, and gaps in research related to a defined area or field by systematically searching, selecting, and synthesizing existing knowledge.\" The interplay of multiple factors can lead to the initiation and perpetuation of the arrhythmia ref [22], ref [31], ref [32], ref [35], ref [18].",
+    "refNo": 22,
+    "title": "Myocardial architecture and patient variability in clinical patterns of atrial fibrillation",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "The definition proposed by Colquhoun et al. (2014) states that \"A scoping review or scoping study is a form of knowledge synthesis that addresses an exploratory research question aimed at mapping key concepts, types of evidence, and gaps in research related to a defined area or field by systematically searching, selecting, and synthesizing existing knowledge.\" The interplay of multiple factors can lead to the initiation and perpetuation of the arrhythmia ref [22], ref [31], ref [32], ref [35], ref [18].",
+    "refNo": 31,
+    "title": "Impact of tissue geometry on simulated cholinergic atrial fibrillation: a modeling study",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "The definition proposed by Colquhoun et al. (2014) states that \"A scoping review or scoping study is a form of knowledge synthesis that addresses an exploratory research question aimed at mapping key concepts, types of evidence, and gaps in research related to a defined area or field by systematically searching, selecting, and synthesizing existing knowledge.\" The interplay of multiple factors can lead to the initiation and perpetuation of the arrhythmia ref [22], ref [31], ref [32], ref [35], ref [18].",
+    "refNo": 32,
+    "title": "The contribution of ionic currents to rate-dependent action potential duration and pattern of reentry in a mathematical model of human atrial fibrillation",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "The definition proposed by Colquhoun et al. (2014) states that \"A scoping review or scoping study is a form of knowledge synthesis that addresses an exploratory research question aimed at mapping key concepts, types of evidence, and gaps in research related to a defined area or field by systematically searching, selecting, and synthesizing existing knowledge.\" The interplay of multiple factors can lead to the initiation and perpetuation of the arrhythmia ref [22], ref [31], ref [32], ref [35], ref [18].",
+    "refNo": 35,
+    "title": "Loss of continuity in the thin epicardial layer because of endomysial fibrosis increases the complexity of atrial fibrillatory conduction",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "The definition proposed by Colquhoun et al. (2014) states that \"A scoping review or scoping study is a form of knowledge synthesis that addresses an exploratory research question aimed at mapping key concepts, types of evidence, and gaps in research related to a defined area or field by systematically searching, selecting, and synthesizing existing knowledge.\" The interplay of multiple factors can lead to the initiation and perpetuation of the arrhythmia ref [22], ref [31], ref [32], ref [35], ref [18].",
+    "refNo": 18,
+    "title": "Spironolactone and its main metabolite canrenoic acid block hKv1.5. Kv4.3 and Kv7.1 + minK channels",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "In this section, the existing literature in the field of atrial models is presented while a categorization of the articles was made based on the factors that are addressed in each simulation study ref [20], ref [21], ref [20].",
+    "refNo": 20,
+    "title": "Lessons from computer simulations of ablation of atrial fibrillation",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "In this section, the existing literature in the field of atrial models is presented while a categorization of the articles was made based on the factors that are addressed in each simulation study ref [20], ref [21], ref [20].",
+    "refNo": 21,
+    "title": "Personalization of atrial anatomy and electrophysiology as a basis for clinical modeling of radio-frequency ablation of atrial fibrillation",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "In this section, the existing literature in the field of atrial models is presented while a categorization of the articles was made based on the factors that are addressed in each simulation study ref [20], ref [21], ref [20].",
+    "refNo": 20,
+    "title": "Lessons from computer simulations of ablation of atrial fibrillation",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Several types of antiarrhythmic drugs have been analyzed in silico regarding their performance on the termination of AF ref [29], ref [30], under SR and AF ref [24], ref [33].",
+    "refNo": 29,
+    "title": "Chloroquine effect on rotor termination under paroxysmal and chronic atrial fibrillation. 2D simulation study",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Several types of antiarrhythmic drugs have been analyzed in silico regarding their performance on the termination of AF ref [29], ref [30], under SR and AF ref [24], ref [33].",
+    "refNo": 30,
+    "title": "Inducibility of human atrial fibrillation in an in silico model reflecting local acetylcholine distribution and concentration",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "Several types of antiarrhythmic drugs have been analyzed in silico regarding their performance on the termination of AF ref [29], ref [30], under SR and AF ref [24], ref [33].",
+    "refNo": 24,
+    "title": "Role of IKur in controlling action potential shape and contractility in the human atrium: Influence of chronic atrial fibrillation",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Several types of antiarrhythmic drugs have been analyzed in silico regarding their performance on the termination of AF ref [29], ref [30], under SR and AF ref [24], ref [33].",
+    "refNo": 33,
+    "title": "Role of upregulation of IK1 in action potential shortening associated with atrial fibrillation in humans",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "In general, atrial contractility is associated with tissue depolarization as well as with the structural remodeling co-existence ref [23], ref [24], ref [25], ref [27].",
+    "refNo": 23,
+    "title": "Mechanoelectric feedback leads to conduction slowing and block in acutely dilated atria: A modeling study of cardiac electromechanics",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "In general, atrial contractility is associated with tissue depolarization as well as with the structural remodeling co-existence ref [23], ref [24], ref [25], ref [27].",
+    "refNo": 24,
+    "title": "Role of IKur in controlling action potential shape and contractility in the human atrium: Influence of chronic atrial fibrillation",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "In general, atrial contractility is associated with tissue depolarization as well as with the structural remodeling co-existence ref [23], ref [24], ref [25], ref [27].",
+    "refNo": 25,
+    "title": "Impact of sarcoplasmic reticulum calcium release on calcium dynamics and action potential morphology in human atrial myocytes: A computational study",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "In general, atrial contractility is associated with tissue depolarization as well as with the structural remodeling co-existence ref [23], ref [24], ref [25], ref [27].",
+    "refNo": 27,
+    "title": "A new model of the human atrial myocyte with variable T-tubule organization for the study of atrial fibrillation",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "Kuijpers et al. (2007) published the first model that integrates cardiac electromechanics with physiological details ref [23].",
+    "refNo": 23,
+    "title": "Mechanoelectric feedback leads to conduction slowing and block in acutely dilated atria: A modeling study of cardiac electromechanics",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "According to this model, stretching of an atrial fiber influences the stretch-activated current (I SAC ) ref [23].",
+    "refNo": 23,
+    "title": "Mechanoelectric feedback leads to conduction slowing and block in acutely dilated atria: A modeling study of cardiac electromechanics",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "The model complies with experimental observations of conduction slowing and blocking as a result of an acutely dilated atria ref [23].",
+    "refNo": 23,
+    "title": "Mechanoelectric feedback leads to conduction slowing and block in acutely dilated atria: A modeling study of cardiac electromechanics",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "This model was integrated into a 3D geometrical model of the atria in order to investigate the role of stretch-activated current on the onset and termination of AF episodes ref [20].",
+    "refNo": 20,
+    "title": "Lessons from computer simulations of ablation of atrial fibrillation",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "The role of acutely dilated atria on AF initiation was later reported ref [23].",
+    "refNo": 23,
+    "title": "Mechanoelectric feedback leads to conduction slowing and block in acutely dilated atria: A modeling study of cardiac electromechanics",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Ni et al. (2014) used an electromechanical model of the ventricles (Adeniran et al., 2013) to study the effect of KCNA5 mutation on the electromechanical function of the human atrial cell while Adeniran et al. (2015) studied the effect of AF-induced electrical remodeling on the electromechanical function of the heart ref [24], ref [26], ref [33], ref [34].",
+    "refNo": 24,
+    "title": "Role of IKur in controlling action potential shape and contractility in the human atrium: Influence of chronic atrial fibrillation",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Ni et al. (2014) used an electromechanical model of the ventricles (Adeniran et al., 2013) to study the effect of KCNA5 mutation on the electromechanical function of the human atrial cell while Adeniran et al. (2015) studied the effect of AF-induced electrical remodeling on the electromechanical function of the heart ref [24], ref [26], ref [33], ref [34].",
+    "refNo": 26,
+    "title": "Mathematical model of an adult human atrial cell: the role of K+ currents in repolarization",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "Ni et al. (2014) used an electromechanical model of the ventricles (Adeniran et al., 2013) to study the effect of KCNA5 mutation on the electromechanical function of the human atrial cell while Adeniran et al. (2015) studied the effect of AF-induced electrical remodeling on the electromechanical function of the heart ref [24], ref [26], ref [33], ref [34].",
+    "refNo": 33,
+    "title": "Role of upregulation of IK1 in action potential shortening associated with atrial fibrillation in humans",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "Ni et al. (2014) used an electromechanical model of the ventricles (Adeniran et al., 2013) to study the effect of KCNA5 mutation on the electromechanical function of the human atrial cell while Adeniran et al. (2015) studied the effect of AF-induced electrical remodeling on the electromechanical function of the heart ref [24], ref [26], ref [33], ref [34].",
+    "refNo": 34,
+    "title": "How disruption of endo-epicardial electrical connections enhances endo-epicardial conduction during atrial fibrillation",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "In this study, one electrophysiological model of human atria was modified to include the stretch-activated current, while combined with a mechanical model which describes the active force generated in cellular level in response to the electrical signal ref [23], ref [25], ref [26], ref [27].",
+    "refNo": 23,
+    "title": "Mechanoelectric feedback leads to conduction slowing and block in acutely dilated atria: A modeling study of cardiac electromechanics",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "In this study, one electrophysiological model of human atria was modified to include the stretch-activated current, while combined with a mechanical model which describes the active force generated in cellular level in response to the electrical signal ref [23], ref [25], ref [26], ref [27].",
+    "refNo": 25,
+    "title": "Impact of sarcoplasmic reticulum calcium release on calcium dynamics and action potential morphology in human atrial myocytes: A computational study",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "In this study, one electrophysiological model of human atria was modified to include the stretch-activated current, while combined with a mechanical model which describes the active force generated in cellular level in response to the electrical signal ref [23], ref [25], ref [26], ref [27].",
+    "refNo": 26,
+    "title": "Mathematical model of an adult human atrial cell: the role of K+ currents in repolarization",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "In this study, one electrophysiological model of human atria was modified to include the stretch-activated current, while combined with a mechanical model which describes the active force generated in cellular level in response to the electrical signal ref [23], ref [25], ref [26], ref [27].",
+    "refNo": 27,
+    "title": "A new model of the human atrial myocyte with variable T-tubule organization for the study of atrial fibrillation",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "This study highlights the effect of mechanoelectrical feedback on AF ref [23].",
+    "refNo": 23,
+    "title": "Mechanoelectric feedback leads to conduction slowing and block in acutely dilated atria: A modeling study of cardiac electromechanics",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "We focused on the identification of the mechanisms, either on cell, tissue or organ level, which can describe the variation of the P-wave morphologies in AF patients during SR while we tried to investigate the existence of computational models which can reproduce those mechanisms ref [37], ref [38], ref [39], ref [41], ref [42], ref [43], ref [45], ref [46], ref [19], ref [20].",
+    "refNo": 37,
+    "title": "Morphological variability of the P-wave for premature envision of paroxysmal atrial fibrillation events",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "We focused on the identification of the mechanisms, either on cell, tissue or organ level, which can describe the variation of the P-wave morphologies in AF patients during SR while we tried to investigate the existence of computational models which can reproduce those mechanisms ref [37], ref [38], ref [39], ref [41], ref [42], ref [43], ref [45], ref [46], ref [19], ref [20].",
+    "refNo": 38,
+    "title": "P-wave morphology: underlying mechanisms and clinical implications",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "We focused on the identification of the mechanisms, either on cell, tissue or organ level, which can describe the variation of the P-wave morphologies in AF patients during SR while we tried to investigate the existence of computational models which can reproduce those mechanisms ref [37], ref [38], ref [39], ref [41], ref [42], ref [43], ref [45], ref [46], ref [19], ref [20].",
+    "refNo": 39,
+    "title": "P-wave variability and atrial fibrillation",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "We focused on the identification of the mechanisms, either on cell, tissue or organ level, which can describe the variation of the P-wave morphologies in AF patients during SR while we tried to investigate the existence of computational models which can reproduce those mechanisms ref [37], ref [38], ref [39], ref [41], ref [42], ref [43], ref [45], ref [46], ref [19], ref [20].",
+    "refNo": 41,
+    "title": "Comparison of detailed and simplified models of human atrial myocytes to recapitulate patient specific properties",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "We focused on the identification of the mechanisms, either on cell, tissue or organ level, which can describe the variation of the P-wave morphologies in AF patients during SR while we tried to investigate the existence of computational models which can reproduce those mechanisms ref [37], ref [38], ref [39], ref [41], ref [42], ref [43], ref [45], ref [46], ref [19], ref [20].",
+    "refNo": 42,
+    "title": "Comparing measured and simulated wave directions in the left atrium a workflow for model personalization and validation",
+    "marker_text": "[42]"
+  },
+  {
+    "sentence": "We focused on the identification of the mechanisms, either on cell, tissue or organ level, which can describe the variation of the P-wave morphologies in AF patients during SR while we tried to investigate the existence of computational models which can reproduce those mechanisms ref [37], ref [38], ref [39], ref [41], ref [42], ref [43], ref [45], ref [46], ref [19], ref [20].",
+    "refNo": 43,
+    "title": "Mechanisms of stochastic onset and termination of atrial fibrillation studied with a cellular automaton model",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "We focused on the identification of the mechanisms, either on cell, tissue or organ level, which can describe the variation of the P-wave morphologies in AF patients during SR while we tried to investigate the existence of computational models which can reproduce those mechanisms ref [37], ref [38], ref [39], ref [41], ref [42], ref [43], ref [45], ref [46], ref [19], ref [20].",
+    "refNo": 45,
+    "title": "Human atrial action potential and Ca 2+ model: Sinus rhythm and chronic atrial fibrillation",
+    "marker_text": "[45]"
+  },
+  {
+    "sentence": "We focused on the identification of the mechanisms, either on cell, tissue or organ level, which can describe the variation of the P-wave morphologies in AF patients during SR while we tried to investigate the existence of computational models which can reproduce those mechanisms ref [37], ref [38], ref [39], ref [41], ref [42], ref [43], ref [45], ref [46], ref [19], ref [20].",
+    "refNo": 46,
+    "title": "Ganglionated plexi stimulation induces pulmonary vein triggers and promotes atrial arrhythmogenecity: in silico modeling study",
+    "marker_text": "[46]"
+  },
+  {
+    "sentence": "We focused on the identification of the mechanisms, either on cell, tissue or organ level, which can describe the variation of the P-wave morphologies in AF patients during SR while we tried to investigate the existence of computational models which can reproduce those mechanisms ref [37], ref [38], ref [39], ref [41], ref [42], ref [43], ref [45], ref [46], ref [19], ref [20].",
+    "refNo": 19,
+    "title": "A membrane model of electrically remodelled atrial myocardium derived from in vivo measurements",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "We focused on the identification of the mechanisms, either on cell, tissue or organ level, which can describe the variation of the P-wave morphologies in AF patients during SR while we tried to investigate the existence of computational models which can reproduce those mechanisms ref [37], ref [38], ref [39], ref [41], ref [42], ref [43], ref [45], ref [46], ref [19], ref [20].",
+    "refNo": 20,
+    "title": "Lessons from computer simulations of ablation of atrial fibrillation",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "The following research questions were posed: While in the first years, the ratio between the studies focusing on humans or animals was approximately 1:1, during the last decade, an increased interest in human studies is observed ( Figure 5) ref [42], ref [43], ref [45], ref [46], ref [17], ref [19], ref [20].",
+    "refNo": 42,
+    "title": "Comparing measured and simulated wave directions in the left atrium a workflow for model personalization and validation",
+    "marker_text": "[42]"
+  },
+  {
+    "sentence": "The following research questions were posed: While in the first years, the ratio between the studies focusing on humans or animals was approximately 1:1, during the last decade, an increased interest in human studies is observed ( Figure 5) ref [42], ref [43], ref [45], ref [46], ref [17], ref [19], ref [20].",
+    "refNo": 43,
+    "title": "Mechanisms of stochastic onset and termination of atrial fibrillation studied with a cellular automaton model",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "The following research questions were posed: While in the first years, the ratio between the studies focusing on humans or animals was approximately 1:1, during the last decade, an increased interest in human studies is observed ( Figure 5) ref [42], ref [43], ref [45], ref [46], ref [17], ref [19], ref [20].",
+    "refNo": 45,
+    "title": "Human atrial action potential and Ca 2+ model: Sinus rhythm and chronic atrial fibrillation",
+    "marker_text": "[45]"
+  },
+  {
+    "sentence": "The following research questions were posed: While in the first years, the ratio between the studies focusing on humans or animals was approximately 1:1, during the last decade, an increased interest in human studies is observed ( Figure 5) ref [42], ref [43], ref [45], ref [46], ref [17], ref [19], ref [20].",
+    "refNo": 46,
+    "title": "Ganglionated plexi stimulation induces pulmonary vein triggers and promotes atrial arrhythmogenecity: in silico modeling study",
+    "marker_text": "[46]"
+  },
+  {
+    "sentence": "The following research questions were posed: While in the first years, the ratio between the studies focusing on humans or animals was approximately 1:1, during the last decade, an increased interest in human studies is observed ( Figure 5) ref [42], ref [43], ref [45], ref [46], ref [17], ref [19], ref [20].",
+    "refNo": 17,
+    "title": "Characterization of human cardiac Kv1.5 inhibition by the novel atrial-selective antiarrhythmic compound AVE1231",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "The following research questions were posed: While in the first years, the ratio between the studies focusing on humans or animals was approximately 1:1, during the last decade, an increased interest in human studies is observed ( Figure 5) ref [42], ref [43], ref [45], ref [46], ref [17], ref [19], ref [20].",
+    "refNo": 19,
+    "title": "A membrane model of electrically remodelled atrial myocardium derived from in vivo measurements",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "The following research questions were posed: While in the first years, the ratio between the studies focusing on humans or animals was approximately 1:1, during the last decade, an increased interest in human studies is observed ( Figure 5) ref [42], ref [43], ref [45], ref [46], ref [17], ref [19], ref [20].",
+    "refNo": 20,
+    "title": "Lessons from computer simulations of ablation of atrial fibrillation",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "The animal studies can improve our understanding of the pathophysiological properties of AF while their findings can be useful in human studies ref [44], ref [50], ref [16], ref [18].",
+    "refNo": 44,
+    "title": "Study of atrial arrhythmias in a computer model based on magnetic resonance images of human atria",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "The animal studies can improve our understanding of the pathophysiological properties of AF while their findings can be useful in human studies ref [44], ref [50], ref [16], ref [18].",
+    "refNo": 50,
+    "title": "A three-dimensional human atrial model with fiber orientation. Electrograms and arrhythmic activation patterns relationship",
+    "marker_text": "[50]"
+  },
+  {
+    "sentence": "The animal studies can improve our understanding of the pathophysiological properties of AF while their findings can be useful in human studies ref [44], ref [50], ref [16], ref [18].",
+    "refNo": 16,
+    "title": "Mechanisms of atrial fibrillation termination by rapidly unbinding Na + channel blockers: Insights from mathematical models and experimental correlates",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "The animal studies can improve our understanding of the pathophysiological properties of AF while their findings can be useful in human studies ref [44], ref [50], ref [16], ref [18].",
+    "refNo": 18,
+    "title": "Spironolactone and its main metabolite canrenoic acid block hKv1.5. Kv4.3 and Kv7.1 + minK channels",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "The effect of vagal tone on atrial arrhythmogenesis has been reported in several studies ref [50], ref [18].",
+    "refNo": 50,
+    "title": "A three-dimensional human atrial model with fiber orientation. Electrograms and arrhythmic activation patterns relationship",
+    "marker_text": "[50]"
+  },
+  {
+    "sentence": "The effect of vagal tone on atrial arrhythmogenesis has been reported in several studies ref [50], ref [18].",
+    "refNo": 18,
+    "title": "Spironolactone and its main metabolite canrenoic acid block hKv1.5. Kv4.3 and Kv7.1 + minK channels",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "All types of AF were considered, including Asymptomatic, Paroxysmal, Persistent, or Permanent ref [53], ref [54], ref [55].",
+    "refNo": 53,
+    "title": "2016 ESC Guidelines for the management of atrial fibrillation developed in collaboration with EACTS",
+    "marker_text": "[53]"
+  },
+  {
+    "sentence": "All types of AF were considered, including Asymptomatic, Paroxysmal, Persistent, or Permanent ref [53], ref [54], ref [55].",
+    "refNo": 54,
+    "title": "Atrial fibrillation: classification, pathophysiology, mechanisms and drug treatment",
+    "marker_text": "[54]"
+  },
+  {
+    "sentence": "All types of AF were considered, including Asymptomatic, Paroxysmal, Persistent, or Permanent ref [53], ref [54], ref [55].",
+    "refNo": 55,
+    "title": "Atrial fibrillation compendium: Historical context and detailed translational perspective on an important clinical problem",
+    "marker_text": "[55]"
+  },
+  {
+    "sentence": "As for the intervention, any level of computational models that enabled the simulation of the atrial activation was eligible for inclusion ref [60], ref [62].",
+    "refNo": 60,
+    "title": "Benchmarking electrophysiological models of human atrial myocytes",
+    "marker_text": "[60]"
+  },
+  {
+    "sentence": "As for the intervention, any level of computational models that enabled the simulation of the atrial activation was eligible for inclusion ref [60], ref [62].",
+    "refNo": 62,
+    "title": "Effects of human atrial ionic remodelling by β-blocker therapy onmechanisms of atrial fibrillation: A computer simulation",
+    "marker_text": "[62]"
+  },
+  {
+    "sentence": "Models focusing on the cell or tissue level, as well as on the organ level were examined ref [63], ref [65], ref [69], ref [20].",
+    "refNo": 63,
+    "title": "Atrial fibrillation dynamics and ionic block effects in six heterogeneous human 3d virtual atria with distinct repolarization dynamics",
+    "marker_text": "[63]"
+  },
+  {
+    "sentence": "Models focusing on the cell or tissue level, as well as on the organ level were examined ref [63], ref [65], ref [69], ref [20].",
+    "refNo": 65,
+    "title": "Recurrent intradialytic paroxysmal atrial fibrillation: hypotheses on onset mechanisms based on clinical data and computational analysis",
+    "marker_text": "[65]"
+  },
+  {
+    "sentence": "Models focusing on the cell or tissue level, as well as on the organ level were examined ref [63], ref [65], ref [69], ref [20].",
+    "refNo": 69,
+    "title": "Structural contributions to fibrillatory rotors in a patient-derived computational model of the atria",
+    "marker_text": "[69]"
+  },
+  {
+    "sentence": "Models focusing on the cell or tissue level, as well as on the organ level were examined ref [63], ref [65], ref [69], ref [20].",
+    "refNo": 20,
+    "title": "Lessons from computer simulations of ablation of atrial fibrillation",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Computational modeling is by nature an approximation of reality and several approaches have been adopted to evaluate their output ref [62].",
+    "refNo": 62,
+    "title": "Effects of human atrial ionic remodelling by β-blocker therapy onmechanisms of atrial fibrillation: A computer simulation",
+    "marker_text": "[62]"
+  },
+  {
+    "sentence": "On the other hand, some of the articles included a comparison between the in silico and the in vivo findings, based on electrophysiological findings ref [60], ref [62], ref [64], ref [68].",
+    "refNo": 60,
+    "title": "Benchmarking electrophysiological models of human atrial myocytes",
+    "marker_text": "[60]"
+  },
+  {
+    "sentence": "On the other hand, some of the articles included a comparison between the in silico and the in vivo findings, based on electrophysiological findings ref [60], ref [62], ref [64], ref [68].",
+    "refNo": 62,
+    "title": "Effects of human atrial ionic remodelling by β-blocker therapy onmechanisms of atrial fibrillation: A computer simulation",
+    "marker_text": "[62]"
+  },
+  {
+    "sentence": "On the other hand, some of the articles included a comparison between the in silico and the in vivo findings, based on electrophysiological findings ref [60], ref [62], ref [64], ref [68].",
+    "refNo": 64,
+    "title": "Chronotropic modulation of the sourcesink relationship of sinoatrial-atrial impulse conduction and its significance to initiation of AF: a one-dimensional model study",
+    "marker_text": "[64]"
+  },
+  {
+    "sentence": "On the other hand, some of the articles included a comparison between the in silico and the in vivo findings, based on electrophysiological findings ref [60], ref [62], ref [64], ref [68].",
+    "refNo": 68,
+    "title": "The major role of IK1 in mechanisms of rotor drift in the atria: a computational study",
+    "marker_text": "[68]"
+  },
+  {
+    "sentence": "Furthermore, the reproducibility of the simulated signals, electrograms or ECG, with the real recordings is discussed in the context of solving the forward ref [59] or inverse problem ref [59].",
+    "refNo": 59,
+    "title": "Ionic mechanisms underlying human atrial action potential properties: insights from a mathematical model",
+    "marker_text": "[59]"
+  },
+  {
+    "sentence": "Furthermore, the reproducibility of the simulated signals, electrograms or ECG, with the real recordings is discussed in the context of solving the forward ref [59] or inverse problem ref [59].",
+    "refNo": 59,
+    "title": "Ionic mechanisms underlying human atrial action potential properties: insights from a mathematical model",
+    "marker_text": "[59]"
+  },
+  {
+    "sentence": "Finally, the need for personalized anatomical and electrical models is highlighted toward the highest reproducibility of the results ref [65], ref [20].",
+    "refNo": 65,
+    "title": "Recurrent intradialytic paroxysmal atrial fibrillation: hypotheses on onset mechanisms based on clinical data and computational analysis",
+    "marker_text": "[65]"
+  },
+  {
+    "sentence": "Finally, the need for personalized anatomical and electrical models is highlighted toward the highest reproducibility of the results ref [65], ref [20].",
+    "refNo": 20,
+    "title": "Lessons from computer simulations of ablation of atrial fibrillation",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Atrial fibrillation is a progressive disease, where at the first stages the episodes are short and infrequent (paroxysmal AF), and later on, they are more frequent and more prolonged (persistent or permanent AF) ref [52], ref [53], ref [54], ref [56].",
+    "refNo": 52,
+    "title": "The clinical profile and pathophysiology of atrial fibrillation: relationships among clinical features, epidemiology, and mechanisms",
+    "marker_text": "[52]"
+  },
+  {
+    "sentence": "Atrial fibrillation is a progressive disease, where at the first stages the episodes are short and infrequent (paroxysmal AF), and later on, they are more frequent and more prolonged (persistent or permanent AF) ref [52], ref [53], ref [54], ref [56].",
+    "refNo": 53,
+    "title": "2016 ESC Guidelines for the management of atrial fibrillation developed in collaboration with EACTS",
+    "marker_text": "[53]"
+  },
+  {
+    "sentence": "Atrial fibrillation is a progressive disease, where at the first stages the episodes are short and infrequent (paroxysmal AF), and later on, they are more frequent and more prolonged (persistent or permanent AF) ref [52], ref [53], ref [54], ref [56].",
+    "refNo": 54,
+    "title": "Atrial fibrillation: classification, pathophysiology, mechanisms and drug treatment",
+    "marker_text": "[54]"
+  },
+  {
+    "sentence": "Atrial fibrillation is a progressive disease, where at the first stages the episodes are short and infrequent (paroxysmal AF), and later on, they are more frequent and more prolonged (persistent or permanent AF) ref [52], ref [53], ref [54], ref [56].",
+    "refNo": 56,
+    "title": "Atrial fibrillation: mechanisms, therapeutics, and future directions",
+    "marker_text": "[56]"
+  },
+  {
+    "sentence": "As AF progresses to more stable types, different parameters of the electrophysiological models are modified to reflect the AF-induced electrical remodeling ref [58], ref [60], ref [64], ref [68].",
+    "refNo": 58,
+    "title": "Noninvasive estimation of epicardial dominant highfrequency regions during atrial fibrillation",
+    "marker_text": "[58]"
+  },
+  {
+    "sentence": "As AF progresses to more stable types, different parameters of the electrophysiological models are modified to reflect the AF-induced electrical remodeling ref [58], ref [60], ref [64], ref [68].",
+    "refNo": 60,
+    "title": "Benchmarking electrophysiological models of human atrial myocytes",
+    "marker_text": "[60]"
+  },
+  {
+    "sentence": "As AF progresses to more stable types, different parameters of the electrophysiological models are modified to reflect the AF-induced electrical remodeling ref [58], ref [60], ref [64], ref [68].",
+    "refNo": 64,
+    "title": "Chronotropic modulation of the sourcesink relationship of sinoatrial-atrial impulse conduction and its significance to initiation of AF: a one-dimensional model study",
+    "marker_text": "[64]"
+  },
+  {
+    "sentence": "As AF progresses to more stable types, different parameters of the electrophysiological models are modified to reflect the AF-induced electrical remodeling ref [58], ref [60], ref [64], ref [68].",
+    "refNo": 68,
+    "title": "The major role of IK1 in mechanisms of rotor drift in the atria: a computational study",
+    "marker_text": "[68]"
+  },
+  {
+    "sentence": "These changes on ion currents and conductance are based on findings from experimental studies ref [58], ref [60], ref [62].",
+    "refNo": 58,
+    "title": "Noninvasive estimation of epicardial dominant highfrequency regions during atrial fibrillation",
+    "marker_text": "[58]"
+  },
+  {
+    "sentence": "These changes on ion currents and conductance are based on findings from experimental studies ref [58], ref [60], ref [62].",
+    "refNo": 60,
+    "title": "Benchmarking electrophysiological models of human atrial myocytes",
+    "marker_text": "[60]"
+  },
+  {
+    "sentence": "These changes on ion currents and conductance are based on findings from experimental studies ref [58], ref [60], ref [62].",
+    "refNo": 62,
+    "title": "Effects of human atrial ionic remodelling by β-blocker therapy onmechanisms of atrial fibrillation: A computer simulation",
+    "marker_text": "[62]"
+  },
+  {
+    "sentence": "The majority of the 301 studies included in this review focused on more stable types of AF while only about 10% of them directly referred to Paroxysmal AF ref [58], ref [66], ref [67], ref [69], ref [19].",
+    "refNo": 58,
+    "title": "Noninvasive estimation of epicardial dominant highfrequency regions during atrial fibrillation",
+    "marker_text": "[58]"
+  },
+  {
+    "sentence": "The majority of the 301 studies included in this review focused on more stable types of AF while only about 10% of them directly referred to Paroxysmal AF ref [58], ref [66], ref [67], ref [69], ref [19].",
+    "refNo": 66,
+    "title": "In silico screening of the key cellular remodeling targets in chronic atrial fibrillation",
+    "marker_text": "[66]"
+  },
+  {
+    "sentence": "The majority of the 301 studies included in this review focused on more stable types of AF while only about 10% of them directly referred to Paroxysmal AF ref [58], ref [66], ref [67], ref [69], ref [19].",
+    "refNo": 67,
+    "title": "Influence of right and left atrial tissue heterogeneity on atrial fibrillation perpetuation",
+    "marker_text": "[67]"
+  },
+  {
+    "sentence": "The majority of the 301 studies included in this review focused on more stable types of AF while only about 10% of them directly referred to Paroxysmal AF ref [58], ref [66], ref [67], ref [69], ref [19].",
+    "refNo": 69,
+    "title": "Structural contributions to fibrillatory rotors in a patient-derived computational model of the atria",
+    "marker_text": "[69]"
+  },
+  {
+    "sentence": "The majority of the 301 studies included in this review focused on more stable types of AF while only about 10% of them directly referred to Paroxysmal AF ref [58], ref [66], ref [67], ref [69], ref [19].",
+    "refNo": 19,
+    "title": "A membrane model of electrically remodelled atrial myocardium derived from in vivo measurements",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "The core of each study is the electrophysiological model which describes the cellular ionic properties and transmembrane currents ref [79], ref [80], ref [81], ref [82], ref [84], ref [85], ref [86].",
+    "refNo": 79,
+    "title": "Reconstruction of the action potential of ventricular myocardial fibres",
+    "marker_text": "[79]"
+  },
+  {
+    "sentence": "The core of each study is the electrophysiological model which describes the cellular ionic properties and transmembrane currents ref [79], ref [80], ref [81], ref [82], ref [84], ref [85], ref [86].",
+    "refNo": 80,
+    "title": "Familial atrial fibrillation: Simulation of the mechanisms and effects of a slow rectifier potassium channel mutation in human atrial tissue",
+    "marker_text": "[80]"
+  },
+  {
+    "sentence": "The core of each study is the electrophysiological model which describes the cellular ionic properties and transmembrane currents ref [79], ref [80], ref [81], ref [82], ref [84], ref [85], ref [86].",
+    "refNo": 81,
+    "title": "Mechanisms of human atrial fibrillation initiation clinical and computational studies of repolarization restitution and activation latency",
+    "marker_text": "[81]"
+  },
+  {
+    "sentence": "The core of each study is the electrophysiological model which describes the cellular ionic properties and transmembrane currents ref [79], ref [80], ref [81], ref [82], ref [84], ref [85], ref [86].",
+    "refNo": 82,
+    "title": "Suitability of genetic algorithm generated models to simulate atrial fibrillation and K+ channel blockades",
+    "marker_text": "[82]"
+  },
+  {
+    "sentence": "The core of each study is the electrophysiological model which describes the cellular ionic properties and transmembrane currents ref [79], ref [80], ref [81], ref [82], ref [84], ref [85], ref [86].",
+    "refNo": 84,
+    "title": "Impaired Na+-dependent regulation of acetylcholine-activated inwardrectifier K+ current modulates action potential rate dependence in patients with chronic atrial fibrillation",
+    "marker_text": "[84]"
+  },
+  {
+    "sentence": "The core of each study is the electrophysiological model which describes the cellular ionic properties and transmembrane currents ref [79], ref [80], ref [81], ref [82], ref [84], ref [85], ref [86].",
+    "refNo": 85,
+    "title": "Effects of electrical and structural remodeling on atrial fibrillation maintenance: a simulation study",
+    "marker_text": "[85]"
+  },
+  {
+    "sentence": "The core of each study is the electrophysiological model which describes the cellular ionic properties and transmembrane currents ref [79], ref [80], ref [81], ref [82], ref [84], ref [85], ref [86].",
+    "refNo": 86,
+    "title": "Patient-derived models link re-entrant driver localization in atrial fibrillation to fibrosis spatial pattern",
+    "marker_text": "[86]"
+  },
+  {
+    "sentence": "A plethora of different approaches has been proposed to simulate electrical activity in human atria ref [78], ref [79], ref [82], ref [83], ref [87], ref [19], ref [20].",
+    "refNo": 78,
+    "title": "K+ current changes account for the rate dependence of the action potential in the human atrial myocyte",
+    "marker_text": "[78]"
+  },
+  {
+    "sentence": "A plethora of different approaches has been proposed to simulate electrical activity in human atria ref [78], ref [79], ref [82], ref [83], ref [87], ref [19], ref [20].",
+    "refNo": 79,
+    "title": "Reconstruction of the action potential of ventricular myocardial fibres",
+    "marker_text": "[79]"
+  },
+  {
+    "sentence": "A plethora of different approaches has been proposed to simulate electrical activity in human atria ref [78], ref [79], ref [82], ref [83], ref [87], ref [19], ref [20].",
+    "refNo": 82,
+    "title": "Suitability of genetic algorithm generated models to simulate atrial fibrillation and K+ channel blockades",
+    "marker_text": "[82]"
+  },
+  {
+    "sentence": "A plethora of different approaches has been proposed to simulate electrical activity in human atria ref [78], ref [79], ref [82], ref [83], ref [87], ref [19], ref [20].",
+    "refNo": 83,
+    "title": "Chloroquine effect on human atrial action potential under normal conditions and during paroxysmal and chronic atrial fibrillation. A simulation study",
+    "marker_text": "[83]"
+  },
+  {
+    "sentence": "A plethora of different approaches has been proposed to simulate electrical activity in human atria ref [78], ref [79], ref [82], ref [83], ref [87], ref [19], ref [20].",
+    "refNo": 87,
+    "title": "Pro-arrhythmogenic effects of atrial fibrillation-induced electrical remodelling: insights from the three-dimensional virtual human atria",
+    "marker_text": "[87]"
+  },
+  {
+    "sentence": "A plethora of different approaches has been proposed to simulate electrical activity in human atria ref [78], ref [79], ref [82], ref [83], ref [87], ref [19], ref [20].",
+    "refNo": 19,
+    "title": "A membrane model of electrically remodelled atrial myocardium derived from in vivo measurements",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "A plethora of different approaches has been proposed to simulate electrical activity in human atria ref [78], ref [79], ref [82], ref [83], ref [87], ref [19], ref [20].",
+    "refNo": 20,
+    "title": "Lessons from computer simulations of ablation of atrial fibrillation",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Atrial tissue presents a complex morphology both in terms of structural and electrical heterogeneities ref [70], ref [72], ref [77], ref [78], ref [87], ref [19].",
+    "refNo": 70,
+    "title": "Heterogeneous atrial denervation creates substrate for sustained atrial fibrillation",
+    "marker_text": "[70]"
+  },
+  {
+    "sentence": "Atrial tissue presents a complex morphology both in terms of structural and electrical heterogeneities ref [70], ref [72], ref [77], ref [78], ref [87], ref [19].",
+    "refNo": 72,
+    "title": "Electrical remodeling of the atria in congestive heart failure: Electrophysiological and electroanatomic mapping in humans",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "Atrial tissue presents a complex morphology both in terms of structural and electrical heterogeneities ref [70], ref [72], ref [77], ref [78], ref [87], ref [19].",
+    "refNo": 77,
+    "title": "Ionic targets for drug therapy and atrial fibrillation-induced electrical remodeling: Insights from a mathematical model",
+    "marker_text": "[77]"
+  },
+  {
+    "sentence": "Atrial tissue presents a complex morphology both in terms of structural and electrical heterogeneities ref [70], ref [72], ref [77], ref [78], ref [87], ref [19].",
+    "refNo": 78,
+    "title": "K+ current changes account for the rate dependence of the action potential in the human atrial myocyte",
+    "marker_text": "[78]"
+  },
+  {
+    "sentence": "Atrial tissue presents a complex morphology both in terms of structural and electrical heterogeneities ref [70], ref [72], ref [77], ref [78], ref [87], ref [19].",
+    "refNo": 87,
+    "title": "Pro-arrhythmogenic effects of atrial fibrillation-induced electrical remodelling: insights from the three-dimensional virtual human atria",
+    "marker_text": "[87]"
+  },
+  {
+    "sentence": "Atrial tissue presents a complex morphology both in terms of structural and electrical heterogeneities ref [70], ref [72], ref [77], ref [78], ref [87], ref [19].",
+    "refNo": 19,
+    "title": "A membrane model of electrically remodelled atrial myocardium derived from in vivo measurements",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Fiber orientation constitutes a key aspect of atrial anatomy while electrical heterogeneities (such as the fast conduction systems of Bachman bundle, Pectinate muscles, and Crista Terminalis) alter active potential propagation and the way this can influence the initiation and maintenance of AF ref [71], ref [74], ref [76], ref [77], ref [83], ref [87], ref [20].",
+    "refNo": 71,
+    "title": "Length of excitation wave and susceptibility to reentrant atrial arrhythmias in normal conscious dogs",
+    "marker_text": "[71]"
+  },
+  {
+    "sentence": "Fiber orientation constitutes a key aspect of atrial anatomy while electrical heterogeneities (such as the fast conduction systems of Bachman bundle, Pectinate muscles, and Crista Terminalis) alter active potential propagation and the way this can influence the initiation and maintenance of AF ref [71], ref [74], ref [76], ref [77], ref [83], ref [87], ref [20].",
+    "refNo": 74,
+    "title": "Electrophysiological substrate for a dominant reentrant source during atrial fibrillation",
+    "marker_text": "[74]"
+  },
+  {
+    "sentence": "Fiber orientation constitutes a key aspect of atrial anatomy while electrical heterogeneities (such as the fast conduction systems of Bachman bundle, Pectinate muscles, and Crista Terminalis) alter active potential propagation and the way this can influence the initiation and maintenance of AF ref [71], ref [74], ref [76], ref [77], ref [83], ref [87], ref [20].",
+    "refNo": 76,
+    "title": "Modelling methodology of atrial fibrosis affects rotor dynamics and electrograms",
+    "marker_text": "[76]"
+  },
+  {
+    "sentence": "Fiber orientation constitutes a key aspect of atrial anatomy while electrical heterogeneities (such as the fast conduction systems of Bachman bundle, Pectinate muscles, and Crista Terminalis) alter active potential propagation and the way this can influence the initiation and maintenance of AF ref [71], ref [74], ref [76], ref [77], ref [83], ref [87], ref [20].",
+    "refNo": 77,
+    "title": "Ionic targets for drug therapy and atrial fibrillation-induced electrical remodeling: Insights from a mathematical model",
+    "marker_text": "[77]"
+  },
+  {
+    "sentence": "Fiber orientation constitutes a key aspect of atrial anatomy while electrical heterogeneities (such as the fast conduction systems of Bachman bundle, Pectinate muscles, and Crista Terminalis) alter active potential propagation and the way this can influence the initiation and maintenance of AF ref [71], ref [74], ref [76], ref [77], ref [83], ref [87], ref [20].",
+    "refNo": 83,
+    "title": "Chloroquine effect on human atrial action potential under normal conditions and during paroxysmal and chronic atrial fibrillation. A simulation study",
+    "marker_text": "[83]"
+  },
+  {
+    "sentence": "Fiber orientation constitutes a key aspect of atrial anatomy while electrical heterogeneities (such as the fast conduction systems of Bachman bundle, Pectinate muscles, and Crista Terminalis) alter active potential propagation and the way this can influence the initiation and maintenance of AF ref [71], ref [74], ref [76], ref [77], ref [83], ref [87], ref [20].",
+    "refNo": 87,
+    "title": "Pro-arrhythmogenic effects of atrial fibrillation-induced electrical remodelling: insights from the three-dimensional virtual human atria",
+    "marker_text": "[87]"
+  },
+  {
+    "sentence": "Fiber orientation constitutes a key aspect of atrial anatomy while electrical heterogeneities (such as the fast conduction systems of Bachman bundle, Pectinate muscles, and Crista Terminalis) alter active potential propagation and the way this can influence the initiation and maintenance of AF ref [71], ref [74], ref [76], ref [77], ref [83], ref [87], ref [20].",
+    "refNo": 20,
+    "title": "Lessons from computer simulations of ablation of atrial fibrillation",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Vigmond et al. (2001) presented a simple geometrical representation of atrial anatomy toward assessing of the role of the various anatomical structures on the initiation of reentries ref [71], ref [74], ref [76], ref [83], ref [87], ref [20].",
+    "refNo": 71,
+    "title": "Length of excitation wave and susceptibility to reentrant atrial arrhythmias in normal conscious dogs",
+    "marker_text": "[71]"
+  },
+  {
+    "sentence": "Vigmond et al. (2001) presented a simple geometrical representation of atrial anatomy toward assessing of the role of the various anatomical structures on the initiation of reentries ref [71], ref [74], ref [76], ref [83], ref [87], ref [20].",
+    "refNo": 74,
+    "title": "Electrophysiological substrate for a dominant reentrant source during atrial fibrillation",
+    "marker_text": "[74]"
+  },
+  {
+    "sentence": "Vigmond et al. (2001) presented a simple geometrical representation of atrial anatomy toward assessing of the role of the various anatomical structures on the initiation of reentries ref [71], ref [74], ref [76], ref [83], ref [87], ref [20].",
+    "refNo": 76,
+    "title": "Modelling methodology of atrial fibrosis affects rotor dynamics and electrograms",
+    "marker_text": "[76]"
+  },
+  {
+    "sentence": "Vigmond et al. (2001) presented a simple geometrical representation of atrial anatomy toward assessing of the role of the various anatomical structures on the initiation of reentries ref [71], ref [74], ref [76], ref [83], ref [87], ref [20].",
+    "refNo": 83,
+    "title": "Chloroquine effect on human atrial action potential under normal conditions and during paroxysmal and chronic atrial fibrillation. A simulation study",
+    "marker_text": "[83]"
+  },
+  {
+    "sentence": "Vigmond et al. (2001) presented a simple geometrical representation of atrial anatomy toward assessing of the role of the various anatomical structures on the initiation of reentries ref [71], ref [74], ref [76], ref [83], ref [87], ref [20].",
+    "refNo": 87,
+    "title": "Pro-arrhythmogenic effects of atrial fibrillation-induced electrical remodelling: insights from the three-dimensional virtual human atria",
+    "marker_text": "[87]"
+  },
+  {
+    "sentence": "Vigmond et al. (2001) presented a simple geometrical representation of atrial anatomy toward assessing of the role of the various anatomical structures on the initiation of reentries ref [71], ref [74], ref [76], ref [83], ref [87], ref [20].",
+    "refNo": 20,
+    "title": "Lessons from computer simulations of ablation of atrial fibrillation",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "In a healthy heart, the electrical pulse originates from the sinus node and spreads through the atrium ref [88], while during an AF episode chaotic activation of atrial myocardium occurs ref [36], ref [90], ref [44], ref [14], ref [96].",
+    "refNo": 88,
+    "title": "Computational assessment of the functional role of sinoatrial node exit pathways in the human heart",
+    "marker_text": "[88]"
+  },
+  {
+    "sentence": "In a healthy heart, the electrical pulse originates from the sinus node and spreads through the atrium ref [88], while during an AF episode chaotic activation of atrial myocardium occurs ref [36], ref [90], ref [44], ref [14], ref [96].",
+    "refNo": 36,
+    "title": "Image-based model of atrial anatomy and electrical activation: A computational platform for investigating atrial arrhythmia",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "In a healthy heart, the electrical pulse originates from the sinus node and spreads through the atrium ref [88], while during an AF episode chaotic activation of atrial myocardium occurs ref [36], ref [90], ref [44], ref [14], ref [96].",
+    "refNo": 90,
+    "title": "Simulating pulmonary vein activity leading to atrial fibrillation using a rule-based approach on realistic anatomical data",
+    "marker_text": "[90]"
+  },
+  {
+    "sentence": "In a healthy heart, the electrical pulse originates from the sinus node and spreads through the atrium ref [88], while during an AF episode chaotic activation of atrial myocardium occurs ref [36], ref [90], ref [44], ref [14], ref [96].",
+    "refNo": 44,
+    "title": "Study of atrial arrhythmias in a computer model based on magnetic resonance images of human atria",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "In a healthy heart, the electrical pulse originates from the sinus node and spreads through the atrium ref [88], while during an AF episode chaotic activation of atrial myocardium occurs ref [36], ref [90], ref [44], ref [14], ref [96].",
+    "refNo": 14,
+    "title": "A novel computational sheep atria model for the study of atrial fibrillation",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "In a healthy heart, the electrical pulse originates from the sinus node and spreads through the atrium ref [88], while during an AF episode chaotic activation of atrial myocardium occurs ref [36], ref [90], ref [44], ref [14], ref [96].",
+    "refNo": 96,
+    "title": "The role of fibroblasts in complex fractionated electrograms during persistent/permanent atrial fibrillation: implications for electrogrambased catheter ablation",
+    "marker_text": "[96]"
+  },
+  {
+    "sentence": "In the majority of the papers included in this review, AF was induced and the analysis focused on the identification of AF drivers ref [36], ref [90], ref [44], ref [14], ref [92], ref [21], ref [94], ref [87], ref [96], ref [20] or on the study of the electrical activation during AF in general ref [13], ref [89], ref [7], ref [91], ref [65].",
+    "refNo": 36,
+    "title": "Image-based model of atrial anatomy and electrical activation: A computational platform for investigating atrial arrhythmia",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "In the majority of the papers included in this review, AF was induced and the analysis focused on the identification of AF drivers ref [36], ref [90], ref [44], ref [14], ref [92], ref [21], ref [94], ref [87], ref [96], ref [20] or on the study of the electrical activation during AF in general ref [13], ref [89], ref [7], ref [91], ref [65].",
+    "refNo": 90,
+    "title": "Simulating pulmonary vein activity leading to atrial fibrillation using a rule-based approach on realistic anatomical data",
+    "marker_text": "[90]"
+  },
+  {
+    "sentence": "In the majority of the papers included in this review, AF was induced and the analysis focused on the identification of AF drivers ref [36], ref [90], ref [44], ref [14], ref [92], ref [21], ref [94], ref [87], ref [96], ref [20] or on the study of the electrical activation during AF in general ref [13], ref [89], ref [7], ref [91], ref [65].",
+    "refNo": 44,
+    "title": "Study of atrial arrhythmias in a computer model based on magnetic resonance images of human atria",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "In the majority of the papers included in this review, AF was induced and the analysis focused on the identification of AF drivers ref [36], ref [90], ref [44], ref [14], ref [92], ref [21], ref [94], ref [87], ref [96], ref [20] or on the study of the electrical activation during AF in general ref [13], ref [89], ref [7], ref [91], ref [65].",
+    "refNo": 14,
+    "title": "A novel computational sheep atria model for the study of atrial fibrillation",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "In the majority of the papers included in this review, AF was induced and the analysis focused on the identification of AF drivers ref [36], ref [90], ref [44], ref [14], ref [92], ref [21], ref [94], ref [87], ref [96], ref [20] or on the study of the electrical activation during AF in general ref [13], ref [89], ref [7], ref [91], ref [65].",
+    "refNo": 92,
+    "title": "Atrial fibrillation septal pacing: translation of modelling results",
+    "marker_text": "[92]"
+  },
+  {
+    "sentence": "In the majority of the papers included in this review, AF was induced and the analysis focused on the identification of AF drivers ref [36], ref [90], ref [44], ref [14], ref [92], ref [21], ref [94], ref [87], ref [96], ref [20] or on the study of the electrical activation during AF in general ref [13], ref [89], ref [7], ref [91], ref [65].",
+    "refNo": 21,
+    "title": "Personalization of atrial anatomy and electrophysiology as a basis for clinical modeling of radio-frequency ablation of atrial fibrillation",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "In the majority of the papers included in this review, AF was induced and the analysis focused on the identification of AF drivers ref [36], ref [90], ref [44], ref [14], ref [92], ref [21], ref [94], ref [87], ref [96], ref [20] or on the study of the electrical activation during AF in general ref [13], ref [89], ref [7], ref [91], ref [65].",
+    "refNo": 94,
+    "title": "Forward problem of electrocardiography: is it solved? Circ",
+    "marker_text": "[94]"
+  },
+  {
+    "sentence": "In the majority of the papers included in this review, AF was induced and the analysis focused on the identification of AF drivers ref [36], ref [90], ref [44], ref [14], ref [92], ref [21], ref [94], ref [87], ref [96], ref [20] or on the study of the electrical activation during AF in general ref [13], ref [89], ref [7], ref [91], ref [65].",
+    "refNo": 87,
+    "title": "Pro-arrhythmogenic effects of atrial fibrillation-induced electrical remodelling: insights from the three-dimensional virtual human atria",
+    "marker_text": "[87]"
+  },
+  {
+    "sentence": "In the majority of the papers included in this review, AF was induced and the analysis focused on the identification of AF drivers ref [36], ref [90], ref [44], ref [14], ref [92], ref [21], ref [94], ref [87], ref [96], ref [20] or on the study of the electrical activation during AF in general ref [13], ref [89], ref [7], ref [91], ref [65].",
+    "refNo": 96,
+    "title": "The role of fibroblasts in complex fractionated electrograms during persistent/permanent atrial fibrillation: implications for electrogrambased catheter ablation",
+    "marker_text": "[96]"
+  },
+  {
+    "sentence": "In the majority of the papers included in this review, AF was induced and the analysis focused on the identification of AF drivers ref [36], ref [90], ref [44], ref [14], ref [92], ref [21], ref [94], ref [87], ref [96], ref [20] or on the study of the electrical activation during AF in general ref [13], ref [89], ref [7], ref [91], ref [65].",
+    "refNo": 20,
+    "title": "Lessons from computer simulations of ablation of atrial fibrillation",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "In the majority of the papers included in this review, AF was induced and the analysis focused on the identification of AF drivers ref [36], ref [90], ref [44], ref [14], ref [92], ref [21], ref [94], ref [87], ref [96], ref [20] or on the study of the electrical activation during AF in general ref [13], ref [89], ref [7], ref [91], ref [65].",
+    "refNo": 13,
+    "title": "An image-based model of atrial muscular architecture effects of structural anisotropy on electrical activation",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "In the majority of the papers included in this review, AF was induced and the analysis focused on the identification of AF drivers ref [36], ref [90], ref [44], ref [14], ref [92], ref [21], ref [94], ref [87], ref [96], ref [20] or on the study of the electrical activation during AF in general ref [13], ref [89], ref [7], ref [91], ref [65].",
+    "refNo": 89,
+    "title": "Detailed anatomical and electrophysiological models of human atria and torso for the simulation of atrial activation",
+    "marker_text": "[89]"
+  },
+  {
+    "sentence": "In the majority of the papers included in this review, AF was induced and the analysis focused on the identification of AF drivers ref [36], ref [90], ref [44], ref [14], ref [92], ref [21], ref [94], ref [87], ref [96], ref [20] or on the study of the electrical activation during AF in general ref [13], ref [89], ref [7], ref [91], ref [65].",
+    "refNo": 7,
+    "title": "Mathematical analysis of canine atrial action potentials: Rate, regional factors, and electrical remodeling",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "In the majority of the papers included in this review, AF was induced and the analysis focused on the identification of AF drivers ref [36], ref [90], ref [44], ref [14], ref [92], ref [21], ref [94], ref [87], ref [96], ref [20] or on the study of the electrical activation during AF in general ref [13], ref [89], ref [7], ref [91], ref [65].",
+    "refNo": 91,
+    "title": "Role of hemodialysis in atrial fibrillation onset: preliminary results from a combined computational and experimental analysis",
+    "marker_text": "[91]"
+  },
+  {
+    "sentence": "In the majority of the papers included in this review, AF was induced and the analysis focused on the identification of AF drivers ref [36], ref [90], ref [44], ref [14], ref [92], ref [21], ref [94], ref [87], ref [96], ref [20] or on the study of the electrical activation during AF in general ref [13], ref [89], ref [7], ref [91], ref [65].",
+    "refNo": 65,
+    "title": "Recurrent intradialytic paroxysmal atrial fibrillation: hypotheses on onset mechanisms based on clinical data and computational analysis",
+    "marker_text": "[65]"
+  },
+  {
+    "sentence": "However, analysis of the electrical activation of the remodeled atria during SR was the subject of 52 studies ref [13], ref [42], ref [89], ref [7], ref [40], ref [21], as this can also improve our understanding of the pathology.",
+    "refNo": 13,
+    "title": "An image-based model of atrial muscular architecture effects of structural anisotropy on electrical activation",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "However, analysis of the electrical activation of the remodeled atria during SR was the subject of 52 studies ref [13], ref [42], ref [89], ref [7], ref [40], ref [21], as this can also improve our understanding of the pathology.",
+    "refNo": 42,
+    "title": "Comparing measured and simulated wave directions in the left atrium a workflow for model personalization and validation",
+    "marker_text": "[42]"
+  },
+  {
+    "sentence": "However, analysis of the electrical activation of the remodeled atria during SR was the subject of 52 studies ref [13], ref [42], ref [89], ref [7], ref [40], ref [21], as this can also improve our understanding of the pathology.",
+    "refNo": 89,
+    "title": "Detailed anatomical and electrophysiological models of human atria and torso for the simulation of atrial activation",
+    "marker_text": "[89]"
+  },
+  {
+    "sentence": "However, analysis of the electrical activation of the remodeled atria during SR was the subject of 52 studies ref [13], ref [42], ref [89], ref [7], ref [40], ref [21], as this can also improve our understanding of the pathology.",
+    "refNo": 7,
+    "title": "Mathematical analysis of canine atrial action potentials: Rate, regional factors, and electrical remodeling",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "However, analysis of the electrical activation of the remodeled atria during SR was the subject of 52 studies ref [13], ref [42], ref [89], ref [7], ref [40], ref [21], as this can also improve our understanding of the pathology.",
+    "refNo": 40,
+    "title": "Alterations of atrial electrophysiology induced by electrolyte variations: Combined computational and P-wave analysis",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "However, analysis of the electrical activation of the remodeled atria during SR was the subject of 52 studies ref [13], ref [42], ref [89], ref [7], ref [40], ref [21], as this can also improve our understanding of the pathology.",
+    "refNo": 21,
+    "title": "Personalization of atrial anatomy and electrophysiology as a basis for clinical modeling of radio-frequency ablation of atrial fibrillation",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "ECG signals extraction from computational studies and vice versa would improve AF pathophysiology understanding and thus optimize clinical decision and treatment strategy ref [42], ref [89], ref [40], ref [92], ref [95].",
+    "refNo": 42,
+    "title": "Comparing measured and simulated wave directions in the left atrium a workflow for model personalization and validation",
+    "marker_text": "[42]"
+  },
+  {
+    "sentence": "ECG signals extraction from computational studies and vice versa would improve AF pathophysiology understanding and thus optimize clinical decision and treatment strategy ref [42], ref [89], ref [40], ref [92], ref [95].",
+    "refNo": 89,
+    "title": "Detailed anatomical and electrophysiological models of human atria and torso for the simulation of atrial activation",
+    "marker_text": "[89]"
+  },
+  {
+    "sentence": "ECG signals extraction from computational studies and vice versa would improve AF pathophysiology understanding and thus optimize clinical decision and treatment strategy ref [42], ref [89], ref [40], ref [92], ref [95].",
+    "refNo": 40,
+    "title": "Alterations of atrial electrophysiology induced by electrolyte variations: Combined computational and P-wave analysis",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "ECG signals extraction from computational studies and vice versa would improve AF pathophysiology understanding and thus optimize clinical decision and treatment strategy ref [42], ref [89], ref [40], ref [92], ref [95].",
+    "refNo": 92,
+    "title": "Atrial fibrillation septal pacing: translation of modelling results",
+    "marker_text": "[92]"
+  },
+  {
+    "sentence": "ECG signals extraction from computational studies and vice versa would improve AF pathophysiology understanding and thus optimize clinical decision and treatment strategy ref [42], ref [89], ref [40], ref [92], ref [95].",
+    "refNo": 95,
+    "title": "Disrupted calcium release as a mechanism for atrial alternans associated with human atrial fibrillation",
+    "marker_text": "[95]"
+  },
+  {
+    "sentence": "In the present review, several approaches for ECG signal reconstruction have been identified ref [42], ref [89], ref [40], ref [95].",
+    "refNo": 42,
+    "title": "Comparing measured and simulated wave directions in the left atrium a workflow for model personalization and validation",
+    "marker_text": "[42]"
+  },
+  {
+    "sentence": "In the present review, several approaches for ECG signal reconstruction have been identified ref [42], ref [89], ref [40], ref [95].",
+    "refNo": 89,
+    "title": "Detailed anatomical and electrophysiological models of human atria and torso for the simulation of atrial activation",
+    "marker_text": "[89]"
+  },
+  {
+    "sentence": "In the present review, several approaches for ECG signal reconstruction have been identified ref [42], ref [89], ref [40], ref [95].",
+    "refNo": 40,
+    "title": "Alterations of atrial electrophysiology induced by electrolyte variations: Combined computational and P-wave analysis",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "In the present review, several approaches for ECG signal reconstruction have been identified ref [42], ref [89], ref [40], ref [95].",
+    "refNo": 95,
+    "title": "Disrupted calcium release as a mechanism for atrial alternans associated with human atrial fibrillation",
+    "marker_text": "[95]"
+  },
+  {
+    "sentence": "The conditions, under which AF can be induced, were extensively studied and several approaches have been proposed ref [16], ref [17], ref [18].",
+    "refNo": 16,
+    "title": "Mechanisms of atrial fibrillation termination by rapidly unbinding Na + channel blockers: Insights from mathematical models and experimental correlates",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "The conditions, under which AF can be induced, were extensively studied and several approaches have been proposed ref [16], ref [17], ref [18].",
+    "refNo": 17,
+    "title": "Characterization of human cardiac Kv1.5 inhibition by the novel atrial-selective antiarrhythmic compound AVE1231",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "The conditions, under which AF can be induced, were extensively studied and several approaches have been proposed ref [16], ref [17], ref [18].",
+    "refNo": 18,
+    "title": "Spironolactone and its main metabolite canrenoic acid block hKv1.5. Kv4.3 and Kv7.1 + minK channels",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "In general, a triggering factor, in the presence of an arrhythmogenic substrate, can favor the initiation of PAF ref [16], ref [17], ref [18].",
+    "refNo": 16,
+    "title": "Mechanisms of atrial fibrillation termination by rapidly unbinding Na + channel blockers: Insights from mathematical models and experimental correlates",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "In general, a triggering factor, in the presence of an arrhythmogenic substrate, can favor the initiation of PAF ref [16], ref [17], ref [18].",
+    "refNo": 17,
+    "title": "Characterization of human cardiac Kv1.5 inhibition by the novel atrial-selective antiarrhythmic compound AVE1231",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "In general, a triggering factor, in the presence of an arrhythmogenic substrate, can favor the initiation of PAF ref [16], ref [17], ref [18].",
+    "refNo": 18,
+    "title": "Spironolactone and its main metabolite canrenoic acid block hKv1.5. Kv4.3 and Kv7.1 + minK channels",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "PVs have been reported to present pacemaking automaticity and triggering activity, and thus their role on arrhythmogenicity has been examined ref [17], whereas mathematical models have also been implemented to describe PVs in both animals and humans ref [17].",
+    "refNo": 17,
+    "title": "Characterization of human cardiac Kv1.5 inhibition by the novel atrial-selective antiarrhythmic compound AVE1231",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "PVs have been reported to present pacemaking automaticity and triggering activity, and thus their role on arrhythmogenicity has been examined ref [17], whereas mathematical models have also been implemented to describe PVs in both animals and humans ref [17].",
+    "refNo": 17,
+    "title": "Characterization of human cardiac Kv1.5 inhibition by the novel atrial-selective antiarrhythmic compound AVE1231",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Jones et al. (2012) modeled the PVs under the experimental evidence that two types of cells exist in PVs, pacemaking, and non-pacemaking ref [17].",
+    "refNo": 17,
+    "title": "Characterization of human cardiac Kv1.5 inhibition by the novel atrial-selective antiarrhythmic compound AVE1231",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "The estimation of the body surface potentials based on the epicardial ones, define the forward problem of electrophysiology ref [19].",
+    "refNo": 19,
+    "title": "A membrane model of electrically remodelled atrial myocardium derived from in vivo measurements",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "The identification of the optimal ablation line is the subject of several studies which point out the need for tailored ablation lines for each patient (ref [102], ref [104], ref [106], ref [111], ref [112]).",
+    "refNo": 102,
+    "title": "A novel catheter-guidance algorithm for localization of atrial fibrillation rotor and focal sources",
+    "marker_text": "[102]"
+  },
+  {
+    "sentence": "The identification of the optimal ablation line is the subject of several studies which point out the need for tailored ablation lines for each patient (ref [102], ref [104], ref [106], ref [111], ref [112]).",
+    "refNo": 104,
+    "title": "Effect of the electrograms density in detecting and ablating the tip of the rotor during chronic atrial fibrillation: An in silico study",
+    "marker_text": "[104]"
+  },
+  {
+    "sentence": "The identification of the optimal ablation line is the subject of several studies which point out the need for tailored ablation lines for each patient (ref [102], ref [104], ref [106], ref [111], ref [112]).",
+    "refNo": 106,
+    "title": "Comparison Between Unipolar And Bipolar Electrograms For Detecting Rotor Tip From 2D Fibrillation Model Using Image Fusion. A Simulation Study",
+    "marker_text": "[106]"
+  },
+  {
+    "sentence": "The identification of the optimal ablation line is the subject of several studies which point out the need for tailored ablation lines for each patient (ref [102], ref [104], ref [106], ref [111], ref [112]).",
+    "refNo": 111,
+    "title": "Mapping multi-wavelet reentry without isochrones: an electrogramguided approach to define substrate distribution",
+    "marker_text": "[111]"
+  },
+  {
+    "sentence": "The identification of the optimal ablation line is the subject of several studies which point out the need for tailored ablation lines for each patient (ref [102], ref [104], ref [106], ref [111], ref [112]).",
+    "refNo": 112,
+    "title": "Signal reconstruction of pulmonary vein recordings using a phenomenological mathematical model: application to pulmonary vein isolation therapy",
+    "marker_text": "[112]"
+  },
+  {
+    "sentence": "However, fibrotic region ablation is also proposed whereas other studies suggest other approaches which can guide the ablation procedure (ref [104], ref [105], ref [106], ref [111], ref [113]).",
+    "refNo": 104,
+    "title": "Effect of the electrograms density in detecting and ablating the tip of the rotor during chronic atrial fibrillation: An in silico study",
+    "marker_text": "[104]"
+  },
+  {
+    "sentence": "However, fibrotic region ablation is also proposed whereas other studies suggest other approaches which can guide the ablation procedure (ref [104], ref [105], ref [106], ref [111], ref [113]).",
+    "refNo": 105,
+    "title": "Genesis of the P wave: Atrial signals as generated by the equivalent double layer source model",
+    "marker_text": "[105]"
+  },
+  {
+    "sentence": "However, fibrotic region ablation is also proposed whereas other studies suggest other approaches which can guide the ablation procedure (ref [104], ref [105], ref [106], ref [111], ref [113]).",
+    "refNo": 106,
+    "title": "Comparison Between Unipolar And Bipolar Electrograms For Detecting Rotor Tip From 2D Fibrillation Model Using Image Fusion. A Simulation Study",
+    "marker_text": "[106]"
+  },
+  {
+    "sentence": "However, fibrotic region ablation is also proposed whereas other studies suggest other approaches which can guide the ablation procedure (ref [104], ref [105], ref [106], ref [111], ref [113]).",
+    "refNo": 111,
+    "title": "Mapping multi-wavelet reentry without isochrones: an electrogramguided approach to define substrate distribution",
+    "marker_text": "[111]"
+  },
+  {
+    "sentence": "However, fibrotic region ablation is also proposed whereas other studies suggest other approaches which can guide the ablation procedure (ref [104], ref [105], ref [106], ref [111], ref [113]).",
+    "refNo": 113,
+    "title": "The mean firing rate of atrial fibrillation as estimated from the ECG evaluation using a biophysical model",
+    "marker_text": "[113]"
+  },
+  {
+    "sentence": "Interestingly, the effect of the poor contact of the electrodes with the tissue on AF drivers identification is discussed, and a methodology for signals reconstruction is proposed by Green et al. (2017) (ref [114]).",
+    "refNo": 114,
+    "title": "Spatial dynamics of atrial activity assessed by the vectorcardiogram: from sinus rhythm to atrial fibrillation",
+    "marker_text": "[114]"
+  },
+  {
+    "sentence": "Estimation of bioelectric source potentials using remote electric field measurements is known as the inverse problem of electrophysiology, and it has been applied in both SR and AF scenarios (ref [107], ref [110], ref [58], ref [17]).",
+    "refNo": 107,
+    "title": "Study on the trustability of phase mapping methods to represent atrial potentials in atrial fibrillation",
+    "marker_text": "[107]"
+  },
+  {
+    "sentence": "Estimation of bioelectric source potentials using remote electric field measurements is known as the inverse problem of electrophysiology, and it has been applied in both SR and AF scenarios (ref [107], ref [110], ref [58], ref [17]).",
+    "refNo": 110,
+    "title": "The spatiotemporal stability of dominant frequency sites in in-silico modeling of 3-dimensional left atrial mapping of atrial fibrillation",
+    "marker_text": "[110]"
+  },
+  {
+    "sentence": "Estimation of bioelectric source potentials using remote electric field measurements is known as the inverse problem of electrophysiology, and it has been applied in both SR and AF scenarios (ref [107], ref [110], ref [58], ref [17]).",
+    "refNo": 58,
+    "title": "Noninvasive estimation of epicardial dominant highfrequency regions during atrial fibrillation",
+    "marker_text": "[58]"
+  },
+  {
+    "sentence": "Estimation of bioelectric source potentials using remote electric field measurements is known as the inverse problem of electrophysiology, and it has been applied in both SR and AF scenarios (ref [107], ref [110], ref [58], ref [17]).",
+    "refNo": 17,
+    "title": "Characterization of human cardiac Kv1.5 inhibition by the novel atrial-selective antiarrhythmic compound AVE1231",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "The accuracy of the extracted results is a crucial topic and several studies focused on the implementation of algorithms able to reconstruct activation patterns matching with the observed ones (ref [109], ref [110], ref [20]).",
+    "refNo": 109,
+    "title": "Local electrical dyssynchrony during atrial fibrillation: theoretical considerations and initial catheter ablation results",
+    "marker_text": "[109]"
+  },
+  {
+    "sentence": "The accuracy of the extracted results is a crucial topic and several studies focused on the implementation of algorithms able to reconstruct activation patterns matching with the observed ones (ref [109], ref [110], ref [20]).",
+    "refNo": 110,
+    "title": "The spatiotemporal stability of dominant frequency sites in in-silico modeling of 3-dimensional left atrial mapping of atrial fibrillation",
+    "marker_text": "[110]"
+  },
+  {
+    "sentence": "The accuracy of the extracted results is a crucial topic and several studies focused on the implementation of algorithms able to reconstruct activation patterns matching with the observed ones (ref [109], ref [110], ref [20]).",
+    "refNo": 20,
+    "title": "Lessons from computer simulations of ablation of atrial fibrillation",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Zemzemi et al. (2012) proposed one such approach based in machine learning techniques where the simulated ECGs, computed by the consideration of atria and torso model, were used for the training of the algorithms while the results were examined in terms of reproducibility (ref [110], ref [58], ref [17]).",
+    "refNo": 110,
+    "title": "The spatiotemporal stability of dominant frequency sites in in-silico modeling of 3-dimensional left atrial mapping of atrial fibrillation",
+    "marker_text": "[110]"
+  },
+  {
+    "sentence": "Zemzemi et al. (2012) proposed one such approach based in machine learning techniques where the simulated ECGs, computed by the consideration of atria and torso model, were used for the training of the algorithms while the results were examined in terms of reproducibility (ref [110], ref [58], ref [17]).",
+    "refNo": 58,
+    "title": "Noninvasive estimation of epicardial dominant highfrequency regions during atrial fibrillation",
+    "marker_text": "[58]"
+  },
+  {
+    "sentence": "Zemzemi et al. (2012) proposed one such approach based in machine learning techniques where the simulated ECGs, computed by the consideration of atria and torso model, were used for the training of the algorithms while the results were examined in terms of reproducibility (ref [110], ref [58], ref [17]).",
+    "refNo": 17,
+    "title": "Characterization of human cardiac Kv1.5 inhibition by the novel atrial-selective antiarrhythmic compound AVE1231",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "One of the application areas of this field is the identification of AF drivers in the atria (ref [100], ref [102], ref [104], ref [105], ref [108], ref [109], ref [20]).",
+    "refNo": 100,
+    "title": "Effect of multi-electrode configurations on accuracy of rotor detection in the atria",
+    "marker_text": "[100]"
+  },
+  {
+    "sentence": "One of the application areas of this field is the identification of AF drivers in the atria (ref [100], ref [102], ref [104], ref [105], ref [108], ref [109], ref [20]).",
+    "refNo": 102,
+    "title": "A novel catheter-guidance algorithm for localization of atrial fibrillation rotor and focal sources",
+    "marker_text": "[102]"
+  },
+  {
+    "sentence": "One of the application areas of this field is the identification of AF drivers in the atria (ref [100], ref [102], ref [104], ref [105], ref [108], ref [109], ref [20]).",
+    "refNo": 104,
+    "title": "Effect of the electrograms density in detecting and ablating the tip of the rotor during chronic atrial fibrillation: An in silico study",
+    "marker_text": "[104]"
+  },
+  {
+    "sentence": "One of the application areas of this field is the identification of AF drivers in the atria (ref [100], ref [102], ref [104], ref [105], ref [108], ref [109], ref [20]).",
+    "refNo": 105,
+    "title": "Genesis of the P wave: Atrial signals as generated by the equivalent double layer source model",
+    "marker_text": "[105]"
+  },
+  {
+    "sentence": "One of the application areas of this field is the identification of AF drivers in the atria (ref [100], ref [102], ref [104], ref [105], ref [108], ref [109], ref [20]).",
+    "refNo": 108,
+    "title": "Regularization techniques for ECG imaging during atrial fibrillation: A computational study",
+    "marker_text": "[108]"
+  },
+  {
+    "sentence": "One of the application areas of this field is the identification of AF drivers in the atria (ref [100], ref [102], ref [104], ref [105], ref [108], ref [109], ref [20]).",
+    "refNo": 109,
+    "title": "Local electrical dyssynchrony during atrial fibrillation: theoretical considerations and initial catheter ablation results",
+    "marker_text": "[109]"
+  },
+  {
+    "sentence": "One of the application areas of this field is the identification of AF drivers in the atria (ref [100], ref [102], ref [104], ref [105], ref [108], ref [109], ref [20]).",
+    "refNo": 20,
+    "title": "Lessons from computer simulations of ablation of atrial fibrillation",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "On the other hand, different methods of estimating epicardial potentials, dominant frequency, phase maps, and singularity points locations, were examined for their accuracy (ref [109], ref [110], ref [112], ref [20]).",
+    "refNo": 109,
+    "title": "Local electrical dyssynchrony during atrial fibrillation: theoretical considerations and initial catheter ablation results",
+    "marker_text": "[109]"
+  },
+  {
+    "sentence": "On the other hand, different methods of estimating epicardial potentials, dominant frequency, phase maps, and singularity points locations, were examined for their accuracy (ref [109], ref [110], ref [112], ref [20]).",
+    "refNo": 110,
+    "title": "The spatiotemporal stability of dominant frequency sites in in-silico modeling of 3-dimensional left atrial mapping of atrial fibrillation",
+    "marker_text": "[110]"
+  },
+  {
+    "sentence": "On the other hand, different methods of estimating epicardial potentials, dominant frequency, phase maps, and singularity points locations, were examined for their accuracy (ref [109], ref [110], ref [112], ref [20]).",
+    "refNo": 112,
+    "title": "Signal reconstruction of pulmonary vein recordings using a phenomenological mathematical model: application to pulmonary vein isolation therapy",
+    "marker_text": "[112]"
+  },
+  {
+    "sentence": "On the other hand, different methods of estimating epicardial potentials, dominant frequency, phase maps, and singularity points locations, were examined for their accuracy (ref [109], ref [110], ref [112], ref [20]).",
+    "refNo": 20,
+    "title": "Lessons from computer simulations of ablation of atrial fibrillation",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Computational modeling evolution can be studied by network theory [ref [43], ref [46], ref [117], ref [61]].",
+    "refNo": 43,
+    "title": "Mechanisms of stochastic onset and termination of atrial fibrillation studied with a cellular automaton model",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "Computational modeling evolution can be studied by network theory [ref [43], ref [46], ref [117], ref [61]].",
+    "refNo": 46,
+    "title": "Ganglionated plexi stimulation induces pulmonary vein triggers and promotes atrial arrhythmogenecity: in silico modeling study",
+    "marker_text": "[46]"
+  },
+  {
+    "sentence": "Computational modeling evolution can be studied by network theory [ref [43], ref [46], ref [117], ref [61]].",
+    "refNo": 117,
+    "title": "Development of biophysically detailed electrophysiological models for pacemaking and nonpacemaking human pulmonary vein cardiomyocytes",
+    "marker_text": "[117]"
+  },
+  {
+    "sentence": "Computational modeling evolution can be studied by network theory [ref [43], ref [46], ref [117], ref [61]].",
+    "refNo": 61,
+    "title": "Pro-arrhythmogenic effects of the S140G KCNQ1 mutation in human atrial fibrillation -insights from modelling",
+    "marker_text": "[61]"
+  },
+  {
+    "sentence": "The components, involved in AF modeling, are considered as nodes of a network, whereas, the connections between them represent the studies they are reported in [ref [115], ref [45], ref [32], ref [16]].",
+    "refNo": 115,
+    "title": "Mechanisms of Myocardial Capture and Temporal Excitable Gap during Spiral Wave Reentry in a Bidomain Model",
+    "marker_text": "[115]"
+  },
+  {
+    "sentence": "The components, involved in AF modeling, are considered as nodes of a network, whereas, the connections between them represent the studies they are reported in [ref [115], ref [45], ref [32], ref [16]].",
+    "refNo": 45,
+    "title": "Human atrial action potential and Ca 2+ model: Sinus rhythm and chronic atrial fibrillation",
+    "marker_text": "[45]"
+  },
+  {
+    "sentence": "The components, involved in AF modeling, are considered as nodes of a network, whereas, the connections between them represent the studies they are reported in [ref [115], ref [45], ref [32], ref [16]].",
+    "refNo": 32,
+    "title": "The contribution of ionic currents to rate-dependent action potential duration and pattern of reentry in a mathematical model of human atrial fibrillation",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "The components, involved in AF modeling, are considered as nodes of a network, whereas, the connections between them represent the studies they are reported in [ref [115], ref [45], ref [32], ref [16]].",
+    "refNo": 16,
+    "title": "Mechanisms of atrial fibrillation termination by rapidly unbinding Na + channel blockers: Insights from mathematical models and experimental correlates",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Two distinct periods (1998-2007 and 2007-2018) were considered [ref [30], ref [46], ref [117], ref [16]], and two metrics, describing the network complexity were extracted [ref [43], ref [61], ref [118], ref [6]].",
+    "refNo": 30,
+    "title": "Inducibility of human atrial fibrillation in an in silico model reflecting local acetylcholine distribution and concentration",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "Two distinct periods (1998-2007 and 2007-2018) were considered [ref [30], ref [46], ref [117], ref [16]], and two metrics, describing the network complexity were extracted [ref [43], ref [61], ref [118], ref [6]].",
+    "refNo": 46,
+    "title": "Ganglionated plexi stimulation induces pulmonary vein triggers and promotes atrial arrhythmogenecity: in silico modeling study",
+    "marker_text": "[46]"
+  },
+  {
+    "sentence": "Two distinct periods (1998-2007 and 2007-2018) were considered [ref [30], ref [46], ref [117], ref [16]], and two metrics, describing the network complexity were extracted [ref [43], ref [61], ref [118], ref [6]].",
+    "refNo": 117,
+    "title": "Development of biophysically detailed electrophysiological models for pacemaking and nonpacemaking human pulmonary vein cardiomyocytes",
+    "marker_text": "[117]"
+  },
+  {
+    "sentence": "Two distinct periods (1998-2007 and 2007-2018) were considered [ref [30], ref [46], ref [117], ref [16]], and two metrics, describing the network complexity were extracted [ref [43], ref [61], ref [118], ref [6]].",
+    "refNo": 16,
+    "title": "Mechanisms of atrial fibrillation termination by rapidly unbinding Na + channel blockers: Insights from mathematical models and experimental correlates",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Two distinct periods (1998-2007 and 2007-2018) were considered [ref [30], ref [46], ref [117], ref [16]], and two metrics, describing the network complexity were extracted [ref [43], ref [61], ref [118], ref [6]].",
+    "refNo": 43,
+    "title": "Mechanisms of stochastic onset and termination of atrial fibrillation studied with a cellular automaton model",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "Two distinct periods (1998-2007 and 2007-2018) were considered [ref [30], ref [46], ref [117], ref [16]], and two metrics, describing the network complexity were extracted [ref [43], ref [61], ref [118], ref [6]].",
+    "refNo": 61,
+    "title": "Pro-arrhythmogenic effects of the S140G KCNQ1 mutation in human atrial fibrillation -insights from modelling",
+    "marker_text": "[61]"
+  },
+  {
+    "sentence": "Two distinct periods (1998-2007 and 2007-2018) were considered [ref [30], ref [46], ref [117], ref [16]], and two metrics, describing the network complexity were extracted [ref [43], ref [61], ref [118], ref [6]].",
+    "refNo": 118,
+    "title": "The role of the hyperpolarization-activated inward current If in arrhythmogenesis: A computer model study",
+    "marker_text": "[118]"
+  },
+  {
+    "sentence": "Two distinct periods (1998-2007 and 2007-2018) were considered [ref [30], ref [46], ref [117], ref [16]], and two metrics, describing the network complexity were extracted [ref [43], ref [61], ref [118], ref [6]].",
+    "refNo": 6,
+    "title": "Effects of the intracellular Ca2+ dynamics on restitution properties and stability of reentry in rabbit atrial tissue model",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "The first metric is the average degree (AD) of the graph, which is defined as the average connections between the nodes, while the second one is the network density, defined as D = 2E N(N−1), where E is the number of edges and N the number of nodes [ref [115], ref [119], ref [17], ref [19], ref [20]].",
+    "refNo": 115,
+    "title": "Mechanisms of Myocardial Capture and Temporal Excitable Gap during Spiral Wave Reentry in a Bidomain Model",
+    "marker_text": "[115]"
+  },
+  {
+    "sentence": "The first metric is the average degree (AD) of the graph, which is defined as the average connections between the nodes, while the second one is the network density, defined as D = 2E N(N−1), where E is the number of edges and N the number of nodes [ref [115], ref [119], ref [17], ref [19], ref [20]].",
+    "refNo": 119,
+    "title": "Atrial arrhythmogenicity of KCNJ2 mutations in short QT syndrome: Insights from virtual human atria",
+    "marker_text": "[119]"
+  },
+  {
+    "sentence": "The first metric is the average degree (AD) of the graph, which is defined as the average connections between the nodes, while the second one is the network density, defined as D = 2E N(N−1), where E is the number of edges and N the number of nodes [ref [115], ref [119], ref [17], ref [19], ref [20]].",
+    "refNo": 17,
+    "title": "Characterization of human cardiac Kv1.5 inhibition by the novel atrial-selective antiarrhythmic compound AVE1231",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "The first metric is the average degree (AD) of the graph, which is defined as the average connections between the nodes, while the second one is the network density, defined as D = 2E N(N−1), where E is the number of edges and N the number of nodes [ref [115], ref [119], ref [17], ref [19], ref [20]].",
+    "refNo": 19,
+    "title": "A membrane model of electrically remodelled atrial myocardium derived from in vivo measurements",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "The first metric is the average degree (AD) of the graph, which is defined as the average connections between the nodes, while the second one is the network density, defined as D = 2E N(N−1), where E is the number of edges and N the number of nodes [ref [115], ref [119], ref [17], ref [19], ref [20]].",
+    "refNo": 20,
+    "title": "Lessons from computer simulations of ablation of atrial fibrillation",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Computational modeling is an emerging area of research useful to understand the mechanisms involved with pathophysiology, diagnosis, and treatment of human diseases ref [121].",
+    "refNo": 121,
+    "title": "The virtual physiological human: ten years after",
+    "marker_text": "[121]"
+  },
+  {
+    "sentence": "This article presents the results of systematic scoping review related to multi-scale computational modeling of AF ref [20], ref [122].",
+    "refNo": 20,
+    "title": "Lessons from computer simulations of ablation of atrial fibrillation",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "This article presents the results of systematic scoping review related to multi-scale computational modeling of AF ref [20], ref [122].",
+    "refNo": 122,
+    "title": "Using personalized computer models to custom-tailor ablation procedures for atrial fibrillation patients: are we there yet?",
+    "marker_text": "[122]"
+  },
+  {
+    "sentence": "In Atrial fibrillation is a complex arrhythmia, and the electrophysiological mechanisms for its initiation and maintenance are not clearly understood ref [20], ref [122].",
+    "refNo": 20,
+    "title": "Lessons from computer simulations of ablation of atrial fibrillation",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "In Atrial fibrillation is a complex arrhythmia, and the electrophysiological mechanisms for its initiation and maintenance are not clearly understood ref [20], ref [122].",
+    "refNo": 122,
+    "title": "Using personalized computer models to custom-tailor ablation procedures for atrial fibrillation patients: are we there yet?",
+    "marker_text": "[122]"
+  },
+  {
+    "sentence": "In general, a triggering factor, as well as an arrhythmogenic substrate, must coexist for AF initiation ref [20].",
+    "refNo": 20,
+    "title": "Lessons from computer simulations of ablation of atrial fibrillation",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "The complicated nature of AF is reflected in the significant number of studies included in the current review and the numerous factors to be considered on simulation protocols designing ref [20], ref [121], ref [122].",
+    "refNo": 20,
+    "title": "Lessons from computer simulations of ablation of atrial fibrillation",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "The complicated nature of AF is reflected in the significant number of studies included in the current review and the numerous factors to be considered on simulation protocols designing ref [20], ref [121], ref [122].",
+    "refNo": 121,
+    "title": "The virtual physiological human: ten years after",
+    "marker_text": "[121]"
+  },
+  {
+    "sentence": "The complicated nature of AF is reflected in the significant number of studies included in the current review and the numerous factors to be considered on simulation protocols designing ref [20], ref [121], ref [122].",
+    "refNo": 122,
+    "title": "Using personalized computer models to custom-tailor ablation procedures for atrial fibrillation patients: are we there yet?",
+    "marker_text": "[122]"
+  },
+  {
+    "sentence": "The advances in imaging technologies led to the creation of detailed anatomical models, depicting the structural and electrical heterogeneities of the atria whereas, several mechanisms involved in arrhythmogenesis have been modeled related to electrical and structural remodeling ref [20], ref [121], ref [122].",
+    "refNo": 20,
+    "title": "Lessons from computer simulations of ablation of atrial fibrillation",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "The advances in imaging technologies led to the creation of detailed anatomical models, depicting the structural and electrical heterogeneities of the atria whereas, several mechanisms involved in arrhythmogenesis have been modeled related to electrical and structural remodeling ref [20], ref [121], ref [122].",
+    "refNo": 121,
+    "title": "The virtual physiological human: ten years after",
+    "marker_text": "[121]"
+  },
+  {
+    "sentence": "The advances in imaging technologies led to the creation of detailed anatomical models, depicting the structural and electrical heterogeneities of the atria whereas, several mechanisms involved in arrhythmogenesis have been modeled related to electrical and structural remodeling ref [20], ref [121], ref [122].",
+    "refNo": 122,
+    "title": "Using personalized computer models to custom-tailor ablation procedures for atrial fibrillation patients: are we there yet?",
+    "marker_text": "[122]"
+  },
+  {
+    "sentence": "The computational approaches move toward more detailed models, incorporating multiple factors, such ANS effect, atrial electromechanical, the endo and epicardium layer dissociation, fibrosis and the genetic substrate ref [20], ref [121], ref [122].",
+    "refNo": 20,
+    "title": "Lessons from computer simulations of ablation of atrial fibrillation",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "The computational approaches move toward more detailed models, incorporating multiple factors, such ANS effect, atrial electromechanical, the endo and epicardium layer dissociation, fibrosis and the genetic substrate ref [20], ref [121], ref [122].",
+    "refNo": 121,
+    "title": "The virtual physiological human: ten years after",
+    "marker_text": "[121]"
+  },
+  {
+    "sentence": "The computational approaches move toward more detailed models, incorporating multiple factors, such ANS effect, atrial electromechanical, the endo and epicardium layer dissociation, fibrosis and the genetic substrate ref [20], ref [121], ref [122].",
+    "refNo": 122,
+    "title": "Using personalized computer models to custom-tailor ablation procedures for atrial fibrillation patients: are we there yet?",
+    "marker_text": "[122]"
+  },
+  {
+    "sentence": "This progress will lead to patient-specific models creation ref [122] which can be useful in real-life cases analysis ref [20], ref [122].",
+    "refNo": 122,
+    "title": "Using personalized computer models to custom-tailor ablation procedures for atrial fibrillation patients: are we there yet?",
+    "marker_text": "[122]"
+  },
+  {
+    "sentence": "This progress will lead to patient-specific models creation ref [122] which can be useful in real-life cases analysis ref [20], ref [122].",
+    "refNo": 20,
+    "title": "Lessons from computer simulations of ablation of atrial fibrillation",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "This progress will lead to patient-specific models creation ref [122] which can be useful in real-life cases analysis ref [20], ref [122].",
+    "refNo": 122,
+    "title": "Using personalized computer models to custom-tailor ablation procedures for atrial fibrillation patients: are we there yet?",
+    "marker_text": "[122]"
+  },
+  {
+    "sentence": "Studies were limited to the AF while other pro-arrhythmic states were not included in the review ref [38].",
+    "refNo": 38,
+    "title": "P-wave morphology: underlying mechanisms and clinical implications",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Furthermore, since one of the inclusion criteria was that the term \"AF\" needed to be indexed as a keyword, we recognize that some pioneering works on the field of computational modeling may be excluded ref [38], ref [125].",
+    "refNo": 38,
+    "title": "P-wave morphology: underlying mechanisms and clinical implications",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Furthermore, since one of the inclusion criteria was that the term \"AF\" needed to be indexed as a keyword, we recognize that some pioneering works on the field of computational modeling may be excluded ref [38], ref [125].",
+    "refNo": 125,
+    "title": "A new algorithm to diagnose atrial ectopic origin from multi lead ecg systems -insights from 3d virtual human atria and torso",
+    "marker_text": "[125]"
+  },
+  {
+    "sentence": "A typical example is the work from Vigmond et al. (2004), which was excluded because it was not indexed with the term \"AF\" as a keyword neither in PubMed nor in Scopus libraries, despite the fact its focus is on atrial arrhythmogenesis, and AF can be considered as a part of it ref [38].",
+    "refNo": 38,
+    "title": "P-wave morphology: underlying mechanisms and clinical implications",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "However, the fact that all the remaining inclusion criteria are met denotes the effectiveness of the query for the description of the field of computational modeling ref [123], ref [38], ref [124], ref [125].",
+    "refNo": 123,
+    "title": "Influence of the earliest right atrial activation site and its proximity to interatrial connections on P-wave morphology",
+    "marker_text": "[123]"
+  },
+  {
+    "sentence": "However, the fact that all the remaining inclusion criteria are met denotes the effectiveness of the query for the description of the field of computational modeling ref [123], ref [38], ref [124], ref [125].",
+    "refNo": 38,
+    "title": "P-wave morphology: underlying mechanisms and clinical implications",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "However, the fact that all the remaining inclusion criteria are met denotes the effectiveness of the query for the description of the field of computational modeling ref [123], ref [38], ref [124], ref [125].",
+    "refNo": 124,
+    "title": "Changes in P-wave morphology after pulmonary vein isolation: insights from computer simulations",
+    "marker_text": "[124]"
+  },
+  {
+    "sentence": "However, the fact that all the remaining inclusion criteria are met denotes the effectiveness of the query for the description of the field of computational modeling ref [123], ref [38], ref [124], ref [125].",
+    "refNo": 125,
+    "title": "A new algorithm to diagnose atrial ectopic origin from multi lead ecg systems -insights from 3d virtual human atria and torso",
+    "marker_text": "[125]"
+  },
+  {
+    "sentence": "Finally, the modeling of the AV node, which serves as a filter for the atrial AP to prevent the arrhythmia to be diffused into the ventricles, was not considered here, and thus its effect on the initiation and maintenance of AF was not studied ref [38].",
+    "refNo": 38,
+    "title": "P-wave morphology: underlying mechanisms and clinical implications",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "The consideration of ANS branches, in terms of ganglia modeling, and the development of detailed representations of the anatomical heterogeneities, using MRI techniques, improved the reproducibility of the simulations compared to clinical observations ref [126].",
+    "refNo": 126,
+    "title": "Study on the P-wave feature time course as early predictors of paroxysmal atrial fibrillation",
+    "marker_text": "[126]"
+  },
+  {
+    "sentence": "The advances on genomics is also an aspect which is under consideration ref [126].",
+    "refNo": 126,
+    "title": "Study on the P-wave feature time course as early predictors of paroxysmal atrial fibrillation",
+    "marker_text": "[126]"
+  },
+  {
+    "sentence": "The advances on high-performance computing can overcome the computation load and the barriers introduced and thus it can allow the observation of more macroscopic events, such as the transition of the conduction routes which are reflected in the existence of multiple P-wave morphologies in AF patients during SR ref [126], ref [127].",
+    "refNo": 126,
+    "title": "Study on the P-wave feature time course as early predictors of paroxysmal atrial fibrillation",
+    "marker_text": "[126]"
+  },
+  {
+    "sentence": "The advances on high-performance computing can overcome the computation load and the barriers introduced and thus it can allow the observation of more macroscopic events, such as the transition of the conduction routes which are reflected in the existence of multiple P-wave morphologies in AF patients during SR ref [126], ref [127].",
+    "refNo": 127,
+    "title": "Prolonged corrected QT interval in predicting atrial fibrillation: a systematic review and meta-analysis",
+    "marker_text": "[127]"
+  },
+  {
+    "sentence": "Eventually, electrophysiological models of the heart will be used to optimize AF treatment and improve the quality of life in this group of patients ref [126], ref [127].",
+    "refNo": 126,
+    "title": "Study on the P-wave feature time course as early predictors of paroxysmal atrial fibrillation",
+    "marker_text": "[126]"
+  },
+  {
+    "sentence": "Eventually, electrophysiological models of the heart will be used to optimize AF treatment and improve the quality of life in this group of patients ref [126], ref [127].",
+    "refNo": 127,
+    "title": "Prolonged corrected QT interval in predicting atrial fibrillation: a systematic review and meta-analysis",
+    "marker_text": "[127]"
+  }
+]

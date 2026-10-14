@@ -1,0 +1,860 @@
+[
+  {
+    "sentence": "One of the pioneer research works on Clinical Decision Support Systems (CDSS), CASNET [1] (causal-associational network), was developed in late 1970s to assist in the diagnosis of glaucoma.",
+    "refNo": 1,
+    "title": "A model-based method for computer-aided medical decision making",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Clinical data used in CASNET covered symptoms reported by the patient, e.g., 'ocular pain', 'decreased visual acuity' and various eye examination results, e.g. visual acuity, IOP, anterior chamber depth, angle closure, pupil abnormality and corneal edema [1].",
+    "refNo": 1,
+    "title": "A model-based method for computer-aided medical decision making",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "It represented early medical expert systems, providing a framework describing the knowledge of expert consultants and simulating various aspects of the cognitive process of clinicians [2].",
+    "refNo": 2,
+    "title": "Representation of expert knowledge for consultation: the CASNET and EXPERT projects",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Figure 8 gives three spectral-domain OCT images in glaucoma [44].",
+    "refNo": 44,
+    "title": "Retinal microaneurysm detection through local rotating cross-section profile analysis",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "There are mainly two strategies for segmenting the disc/cup in optic-nerve head (ONH) from OCT images for glaucoma detection [12]: 1) a pixel classification approach applied to depth-columns of OCT voxels in which the reference standard is defined by manual planimetry from stereo fundus photographs and 2) direct segmentation of structures (neural canal opening and cup) from 3-D OCT images using a graph theoretic approach.",
+    "refNo": 12,
+    "title": "Segmentation of the optic disc in 3D-OCT scans of the optic nerve head",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "SS-OCT uses a frequency swept laser as a light source [41] and, in practice, has less roll-off of sensitivity with tissue depth than conventional SD-OCT instruments.",
+    "refNo": 41,
+    "title": "A new curvelet transform based method for extraction of red lesions in digital color retinal images",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "The current SS-OCT instruments use a longer wavelength, generally in the 1 μm range, which has improved their ability to penetrate deeper into tissues than the conventional SD-OCT instruments [282].",
+    "refNo": 282,
+    "title": "",
+    "marker_text": "[282]"
+  },
+  {
+    "sentence": "A recent study conducted in Japan [48] reported that SS-OCT can detect optic nerve pits or pit-like changes in PM eyes.",
+    "refNo": 48,
+    "title": "Optimal filter framework for automated, instantaneous detection of lesions in retinal images",
+    "marker_text": "[48]"
+  },
+  {
+    "sentence": "For example, ref [3], ref [4], and ref [5] describe large population-based studies in Singapore focusing on Malay, Indian, and Chinese populations, respectively.",
+    "refNo": 3,
+    "title": "Rationale and methodology for a population-based study of eye diseases in Malay people: The Singapore Malay eye study (SiMES)",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "For example, ref [3], ref [4], and ref [5] describe large population-based studies in Singapore focusing on Malay, Indian, and Chinese populations, respectively.",
+    "refNo": 4,
+    "title": "Ocular biometry in an urban Indian population: the Singapore Indian eye study (SINDI)",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "For example, ref [3], ref [4], and ref [5] describe large population-based studies in Singapore focusing on Malay, Indian, and Chinese populations, respectively.",
+    "refNo": 5,
+    "title": "Determinants of anterior chamber depth: the Singapore Chinese Eye Study",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "For example, the following image cues are highly related to glaucoma: large optic CDR [185]; appearance of optic Disc haemorrhage (DH) [186]; thinning of the neuroretinal rim (NRR) or notching of the NRR [175] and presence of PPA [174].",
+    "refNo": 185,
+    "title": "",
+    "marker_text": "[185]"
+  },
+  {
+    "sentence": "For example, the following image cues are highly related to glaucoma: large optic CDR [185]; appearance of optic Disc haemorrhage (DH) [186]; thinning of the neuroretinal rim (NRR) or notching of the NRR [175] and presence of PPA [174].",
+    "refNo": 186,
+    "title": "",
+    "marker_text": "[186]"
+  },
+  {
+    "sentence": "For example, the following image cues are highly related to glaucoma: large optic CDR [185]; appearance of optic Disc haemorrhage (DH) [186]; thinning of the neuroretinal rim (NRR) or notching of the NRR [175] and presence of PPA [174].",
+    "refNo": 175,
+    "title": "",
+    "marker_text": "[175]"
+  },
+  {
+    "sentence": "For example, the following image cues are highly related to glaucoma: large optic CDR [185]; appearance of optic Disc haemorrhage (DH) [186]; thinning of the neuroretinal rim (NRR) or notching of the NRR [175] and presence of PPA [174].",
+    "refNo": 174,
+    "title": "",
+    "marker_text": "[174]"
+  },
+  {
+    "sentence": "An example of an HRT image is shown in Figure 9(b) [90].",
+    "refNo": 90,
+    "title": "",
+    "marker_text": "[90]"
+  },
+  {
+    "sentence": "Cataract can be categorized into three types based on the location of opacity within the lens structure: nuclear, cortical and Posterior Sub-Capsular (PSC) [283].",
+    "refNo": 283,
+    "title": "",
+    "marker_text": "[283]"
+  },
+  {
+    "sentence": "The extracted features include intensity of the sulcus region [52] (Figure 13(a)), luminance profile in the eye lens [51] and color and intensity based features extracted from the nuclear region [50,284].",
+    "refNo": 52,
+    "title": "A new approach of geodesic reconstruction for drusen segmentation in eye fundus images",
+    "marker_text": "[52]"
+  },
+  {
+    "sentence": "The extracted features include intensity of the sulcus region [52] (Figure 13(a)), luminance profile in the eye lens [51] and color and intensity based features extracted from the nuclear region [50,284].",
+    "refNo": 51,
+    "title": "THALIA-An automatic hierarchical analysis system to detect drusen lesion images for amd assessment",
+    "marker_text": "[51]"
+  },
+  {
+    "sentence": "The extracted features include intensity of the sulcus region [52] (Figure 13(a)), luminance profile in the eye lens [51] and color and intensity based features extracted from the nuclear region [50,284].",
+    "refNo": 50,
+    "title": "Towards automatic detection of age-related macular degeneration in retinal fundus images",
+    "marker_text": "[50]"
+  },
+  {
+    "sentence": "The extracted features include intensity of the sulcus region [52] (Figure 13(a)), luminance profile in the eye lens [51] and color and intensity based features extracted from the nuclear region [50,284].",
+    "refNo": 284,
+    "title": "",
+    "marker_text": "[284]"
+  },
+  {
+    "sentence": "The average http://www.biomedcentral.com/1472-6947/14/80 grading difference of the state-of-the-art work [284] is 0.336.",
+    "refNo": 284,
+    "title": "",
+    "marker_text": "[284]"
+  },
+  {
+    "sentence": "In ophthalmology, ocular imaging has developed rapidly during the past 100 over years and play an critical role in clinical care and ocular disease management [27].",
+    "refNo": 27,
+    "title": "An update on the genetics of age-related macular degeneration",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "The first report on retinal image analysis was published in 1973, focusing on vessel segmentation [28].",
+    "refNo": 28,
+    "title": "Heredity of small hard drusen in twins aged 20-46 years",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "In 1984, Baudoin et al. [29].",
+    "refNo": 29,
+    "title": "Drusen detection in a retinal image using multi-level analysis",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "In SLP, the retina is illuminated by polarized light and RNFL thickness can be directly determined from the polarization change of the reflected light [59].",
+    "refNo": 59,
+    "title": "",
+    "marker_text": "[59]"
+  },
+  {
+    "sentence": "For example, it was used to observe the cornea haze after excimer laser ablation of cornea [286,287].",
+    "refNo": 286,
+    "title": "",
+    "marker_text": "[286]"
+  },
+  {
+    "sentence": "For example, it was used to observe the cornea haze after excimer laser ablation of cornea [286,287].",
+    "refNo": 287,
+    "title": "",
+    "marker_text": "[287]"
+  },
+  {
+    "sentence": "It can be used to measure corneal haze [288,289].",
+    "refNo": 288,
+    "title": "",
+    "marker_text": "[288]"
+  },
+  {
+    "sentence": "It can be used to measure corneal haze [288,289].",
+    "refNo": 289,
+    "title": "",
+    "marker_text": "[289]"
+  },
+  {
+    "sentence": "Wilkins et al. [37].",
+    "refNo": 37,
+    "title": "Identification and classification of microaneurysms for early detection of diabetic retinopathy",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "A drawback with the OCT http://www.biomedcentral.com/1472-6947/14 /80 images is that they are prone to noise during capture and a poor Signal to Noise Ratio (SNR) can affect the segmentation accuracy [37].",
+    "refNo": 37,
+    "title": "Identification and classification of microaneurysms for early detection of diabetic retinopathy",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "In [31], a method for automated characterization of the normal macular appearance in SD-OCT volumes was reported together with a general approach for local retinal abnormality detection.",
+    "refNo": 31,
+    "title": "Automated segmentation of the optic disc margin in 3D optical coherence tomography images using a graph-theoretic approach",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "In [36], the authors improved this method by employing a probabilistically constrained combined graph search-graph cut method refines the candidate SEADs by integrating the candidate volumes into the graph cut cost function as probability constraints.",
+    "refNo": 36,
+    "title": "Points of interest and visual dictionaries for automatic retinal lesion detection",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "Some of the common preprocessing methods are histogram equalization ref [20], shade correction ref [20], convolution with a Gaussian mask ref [20], median filtering ref [20] and blood vessel removal ref [20].",
+    "refNo": 20,
+    "title": "Retinal imaging and image analysis",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Some of the common preprocessing methods are histogram equalization ref [20], shade correction ref [20], convolution with a Gaussian mask ref [20], median filtering ref [20] and blood vessel removal ref [20].",
+    "refNo": 20,
+    "title": "Retinal imaging and image analysis",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Some of the common preprocessing methods are histogram equalization ref [20], shade correction ref [20], convolution with a Gaussian mask ref [20], median filtering ref [20] and blood vessel removal ref [20].",
+    "refNo": 20,
+    "title": "Retinal imaging and image analysis",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Some of the common preprocessing methods are histogram equalization ref [20], shade correction ref [20], convolution with a Gaussian mask ref [20], median filtering ref [20] and blood vessel removal ref [20].",
+    "refNo": 20,
+    "title": "Retinal imaging and image analysis",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Some of the common preprocessing methods are histogram equalization ref [20], shade correction ref [20], convolution with a Gaussian mask ref [20], median filtering ref [20] and blood vessel removal ref [20].",
+    "refNo": 20,
+    "title": "Retinal imaging and image analysis",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Only those images deemed suspect by the system will be passed to ophthalmologists for further examination ref [20].",
+    "refNo": 20,
+    "title": "Retinal imaging and image analysis",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "The APAMEA system proposed by Liu et al. ref [20].",
+    "refNo": 20,
+    "title": "Retinal imaging and image analysis",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Later on, Tan et al. ref [20].",
+    "refNo": 20,
+    "title": "Retinal imaging and image analysis",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "A recent advance in PPA detection was reported in ref [20], which was tested on a much larger dataset containing 1584 images.",
+    "refNo": 20,
+    "title": "Retinal imaging and image analysis",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Causes and symptoms DR is a side effect of diabetes which is caused when the blood vessels in the eye start getting blocked due to high sugar content in the blood [166].",
+    "refNo": 166,
+    "title": "",
+    "marker_text": "[166]"
+  },
+  {
+    "sentence": "Reduced blood supply to the retina can even cause blindness [98].",
+    "refNo": 98,
+    "title": "",
+    "marker_text": "[98]"
+  },
+  {
+    "sentence": "Figure 3 There are a few works which detect other symptoms as well [146].",
+    "refNo": 146,
+    "title": "",
+    "marker_text": "[146]"
+  },
+  {
+    "sentence": "For myopia both environmental and genetic factors have been associated with its onset and progression [179], while PM is primarily a genetic condition [180].",
+    "refNo": 179,
+    "title": "",
+    "marker_text": "[179]"
+  },
+  {
+    "sentence": "For myopia both environmental and genetic factors have been associated with its onset and progression [179], while PM is primarily a genetic condition [180].",
+    "refNo": 180,
+    "title": "",
+    "marker_text": "[180]"
+  },
+  {
+    "sentence": "Heritability is the proportion of phenotypic variation in a population that is attributable to genetic variation among individuals [200].",
+    "refNo": 200,
+    "title": "",
+    "marker_text": "[200]"
+  },
+  {
+    "sentence": "Therefore, timely diagnosis of this disease is important [168,169].",
+    "refNo": 168,
+    "title": "",
+    "marker_text": "[168]"
+  },
+  {
+    "sentence": "Therefore, timely diagnosis of this disease is important [168,169].",
+    "refNo": 169,
+    "title": "",
+    "marker_text": "[169]"
+  },
+  {
+    "sentence": "CAD research has been conducted for cataract grading rather than detection using on slit lamp images [33].",
+    "refNo": 33,
+    "title": "Automated segmentation of neural canal opening and optic cup in 3D spectral optical coherence tomography images of the optic nerve head",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "Grading of cataract severity is essential for cataract surgical planning [184] and an automated grading system offers an objective and efficient solution.",
+    "refNo": 184,
+    "title": "",
+    "marker_text": "[184]"
+  },
+  {
+    "sentence": "Grading is performed by locating the cloudiness and assessing its opacity level [33].",
+    "refNo": 33,
+    "title": "Automated segmentation of neural canal opening and optic cup in 3D spectral optical coherence tomography images of the optic nerve head",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "For the past 20 years, biomedical research community has spend huge efforts in identifying genetic markers for heritable diseases, through classical linkage studies [231] or recent Genome-wide association studies [1].",
+    "refNo": 231,
+    "title": "",
+    "marker_text": "[231]"
+  },
+  {
+    "sentence": "For the past 20 years, biomedical research community has spend huge efforts in identifying genetic markers for heritable diseases, through classical linkage studies [231] or recent Genome-wide association studies [1].",
+    "refNo": 1,
+    "title": "A model-based method for computer-aided medical decision making",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Dry AMD results from atrophy of the retinal pigment epithelial layer below the retina [1].",
+    "refNo": 1,
+    "title": "A model-based method for computer-aided medical decision making",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "The major symptom and also the first clinical indicator of dry AMD is drusen, sub-retinal deposits formed by retinal waste [4].",
+    "refNo": 4,
+    "title": "Ocular biometry in an urban Indian population: the Singapore Indian eye study (SINDI)",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "The major symptom of wet AMD is exudation [2].",
+    "refNo": 2,
+    "title": "Representation of expert knowledge for consultation: the CASNET and EXPERT projects",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Genetic information can be used to detect heritable disease related genotypes, mutations or phenotypes for clinical purposes [1].",
+    "refNo": 1,
+    "title": "A model-based method for computer-aided medical decision making",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Ocular diseases are highly inheritable, thus genetic information can provide important insights into disease risk and disease prognosis [1].",
+    "refNo": 1,
+    "title": "A model-based method for computer-aided medical decision making",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Computational methods investigating for SNP-trait association study [242,243] have been developed.",
+    "refNo": 242,
+    "title": "",
+    "marker_text": "[242]"
+  },
+  {
+    "sentence": "Computational methods investigating for SNP-trait association study [242,243] have been developed.",
+    "refNo": 243,
+    "title": "",
+    "marker_text": "[243]"
+  },
+  {
+    "sentence": "Following these methods, efforts [244][245][246] have been expanded to investigate those SNPs which have little effects on disease risk individually but influence the disease risk jointly, the phenomenon being known as epistatic interaction, where the effects of one gene are believe to be modified by one or several other genes.",
+    "refNo": 244,
+    "title": "",
+    "marker_text": "[244]"
+  },
+  {
+    "sentence": "Following these methods, efforts [244][245][246] have been expanded to investigate those SNPs which have little effects on disease risk individually but influence the disease risk jointly, the phenomenon being known as epistatic interaction, where the effects of one gene are believe to be modified by one or several other genes.",
+    "refNo": 245,
+    "title": "",
+    "marker_text": "[245]"
+  },
+  {
+    "sentence": "Following these methods, efforts [244][245][246] have been expanded to investigate those SNPs which have little effects on disease risk individually but influence the disease risk jointly, the phenomenon being known as epistatic interaction, where the effects of one gene are believe to be modified by one or several other genes.",
+    "refNo": 246,
+    "title": "",
+    "marker_text": "[246]"
+  },
+  {
+    "sentence": "To date, exhaustively detecting significant SNP groups of arbitrary size is still computationally infeasible [245].",
+    "refNo": 245,
+    "title": "",
+    "marker_text": "[245]"
+  },
+  {
+    "sentence": "Till now, time-domain OCT and SD-OCT have been widely utilized to perform glaucoma detection ref [38][39][40][44][45][46]49].",
+    "refNo": 38,
+    "title": "Automated diagnosis of referable maculopathy in diabetic retinopathy screening",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Till now, time-domain OCT and SD-OCT have been widely utilized to perform glaucoma detection ref [38][39][40][44][45][46]49].",
+    "refNo": 39,
+    "title": "Automated analysis of retinal images for detection of referable diabetic retinopathy",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "Till now, time-domain OCT and SD-OCT have been widely utilized to perform glaucoma detection ref [38][39][40][44][45][46]49].",
+    "refNo": 40,
+    "title": "An ensemble-based system for microaneurysm detection and diabetic retinopathy grading",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "Till now, time-domain OCT and SD-OCT have been widely utilized to perform glaucoma detection ref [38][39][40][44][45][46]49].",
+    "refNo": 44,
+    "title": "Retinal microaneurysm detection through local rotating cross-section profile analysis",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "Till now, time-domain OCT and SD-OCT have been widely utilized to perform glaucoma detection ref [38][39][40][44][45][46]49].",
+    "refNo": 45,
+    "title": "Automated microaneurysm detection using local contrast normalization and local vessel detection",
+    "marker_text": "[45]"
+  },
+  {
+    "sentence": "Till now, time-domain OCT and SD-OCT have been widely utilized to perform glaucoma detection ref [38][39][40][44][45][46]49].",
+    "refNo": 46,
+    "title": "Retinal image classification using a histogram based approach",
+    "marker_text": "[46]"
+  },
+  {
+    "sentence": "These two trends are discussed in the following subsections. ref [30].",
+    "refNo": 30,
+    "title": "Modeling paradigms for medical diagnostic decision support: a survey and future directions",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "The name of the associated disease is mentioned in brackets after the name of the database. [75].",
+    "refNo": 75,
+    "title": "",
+    "marker_text": "[75]"
+  },
+  {
+    "sentence": "The images collected by CAPT can be used as dataset for automatic AMD detection [273].",
+    "refNo": 273,
+    "title": "",
+    "marker_text": "[273]"
+  },
+  {
+    "sentence": "In the 1970s and 80s, research was focused on constructing knowledge-bases from inputs of physicians [26] for CAD tools.",
+    "refNo": 26,
+    "title": "The heritability of ocular traits",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "Over the years, the alternative approach of automatic knowledge acquisition without inputs from clinicians or experts, has become more popular [1, 2, 3, 4].",
+    "refNo": 1,
+    "title": "A model-based method for computer-aided medical decision making",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Over the years, the alternative approach of automatic knowledge acquisition without inputs from clinicians or experts, has become more popular [1, 2, 3, 4].",
+    "refNo": 2,
+    "title": "Representation of expert knowledge for consultation: the CASNET and EXPERT projects",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Over the years, the alternative approach of automatic knowledge acquisition without inputs from clinicians or experts, has become more popular [1, 2, 3, 4].",
+    "refNo": 3,
+    "title": "Rationale and methodology for a population-based study of eye diseases in Malay people: The Singapore Malay eye study (SiMES)",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Over the years, the alternative approach of automatic knowledge acquisition without inputs from clinicians or experts, has become more popular [1, 2, 3, 4].",
+    "refNo": 4,
+    "title": "Ocular biometry in an urban Indian population: the Singapore Indian eye study (SINDI)",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "One of the reasons, why CAD tools may be found to have sub-optimal accuracy is that the training data may itself lack all the attributes that are required for decision making ref [7].",
+    "refNo": 7,
+    "title": "Automatic diagnosis of pathological myopia from heterogeneous biomedical data",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Combining decision support methodologies that process information stored in different data formats has been shown to improve the performance ref [7].",
+    "refNo": 7,
+    "title": "Automatic diagnosis of pathological myopia from heterogeneous biomedical data",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Due to its complexity, analysis of such data has been limited to bioinformatics applications ref [4].",
+    "refNo": 4,
+    "title": "Ocular biometry in an urban Indian population: the Singapore Indian eye study (SINDI)",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "The green channel of the DFP is preferred for analysis since the retina has a good contrast in this channel [98].",
+    "refNo": 98,
+    "title": "",
+    "marker_text": "[98]"
+  },
+  {
+    "sentence": "The green channel of the DFP is preferred for analysis since the retina has a good contrast in this channel [98].",
+    "refNo": 98,
+    "title": "",
+    "marker_text": "[98]"
+  },
+  {
+    "sentence": "Segmentation is usually based on morphological operations [114,167].",
+    "refNo": 114,
+    "title": "",
+    "marker_text": "[114]"
+  },
+  {
+    "sentence": "Segmentation is usually based on morphological operations [114,167].",
+    "refNo": 167,
+    "title": "",
+    "marker_text": "[167]"
+  },
+  {
+    "sentence": "Lay and Baudoin et al. [114].",
+    "refNo": 114,
+    "title": "",
+    "marker_text": "[114]"
+  },
+  {
+    "sentence": "They performed morphological opening of images using structuring elements of different orientations and subtracted the resultant image from the original one, though it is hard to choose an optimal size of the structuring element [97].",
+    "refNo": 97,
+    "title": "",
+    "marker_text": "[97]"
+  },
+  {
+    "sentence": "Apart from morphological approaches, researchers have used Gabor filters [130], Gaussian correlation filters [131], curvelet transforms [105], wavelet transforms [278], local image properties [279,280], or just the intensity values in the green channel [97,137] for segmenting out candidate lesions.",
+    "refNo": 130,
+    "title": "",
+    "marker_text": "[130]"
+  },
+  {
+    "sentence": "Apart from morphological approaches, researchers have used Gabor filters [130], Gaussian correlation filters [131], curvelet transforms [105], wavelet transforms [278], local image properties [279,280], or just the intensity values in the green channel [97,137] for segmenting out candidate lesions.",
+    "refNo": 131,
+    "title": "",
+    "marker_text": "[131]"
+  },
+  {
+    "sentence": "Apart from morphological approaches, researchers have used Gabor filters [130], Gaussian correlation filters [131], curvelet transforms [105], wavelet transforms [278], local image properties [279,280], or just the intensity values in the green channel [97,137] for segmenting out candidate lesions.",
+    "refNo": 105,
+    "title": "",
+    "marker_text": "[105]"
+  },
+  {
+    "sentence": "Apart from morphological approaches, researchers have used Gabor filters [130], Gaussian correlation filters [131], curvelet transforms [105], wavelet transforms [278], local image properties [279,280], or just the intensity values in the green channel [97,137] for segmenting out candidate lesions.",
+    "refNo": 278,
+    "title": "",
+    "marker_text": "[278]"
+  },
+  {
+    "sentence": "Apart from morphological approaches, researchers have used Gabor filters [130], Gaussian correlation filters [131], curvelet transforms [105], wavelet transforms [278], local image properties [279,280], or just the intensity values in the green channel [97,137] for segmenting out candidate lesions.",
+    "refNo": 279,
+    "title": "",
+    "marker_text": "[279]"
+  },
+  {
+    "sentence": "Apart from morphological approaches, researchers have used Gabor filters [130], Gaussian correlation filters [131], curvelet transforms [105], wavelet transforms [278], local image properties [279,280], or just the intensity values in the green channel [97,137] for segmenting out candidate lesions.",
+    "refNo": 280,
+    "title": "",
+    "marker_text": "[280]"
+  },
+  {
+    "sentence": "Apart from morphological approaches, researchers have used Gabor filters [130], Gaussian correlation filters [131], curvelet transforms [105], wavelet transforms [278], local image properties [279,280], or just the intensity values in the green channel [97,137] for segmenting out candidate lesions.",
+    "refNo": 97,
+    "title": "",
+    "marker_text": "[97]"
+  },
+  {
+    "sentence": "Apart from morphological approaches, researchers have used Gabor filters [130], Gaussian correlation filters [131], curvelet transforms [105], wavelet transforms [278], local image properties [279,280], or just the intensity values in the green channel [97,137] for segmenting out candidate lesions.",
+    "refNo": 137,
+    "title": "",
+    "marker_text": "[137]"
+  },
+  {
+    "sentence": "Some of the works detected both bright and red lesions [106,137,149,153,154] while Abramoff et al. [155].",
+    "refNo": 106,
+    "title": "",
+    "marker_text": "[106]"
+  },
+  {
+    "sentence": "Some of the works detected both bright and red lesions [106,137,149,153,154] while Abramoff et al. [155].",
+    "refNo": 137,
+    "title": "",
+    "marker_text": "[137]"
+  },
+  {
+    "sentence": "Some of the works detected both bright and red lesions [106,137,149,153,154] while Abramoff et al. [155].",
+    "refNo": 149,
+    "title": "",
+    "marker_text": "[149]"
+  },
+  {
+    "sentence": "Some of the works detected both bright and red lesions [106,137,149,153,154] while Abramoff et al. [155].",
+    "refNo": 153,
+    "title": "",
+    "marker_text": "[153]"
+  },
+  {
+    "sentence": "Some of the works detected both bright and red lesions [106,137,149,153,154] while Abramoff et al. [155].",
+    "refNo": 154,
+    "title": "",
+    "marker_text": "[154]"
+  },
+  {
+    "sentence": "Some of the works detected both bright and red lesions [106,137,149,153,154] while Abramoff et al. [155].",
+    "refNo": 155,
+    "title": "",
+    "marker_text": "[155]"
+  },
+  {
+    "sentence": "and Agurto et al. [146].",
+    "refNo": 146,
+    "title": "",
+    "marker_text": "[146]"
+  },
+  {
+    "sentence": "The state of the art score on the ROC database is 0.434 achieved by [79].",
+    "refNo": 79,
+    "title": "",
+    "marker_text": "[79]"
+  },
+  {
+    "sentence": "Several other methods walk a step further to grade AMD. ref [46].",
+    "refNo": 46,
+    "title": "Retinal image classification using a histogram based approach",
+    "marker_text": "[46]"
+  },
+  {
+    "sentence": "proposes a two-stage Case Based Reasoning approach using histogram-based representations and Dynamic Time Warping to classify retinal images for AMD screening, leveraging green channel and saturation components for improved discriminatory power. ref [47].",
+    "refNo": 47,
+    "title": "Image classification for age-related macular degeneration screening using hierarchical image decompositions and graph mining",
+    "marker_text": "[47]"
+  },
+  {
+    "sentence": "introduces a hierarchical image decomposition technique based on circular and angular partitioning, combined with weighted frequent sub-tree mining to extract discriminative features for automated AMD detection from color fundus photographs. ref [48].",
+    "refNo": 48,
+    "title": "Optimal filter framework for automated, instantaneous detection of lesions in retinal images",
+    "marker_text": "[48]"
+  },
+  {
+    "sentence": "presents an optimal filter framework that enables instantaneous detection of drusen by learning a feature space from reference samples, achieving an AUC of 0.850 in differentiating drusen from Stargardt's disease lesions. ref [49].",
+    "refNo": 49,
+    "title": "Visual saliency based bright lesion detection and discrimination in retinal images",
+    "marker_text": "[49]"
+  },
+  {
+    "sentence": "One method employs a maximal region-based pixel intensity approach via RGB and HSV channels to identify drusen in fundus images, achieving a sensitivity and specificity of 0.75 on a small clinical dataset ref [50].",
+    "refNo": 50,
+    "title": "Towards automatic detection of age-related macular degeneration in retinal fundus images",
+    "marker_text": "[50]"
+  },
+  {
+    "sentence": "Another system, THALIA, uses a hierarchical word transform and SVM-based classification to detect drusen with high accuracy (95.46%) on a dataset of 350 images ref [51].",
+    "refNo": 51,
+    "title": "THALIA-An automatic hierarchical analysis system to detect drusen lesion images for amd assessment",
+    "marker_text": "[51]"
+  },
+  {
+    "sentence": "A novel geodesic reconstruction technique based on mathematical morphology has also been introduced to segment drusen by identifying regional maxima, showing promise in dynamic angiographic sequences ref [52].",
+    "refNo": 52,
+    "title": "A new approach of geodesic reconstruction for drusen segmentation in eye fundus images",
+    "marker_text": "[52]"
+  },
+  {
+    "sentence": "Additionally, automated drusen segmentation using geometric background leveling and histogram-based thresholding has demonstrated median sensitivity and specificity of 70% and 81%, respectively, when compared to manual stereoscopic grading ref [53].",
+    "refNo": 53,
+    "title": "Automated detection of macular drusen using geometric background leveling and threshold selection",
+    "marker_text": "[53]"
+  },
+  {
+    "sentence": "More recently, an automated system incorporating optimal color descriptors and robust multiscale local image descriptors has been developed, outperforming state-of-the-art techniques on color fundus photographs from two clinical studies ref [6].",
+    "refNo": 6,
+    "title": "Integration and fusion of standard automated perimetry and optical coherence tomography data for improved automated glaucoma diagnostics",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Several other methods walk a step further to grade AMD. ref [55].",
+    "refNo": 55,
+    "title": "Automated \"disease/no disease\" grading of age-related macular degeneration by an image mining approach",
+    "marker_text": "[55]"
+  },
+  {
+    "sentence": "Local maxima are found through geodesic method [63], Histogram based Adaptive Local Thresholding (HALT) [65], and Otsu method based adaptive threshold [74].",
+    "refNo": 63,
+    "title": "",
+    "marker_text": "[63]"
+  },
+  {
+    "sentence": "Local maxima are found through geodesic method [63], Histogram based Adaptive Local Thresholding (HALT) [65], and Otsu method based adaptive threshold [74].",
+    "refNo": 65,
+    "title": "",
+    "marker_text": "[65]"
+  },
+  {
+    "sentence": "Local maxima are found through geodesic method [63], Histogram based Adaptive Local Thresholding (HALT) [65], and Otsu method based adaptive threshold [74].",
+    "refNo": 74,
+    "title": "",
+    "marker_text": "[74]"
+  },
+  {
+    "sentence": "For example, multi-scale and multi-orientation wavelet is used to detect drusen in a hierarchical framework [63] or through Support Vector Data Description (SVDD), which is derived from support vector machine [76].",
+    "refNo": 63,
+    "title": "",
+    "marker_text": "[63]"
+  },
+  {
+    "sentence": "For example, multi-scale and multi-orientation wavelet is used to detect drusen in a hierarchical framework [63] or through Support Vector Data Description (SVDD), which is derived from support vector machine [76].",
+    "refNo": 76,
+    "title": "",
+    "marker_text": "[76]"
+  },
+  {
+    "sentence": "Furthermore, a mathematical technique, amplitude-modulation frequency modulation (AM-FM) was shown to be able to generate multi-scale features for classifying pathological structures, such as drusen, on a retinal image [84].",
+    "refNo": 84,
+    "title": "",
+    "marker_text": "[84]"
+  },
+  {
+    "sentence": "In recent years, with the progress of computer vision and machine learning, more and more advanced techniques have been introduced for drusen detection, e.g., novel feature descriptor such as ICA [85] and biologically inspired features [76], feature selection schemes such as AdaBoost [86], and parameter choosing approaches [64].",
+    "refNo": 85,
+    "title": "",
+    "marker_text": "[85]"
+  },
+  {
+    "sentence": "In recent years, with the progress of computer vision and machine learning, more and more advanced techniques have been introduced for drusen detection, e.g., novel feature descriptor such as ICA [85] and biologically inspired features [76], feature selection schemes such as AdaBoost [86], and parameter choosing approaches [64].",
+    "refNo": 76,
+    "title": "",
+    "marker_text": "[76]"
+  },
+  {
+    "sentence": "In recent years, with the progress of computer vision and machine learning, more and more advanced techniques have been introduced for drusen detection, e.g., novel feature descriptor such as ICA [85] and biologically inspired features [76], feature selection schemes such as AdaBoost [86], and parameter choosing approaches [64].",
+    "refNo": 86,
+    "title": "",
+    "marker_text": "[86]"
+  },
+  {
+    "sentence": "In recent years, with the progress of computer vision and machine learning, more and more advanced techniques have been introduced for drusen detection, e.g., novel feature descriptor such as ICA [85] and biologically inspired features [76], feature selection schemes such as AdaBoost [86], and parameter choosing approaches [64].",
+    "refNo": 64,
+    "title": "",
+    "marker_text": "[64]"
+  },
+  {
+    "sentence": "A latest work, Thalia [272] is a system for drusen lesion image detection and AMD assessment, using a hierarchical word transform (HWI) as representation.",
+    "refNo": 272,
+    "title": "",
+    "marker_text": "[272]"
+  },
+  {
+    "sentence": "There are other methods using background modeling [94] and saliency [102].",
+    "refNo": 94,
+    "title": "",
+    "marker_text": "[94]"
+  },
+  {
+    "sentence": "There are other methods using background modeling [94] and saliency [102].",
+    "refNo": 102,
+    "title": "",
+    "marker_text": "[102]"
+  },
+  {
+    "sentence": "The background modeling method [94] first segments the healthy structure of eye and blood vessels and the inverse of the healthy parts provide the drusen detection result.",
+    "refNo": 94,
+    "title": "",
+    "marker_text": "[94]"
+  },
+  {
+    "sentence": "The RNFL thickness is color-coded based on the color spectrum with thinner regions displayed in blue and green and thicker regions displayed in yellow and red [281]. http://www.biomedcentral.com/1472-6947/14/80 method [102] first detects the salient regions and then classifies them as blood vessel, hard exudates or drusen.",
+    "refNo": 281,
+    "title": "",
+    "marker_text": "[281]"
+  },
+  {
+    "sentence": "The RNFL thickness is color-coded based on the color spectrum with thinner regions displayed in blue and green and thicker regions displayed in yellow and red [281]. http://www.biomedcentral.com/1472-6947/14/80 method [102] first detects the salient regions and then classifies them as blood vessel, hard exudates or drusen.",
+    "refNo": 102,
+    "title": "",
+    "marker_text": "[102]"
+  },
+  {
+    "sentence": "In [95], a general framework was proposed to detect and characterize target lesions concurrently.",
+    "refNo": 95,
+    "title": "",
+    "marker_text": "[95]"
+  },
+  {
+    "sentence": "The overlap of drusen with macular is used to measure the severity of AMD [103,104].",
+    "refNo": 103,
+    "title": "",
+    "marker_text": "[103]"
+  },
+  {
+    "sentence": "The overlap of drusen with macular is used to measure the severity of AMD [103,104].",
+    "refNo": 104,
+    "title": "",
+    "marker_text": "[104]"
+  },
+  {
+    "sentence": "An early attempt in this direction was a histogram based representation followed by Case -Based Reasoning [111].",
+    "refNo": 111,
+    "title": "",
+    "marker_text": "[111]"
+  },
+  {
+    "sentence": "Thus the authors upgraded the method by using a spatial histogram technique that included colour and spatial information [112].",
+    "refNo": 112,
+    "title": "",
+    "marker_text": "[112]"
+  },
+  {
+    "sentence": "The identified sub-graphs are then incorporated into a feature vector representation (one vector per image) to which classification techniques can be applied [119,120].",
+    "refNo": 119,
+    "title": "",
+    "marker_text": "[119]"
+  },
+  {
+    "sentence": "The identified sub-graphs are then incorporated into a feature vector representation (one vector per image) to which classification techniques can be applied [119,120].",
+    "refNo": 120,
+    "title": "",
+    "marker_text": "[120]"
+  },
+  {
+    "sentence": "Region based and lesion based features were tested and gave satisfactory performance [127] and [128]. ref [3].",
+    "refNo": 127,
+    "title": "",
+    "marker_text": "[127]"
+  },
+  {
+    "sentence": "Region based and lesion based features were tested and gave satisfactory performance [127] and [128]. ref [3].",
+    "refNo": 128,
+    "title": "",
+    "marker_text": "[128]"
+  },
+  {
+    "sentence": "Region based and lesion based features were tested and gave satisfactory performance [127] and [128]. ref [3].",
+    "refNo": 3,
+    "title": "Rationale and methodology for a population-based study of eye diseases in Malay people: The Singapore Malay eye study (SiMES)",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Till now, there are few works on wet AMD detection except the one proposed in [121] where the basic idea is that the vessels in the DFP seem different under dry and wet AMD.",
+    "refNo": 121,
+    "title": "",
+    "marker_text": "[121]"
+  }
+]

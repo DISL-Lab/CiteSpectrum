@@ -1,0 +1,1174 @@
+[
+  {
+    "sentence": "An exciting milestone in the P2X receptor field is the 3-Å resolution of the crystal structure of the zebrafish P2X4 (zfP2X4) receptor in both the unliganded apo-closed state and the ATP-bound open state ref [1], ref [2].",
+    "refNo": 1,
+    "title": "New structural motif for ligand-gated ion channels defined by an ionotropic ATP receptor",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "An exciting milestone in the P2X receptor field is the 3-Å resolution of the crystal structure of the zebrafish P2X4 (zfP2X4) receptor in both the unliganded apo-closed state and the ATP-bound open state ref [1], ref [2].",
+    "refNo": 2,
+    "title": "A new class of ligand-gated ion channel defined by P 2x receptor for extracellular ATP",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "The application of the zfP2X4 crystal structure for the interpretation of mutagenesis data has enormously advanced our understanding of the mechanisms of the molecular operation of the P2X receptor in almost every aspect, including ligand binding, channel gating, pore opening and ion permeation ref [3], ref [4], ref [5], ref [6], ref [7], ref [8], ref [9], ref [10], ref [11].",
+    "refNo": 3,
+    "title": "Nicotinic acetylcholine receptor and the structural basis of neuromuscular transmission: insights from Torpedo postsynaptic membranes",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "The application of the zfP2X4 crystal structure for the interpretation of mutagenesis data has enormously advanced our understanding of the mechanisms of the molecular operation of the P2X receptor in almost every aspect, including ligand binding, channel gating, pore opening and ion permeation ref [3], ref [4], ref [5], ref [6], ref [7], ref [8], ref [9], ref [10], ref [11].",
+    "refNo": 4,
+    "title": "Molecular determinants of glycine receptor subunit assembly",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "The application of the zfP2X4 crystal structure for the interpretation of mutagenesis data has enormously advanced our understanding of the mechanisms of the molecular operation of the P2X receptor in almost every aspect, including ligand binding, channel gating, pore opening and ion permeation ref [3], ref [4], ref [5], ref [6], ref [7], ref [8], ref [9], ref [10], ref [11].",
+    "refNo": 5,
+    "title": "An intramembrane aromatic network determines pentameric assembly of Cys-loop receptors",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "The application of the zfP2X4 crystal structure for the interpretation of mutagenesis data has enormously advanced our understanding of the mechanisms of the molecular operation of the P2X receptor in almost every aspect, including ligand binding, channel gating, pore opening and ion permeation ref [3], ref [4], ref [5], ref [6], ref [7], ref [8], ref [9], ref [10], ref [11].",
+    "refNo": 6,
+    "title": "Unanticipated parallels in architecture and mechanism between ATP-gated P2X receptors and acid sensing ion channels",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "The application of the zfP2X4 crystal structure for the interpretation of mutagenesis data has enormously advanced our understanding of the mechanisms of the molecular operation of the P2X receptor in almost every aspect, including ligand binding, channel gating, pore opening and ion permeation ref [3], ref [4], ref [5], ref [6], ref [7], ref [8], ref [9], ref [10], ref [11].",
+    "refNo": 7,
+    "title": "The heterotetrameric architecture of the epithelial sodium channel (ENaC)",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "The application of the zfP2X4 crystal structure for the interpretation of mutagenesis data has enormously advanced our understanding of the mechanisms of the molecular operation of the P2X receptor in almost every aspect, including ligand binding, channel gating, pore opening and ion permeation ref [3], ref [4], ref [5], ref [6], ref [7], ref [8], ref [9], ref [10], ref [11].",
+    "refNo": 8,
+    "title": "The Phe-Met-Arg-Phe-amide-activated sodium channel is a tetramer",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "The application of the zfP2X4 crystal structure for the interpretation of mutagenesis data has enormously advanced our understanding of the mechanisms of the molecular operation of the P2X receptor in almost every aspect, including ligand binding, channel gating, pore opening and ion permeation ref [3], ref [4], ref [5], ref [6], ref [7], ref [8], ref [9], ref [10], ref [11].",
+    "refNo": 9,
+    "title": "Trimeric architecture of homomeric P2X2 and heteromeric P2X1+2 receptor subtypes",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "The application of the zfP2X4 crystal structure for the interpretation of mutagenesis data has enormously advanced our understanding of the mechanisms of the molecular operation of the P2X receptor in almost every aspect, including ligand binding, channel gating, pore opening and ion permeation ref [3], ref [4], ref [5], ref [6], ref [7], ref [8], ref [9], ref [10], ref [11].",
+    "refNo": 10,
+    "title": "Atomic force microscopy imaging demonstrates that P2X2 receptors are trimers but that P2X6 receptor subunits do not oligomerize",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "The application of the zfP2X4 crystal structure for the interpretation of mutagenesis data has enormously advanced our understanding of the mechanisms of the molecular operation of the P2X receptor in almost every aspect, including ligand binding, channel gating, pore opening and ion permeation ref [3], ref [4], ref [5], ref [6], ref [7], ref [8], ref [9], ref [10], ref [11].",
+    "refNo": 11,
+    "title": "Pore-opening mechanism in trimeric P2X receptor channels",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "A critical role of the TM2 helix for homo- and heteropolymerization was deduced from the observation that C-terminal truncation at position R304 rP2X2 (corresponding to R312 zfP2X4 or R310 rP2X5, see arrow in Fig. 5A) that also deleted the pre-TM2 region (equivalent to ß strand 14 of the zfP2X4 structure), and the TM2 helix prevented both assembly with full-length P2X2 or P2X3 subunits and self-assembly ref [100].",
+    "refNo": 100,
+    "title": "",
+    "marker_text": "[100]"
+  },
+  {
+    "sentence": "A critical role of the TM2 helix for homo- and heteropolymerization was deduced from the observation that C-terminal truncation at position R304 rP2X2 (corresponding to R312 zfP2X4 or R310 rP2X5, see arrow in Fig. 5A) that also deleted the pre-TM2 region (equivalent to ß strand 14 of the zfP2X4 structure), and the TM2 helix prevented both assembly with full-length P2X2 or P2X3 subunits and self-assembly ref [100].",
+    "refNo": 5,
+    "title": "An intramembrane aromatic network determines pentameric assembly of Cys-loop receptors",
+    "marker_text": "5",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "This view was further supported by coimmunoprecipitation experiments with two chimeras consisting of the P2X1 ectodomain flanked by the N- and C-terminal domains, including the transmembrane helices of rP2X3 (X3-X1-X3) and vice versa (X1-X3-X1) ref [100].",
+    "refNo": 100,
+    "title": "",
+    "marker_text": "[100]"
+  },
+  {
+    "sentence": "The rationale was that wt P2X6 can co-assemble with wt rP2X1 but not with rP2X3 when co-expressed in HEK293 cells ref [103].",
+    "refNo": 103,
+    "title": "",
+    "marker_text": "[103]"
+  },
+  {
+    "sentence": "Intriguingly, the X1-X3-X1 chimera co-precipitated with the wt rP2X6 subunit, whereas X3-X1-X3 and wt P2X3 did not ref [100], ref [103].",
+    "refNo": 100,
+    "title": "",
+    "marker_text": "[100]"
+  },
+  {
+    "sentence": "Intriguingly, the X1-X3-X1 chimera co-precipitated with the wt rP2X6 subunit, whereas X3-X1-X3 and wt P2X3 did not ref [100], ref [103].",
+    "refNo": 103,
+    "title": "",
+    "marker_text": "[103]"
+  },
+  {
+    "sentence": "The hP2X1 receptor mutants K68A hP2X1 and K309A hP2X1, which caused the largest decrease of the ATP potency, did not affect the antagonism by suramin ref [117].",
+    "refNo": 117,
+    "title": "",
+    "marker_text": "[117]"
+  },
+  {
+    "sentence": "These and similar results with the mutants of aromatic residues of the hP2X1 receptor raised the question of whether the binding sites for ATP and suramin binding are different ref [120].",
+    "refNo": 120,
+    "title": "",
+    "marker_text": "[120]"
+  },
+  {
+    "sentence": "In this chapter, we briefly outline the overall atomic-resolution structure of the zfP2X4 receptor and describe the nomenclature of the various protein domains as determined by X-ray crystallography at a 2.8-3.1-Å resolution for both the apo-closed state and the ATP-bound open state of the zfP2X4 receptor [1,2].",
+    "refNo": 1,
+    "title": "New structural motif for ligand-gated ion channels defined by an ionotropic ATP receptor",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "In this chapter, we briefly outline the overall atomic-resolution structure of the zfP2X4 receptor and describe the nomenclature of the various protein domains as determined by X-ray crystallography at a 2.8-3.1-Å resolution for both the apo-closed state and the ATP-bound open state of the zfP2X4 receptor [1,2].",
+    "refNo": 2,
+    "title": "A new class of ligand-gated ion channel defined by P 2x receptor for extracellular ATP",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "The crystal structure of the zfP2X4 receptor verified the homotrimer architecture of this receptor class that was initially revealed by PAGE approaches for virtually all rat or human P2X family members [50][51][52][53] except for P2X6, which forms aggregates rather than assembling as defined homotrimers [52].",
+    "refNo": 50,
+    "title": "P2X1 and P2X2 receptors in the central nervous system as possible drug targets",
+    "marker_text": "[50]"
+  },
+  {
+    "sentence": "The crystal structure of the zfP2X4 receptor verified the homotrimer architecture of this receptor class that was initially revealed by PAGE approaches for virtually all rat or human P2X family members [50][51][52][53] except for P2X6, which forms aggregates rather than assembling as defined homotrimers [52].",
+    "refNo": 51,
+    "title": "Receptor for ATP in the membrane of mammalian sensory neurones",
+    "marker_text": "[51]"
+  },
+  {
+    "sentence": "The crystal structure of the zfP2X4 receptor verified the homotrimer architecture of this receptor class that was initially revealed by PAGE approaches for virtually all rat or human P2X family members [50][51][52][53] except for P2X6, which forms aggregates rather than assembling as defined homotrimers [52].",
+    "refNo": 52,
+    "title": "ATP excites a subpopulation of rat dorsal horn neurones",
+    "marker_text": "[52]"
+  },
+  {
+    "sentence": "The crystal structure of the zfP2X4 receptor verified the homotrimer architecture of this receptor class that was initially revealed by PAGE approaches for virtually all rat or human P2X family members [50][51][52][53] except for P2X6, which forms aggregates rather than assembling as defined homotrimers [52].",
+    "refNo": 53,
+    "title": "Pharmacology and electrophysiology of ATP-activated ion channels",
+    "marker_text": "[53]"
+  },
+  {
+    "sentence": "The crystal structure of the zfP2X4 receptor verified the homotrimer architecture of this receptor class that was initially revealed by PAGE approaches for virtually all rat or human P2X family members [50][51][52][53] except for P2X6, which forms aggregates rather than assembling as defined homotrimers [52].",
+    "refNo": 52,
+    "title": "ATP excites a subpopulation of rat dorsal horn neurones",
+    "marker_text": "[52]"
+  },
+  {
+    "sentence": "Indeed, there is indirect evidence that the loose packing of the TM helices displayed by the structure of zfP2X4 receptor is defined in part by detergent aggregate known to preferentially occupy the larger volume that surrounds the hydrophobic domain of membrane proteins with large water-soluble domains [107].",
+    "refNo": 107,
+    "title": "",
+    "marker_text": "[107]"
+  },
+  {
+    "sentence": "The suggestion that the intermonomer fenestrations seen in the structure leave the channel pore open to the fatty acyl environment [107] could be demonstrated by a molecular dynamics simulation of the membrane-embedded zfP2X4 [108].",
+    "refNo": 107,
+    "title": "",
+    "marker_text": "[107]"
+  },
+  {
+    "sentence": "The suggestion that the intermonomer fenestrations seen in the structure leave the channel pore open to the fatty acyl environment [107] could be demonstrated by a molecular dynamics simulation of the membrane-embedded zfP2X4 [108].",
+    "refNo": 108,
+    "title": "",
+    "marker_text": "[108]"
+  },
+  {
+    "sentence": "Relatively modest structural rearrangements of the TM helices were sufficient to improve the hydrophobic mismatch and resulted in the formation of intersubunit interfaces within the membrane by allowing for a much tighter packing of the TM helices [108].",
+    "refNo": 108,
+    "title": "",
+    "marker_text": "[108]"
+  },
+  {
+    "sentence": "The two following interfaces were identified: (i) TM2 residues L351 rP2X2, I355 rP2X2 and W358 rP2X2 of one subunit interact with L346 rP2X2, A347 rP2X2 and V354 rP2X2 on the adjacent TM2 helix; (ii) TM1 residue Y45 rP2X2 interacts with L340 rP2X2 in TM2 of the adjacent subunit [108].",
+    "refNo": 108,
+    "title": "",
+    "marker_text": "[108]"
+  },
+  {
+    "sentence": "The resolution of the ATP-bound open-state structure of the zfP2X4 receptor [2] and its comparison and superimposition to the apo-closed-state zfP2X4 structure revealed the conformational changes underlying the ATP-induced closed-to-open transition of the zfP2X4 receptor (channel gating and pore opening) [2].",
+    "refNo": 2,
+    "title": "A new class of ligand-gated ion channel defined by P 2x receptor for extracellular ATP",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "The resolution of the ATP-bound open-state structure of the zfP2X4 receptor [2] and its comparison and superimposition to the apo-closed-state zfP2X4 structure revealed the conformational changes underlying the ATP-induced closed-to-open transition of the zfP2X4 receptor (channel gating and pore opening) [2].",
+    "refNo": 2,
+    "title": "A new class of ligand-gated ion channel defined by P 2x receptor for extracellular ATP",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "This flexing results in the substantial expansion of the extracellular vestibule outside of the channel pore, and an iris-like motion of the membrane-spanning helices subsequently occurs that eventually opens the ion channel pore [2].",
+    "refNo": 2,
+    "title": "A new class of ligand-gated ion channel defined by P 2x receptor for extracellular ATP",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "The ATP concentration dependence of ATP-activated native currents in sensory neurons fitted a model in which ATP must bind to each of three identical, non-interacting sites to open the channel ref [5].",
+    "refNo": 5,
+    "title": "An intramembrane aromatic network determines pentameric assembly of Cys-loop receptors",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "The first ATP concentration curve that was published for the cloned rP2X2 receptor showed strong cooperativity with a Hill coefficient of 2.0, also suggesting that more than one ATP molecule must bind before the channel opens ref [14].",
+    "refNo": 14,
+    "title": "Allosteric nature of P2X receptor activation probed by photoaffinity labelling",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "This phenotype includes properties that are akin to both P2X2 and P2X3 receptors by being non-desensitizing and αß-meATP sensitive, respectively ref [10].",
+    "refNo": 10,
+    "title": "Atomic force microscopy imaging demonstrates that P2X2 receptors are trimers but that P2X6 receptor subunits do not oligomerize",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Fig. (2).",
+    "refNo": 2,
+    "title": "A new class of ligand-gated ion channel defined by P 2x receptor for extracellular ATP",
+    "marker_text": "(2)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Shown is a representation of surface-exposed side chains of a single subunit of the zfP2X4 receptor in the apo-closed state (left panel; PDB entry 4DW0 [2]) and the ATP-bound open state (right panel; PDB entry 4DW1 [2]).",
+    "refNo": 2,
+    "title": "A new class of ligand-gated ion channel defined by P 2x receptor for extracellular ATP",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Shown is a representation of surface-exposed side chains of a single subunit of the zfP2X4 receptor in the apo-closed state (left panel; PDB entry 4DW0 [2]) and the ATP-bound open state (right panel; PDB entry 4DW1 [2]).",
+    "refNo": 2,
+    "title": "A new class of ligand-gated ion channel defined by P 2x receptor for extracellular ATP",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "The electrostatic and hydrophobic potentials [221][222][223] were calculated using routines that were implemented in the protein patch analyzer in the MOE2012.",
+    "refNo": 221,
+    "title": "",
+    "marker_text": "[221]"
+  },
+  {
+    "sentence": "The electrostatic and hydrophobic potentials [221][222][223] were calculated using routines that were implemented in the protein patch analyzer in the MOE2012.",
+    "refNo": 222,
+    "title": "",
+    "marker_text": "[222]"
+  },
+  {
+    "sentence": "The electrostatic and hydrophobic potentials [221][222][223] were calculated using routines that were implemented in the protein patch analyzer in the MOE2012.",
+    "refNo": 223,
+    "title": "",
+    "marker_text": "[223]"
+  },
+  {
+    "sentence": "The gray ovals illustrate the extracellular interaction domains I-III of two adjacent subunits A and B (indicated by superscripts): I, head A -to-body B; II, left flipper A -to-dorsal-fin B; and III, body A -to-body B ref [11].",
+    "refNo": 11,
+    "title": "Pore-opening mechanism in trimeric P2X receptor channels",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "One study made use of cysteine substitution mutants of the outer TM helices of the P2X2 receptor, which were previously shown to modify channel gating when chemically modified ref [11].",
+    "refNo": 11,
+    "title": "Pore-opening mechanism in trimeric P2X receptor channels",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Attachment of the sulfhydryl reactive maleimide ethylene azobenzene trimethyl ammonium derivative (MEA-TMA), which shows strong photo isomerization from trans-to-cis-or cis-to-trans-isomers using 365 nm or 525 nm of light, respectively, to V48C rP2X2 or I328C rP2X2 (Fig. 5K), resulted in a P2X2 channel that could be turned on and off by light.",
+    "refNo": 5,
+    "title": "An intramembrane aromatic network determines pentameric assembly of Cys-loop receptors",
+    "marker_text": "5",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "The simultaneous mutation of I328C rP2X2 and of K69A rP2X2, which makes the P2X2 receptor ATP insensitive, revealed that the light gating of the channel does not require the natural ligand ATP ref [10].",
+    "refNo": 10,
+    "title": "Atomic force microscopy imaging demonstrates that P2X2 receptors are trimers but that P2X6 receptor subunits do not oligomerize",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "These data indicate that this approach will enable the dissection in vivo of the physiological and pathological roles of P2X2 receptors at an unprecedented level of precision by the rapid and reversible control of neuronal activity ref [10].",
+    "refNo": 10,
+    "title": "Atomic force microscopy imaging demonstrates that P2X2 receptors are trimers but that P2X6 receptor subunits do not oligomerize",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Indeed, based on the global membrane topology, P2X receptors appeared structurally more closely related to the inward rectifier K + (Kir) channels, the degenerin/epithelial Na + (DEG/ENac) channels (which also include FMRF amide-gated channels of mollusks and acid-sensing ion channels, ASICs, also designated ACCNs) and the bacterial mechanosensitive channels (mscLs) than to Cys-loop receptors or ionotropic glutamate receptors [56].",
+    "refNo": 56,
+    "title": "Relative motions between left flipper and dorsal fin domains favour P2X4 receptor activation",
+    "marker_text": "[56]"
+  },
+  {
+    "sentence": "The interested reader is referred to several excellent recent reviews on this subject that also contain extensive background information [110][111][112][113][114][115].",
+    "refNo": 110,
+    "title": "",
+    "marker_text": "[110]"
+  },
+  {
+    "sentence": "The interested reader is referred to several excellent recent reviews on this subject that also contain extensive background information [110][111][112][113][114][115].",
+    "refNo": 111,
+    "title": "",
+    "marker_text": "[111]"
+  },
+  {
+    "sentence": "The interested reader is referred to several excellent recent reviews on this subject that also contain extensive background information [110][111][112][113][114][115].",
+    "refNo": 112,
+    "title": "",
+    "marker_text": "[112]"
+  },
+  {
+    "sentence": "The interested reader is referred to several excellent recent reviews on this subject that also contain extensive background information [110][111][112][113][114][115].",
+    "refNo": 113,
+    "title": "",
+    "marker_text": "[113]"
+  },
+  {
+    "sentence": "The interested reader is referred to several excellent recent reviews on this subject that also contain extensive background information [110][111][112][113][114][115].",
+    "refNo": 114,
+    "title": "",
+    "marker_text": "[114]"
+  },
+  {
+    "sentence": "The interested reader is referred to several excellent recent reviews on this subject that also contain extensive background information [110][111][112][113][114][115].",
+    "refNo": 115,
+    "title": "",
+    "marker_text": "[115]"
+  },
+  {
+    "sentence": "One of these review contains a particularly comprehensive and valuable tabular overview about the mutated residues that are involved in ATP binding [116].",
+    "refNo": 116,
+    "title": "",
+    "marker_text": "[116]"
+  },
+  {
+    "sentence": "Kir channels have been crystallographically confirmed to be tetramers [87].",
+    "refNo": 87,
+    "title": "",
+    "marker_text": "[87]"
+  },
+  {
+    "sentence": "The αßγ-ENac was initially been suggested [59] and later confirmed to be organized as a tetramer [88,89].",
+    "refNo": 59,
+    "title": "Molecular mechanism of ATP binding and ion channel activation in P2X receptors",
+    "marker_text": "[59]"
+  },
+  {
+    "sentence": "The αßγ-ENac was initially been suggested [59] and later confirmed to be organized as a tetramer [88,89].",
+    "refNo": 88,
+    "title": "",
+    "marker_text": "[88]"
+  },
+  {
+    "sentence": "The αßγ-ENac was initially been suggested [59] and later confirmed to be organized as a tetramer [88,89].",
+    "refNo": 89,
+    "title": "",
+    "marker_text": "[89]"
+  },
+  {
+    "sentence": "However, actual data convincingly indicate that αßγ-ENacs are trimers based on quantitative fluorescence analysis [90], AFM imaging of the ENac itself [91] and the trimeric crystal structure of the related channel ASIC1 [92].",
+    "refNo": 90,
+    "title": "",
+    "marker_text": "[90]"
+  },
+  {
+    "sentence": "However, actual data convincingly indicate that αßγ-ENacs are trimers based on quantitative fluorescence analysis [90], AFM imaging of the ENac itself [91] and the trimeric crystal structure of the related channel ASIC1 [92].",
+    "refNo": 91,
+    "title": "",
+    "marker_text": "[91]"
+  },
+  {
+    "sentence": "However, actual data convincingly indicate that αßγ-ENacs are trimers based on quantitative fluorescence analysis [90], AFM imaging of the ENac itself [91] and the trimeric crystal structure of the related channel ASIC1 [92].",
+    "refNo": 92,
+    "title": "",
+    "marker_text": "[92]"
+  },
+  {
+    "sentence": "The ASICs and P2X receptors are unrelated in amino acid sequence but share significant structural similarities, including the trimeric structure [93].",
+    "refNo": 93,
+    "title": "",
+    "marker_text": "[93]"
+  },
+  {
+    "sentence": "An ATP concentration-response analysis of whole-cell currents mediated by the cloned rP2X2 receptor yielded a Hill coefficient of 2.0, suggesting that activation requires the binding of more than one agonist molecule [20].",
+    "refNo": 20,
+    "title": "Molecular determinants of the agonist binding domain of a P2X receptor channel",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "A similar Hill coefficient of 2.3 for ATP activation was estimated from the ATP concentration dependence of single-channel recordings of rP2X2 receptor-mediated currents [143].",
+    "refNo": 143,
+    "title": "",
+    "marker_text": "[143]"
+  },
+  {
+    "sentence": "Even in cases of strong positive cooperativity, only a minimum estimate of the number of binding sites that were involved is provided [144].",
+    "refNo": 144,
+    "title": "",
+    "marker_text": "[144]"
+  },
+  {
+    "sentence": "Spontaneous openings in the absence of ATP were not observed [143].",
+    "refNo": 143,
+    "title": "",
+    "marker_text": "[143]"
+  },
+  {
+    "sentence": "The modification of the cysteine residues that were introduced into the first transmembrane domain 1 (TM1) by MTS reagents, alanine or tryptophan substitution and the analysis of fractional calcium currents indicated that TM1 residues do not directly contribute to the transmembrane permeation pathway [166,[173][174][175][176][177][178]].",
+    "refNo": 173,
+    "title": "",
+    "marker_text": "[173]"
+  },
+  {
+    "sentence": "The modification of the cysteine residues that were introduced into the first transmembrane domain 1 (TM1) by MTS reagents, alanine or tryptophan substitution and the analysis of fractional calcium currents indicated that TM1 residues do not directly contribute to the transmembrane permeation pathway [166,[173][174][175][176][177][178]].",
+    "refNo": 174,
+    "title": "",
+    "marker_text": "[174]"
+  },
+  {
+    "sentence": "The modification of the cysteine residues that were introduced into the first transmembrane domain 1 (TM1) by MTS reagents, alanine or tryptophan substitution and the analysis of fractional calcium currents indicated that TM1 residues do not directly contribute to the transmembrane permeation pathway [166,[173][174][175][176][177][178]].",
+    "refNo": 175,
+    "title": "",
+    "marker_text": "[175]"
+  },
+  {
+    "sentence": "The modification of the cysteine residues that were introduced into the first transmembrane domain 1 (TM1) by MTS reagents, alanine or tryptophan substitution and the analysis of fractional calcium currents indicated that TM1 residues do not directly contribute to the transmembrane permeation pathway [166,[173][174][175][176][177][178]].",
+    "refNo": 176,
+    "title": "",
+    "marker_text": "[176]"
+  },
+  {
+    "sentence": "The modification of the cysteine residues that were introduced into the first transmembrane domain 1 (TM1) by MTS reagents, alanine or tryptophan substitution and the analysis of fractional calcium currents indicated that TM1 residues do not directly contribute to the transmembrane permeation pathway [166,[173][174][175][176][177][178]].",
+    "refNo": 177,
+    "title": "",
+    "marker_text": "[177]"
+  },
+  {
+    "sentence": "The modification of the cysteine residues that were introduced into the first transmembrane domain 1 (TM1) by MTS reagents, alanine or tryptophan substitution and the analysis of fractional calcium currents indicated that TM1 residues do not directly contribute to the transmembrane permeation pathway [166,[173][174][175][176][177][178]].",
+    "refNo": 178,
+    "title": "",
+    "marker_text": "[178]"
+  },
+  {
+    "sentence": "However, when substituted by cysteine, the residue V48 rP2X2 of the outer TM1 of the P2X2 receptor or the corresponding valine residue of the P2X3 receptor was shown to build an inhibitory cross-link with I328C rP2X2 or I319C rP2X3 [166].",
+    "refNo": 166,
+    "title": "",
+    "marker_text": "[166]"
+  },
+  {
+    "sentence": "This finding led to the conclusion that the valine residue at the outer end of TM1 moves with channel opening [166].",
+    "refNo": 166,
+    "title": "",
+    "marker_text": "[166]"
+  },
+  {
+    "sentence": "Based on current whole-cell recordings, heterologously expressed P2X receptors can be divided into rapidly desensitizing (P2X1 and P2X3) and slowly desensitizing (P2X2, P2X4, P2X5, and P2X7) receptors [192].",
+    "refNo": 192,
+    "title": "",
+    "marker_text": "[192]"
+  },
+  {
+    "sentence": "In the post-crystal structure era, two further SCAM studies using MTS-reagents, Ag + and Cd 2+ [ref [38]], or only Cd 2+ [ref [186]] as modification reagents revealed the gates between I332 rP2X2 and T339 rP2X2, and T336 rP2X2 and T339 rP2X2, respectively.",
+    "refNo": 38,
+    "title": "Preferential use of unobstructed lateral portals as the access route to the pore of human ATP-gated ion channels (P2X receptors)",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "In the post-crystal structure era, two further SCAM studies using MTS-reagents, Ag + and Cd 2+ [ref [38]], or only Cd 2+ [ref [186]] as modification reagents revealed the gates between I332 rP2X2 and T339 rP2X2, and T336 rP2X2 and T339 rP2X2, respectively.",
+    "refNo": 186,
+    "title": "",
+    "marker_text": "[186]"
+  },
+  {
+    "sentence": "The mapping of these residues to P2X2 receptor homology models based on the closed-state crystal structure of the zfP2X4 receptor showed that the narrowest part of the closed-ion conducting pathway is formed by T336 rP2X2 and T339 rP2X2 [ref [187]] (Fig. 5N), which is in general agreement with the latest SCAM and mutagenesis studies [ref [38], ref [9], ref [177], ref [186]].",
+    "refNo": 187,
+    "title": "",
+    "marker_text": "[187]"
+  },
+  {
+    "sentence": "The mapping of these residues to P2X2 receptor homology models based on the closed-state crystal structure of the zfP2X4 receptor showed that the narrowest part of the closed-ion conducting pathway is formed by T336 rP2X2 and T339 rP2X2 [ref [187]] (Fig. 5N), which is in general agreement with the latest SCAM and mutagenesis studies [ref [38], ref [9], ref [177], ref [186]].",
+    "refNo": 38,
+    "title": "Preferential use of unobstructed lateral portals as the access route to the pore of human ATP-gated ion channels (P2X receptors)",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "The mapping of these residues to P2X2 receptor homology models based on the closed-state crystal structure of the zfP2X4 receptor showed that the narrowest part of the closed-ion conducting pathway is formed by T336 rP2X2 and T339 rP2X2 [ref [187]] (Fig. 5N), which is in general agreement with the latest SCAM and mutagenesis studies [ref [38], ref [9], ref [177], ref [186]].",
+    "refNo": 9,
+    "title": "Trimeric architecture of homomeric P2X2 and heteromeric P2X1+2 receptor subtypes",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "The mapping of these residues to P2X2 receptor homology models based on the closed-state crystal structure of the zfP2X4 receptor showed that the narrowest part of the closed-ion conducting pathway is formed by T336 rP2X2 and T339 rP2X2 [ref [187]] (Fig. 5N), which is in general agreement with the latest SCAM and mutagenesis studies [ref [38], ref [9], ref [177], ref [186]].",
+    "refNo": 177,
+    "title": "",
+    "marker_text": "[177]"
+  },
+  {
+    "sentence": "The mapping of these residues to P2X2 receptor homology models based on the closed-state crystal structure of the zfP2X4 receptor showed that the narrowest part of the closed-ion conducting pathway is formed by T336 rP2X2 and T339 rP2X2 [ref [187]] (Fig. 5N), which is in general agreement with the latest SCAM and mutagenesis studies [ref [38], ref [9], ref [177], ref [186]].",
+    "refNo": 186,
+    "title": "",
+    "marker_text": "[186]"
+  },
+  {
+    "sentence": "The mapping of these residues to P2X2 receptor homology models based on the closed-state crystal structure of the zfP2X4 receptor showed that the narrowest part of the closed-ion conducting pathway is formed by T336 rP2X2 and T339 rP2X2 [ref [187]] (Fig. 5N), which is in general agreement with the latest SCAM and mutagenesis studies [ref [38], ref [9], ref [177], ref [186]].",
+    "refNo": 5,
+    "title": "An intramembrane aromatic network determines pentameric assembly of Cys-loop receptors",
+    "marker_text": "5",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "The T339K rP2X2 mutant of the P2X2 receptor was shown to increase anion permeability and reduce unitary conductance gradually when mutated in one, two or three subunits of the P2X2 receptor, indicating that each subunit contributes symmetrically to the open-channel permeation pathway upon the iris-like separation of the three TM2 helices [ref [188]].",
+    "refNo": 188,
+    "title": "",
+    "marker_text": "[188]"
+  },
+  {
+    "sentence": "The functional importance of the 10 conserved cysteines (Fig. 5O) and the disulfide connectivity of each subunit were explored by mutagenesis studies [ref [216], ref [217]].",
+    "refNo": 216,
+    "title": "",
+    "marker_text": "[216]"
+  },
+  {
+    "sentence": "The functional importance of the 10 conserved cysteines (Fig. 5O) and the disulfide connectivity of each subunit were explored by mutagenesis studies [ref [216], ref [217]].",
+    "refNo": 217,
+    "title": "",
+    "marker_text": "[217]"
+  },
+  {
+    "sentence": "The functional importance of the 10 conserved cysteines (Fig. 5O) and the disulfide connectivity of each subunit were explored by mutagenesis studies [ref [216], ref [217]].",
+    "refNo": 5,
+    "title": "An intramembrane aromatic network determines pentameric assembly of Cys-loop receptors",
+    "marker_text": "5",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Disulfide bonds between the conserved cysteine residues were also shown to contribute substantially to the structure of the ligand binding pocket and channel gating [ref [218]].",
+    "refNo": 218,
+    "title": "",
+    "marker_text": "[218]"
+  },
+  {
+    "sentence": "Mutagenesis of the intracellular C-terminal cysteine residue C430 rP2X2 revealed that C430 rP2X2 functions as a redox sensor enabling the functional modulation of the rP2X2 channel by the redox state of the cell [ref [219]].",
+    "refNo": 219,
+    "title": "",
+    "marker_text": "[219]"
+  },
+  {
+    "sentence": "Functional analysis of the wt and mutant human and rat P2X3 receptor revealed that the position of nonconserved C-terminal tyrosine residues controls in part the species-specific properties of the human and rat P2X3 receptors [ref [220]].",
+    "refNo": 220,
+    "title": "",
+    "marker_text": "[220]"
+  },
+  {
+    "sentence": "A recent study used chimeras between the human P2X1 and P2X2 receptors to assign several properties of these channels to distinct protein domains [ref [200]].",
+    "refNo": 200,
+    "title": "",
+    "marker_text": "[200]"
+  },
+  {
+    "sentence": "For instance, the ectodomain determines the antagonist sensitivity, the C-terminus is involved in recovery from desensitization and the TMs control agonist sensitivity and efficacy, while the N-terminus can regulate agonist efficacy independently of agonist sensitivity [ref [200]].",
+    "refNo": 200,
+    "title": "",
+    "marker_text": "[200]"
+  },
+  {
+    "sentence": "Poisson-Boltzmann calculations along with thiol-reactive modifications of introduced cysteine residues in the surrounding of the lateral portals, which were evident from the zfP2X4 receptor structure and homology models of other P2X members, identified the three lateral ion-access pathways [7,8,189].",
+    "refNo": 7,
+    "title": "The heterotetrameric architecture of the epithelial sodium channel (ENaC)",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Poisson-Boltzmann calculations along with thiol-reactive modifications of introduced cysteine residues in the surrounding of the lateral portals, which were evident from the zfP2X4 receptor structure and homology models of other P2X members, identified the three lateral ion-access pathways [7,8,189].",
+    "refNo": 8,
+    "title": "The Phe-Met-Arg-Phe-amide-activated sodium channel is a tetramer",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Poisson-Boltzmann calculations along with thiol-reactive modifications of introduced cysteine residues in the surrounding of the lateral portals, which were evident from the zfP2X4 receptor structure and homology models of other P2X members, identified the three lateral ion-access pathways [7,8,189].",
+    "refNo": 189,
+    "title": "",
+    "marker_text": "[189]"
+  },
+  {
+    "sentence": "Interestingly, the fractional and relative Ca2+ permeability through the ivermectin-sensitive hP2X4 receptor was diminished by ivermectin, which is the first report of an allosteric modulation of the Ca2+ current of a LGIC by an exogenously applied drug [190].",
+    "refNo": 190,
+    "title": "",
+    "marker_text": "[190]"
+  },
+  {
+    "sentence": "The E51Q hP2X4 mutation located at the entry of the lateral portals significantly attenuates the effect of ivermectin on the Ca2+ permeability, indicating a key role of the negative charge at the lateral ion entrance to control Ca2+ access to the pore [190].",
+    "refNo": 190,
+    "title": "",
+    "marker_text": "[190]"
+  },
+  {
+    "sentence": "In addition, the permutation of several other residues, such as E56 r/hP2X4, F324 rP2X4, G325 rP2X4, K329 rP2X4, and D331 hP2X4, was shown to affect the permeation properties of the P2X4 lateral portals or central vestibule [8,175,189,190,191].",
+    "refNo": 8,
+    "title": "The Phe-Met-Arg-Phe-amide-activated sodium channel is a tetramer",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "In addition, the permutation of several other residues, such as E56 r/hP2X4, F324 rP2X4, G325 rP2X4, K329 rP2X4, and D331 hP2X4, was shown to affect the permeation properties of the P2X4 lateral portals or central vestibule [8,175,189,190,191].",
+    "refNo": 175,
+    "title": "",
+    "marker_text": "[175]"
+  },
+  {
+    "sentence": "In addition, the permutation of several other residues, such as E56 r/hP2X4, F324 rP2X4, G325 rP2X4, K329 rP2X4, and D331 hP2X4, was shown to affect the permeation properties of the P2X4 lateral portals or central vestibule [8,175,189,190,191].",
+    "refNo": 189,
+    "title": "",
+    "marker_text": "[189]"
+  },
+  {
+    "sentence": "In addition, the permutation of several other residues, such as E56 r/hP2X4, F324 rP2X4, G325 rP2X4, K329 rP2X4, and D331 hP2X4, was shown to affect the permeation properties of the P2X4 lateral portals or central vestibule [8,175,189,190,191].",
+    "refNo": 190,
+    "title": "",
+    "marker_text": "[190]"
+  },
+  {
+    "sentence": "In addition, the permutation of several other residues, such as E56 r/hP2X4, F324 rP2X4, G325 rP2X4, K329 rP2X4, and D331 hP2X4, was shown to affect the permeation properties of the P2X4 lateral portals or central vestibule [8,175,189,190,191].",
+    "refNo": 191,
+    "title": "",
+    "marker_text": "[191]"
+  },
+  {
+    "sentence": "The existing data regarding extracellular access to the transmembrane channel pore were comprehensively reviewed by Samways and colleagues [187].",
+    "refNo": 187,
+    "title": "",
+    "marker_text": "[187]"
+  },
+  {
+    "sentence": "The first evidence that micromolar concentrations of extracellular ATP exert a neurotransmitter-like action by directly exciting within milliseconds a large conductance in mammalian cells that is permeable to cations, including Ca2+, and reverses near 0 mV is usually assigned to patch-clamping experiments that were published in 1983 [12][13][14].",
+    "refNo": 12,
+    "title": "Intermediate closed channel state(s) precede(s) activation in the ATP-gated P2X2 receptor",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "The first evidence that micromolar concentrations of extracellular ATP exert a neurotransmitter-like action by directly exciting within milliseconds a large conductance in mammalian cells that is permeable to cations, including Ca2+, and reverses near 0 mV is usually assigned to patch-clamping experiments that were published in 1983 [12][13][14].",
+    "refNo": 13,
+    "title": "Activation of trimeric P2X2 receptors by fewer than three ATP molecules",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "The first evidence that micromolar concentrations of extracellular ATP exert a neurotransmitter-like action by directly exciting within milliseconds a large conductance in mammalian cells that is permeable to cations, including Ca2+, and reverses near 0 mV is usually assigned to patch-clamping experiments that were published in 1983 [12][13][14].",
+    "refNo": 14,
+    "title": "Allosteric nature of P2X receptor activation probed by photoaffinity labelling",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "The designation P2X was originally coined to subdivide P2 receptors into two subtypes, P2X and P2Y, based on two broad patterns of potency of ATP analogs as observed in functional assays in isolated organs [15].",
+    "refNo": 15,
+    "title": "Crystal structure of the ATP-gated P2X(4) ion channel in the closed state",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "This original subdivision into P2X and P2Y receptors from 1985 was found to fortunately fit with the structurally defined subclasses of (ionotropic) LGICs and (metabotropic) G protein-coupled receptors, respectively [16][17][18].",
+    "refNo": 16,
+    "title": "Salt bridge switching from Arg290/Glu167 to Arg290/ATP promotes the closed-to-open transition of the P2X2 receptor",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "This original subdivision into P2X and P2Y receptors from 1985 was found to fortunately fit with the structurally defined subclasses of (ionotropic) LGICs and (metabotropic) G protein-coupled receptors, respectively [16][17][18].",
+    "refNo": 17,
+    "title": "Agonist trapped in ATPbinding sites of the P2X2 receptor",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "This original subdivision into P2X and P2Y receptors from 1985 was found to fortunately fit with the structurally defined subclasses of (ionotropic) LGICs and (metabotropic) G protein-coupled receptors, respectively [16][17][18].",
+    "refNo": 18,
+    "title": "Exploring the ATPbinding site of P2X receptors",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "P2X receptors play key roles in signal transduction in numerous excitable and non-excitable mammalian cells [33,35,36].",
+    "refNo": 33,
+    "title": "Acidic amino acids impart enhanced Ca2+ permeability and flux in two members of the ATP-gated P2X receptor family",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "P2X receptors play key roles in signal transduction in numerous excitable and non-excitable mammalian cells [33,35,36].",
+    "refNo": 35,
+    "title": "Contribution of calcium ions to P2X channel responses",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "P2X receptors play key roles in signal transduction in numerous excitable and non-excitable mammalian cells [33,35,36].",
+    "refNo": 36,
+    "title": "P2X7 receptor channels allow direct permeation of nanometer-sized dyes",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "No drug that acts on P2X receptors has been approved [37,38]; however, the orally bioavailable P2X3 antagonist AF-219 (a diaminopyridine derivative of undisclosed structure) has successfully completed phase 2 clinical trials for the indications of urinary frequency and chronic idiopathic cough.",
+    "refNo": 37,
+    "title": "Ion access pathway to the transmembrane pore in P2X receptor channels",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "No drug that acts on P2X receptors has been approved [37,38]; however, the orally bioavailable P2X3 antagonist AF-219 (a diaminopyridine derivative of undisclosed structure) has successfully completed phase 2 clinical trials for the indications of urinary frequency and chronic idiopathic cough.",
+    "refNo": 38,
+    "title": "Preferential use of unobstructed lateral portals as the access route to the pore of human ATP-gated ion channels (P2X receptors)",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "AF-219 was found, for instance, to dramatically reduce cough frequency and severity in refractory patients [38][39][40] and will be further developed for this indication.",
+    "refNo": 38,
+    "title": "Preferential use of unobstructed lateral portals as the access route to the pore of human ATP-gated ion channels (P2X receptors)",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "AF-219 was found, for instance, to dramatically reduce cough frequency and severity in refractory patients [38][39][40] and will be further developed for this indication.",
+    "refNo": 39,
+    "title": "On the contribution of the first transmembrane domain to wholecell current through an ATP-gated ionotropic P2X receptor",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "AF-219 was found, for instance, to dramatically reduce cough frequency and severity in refractory patients [38][39][40] and will be further developed for this indication.",
+    "refNo": 40,
+    "title": "Gain and loss of channel function by alanine substitutions in the transmembrane segments of the rat ATP-gated P2X2 receptor",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "The clinical development of P2X7 antagonists against rheumatoid arthritis has stopped because of a lack of efficacy [41,42].",
+    "refNo": 41,
+    "title": "Identification of amino acid residues contributing to the pore of a P2X receptor",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "The clinical development of P2X7 antagonists against rheumatoid arthritis has stopped because of a lack of efficacy [41,42].",
+    "refNo": 42,
+    "title": "A domain contributing to the ion channel of ATP-gated P2X 2 receptors identified by the substituted cysteine accessibility method",
+    "marker_text": "[42]"
+  },
+  {
+    "sentence": "However, the P2X7 receptor is independently considered to be a promising target for a number of other diseases, such as pain, Alzheimer disease, major depressive disorder, chronic inflammatory bowel disease and chronic obstructive pulmonary disease [37,38,43,44], and even cancer [45][46][47][48][49].",
+    "refNo": 37,
+    "title": "Ion access pathway to the transmembrane pore in P2X receptor channels",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "However, the P2X7 receptor is independently considered to be a promising target for a number of other diseases, such as pain, Alzheimer disease, major depressive disorder, chronic inflammatory bowel disease and chronic obstructive pulmonary disease [37,38,43,44], and even cancer [45][46][47][48][49].",
+    "refNo": 38,
+    "title": "Preferential use of unobstructed lateral portals as the access route to the pore of human ATP-gated ion channels (P2X receptors)",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "However, the P2X7 receptor is independently considered to be a promising target for a number of other diseases, such as pain, Alzheimer disease, major depressive disorder, chronic inflammatory bowel disease and chronic obstructive pulmonary disease [37,38,43,44], and even cancer [45][46][47][48][49].",
+    "refNo": 43,
+    "title": "Gated access to the pore of a P2X receptor: Structural implications for closedopen transitions",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "However, the P2X7 receptor is independently considered to be a promising target for a number of other diseases, such as pain, Alzheimer disease, major depressive disorder, chronic inflammatory bowel disease and chronic obstructive pulmonary disease [37,38,43,44], and even cancer [45][46][47][48][49].",
+    "refNo": 44,
+    "title": "P2X receptor channels show threefold symmetry in ionic charge selectivity and unitary conductance",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "However, the P2X7 receptor is independently considered to be a promising target for a number of other diseases, such as pain, Alzheimer disease, major depressive disorder, chronic inflammatory bowel disease and chronic obstructive pulmonary disease [37,38,43,44], and even cancer [45][46][47][48][49].",
+    "refNo": 45,
+    "title": "P2X receptors as drug targets",
+    "marker_text": "[45]"
+  },
+  {
+    "sentence": "However, the P2X7 receptor is independently considered to be a promising target for a number of other diseases, such as pain, Alzheimer disease, major depressive disorder, chronic inflammatory bowel disease and chronic obstructive pulmonary disease [37,38,43,44], and even cancer [45][46][47][48][49].",
+    "refNo": 46,
+    "title": "Identification of a domain involved in ATP-gated ionotropic receptor subunit assembly",
+    "marker_text": "[46]"
+  },
+  {
+    "sentence": "However, the P2X7 receptor is independently considered to be a promising target for a number of other diseases, such as pain, Alzheimer disease, major depressive disorder, chronic inflammatory bowel disease and chronic obstructive pulmonary disease [37,38,43,44], and even cancer [45][46][47][48][49].",
+    "refNo": 47,
+    "title": "P2X5 subunit assembly requires scaffolding by the second transmembrane domain and a conserved aspartate",
+    "marker_text": "[47]"
+  },
+  {
+    "sentence": "However, the P2X7 receptor is independently considered to be a promising target for a number of other diseases, such as pain, Alzheimer disease, major depressive disorder, chronic inflammatory bowel disease and chronic obstructive pulmonary disease [37,38,43,44], and even cancer [45][46][47][48][49].",
+    "refNo": 48,
+    "title": "Signaling at purinergic P2X receptors",
+    "marker_text": "[48]"
+  },
+  {
+    "sentence": "However, the P2X7 receptor is independently considered to be a promising target for a number of other diseases, such as pain, Alzheimer disease, major depressive disorder, chronic inflammatory bowel disease and chronic obstructive pulmonary disease [37,38,43,44], and even cancer [45][46][47][48][49].",
+    "refNo": 49,
+    "title": "Molecular and functional properties of P2X receptors--recent progress and persisting challenges",
+    "marker_text": "[49]"
+  },
+  {
+    "sentence": "Co-immunoprecipitation with monoclonal antibodies (anti-FLAG, anti-HA) in non-ionic detergent (1% Nonidet P-40) was also used to probe for domains that are involved in P2X receptor assembly in HEK293 cells by examining the ability of P2X2 deletion mutants and chimeric constructs to associate with full-length P2X2 and P2X3 subunits in HEK293 cells [100].",
+    "refNo": 100,
+    "title": "",
+    "marker_text": "[100]"
+  },
+  {
+    "sentence": "Neither the N- nor C-terminal intracellular domain (until residue 28 rP2X2 and beyond residue 362 rP2X2, corresponding to 30 zfP2X4 and 370 zfP2X4, respectively) was required for cell surface expression or assembly with the full-length rP2X2 or rP2X3 subunits, as judged by co-immunoprecipitation [5].",
+    "refNo": 5,
+    "title": "An intramembrane aromatic network determines pentameric assembly of Cys-loop receptors",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "In addition, the replacement of rP2X2 residues 1-50 (which include the entire TM1 helix) by the cleavable signal peptide of the α7nAChR did not prevent co-immunoprecipitation with the full-length rP2X2 or rP2X3 subunit [7].",
+    "refNo": 7,
+    "title": "The heterotetrameric architecture of the epithelial sodium channel (ENaC)",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "These data largely ruled out a sequence-specific contribution of the cytoplasmic N- or C-terminal domains or the TM1 helix in subunit recognition [100].",
+    "refNo": 100,
+    "title": "",
+    "marker_text": "[100]"
+  },
+  {
+    "sentence": "The definitive confirmation that these intersubunit grooves represent the ATP binding pockets was provided by the crystallization of the zfP2X4 receptor in the ATP-bound open-state [2].",
+    "refNo": 2,
+    "title": "A new class of ligand-gated ion channel defined by P 2x receptor for extracellular ATP",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "In agreement with the labeling of a cysteine mutant of the P2X2 receptor with the thiol-reactive NCS-ATP, hydrophobic interactions with L191 zfP2X4 (see Fig. 5F; corresponding to L186 rP2X2) and I232 zfP2X4 coordinate the adenine base of ATP [1].",
+    "refNo": 1,
+    "title": "New structural motif for ligand-gated ion channels defined by an ionotropic ATP receptor",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "In agreement with the labeling of a cysteine mutant of the P2X2 receptor with the thiol-reactive NCS-ATP, hydrophobic interactions with L191 zfP2X4 (see Fig. 5F; corresponding to L186 rP2X2) and I232 zfP2X4 coordinate the adenine base of ATP [1].",
+    "refNo": 5,
+    "title": "An intramembrane aromatic network determines pentameric assembly of Cys-loop receptors",
+    "marker_text": "5",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "The adenine base is further stabilized by hydrogen bonds with the side chain and backbone of T189 zfP2X4 and the backbone of K70 zfP2X4 [2] (Fig. 4).",
+    "refNo": 2,
+    "title": "A new class of ligand-gated ion channel defined by P 2x receptor for extracellular ATP",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "The ribose moiety faces toward the solution [10] and is recognized solely by hydrophobic interactions with L217 zfP2X4 [2].",
+    "refNo": 10,
+    "title": "Atomic force microscopy imaging demonstrates that P2X2 receptors are trimers but that P2X6 receptor subunits do not oligomerize",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "The ribose moiety faces toward the solution [10] and is recognized solely by hydrophobic interactions with L217 zfP2X4 [2].",
+    "refNo": 2,
+    "title": "A new class of ligand-gated ion channel defined by P 2x receptor for extracellular ATP",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Specific characteristics of the ATP-binding sites at the interface of different subunits as present in heteromeric receptors were recently disclosed by homology modeling [134].",
+    "refNo": 134,
+    "title": "",
+    "marker_text": "[134]"
+  },
+  {
+    "sentence": "Cysteine-scanning mutagenesis of the ectodomain residues E52-G96 hP2X1 combined with comprehensive pharmacological analysis, [32P]2-azido-ATP cross-linking and cysteine modification by thiol-specific reagents identified the residues K68 hP2X1, K70 hP2X1 and F92 hP2X1 as most important for hP2X1 activation and inhibition by agonists and the antagonist suramin, respectively [135].",
+    "refNo": 135,
+    "title": "",
+    "marker_text": "[135]"
+  },
+  {
+    "sentence": "Mapping of the E52 hP2X1-G96 hP2X1 data together with data from the former cysteine-scanning mutagenesis of flanking regions of the hP2X1 receptor [127,128] and the in silico molecular docking of ATP and BzATP provided homology models of the ATP-binding site that are consistent with the experimental data [135].",
+    "refNo": 127,
+    "title": "",
+    "marker_text": "[127]"
+  },
+  {
+    "sentence": "Mapping of the E52 hP2X1-G96 hP2X1 data together with data from the former cysteine-scanning mutagenesis of flanking regions of the hP2X1 receptor [127,128] and the in silico molecular docking of ATP and BzATP provided homology models of the ATP-binding site that are consistent with the experimental data [135].",
+    "refNo": 128,
+    "title": "",
+    "marker_text": "[128]"
+  },
+  {
+    "sentence": "Mapping of the E52 hP2X1-G96 hP2X1 data together with data from the former cysteine-scanning mutagenesis of flanking regions of the hP2X1 receptor [127,128] and the in silico molecular docking of ATP and BzATP provided homology models of the ATP-binding site that are consistent with the experimental data [135].",
+    "refNo": 135,
+    "title": "",
+    "marker_text": "[135]"
+  },
+  {
+    "sentence": "In a study of the hP2X3 receptor using molecular dynamics simulations and oxidative cross-linking of cysteines substituted at positions of close proximity between intra- or intersubunit domains, such as the head-domain and dorsal-fin or the dorsal-fin and left-flipper, it was shown that the ATP binding pocket undergoes spontaneous conformational changes even in the absence of ATP ref [140].",
+    "refNo": 140,
+    "title": "",
+    "marker_text": "[140]"
+  },
+  {
+    "sentence": "Interestingly, the spontaneous cross-linking of K201C hP2X3 (dorsal fin) and V274C hP2X3 (left flipper) (Fig. 5H) prevented the binding of ATP to the receptor as analyzed by the fluorescent ATP-derivative BODIPY-TR ATP, which was equipotent to αβ-meATP.",
+    "refNo": 5,
+    "title": "An intramembrane aromatic network determines pentameric assembly of Cys-loop receptors",
+    "marker_text": "5",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "It was concluded that the high conformational flexibility of domains constituting the ATP binding pocket is a prerequisite for agonist binding and receptor activation ref [58].",
+    "refNo": 58,
+    "title": "Conformational flexibility of the agonist binding jaw of the human P2X3 receptor is a prerequisite for channel opening",
+    "marker_text": "[58]"
+  },
+  {
+    "sentence": "In addition, in the zfP2X4 receptor, ATP recognition is determined by the inherent dynamics of the head domain ref [141].",
+    "refNo": 141,
+    "title": "",
+    "marker_text": "[141]"
+  },
+  {
+    "sentence": "Inherent dynamics in the absence of ATP and ATP-induced coordinated allosteric changes in the left flipper and dorsal fin domains were also revealed by molecular dynamics and normal-mode analysis of the zfP2X4 receptor and verified by cysteine cross-linking and an engineered zinc bridge between the left flipper and dorsal fin ref [142].",
+    "refNo": 142,
+    "title": "",
+    "marker_text": "[142]"
+  },
+  {
+    "sentence": "The definitive confirmation that these intersubunit grooves represent the ATP binding pockets was provided by the crystallization of the zfP2X4 receptor in the ATP-bound open-state [2].",
+    "refNo": 2,
+    "title": "A new class of ligand-gated ion channel defined by P 2x receptor for extracellular ATP",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "In agreement with the labeling of a cysteine mutant of the P2X2 receptor with the thiol-reactive NCS-ATP, hydrophobic interactions with L191 zfP2X4 (see Fig. 5F; corresponding to L186 rP2X2 ) and I232 zfP2X4 coordinate the adenine base of ATP.",
+    "refNo": 5,
+    "title": "An intramembrane aromatic network determines pentameric assembly of Cys-loop receptors",
+    "marker_text": "5",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "The adenine base is further stabilized by hydrogen bonds with the side chain and backbone of T189 zfP2X4 and the backbone of K70 zfP2X4 [2] (Fig. 4).",
+    "refNo": 2,
+    "title": "A new class of ligand-gated ion channel defined by P 2x receptor for extracellular ATP",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "The ribose moiety faces toward the solution [10] and is recognized solely by hydrophobic interactions with L217 zfP2X4 [2].",
+    "refNo": 10,
+    "title": "Atomic force microscopy imaging demonstrates that P2X2 receptors are trimers but that P2X6 receptor subunits do not oligomerize",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "The ribose moiety faces toward the solution [10] and is recognized solely by hydrophobic interactions with L217 zfP2X4 [2].",
+    "refNo": 2,
+    "title": "A new class of ligand-gated ion channel defined by P 2x receptor for extracellular ATP",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Specific characteristics of the ATP-binding sites at the interface of different subunits as present in heteromeric receptors were recently disclosed by homology modeling [134].",
+    "refNo": 134,
+    "title": "",
+    "marker_text": "[134]"
+  },
+  {
+    "sentence": "Cysteine-scanning mutagenesis of the ectodomain residues E52-G96 hP2X1 combined with comprehensive pharmacological analysis, [ 32 P]2-azido-ATP cross-linking and cysteine modification by thiol-specific reagents identified the residues K68 hP2X1, K70 hP2X1 and F92 hP2X1 as most important for hP2X1 activation and inhibition by agonists and the antagonist suramin, respectively [135].",
+    "refNo": 135,
+    "title": "",
+    "marker_text": "[135]"
+  },
+  {
+    "sentence": "Mapping of the E52 hP2X1 -G96 hP2X1 data together with data from the former cysteine-scanning mutagenesis of flanking regions of the hP2X1 receptor [127,128] and the in silico molecular docking of ATP and BzATP provided homology models of the ATP-binding site that are consistent with the experimental data [135].",
+    "refNo": 127,
+    "title": "",
+    "marker_text": "[127]"
+  },
+  {
+    "sentence": "Mapping of the E52 hP2X1 -G96 hP2X1 data together with data from the former cysteine-scanning mutagenesis of flanking regions of the hP2X1 receptor [127,128] and the in silico molecular docking of ATP and BzATP provided homology models of the ATP-binding site that are consistent with the experimental data [135].",
+    "refNo": 128,
+    "title": "",
+    "marker_text": "[128]"
+  },
+  {
+    "sentence": "Mapping of the E52 hP2X1 -G96 hP2X1 data together with data from the former cysteine-scanning mutagenesis of flanking regions of the hP2X1 receptor [127,128] and the in silico molecular docking of ATP and BzATP provided homology models of the ATP-binding site that are consistent with the experimental data [135].",
+    "refNo": 135,
+    "title": "",
+    "marker_text": "[135]"
+  },
+  {
+    "sentence": "The functional analysis of hP2X3 alanine mutants identified conserved residues that are important for the ATP binding to the hP2X3 receptor, including the basic residues K63 hP2X3, K65 hP2X3, K176 hP2X3, K299 hP2X3 and R281 hP2X3 (Fig. 5D); the polar residues G66 hP2X3, N177 hP2X3, N279 hP2X3, and T172 hP2X3; and the aromatic residues F171 hP2X3 and F280 hP2X3.",
+    "refNo": 5,
+    "title": "An intramembrane aromatic network determines pentameric assembly of Cys-loop receptors",
+    "marker_text": "5",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "The projection of the identified residues on an hP2X3 receptor homology model showed that groups of residues that were organized in clusters at the subunit interface rather than individual residues are responsible for ATP recognition [136].",
+    "refNo": 136,
+    "title": "",
+    "marker_text": "[136]"
+  },
+  {
+    "sentence": "In an ingenious study using the 8-thiocyano-ATP derivative (NCS-ATP) with the sulfhydryl-reactive group at position 8 of the adenine ring of the ATP molecule, the ATP binding pocket of the P2X2 receptor was explored [3].",
+    "refNo": 3,
+    "title": "Nicotinic acetylcholine receptor and the structural basis of neuromuscular transmission: insights from Torpedo postsynaptic membranes",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Cysteine residues that were substituted in two positions from adjacent subunits and separated ~18Å (N140C rP2X2 and L186C rP2X2; Fig. 5F) were shown to be covalently labeled by NCS-ATP and trapped the receptor in a covalently agonistbound state that, depending on the tethered position, decreased (L140C rP2X2 ) or increased (L186C rP2X2 ) the ability to gate the channel.",
+    "refNo": 5,
+    "title": "An intramembrane aromatic network determines pentameric assembly of Cys-loop receptors",
+    "marker_text": "5",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "These results demonstrated a dynamic ATP binding site at the subunit interface in which the orientation of ATP bound to the receptor modulates the gating probability of the channel [3].",
+    "refNo": 3,
+    "title": "Nicotinic acetylcholine receptor and the structural basis of neuromuscular transmission: insights from Torpedo postsynaptic membranes",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "In a subsequent study, NCS-ATP bound to L186C rP2X2 induced a conformational change of the ATP binding site but did not result in channel opening, suggesting that intermediate or preactivation state(s) exist that prime(s) the channel gating of the P2X2 receptor [137].",
+    "refNo": 137,
+    "title": "",
+    "marker_text": "[137]"
+  },
+  {
+    "sentence": "A voltage-clamp fluorometry study of the P2X1 receptor used tetramethylrhodamine maleimide (TMRM)-labeled cysteine residues substituted in the stretch of residues between the first conserved disulfide bridge between C117 rP2X1 /C126 rP2X1 (Fig. 5G) localized at the base of the head domain to analyze ATP activation, channel gating and desensitization [10].",
+    "refNo": 10,
+    "title": "Atomic force microscopy imaging demonstrates that P2X2 receptors are trimers but that P2X6 receptor subunits do not oligomerize",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "A voltage-clamp fluorometry study of the P2X1 receptor used tetramethylrhodamine maleimide (TMRM)-labeled cysteine residues substituted in the stretch of residues between the first conserved disulfide bridge between C117 rP2X1 /C126 rP2X1 (Fig. 5G) localized at the base of the head domain to analyze ATP activation, channel gating and desensitization [10].",
+    "refNo": 5,
+    "title": "An intramembrane aromatic network determines pentameric assembly of Cys-loop receptors",
+    "marker_text": "5",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "TMRM covalently attached to specific engineered cysteine residues was suggested to report ligand binding (N120C rP2X1, E122C rP2X1, and G123C rP2X1 ), conformational changes associated with channel opening (G115C rP2X1 and G124C rP2X1 ) and desensitization (P121C rP2X1 and I125C rP2X1 ) [10].",
+    "refNo": 10,
+    "title": "Atomic force microscopy imaging demonstrates that P2X2 receptors are trimers but that P2X6 receptor subunits do not oligomerize",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "The longlasting desensitization of the P2X1 receptor is characterized by the slow unbinding of the agonist and agonist-induced receptor internalization [138].",
+    "refNo": 138,
+    "title": "",
+    "marker_text": "[138]"
+  },
+  {
+    "sentence": "Interestingly, the treatment of the generally ATP-insensitive K69C rP2X2 mutant P2X2 receptor with the thiol-reactive fluorescent dye Alexa-Fluor 546 C 5 -maleimide resulted in a channel that gated (opened) in response to zinc or acidic pH and in the absence of ATP [139], which may enable the study of the mechanism of activation independently of ATP binding.",
+    "refNo": 139,
+    "title": "",
+    "marker_text": "[139]"
+  },
+  {
+    "sentence": "In a study of the hP2X3 receptor using molecular dynamics simulations and oxidative cross-linking of cysteines substituted at positions of close proximity between intra-or intersubunit domains, such as the head-domain and dorsal-fin or the dorsal-fin and left-flipper, it was shown that the ATP binding pocket undergoes spontaneous conformational changes even in the absence of ATP [140].",
+    "refNo": 140,
+    "title": "",
+    "marker_text": "[140]"
+  },
+  {
+    "sentence": "Interestingly, the spontaneous cross-linking of K201C hP2X3 (dorsal fin) and V274C hP2X3 (left flipper) (Fig. 5H) prevented the binding of ATP to the receptor as analyzed by the fluorescent APT-derivative BODIPY-TR ATP, which was equipotent to αβ-meATP.",
+    "refNo": 5,
+    "title": "An intramembrane aromatic network determines pentameric assembly of Cys-loop receptors",
+    "marker_text": "5",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "It was concluded that the high conformational flexibility of domains constituting the ATP binding pocket is a prerequisite for agonist binding and receptor activation [140].",
+    "refNo": 140,
+    "title": "",
+    "marker_text": "[140]"
+  },
+  {
+    "sentence": "In addition, in the zfP2X4 receptor, ATP recognition is determined by the inherent dynamics of the head domain [141].",
+    "refNo": 141,
+    "title": "",
+    "marker_text": "[141]"
+  },
+  {
+    "sentence": "Inherent dynamics in the absence of ATP and ATP-induced coordinated allosteric changes in the left flipper and dorsal fin domains were also revealed by molecular dynamics and normal-mode analysis of the zfP2X4 receptor and verified by cysteine cross-linking and an engineered zinc bridge between the left flipper and dorsal fin [142].",
+    "refNo": 142,
+    "title": "",
+    "marker_text": "[142]"
+  },
+  {
+    "sentence": "For instance, the T339S rP2X2 mutation that destabilizes the closed state of the receptor and the simultaneous K308A rP2X2 mutation revealed a role in the channel gating of the T339 rP2X2 and K308 rP2X2 residues [2].",
+    "refNo": 2,
+    "title": "A new class of ligand-gated ion channel defined by P 2x receptor for extracellular ATP",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Later, the T339S rP2X2 mutation of the P2X2 receptor, which has been suggested to alter the equilibrium between the closed- and open-state in favor of the latter, in combination with native (H120 rP2X2 and H213 rP2X2 (Fig. 5J)) [8] and engineered Zn2+ binding sites was instrumental in demonstrating that following ATP binding, the head and dorsal fin domains move closer to each other.",
+    "refNo": 8,
+    "title": "The Phe-Met-Arg-Phe-amide-activated sodium channel is a tetramer",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Later, the T339S rP2X2 mutation of the P2X2 receptor, which has been suggested to alter the equilibrium between the closed- and open-state in favor of the latter, in combination with native (H120 rP2X2 and H213 rP2X2 (Fig. 5J)) [8] and engineered Zn2+ binding sites was instrumental in demonstrating that following ATP binding, the head and dorsal fin domains move closer to each other.",
+    "refNo": 5,
+    "title": "An intramembrane aromatic network determines pentameric assembly of Cys-loop receptors",
+    "marker_text": "5",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "The resulting tightening of the ATP binding sites correlates precisely with channel opening [1].",
+    "refNo": 1,
+    "title": "New structural motif for ligand-gated ion channels defined by an ionotropic ATP receptor",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "The competitive antagonist TNP-ATP prevents gating by preventing the tightening of the ATP-binding pocket [1].",
+    "refNo": 1,
+    "title": "New structural motif for ligand-gated ion channels defined by an ionotropic ATP receptor",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "The need of significant conformational movements at the interface of adjacent subunits during channel gating was previously concluded from disulfide-bond-formation studies between introduced cysteine residues at the extracellular subunit interfaces of several P2X isoforms: the homomeric rP2X1 receptor (K68C rP2X1 and F291C rP2X1 (Fig. 5E)) ref [22], the heteromeric rat P2X2/3 receptor (V48C rP2X2 and I328C rP2X2 (Fig. 5K), and V42C rP2X3 and I319C rP2X3) ref [62]; and the heteromeric rat P2X1/2 receptor (K68C rP2X1 and F289C rP2X2) ref [62].",
+    "refNo": 22,
+    "title": "Identification of an intersubunit cross-link between substituted cysteine residues located in the putative ATP binding site of the P2X1 receptor",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "The need of significant conformational movements at the interface of adjacent subunits during channel gating was previously concluded from disulfide-bond-formation studies between introduced cysteine residues at the extracellular subunit interfaces of several P2X isoforms: the homomeric rP2X1 receptor (K68C rP2X1 and F291C rP2X1 (Fig. 5E)) ref [22], the heteromeric rat P2X2/3 receptor (V48C rP2X2 and I328C rP2X2 (Fig. 5K), and V42C rP2X3 and I319C rP2X3) ref [62]; and the heteromeric rat P2X1/2 receptor (K68C rP2X1 and F289C rP2X2) ref [62].",
+    "refNo": 62,
+    "title": "Ectodomain movements of an ATP-gated ion channel (P2X2 receptor) probed by disulfide locking",
+    "marker_text": "[62]"
+  },
+  {
+    "sentence": "The need of significant conformational movements at the interface of adjacent subunits during channel gating was previously concluded from disulfide-bond-formation studies between introduced cysteine residues at the extracellular subunit interfaces of several P2X isoforms: the homomeric rP2X1 receptor (K68C rP2X1 and F291C rP2X1 (Fig. 5E)) ref [22], the heteromeric rat P2X2/3 receptor (V48C rP2X2 and I328C rP2X2 (Fig. 5K), and V42C rP2X3 and I319C rP2X3) ref [62]; and the heteromeric rat P2X1/2 receptor (K68C rP2X1 and F289C rP2X2) ref [62].",
+    "refNo": 62,
+    "title": "Ectodomain movements of an ATP-gated ion channel (P2X2 receptor) probed by disulfide locking",
+    "marker_text": "[62]"
+  },
+  {
+    "sentence": "The need of significant conformational movements at the interface of adjacent subunits during channel gating was previously concluded from disulfide-bond-formation studies between introduced cysteine residues at the extracellular subunit interfaces of several P2X isoforms: the homomeric rP2X1 receptor (K68C rP2X1 and F291C rP2X1 (Fig. 5E)) ref [22], the heteromeric rat P2X2/3 receptor (V48C rP2X2 and I328C rP2X2 (Fig. 5K), and V42C rP2X3 and I319C rP2X3) ref [62]; and the heteromeric rat P2X1/2 receptor (K68C rP2X1 and F289C rP2X2) ref [62].",
+    "refNo": 5,
+    "title": "An intramembrane aromatic network determines pentameric assembly of Cys-loop receptors",
+    "marker_text": "5",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Later, a significant movement of the subunit interface at the level of the lower body domain was also found in disulfide trapping experiments of cysteines when introduced in position E63 rP2X2 of one subunit and R274 rP2X2 of the adjacent subunit in the rP2X2 receptor ref [63].",
+    "refNo": 63,
+    "title": "A putative extracellular salt bridge at the subunit interface contributes to the ion channel function of the ATP-gated P2X2 receptor",
+    "marker_text": "[63]"
+  },
+  {
+    "sentence": "ATP binding was suggested to induce movements of the adjacent subunits at the level of E63 rP2X2 /R274 rP2X2, resulting in the spatial separation of these residues and a disruption of the putative intersubunit salt bridge between E63 rP2X2 /R274 rP2X2 ref [63].",
+    "refNo": 63,
+    "title": "A putative extracellular salt bridge at the subunit interface contributes to the ion channel function of the ATP-gated P2X2 receptor",
+    "marker_text": "[63]"
+  },
+  {
+    "sentence": "Already, early SCAM studies of the rP2X2 receptor addressed the precise localization of the channel gate [ref [42]].",
+    "refNo": 42,
+    "title": "A domain contributing to the ion channel of ATP-gated P2X 2 receptors identified by the substituted cysteine accessibility method",
+    "marker_text": "[42]"
+  },
+  {
+    "sentence": "Later, a SCAM study of the rP2X2 receptor using MTSET+, Ag+ and Cd2+ as modification reagents located the gate in the external (helical) half of TM2 between I332 rP2X2 and T341 rP2X2 [ref [42]].",
+    "refNo": 42,
+    "title": "A domain contributing to the ion channel of ATP-gated P2X 2 receptors identified by the substituted cysteine accessibility method",
+    "marker_text": "[42]"
+  },
+  {
+    "sentence": "Considering previous results [ref [64], ref [34]], the gate region itself may also function as a selectivity filter [ref [34]].",
+    "refNo": 64,
+    "title": "Thr339-to-serine substitution in rat P2X2 receptor second transmembrane domain causes constitutive opening and indicates a gating role for Lys308",
+    "marker_text": "[64]"
+  },
+  {
+    "sentence": "Considering previous results [ref [64], ref [34]], the gate region itself may also function as a selectivity filter [ref [34]].",
+    "refNo": 34,
+    "title": "Polar residues of the second transmembrane domain influence cation permeability of the ATP-gated P2X(2) receptor",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "Considering previous results [ref [64], ref [34]], the gate region itself may also function as a selectivity filter [ref [34]].",
+    "refNo": 34,
+    "title": "Polar residues of the second transmembrane domain influence cation permeability of the ATP-gated P2X(2) receptor",
+    "marker_text": "[34]"
+  }
+]

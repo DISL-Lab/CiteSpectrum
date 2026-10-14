@@ -1,0 +1,2105 @@
+[
+  {
+    "sentence": "Although sharing a common lineage with monocyte-derived macrophages, microglia retain unique molecular signatures [1,2] and acquire specific functional properties which make them substantially different from other populations of myeloid cells present in the brain (i.e., perivascular macrophages, meningeal macrophages, and choroid plexus macrophages) [3].",
+    "refNo": 1,
+    "title": "Resting microglia directly monitor the functional state of synapses in vivo and determine the fate of ischemic terminals",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Although sharing a common lineage with monocyte-derived macrophages, microglia retain unique molecular signatures [1,2] and acquire specific functional properties which make them substantially different from other populations of myeloid cells present in the brain (i.e., perivascular macrophages, meningeal macrophages, and choroid plexus macrophages) [3].",
+    "refNo": 2,
+    "title": "Microglial interactions with synapses are modulated by visual experience",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Although sharing a common lineage with monocyte-derived macrophages, microglia retain unique molecular signatures [1,2] and acquire specific functional properties which make them substantially different from other populations of myeloid cells present in the brain (i.e., perivascular macrophages, meningeal macrophages, and choroid plexus macrophages) [3].",
+    "refNo": 3,
+    "title": "Microglial displacement of inhibitory synapses provides neuroprotection in the adult brain",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "This activity is important in the regulation of brain homeostasis during development and in the adult brain, both in physiological conditions as well as pathology [4].",
+    "refNo": 4,
+    "title": "Cellular and molecular characterization of microglia: a unique immune cell population",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "In addition to their immune functions, microglial cells seem to exert an important role in other cerebral processes, including the regulation of synaptic architecture [1,2,3] and neurogenesis [9][10][11], to name a few.",
+    "refNo": 1,
+    "title": "Resting microglia directly monitor the functional state of synapses in vivo and determine the fate of ischemic terminals",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "In addition to their immune functions, microglial cells seem to exert an important role in other cerebral processes, including the regulation of synaptic architecture [1,2,3] and neurogenesis [9][10][11], to name a few.",
+    "refNo": 2,
+    "title": "Microglial interactions with synapses are modulated by visual experience",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "In addition to their immune functions, microglial cells seem to exert an important role in other cerebral processes, including the regulation of synaptic architecture [1,2,3] and neurogenesis [9][10][11], to name a few.",
+    "refNo": 3,
+    "title": "Microglial displacement of inhibitory synapses provides neuroprotection in the adult brain",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "In addition to their immune functions, microglial cells seem to exert an important role in other cerebral processes, including the regulation of synaptic architecture [1,2,3] and neurogenesis [9][10][11], to name a few.",
+    "refNo": 9,
+    "title": "Establishment of human microglial cell lines after transfection of primary cultures of embryonic microglial cells with the SV40 large T antigen",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "In addition to their immune functions, microglial cells seem to exert an important role in other cerebral processes, including the regulation of synaptic architecture [1,2,3] and neurogenesis [9][10][11], to name a few.",
+    "refNo": 10,
+    "title": "Generation and characterization of immortalized human microglial cell lines: expression of cytokines and chemokines",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "In addition to their immune functions, microglial cells seem to exert an important role in other cerebral processes, including the regulation of synaptic architecture [1,2,3] and neurogenesis [9][10][11], to name a few.",
+    "refNo": 11,
+    "title": "A novel in vitro human microglia model: characterization of human monocyte-derived microglia",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Chronic microglial activation seems to be a common pathogenic mechanism underlying several neurological disorders [12,13]; therefore, studies on the regulatory mechanisms of microglial activation are important for a large spectrum of cerebral diseases.",
+    "refNo": 12,
+    "title": "Chemokines induce migration and changes in actin polymerization in adult rat brain microglia and a human fetal microglial cell line in vitro",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Chronic microglial activation seems to be a common pathogenic mechanism underlying several neurological disorders [12,13]; therefore, studies on the regulatory mechanisms of microglial activation are important for a large spectrum of cerebral diseases.",
+    "refNo": 13,
+    "title": "Involvement of the neurotensin receptor-3 in the neurotensin-induced migration of human microglia",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "The human microglial clone 3 cell line, HMC3 [20], was established in the laboratory of Prof.",
+    "refNo": 20,
+    "title": "Metalloproteinases: a functional pathway for myeloid cells",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Tardieu in 1995, through SV40-dependent immortalization of human microglial cells [17].",
+    "refNo": 17,
+    "title": "Dexmedetomidine inhibits inflammation in microglia cells under stimulation of LPS and ATP by c-Fos/ NLRP3/caspase-1 cascades",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "The detailed methodology for the preparation of primary cultures of human microglial cells was previously published [33].",
+    "refNo": 33,
+    "title": "",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "Conversely, most of the cells steadily displayed nonspecific esterase activity (NSE, 90% positive cells at day 1 vs 81 ± 1% at day 10) and were able to phagocytize zymosan particles (97% at day 1 vs 81 ± 1% at day 10) [33].",
+    "refNo": 33,
+    "title": "",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "Interestingly, the cell line was used in one publication under the name of C13-NJ [46] and distributed under the name of CHME-5 cells [71].",
+    "refNo": 46,
+    "title": "",
+    "marker_text": "[46]"
+  },
+  {
+    "sentence": "Interestingly, the cell line was used in one publication under the name of C13-NJ [46] and distributed under the name of CHME-5 cells [71].",
+    "refNo": 71,
+    "title": "",
+    "marker_text": "[71]"
+  },
+  {
+    "sentence": "In addition, mycoplasma contaminations can significantly affect the biology of the cell culture, thus the quality of the experimental results [108].",
+    "refNo": 108,
+    "title": "",
+    "marker_text": "[108]"
+  },
+  {
+    "sentence": "\"paragraphs\": [ \"The human microglial clone 3 cell line, HMC3 [20], was established in the laboratory of Prof.",
+    "refNo": 20,
+    "title": "Metalloproteinases: a functional pathway for myeloid cells",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Tardieu in 1995, through SV40-dependent immortalization of human microglial cells [17].",
+    "refNo": 17,
+    "title": "Dexmedetomidine inhibits inflammation in microglia cells under stimulation of LPS and ATP by c-Fos/ NLRP3/caspase-1 cascades",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "The detailed methodology for the preparation of primary cultures of human microglial cells was previously published [33].",
+    "refNo": 33,
+    "title": "",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "Conversely, most of the cells steadily displayed nonspecific esterase activity (NSE, 90% positive cells at day 1 vs 81 ± 1% at day 10) and were able to phagocytize zymosan particles (97% at day 1 vs 81 ± 1% at day 10) [33].\", \"Immortalized microglial cells were generated by transfection of the SV40 T antigen in primary human microglial cultures, derived from 8-to 10-week old embryos.",
+    "refNo": 33,
+    "title": "",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "Several clones of immortalized cells were isolated, albeit clonality could not be totally confirmed due to inability of the cells to grow at very low density [17].",
+    "refNo": 17,
+    "title": "Dexmedetomidine inhibits inflammation in microglia cells under stimulation of LPS and ATP by c-Fos/ NLRP3/caspase-1 cascades",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "As summarized in Table 1, the human microglial clone 3 (HMC3 cells) was originally characterized as NSE, CD68, and CD11b positive (80-90%), and CD14, MHCII, CD4 negative under basal conditions [17].",
+    "refNo": 17,
+    "title": "Dexmedetomidine inhibits inflammation in microglia cells under stimulation of LPS and ATP by c-Fos/ NLRP3/caspase-1 cascades",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "The percentage of MHCII-positive cells (43 ± 10%, ± SD) was higher in HMC3 cells in comparison to other clones (4-13% in Fig. 1 Historical reconstruction of the distribution process of the human microglial clone 3 cell line.",
+    "refNo": 1,
+    "title": "Resting microglia directly monitor the functional state of synapses in vivo and determine the fate of ischemic terminals",
+    "marker_text": "1",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "In 2016, the HMC3 cells were transferred to ATCC®, USA (orange box) and authenticated and distributed under the catalog designation of HMC3 (ATCC®CRL-3304) - [17,20,35,40] NF70KD - [17] Α7nAcR + [44] Resting conditions: +, 1-33% of the cell population (or a positive immunocytochemistry); ++, 34-66%; +++, > 66%; −, < 1%.",
+    "refNo": 17,
+    "title": "Dexmedetomidine inhibits inflammation in microglia cells under stimulation of LPS and ATP by c-Fos/ NLRP3/caspase-1 cascades",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "In 2016, the HMC3 cells were transferred to ATCC®, USA (orange box) and authenticated and distributed under the catalog designation of HMC3 (ATCC®CRL-3304) - [17,20,35,40] NF70KD - [17] Α7nAcR + [44] Resting conditions: +, 1-33% of the cell population (or a positive immunocytochemistry); ++, 34-66%; +++, > 66%; −, < 1%.",
+    "refNo": 20,
+    "title": "Metalloproteinases: a functional pathway for myeloid cells",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "In 2016, the HMC3 cells were transferred to ATCC®, USA (orange box) and authenticated and distributed under the catalog designation of HMC3 (ATCC®CRL-3304) - [17,20,35,40] NF70KD - [17] Α7nAcR + [44] Resting conditions: +, 1-33% of the cell population (or a positive immunocytochemistry); ++, 34-66%; +++, > 66%; −, < 1%.",
+    "refNo": 35,
+    "title": "",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "In 2016, the HMC3 cells were transferred to ATCC®, USA (orange box) and authenticated and distributed under the catalog designation of HMC3 (ATCC®CRL-3304) - [17,20,35,40] NF70KD - [17] Α7nAcR + [44] Resting conditions: +, 1-33% of the cell population (or a positive immunocytochemistry); ++, 34-66%; +++, > 66%; −, < 1%.",
+    "refNo": 40,
+    "title": "",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "In 2016, the HMC3 cells were transferred to ATCC®, USA (orange box) and authenticated and distributed under the catalog designation of HMC3 (ATCC®CRL-3304) - [17,20,35,40] NF70KD - [17] Α7nAcR + [44] Resting conditions: +, 1-33% of the cell population (or a positive immunocytochemistry); ++, 34-66%; +++, > 66%; −, < 1%.",
+    "refNo": 17,
+    "title": "Dexmedetomidine inhibits inflammation in microglia cells under stimulation of LPS and ATP by c-Fos/ NLRP3/caspase-1 cascades",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "In 2016, the HMC3 cells were transferred to ATCC®, USA (orange box) and authenticated and distributed under the catalog designation of HMC3 (ATCC®CRL-3304) - [17,20,35,40] NF70KD - [17] Α7nAcR + [44] Resting conditions: +, 1-33% of the cell population (or a positive immunocytochemistry); ++, 34-66%; +++, > 66%; −, < 1%.",
+    "refNo": 44,
+    "title": "",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "Interestingly, the HMC3 cells secreted higher amounts in comparison to the other clones [17].",
+    "refNo": 17,
+    "title": "Dexmedetomidine inhibits inflammation in microglia cells under stimulation of LPS and ATP by c-Fos/ NLRP3/caspase-1 cascades",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "These markers were significantly upregulated in presence of the SH swe differentiated neuronal cells, with major modifications observed for IL-1β and IL-6 gene expression at 72 h [50].",
+    "refNo": 50,
+    "title": "",
+    "marker_text": "[50]"
+  },
+  {
+    "sentence": "In addition, the mRNA levels of both pro-inflammatory (IL-1β, IL-6, and TNFα) and anti-inflammatory (IFNβ, IL-4, and IL-10) cytokines increased in response to CHME3 cell infection with the Japanese Encephalitis Virus (JEV) [53,54] cells was not included in the paper, and it is difficult to extrapolate from a previous study [34], in which a biological assay was employed to measure the cytokine's production in place of the enzyme-linked immunosorbent assay (ELISA) adopted later.",
+    "refNo": 53,
+    "title": "",
+    "marker_text": "[53]"
+  },
+  {
+    "sentence": "In addition, the mRNA levels of both pro-inflammatory (IL-1β, IL-6, and TNFα) and anti-inflammatory (IFNβ, IL-4, and IL-10) cytokines increased in response to CHME3 cell infection with the Japanese Encephalitis Virus (JEV) [53,54] cells was not included in the paper, and it is difficult to extrapolate from a previous study [34], in which a biological assay was employed to measure the cytokine's production in place of the enzyme-linked immunosorbent assay (ELISA) adopted later.",
+    "refNo": 54,
+    "title": "",
+    "marker_text": "[54]"
+  },
+  {
+    "sentence": "In addition, the mRNA levels of both pro-inflammatory (IL-1β, IL-6, and TNFα) and anti-inflammatory (IFNβ, IL-4, and IL-10) cytokines increased in response to CHME3 cell infection with the Japanese Encephalitis Virus (JEV) [53,54] cells was not included in the paper, and it is difficult to extrapolate from a previous study [34], in which a biological assay was employed to measure the cytokine's production in place of the enzyme-linked immunosorbent assay (ELISA) adopted later.",
+    "refNo": 34,
+    "title": "",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "However, it seems that the immortalized cell lines were less responsive to LPS in comparison to primary cultures [17,34].",
+    "refNo": 17,
+    "title": "Dexmedetomidine inhibits inflammation in microglia cells under stimulation of LPS and ATP by c-Fos/ NLRP3/caspase-1 cascades",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "However, it seems that the immortalized cell lines were less responsive to LPS in comparison to primary cultures [17,34].",
+    "refNo": 34,
+    "title": "",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "Similarly to primary cells, all the immortalized microglial cell clones were unable to produce tumor necrosis α (TNFα, data not shown), neither spontaneously nor after pro-inflammatory activation [17].",
+    "refNo": 17,
+    "title": "Dexmedetomidine inhibits inflammation in microglia cells under stimulation of LPS and ATP by c-Fos/ NLRP3/caspase-1 cascades",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Interestingly, the cell line was used in one publication under the name of C13-NJ [46] and distributed under the name of CHME-5 cells [71].",
+    "refNo": 46,
+    "title": "",
+    "marker_text": "[46]"
+  },
+  {
+    "sentence": "Interestingly, the cell line was used in one publication under the name of C13-NJ [46] and distributed under the name of CHME-5 cells [71].",
+    "refNo": 71,
+    "title": "",
+    "marker_text": "[71]"
+  },
+  {
+    "sentence": "This may suggest that the cell line was distributed wider than it may be deducted from published articles.\", \"The CHME-5 cells displayed same morphological [72,73] and immunological properties [74], i.e., abundant production of IL-6 under basal conditions.",
+    "refNo": 72,
+    "title": "",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "This may suggest that the cell line was distributed wider than it may be deducted from published articles.\", \"The CHME-5 cells displayed same morphological [72,73] and immunological properties [74], i.e., abundant production of IL-6 under basal conditions.",
+    "refNo": 73,
+    "title": "",
+    "marker_text": "[73]"
+  },
+  {
+    "sentence": "This may suggest that the cell line was distributed wider than it may be deducted from published articles.\", \"The CHME-5 cells displayed same morphological [72,73] and immunological properties [74], i.e., abundant production of IL-6 under basal conditions.",
+    "refNo": 74,
+    "title": "",
+    "marker_text": "[74]"
+  },
+  {
+    "sentence": "These early reports showed the ability of CHME-5 cells to perform phagocytosis of latex beads, yeast, and zymosan particles [72,74].",
+    "refNo": 72,
+    "title": "",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "These early reports showed the ability of CHME-5 cells to perform phagocytosis of latex beads, yeast, and zymosan particles [72,74].",
+    "refNo": 74,
+    "title": "",
+    "marker_text": "[74]"
+  },
+  {
+    "sentence": "Moreover, the CHME-5 cells were characterized for a high rate of oxygen consumption [73,75] and excessive production of ROS [76] under basal conditions.",
+    "refNo": 73,
+    "title": "",
+    "marker_text": "[73]"
+  },
+  {
+    "sentence": "Moreover, the CHME-5 cells were characterized for a high rate of oxygen consumption [73,75] and excessive production of ROS [76] under basal conditions.",
+    "refNo": 75,
+    "title": "",
+    "marker_text": "[75]"
+  },
+  {
+    "sentence": "Moreover, the CHME-5 cells were characterized for a high rate of oxygen consumption [73,75] and excessive production of ROS [76] under basal conditions.",
+    "refNo": 76,
+    "title": "",
+    "marker_text": "[76]"
+  },
+  {
+    "sentence": "The CHME-5 cells were resistant to heat shock stress, via increased expression of heat shock proteins (Hsc70 and Hsp70), changes in their metabolism, mitochondrial function, and cytoskeleton remodeling [72,77].",
+    "refNo": 72,
+    "title": "",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "The CHME-5 cells were resistant to heat shock stress, via increased expression of heat shock proteins (Hsc70 and Hsp70), changes in their metabolism, mitochondrial function, and cytoskeleton remodeling [72,77].",
+    "refNo": 77,
+    "title": "",
+    "marker_text": "[77]"
+  },
+  {
+    "sentence": "Accordingly, co-culturing of CHME-5 cells with rat C6 glioma cells promoted the relocation of the heat shock protein Hsp60 to the nucleus together with transient changes in microglial metabolism, including reduction of oxygen consumption, decreased mitochondrial enzymatic activities and membrane potential, increased lactate release, and reduction of ATP content [73].",
+    "refNo": 73,
+    "title": "",
+    "marker_text": "[73]"
+  },
+  {
+    "sentence": "Functional TREM2 receptors were detected in the CHME-5 cells [71].",
+    "refNo": 71,
+    "title": "",
+    "marker_text": "[71]"
+  },
+  {
+    "sentence": "Moreover, the CHME-5 cells expressed functional receptors for advanced glycation end-products (AGEs), named RAGEs [78].",
+    "refNo": 78,
+    "title": "",
+    "marker_text": "[78]"
+  },
+  {
+    "sentence": "AGEs increased ROS production in CHME-5 cells and reduced cell viability [79].",
+    "refNo": 79,
+    "title": "",
+    "marker_text": "[79]"
+  },
+  {
+    "sentence": "Consistently, exposure of CHME-5 cells to AGEs triggered microglial activation, as suggested by increased expression of the glucose transporter GLUT-5, induction of MHCII antigens, and increased TNFα release [78].",
+    "refNo": 78,
+    "title": "",
+    "marker_text": "[78]"
+  },
+  {
+    "sentence": "The CHME-5 cells were resistant to low-energy electromagnetic field exposure and did not show any particular changes [80].",
+    "refNo": 80,
+    "title": "",
+    "marker_text": "[80]"
+  },
+  {
+    "sentence": "In contrast, increased ROS production, increased expression of GLUT-5 and MHCII antigens, together with a reduction in cell viability were observed in response to high dose ionizing radiations [81].\", \"It was shown that the CHME-5 cells were able to sustain the replication of the M-tropic HIV-1 strain Yu-2 with a similar efficiency to human peripheral blood monocytes [82].",
+    "refNo": 81,
+    "title": "",
+    "marker_text": "[81]"
+  },
+  {
+    "sentence": "In contrast, increased ROS production, increased expression of GLUT-5 and MHCII antigens, together with a reduction in cell viability were observed in response to high dose ionizing radiations [81].\", \"It was shown that the CHME-5 cells were able to sustain the replication of the M-tropic HIV-1 strain Yu-2 with a similar efficiency to human peripheral blood monocytes [82].",
+    "refNo": 82,
+    "title": "",
+    "marker_text": "[82]"
+  },
+  {
+    "sentence": "The cytoprotective effect induced by HIV infection was mediated by the HIV TAT protein and subsequent activation of survival signaling depending on the AKT pathway [82].",
+    "refNo": 82,
+    "title": "",
+    "marker_text": "[82]"
+  },
+  {
+    "sentence": "Since this initial observation, the human microglial CHME-5 cell line has been widely used to study the biology of HIV-1, as documented by more than 15 publications [83][84][85][86][87][88][89][90][91][92][93][94][95][96][97][98].",
+    "refNo": 83,
+    "title": "",
+    "marker_text": "[83]"
+  },
+  {
+    "sentence": "Since this initial observation, the human microglial CHME-5 cell line has been widely used to study the biology of HIV-1, as documented by more than 15 publications [83][84][85][86][87][88][89][90][91][92][93][94][95][96][97][98].",
+    "refNo": 84,
+    "title": "",
+    "marker_text": "[84]"
+  },
+  {
+    "sentence": "Since this initial observation, the human microglial CHME-5 cell line has been widely used to study the biology of HIV-1, as documented by more than 15 publications [83][84][85][86][87][88][89][90][91][92][93][94][95][96][97][98].",
+    "refNo": 85,
+    "title": "",
+    "marker_text": "[85]"
+  },
+  {
+    "sentence": "Since this initial observation, the human microglial CHME-5 cell line has been widely used to study the biology of HIV-1, as documented by more than 15 publications [83][84][85][86][87][88][89][90][91][92][93][94][95][96][97][98].",
+    "refNo": 86,
+    "title": "",
+    "marker_text": "[86]"
+  },
+  {
+    "sentence": "Since this initial observation, the human microglial CHME-5 cell line has been widely used to study the biology of HIV-1, as documented by more than 15 publications [83][84][85][86][87][88][89][90][91][92][93][94][95][96][97][98].",
+    "refNo": 87,
+    "title": "",
+    "marker_text": "[87]"
+  },
+  {
+    "sentence": "Since this initial observation, the human microglial CHME-5 cell line has been widely used to study the biology of HIV-1, as documented by more than 15 publications [83][84][85][86][87][88][89][90][91][92][93][94][95][96][97][98].",
+    "refNo": 88,
+    "title": "",
+    "marker_text": "[88]"
+  },
+  {
+    "sentence": "Since this initial observation, the human microglial CHME-5 cell line has been widely used to study the biology of HIV-1, as documented by more than 15 publications [83][84][85][86][87][88][89][90][91][92][93][94][95][96][97][98].",
+    "refNo": 89,
+    "title": "",
+    "marker_text": "[89]"
+  },
+  {
+    "sentence": "Since this initial observation, the human microglial CHME-5 cell line has been widely used to study the biology of HIV-1, as documented by more than 15 publications [83][84][85][86][87][88][89][90][91][92][93][94][95][96][97][98].",
+    "refNo": 90,
+    "title": "",
+    "marker_text": "[90]"
+  },
+  {
+    "sentence": "Since this initial observation, the human microglial CHME-5 cell line has been widely used to study the biology of HIV-1, as documented by more than 15 publications [83][84][85][86][87][88][89][90][91][92][93][94][95][96][97][98].",
+    "refNo": 91,
+    "title": "",
+    "marker_text": "[91]"
+  },
+  {
+    "sentence": "Since this initial observation, the human microglial CHME-5 cell line has been widely used to study the biology of HIV-1, as documented by more than 15 publications [83][84][85][86][87][88][89][90][91][92][93][94][95][96][97][98].",
+    "refNo": 92,
+    "title": "",
+    "marker_text": "[92]"
+  },
+  {
+    "sentence": "Since this initial observation, the human microglial CHME-5 cell line has been widely used to study the biology of HIV-1, as documented by more than 15 publications [83][84][85][86][87][88][89][90][91][92][93][94][95][96][97][98].",
+    "refNo": 93,
+    "title": "",
+    "marker_text": "[93]"
+  },
+  {
+    "sentence": "Since this initial observation, the human microglial CHME-5 cell line has been widely used to study the biology of HIV-1, as documented by more than 15 publications [83][84][85][86][87][88][89][90][91][92][93][94][95][96][97][98].",
+    "refNo": 94,
+    "title": "",
+    "marker_text": "[94]"
+  },
+  {
+    "sentence": "Since this initial observation, the human microglial CHME-5 cell line has been widely used to study the biology of HIV-1, as documented by more than 15 publications [83][84][85][86][87][88][89][90][91][92][93][94][95][96][97][98].",
+    "refNo": 95,
+    "title": "",
+    "marker_text": "[95]"
+  },
+  {
+    "sentence": "Since this initial observation, the human microglial CHME-5 cell line has been widely used to study the biology of HIV-1, as documented by more than 15 publications [83][84][85][86][87][88][89][90][91][92][93][94][95][96][97][98].",
+    "refNo": 96,
+    "title": "",
+    "marker_text": "[96]"
+  },
+  {
+    "sentence": "Since this initial observation, the human microglial CHME-5 cell line has been widely used to study the biology of HIV-1, as documented by more than 15 publications [83][84][85][86][87][88][89][90][91][92][93][94][95][96][97][98].",
+    "refNo": 97,
+    "title": "",
+    "marker_text": "[97]"
+  },
+  {
+    "sentence": "Since this initial observation, the human microglial CHME-5 cell line has been widely used to study the biology of HIV-1, as documented by more than 15 publications [83][84][85][86][87][88][89][90][91][92][93][94][95][96][97][98].",
+    "refNo": 98,
+    "title": "",
+    "marker_text": "[98]"
+  },
+  {
+    "sentence": "The CHME-5 cells were resistant to murine norovirus MV1 infection [99], whereas they were successfully used to culture Chlamydia pneumoniae isolated from post-mortem brain tissue of two patients affected by Alzheimer's disease [100].",
+    "refNo": 99,
+    "title": "",
+    "marker_text": "[99]"
+  },
+  {
+    "sentence": "The CHME-5 cells were resistant to murine norovirus MV1 infection [99], whereas they were successfully used to culture Chlamydia pneumoniae isolated from post-mortem brain tissue of two patients affected by Alzheimer's disease [100].",
+    "refNo": 100,
+    "title": "",
+    "marker_text": "[100]"
+  },
+  {
+    "sentence": "The CHME-5 cells were susceptible to infection by human chikungunya virus [101], coronavirus (huCV) OC43 subgroup, and resistant to huCV-229E subgroup [102,103].",
+    "refNo": 101,
+    "title": "",
+    "marker_text": "[101]"
+  },
+  {
+    "sentence": "The CHME-5 cells were susceptible to infection by human chikungunya virus [101], coronavirus (huCV) OC43 subgroup, and resistant to huCV-229E subgroup [102,103].",
+    "refNo": 102,
+    "title": "",
+    "marker_text": "[102]"
+  },
+  {
+    "sentence": "The CHME-5 cells were susceptible to infection by human chikungunya virus [101], coronavirus (huCV) OC43 subgroup, and resistant to huCV-229E subgroup [102,103].",
+    "refNo": 103,
+    "title": "",
+    "marker_text": "[103]"
+  },
+  {
+    "sentence": "In addition the CHME-5 cells could be infected by Zika virus that Fig. 2 Historical reconstruction of the distribution process of the human microglial CHME-5 cell line.",
+    "refNo": 2,
+    "title": "Microglial interactions with synapses are modulated by visual experience",
+    "marker_text": "2",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Feinstein, University of Illinois, Chicago, USA, personal communication interferes with the mitotic fuse [104].",
+    "refNo": 104,
+    "title": "",
+    "marker_text": "[104]"
+  },
+  {
+    "sentence": "Interestingly, the CHME-5 cells were not able to sustain persistent huCV-OC43 infection, and responded to the acute infection with increased MMP activity and NO production [105].",
+    "refNo": 105,
+    "title": "",
+    "marker_text": "[105]"
+  },
+  {
+    "sentence": "In contrast to the HMC3/CHME3 aliquots, increased iNOS expression and NO production was detected also after overexpression of the endogenous retrovirus W envelope protein [88] and in response to a mixture of pro-inflammatory cytokines, including TNFα, IL-1β, and IFNγ [106].",
+    "refNo": 88,
+    "title": "",
+    "marker_text": "[88]"
+  },
+  {
+    "sentence": "In contrast to the HMC3/CHME3 aliquots, increased iNOS expression and NO production was detected also after overexpression of the endogenous retrovirus W envelope protein [88] and in response to a mixture of pro-inflammatory cytokines, including TNFα, IL-1β, and IFNγ [106].",
+    "refNo": 106,
+    "title": "",
+    "marker_text": "[106]"
+  },
+  {
+    "sentence": "Furthermore, the CHME-5 cells displayed increased arginase (ARG) activity in response to IL-4, which was significantly reduced by several antiretroviral drugs [106].\", \"In contrast to all the evidence reviewed above, none of the following transcripts was detected in the CHME-5 cells by semi-quantitative RT-PCR using human specific primers: IL-1α and β, IL-6, IL-10, IL-12, TNFα, TGFβ, IFNγ, MIP-1α, and MCP-1 [105].",
+    "refNo": 106,
+    "title": "",
+    "marker_text": "[106]"
+  },
+  {
+    "sentence": "Furthermore, the CHME-5 cells displayed increased arginase (ARG) activity in response to IL-4, which was significantly reduced by several antiretroviral drugs [106].\", \"In contrast to all the evidence reviewed above, none of the following transcripts was detected in the CHME-5 cells by semi-quantitative RT-PCR using human specific primers: IL-1α and β, IL-6, IL-10, IL-12, TNFα, TGFβ, IFNγ, MIP-1α, and MCP-1 [105].",
+    "refNo": 105,
+    "title": "",
+    "marker_text": "[105]"
+  },
+  {
+    "sentence": "In addition, it has recently been shown by genotyping and amplification of a key human gene CyCT1 that several aliquots of CHME-5 cells (in use in different laboratories) are cross-contaminated by rat glioblastoma cells [19].",
+    "refNo": 19,
+    "title": "HIV-1 Tat C modulates NOX2 and NOX4 expressions through miR-17 in a human microglial cell line",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "In addition, it allows researchers to control the genetic drift that can possibly occur with serial passaging of the cells, contributing to cell heterogeneity in cultures [107].",
+    "refNo": 107,
+    "title": "",
+    "marker_text": "[107]"
+  },
+  {
+    "sentence": "Interestingly, the cell line was used in one publication under the name of C13-NJ [46] and distributed under the name of CHME-5 cells [71].",
+    "refNo": 46,
+    "title": "",
+    "marker_text": "[46]"
+  },
+  {
+    "sentence": "Interestingly, the cell line was used in one publication under the name of C13-NJ [46] and distributed under the name of CHME-5 cells [71].",
+    "refNo": 71,
+    "title": "",
+    "marker_text": "[71]"
+  },
+  {
+    "sentence": "This may suggest that the cell line was distributed wider than it may be deducted from published articles.\", \"The CHME-5 cells displayed same morphological [72,73] and immunological properties [74], i.e., abundant production of IL-6 under basal conditions.",
+    "refNo": 72,
+    "title": "",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "This may suggest that the cell line was distributed wider than it may be deducted from published articles.\", \"The CHME-5 cells displayed same morphological [72,73] and immunological properties [74], i.e., abundant production of IL-6 under basal conditions.",
+    "refNo": 73,
+    "title": "",
+    "marker_text": "[73]"
+  },
+  {
+    "sentence": "This may suggest that the cell line was distributed wider than it may be deducted from published articles.\", \"The CHME-5 cells displayed same morphological [72,73] and immunological properties [74], i.e., abundant production of IL-6 under basal conditions.",
+    "refNo": 74,
+    "title": "",
+    "marker_text": "[74]"
+  },
+  {
+    "sentence": "These early reports showed the ability of CHME-5 cells to perform phagocytosis of latex beads, yeast, and zymosan particles [72,74].",
+    "refNo": 72,
+    "title": "",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "These early reports showed the ability of CHME-5 cells to perform phagocytosis of latex beads, yeast, and zymosan particles [72,74].",
+    "refNo": 74,
+    "title": "",
+    "marker_text": "[74]"
+  },
+  {
+    "sentence": "Moreover, the CHME-5 cells were characterized for a high rate of oxygen consumption [73,75] and excessive production of ROS [76] under basal conditions.",
+    "refNo": 73,
+    "title": "",
+    "marker_text": "[73]"
+  },
+  {
+    "sentence": "Moreover, the CHME-5 cells were characterized for a high rate of oxygen consumption [73,75] and excessive production of ROS [76] under basal conditions.",
+    "refNo": 75,
+    "title": "",
+    "marker_text": "[75]"
+  },
+  {
+    "sentence": "Moreover, the CHME-5 cells were characterized for a high rate of oxygen consumption [73,75] and excessive production of ROS [76] under basal conditions.",
+    "refNo": 76,
+    "title": "",
+    "marker_text": "[76]"
+  },
+  {
+    "sentence": "The CHME-5 cells were resistant to heat shock stress, via increased expression of heat shock proteins (Hsc70 and Hsp70), changes in their metabolism, mitochondrial function, and cytoskeleton remodeling [72,77].",
+    "refNo": 72,
+    "title": "",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "The CHME-5 cells were resistant to heat shock stress, via increased expression of heat shock proteins (Hsc70 and Hsp70), changes in their metabolism, mitochondrial function, and cytoskeleton remodeling [72,77].",
+    "refNo": 77,
+    "title": "",
+    "marker_text": "[77]"
+  },
+  {
+    "sentence": "Accordingly, co-culturing of CHME-5 cells with rat C6 glioma cells promoted the relocation of the heat shock protein Hsp60 to the nucleus together with transient changes in microglial metabolism, including reduction of oxygen consumption, decreased mitochondrial enzymatic activities and membrane potential, increased lactate release, and reduction of ATP content [73].",
+    "refNo": 73,
+    "title": "",
+    "marker_text": "[73]"
+  },
+  {
+    "sentence": "Functional TREM2 receptors were detected in the CHME-5 cells [71].",
+    "refNo": 71,
+    "title": "",
+    "marker_text": "[71]"
+  },
+  {
+    "sentence": "Moreover, the CHME-5 cells expressed functional receptors for advanced glycation end-products (AGEs), named RAGEs [78].",
+    "refNo": 78,
+    "title": "",
+    "marker_text": "[78]"
+  },
+  {
+    "sentence": "AGEs increased ROS production in CHME-5 cells and reduced cell viability [79].",
+    "refNo": 79,
+    "title": "",
+    "marker_text": "[79]"
+  },
+  {
+    "sentence": "Consistently, exposure of CHME-5 cells to AGEs triggered microglial activation, as suggested by increased expression of the glucose transporter GLUT-5, induction of MHCII antigens, and increased TNFα release [78].",
+    "refNo": 78,
+    "title": "",
+    "marker_text": "[78]"
+  },
+  {
+    "sentence": "The CHME-5 cells were resistant to low-energy electromagnetic field exposure and did not show any particular changes [80].",
+    "refNo": 80,
+    "title": "",
+    "marker_text": "[80]"
+  },
+  {
+    "sentence": "In contrast, increased ROS production, increased expression of GLUT-5 and MHCII antigens, together with a reduction in cell viability were observed in response to high dose ionizing radiations [81].\", \"It was shown that the CHME-5 cells were able to sustain the replication of the M-tropic HIV-1 strain Yu-2 with a similar efficiency to human peripheral blood monocytes [82].",
+    "refNo": 81,
+    "title": "",
+    "marker_text": "[81]"
+  },
+  {
+    "sentence": "In contrast, increased ROS production, increased expression of GLUT-5 and MHCII antigens, together with a reduction in cell viability were observed in response to high dose ionizing radiations [81].\", \"It was shown that the CHME-5 cells were able to sustain the replication of the M-tropic HIV-1 strain Yu-2 with a similar efficiency to human peripheral blood monocytes [82].",
+    "refNo": 82,
+    "title": "",
+    "marker_text": "[82]"
+  },
+  {
+    "sentence": "The cytoprotective effect induced by HIV infection was mediated by the HIV TAT protein and subsequent activation of survival signaling depending on the AKT pathway [82].",
+    "refNo": 82,
+    "title": "",
+    "marker_text": "[82]"
+  },
+  {
+    "sentence": "Since this initial observation, the human microglial CHME-5 cell line has been widely used to study the biology of HIV-1, as documented by more than 15 publications [83][84][85][86][87][88][89][90][91][92][93][94][95][96][97][98].",
+    "refNo": 83,
+    "title": "",
+    "marker_text": "[83]"
+  },
+  {
+    "sentence": "Since this initial observation, the human microglial CHME-5 cell line has been widely used to study the biology of HIV-1, as documented by more than 15 publications [83][84][85][86][87][88][89][90][91][92][93][94][95][96][97][98].",
+    "refNo": 84,
+    "title": "",
+    "marker_text": "[84]"
+  },
+  {
+    "sentence": "Since this initial observation, the human microglial CHME-5 cell line has been widely used to study the biology of HIV-1, as documented by more than 15 publications [83][84][85][86][87][88][89][90][91][92][93][94][95][96][97][98].",
+    "refNo": 85,
+    "title": "",
+    "marker_text": "[85]"
+  },
+  {
+    "sentence": "Since this initial observation, the human microglial CHME-5 cell line has been widely used to study the biology of HIV-1, as documented by more than 15 publications [83][84][85][86][87][88][89][90][91][92][93][94][95][96][97][98].",
+    "refNo": 86,
+    "title": "",
+    "marker_text": "[86]"
+  },
+  {
+    "sentence": "Since this initial observation, the human microglial CHME-5 cell line has been widely used to study the biology of HIV-1, as documented by more than 15 publications [83][84][85][86][87][88][89][90][91][92][93][94][95][96][97][98].",
+    "refNo": 87,
+    "title": "",
+    "marker_text": "[87]"
+  },
+  {
+    "sentence": "Since this initial observation, the human microglial CHME-5 cell line has been widely used to study the biology of HIV-1, as documented by more than 15 publications [83][84][85][86][87][88][89][90][91][92][93][94][95][96][97][98].",
+    "refNo": 88,
+    "title": "",
+    "marker_text": "[88]"
+  },
+  {
+    "sentence": "Since this initial observation, the human microglial CHME-5 cell line has been widely used to study the biology of HIV-1, as documented by more than 15 publications [83][84][85][86][87][88][89][90][91][92][93][94][95][96][97][98].",
+    "refNo": 89,
+    "title": "",
+    "marker_text": "[89]"
+  },
+  {
+    "sentence": "Since this initial observation, the human microglial CHME-5 cell line has been widely used to study the biology of HIV-1, as documented by more than 15 publications [83][84][85][86][87][88][89][90][91][92][93][94][95][96][97][98].",
+    "refNo": 90,
+    "title": "",
+    "marker_text": "[90]"
+  },
+  {
+    "sentence": "Since this initial observation, the human microglial CHME-5 cell line has been widely used to study the biology of HIV-1, as documented by more than 15 publications [83][84][85][86][87][88][89][90][91][92][93][94][95][96][97][98].",
+    "refNo": 91,
+    "title": "",
+    "marker_text": "[91]"
+  },
+  {
+    "sentence": "Since this initial observation, the human microglial CHME-5 cell line has been widely used to study the biology of HIV-1, as documented by more than 15 publications [83][84][85][86][87][88][89][90][91][92][93][94][95][96][97][98].",
+    "refNo": 92,
+    "title": "",
+    "marker_text": "[92]"
+  },
+  {
+    "sentence": "Since this initial observation, the human microglial CHME-5 cell line has been widely used to study the biology of HIV-1, as documented by more than 15 publications [83][84][85][86][87][88][89][90][91][92][93][94][95][96][97][98].",
+    "refNo": 93,
+    "title": "",
+    "marker_text": "[93]"
+  },
+  {
+    "sentence": "Since this initial observation, the human microglial CHME-5 cell line has been widely used to study the biology of HIV-1, as documented by more than 15 publications [83][84][85][86][87][88][89][90][91][92][93][94][95][96][97][98].",
+    "refNo": 94,
+    "title": "",
+    "marker_text": "[94]"
+  },
+  {
+    "sentence": "Since this initial observation, the human microglial CHME-5 cell line has been widely used to study the biology of HIV-1, as documented by more than 15 publications [83][84][85][86][87][88][89][90][91][92][93][94][95][96][97][98].",
+    "refNo": 95,
+    "title": "",
+    "marker_text": "[95]"
+  },
+  {
+    "sentence": "Since this initial observation, the human microglial CHME-5 cell line has been widely used to study the biology of HIV-1, as documented by more than 15 publications [83][84][85][86][87][88][89][90][91][92][93][94][95][96][97][98].",
+    "refNo": 96,
+    "title": "",
+    "marker_text": "[96]"
+  },
+  {
+    "sentence": "Since this initial observation, the human microglial CHME-5 cell line has been widely used to study the biology of HIV-1, as documented by more than 15 publications [83][84][85][86][87][88][89][90][91][92][93][94][95][96][97][98].",
+    "refNo": 97,
+    "title": "",
+    "marker_text": "[97]"
+  },
+  {
+    "sentence": "Since this initial observation, the human microglial CHME-5 cell line has been widely used to study the biology of HIV-1, as documented by more than 15 publications [83][84][85][86][87][88][89][90][91][92][93][94][95][96][97][98].",
+    "refNo": 98,
+    "title": "",
+    "marker_text": "[98]"
+  },
+  {
+    "sentence": "The CHME-5 cells were resistant to murine norovirus MV1 infection [99], whereas they were successfully used to culture Chlamydia pneumoniae isolated from post-mortem brain tissue of two patients affected by Alzheimer's disease [100].",
+    "refNo": 99,
+    "title": "",
+    "marker_text": "[99]"
+  },
+  {
+    "sentence": "The CHME-5 cells were resistant to murine norovirus MV1 infection [99], whereas they were successfully used to culture Chlamydia pneumoniae isolated from post-mortem brain tissue of two patients affected by Alzheimer's disease [100].",
+    "refNo": 100,
+    "title": "",
+    "marker_text": "[100]"
+  },
+  {
+    "sentence": "The CHME-5 cells were susceptible to infection by human chikungunya virus [101], coronavirus (huCV) OC43 subgroup, and resistant to huCV-229E subgroup [102,103].",
+    "refNo": 101,
+    "title": "",
+    "marker_text": "[101]"
+  },
+  {
+    "sentence": "The CHME-5 cells were susceptible to infection by human chikungunya virus [101], coronavirus (huCV) OC43 subgroup, and resistant to huCV-229E subgroup [102,103].",
+    "refNo": 102,
+    "title": "",
+    "marker_text": "[102]"
+  },
+  {
+    "sentence": "The CHME-5 cells were susceptible to infection by human chikungunya virus [101], coronavirus (huCV) OC43 subgroup, and resistant to huCV-229E subgroup [102,103].",
+    "refNo": 103,
+    "title": "",
+    "marker_text": "[103]"
+  },
+  {
+    "sentence": "In addition the CHME-5 cells could be infected by Zika virus that Fig. 2 Historical reconstruction of the distribution process of the human microglial CHME-5 cell line.",
+    "refNo": 2,
+    "title": "Microglial interactions with synapses are modulated by visual experience",
+    "marker_text": "2",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Feinstein, University of Illinois, Chicago, USA, personal communication interferes with the mitotic fuse [104].",
+    "refNo": 104,
+    "title": "",
+    "marker_text": "[104]"
+  },
+  {
+    "sentence": "Interestingly, the CHME-5 cells were not able to sustain persistent huCV-OC43 infection, and responded to the acute infection with increased MMP activity and NO production [105].",
+    "refNo": 105,
+    "title": "",
+    "marker_text": "[105]"
+  },
+  {
+    "sentence": "In contrast to the HMC3/CHME3 aliquots, increased iNOS expression and NO production was detected also after overexpression of the endogenous retrovirus W envelope protein [88] and in response to a mixture of pro-inflammatory cytokines, including TNFα, IL-1β, and IFNγ [106].",
+    "refNo": 88,
+    "title": "",
+    "marker_text": "[88]"
+  },
+  {
+    "sentence": "In contrast to the HMC3/CHME3 aliquots, increased iNOS expression and NO production was detected also after overexpression of the endogenous retrovirus W envelope protein [88] and in response to a mixture of pro-inflammatory cytokines, including TNFα, IL-1β, and IFNγ [106].",
+    "refNo": 106,
+    "title": "",
+    "marker_text": "[106]"
+  },
+  {
+    "sentence": "Furthermore, the CHME-5 cells displayed increased arginase (ARG) activity in response to IL-4, which was significantly reduced by several antiretroviral drugs [106].\", \"In contrast to all the evidence reviewed above, none of the following transcripts was detected in the CHME-5 cells by semi-quantitative RT-PCR using human specific primers: IL-1α and β, IL-6, IL-10, IL-12, TNFα, TGFβ, IFNγ, MIP-1α, and MCP-1 [105].",
+    "refNo": 106,
+    "title": "",
+    "marker_text": "[106]"
+  },
+  {
+    "sentence": "Furthermore, the CHME-5 cells displayed increased arginase (ARG) activity in response to IL-4, which was significantly reduced by several antiretroviral drugs [106].\", \"In contrast to all the evidence reviewed above, none of the following transcripts was detected in the CHME-5 cells by semi-quantitative RT-PCR using human specific primers: IL-1α and β, IL-6, IL-10, IL-12, TNFα, TGFβ, IFNγ, MIP-1α, and MCP-1 [105].",
+    "refNo": 105,
+    "title": "",
+    "marker_text": "[105]"
+  },
+  {
+    "sentence": "In addition, it has recently been shown by genotyping and amplification of a key human gene CyCT1 that several aliquots of CHME-5 cells (in use in different laboratories) are cross-contaminated by rat glioblastoma cells [19].",
+    "refNo": 19,
+    "title": "HIV-1 Tat C modulates NOX2 and NOX4 expressions through miR-17 in a human microglial cell line",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "In addition, it allows researchers to control the genetic drift that can possibly occur with serial passaging of the cells, contributing to cell heterogeneity in cultures [107].",
+    "refNo": 107,
+    "title": "",
+    "marker_text": "[107]"
+  },
+  {
+    "sentence": "A description of the morphology of the immortalized microglial cells was initially reported by Janabi and colleagues ref [9].",
+    "refNo": 9,
+    "title": "Establishment of human microglial cell lines after transfection of primary cultures of embryonic microglial cells with the SV40 large T antigen",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "When cultured on fibronectin-coated coverslips, the human microglial CHME3 cells showed mostly a globular morphology, detected by rhodamine-phalloidin staining, with a more intense signal surrounding the nucleus ref [35].",
+    "refNo": 35,
+    "title": "",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "However, both human and rodent microglia were able to migrate in response to several human chemokines showing a similar pattern, albeit the CHME3 cells responded to lower concentrations and in shorter times ref [35].",
+    "refNo": 35,
+    "title": "",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "The CHME3 cells have been mostly maintained in Dulbecco's modified MEM (DMEM), retaining their morphological features (i.e., globular cells with dark cytoplasmic vacuoles) ref [36,37].",
+    "refNo": 36,
+    "title": "",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "The CHME3 cells have been mostly maintained in Dulbecco's modified MEM (DMEM), retaining their morphological features (i.e., globular cells with dark cytoplasmic vacuoles) ref [36,37].",
+    "refNo": 37,
+    "title": "",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "On the other hand, a phase-contrast image of the HMC3 cells, published later by Etemad and colleagues ref [11], showed the presence of different morphological phenotypes in the same culture, including globular, bipolar, and very elongated cells.",
+    "refNo": 11,
+    "title": "A novel in vitro human microglia model: characterization of human monocyte-derived microglia",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "In line with the original characterization [17], it was later confirmed that the CHME3 cell line were CD68 EBM/11 positive and GFAP negative [35].",
+    "refNo": 17,
+    "title": "Dexmedetomidine inhibits inflammation in microglia cells under stimulation of LPS and ATP by c-Fos/ NLRP3/caspase-1 cascades",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "In line with the original characterization [17], it was later confirmed that the CHME3 cell line were CD68 EBM/11 positive and GFAP negative [35].",
+    "refNo": 35,
+    "title": "",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "Consistently, the expression of CD68 was detected in resting CHME3 cells using a different primary antibody (DAKO, UK) [38].",
+    "refNo": 38,
+    "title": "",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "In addition, a small percentage (around 5%) of CHME3 cells was found to express the MCHII antigen under basal conditions [37], and resting CHME3 cells were described as MHCII and CD11b positive by flow-cytometry [39].",
+    "refNo": 37,
+    "title": "",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "In addition, a small percentage (around 5%) of CHME3 cells was found to express the MCHII antigen under basal conditions [37], and resting CHME3 cells were described as MHCII and CD11b positive by flow-cytometry [39].",
+    "refNo": 39,
+    "title": "",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "Expression of CD11b and lack of GFAP was further confirmed at transcriptional level [40].",
+    "refNo": 40,
+    "title": "",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "In addition, it was shown that resting CHME3 cells expressed different toll-like receptors (TLRs), including TLR1, TLR2, and TLR 6; and that exposure to the HCV NS3 viral protein significantly increased the expression level of TLR2 and 6 [40].",
+    "refNo": 40,
+    "title": "",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "Expression of the M-CSF receptor was detected in the CHME3 cells, by western immunoblot analysis [41].",
+    "refNo": 41,
+    "title": "",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "Although the concept of microglial polarization has been recently challenged [42], the expression of specific M1-(like CD40 and CD86) and M2-(like CD163 and CD206) polarization markers has been detected in the CHME3 cells [37,39,43].",
+    "refNo": 42,
+    "title": "",
+    "marker_text": "[42]"
+  },
+  {
+    "sentence": "Although the concept of microglial polarization has been recently challenged [42], the expression of specific M1-(like CD40 and CD86) and M2-(like CD163 and CD206) polarization markers has been detected in the CHME3 cells [37,39,43].",
+    "refNo": 37,
+    "title": "",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "Although the concept of microglial polarization has been recently challenged [42], the expression of specific M1-(like CD40 and CD86) and M2-(like CD163 and CD206) polarization markers has been detected in the CHME3 cells [37,39,43].",
+    "refNo": 39,
+    "title": "",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "Although the concept of microglial polarization has been recently challenged [42], the expression of specific M1-(like CD40 and CD86) and M2-(like CD163 and CD206) polarization markers has been detected in the CHME3 cells [37,39,43].",
+    "refNo": 43,
+    "title": "",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "The majority of the CHME3 cells (approximately 30-60%) indeed express the CD40 antigen, whereas other markers (i.e., CD86; CD80; MHCII) were found in approximately 5-20% cells under basal conditions [37,43].",
+    "refNo": 37,
+    "title": "",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "The majority of the CHME3 cells (approximately 30-60%) indeed express the CD40 antigen, whereas other markers (i.e., CD86; CD80; MHCII) were found in approximately 5-20% cells under basal conditions [37,43].",
+    "refNo": 43,
+    "title": "",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "The stimulation of CHME3 cells with the amyloid beta peptide, Aβ 1-42 (1 μg/ml, consisting mainly of monomers and dimers), reduced the expression of CD40, leaving largely unaffected the levels of other polarization markers [43].",
+    "refNo": 43,
+    "title": "",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "Interestingly, microglial cells phagocytosing Aβ 1-42 mostly expressed M2-polarization markers, i.e., CD163 and CD206 [43].",
+    "refNo": 43,
+    "title": "",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "At higher concentrations (10-100 μg/ml), the Aβ 1-42 tended to form larger oligomers, together with fibrillary aggregates [44].",
+    "refNo": 44,
+    "title": "",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "In these conditions, the Aβ 1-42 peptide (10 μg/ml) seemed to favor microglial M1-polarization, as demonstrated by increased expression of CD40 and CD11b, and no substantial effects on the expression levels of several M2-polarization markers, including CD163, CD206, CD200R (a deactivating receptor) and CD33 (an endocytic marker) [39].",
+    "refNo": 39,
+    "title": "",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "When cultured in presence of neuronal precursor cells (NPCs), the CHME3 significantly upregulated the expression of MHCII antigens (up to 30%) together with the M2-polarization marker, CD206 [37].",
+    "refNo": 37,
+    "title": "",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "Finally, treatments of CHME3 with conditioned medium (CM) harvested from different glioma cell lines, i.e., U251, U87, LN229, U373, and A172 cells, resulted in the down-regulation of M1-specific (TNFα and CXCL10) and up-regulation of M2-specific polarization markers (IL-1 receptor antagonist and CD204) [41].",
+    "refNo": 41,
+    "title": "",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "These authors further show that M-CSF released by glioma cells increased the pro-angiogenetic properties of microglial CHME3 cells with no significant effects on their polarization [41].",
+    "refNo": 41,
+    "title": "",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "The authors reported that \"resting HMC3 cells were strongly positive for the microglia/macrophage marker IBA1 (Fig. 1a), positive for the endotoxin receptor CD14 (Fig. 1b), but negative for the astrocyte marker GFAP ( Fig. 1c and d).",
+    "refNo": 1,
+    "title": "Resting microglia directly monitor the functional state of synapses in vivo and determine the fate of ischemic terminals",
+    "marker_text": "1",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Markers of activated microglia, namely MHCII ( Fig. 1e and f ), CD68 ( Fig. 1g and h) and CD11b ( Fig. 1i and j), were negative in resting HMC3 cells, but upregulated after activation by IFNγ (10 ng/ml, 24 h)\", page 575 [20].",
+    "refNo": 20,
+    "title": "Metalloproteinases: a functional pathway for myeloid cells",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Markers of activated microglia, namely MHCII ( Fig. 1e and f ), CD68 ( Fig. 1g and h) and CD11b ( Fig. 1i and j), were negative in resting HMC3 cells, but upregulated after activation by IFNγ (10 ng/ml, 24 h)\", page 575 [20].",
+    "refNo": 1,
+    "title": "Resting microglia directly monitor the functional state of synapses in vivo and determine the fate of ischemic terminals",
+    "marker_text": "1",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "In our opinion, data shown by Li and colleagues in figure 1 of their paper [20] seem to indicate a similar low level of expression of both IBA1 and CD14 in the HMC3 cells under resting conditions.",
+    "refNo": 20,
+    "title": "Metalloproteinases: a functional pathway for myeloid cells",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Moreover, in contrast with the original characterization [17], resting HMC3 cells were found negative for the expression of CD68 and CD11b, albeit these activation markers were induced by IFNγ.",
+    "refNo": 17,
+    "title": "Dexmedetomidine inhibits inflammation in microglia cells under stimulation of LPS and ATP by c-Fos/ NLRP3/caspase-1 cascades",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Taken together, these data suggest that the HMC3 may have lost some of the original antigenic characteristics [17].",
+    "refNo": 17,
+    "title": "Dexmedetomidine inhibits inflammation in microglia cells under stimulation of LPS and ATP by c-Fos/ NLRP3/caspase-1 cascades",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Krause) by flow cytometric analysis using a specific antibody produced by BD-Pharmingen, CA, USA [29].",
+    "refNo": 29,
+    "title": "Japanese encephalitis virus exploits the microRNA-432 to regulate the expression of suppressor of cytokine signaling (SOCS) 5",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "In this study, it was also confirmed that resting HMC3 cells express IBA1, and at very low level other myeloid markers, including MHCII (HLA-DR), CD14, and CD45 [29].",
+    "refNo": 29,
+    "title": "Japanese encephalitis virus exploits the microRNA-432 to regulate the expression of suppressor of cytokine signaling (SOCS) 5",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "It has frequently been used to distinguish CNS resident microglia (CD11b + /CD45 low ) from peripheral macrophages (CD11b + /CD45 high ) [45].",
+    "refNo": 45,
+    "title": "",
+    "marker_text": "[45]"
+  },
+  {
+    "sentence": "However, it has recently been shown that the expression level of CD45 on microglial cells may vary under pathological conditions, and novel specific microglial biomarkers have been identified [1,2].",
+    "refNo": 1,
+    "title": "Resting microglia directly monitor the functional state of synapses in vivo and determine the fate of ischemic terminals",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "However, it has recently been shown that the expression level of CD45 on microglial cells may vary under pathological conditions, and novel specific microglial biomarkers have been identified [1,2].",
+    "refNo": 2,
+    "title": "Microglial interactions with synapses are modulated by visual experience",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Chemokines such as monocyte chemoattractant protein 1, macrophage inflammatory protein 1α, macrophage inflammatory protein 1β, RANTES, interleukin 8, and IP-10 induce migration and reorganization of the actin cytoskeleton in CHME3 cells, demonstrating their responsiveness to chemotactic cues ref [12].",
+    "refNo": 12,
+    "title": "Chemokines induce migration and changes in actin polymerization in adult rat brain microglia and a human fetal microglial cell line in vitro",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Similarly, neurotensin has been shown to elicit migration of human microglial cells via neurotensin receptor-3, triggering PI 3-kinase and MAP kinase pathways and inducing rapid formation of filopodia through F-actin remodeling ref [3].",
+    "refNo": 3,
+    "title": "Microglial displacement of inhibitory synapses provides neuroprotection in the adult brain",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "A description of the morphology of the immortalized microglial cells was initially reported by Janabi and colleagues [17].",
+    "refNo": 17,
+    "title": "Dexmedetomidine inhibits inflammation in microglia cells under stimulation of LPS and ATP by c-Fos/ NLRP3/caspase-1 cascades",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "When cultured on fibronectin-coated coverslips, the human microglial CHME3 cells showed mostly a globular morphology, detected by rhodamine-phalloidin staining, with a more intense signal surrounding the nucleus [35].",
+    "refNo": 35,
+    "title": "",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "However, both human and rodent microglia were able to migrate in response to several human chemokines showing a similar pattern, albeit the CHME3 cells responded to lower concentrations and in shorter times [35].",
+    "refNo": 35,
+    "title": "",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "The CHME3 cells have been mostly maintained in Dulbecco's modified MEM (DMEM), retaining their morphological features (i.e., globular cells with dark cytoplasmic vacuoles) [36,37].",
+    "refNo": 36,
+    "title": "",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "The CHME3 cells have been mostly maintained in Dulbecco's modified MEM (DMEM), retaining their morphological features (i.e., globular cells with dark cytoplasmic vacuoles) [36,37].",
+    "refNo": 37,
+    "title": "",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "On the other hand, a phase-contrast image of the HMC3 cells, published later by Etemad and colleagues [29], showed the presence of different morphological phenotypes in the same culture, including globular, bipolar, and very elongated cells.",
+    "refNo": 29,
+    "title": "Japanese encephalitis virus exploits the microRNA-432 to regulate the expression of suppressor of cytokine signaling (SOCS) 5",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "In line with the original characterization [17], it was later confirmed that the CHME3 cell line were CD68 EBM/11 positive and GFAP negative [35].",
+    "refNo": 17,
+    "title": "Dexmedetomidine inhibits inflammation in microglia cells under stimulation of LPS and ATP by c-Fos/ NLRP3/caspase-1 cascades",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "In line with the original characterization [17], it was later confirmed that the CHME3 cell line were CD68 EBM/11 positive and GFAP negative [35].",
+    "refNo": 35,
+    "title": "",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "Consistently, the expression of CD68 was detected in resting CHME3 cells using a different primary antibody (DAKO, UK) [38].",
+    "refNo": 38,
+    "title": "",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "In addition, a small percentage (around 5%) of CHME3 cells was found to express the MCHII antigen under basal conditions [37], and resting CHME3 cells were described as MHCII and CD11b positive by flow-cytometry [39].",
+    "refNo": 37,
+    "title": "",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "In addition, a small percentage (around 5%) of CHME3 cells was found to express the MCHII antigen under basal conditions [37], and resting CHME3 cells were described as MHCII and CD11b positive by flow-cytometry [39].",
+    "refNo": 39,
+    "title": "",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "Expression of CD11b and lack of GFAP was further confirmed at transcriptional level [40].",
+    "refNo": 40,
+    "title": "",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "In addition, it was shown that resting CHME3 cells expressed different toll-like receptors (TLRs), including TLR1, TLR2, and TLR 6; and that exposure to the HCV NS3 viral protein significantly increased the expression level of TLR2 and 6 [40].",
+    "refNo": 40,
+    "title": "",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "Expression of the M-CSF receptor was detected in the CHME3 cells, by western immunoblot analysis [41].",
+    "refNo": 41,
+    "title": "",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "Although the concept of microglial polarization has been recently challenged [42], the expression of specific M1-(like CD40 and CD86) and M2-(like CD163 and CD206) polarization markers has been detected in the CHME3 cells [37,39,43].",
+    "refNo": 42,
+    "title": "",
+    "marker_text": "[42]"
+  },
+  {
+    "sentence": "Although the concept of microglial polarization has been recently challenged [42], the expression of specific M1-(like CD40 and CD86) and M2-(like CD163 and CD206) polarization markers has been detected in the CHME3 cells [37,39,43].",
+    "refNo": 37,
+    "title": "",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "Although the concept of microglial polarization has been recently challenged [42], the expression of specific M1-(like CD40 and CD86) and M2-(like CD163 and CD206) polarization markers has been detected in the CHME3 cells [37,39,43].",
+    "refNo": 39,
+    "title": "",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "Although the concept of microglial polarization has been recently challenged [42], the expression of specific M1-(like CD40 and CD86) and M2-(like CD163 and CD206) polarization markers has been detected in the CHME3 cells [37,39,43].",
+    "refNo": 43,
+    "title": "",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "The majority of the CHME3 cells (approximately 30-60%) indeed express the CD40 antigen, whereas other markers (i.e., CD86; CD80; MHCII) were found in approximately 5-20% cells under basal conditions [37,43].",
+    "refNo": 37,
+    "title": "",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "The majority of the CHME3 cells (approximately 30-60%) indeed express the CD40 antigen, whereas other markers (i.e., CD86; CD80; MHCII) were found in approximately 5-20% cells under basal conditions [37,43].",
+    "refNo": 43,
+    "title": "",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "The stimulation of CHME3 cells with the amyloid beta peptide, Aβ 1-42 (1 μg/ml, consisting mainly of monomers and dimers), reduced the expression of CD40, leaving largely unaffected the levels of other polarization markers [43].",
+    "refNo": 43,
+    "title": "",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "Interestingly, microglial cells phagocytosing Aβ 1-42 mostly expressed M2-polarization markers, i.e., CD163 and CD206 [43].",
+    "refNo": 43,
+    "title": "",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "At higher concentrations (10-100 μg/ml), the Aβ 1-42 tended to form larger oligomers, together with fibrillary aggregates [44].",
+    "refNo": 44,
+    "title": "",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "In these conditions, the Aβ 1-42 peptide (10 μg/ml) seemed to favor microglial M1-polarization, as demonstrated by increased expression of CD40 and CD11b, and no substantial effects on the expression levels of several M2-polarization markers, including CD163, CD206, CD200R (a deactivating receptor) and CD33 (an endocytic marker) [39].",
+    "refNo": 39,
+    "title": "",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "When cultured in presence of neuronal precursor cells (NPCs), the CHME3 significantly upregulated the expression of MHCII antigens (up to 30%) together with the M2-polarization marker, CD206 [37].",
+    "refNo": 37,
+    "title": "",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "Finally, treatments of CHME3 with conditionedmedium (CM) harvested from different glioma cell lines, i.e., U251, U87, LN229, U373, and A172 cells, resulted in the down-regulation of M1-specific (TNFα and CXCL10) and up-regulation of M2-specific polarization markers (IL-1 receptor antagonist and CD204) [41].",
+    "refNo": 41,
+    "title": "",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "These authors further show that M-CSF released by glioma cells increased the pro-angiogenetic properties of microglial CHME3 cells with no significant effects on their polarization [41].",
+    "refNo": 41,
+    "title": "",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "The authors reported that \"resting HMC3 cells were strongly positive for the microglia/macrophage marker IBA1 (Fig. 1a), positive for the endotoxin receptor CD14 (Fig. 1b), but negative for the astrocyte marker GFAP ( Fig. 1c and d).",
+    "refNo": 1,
+    "title": "Resting microglia directly monitor the functional state of synapses in vivo and determine the fate of ischemic terminals",
+    "marker_text": "1",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Markers of activated microglia, namely MHCII ( Fig. 1e and f ), CD68 ( Fig. 1g and h) and CD11b ( Fig. 1i and j), were negative in resting HMC3 cells, but upregulated after activation by IFNγ (10 ng/ml, 24 h)\", page 575 [20].",
+    "refNo": 20,
+    "title": "Metalloproteinases: a functional pathway for myeloid cells",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Markers of activated microglia, namely MHCII ( Fig. 1e and f ), CD68 ( Fig. 1g and h) and CD11b ( Fig. 1i and j), were negative in resting HMC3 cells, but upregulated after activation by IFNγ (10 ng/ml, 24 h)\", page 575 [20].",
+    "refNo": 1,
+    "title": "Resting microglia directly monitor the functional state of synapses in vivo and determine the fate of ischemic terminals",
+    "marker_text": "1",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "In our opinion, data shown by Li and colleagues in figure 1 of their paper [20] seem to indicate a similar low level of expression of both IBA1 and CD14 in the HMC3 cells under resting conditions.",
+    "refNo": 20,
+    "title": "Metalloproteinases: a functional pathway for myeloid cells",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Moreover, in contrast with the original characterization [17], resting HMC3 cells were found negative for the expression of CD68 and CD11b, albeit these activation markers were induced by IFNγ.",
+    "refNo": 17,
+    "title": "Dexmedetomidine inhibits inflammation in microglia cells under stimulation of LPS and ATP by c-Fos/ NLRP3/caspase-1 cascades",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Taken together, these data suggest that the HMC3 may have lost some of the original antigenic characteristics [17].",
+    "refNo": 17,
+    "title": "Dexmedetomidine inhibits inflammation in microglia cells under stimulation of LPS and ATP by c-Fos/ NLRP3/caspase-1 cascades",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Krause) by flow cytometric analysis using a specific antibody produced by BD-Pharmingen, CA, USA [29].",
+    "refNo": 29,
+    "title": "Japanese encephalitis virus exploits the microRNA-432 to regulate the expression of suppressor of cytokine signaling (SOCS) 5",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "In this study, it was also confirmed that resting HMC3 cells express IBA1, and at very low level other myeloid markers, including MHCII (HLA-DR), CD14, and CD45 [29].",
+    "refNo": 29,
+    "title": "Japanese encephalitis virus exploits the microRNA-432 to regulate the expression of suppressor of cytokine signaling (SOCS) 5",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "It has frequently been used to distinguish CNS resident microglia (CD11b + /CD45 low ) from peripheral macrophages (CD11b + /CD45 high ) [45].",
+    "refNo": 45,
+    "title": "",
+    "marker_text": "[45]"
+  },
+  {
+    "sentence": "However, it has recently been shown that the expression level of CD45 on microglial cells may vary under pathological conditions, and novel specific microglial biomarkers have been identified [1,2].",
+    "refNo": 1,
+    "title": "Resting microglia directly monitor the functional state of synapses in vivo and determine the fate of ischemic terminals",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "However, it has recently been shown that the expression level of CD45 on microglial cells may vary under pathological conditions, and novel specific microglial biomarkers have been identified [1,2].",
+    "refNo": 2,
+    "title": "Microglial interactions with synapses are modulated by visual experience",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Particularly high levels of the CCR3, CXCR1, and CXCR3 receptors were expressed by the CHME3 cells, whereas the CCR2 receptor was barely detected [38].",
+    "refNo": 38,
+    "title": "",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Moreover, 24-h treatments with the pro-inflammatory cytokines, TNFα (25 ng/ml) or IFNγ (200 U/ml), induced a significant upregulation of CCR3 and a slight increase in the expression levels of CXCR3, suggesting a possible role of these receptors in CHME3 inflammatory activation [38].",
+    "refNo": 38,
+    "title": "",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "This can be taken as an indirect evidence of the human origin of these cells, thus excluding hypothetical contaminations with rodent cells [19].",
+    "refNo": 19,
+    "title": "HIV-1 Tat C modulates NOX2 and NOX4 expressions through miR-17 in a human microglial cell line",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Though the CCR10 receptor protein could not be measured by flow cytometry (due to the lack of specific antibodies at that time), an indirect evidence of the expression of this receptor on the surface of the CHME3 cells was obtained by evaluating the migration capacity of the cells in response to IP-10 [38].",
+    "refNo": 38,
+    "title": "",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Consistently, it has been shown that the HMC3 cells express at high levels the CXCR1, CXCR3, and CCR5 chemokine receptors, albeit also in this study, the cells were maintained in a highly enriched medium and at higher (15%) FCS concentrations [29].",
+    "refNo": 29,
+    "title": "Japanese encephalitis virus exploits the microRNA-432 to regulate the expression of suppressor of cytokine signaling (SOCS) 5",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "In these conditions, the expression level of CCR2 was very low, whereas the HMC3 cells expressed at higher levels, other chemokines receptors, including the CX3CR1 [29].",
+    "refNo": 29,
+    "title": "Japanese encephalitis virus exploits the microRNA-432 to regulate the expression of suppressor of cytokine signaling (SOCS) 5",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "The latter is currently regarded as a more specific microglial marker [2].",
+    "refNo": 2,
+    "title": "Microglial interactions with synapses are modulated by visual experience",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Finally, the expression of classic neurotransmitter receptors has been detected in resting CHME3 cells, with respect to the cholinergic receptor α7nAcR [44].",
+    "refNo": 44,
+    "title": "",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "On the other hand, the observation of a direct inhibition of cFos expression obtained with dexmedetomidine, a specific α2 adrenergic receptor agonist, would suggest the presence of these receptors on the HMC3 cell membranes [32].",
+    "refNo": 32,
+    "title": "",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "In addition, it has been documented the expression of functional neurotensin receptor 3 in the aliquot of cells named C13-NJ [46].",
+    "refNo": 46,
+    "title": "",
+    "marker_text": "[46]"
+  },
+  {
+    "sentence": "A description of the morphology of the immortalized microglial cells was initially reported by Janabi and colleagues [17].",
+    "refNo": 17,
+    "title": "Dexmedetomidine inhibits inflammation in microglia cells under stimulation of LPS and ATP by c-Fos/ NLRP3/caspase-1 cascades",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "When cultured on fibronectin-coated coverslips, the human microglial CHME3 cells showed mostly a globular morphology, detected by rhodamine-phalloidin staining, with a more intense signal surrounding the nucleus [35].",
+    "refNo": 35,
+    "title": "",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "However, both human and rodent microglia were able to migrate in response to several human chemokines showing a similar pattern, albeit the CHME3 cells responded to lower concentrations and in shorter times [35].",
+    "refNo": 35,
+    "title": "",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "The CHME3 cells have been mostly maintained in Dulbecco's modified MEM (DMEM), retaining their morphological features (i.e., globular cells with dark cytoplasmic vacuoles) [36,37].",
+    "refNo": 36,
+    "title": "",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "The CHME3 cells have been mostly maintained in Dulbecco's modified MEM (DMEM), retaining their morphological features (i.e., globular cells with dark cytoplasmic vacuoles) [36,37].",
+    "refNo": 37,
+    "title": "",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "On the other hand, a phase-contrast image of the HMC3 cells, published later by Etemad and colleagues [29], showed the presence of different morphological phenotypes in the same culture, including globular, bipolar, and very elongated cells.",
+    "refNo": 29,
+    "title": "Japanese encephalitis virus exploits the microRNA-432 to regulate the expression of suppressor of cytokine signaling (SOCS) 5",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "In line with the original characterization [17], it was later confirmed that the CHME3 cell line were CD68 EBM/11 positive and GFAP negative [35].",
+    "refNo": 17,
+    "title": "Dexmedetomidine inhibits inflammation in microglia cells under stimulation of LPS and ATP by c-Fos/ NLRP3/caspase-1 cascades",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "In line with the original characterization [17], it was later confirmed that the CHME3 cell line were CD68 EBM/11 positive and GFAP negative [35].",
+    "refNo": 35,
+    "title": "",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "Consistently, the expression of CD68 was detected in resting CHME3 cells using a different primary antibody (DAKO, UK) [38].",
+    "refNo": 38,
+    "title": "",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "In addition, a small percentage (around 5%) of CHME3 cells was found to express the MCHII antigen under basal conditions [37], and resting CHME3 cells were described as MHCII and CD11b positive by flow-cytometry [39].",
+    "refNo": 37,
+    "title": "",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "In addition, a small percentage (around 5%) of CHME3 cells was found to express the MCHII antigen under basal conditions [37], and resting CHME3 cells were described as MHCII and CD11b positive by flow-cytometry [39].",
+    "refNo": 39,
+    "title": "",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "Expression of CD11b and lack of GFAP was further confirmed at transcriptional level [40].",
+    "refNo": 40,
+    "title": "",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "In addition, it was shown that resting CHME3 cells expressed different toll-like receptors (TLRs), including TLR1, TLR2, and TLR 6; and that exposure to the HCV NS3 viral protein significantly increased the expression level of TLR2 and 6 [5].",
+    "refNo": 5,
+    "title": "Identification of a unique TGF-β-dependent molecular and functional signature in microglia",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Expression of the M-CSF receptor was detected in the CHME3 cells, by western immunoblot analysis [41].",
+    "refNo": 41,
+    "title": "",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "Although the concept of microglial polarization has been recently challenged [42], the expression of specific M1-(like CD40 and CD86) and M2-(like CD163 and CD206) polarization markers has been detected in the CHME3 cells [37,39,43].",
+    "refNo": 42,
+    "title": "",
+    "marker_text": "[42]"
+  },
+  {
+    "sentence": "Although the concept of microglial polarization has been recently challenged [42], the expression of specific M1-(like CD40 and CD86) and M2-(like CD163 and CD206) polarization markers has been detected in the CHME3 cells [37,39,43].",
+    "refNo": 37,
+    "title": "",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "Although the concept of microglial polarization has been recently challenged [42], the expression of specific M1-(like CD40 and CD86) and M2-(like CD163 and CD206) polarization markers has been detected in the CHME3 cells [37,39,43].",
+    "refNo": 39,
+    "title": "",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "Although the concept of microglial polarization has been recently challenged [42], the expression of specific M1-(like CD40 and CD86) and M2-(like CD163 and CD206) polarization markers has been detected in the CHME3 cells [37,39,43].",
+    "refNo": 43,
+    "title": "",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "The majority of the CHME3 cells (approximately 30-60%) indeed express the CD40 antigen, whereas other markers (i.e., CD86; CD80; MHCII) were found in approximately 5-20% cells under basal conditions [37,43].",
+    "refNo": 37,
+    "title": "",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "The majority of the CHME3 cells (approximately 30-60%) indeed express the CD40 antigen, whereas other markers (i.e., CD86; CD80; MHCII) were found in approximately 5-20% cells under basal conditions [37,43].",
+    "refNo": 43,
+    "title": "",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "The stimulation of CHME3 cells with the amyloid beta peptide, Aβ 1-42 (1 μg/ml, consisting mainly of monomers and dimers), reduced the expression of CD40, leaving largely unaffected the levels of other polarization markers [43].",
+    "refNo": 43,
+    "title": "",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "Interestingly, microglial cells phagocytosing Aβ 1-42 mostly expressed M2-polarization markers, i.e., CD163 and CD206 [43].",
+    "refNo": 43,
+    "title": "",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "At higher concentrations (10-100 μg/ml), the Aβ 1-42 tended to form larger oligomers, together with fibrillary aggregates [44].",
+    "refNo": 44,
+    "title": "",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "In these conditions, the Aβ 1-42 peptide (10 μg/ml) seemed to favor microglial M1-polarization, as demonstrated by increased expression of CD40 and CD11b, and no substantial effects on the expression levels of several M2-polarization markers, including CD163, CD206, CD200R (a deactivating receptor) and CD33 (an endocytic marker) [39].",
+    "refNo": 39,
+    "title": "",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "When cultured in presence of neuronal precursor cells (NPCs), the CHME3 significantly upregulated the expression of MHCII antigens (up to 30%) together with the M2-polarization marker, CD206 [37].",
+    "refNo": 37,
+    "title": "",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "Finally, treatments of CHME3 with conditionedmedium (CM) harvested from different glioma cell lines, i.e., U251, U87, LN229, U373, and A172 cells, resulted in the down-regulation of M1-specific (TNFα and CXCL10) and up-regulation of M2-specific polarization markers (IL-1 receptor antagonist and CD204) [41].",
+    "refNo": 41,
+    "title": "",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "These authors further show that M-CSF released by glioma cells increased the pro-angiogenetic properties of microglial CHME3 cells with no significant effects on their polarization [41].",
+    "refNo": 41,
+    "title": "",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "The authors reported that \"resting HMC3 cells were strongly positive for the microglia/macrophage marker IBA1 (Fig. 1a), positive for the endotoxin receptor CD14 (Fig. 1b), but negative for the astrocyte marker GFAP ( Fig. 1c and d).",
+    "refNo": 1,
+    "title": "Resting microglia directly monitor the functional state of synapses in vivo and determine the fate of ischemic terminals",
+    "marker_text": "1",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Markers of activated microglia, namely MHCII ( Fig. 1e and f ), CD68 ( Fig. 1g and h) and CD11b ( Fig. 1i and j), were negative in resting HMC3 cells, but upregulated after activation by IFNγ (10 ng/ml, 24 h)\", page 575 [3].",
+    "refNo": 3,
+    "title": "Microglial displacement of inhibitory synapses provides neuroprotection in the adult brain",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Markers of activated microglia, namely MHCII ( Fig. 1e and f ), CD68 ( Fig. 1g and h) and CD11b ( Fig. 1i and j), were negative in resting HMC3 cells, but upregulated after activation by IFNγ (10 ng/ml, 24 h)\", page 575 [3].",
+    "refNo": 1,
+    "title": "Resting microglia directly monitor the functional state of synapses in vivo and determine the fate of ischemic terminals",
+    "marker_text": "1",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "In our opinion, data shown by Li and colleagues in figure 1 of their paper [3] seem to indicate a similar low level of expression of both IBA1 and CD14 in the HMC3 cells under resting conditions.",
+    "refNo": 3,
+    "title": "Microglial displacement of inhibitory synapses provides neuroprotection in the adult brain",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Moreover, in contrast with the original characterization [17], resting HMC3 cells were found negative for the expression of CD68 and CD11b, albeit these activation markers were induced by IFNγ.",
+    "refNo": 17,
+    "title": "Dexmedetomidine inhibits inflammation in microglia cells under stimulation of LPS and ATP by c-Fos/ NLRP3/caspase-1 cascades",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Taken together, these data suggest that the HMC3 may have lost some of the original antigenic characteristics [17].",
+    "refNo": 17,
+    "title": "Dexmedetomidine inhibits inflammation in microglia cells under stimulation of LPS and ATP by c-Fos/ NLRP3/caspase-1 cascades",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Krause) by flow cytometric analysis using a specific antibody produced by BD-Pharmingen, CA, USA [29].",
+    "refNo": 29,
+    "title": "Japanese encephalitis virus exploits the microRNA-432 to regulate the expression of suppressor of cytokine signaling (SOCS) 5",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "In this study, it was also confirmed that resting HMC3 cells express IBA1, and at very low level other myeloid markers, including MHCII (HLA-DR), CD14, and CD45 [29].",
+    "refNo": 29,
+    "title": "Japanese encephalitis virus exploits the microRNA-432 to regulate the expression of suppressor of cytokine signaling (SOCS) 5",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "It has frequently been used to distinguish CNS resident microglia (CD11b + /CD45 low ) from peripheral macrophages (CD11b + /CD45 high ) [45].",
+    "refNo": 45,
+    "title": "",
+    "marker_text": "[45]"
+  },
+  {
+    "sentence": "However, it has recently been shown that the expression level of CD45 on microglial cells may vary under pathological conditions, and novel specific microglial biomarkers have been identified [1,2].",
+    "refNo": 1,
+    "title": "Resting microglia directly monitor the functional state of synapses in vivo and determine the fate of ischemic terminals",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "However, it has recently been shown that the expression level of CD45 on microglial cells may vary under pathological conditions, and novel specific microglial biomarkers have been identified [1,2].",
+    "refNo": 2,
+    "title": "Microglial interactions with synapses are modulated by visual experience",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Particularly high levels of the CCR3, CXCR1, and CXCR3 receptors were expressed by the CHME3 cells, whereas the CCR2 receptor was barely detected [38].",
+    "refNo": 38,
+    "title": "",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Moreover, 24-h treatments with the pro-inflammatory cytokines, TNFα (25 ng/ml) or IFNγ (200 U/ml), induced a significant upregulation of CCR3 and a slight increase in the expression levels of CXCR3, suggesting a possible role of these receptors in CHME3 inflammatory activation [38].",
+    "refNo": 38,
+    "title": "",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "This can be taken as an indirect evidence of the human origin of these cells, thus excluding hypothetical contaminations with rodent cells [19].",
+    "refNo": 19,
+    "title": "HIV-1 Tat C modulates NOX2 and NOX4 expressions through miR-17 in a human microglial cell line",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Though the CCR10 receptor protein could not be measured by flow cytometry (due to the lack of specific antibodies at that time), an indirect evidence of the expression of this receptor on the surface of the CHME3 cells was obtained by evaluating the migration capacity of the cells in response to IP-10 [38].",
+    "refNo": 38,
+    "title": "",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Consistently, it has been shown that the HMC3 cells express at high levels the CXCR1, CXCR3, and CCR5 chemokine receptors, albeit also in this study, the cells were maintained in a highly enriched medium and at higher (15%) FCS concentrations [29].",
+    "refNo": 29,
+    "title": "Japanese encephalitis virus exploits the microRNA-432 to regulate the expression of suppressor of cytokine signaling (SOCS) 5",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "In these conditions, the expression level of CCR2 was very low, whereas the HMC3 cells expressed at higher levels, other chemokines receptors, including the CX3CR1 [29].",
+    "refNo": 29,
+    "title": "Japanese encephalitis virus exploits the microRNA-432 to regulate the expression of suppressor of cytokine signaling (SOCS) 5",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "The latter is currently regarded as a more specific microglial marker [2].",
+    "refNo": 2,
+    "title": "Microglial interactions with synapses are modulated by visual experience",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Finally, the expression of classic neurotransmitter receptors has been detected in resting CHME3 cells, with respect to the cholinergic receptor α7nAcR [44].",
+    "refNo": 44,
+    "title": "",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "On the other hand, the observation of a direct inhibition of cFos expression obtained with dexmedetomidine, a specific α2 adrenergic receptor agonist, would suggest the presence of these receptors on the HMC3 cell membranes [4].",
+    "refNo": 4,
+    "title": "Cellular and molecular characterization of microglia: a unique immune cell population",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "In addition, it has been documented the expression of functional neurotensin receptor 3 in the aliquot of cells named C13-NJ [46].",
+    "refNo": 46,
+    "title": "",
+    "marker_text": "[46]"
+  },
+  {
+    "sentence": "In agreement with the original characterization [17], the CHME3 cells were found to release sizable amounts of IL-6 in the incubation medium, with a very low or undetectable secretion of other inflammatory molecules, including TNFα, IL-1α, IL-1β, and caspase-1 [47].",
+    "refNo": 17,
+    "title": "Dexmedetomidine inhibits inflammation in microglia cells under stimulation of LPS and ATP by c-Fos/ NLRP3/caspase-1 cascades",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "In agreement with the original characterization [17], the CHME3 cells were found to release sizable amounts of IL-6 in the incubation medium, with a very low or undetectable secretion of other inflammatory molecules, including TNFα, IL-1α, IL-1β, and caspase-1 [47].",
+    "refNo": 47,
+    "title": "",
+    "marker_text": "[47]"
+  },
+  {
+    "sentence": "Consistently, the proportion of resting cells showing a positive immunoreactivity for IL-1β and its receptor, IL-1RI, was quantified as 2.9% and 12.5% of the total, respectively [36].",
+    "refNo": 36,
+    "title": "",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "The production of TNFα was later estimated to be in the range of 4-28 pg/ml, 24 h after plating under basal conditions [43,44].",
+    "refNo": 43,
+    "title": "",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "The production of TNFα was later estimated to be in the range of 4-28 pg/ml, 24 h after plating under basal conditions [43,44].",
+    "refNo": 44,
+    "title": "",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "On the other hand, basal IL-6 production by CHME3 cells was far more abundant and varied between 20 and 950 pg/ml in serum free medium after 24-h incubation [36,43].",
+    "refNo": 36,
+    "title": "",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "On the other hand, basal IL-6 production by CHME3 cells was far more abundant and varied between 20 and 950 pg/ml in serum free medium after 24-h incubation [36,43].",
+    "refNo": 43,
+    "title": "",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "Similar results with respect to IL-6 and TNFα basal production were also reported by Liu J and collaborators [37].",
+    "refNo": 37,
+    "title": "",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "Finally, it was detected under basal conditions, a marginal secretion of anti-inflammatory cytokines, including IL-10 (around 5.4 pg/ml) [43], TGFβ1, and TGFβ2 [37].",
+    "refNo": 43,
+    "title": "",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "Finally, it was detected under basal conditions, a marginal secretion of anti-inflammatory cytokines, including IL-10 (around 5.4 pg/ml) [43], TGFβ1, and TGFβ2 [37].",
+    "refNo": 37,
+    "title": "",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "Moreover, the total fraction of iNOS positive cells did not vary in response to the Aβ 1-42 peptide, even though a larger percentage of iNOS + /Aβ 1-42 + cells was detected at different time points (24-96 h incubations) [ref [14]].",
+    "refNo": 14,
+    "title": "Effects of immunomodulatory substances on phagocytosis of a beta(1-42) by human microglia",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "These data would therefore suggest that the expression of iNOS in the CHME3 cells is related to their phagocytic capacity [ref [14]].",
+    "refNo": 14,
+    "title": "Effects of immunomodulatory substances on phagocytosis of a beta(1-42) by human microglia",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Detection of iNOS mRNA was shown in CHME3 cells co-cultured with differentiated SH-SY5Y neuronal cells [ref [15]], as well as in resting HMC3 [ref [15]] (as discussed above).",
+    "refNo": 15,
+    "title": "Omega-3 fatty acids enhance phagocytosis of Alzheimer's disease-related amyloid-β42 by human microglia and decrease inflammatory markers",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Detection of iNOS mRNA was shown in CHME3 cells co-cultured with differentiated SH-SY5Y neuronal cells [ref [15]], as well as in resting HMC3 [ref [15]] (as discussed above).",
+    "refNo": 15,
+    "title": "Omega-3 fatty acids enhance phagocytosis of Alzheimer's disease-related amyloid-β42 by human microglia and decrease inflammatory markers",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "On the other hand, it has been shown that the HMC3 cells spontaneously release sizable amount of free oxygen radicals (ROS) ( [ref [15]]; Table 2).",
+    "refNo": 15,
+    "title": "Omega-3 fatty acids enhance phagocytosis of Alzheimer's disease-related amyloid-β42 by human microglia and decrease inflammatory markers",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Noteworthy, cells were maintained according to the original protocol [ref [15]], in EMEM supplemented with 10% FCS, and antibiotics, at 37°C in a 10% CO 2 humidified atmosphere.",
+    "refNo": 15,
+    "title": "Omega-3 fatty acids enhance phagocytosis of Alzheimer's disease-related amyloid-β42 by human microglia and decrease inflammatory markers",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "The production of ROS appeared to be mediated by NOX4 activity, and it was not significantly modulated by short term (2 h) treatments with IFNγ [ref [15]].",
+    "refNo": 15,
+    "title": "Omega-3 fatty acids enhance phagocytosis of Alzheimer's disease-related amyloid-β42 by human microglia and decrease inflammatory markers",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Consistently, Jadhav and collaborators have shown a basal production of ROS by the HMC3 cells, with a modest (0.15-fold) increase induced by treatment with the HIV TAT-C protein ( [ref [15]]; Table 2).",
+    "refNo": 15,
+    "title": "Omega-3 fatty acids enhance phagocytosis of Alzheimer's disease-related amyloid-β42 by human microglia and decrease inflammatory markers",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Similar effects were also observed with respect to the expression of certain pro-inflammatory cytokines, i.e., IL-1β, IL-6, and TNFα [ref [15]].",
+    "refNo": 15,
+    "title": "Omega-3 fatty acids enhance phagocytosis of Alzheimer's disease-related amyloid-β42 by human microglia and decrease inflammatory markers",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Interestingly, this research group had previously shown the ability of the HIV TAT-C protein to modulate the expression of miR-32 and TRAF3 in human microglial cells [ref [15]].",
+    "refNo": 15,
+    "title": "Omega-3 fatty acids enhance phagocytosis of Alzheimer's disease-related amyloid-β42 by human microglia and decrease inflammatory markers",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Krause [ref [15]].",
+    "refNo": 15,
+    "title": "Omega-3 fatty acids enhance phagocytosis of Alzheimer's disease-related amyloid-β42 by human microglia and decrease inflammatory markers",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "As discussed above, the HMC3 cells displayed lower phagocytosis activity in comparison to the primary culture used for the immortalization procedure [17].",
+    "refNo": 17,
+    "title": "Dexmedetomidine inhibits inflammation in microglia cells under stimulation of LPS and ATP by c-Fos/ NLRP3/caspase-1 cascades",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "The phagocytic ability of the CHME3 cells was later confirmed by exposing the culture to fluorescent Aβ 1-42 (at concentrations < 5 μg/ml) [36,39,43].",
+    "refNo": 36,
+    "title": "",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "The phagocytic ability of the CHME3 cells was later confirmed by exposing the culture to fluorescent Aβ 1-42 (at concentrations < 5 μg/ml) [36,39,43].",
+    "refNo": 39,
+    "title": "",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "The phagocytic ability of the CHME3 cells was later confirmed by exposing the culture to fluorescent Aβ 1-42 (at concentrations < 5 μg/ml) [36,39,43].",
+    "refNo": 43,
+    "title": "",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "The activity was particularly relevant at 5 μg/ml concentrations of Aβ 1-42, despite a significant increase in cell toxicity [36].",
+    "refNo": 36,
+    "title": "",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "As discussed above, phagocytic CHME3 cells displayed mostly M2-polarization markers, including CD163 and CD206 [43].",
+    "refNo": 43,
+    "title": "",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "In contrast, IL-1β per se had no effects on the CHME3 phagocytic activity, despite its relevant stimulatory action on IL-6 production (as discussed above) [36].",
+    "refNo": 36,
+    "title": "",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "Interestingly, the Aβ 1-42 phagocytic ability of the CHME3 cells was significantly increased by treatment with the ω-3 fatty acids, DHA, and EPA [43], and by the pro-resolving inflammatory lipid mediator, maresin (MaR1), a derivative of DHA, in short-term incubation (1-6 h) experiments [39].",
+    "refNo": 43,
+    "title": "",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "Interestingly, the Aβ 1-42 phagocytic ability of the CHME3 cells was significantly increased by treatment with the ω-3 fatty acids, DHA, and EPA [43], and by the pro-resolving inflammatory lipid mediator, maresin (MaR1), a derivative of DHA, in short-term incubation (1-6 h) experiments [39].",
+    "refNo": 39,
+    "title": "",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "In the CHME3 cells, phagocytosis was also assessed by exposure to latex beads and subsequent quantification by flow cytometry and confocal microscopy [37].",
+    "refNo": 37,
+    "title": "",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "The phagocytic ability of microglial cells significantly increased when cells were cultured in presence of human NPCs [37].",
+    "refNo": 37,
+    "title": "",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "Interestingly, it has been recently shown that the CHME3 cells can reduce the extent of extracellular accumulation of sAPPα and Aβ 1-40 when co-cultured with differentiated SH swe neuronal cells [50].",
+    "refNo": 50,
+    "title": "",
+    "marker_text": "[50]"
+  },
+  {
+    "sentence": "In co-culture with SH swe neurons, CHME3 microglial cells progressively up-regulated senescence markers, an effect that can possibly explain the reduced efficiency in the Aβ clearance [50].",
+    "refNo": 50,
+    "title": "",
+    "marker_text": "[50]"
+  },
+  {
+    "sentence": "In addition, exosomes derived from SH swe cells were more toxic than those released by SH wild type cells, and microglial cells appeared to be activated in response to SH swe -exosomes [50].",
+    "refNo": 50,
+    "title": "",
+    "marker_text": "[50]"
+  },
+  {
+    "sentence": "Finally, it has been shown that the HIV TAT-C protein is efficiently internalized by the CHME3 cells, and can be detected within cell nuclei [63].",
+    "refNo": 63,
+    "title": "",
+    "marker_text": "[63]"
+  },
+  {
+    "sentence": "Chemokines such as MCP-1, MIP-1β, RANTES, IL-8, and Fractalkine significantly upregulate the secretion of MMP-2 and MMP-9, as well as their natural inhibitors TIMP-1 and TIMP-2, in CHME3 cells after 24 h stimulation, indicating a dynamic balance in ECM regulation [2].",
+    "refNo": 2,
+    "title": "Microglial interactions with synapses are modulated by visual experience",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Furthermore, in response to Mycobacterium tuberculosis-infected monocyte conditioned medium, CHME3 cells upregulate MMP-1 and MMP-3 expression and secretion via a p38 MAPK-dependent pathway, highlighting their role in neuroinflammatory tissue degradation [3].",
+    "refNo": 3,
+    "title": "Microglial displacement of inhibitory synapses provides neuroprotection in the adult brain",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "These findings align with broader evidence that myeloid cells, including microglia, utilize metalloproteinases as a functional pathway to mediate proteolytic cascades, cell migration, and signaling during immune and inflammatory responses [1].",
+    "refNo": 1,
+    "title": "Resting microglia directly monitor the functional state of synapses in vivo and determine the fate of ischemic terminals",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "It is currently known that chemokines play an important role in the regulation of myeloid cell function, particularly in the control of cell migration within tissues during inflammation, but also in development and tissue repair [64].",
+    "refNo": 64,
+    "title": "",
+    "marker_text": "[64]"
+  },
+  {
+    "sentence": "In particular, chemokines can regulate macrophage/microglia migration to the site of inflammation and in the CNS; they mediate the crosstalk with different cell types, for example, between microglia and neurons or astrocytes [65].",
+    "refNo": 65,
+    "title": "",
+    "marker_text": "[65]"
+  },
+  {
+    "sentence": "Accordingly, the expression of specific chemokine receptors was observed in both the CHME3 and the HMC3 cells, with a similar pattern [29,38].",
+    "refNo": 29,
+    "title": "Japanese encephalitis virus exploits the microRNA-432 to regulate the expression of suppressor of cytokine signaling (SOCS) 5",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Accordingly, the expression of specific chemokine receptors was observed in both the CHME3 and the HMC3 cells, with a similar pattern [29,38].",
+    "refNo": 38,
+    "title": "",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Consistently, the CHME3 cell were able to migrate in response to different chemokines (i.e., MCP-1, MIP-1α, MIP-1β, RANTES, IL-8, and IP-10) [35], albeit IP-10 seemed to reduce cell viability, measured by MTT assay [38].",
+    "refNo": 35,
+    "title": "",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "Consistently, the CHME3 cell were able to migrate in response to different chemokines (i.e., MCP-1, MIP-1α, MIP-1β, RANTES, IL-8, and IP-10) [35], albeit IP-10 seemed to reduce cell viability, measured by MTT assay [38].",
+    "refNo": 38,
+    "title": "",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Furthermore, matrix metalloproteases (MMPs) are important enzymes that favor the remodeling of the extracellular milieu, thus increasing immune cell motility and migratory capability [66].",
+    "refNo": 66,
+    "title": "",
+    "marker_text": "[66]"
+  },
+  {
+    "sentence": "Consistently, it was shown that the CHME3 cells can secrete in the incubation medium sizable amounts of MMP2 under basal conditions [67].",
+    "refNo": 67,
+    "title": "",
+    "marker_text": "[67]"
+  },
+  {
+    "sentence": "Chemokines were also able to increase the release of specific tissue MMP inhibitors, namely TIMP1 and 2, by the CHME3 cells [67].",
+    "refNo": 67,
+    "title": "",
+    "marker_text": "[67]"
+  },
+  {
+    "sentence": "This study, however, showed a certain degree of variability in the CHME3 responses, with functional effects of some chemokines observed in some experiments but not in all [67].",
+    "refNo": 67,
+    "title": "",
+    "marker_text": "[67]"
+  },
+  {
+    "sentence": "Moreover, the CHME3 cells released increased amounts of MMP-1 and MMP-3 in response to CM, harvested from human peripheral blood monocytes infected with Mycobacterium tuberculosis (coMTb), in a concentration and time-dependent manner [68].",
+    "refNo": 68,
+    "title": "",
+    "marker_text": "[68]"
+  },
+  {
+    "sentence": "Interestingly, basal ERK activity was detected in CHME3 cells [68].",
+    "refNo": 68,
+    "title": "",
+    "marker_text": "[68]"
+  },
+  {
+    "sentence": "In addition, the CHME3 cells express ADAMTS-13, an enzyme belonging to the ADAMTS family of metalloproteases and mainly synthesized in the liver [69].",
+    "refNo": 69,
+    "title": "",
+    "marker_text": "[69]"
+  },
+  {
+    "sentence": "Other cytokines, including IL-6 and TNFα, had no inhibitory effects [69].",
+    "refNo": 69,
+    "title": "",
+    "marker_text": "[69]"
+  },
+  {
+    "sentence": "The HMC3 cell line has been utilized to study viral interactions with human microglia, including infection by HIV-1, which exploits microglial cells as a reservoir within the CNS ref [24].",
+    "refNo": 24,
+    "title": "Identification of unique hepatitis C virus quasispecies in the central nervous system and comparative analysis of internal translational efficiency of brain, liver, and serum variants",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Similarly, hepatitis C virus (HCV) has been detected in the central nervous system, with unique quasispecies identified in brain tissue, suggesting neurotropism and potential direct interaction with microglial populations ref [25].",
+    "refNo": 25,
+    "title": "Axl mediates Zika virus entry in human glial cells and modulates innate immune responses",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Furthermore, the Axl receptor, expressed on human microglia and astrocytes, has been shown to mediate entry of Zika virus (ZIKV) into glial cells and to modulate innate immune responses during infection, highlighting a key mechanism of neurotropism in human microglial models ref [4].",
+    "refNo": 4,
+    "title": "Cellular and molecular characterization of microglia: a unique immune cell population",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Accordingly, a basal production of pro-resolving inflammatory mediators have been observed, including lipoxin A4 (LXA4, approximately 250 pg/ml) and resolving D1 (RvD1, approximately 200 pg/ml) [44].",
+    "refNo": 44,
+    "title": "",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "A basal release of brain derived neurotrophic factor (BDNF) was assessed and quantified within the range of 8-300 pg/ml 24 h after plating [36].",
+    "refNo": 36,
+    "title": "",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "Similar results on basal BDNF production were also later shown [37].",
+    "refNo": 37,
+    "title": "",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "Interestingly, the Aβ 1-42 peptide (5 μg/ml) significantly reduced the release of BDNF by CHME3 cells, an effect that can potentially exacerbate neuronal damage [36].",
+    "refNo": 36,
+    "title": "",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "However, when tested at lower concentrations, the Aβ 1-42 peptide did not modify the secretion of BDNF [36,43].",
+    "refNo": 36,
+    "title": "",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "However, when tested at lower concentrations, the Aβ 1-42 peptide did not modify the secretion of BDNF [36,43].",
+    "refNo": 43,
+    "title": "",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "Interestingly, the release of BDNF was augmented by treatment with the ω-3 fatty acid EPA, whereas DHA had no significant stimulatory effect [43].",
+    "refNo": 43,
+    "title": "",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "Both factors were implicated in the pro-angiogenetic effects of microglial cells [41].",
+    "refNo": 41,
+    "title": "",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "HIV-1 Tat C-mediated upregulation of miR-32 leads to suppression of TRAF3, thereby altering TNF signaling and promoting neuroinflammation [9].",
+    "refNo": 9,
+    "title": "Establishment of human microglial cell lines after transfection of primary cultures of embryonic microglial cells with the SV40 large T antigen",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Similarly, Hepatitis C virus NS3 triggers microglial inflammation via the TLR2/TLR6 MyD88/NF-κB pathway, demonstrating a direct link between viral proteins and innate immune activation in these cells [2].",
+    "refNo": 2,
+    "title": "Microglial interactions with synapses are modulated by visual experience",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "In the context of Japanese encephalitis virus (JEV), miR-155 induction in CHME3 cells suppresses viral replication while simultaneously negatively modulating innate immune responses, indicating a dual regulatory role [4].",
+    "refNo": 4,
+    "title": "Cellular and molecular characterization of microglia: a unique immune cell population",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Conversely, miR-146a is upregulated during JEV infection and suppresses the cellular immune response by targeting the NF-κB and Jak-STAT pathways, facilitating viral immune evasion [5].",
+    "refNo": 5,
+    "title": "Identification of a unique TGF-β-dependent molecular and functional signature in microglia",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Furthermore, JEV exploits downregulation of miR-432 to upregulate SOCS5, thereby inhibiting STAT1 phosphorylation and dampening the antiviral inflammatory response [8].",
+    "refNo": 8,
+    "title": "In vitro production of IL-6, IL-1 beta, and tumor necrosis factor-alpha by human embryonic microglial and neural cells",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Teriflunomide and monomethylfumarate have been shown to significantly reduce the secretion of pro-inflammatory cytokines (CXCL10, CCL2, IL-6) in HMC3 cells co-cultured with HIV-infected monocytes, highlighting their potential as therapeutic modulators of microglial neuroinflammation [1].",
+    "refNo": 1,
+    "title": "Resting microglia directly monitor the functional state of synapses in vivo and determine the fate of ischemic terminals",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Caution should be taken with data obtained using microglial cells named CHME-5, since it has been reported that several aliquots in use in different laboratories were cross contaminated by rat glioma cells [19].",
+    "refNo": 19,
+    "title": "HIV-1 Tat C modulates NOX2 and NOX4 expressions through miR-17 in a human microglial cell line",
+    "marker_text": "[19]"
+  }
+]

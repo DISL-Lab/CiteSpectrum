@@ -1,0 +1,1160 @@
+[
+  {
+    "sentence": "Magnesium (Mg) is the sixth most abundant element in the earth's crust comprising about 2.7% of its composition [1].",
+    "refNo": 1,
+    "title": "Review of selective laser melting: Materials and applications",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Magnesium based materials are preferred when targeting weight-sensitive applications, as they are the lightest structural material available with a density of only 1.74 g/cc which is ~33%, ~61% and ~77% lower than that of aluminium, titanium, and iron, respectively [2].",
+    "refNo": 2,
+    "title": "Binding mechanisms in selective laser sintering and selective laser melting",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Other than its low density, magnesium based materials also exhibit high specific mechanical properties, excellent castability and machinability, high damping characteristics, high thermal stability, high thermal and electrical conductivity, and resistance to electromagnetic radiation [3][4][5][6][7].",
+    "refNo": 3,
+    "title": "Laser additive manufacturing of metallic components: Materials, processes and mechanisms",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Other than its low density, magnesium based materials also exhibit high specific mechanical properties, excellent castability and machinability, high damping characteristics, high thermal stability, high thermal and electrical conductivity, and resistance to electromagnetic radiation [3][4][5][6][7].",
+    "refNo": 4,
+    "title": "The metallurgy and processing science of metal additive manufacturing",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Other than its low density, magnesium based materials also exhibit high specific mechanical properties, excellent castability and machinability, high damping characteristics, high thermal stability, high thermal and electrical conductivity, and resistance to electromagnetic radiation [3][4][5][6][7].",
+    "refNo": 5,
+    "title": "Laser and electron-beam powder-bed additive manufacturing of metallic implants: A review on processes, materials and designs",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Other than its low density, magnesium based materials also exhibit high specific mechanical properties, excellent castability and machinability, high damping characteristics, high thermal stability, high thermal and electrical conductivity, and resistance to electromagnetic radiation [3][4][5][6][7].",
+    "refNo": 6,
+    "title": "Magnesium biomaterials for orthopedic application: A review from a biological perspective",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Other than its low density, magnesium based materials also exhibit high specific mechanical properties, excellent castability and machinability, high damping characteristics, high thermal stability, high thermal and electrical conductivity, and resistance to electromagnetic radiation [3][4][5][6][7].",
+    "refNo": 7,
+    "title": "The history of biodegradable magnesium implants: A review",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "However, the application areas of magnesium have been limited by its low corrosion resistance and relatively poor mechanical properties, such as low elastic modulus, low strength, limited room temperature ductility and toughness, rapid loss of strength with temperature, and poor creep resistance [8,9].",
+    "refNo": 8,
+    "title": "Biodegradable magnesium-based screw clinically equivalent to titanium screw in hallux valgus surgery: Short term results of the first prospective, randomized, controlled clinical pilot study",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "However, the application areas of magnesium have been limited by its low corrosion resistance and relatively poor mechanical properties, such as low elastic modulus, low strength, limited room temperature ductility and toughness, rapid loss of strength with temperature, and poor creep resistance [8,9].",
+    "refNo": 9,
+    "title": "Magnesium and its alloys as orthopedic biomaterials: A review",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Laser processing parameters such as laser power, scanning speed, hatch spacing, and layer thickness have significant impacts on the resulting relative density of SLM-produced samples [75].",
+    "refNo": 75,
+    "title": "",
+    "marker_text": "[75]"
+  },
+  {
+    "sentence": "Also, the range of suitable processing parameters obtained is found to be dependent on the chemical composition of the primary alloys [52].",
+    "refNo": 52,
+    "title": "",
+    "marker_text": "[52]"
+  },
+  {
+    "sentence": "Higher vapour pressure and low boiling points of elements like magnesium and zinc can lead to preferential element vaporization during the interaction between laser and magnesium alloys [94].",
+    "refNo": 94,
+    "title": "",
+    "marker_text": "[94]"
+  },
+  {
+    "sentence": "Intrinsic vaporization of elements at the melt pool surface during laser processing takes place initially by the transportation of vaporization elements from the bulk to the surface of the molten pool, followed by vaporization of elements at the liquid/vapour interface; then the vaporized species are transported into the surrounding gas phases [106].",
+    "refNo": 106,
+    "title": "",
+    "marker_text": "[106]"
+  },
+  {
+    "sentence": "Sometimes, because of low diffusivity, the vaporized species are re-condensed and deposited back immediately around the laser irradiated zones and are remelted during subsequent scanning to compensate for the initial losses [62].",
+    "refNo": 62,
+    "title": "",
+    "marker_text": "[62]"
+  },
+  {
+    "sentence": "However, condensation of volatile alloy constituents on the surface of the molten pool to a greater extent can lead to formation of a black coating [107].",
+    "refNo": 107,
+    "title": "",
+    "marker_text": "[107]"
+  },
+  {
+    "sentence": "During SLM of AZ91D alloys, Wei et al. [61].",
+    "refNo": 61,
+    "title": "",
+    "marker_text": "[61]"
+  },
+  {
+    "sentence": "Similar results were observed in case of ZK60 alloys [62], wherein a larger reduction in the content of both Mg and Zn was reported at slower scanning speed with subsequent enrichment of Zr after processing.",
+    "refNo": 62,
+    "title": "",
+    "marker_text": "[62]"
+  },
+  {
+    "sentence": "Though evaporation during SLM is known to be a problem for aluminium alloys, it did not appear to be so detrimental in the processing of Mg-9%Al alloys [60].",
+    "refNo": 60,
+    "title": "",
+    "marker_text": "[60]"
+  },
+  {
+    "sentence": "The term \"laser\" implies that a laser is used for processing, \"melting\" refers to the particular situation in which powders are completely melted and the term \"selective\" specifies that only partial powder is processed [28].",
+    "refNo": 28,
+    "title": "Improved corrosion and wear resistance of Mg alloys via laser surface modification of Al on AZ31B",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "The SLM system generally is comprised of a processing laser, an automatic powder delivery system, a building platform, a controlling computer system, and main accessorial parts (e.g., inert gas system protection, roller/scrapper for powder deposition, and an overflow container) [34].",
+    "refNo": 34,
+    "title": "Time-dependent electrochemical characterization of the corrosion of a magnesium rare-earth alloy in simulated body fluids",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "The quality of powder also determines physical variables, such as flowability (how well a powder flows) and apparent density (how well a powder packs) [86].",
+    "refNo": 86,
+    "title": "",
+    "marker_text": "[86]"
+  },
+  {
+    "sentence": "Powder morphology is one important factor in SLM affecting the processing conditions such as flowability, packing of the powders, and nature of heat transfer as well as being a crucial factor in defining the layer thickness and surface roughness during the SLM process [79].",
+    "refNo": 79,
+    "title": "",
+    "marker_text": "[79]"
+  },
+  {
+    "sentence": "High build rates and part accuracy can be achieved in SLM by employing spherical particles rather than irregular particles as they contribute towards improved flowability of the powders [87].",
+    "refNo": 87,
+    "title": "",
+    "marker_text": "[87]"
+  },
+  {
+    "sentence": "The distribution of the powder particle sizes also affects the flowability of the powders as fine powders with a narrow particle size distribution tend to agglomerate and coarse particles with a broader particle size distribution tend to segregate leading to process instabilities [88].",
+    "refNo": 88,
+    "title": "",
+    "marker_text": "[88]"
+  },
+  {
+    "sentence": "The fraction of smaller particles should be as small as possible to avoid inhomogeneous distribution of the powder over the build platform as friction among the particles increases with decrease in the particle size [29,59].",
+    "refNo": 29,
+    "title": "Effect of excimer laser surface melting on the microstructure and corrosion performance of the die cast AZ91D magnesium alloy",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "The fraction of smaller particles should be as small as possible to avoid inhomogeneous distribution of the powder over the build platform as friction among the particles increases with decrease in the particle size [29,59].",
+    "refNo": 59,
+    "title": "",
+    "marker_text": "[59]"
+  },
+  {
+    "sentence": "A wider particle size distribution (more fine particles) in SLM of stainless steel 316L was observed to result in high density (>99%) across a wider range of process parameters (beam diameter, beam speed) than powder with a smaller particle size distribution [89].",
+    "refNo": 89,
+    "title": "",
+    "marker_text": "[89]"
+  },
+  {
+    "sentence": "Therefore, in case of wider size distribution, more attention is required for optimizing the process parameters to avoid partial melting of the metal powder surface leading to inter particle residual porosities [90].",
+    "refNo": 90,
+    "title": "",
+    "marker_text": "[90]"
+  },
+  {
+    "sentence": "Although, higher density parts with better surface finish can be built with lower laser energy density for the finer particles than the coarser particles, they can be easily blown away by the gas flow in the shielding chamber and adhere on the scanning surface impeding the deposition of a thin layer of powder critical to the SLM process [59].",
+    "refNo": 59,
+    "title": "",
+    "marker_text": "[59]"
+  },
+  {
+    "sentence": "It has been shown in some studies that powders with a narrow range of particle size and spherical shape can contribute towards improvement of the thermal conductivity of the powder bed resulting in increased density of the SLM processed part [89,91].",
+    "refNo": 89,
+    "title": "",
+    "marker_text": "[89]"
+  },
+  {
+    "sentence": "It has been shown in some studies that powders with a narrow range of particle size and spherical shape can contribute towards improvement of the thermal conductivity of the powder bed resulting in increased density of the SLM processed part [89,91].",
+    "refNo": 91,
+    "title": "",
+    "marker_text": "[91]"
+  },
+  {
+    "sentence": "A study by Hu et al. [59].",
+    "refNo": 59,
+    "title": "",
+    "marker_text": "[59]"
+  },
+  {
+    "sentence": "Similar observations were made during SLM processing of 316L stainless steel powders, wherein powders with D50 of 15 µm and 28 µm required a lower laser energy input to achieve 99% density than powders with D50 of 38 µm [92].",
+    "refNo": 92,
+    "title": "",
+    "marker_text": "[92]"
+  },
+  {
+    "sentence": "The effectiveness of SLM processing has been found to be a function of physical properties of the material (Table 5) such as low absorptivity to the laser beam, low boiling point elements, high thermal conductivity, high co-efficient of thermal expansion, tendency to form low melting point eutectic phases, and low viscosity [52].",
+    "refNo": 52,
+    "title": "",
+    "marker_text": "[52]"
+  },
+  {
+    "sentence": "Determining the way energy is absorbed is essential to the thermal development since it allows for the determination of a suitable processing window, free of superheating and evaporation due to excessive laser energy input or a non-response of powder due to an insufficient laser energy input [93].",
+    "refNo": 93,
+    "title": "",
+    "marker_text": "[93]"
+  },
+  {
+    "sentence": "Until a local steady state of temperature within the powder is reached, the heat flow will be from the surface to the centre of the particles after which the thermal development takes place through heat transfer determined by the surrounding powder properties [36].",
+    "refNo": 36,
+    "title": "",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "This local no-uniformity in the absorptance characteristics of powders can lead to selective area vaporisation during the interaction between laser and powder particles [36].",
+    "refNo": 36,
+    "title": "",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "Magnesium is highly reflective of the laser energies in the infrared region, having an absorptivity of 8%-20% for a Nd:YAG laser beam with a wavelength of 1.06 µm and an absorptivity of ~3% for a CO2 laser beam with a wavelength of 10.6 µm at room temperature [94].",
+    "refNo": 94,
+    "title": "",
+    "marker_text": "[94]"
+  },
+  {
+    "sentence": "For example, at λ = 1.06 µm, the absorptance of Ti powder was observed to be 77%, which is nearly 2.5 times greater than for Ti bulk material, which was just 30% [36,95].",
+    "refNo": 36,
+    "title": "",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "For example, at λ = 1.06 µm, the absorptance of Ti powder was observed to be 77%, which is nearly 2.5 times greater than for Ti bulk material, which was just 30% [36,95].",
+    "refNo": 95,
+    "title": "",
+    "marker_text": "[95]"
+  },
+  {
+    "sentence": "Although powder materials will have significantly higher absorptance in comparison to bulk materials owing to multiple absorption and reflections in the powder bed, higher than expected laser energies are required to overcome issues such as strong evaporation and reflection of the laser radiation [95].",
+    "refNo": 95,
+    "title": "",
+    "marker_text": "[95]"
+  },
+  {
+    "sentence": "Also, a Nd:YAG laser beam produces a slightly larger and more stable scan track than a CO2 laser beam during SLM processing [96].",
+    "refNo": 96,
+    "title": "",
+    "marker_text": "[96]"
+  },
+  {
+    "sentence": "However, it is noteworthy that the absorptivity of magnesium oxide (MgO) for Nd:YAG laser beam is ~20% whereas it has an energy absorptivity of 93%-98% for a CO2 laser beam implying that MgO surface layers on melted parts can effectively increase the absorptivity of laser beams [97].",
+    "refNo": 97,
+    "title": "",
+    "marker_text": "[97]"
+  },
+  {
+    "sentence": "Balling phenomena are regarded as the typical microstructure occurring on surfaces of SLM-processed parts from a bed of loose powder [39].",
+    "refNo": 39,
+    "title": "",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "As discussed previously, occurrence of \"balling\" region is characterised by the agglomeration of a series of ball like particles to form large size melt pools due to insufficient input laser energy density caused by a combination of low laser power, high scanning speed, and large layer thickness [41].",
+    "refNo": 41,
+    "title": "",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "The main factor leading to balling is the Gibbs-Marangoni effect, which is the mass transfer along an interface between two fluids due to the surface tension gradient [109].",
+    "refNo": 109,
+    "title": "",
+    "marker_text": "[109]"
+  },
+  {
+    "sentence": "The diminishing in the surface energy of the liquid track continues until the final equilibrium state through the breaking up of the cylinder into several metallic agglomerates in spherical shape [39].",
+    "refNo": 39,
+    "title": "",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "Three kinds of balling mechanisms have been identified by Gu et al. [73,110] during SLS processing of Cu-30CuSn-10CuP and stainless steel powder. \"First line scan balling\" is observed when initial tracks on a cold powder bed are scanned, caused by high thermal gradients imposed on the melt. \"Shrinkage induced balling\" is caused by the capillary instability of the melt pool when higher scanning speeds are used. \"Splash-induced balling\" with the formation of a large amount of micrometre-scale balls occurs at a high laser power combined with a low scan speed, because of the considerably low viscosity and long lifetime of the liquid.",
+    "refNo": 73,
+    "title": "",
+    "marker_text": "[73]"
+  },
+  {
+    "sentence": "Three kinds of balling mechanisms have been identified by Gu et al. [73,110] during SLS processing of Cu-30CuSn-10CuP and stainless steel powder. \"First line scan balling\" is observed when initial tracks on a cold powder bed are scanned, caused by high thermal gradients imposed on the melt. \"Shrinkage induced balling\" is caused by the capillary instability of the melt pool when higher scanning speeds are used. \"Splash-induced balling\" with the formation of a large amount of micrometre-scale balls occurs at a high laser power combined with a low scan speed, because of the considerably low viscosity and long lifetime of the liquid.",
+    "refNo": 110,
+    "title": "",
+    "marker_text": "[110]"
+  },
+  {
+    "sentence": "Magnesium and its alloys have emerged as promising biomaterials for orthopedic applications due to their biodegradability, biocompatibility, and mechanical properties similar to natural bone [4].",
+    "refNo": 4,
+    "title": "The metallurgy and processing science of metal additive manufacturing",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Their historical use in biomedical contexts dates back to the late 19th century, with early clinical applications including ligatures for vascular control [2].",
+    "refNo": 2,
+    "title": "Binding mechanisms in selective laser sintering and selective laser melting",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Recent advancements have demonstrated their potential in load-bearing implants, with studies showing clinical equivalence to titanium in procedures such as hallux valgus surgery, without adverse immune responses or osteolysis [3].",
+    "refNo": 3,
+    "title": "Laser additive manufacturing of metallic components: Materials, processes and mechanisms",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "The physiological role of magnesium in biological systems, including its involvement in bone metabolism and enzymatic functions, further supports its suitability as a degradable implant material [1].",
+    "refNo": 1,
+    "title": "Review of selective laser melting: Materials and applications",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "However, challenges remain in controlling the rate of corrosion in vivo, which can lead to premature mechanical failure or gas evolution if not properly managed through alloying or surface modification [5].",
+    "refNo": 5,
+    "title": "Laser and electron-beam powder-bed additive manufacturing of metallic implants: A review on processes, materials and designs",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "The development of magnesium-based implants continues to be guided by a multidisciplinary understanding of material behavior, biological response, and clinical outcomes [4,5].",
+    "refNo": 4,
+    "title": "The metallurgy and processing science of metal additive manufacturing",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "The development of magnesium-based implants continues to be guided by a multidisciplinary understanding of material behavior, biological response, and clinical outcomes [4,5].",
+    "refNo": 5,
+    "title": "Laser and electron-beam powder-bed additive manufacturing of metallic implants: A review on processes, materials and designs",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "SLM of metals requires careful selection of processing parameters to address the difficulties associated with the process such as oxidation, balling, thermal fluctuation, loss of alloying elements, and dross formation in the melt pool which lead to poor interlayer bonding, low density, instability of the tracks, crack formation, and delamination of the SLM processed part [50][51][52].",
+    "refNo": 50,
+    "title": "",
+    "marker_text": "[50]"
+  },
+  {
+    "sentence": "SLM of metals requires careful selection of processing parameters to address the difficulties associated with the process such as oxidation, balling, thermal fluctuation, loss of alloying elements, and dross formation in the melt pool which lead to poor interlayer bonding, low density, instability of the tracks, crack formation, and delamination of the SLM processed part [50][51][52].",
+    "refNo": 51,
+    "title": "",
+    "marker_text": "[51]"
+  },
+  {
+    "sentence": "SLM of metals requires careful selection of processing parameters to address the difficulties associated with the process such as oxidation, balling, thermal fluctuation, loss of alloying elements, and dross formation in the melt pool which lead to poor interlayer bonding, low density, instability of the tracks, crack formation, and delamination of the SLM processed part [50][51][52].",
+    "refNo": 52,
+    "title": "",
+    "marker_text": "[52]"
+  },
+  {
+    "sentence": "In an attempt to overcome these inherent difficulties along with ensuring good consolidation of the deposited material layers in SLM of metals, various approaches have been employed by researchers such as combination of preheating, selection of the right scanning strategy and process parameters to ensure minimal balling, utilisation of overpressure process chamber to control the vaporisation of powders, and melting in a shielded gas atmosphere of argon or helium to moderate the oxidation process [29,53].",
+    "refNo": 29,
+    "title": "Effect of excimer laser surface melting on the microstructure and corrosion performance of the die cast AZ91D magnesium alloy",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "In an attempt to overcome these inherent difficulties along with ensuring good consolidation of the deposited material layers in SLM of metals, various approaches have been employed by researchers such as combination of preheating, selection of the right scanning strategy and process parameters to ensure minimal balling, utilisation of overpressure process chamber to control the vaporisation of powders, and melting in a shielded gas atmosphere of argon or helium to moderate the oxidation process [29,53].",
+    "refNo": 53,
+    "title": "",
+    "marker_text": "[53]"
+  },
+  {
+    "sentence": "The resulting microstructures, which are very fine and far from equilibrium are a consequence of very high solidification rates observed in the SLM process, ranging between 10^6 and 10^11 °C/s [96].",
+    "refNo": 96,
+    "title": "",
+    "marker_text": "[96]"
+  },
+  {
+    "sentence": "Various authors have investigated the effects of certain parameters on the microstructural characteristics and material properties of SLMed magnesium parts [58][59][60][61][62][63][64][65].",
+    "refNo": 58,
+    "title": "",
+    "marker_text": "[58]"
+  },
+  {
+    "sentence": "Various authors have investigated the effects of certain parameters on the microstructural characteristics and material properties of SLMed magnesium parts [58][59][60][61][62][63][64][65].",
+    "refNo": 59,
+    "title": "",
+    "marker_text": "[59]"
+  },
+  {
+    "sentence": "Various authors have investigated the effects of certain parameters on the microstructural characteristics and material properties of SLMed magnesium parts [58][59][60][61][62][63][64][65].",
+    "refNo": 60,
+    "title": "",
+    "marker_text": "[60]"
+  },
+  {
+    "sentence": "Various authors have investigated the effects of certain parameters on the microstructural characteristics and material properties of SLMed magnesium parts [58][59][60][61][62][63][64][65].",
+    "refNo": 61,
+    "title": "",
+    "marker_text": "[61]"
+  },
+  {
+    "sentence": "Various authors have investigated the effects of certain parameters on the microstructural characteristics and material properties of SLMed magnesium parts [58][59][60][61][62][63][64][65].",
+    "refNo": 62,
+    "title": "",
+    "marker_text": "[62]"
+  },
+  {
+    "sentence": "Various authors have investigated the effects of certain parameters on the microstructural characteristics and material properties of SLMed magnesium parts [58][59][60][61][62][63][64][65].",
+    "refNo": 63,
+    "title": "",
+    "marker_text": "[63]"
+  },
+  {
+    "sentence": "Various authors have investigated the effects of certain parameters on the microstructural characteristics and material properties of SLMed magnesium parts [58][59][60][61][62][63][64][65].",
+    "refNo": 64,
+    "title": "",
+    "marker_text": "[64]"
+  },
+  {
+    "sentence": "Various authors have investigated the effects of certain parameters on the microstructural characteristics and material properties of SLMed magnesium parts [58][59][60][61][62][63][64][65].",
+    "refNo": 65,
+    "title": "",
+    "marker_text": "[65]"
+  },
+  {
+    "sentence": "The solidified microstructure obtained when the SLM processing parameters are varied is dependent on: local solidification rates within the melt pool, the ratio of cooling rate to thermal gradient, R, and the temperature gradient at the solid-liquid interface, G. Two critical solidification parameters are the ratio, G/R, which affects the solid-liquid interface shape controlling the type of microstructure, and the cooling rate, G × R, which affects the undercooling controlling the scale of microstructure [99,100].",
+    "refNo": 99,
+    "title": "",
+    "marker_text": "[99]"
+  },
+  {
+    "sentence": "The solidified microstructure obtained when the SLM processing parameters are varied is dependent on: local solidification rates within the melt pool, the ratio of cooling rate to thermal gradient, R, and the temperature gradient at the solid-liquid interface, G. Two critical solidification parameters are the ratio, G/R, which affects the solid-liquid interface shape controlling the type of microstructure, and the cooling rate, G × R, which affects the undercooling controlling the scale of microstructure [99,100].",
+    "refNo": 100,
+    "title": "",
+    "marker_text": "[100]"
+  },
+  {
+    "sentence": "It has been found that a higher solidification rate promotes the transition from columnar to equiaxed grain morphologies [101] and that increasing the cooling rate, G × R, leads to a finer microstructure.",
+    "refNo": 101,
+    "title": "",
+    "marker_text": "[101]"
+  },
+  {
+    "sentence": "The tendency to form a columnar structure increases by increasing the ratio G/R, while decreasing G/R is favourable for equiaxed structures [99].",
+    "refNo": 99,
+    "title": "",
+    "marker_text": "[99]"
+  },
+  {
+    "sentence": "However, this problem was overcome by working in an overpressure process chamber having an absolute pressure of 0.3 MPa, which increased the boiling point of magnesium by 127 °C to 1220 °C allowing for a wider range of laser power and scanning speed to be applied [64].",
+    "refNo": 64,
+    "title": "",
+    "marker_text": "[64]"
+  },
+  {
+    "sentence": "From their preliminary experiments, Ng et al. [3].",
+    "refNo": 3,
+    "title": "Laser additive manufacturing of metallic components: Materials, processes and mechanisms",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Further, the interactions between laser sources and magnesium powder tracks under different processing conditions, including laser powers, scanning speeds, and irradiation modes (i.e., continuous wave and pulsed mode) were investigated and the processing window for the single track formation was established [4,11].",
+    "refNo": 4,
+    "title": "The metallurgy and processing science of metal additive manufacturing",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Further, the interactions between laser sources and magnesium powder tracks under different processing conditions, including laser powers, scanning speeds, and irradiation modes (i.e., continuous wave and pulsed mode) were investigated and the processing window for the single track formation was established [4,11].",
+    "refNo": 11,
+    "title": "A critical review of the stress corrosion cracking (SCC) of magnesium alloys",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Also, several other investigations [5,6,7,8,11] have focused on developing processing windows based on the formability of magnesium and magnesium alloy powders such as Mg-9%Al, AZ91D, ZK60 and WE43 for fabricating single layer and multi-layer three dimensional parts.",
+    "refNo": 5,
+    "title": "Laser and electron-beam powder-bed additive manufacturing of metallic implants: A review on processes, materials and designs",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Also, several other investigations [5,6,7,8,11] have focused on developing processing windows based on the formability of magnesium and magnesium alloy powders such as Mg-9%Al, AZ91D, ZK60 and WE43 for fabricating single layer and multi-layer three dimensional parts.",
+    "refNo": 6,
+    "title": "Magnesium biomaterials for orthopedic application: A review from a biological perspective",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Also, several other investigations [5,6,7,8,11] have focused on developing processing windows based on the formability of magnesium and magnesium alloy powders such as Mg-9%Al, AZ91D, ZK60 and WE43 for fabricating single layer and multi-layer three dimensional parts.",
+    "refNo": 7,
+    "title": "The history of biodegradable magnesium implants: A review",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Also, several other investigations [5,6,7,8,11] have focused on developing processing windows based on the formability of magnesium and magnesium alloy powders such as Mg-9%Al, AZ91D, ZK60 and WE43 for fabricating single layer and multi-layer three dimensional parts.",
+    "refNo": 8,
+    "title": "Biodegradable magnesium-based screw clinically equivalent to titanium screw in hallux valgus surgery: Short term results of the first prospective, randomized, controlled clinical pilot study",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Also, several other investigations [5,6,7,8,11] have focused on developing processing windows based on the formability of magnesium and magnesium alloy powders such as Mg-9%Al, AZ91D, ZK60 and WE43 for fabricating single layer and multi-layer three dimensional parts.",
+    "refNo": 11,
+    "title": "A critical review of the stress corrosion cracking (SCC) of magnesium alloys",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Similar to the casting process as pointed out by Campbell [103], oxide may get into the melt pool either via alloying addition into the metal powder during primary processing or air/gas entrapment via surface turbulent flow during SLM processing.",
+    "refNo": 103,
+    "title": "",
+    "marker_text": "[103]"
+  },
+  {
+    "sentence": "However, deposited powders have relatively poor thermal conductivity and can be considered thermally insulating compared to the solid part of the substrate [86].",
+    "refNo": 86,
+    "title": "",
+    "marker_text": "[86]"
+  },
+  {
+    "sentence": "As heat is applied, it flows more slowly through the powder, which can lead to overheating of the melt surface located, impacting the size of the melt pool formed and causing density differences between the solid and the powder [98].",
+    "refNo": 98,
+    "title": "",
+    "marker_text": "[98]"
+  },
+  {
+    "sentence": "Human bone has a hierarchical structure with three major anatomic cavities of different sizes which are haversian canals (50 µm) [137], osteocytic lacunae (few micrometres) [15,138,139], and canaliculi (<1 µm) [140,141].",
+    "refNo": 137,
+    "title": "",
+    "marker_text": "[137]"
+  },
+  {
+    "sentence": "Human bone has a hierarchical structure with three major anatomic cavities of different sizes which are haversian canals (50 µm) [137], osteocytic lacunae (few micrometres) [15,138,139], and canaliculi (<1 µm) [140,141].",
+    "refNo": 15,
+    "title": "Physical aspects of process control in selective laser sintering of metals",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Human bone has a hierarchical structure with three major anatomic cavities of different sizes which are haversian canals (50 µm) [137], osteocytic lacunae (few micrometres) [15,138,139], and canaliculi (<1 µm) [140,141].",
+    "refNo": 138,
+    "title": "",
+    "marker_text": "[138]"
+  },
+  {
+    "sentence": "Human bone has a hierarchical structure with three major anatomic cavities of different sizes which are haversian canals (50 µm) [137], osteocytic lacunae (few micrometres) [15,138,139], and canaliculi (<1 µm) [140,141].",
+    "refNo": 139,
+    "title": "",
+    "marker_text": "[139]"
+  },
+  {
+    "sentence": "Human bone has a hierarchical structure with three major anatomic cavities of different sizes which are haversian canals (50 µm) [137], osteocytic lacunae (few micrometres) [15,138,139], and canaliculi (<1 µm) [140,141].",
+    "refNo": 140,
+    "title": "",
+    "marker_text": "[140]"
+  },
+  {
+    "sentence": "Human bone has a hierarchical structure with three major anatomic cavities of different sizes which are haversian canals (50 µm) [137], osteocytic lacunae (few micrometres) [15,138,139], and canaliculi (<1 µm) [140,141].",
+    "refNo": 141,
+    "title": "",
+    "marker_text": "[141]"
+  },
+  {
+    "sentence": "Each of the three cavities has a major role in remodelling the processes and mechanical integrity of the bone [14].",
+    "refNo": 14,
+    "title": "Balling phenomena in direct laser sintering of stainless steel powder: Metallurgical mechanisms and control methods",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "A porous structure allows adequate spaces for transportation of nutrients and for growth of living tissues [142].",
+    "refNo": 142,
+    "title": "",
+    "marker_text": "[142]"
+  },
+  {
+    "sentence": "Especially for metallic orthopaedic applications, by adjusting the porosity levels, the modulus of the materials can be greatly controlled which provides an opportunity to design materials with a modulus closer to that of natural bone thereby mitigating problems related to stress shielding [143].",
+    "refNo": 143,
+    "title": "",
+    "marker_text": "[143]"
+  },
+  {
+    "sentence": "Metal stochastic porous structures typically have a random distribution of open or closed voids, whereas metal periodic cellular lattice structures have uniform structures that are generated by repeating a unit cell [144].",
+    "refNo": 144,
+    "title": "",
+    "marker_text": "[144]"
+  },
+  {
+    "sentence": "Apart from medical fields, metallic cellular/porous structures have also been broadly utilized in the automotive, aerospace, and chemical industries as they possess lower weight, good energy absorption characteristics, and good thermal and acoustic properties [145,146].",
+    "refNo": 145,
+    "title": "",
+    "marker_text": "[145]"
+  },
+  {
+    "sentence": "Apart from medical fields, metallic cellular/porous structures have also been broadly utilized in the automotive, aerospace, and chemical industries as they possess lower weight, good energy absorption characteristics, and good thermal and acoustic properties [145,146].",
+    "refNo": 146,
+    "title": "",
+    "marker_text": "[146]"
+  },
+  {
+    "sentence": "Although the shape and size of the pores can be adjusted by changing the parameters of these manufacturing processes, only a randomly organized porous structure can be achieved [144].",
+    "refNo": 144,
+    "title": "",
+    "marker_text": "[144]"
+  },
+  {
+    "sentence": "However, additive manufacturing (AM) technologies can fabricate porous metals with a predefined external shape and internal architecture to match the modulus or stiffness of bone, thereby minimizing or eliminating stress shielding [147,148].",
+    "refNo": 147,
+    "title": "",
+    "marker_text": "[147]"
+  },
+  {
+    "sentence": "However, additive manufacturing (AM) technologies can fabricate porous metals with a predefined external shape and internal architecture to match the modulus or stiffness of bone, thereby minimizing or eliminating stress shielding [147,148].",
+    "refNo": 148,
+    "title": "",
+    "marker_text": "[148]"
+  },
+  {
+    "sentence": "Selective laser melting (SLM) offers a significant advantage of producing such very fine and porous structures while at the same time accommodating a variety of shapes that are not only limited to prismatic ones [26].",
+    "refNo": 26,
+    "title": "Effect of laser surface melting on microstructure and corrosion characteristics of AM60B magnesium alloy",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "Also, Studies on SLM have shown that the internal and surface finish of the implants can be tailored to have selectively porous and/or lattice-like structures to promote osseo-integration (bonding between the bones and the implant) in the implants [42].",
+    "refNo": 42,
+    "title": "",
+    "marker_text": "[42]"
+  },
+  {
+    "sentence": "SLM technology has been used to produce complex porous/cellular structures directly from different engineering materials such as stainless steel [144] and titanium alloys [108,[149][150][151]] and therefore has the potential to produce porous structures in magnesium alloys.",
+    "refNo": 144,
+    "title": "",
+    "marker_text": "[144]"
+  },
+  {
+    "sentence": "SLM technology has been used to produce complex porous/cellular structures directly from different engineering materials such as stainless steel [144] and titanium alloys [108,[149][150][151]] and therefore has the potential to produce porous structures in magnesium alloys.",
+    "refNo": 149,
+    "title": "",
+    "marker_text": "[149]"
+  },
+  {
+    "sentence": "SLM technology has been used to produce complex porous/cellular structures directly from different engineering materials such as stainless steel [144] and titanium alloys [108,[149][150][151]] and therefore has the potential to produce porous structures in magnesium alloys.",
+    "refNo": 150,
+    "title": "",
+    "marker_text": "[150]"
+  },
+  {
+    "sentence": "SLM technology has been used to produce complex porous/cellular structures directly from different engineering materials such as stainless steel [144] and titanium alloys [108,[149][150][151]] and therefore has the potential to produce porous structures in magnesium alloys.",
+    "refNo": 151,
+    "title": "",
+    "marker_text": "[151]"
+  },
+  {
+    "sentence": "In a recent study, Jauer et al. [65].",
+    "refNo": 65,
+    "title": "",
+    "marker_text": "[65]"
+  },
+  {
+    "sentence": "However, the microhardness for deposited samples showed directional independence [61].",
+    "refNo": 61,
+    "title": "",
+    "marker_text": "[61]"
+  },
+  {
+    "sentence": "According to Mercelis and Kruth [113], residual stresses are not always disadvantageous in SLM fabricated parts because their retention at a reasonable level enhances the part's hardness provided sufficiently high densification without formation of cracks or pores could be achieved.",
+    "refNo": 113,
+    "title": "",
+    "marker_text": "[113]"
+  },
+  {
+    "sentence": "Figure 16 shows the variation of hardness of SLM processed magnesium tracks with different laser energy inputs as measured by Ng et al. [57].",
+    "refNo": 57,
+    "title": "",
+    "marker_text": "[57]"
+  },
+  {
+    "sentence": "Also, the reported Young's modulus values for various magnesium alloys are in the range of 20-35 GPa, which are close to the corresponding ones of human bones (3-20 GPa), indicating that they can be considered as a potential candidate for biomedical implants [114].",
+    "refNo": 114,
+    "title": "",
+    "marker_text": "[114]"
+  },
+  {
+    "sentence": "The chemical composition is more uniform throughout the part, resulting in higher strength than for cast parts [115].",
+    "refNo": 115,
+    "title": "",
+    "marker_text": "[115]"
+  },
+  {
+    "sentence": "Wei et al. [61].",
+    "refNo": 61,
+    "title": "",
+    "marker_text": "[61]"
+  },
+  {
+    "sentence": "Specimens deposited in the direction along (e.g., parallel to) the length of the tensile samples (e.g., X-direction) typically exhibit higher tensile strength than those with layers deposited perpendicular to their length (e.g., Y or Z-direction) [116].",
+    "refNo": 116,
+    "title": "",
+    "marker_text": "[116]"
+  },
+  {
+    "sentence": "Also, performing a hot isostatic pressing (HIP) procedure after SLM can significantly reduce the anisotropic mechanical behaviour of the SLMed parts by reducing manufacturing induced porosity [116].",
+    "refNo": 116,
+    "title": "",
+    "marker_text": "[116]"
+  },
+  {
+    "sentence": "For instance, LSM treatment on AM60B magnesium alloy produced a continuous and homogeneous modified layer with refined grains and enriched aluminum, significantly improving corrosion resistance due to the reduced susceptibility of the α-Mg matrix and the barrier effect of uniformly distributed β-phase [ref [26]].",
+    "refNo": 26,
+    "title": "Effect of laser surface melting on microstructure and corrosion characteristics of AM60B magnesium alloy",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "Similarly, laser surface melting of AZ31B magnesium alloy with liquid nitrogen-assisted cooling resulted in a highly refined microstructure containing nanocrystals and local amorphous regions, leading to increased microhardness (HV 90–148) and enhanced corrosion resistance in 3.5% NaCl solution [ref [27]].",
+    "refNo": 27,
+    "title": "Laser surface melting AZ31B magnesium alloy with liquid nitrogen-assisted cooling",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "The application of laser surface modification using aluminum precursor powders on AZ31B substrates generated a coating rich in Al12Mg17 intermetallic phase, which improved both corrosion and wear resistance by strain hardening the matrix and providing a protective barrier [ref [28]].",
+    "refNo": 28,
+    "title": "Improved corrosion and wear resistance of Mg alloys via laser surface modification of Al on AZ31B",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Excimer laser surface melting of die-cast AZ91D alloy also yielded a homogeneous and refined microstructure with aluminum enrichment and dissolution of intermetallic phases, thereby enhancing corrosion performance, although excessive laser pulses induced porosity and micro-cracks that degraded the effect [ref [29]].",
+    "refNo": 29,
+    "title": "Effect of excimer laser surface melting on the microstructure and corrosion performance of the die cast AZ91D magnesium alloy",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Furthermore, laser-assisted modification of surface microstructure on cast AZ61 and AZ91 alloys demonstrated improved localized corrosion resistance through microstructural alterations, as confirmed by immersion and anodic polarization tests in sodium chloride solution [ref [30]].",
+    "refNo": 30,
+    "title": "Laser assisted modification of surface microstructure for localised corrosion resistance of magnesium alloys",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "Magnesium alloys, generally, reveal a poor corrosion resistance, which is mainly associated with their high chemical activity and the lack of a protective passive oxide film ref [33], ref [34].",
+    "refNo": 33,
+    "title": "Microstructure and corrosion behaviour of laser surface melting treated WE43 magnesium alloy",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "Magnesium alloys, generally, reveal a poor corrosion resistance, which is mainly associated with their high chemical activity and the lack of a protective passive oxide film ref [33], ref [34].",
+    "refNo": 34,
+    "title": "Time-dependent electrochemical characterization of the corrosion of a magnesium rare-earth alloy in simulated body fluids",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "Also, magnesium has a high negative standard electrode potential, which leads to the rapid corrosion of magnesium based alloys in chloride physiological conditions ref [6].",
+    "refNo": 6,
+    "title": "Magnesium biomaterials for orthopedic application: A review from a biological perspective",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "This has delayed the introduction of magnesium based materials for therapeutic applications to date, as the hydrogen gas produced at a high rate from corrosion cannot be dealt with by the host tissue ref [18].",
+    "refNo": 18,
+    "title": "Experimental investigation on selective laser melting of bulk net-shape pure magnesium",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Additionally, shift in alkaline pH in the region surrounding the corroding surface is also a concern for biomedical applications ref [6].",
+    "refNo": 6,
+    "title": "Magnesium biomaterials for orthopedic application: A review from a biological perspective",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Rapid solidification has been identified as an effective method to improve the strength and corrosion resistance of magnesium alloys for structural and corrosive media utilization ref [34], ref [35], ref [7].",
+    "refNo": 34,
+    "title": "Time-dependent electrochemical characterization of the corrosion of a magnesium rare-earth alloy in simulated body fluids",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "Rapid solidification has been identified as an effective method to improve the strength and corrosion resistance of magnesium alloys for structural and corrosive media utilization ref [34], ref [35], ref [7].",
+    "refNo": 35,
+    "title": "Laser rapid solidification improves corrosion behavior of Mg-Zn-Zr alloy",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "Rapid solidification has been identified as an effective method to improve the strength and corrosion resistance of magnesium alloys for structural and corrosive media utilization ref [34], ref [35], ref [7].",
+    "refNo": 7,
+    "title": "The history of biodegradable magnesium implants: A review",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Schematic of SLM processing parameters [1].",
+    "refNo": 1,
+    "title": "Review of selective laser melting: Materials and applications",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "X-ray diffraction (XRD) patterns of the SLMed AZ91D samples fabricated at different laser energy densities indicating absence of any surface oxide films [1].",
+    "refNo": 1,
+    "title": "Review of selective laser melting: Materials and applications",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "SEM micrographs of the microstructure of AZ91D alloys: (a) as-received alloy [1]; (b) laser surface melting (LSM) [1]; (c) Selective Laser Surface Melting (SLSM) of the β-phase (arrow marked) [1] and (d) Selective laser melting (SLM) [1].",
+    "refNo": 1,
+    "title": "Review of selective laser melting: Materials and applications",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "SEM micrographs of the microstructure of AZ91D alloys: (a) as-received alloy [1]; (b) laser surface melting (LSM) [1]; (c) Selective Laser Surface Melting (SLSM) of the β-phase (arrow marked) [1] and (d) Selective laser melting (SLM) [1].",
+    "refNo": 1,
+    "title": "Review of selective laser melting: Materials and applications",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "SEM micrographs of the microstructure of AZ91D alloys: (a) as-received alloy [1]; (b) laser surface melting (LSM) [1]; (c) Selective Laser Surface Melting (SLSM) of the β-phase (arrow marked) [1] and (d) Selective laser melting (SLM) [1].",
+    "refNo": 1,
+    "title": "Review of selective laser melting: Materials and applications",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "SEM micrographs of the microstructure of AZ91D alloys: (a) as-received alloy [1]; (b) laser surface melting (LSM) [1]; (c) Selective Laser Surface Melting (SLSM) of the β-phase (arrow marked) [1] and (d) Selective laser melting (SLM) [1].",
+    "refNo": 1,
+    "title": "Review of selective laser melting: Materials and applications",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Typical microstructural images of laser-melted magnesium under, (a) continuous wave irradiation at 1.27 × 10 9 J/m 2 and (b) pulsed wave irradiation at 1.13 × 10 12 J/m 2 [1].",
+    "refNo": 1,
+    "title": "Review of selective laser melting: Materials and applications",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Scanning electron microscopy (SEM) microstructure of selective laser melting (SLM) produced ZK60 sample, showing (a) distribution of porosity and unmelted area and (b) formation of hot cracks within the ZK60 matrix [49].",
+    "refNo": 49,
+    "title": "",
+    "marker_text": "[49]"
+  },
+  {
+    "sentence": "Effect of variation in layer thickness on the microstructure of laser melted magnesium powder at laser power of 17.7 W, scan rates of 1 mm/s: (a) 150 µm; (b) 200 µm; (c) 250 µm and (d) 300 µm [58].",
+    "refNo": 58,
+    "title": "",
+    "marker_text": "[58]"
+  },
+  {
+    "sentence": "Cauliflower like grains observed during SLM processing of Mg-9%Al powders [60].",
+    "refNo": 60,
+    "title": "",
+    "marker_text": "[60]"
+  },
+  {
+    "sentence": "Microstructure of (a-c) AZ91. [61].",
+    "refNo": 61,
+    "title": "",
+    "marker_text": "[61]"
+  },
+  {
+    "sentence": "and (d) ZK60 [62] alloys after selective laser melting: in (a), half-moon shaped melt pools are clearly visible, (b) vertical section indicating multiple remelting of each layer, while (d) shows columnar α-Mg grains dominating the margin zone of the molten pool and equiaxed α-Mg grains in the centre zone of the molten pool.",
+    "refNo": 62,
+    "title": "",
+    "marker_text": "[62]"
+  },
+  {
+    "sentence": "SLMed magnesium track fabricated at a laser energy density of 7.89 × 10³ J/mm² [57].",
+    "refNo": 57,
+    "title": "",
+    "marker_text": "[57]"
+  },
+  {
+    "sentence": "Grain size against the microhardness values of single track magnesium samples [56].",
+    "refNo": 56,
+    "title": "",
+    "marker_text": "[56]"
+  },
+  {
+    "sentence": "Scaffold-like structures with designed inter-connected porosity out of WE43 made by SLM [65].",
+    "refNo": 65,
+    "title": "",
+    "marker_text": "[65]"
+  },
+  {
+    "sentence": "Scanning electron microscopy (SEM) microstructure of selective laser melting (SLM) produced ZK60 sample, showing (a) distribution of porosity and unmelted area and (b) formation of hot cracks within the ZK60 matrix ref [20].",
+    "refNo": 20,
+    "title": "Effect of energy input on formability, microstructure and mechanical properties of selective laser melted AZ91D magnesium alloy",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Process map for Mg-9%Al, results as function of the range of laser powers and scan speeds (modified from reference ref [29]).",
+    "refNo": 29,
+    "title": "Effect of excimer laser surface melting on the microstructure and corrosion performance of the die cast AZ91D magnesium alloy",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Macro-morphologies of specimens fabricated using magnesium powders with granularity of 400 mesh (a) and 250 mesh (b) ref [29].",
+    "refNo": 29,
+    "title": "Effect of excimer laser surface melting on the microstructure and corrosion performance of the die cast AZ91D magnesium alloy",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Homogenous distribution of the precipitates formed around the grains during SLM processing of (a) AZ91D alloy at 166.7 J/mm 3ref [2] and (b) ZK60 alloy at 600 J/mm 3ref [2].",
+    "refNo": 2,
+    "title": "Binding mechanisms in selective laser sintering and selective laser melting",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Homogenous distribution of the precipitates formed around the grains during SLM processing of (a) AZ91D alloy at 166.7 J/mm 3ref [2] and (b) ZK60 alloy at 600 J/mm 3ref [2].",
+    "refNo": 2,
+    "title": "Binding mechanisms in selective laser sintering and selective laser melting",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Optical images showing characteristic crystalline structures of laser melted ZK60 prepared at different laser energy densities: (a) 420 J/mm 3; (b) 500 J/mm 3; (c) 600 J/mm 3; (d) 750 J/mm 3 ref [20].",
+    "refNo": 20,
+    "title": "Effect of energy input on formability, microstructure and mechanical properties of selective laser melted AZ91D magnesium alloy",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "SEM image showing cluster of balls (balling effect) in SLM processed Mg-9%Al due to non-optimized laser processing parameters ref [29].",
+    "refNo": 29,
+    "title": "Effect of excimer laser surface melting on the microstructure and corrosion performance of the die cast AZ91D magnesium alloy",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Comparison of hardness and Young's modulus values of SLM processed parts with conventionally cast and wrought magnesium alloys ref [22].",
+    "refNo": 22,
+    "title": "Selective laser melting of magnesium and magnesium alloys",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Samples fabricated using the laser parameters in this zone have many defects such as delamination, brittle fracture and high porosity [1].",
+    "refNo": 1,
+    "title": "Review of selective laser melting: Materials and applications",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "HAZ is developed as a result of partial melting of particles due to radial heat conduction from the centre of the molten pool to the neighbouring powders [1].",
+    "refNo": 1,
+    "title": "Review of selective laser melting: Materials and applications",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "If the scanning speed was too fast, more powders, due to the low density and chemical activity of magnesium, were blown up and then oxidized to form a black fog MgO contaminating the protect-gas chamber [1].",
+    "refNo": 1,
+    "title": "Review of selective laser melting: Materials and applications",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "It is believed that the range of energy densities in the formation zone increase the powder bed temperature, while reducing the viscosity of the of the melt pool such that the melt can be spread properly on the formerly processed powder layer, thereby facilitating more efficient densification with solid powdered particles as elucidated by Attar et al. in SLM processing of commercially pure Ti [1] and Ti-TiB2 composites [1].",
+    "refNo": 1,
+    "title": "Review of selective laser melting: Materials and applications",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "It is believed that the range of energy densities in the formation zone increase the powder bed temperature, while reducing the viscosity of the of the melt pool such that the melt can be spread properly on the formerly processed powder layer, thereby facilitating more efficient densification with solid powdered particles as elucidated by Attar et al. in SLM processing of commercially pure Ti [1] and Ti-TiB2 composites [1].",
+    "refNo": 1,
+    "title": "Review of selective laser melting: Materials and applications",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "IV Balling region: Occurrence of \"balling\" region is characterised by the agglomeration of a series of ball like particles to form large size melt pools due to insufficient input laser energy density caused by a combination of low laser power, high scanning speed, and large layer thickness [1].",
+    "refNo": 1,
+    "title": "Review of selective laser melting: Materials and applications",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Balling effect is caused due to lack of wetting of the molten pool with the preceding layer which affects the Metals 2017, 7, 2 9 of 35 coherency of the formed tracks thereby hindering the construction of subsequent layers [1].",
+    "refNo": 1,
+    "title": "Review of selective laser melting: Materials and applications",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "The balling phenomenon is a complex metallurgical process caused by the instability of the melt pool and the Marangoni effect [1].",
+    "refNo": 1,
+    "title": "Review of selective laser melting: Materials and applications",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Samples fabricated using the laser parameters in this zone have many defects such as delamination, brittle fracture and high porosity [67].",
+    "refNo": 67,
+    "title": "",
+    "marker_text": "[67]"
+  },
+  {
+    "sentence": "HAZ is developed as a result of partial melting of particles due to radial heat conduction from the centre of the molten pool to the neighbouring powders [8].",
+    "refNo": 8,
+    "title": "Biodegradable magnesium-based screw clinically equivalent to titanium screw in hallux valgus surgery: Short term results of the first prospective, randomized, controlled clinical pilot study",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "If the scanning speed was too fast, more powders, due to the low density and chemical activity of magnesium, were blown up and then oxidized to form a black fog MgO contaminating the protect-gas chamber [59].",
+    "refNo": 59,
+    "title": "",
+    "marker_text": "[59]"
+  },
+  {
+    "sentence": "It is believed that the range of energy densities in the formation zone increase the powder bed temperature, while reducing the viscosity of the of the melt pool such that the melt can be spread properly on the formerly processed powder layer, thereby facilitating more efficient densification with solid powdered particles as elucidated by Attar et al. in SLM processing of commercially pure Ti [68] and Ti-TiB2 composites [69].",
+    "refNo": 68,
+    "title": "",
+    "marker_text": "[68]"
+  },
+  {
+    "sentence": "It is believed that the range of energy densities in the formation zone increase the powder bed temperature, while reducing the viscosity of the of the melt pool such that the melt can be spread properly on the formerly processed powder layer, thereby facilitating more efficient densification with solid powdered particles as elucidated by Attar et al. in SLM processing of commercially pure Ti [68] and Ti-TiB2 composites [69].",
+    "refNo": 69,
+    "title": "",
+    "marker_text": "[69]"
+  },
+  {
+    "sentence": "IV Balling region: Occurrence of \"balling\" region is characterised by the agglomeration of a series of ball like particles to form large size melt pools due to insufficient input laser energy density caused by a combination of low laser power, high scanning speed, and large layer thickness [41].",
+    "refNo": 41,
+    "title": "",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "Balling effect is caused due to lack of wetting of the molten pool with the preceding layer which affects the Metals 2017, 7, 2 9 of 35 coherency of the formed tracks thereby hindering the construction of subsequent layers [70,71].",
+    "refNo": 70,
+    "title": "",
+    "marker_text": "[70]"
+  },
+  {
+    "sentence": "Balling effect is caused due to lack of wetting of the molten pool with the preceding layer which affects the Metals 2017, 7, 2 9 of 35 coherency of the formed tracks thereby hindering the construction of subsequent layers [70,71].",
+    "refNo": 71,
+    "title": "",
+    "marker_text": "[71]"
+  },
+  {
+    "sentence": "The balling phenomenon is a complex metallurgical process caused by the instability of the melt pool and the Marangoni effect [51].",
+    "refNo": 51,
+    "title": "",
+    "marker_text": "[51]"
+  },
+  {
+    "sentence": "The occurrence of various regions in the processing windows of magnesium and magnesium alloy powders are similar to the regions reported for SLM processing maps studies on aluminium [72], stainless steel [73], gold [74], and iron powders [67]. 93.75-250 J/mm3 74.5-82 AZ91D [61] 83-167 J/mm3 73-99.5 ZK60 [62] 138-416 J/mm3 82.25-94.05 ZK60 [49] 420-750 J/mm3 72.8-97.4 * Only single tracks were used.",
+    "refNo": 72,
+    "title": "",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "The occurrence of various regions in the processing windows of magnesium and magnesium alloy powders are similar to the regions reported for SLM processing maps studies on aluminium [72], stainless steel [73], gold [74], and iron powders [67]. 93.75-250 J/mm3 74.5-82 AZ91D [61] 83-167 J/mm3 73-99.5 ZK60 [62] 138-416 J/mm3 82.25-94.05 ZK60 [49] 420-750 J/mm3 72.8-97.4 * Only single tracks were used.",
+    "refNo": 73,
+    "title": "",
+    "marker_text": "[73]"
+  },
+  {
+    "sentence": "The occurrence of various regions in the processing windows of magnesium and magnesium alloy powders are similar to the regions reported for SLM processing maps studies on aluminium [72], stainless steel [73], gold [74], and iron powders [67]. 93.75-250 J/mm3 74.5-82 AZ91D [61] 83-167 J/mm3 73-99.5 ZK60 [62] 138-416 J/mm3 82.25-94.05 ZK60 [49] 420-750 J/mm3 72.8-97.4 * Only single tracks were used.",
+    "refNo": 74,
+    "title": "",
+    "marker_text": "[74]"
+  },
+  {
+    "sentence": "The occurrence of various regions in the processing windows of magnesium and magnesium alloy powders are similar to the regions reported for SLM processing maps studies on aluminium [72], stainless steel [73], gold [74], and iron powders [67]. 93.75-250 J/mm3 74.5-82 AZ91D [61] 83-167 J/mm3 73-99.5 ZK60 [62] 138-416 J/mm3 82.25-94.05 ZK60 [49] 420-750 J/mm3 72.8-97.4 * Only single tracks were used.",
+    "refNo": 67,
+    "title": "",
+    "marker_text": "[67]"
+  },
+  {
+    "sentence": "The occurrence of various regions in the processing windows of magnesium and magnesium alloy powders are similar to the regions reported for SLM processing maps studies on aluminium [72], stainless steel [73], gold [74], and iron powders [67]. 93.75-250 J/mm3 74.5-82 AZ91D [61] 83-167 J/mm3 73-99.5 ZK60 [62] 138-416 J/mm3 82.25-94.05 ZK60 [49] 420-750 J/mm3 72.8-97.4 * Only single tracks were used.",
+    "refNo": 61,
+    "title": "",
+    "marker_text": "[61]"
+  },
+  {
+    "sentence": "The occurrence of various regions in the processing windows of magnesium and magnesium alloy powders are similar to the regions reported for SLM processing maps studies on aluminium [72], stainless steel [73], gold [74], and iron powders [67]. 93.75-250 J/mm3 74.5-82 AZ91D [61] 83-167 J/mm3 73-99.5 ZK60 [62] 138-416 J/mm3 82.25-94.05 ZK60 [49] 420-750 J/mm3 72.8-97.4 * Only single tracks were used.",
+    "refNo": 62,
+    "title": "",
+    "marker_text": "[62]"
+  },
+  {
+    "sentence": "The occurrence of various regions in the processing windows of magnesium and magnesium alloy powders are similar to the regions reported for SLM processing maps studies on aluminium [72], stainless steel [73], gold [74], and iron powders [67]. 93.75-250 J/mm3 74.5-82 AZ91D [61] 83-167 J/mm3 73-99.5 ZK60 [62] 138-416 J/mm3 82.25-94.05 ZK60 [49] 420-750 J/mm3 72.8-97.4 * Only single tracks were used.",
+    "refNo": 49,
+    "title": "",
+    "marker_text": "[49]"
+  },
+  {
+    "sentence": "Samples fabricated using the laser parameters in this zone have many defects such as delamination, brittle fracture and high porosity [67].",
+    "refNo": 67,
+    "title": "",
+    "marker_text": "[67]"
+  },
+  {
+    "sentence": "HAZ is developed as a result of partial melting of particles due to radial heat conduction from the centre of the molten pool to the neighbouring powders [8].",
+    "refNo": 8,
+    "title": "Biodegradable magnesium-based screw clinically equivalent to titanium screw in hallux valgus surgery: Short term results of the first prospective, randomized, controlled clinical pilot study",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "If the scanning speed was too fast, more powders, due to the low density and chemical activity of magnesium, were blown up and then oxidized to form a black fog MgO contaminating the protect-gas chamber [59].",
+    "refNo": 59,
+    "title": "",
+    "marker_text": "[59]"
+  },
+  {
+    "sentence": "It is believed that the range of energy densities in the formation zone increase the powder bed temperature, while reducing the viscosity of the of the melt pool such that the melt can be spread properly on the formerly processed powder layer, thereby facilitating more efficient densification with solid powdered particles as elucidated by Attar et al. in SLM processing of commercially pure Ti [68] and Ti-TiB2 composites [69].",
+    "refNo": 68,
+    "title": "",
+    "marker_text": "[68]"
+  },
+  {
+    "sentence": "It is believed that the range of energy densities in the formation zone increase the powder bed temperature, while reducing the viscosity of the of the melt pool such that the melt can be spread properly on the formerly processed powder layer, thereby facilitating more efficient densification with solid powdered particles as elucidated by Attar et al. in SLM processing of commercially pure Ti [68] and Ti-TiB2 composites [69].",
+    "refNo": 69,
+    "title": "",
+    "marker_text": "[69]"
+  },
+  {
+    "sentence": "IV Balling region: Occurrence of \"balling\" region is characterised by the agglomeration of a series of ball like particles to form large size melt pools due to insufficient input laser energy density caused by a combination of low laser power, high scanning speed, and large layer thickness [41].",
+    "refNo": 41,
+    "title": "",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "Balling effect is caused due to lack of wetting of the molten pool with the preceding layer which affects the Metals 2017, 7, 2 9 of 35 coherency of the formed tracks thereby hindering the construction of subsequent layers [70,71].",
+    "refNo": 70,
+    "title": "",
+    "marker_text": "[70]"
+  },
+  {
+    "sentence": "Balling effect is caused due to lack of wetting of the molten pool with the preceding layer which affects the Metals 2017, 7, 2 9 of 35 coherency of the formed tracks thereby hindering the construction of subsequent layers [70,71].",
+    "refNo": 71,
+    "title": "",
+    "marker_text": "[71]"
+  },
+  {
+    "sentence": "The balling phenomenon is a complex metallurgical process caused by the instability of the melt pool and the Marangoni effect [51].",
+    "refNo": 51,
+    "title": "",
+    "marker_text": "[51]"
+  },
+  {
+    "sentence": "The occurrence of various regions in the processing windows of magnesium and magnesium alloy powders are similar to the regions reported for SLM processing maps studies on aluminium [72], stainless steel [73], gold [74], and iron powders [67]. 93.75-250 J/mm3 74.5-82 AZ91D [61] 83-167 J/mm3 73-99.5 ZK60 [62] 138-416 J/mm3 82.25-94.05 ZK60 [49] 420-750 J/mm3 72.8-97.4 * Only single tracks were used.",
+    "refNo": 72,
+    "title": "",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "The occurrence of various regions in the processing windows of magnesium and magnesium alloy powders are similar to the regions reported for SLM processing maps studies on aluminium [72], stainless steel [73], gold [74], and iron powders [67]. 93.75-250 J/mm3 74.5-82 AZ91D [61] 83-167 J/mm3 73-99.5 ZK60 [62] 138-416 J/mm3 82.25-94.05 ZK60 [49] 420-750 J/mm3 72.8-97.4 * Only single tracks were used.",
+    "refNo": 73,
+    "title": "",
+    "marker_text": "[73]"
+  },
+  {
+    "sentence": "The occurrence of various regions in the processing windows of magnesium and magnesium alloy powders are similar to the regions reported for SLM processing maps studies on aluminium [72], stainless steel [73], gold [74], and iron powders [67]. 93.75-250 J/mm3 74.5-82 AZ91D [61] 83-167 J/mm3 73-99.5 ZK60 [62] 138-416 J/mm3 82.25-94.05 ZK60 [49] 420-750 J/mm3 72.8-97.4 * Only single tracks were used.",
+    "refNo": 74,
+    "title": "",
+    "marker_text": "[74]"
+  },
+  {
+    "sentence": "The occurrence of various regions in the processing windows of magnesium and magnesium alloy powders are similar to the regions reported for SLM processing maps studies on aluminium [72], stainless steel [73], gold [74], and iron powders [67]. 93.75-250 J/mm3 74.5-82 AZ91D [61] 83-167 J/mm3 73-99.5 ZK60 [62] 138-416 J/mm3 82.25-94.05 ZK60 [49] 420-750 J/mm3 72.8-97.4 * Only single tracks were used.",
+    "refNo": 67,
+    "title": "",
+    "marker_text": "[67]"
+  },
+  {
+    "sentence": "The occurrence of various regions in the processing windows of magnesium and magnesium alloy powders are similar to the regions reported for SLM processing maps studies on aluminium [72], stainless steel [73], gold [74], and iron powders [67]. 93.75-250 J/mm3 74.5-82 AZ91D [61] 83-167 J/mm3 73-99.5 ZK60 [62] 138-416 J/mm3 82.25-94.05 ZK60 [49] 420-750 J/mm3 72.8-97.4 * Only single tracks were used.",
+    "refNo": 61,
+    "title": "",
+    "marker_text": "[61]"
+  },
+  {
+    "sentence": "The occurrence of various regions in the processing windows of magnesium and magnesium alloy powders are similar to the regions reported for SLM processing maps studies on aluminium [72], stainless steel [73], gold [74], and iron powders [67]. 93.75-250 J/mm3 74.5-82 AZ91D [61] 83-167 J/mm3 73-99.5 ZK60 [62] 138-416 J/mm3 82.25-94.05 ZK60 [49] 420-750 J/mm3 72.8-97.4 * Only single tracks were used.",
+    "refNo": 62,
+    "title": "",
+    "marker_text": "[62]"
+  },
+  {
+    "sentence": "The occurrence of various regions in the processing windows of magnesium and magnesium alloy powders are similar to the regions reported for SLM processing maps studies on aluminium [72], stainless steel [73], gold [74], and iron powders [67]. 93.75-250 J/mm3 74.5-82 AZ91D [61] 83-167 J/mm3 73-99.5 ZK60 [62] 138-416 J/mm3 82.25-94.05 ZK60 [49] 420-750 J/mm3 72.8-97.4 * Only single tracks were used.",
+    "refNo": 49,
+    "title": "",
+    "marker_text": "[49]"
+  },
+  {
+    "sentence": "SLM is able to produce bulk magnesium parts with comparable mechanical properties and superior corrosion behaviour to those of as-cast and wrought alloys [1].",
+    "refNo": 1,
+    "title": "Review of selective laser melting: Materials and applications",
+    "marker_text": "[1]"
+  }
+]

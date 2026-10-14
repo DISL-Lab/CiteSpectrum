@@ -1,0 +1,758 @@
+[
+  {
+    "sentence": "A mechanistic study against E. coli showed that even under dark conditions, antibacterial activity was dominated mainly by chemically generated species, especially hydrogen peroxide, while direct nanoparticle–cell contact played a comparatively minor role under those experimental conditions ref [1].",
+    "refNo": 1,
+    "title": "Mechanistic investigation into antibacterial behaviour of suspensions of ZnO nanoparticles against E. coli",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "ROS and dissolved zinc ions can oxidatively damage membrane proteins, disrupt lipid bilayers, alter permeability, and ultimately trigger leakage of intracellular contents and loss of metabolic activity ref [1].",
+    "refNo": 1,
+    "title": "Mechanistic investigation into antibacterial behaviour of suspensions of ZnO nanoparticles against E. coli",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "In Rosa canina-mediated ZnO, the fruit extract served as both reducing and stabilizing agent, yielding stable spherical nanoparticles with measurable antibacterial and cytotoxic effects; the study emphasized that biofabrication can modulate colloidal behavior and toxic mechanism, not merely provide a greener route of synthesis ref [2].",
+    "refNo": 2,
+    "title": "Biofabrication of zinc oxide nanoparticles using fruit extract of Rosa canina and their toxic potential against bacteria: a mechanistic approach",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "ZnO is a II–VI semiconductor whose core materials relevance derives from its hexagonal wurtzite structure, a wide direct band gap of about 3.37–3.44 eV, and a comparatively large exciton binding energy (~60 meV), which together support stable near-band-edge optical responses even at room temperature [1], [2].",
+    "refNo": 1,
+    "title": "Mechanistic investigation into antibacterial behaviour of suspensions of ZnO nanoparticles against E. coli",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "ZnO is a II–VI semiconductor whose core materials relevance derives from its hexagonal wurtzite structure, a wide direct band gap of about 3.37–3.44 eV, and a comparatively large exciton binding energy (~60 meV), which together support stable near-band-edge optical responses even at room temperature [1], [2].",
+    "refNo": 2,
+    "title": "Biofabrication of zinc oxide nanoparticles using fruit extract of Rosa canina and their toxic potential against bacteria: a mechanistic approach",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "In addition to these optoelectronic attributes, ZnO exhibits high breakdown strength, high saturation velocity, and notable radiation hardness, making it a multifunctional platform rather than a single-purpose oxide [1].",
+    "refNo": 1,
+    "title": "Mechanistic investigation into antibacterial behaviour of suspensions of ZnO nanoparticles against E. coli",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Morphological evolution is highly sensitive to solution chemistry and additives; aqueous growth studies have shown that species such as sodium dodecyl sulfate and triethanolamine alter ZnO formation kinetics and produce rod-like, nut-like, and rice-like particles by modulating nucleation and crystal growth rates [2].",
+    "refNo": 2,
+    "title": "Biofabrication of zinc oxide nanoparticles using fruit extract of Rosa canina and their toxic potential against bacteria: a mechanistic approach",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Green synthesis replaces at least part of the chemical reduction, stabilization, or templating steps with biological extracts or biomolecules, thereby coupling nanoparticle formation to inherently functional organic coronas ref [1].",
+    "refNo": 1,
+    "title": "Mechanistic investigation into antibacterial behaviour of suspensions of ZnO nanoparticles against E. coli",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Within this biofabrication context, plant-mediated synthesis is the most widely explored route for ZnO, using leaf, fruit, seed, bark, or seagrass extracts as sources of polyphenols, sugars, proteins, and organic acids that can complex zinc precursors, regulate nucleation, and cap the growing nanocrystals ref [1].",
+    "refNo": 1,
+    "title": "Mechanistic investigation into antibacterial behaviour of suspensions of ZnO nanoparticles against E. coli",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Microbial routes based on bacteria and fungi offer additional control through secreted enzymes and extracellular metabolites, although reproducibility, sterility, and scale-up remain more challenging than with crude plant extracts ref [1].",
+    "refNo": 1,
+    "title": "Mechanistic investigation into antibacterial behaviour of suspensions of ZnO nanoparticles against E. coli",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "For example, microwave-assisted bio-extract-mediated preparation has been used to generate ZnO nanoparticles with reduced crystallite size and modified morphology compared with non-assisted synthesis, illustrating how heating mode and reaction kinetics can be tuned alongside extract chemistry ref [2].",
+    "refNo": 2,
+    "title": "Biofabrication of zinc oxide nanoparticles using fruit extract of Rosa canina and their toxic potential against bacteria: a mechanistic approach",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Overall, the biomedical performance of green ZnO is therefore not determined only by composition and size, but by the full synthesis history: precursor salt, extract identity, pH, temperature, calcination, and post-synthesis washing collectively define crystal defect density, surface-bound phytochemicals, and ultimately bioactivity ref [1], ref [2].",
+    "refNo": 1,
+    "title": "Mechanistic investigation into antibacterial behaviour of suspensions of ZnO nanoparticles against E. coli",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Overall, the biomedical performance of green ZnO is therefore not determined only by composition and size, but by the full synthesis history: precursor salt, extract identity, pH, temperature, calcination, and post-synthesis washing collectively define crystal defect density, surface-bound phytochemicals, and ultimately bioactivity ref [1], ref [2].",
+    "refNo": 2,
+    "title": "Biofabrication of zinc oxide nanoparticles using fruit extract of Rosa canina and their toxic potential against bacteria: a mechanistic approach",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "First-principles analysis has shown that very small ZnO nanowires can exhibit pronounced deviations from bulk behavior, with free-surface-induced charge redistribution and unit-cell contraction contributing to enhanced or modified piezoelectric response ref [7].",
+    "refNo": 7,
+    "title": "Giant piezoelectric size effects in zinc oxide and gallium nitride nanowires. A first principles investigation",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "More generally, size-dependent electromechanical theories emphasize that nanoscale curvature and strain gradients can introduce additional polarization mechanisms beyond classical bulk piezoelectricity ref [8].",
+    "refNo": 8,
+    "title": "Size-dependent piezoelectricity",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "The concept of surface piezoelectricity provides a useful framework for understanding why nanostructures may display piezoelectric coefficients that differ substantially from bulk crystals: broken symmetry, surface relaxation, and reconstruction generate surface-specific polarization contributions that become increasingly dominant as surface-to-volume ratio rises ref [6].",
+    "refNo": 6,
+    "title": "Surface piezoelectricity: size effects in nanostructures and the emergence of piezoelectricity in non-piezoelectric materials",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "For ZnO, this is especially important because polar surfaces and semiconducting behavior are coupled, so nanoscale geometry can modify both local electrostatics and charge transport during mechanical deformation ref [6], ref [7].",
+    "refNo": 6,
+    "title": "Surface piezoelectricity: size effects in nanostructures and the emergence of piezoelectricity in non-piezoelectric materials",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "For ZnO, this is especially important because polar surfaces and semiconducting behavior are coupled, so nanoscale geometry can modify both local electrostatics and charge transport during mechanical deformation ref [6], ref [7].",
+    "refNo": 7,
+    "title": "Giant piezoelectric size effects in zinc oxide and gallium nitride nanowires. A first principles investigation",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "The seminal nanogenerator studies based on aligned ZnO nanowire arrays demonstrated that bending-induced piezopotentials can be harvested electrically through the combined action of piezoelectric polarization and a metal-semiconductor Schottky barrier ref [5].",
+    "refNo": 5,
+    "title": "Piezoelectric nanogenerators based on zinc oxide nanowire arrays",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "In biomedical contexts, this nanoscale piezoelectric sensitivity is attractive for self-powered sensing, mechanotransduction interfaces, and low-power implantable devices, although practical performance remains highly dependent on nanowire dimensions, surface state control, and interfacial contact engineering ref [5], ref [6].",
+    "refNo": 5,
+    "title": "Piezoelectric nanogenerators based on zinc oxide nanowire arrays",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "In biomedical contexts, this nanoscale piezoelectric sensitivity is attractive for self-powered sensing, mechanotransduction interfaces, and low-power implantable devices, although practical performance remains highly dependent on nanowire dimensions, surface state control, and interfacial contact engineering ref [5], ref [6].",
+    "refNo": 6,
+    "title": "Surface piezoelectricity: size effects in nanostructures and the emergence of piezoelectricity in non-piezoelectric materials",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "In a typical process, zinc salts such as zinc acetate are hydrolyzed in alcoholic media and converted through condensation, gelation, drying, and calcination into crystalline ZnO; by adjusting precursor concentration, pH, solvent composition, aging time, and annealing temperature, researchers can tune crystallite size, morphology, and defect density ref [9], ref [2], ref [3].",
+    "refNo": 9,
+    "title": "Synthesis of ZnO nanostructures using sol-gel method",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "In a typical process, zinc salts such as zinc acetate are hydrolyzed in alcoholic media and converted through condensation, gelation, drying, and calcination into crystalline ZnO; by adjusting precursor concentration, pH, solvent composition, aging time, and annealing temperature, researchers can tune crystallite size, morphology, and defect density ref [9], ref [2], ref [3].",
+    "refNo": 2,
+    "title": "Biofabrication of zinc oxide nanoparticles using fruit extract of Rosa canina and their toxic potential against bacteria: a mechanistic approach",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "In a typical process, zinc salts such as zinc acetate are hydrolyzed in alcoholic media and converted through condensation, gelation, drying, and calcination into crystalline ZnO; by adjusting precursor concentration, pH, solvent composition, aging time, and annealing temperature, researchers can tune crystallite size, morphology, and defect density ref [9], ref [2], ref [3].",
+    "refNo": 3,
+    "title": "Recent advances in ZnO materials and devices",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Hasnidawani et al. reported ZnO nanostructures synthesized from zinc acetate using ethanol and NaOH, obtaining homogeneous, crystalline particles with rod-like features by XRD, EDX, and FESEM analysis ref [9].",
+    "refNo": 9,
+    "title": "Synthesis of ZnO nanostructures using sol-gel method",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "More broadly, the sol-gel literature indicates that calcination temperature strongly influences crystallite growth and phase development, while alkaline conditions and solvent choice regulate hydrolysis-condensation kinetics and therefore final particle dimensions ref [2], ref [4].",
+    "refNo": 2,
+    "title": "Biofabrication of zinc oxide nanoparticles using fruit extract of Rosa canina and their toxic potential against bacteria: a mechanistic approach",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "More broadly, the sol-gel literature indicates that calcination temperature strongly influences crystallite growth and phase development, while alkaline conditions and solvent choice regulate hydrolysis-condensation kinetics and therefore final particle dimensions ref [2], ref [4].",
+    "refNo": 4,
+    "title": "Growth of well-defined ZnO microparticles with additives from aqueous solution",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Despite its versatility, the sol-gel route also has limitations, including particle agglomeration during drying/calcination, residual organics from stabilizers or solvents, and batch-to-batch variability when reaction conditions are not rigorously controlled ref [3], ref [5], ref [6].",
+    "refNo": 3,
+    "title": "Recent advances in ZnO materials and devices",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Despite its versatility, the sol-gel route also has limitations, including particle agglomeration during drying/calcination, residual organics from stabilizers or solvents, and batch-to-batch variability when reaction conditions are not rigorously controlled ref [3], ref [5], ref [6].",
+    "refNo": 5,
+    "title": "Piezoelectric nanogenerators based on zinc oxide nanowire arrays",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Despite its versatility, the sol-gel route also has limitations, including particle agglomeration during drying/calcination, residual organics from stabilizers or solvents, and batch-to-batch variability when reaction conditions are not rigorously controlled ref [3], ref [5], ref [6].",
+    "refNo": 6,
+    "title": "Surface piezoelectricity: size effects in nanostructures and the emergence of piezoelectricity in non-piezoelectric materials",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Nevertheless, as a benchmark physicochemical method, sol-gel processing remains highly valuable because it offers reproducible access to ZnO nanostructures with tunable size and morphology, while also providing a useful reference point against which greener biosynthetic routes can be compared ref [9], ref [5], ref [6].",
+    "refNo": 9,
+    "title": "Synthesis of ZnO nanostructures using sol-gel method",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Nevertheless, as a benchmark physicochemical method, sol-gel processing remains highly valuable because it offers reproducible access to ZnO nanostructures with tunable size and morphology, while also providing a useful reference point against which greener biosynthetic routes can be compared ref [9], ref [5], ref [6].",
+    "refNo": 5,
+    "title": "Piezoelectric nanogenerators based on zinc oxide nanowire arrays",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Nevertheless, as a benchmark physicochemical method, sol-gel processing remains highly valuable because it offers reproducible access to ZnO nanostructures with tunable size and morphology, while also providing a useful reference point against which greener biosynthetic routes can be compared ref [9], ref [5], ref [6].",
+    "refNo": 6,
+    "title": "Surface piezoelectricity: size effects in nanostructures and the emergence of piezoelectricity in non-piezoelectric materials",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "In the context of ZnO synthesis, this method is attractive because it minimizes chemical contaminants and enables direct control over crystallinity, defect density, and morphology through laser parameters and liquid environment rather than through added precipitants or capping agents ref [10], ref [2].",
+    "refNo": 10,
+    "title": "ZnO nanorods prepared via ablation of Zn with millisecond laser in liquid media",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "In the context of ZnO synthesis, this method is attractive because it minimizes chemical contaminants and enables direct control over crystallinity, defect density, and morphology through laser parameters and liquid environment rather than through added precipitants or capping agents ref [10], ref [2].",
+    "refNo": 2,
+    "title": "Biofabrication of zinc oxide nanoparticles using fruit extract of Rosa canina and their toxic potential against bacteria: a mechanistic approach",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Using millisecond laser pulses, Honda et al. showed that ablation of Zn in liquid can generate either spherical ZnO nanoparticles or rod-like ZnO nanostructures, with tunable dimensions and aspect ratio controlled by pulse width and peak power ref [10].",
+    "refNo": 10,
+    "title": "ZnO nanorods prepared via ablation of Zn with millisecond laser in liquid media",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Their study further indicated that prolonged thermal input and secondary irradiation of already formed particles promote anisotropic growth and alter surface defect states, highlighting that LAL is not merely a fragmentation process but also a dynamic post-irradiation reshaping route ref [10].",
+    "refNo": 10,
+    "title": "ZnO nanorods prepared via ablation of Zn with millisecond laser in liquid media",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "In nanosecond Nd:YAG ablation, ZnO nanoparticles produced in distilled water and methanol both exhibited the hexagonal wurtzite phase, but their size distribution and absorption characteristics differed because the surrounding medium modifies plume confinement, cooling rate, and oxidation conditions ref [2].",
+    "refNo": 2,
+    "title": "Biofabrication of zinc oxide nanoparticles using fruit extract of Rosa canina and their toxic potential against bacteria: a mechanistic approach",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Although LAL is generally limited by lower yield and broader size distribution compared with high-throughput wet-chemical methods, it remains a valuable conventional physicochemical strategy when high purity, ligand-free surfaces, and facile access to defect-engineered ZnO colloids are desired for downstream biomedical functionalization ref [10], ref [2].",
+    "refNo": 10,
+    "title": "ZnO nanorods prepared via ablation of Zn with millisecond laser in liquid media",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Although LAL is generally limited by lower yield and broader size distribution compared with high-throughput wet-chemical methods, it remains a valuable conventional physicochemical strategy when high purity, ligand-free surfaces, and facile access to defect-engineered ZnO colloids are desired for downstream biomedical functionalization ref [10], ref [2].",
+    "refNo": 2,
+    "title": "Biofabrication of zinc oxide nanoparticles using fruit extract of Rosa canina and their toxic potential against bacteria: a mechanistic approach",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "In this approach, repeated fracture, cold welding, and re-fracture events progressively reduce particle size while largely preserving the wurtzite hexagonal phase, making it attractive for scalable production of ZnO feedstocks for downstream biomedical processing ref [11], ref [12].",
+    "refNo": 11,
+    "title": "Effect of milling speed and time on ultrafine ZnO powder by high energy ball milling technique",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "In this approach, repeated fracture, cold welding, and re-fracture events progressively reduce particle size while largely preserving the wurtzite hexagonal phase, making it attractive for scalable production of ZnO feedstocks for downstream biomedical processing ref [11], ref [12].",
+    "refNo": 12,
+    "title": "High-energy ball milling technique for ZnO nanoparticles as antibacterial material",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Prommalikit et al. showed that increasing milling speed and milling time decreases ZnO particle size from an initial average of about 0.8 μm to the ultrafine range of roughly 200–400 nm, while XRD confirmed retention of the hexagonal crystalline structure across conditions ref [11].",
+    "refNo": 11,
+    "title": "Effect of milling speed and time on ultrafine ZnO powder by high energy ball milling technique",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "In a more extended HEBM study, Salah et al. milled ZnO for 2–50 h and observed progressive size reduction from about 600 nm to ~30 nm, together with peak broadening in XRD, increased particle spheroidization in SEM/TEM, and subtle lattice-parameter changes indicative of milling-induced strain and defect evolution ref [12].",
+    "refNo": 12,
+    "title": "High-energy ball milling technique for ZnO nanoparticles as antibacterial material",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Salah et al. further linked the HEBM-derived structural changes to enhanced antibacterial performance, suggesting that defect chemistry and crystallographic distortion may be as important as size reduction itself for bioactivity ref [12].",
+    "refNo": 12,
+    "title": "High-energy ball milling technique for ZnO nanoparticles as antibacterial material",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "However, compared with wet-chemical or green synthesis routes, mechanical milling often yields broader size distributions, higher agglomeration, and possible contamination from milling media, so post-milling classification and surface modification are usually required before sensitive biomedical use ref [11], ref [12].",
+    "refNo": 11,
+    "title": "Effect of milling speed and time on ultrafine ZnO powder by high energy ball milling technique",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "However, compared with wet-chemical or green synthesis routes, mechanical milling often yields broader size distributions, higher agglomeration, and possible contamination from milling media, so post-milling classification and surface modification are usually required before sensitive biomedical use ref [11], ref [12].",
+    "refNo": 12,
+    "title": "High-energy ball milling technique for ZnO nanoparticles as antibacterial material",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "For example, low-temperature co-precipitation has produced pseudo-spherical, aggregated ZnO nanocrystals with crystallite sizes that decreased markedly as heating time increased, underscoring the kinetic sensitivity of nucleation and growth in these systems ref [14].",
+    "refNo": 14,
+    "title": "Synthesis of nano-sized ZnO particles by co-precipitation method with variation of heating time",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Adam et al. prepared ZnO nanoparticles by co-precipitation at low temperature and showed that the materials were effective in solar-driven Congo red degradation, with photocatalytic behavior varying with solution pH and reactive species generation ref [13].",
+    "refNo": 13,
+    "title": "Synthesis of ZnO nanoparticles by co-precipitation method for solar driven photodegradation of Congo red dye at different pH",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "More broadly, wet-chemical precipitation methods are well known to offer scalable control over morphology and surface hydroxylation, two features that are especially relevant for later biofunctionalization and dispersion in physiological media ref [4], ref [5].",
+    "refNo": 4,
+    "title": "Growth of well-defined ZnO microparticles with additives from aqueous solution",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "More broadly, wet-chemical precipitation methods are well known to offer scalable control over morphology and surface hydroxylation, two features that are especially relevant for later biofunctionalization and dispersion in physiological media ref [4], ref [5].",
+    "refNo": 5,
+    "title": "Piezoelectric nanogenerators based on zinc oxide nanowire arrays",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Aminopropyltriethoxy-silane-modified ZnO nanoparticles exemplify this strategy: silanization improved colloidal/physicochemical stability while enabling tunable luminescent behavior, demonstrating how post-synthetic surface engineering can expand the utility of ZnO beyond bare oxide powders ref [15].",
+    "refNo": 15,
+    "title": "Preparation of luminescent ZnO nanoparticles modified with aminopropyltriethoxy silane for optoelectronic applications",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "For biomedical translation, such surface-modified wet-chemical routes are especially important because they can improve dispersibility, provide anchor groups for drugs or biomolecules, and moderate ZnO-biointerface interactions without abandoning the simplicity and scalability of precipitation-based synthesis ref [15], ref [5].",
+    "refNo": 15,
+    "title": "Preparation of luminescent ZnO nanoparticles modified with aminopropyltriethoxy silane for optoelectronic applications",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "For biomedical translation, such surface-modified wet-chemical routes are especially important because they can improve dispersibility, provide anchor groups for drugs or biomolecules, and moderate ZnO-biointerface interactions without abandoning the simplicity and scalability of precipitation-based synthesis ref [15], ref [5].",
+    "refNo": 5,
+    "title": "Piezoelectric nanogenerators based on zinc oxide nanowire arrays",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "For ZnO in particular, mechanistic studies against Escherichia coli under dark conditions showed that direct physical collision is not necessarily the dominant pathway; rather, chemically mediated damage—especially involving hydrogen peroxide and other ZnO-derived reactive species—plays a central role in compromising membrane proteins and lipid bilayers ref [1].",
+    "refNo": 1,
+    "title": "Mechanistic investigation into antibacterial behaviour of suspensions of ZnO nanoparticles against E. coli",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Comparative antibacterial testing of ZnO nanoparticles against Gram-negative E. coli and Gram-positive Staphylococcus aureus showed concentration-, size-, and time-dependent inhibition, with smaller particles producing stronger effects and bulk ZnO showing negligible activity ref [17].",
+    "refNo": 17,
+    "title": "Size-dependent toxicity of silver nanoparticles to bacteria, yeast, algae, crustaceans and mammalian cells in vitro",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Microscopy-based visualization studies with inorganic nanoparticles further support membrane-centered mechanisms, showing that metal nanoparticles can self-organize at microbial surfaces, induce wall and membrane disintegration, and promote leakage of intracellular contents; these observations help explain why electrostatic interactions and nanoparticle adhesion often precede overt cell death ref [16].",
+    "refNo": 16,
+    "title": "Visualization of interaction between inorganic nanoparticles and bacteria or fungi",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Beyond ZnO, evidence from silver nanoparticle systems reinforces two mechanistic principles relevant to metal oxides: first, dissolved ionic species can account for a substantial fraction of toxicity; and second, very small nanoparticles may exhibit additional contact-mediated or intracellularly enhanced bioavailability effects not explained by ion release alone ref [4].",
+    "refNo": 4,
+    "title": "Growth of well-defined ZnO microparticles with additives from aqueous solution",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "A representative example is the biosynthesis of ZnO nanoparticles using Aeromonas hydrophila, where the microorganism served as an eco-friendly reducing/capping source and produced crystalline hexagonal ZnO with nanoscale dimensions and measurable antibacterial as well as antifungal activity against pathogenic strains ref [19].",
+    "refNo": 19,
+    "title": "Novel microbial route to synthesize ZnO nanoparticles using Aeromonas hydrophila and their activity against pathogenic bacteria and fungi",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "The resulting particles were reported to be hexagonal and roughly 10–100 nm in size, and the EPS shell appeared to improve colloidal stability and biological interfacing ref [18].",
+    "refNo": 18,
+    "title": "Bacterial exopolysaccharide (EPS)-coated ZnO nanoparticles showed high antibiofilm activity and larvicidal toxicity against malaria and zika virus vectors",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Functionally, these EPS-ZnO systems showed growth inhibition of both Gram-negative and Gram-positive bacteria and, notably, strong antibiofilm activity, suggesting that biopolymer coatings can enhance access to extracellular matrices and modulate nanoparticle–cell surface interactions ref [18].",
+    "refNo": 18,
+    "title": "Bacterial exopolysaccharide (EPS)-coated ZnO nanoparticles showed high antibiofilm activity and larvicidal toxicity against malaria and zika virus vectors",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Although mechanistic standardization remains limited, current evidence indicates that microbe- and biopolymer-mediated fabrication provides a practical route to multifunctional ZnO nanomaterials with enhanced antibacterial and antibiofilm utility ref [18], ref [19].",
+    "refNo": 18,
+    "title": "Bacterial exopolysaccharide (EPS)-coated ZnO nanoparticles showed high antibiofilm activity and larvicidal toxicity against malaria and zika virus vectors",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Although mechanistic standardization remains limited, current evidence indicates that microbe- and biopolymer-mediated fabrication provides a practical route to multifunctional ZnO nanomaterials with enhanced antibacterial and antibiofilm utility ref [18], ref [19].",
+    "refNo": 19,
+    "title": "Novel microbial route to synthesize ZnO nanoparticles using Aeromonas hydrophila and their activity against pathogenic bacteria and fungi",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Leaf and stem extracts rich in flavonoids, polyphenols, terpenoids, tannins, and alkaloids have been shown to produce crystalline wurtzite ZnO with nanoscale dimensions under comparatively mild conditions, while avoiding harsher synthetic additives ref [22], ref [25], ref [8], ref [11].",
+    "refNo": 22,
+    "title": "Enhanced antibacterial effects of green synthesized ZnO NPs using aristolochia indica against multi-drug resistant bacterial pathogens from diabetic foot ulcer",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Leaf and stem extracts rich in flavonoids, polyphenols, terpenoids, tannins, and alkaloids have been shown to produce crystalline wurtzite ZnO with nanoscale dimensions under comparatively mild conditions, while avoiding harsher synthetic additives ref [22], ref [25], ref [8], ref [11].",
+    "refNo": 25,
+    "title": "Biogenic synthesis of zinc oxide nanoparticles using Ruta graveolens (L.) and their antibacterial and antioxidant activities",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Leaf and stem extracts rich in flavonoids, polyphenols, terpenoids, tannins, and alkaloids have been shown to produce crystalline wurtzite ZnO with nanoscale dimensions under comparatively mild conditions, while avoiding harsher synthetic additives ref [22], ref [25], ref [8], ref [11].",
+    "refNo": 8,
+    "title": "Size-dependent piezoelectricity",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Leaf and stem extracts rich in flavonoids, polyphenols, terpenoids, tannins, and alkaloids have been shown to produce crystalline wurtzite ZnO with nanoscale dimensions under comparatively mild conditions, while avoiding harsher synthetic additives ref [22], ref [25], ref [8], ref [11].",
+    "refNo": 11,
+    "title": "Effect of milling speed and time on ultrafine ZnO powder by high energy ball milling technique",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Bauhinia tomentosa-derived ZnO exhibited hexagonal nanosized particles and stronger activity against Gram-negative P. aeruginosa and E. coli than against Gram-positive strains ref [22].",
+    "refNo": 22,
+    "title": "Enhanced antibacterial effects of green synthesized ZnO NPs using aristolochia indica against multi-drug resistant bacterial pathogens from diabetic foot ulcer",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Neem (Azadirachta indica) leaf extract yielded predominantly spherical ZnO nanoparticles in the 9.6–25.5 nm range, with concentration-dependent inhibition of S. aureus, S. pyogenes, and E. coli ref [8].",
+    "refNo": 8,
+    "title": "Size-dependent piezoelectricity",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Ruta graveolens stem extract produced roughly spherical ZnO around 28 nm that inhibited K. aerogenes, P. aeruginosa, E. coli, and S. aureus ref [11].",
+    "refNo": 11,
+    "title": "Effect of milling speed and time on ultrafine ZnO powder by high energy ball milling technique",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Similarly, ZnO synthesized with Allium sativum, Rosmarinus officinalis, and Ocimum basilicum extracts showed improved bactericidal activity relative to chemically prepared ZnO, underscoring the functional contribution of plant-derived surface species ref [23].",
+    "refNo": 23,
+    "title": "Green synthesis of multifunctional zinc oxide (ZnO) nanoparticles using Cassia fistula plant extract and their photodegradative, antioxidant and antibacterial activities",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Aristolochia indica-assisted ZnO displayed notable potency against multidrug-resistant diabetic foot ulcer isolates, with MIC/MBC values of 25-400 microg/mL and corroborative time-kill, protein leakage, and flow-cytometric evidence of membrane damage ref [24].",
+    "refNo": 24,
+    "title": "Biosynthesis of zinc oxide nanoparticles from Azadirachta indica for antibacterial and photocatalytic applications",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Cassia fistula-mediated ZnO, with crystallite sizes of about 5-15 nm, also showed significant antimicrobial activity alongside antioxidant functionality ref [25].",
+    "refNo": 25,
+    "title": "Biogenic synthesis of zinc oxide nanoparticles using Ruta graveolens (L.) and their antibacterial and antioxidant activities",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Sechium edule-derived ZnO further highlighted the multifunctionality of these systems, combining antibacterial action with photocatalytic and cytotoxic effects ref [10].",
+    "refNo": 10,
+    "title": "ZnO nanorods prepared via ablation of Zn with millisecond laser in liquid media",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "In practice, plant metabolites act not only as reducing/capping agents but also as soft structure-directing ligands that stabilize anisotropic growth and surface-active defect states in ZnO nanostructures ref [4].",
+    "refNo": 4,
+    "title": "Growth of well-defined ZnO microparticles with additives from aqueous solution",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Using Hibiscus rosa-sinensis leaf extract, Fe-doped ZnO nanoparticles showed improved antibacterial activity against Escherichia coli and antifungal activity against Candida albicans relative to pure and commercial ZnO; the improvement was associated with smaller particle size, abundant hydroxyl groups, and more favorable band energetics, alongside the added benefit of magnetic recoverability ref [26].",
+    "refNo": 26,
+    "title": "Green synthesis of magnetic Fe-doped ZnO nanoparticles via Hibiscus rosa-sinensis leaf extracts for boosted photocatalytic, antibacterial and antifungal activities",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "Similarly, Amaranthus spinosus-mediated Fe-doped ZnO exhibited stronger bactericidal effects than undoped ZnO, especially against Gram-negative E. coli, while also showing reduced aggregation and altered dissolution behavior; notably, 1 wt% Fe doping lowered cytotoxicity toward MCF-7 cells compared with undoped ZnO, underscoring the possibility of balancing antimicrobial potency with biocompatibility ref [27].",
+    "refNo": 27,
+    "title": "Strategy of metal iron doping and green-mediated ZnO nanoparticles: dissolubility, antibacterial and cytotoxic traits",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "A plant-assisted synthesis generating plates, bullets, flowers, prismatic tips, and closed pine-cone ZnO architectures demonstrated that shape-dependent surface exposure and crystallographic facets correlate with differences in antibacterial behavior, consistent with morphology-governed adhesion and ROS-mediated membrane damage ref [4].",
+    "refNo": 4,
+    "title": "Growth of well-defined ZnO microparticles with additives from aqueous solution",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Collectively, these studies indicate that green ZnO should be viewed not as a single material class but as a tunable platform in which dopants, capping chemistry, and nano/micro-architecture can be co-optimized for antimicrobial coatings, wound-care materials, and reusable disinfecting systems ref [26], ref [27], ref [4].",
+    "refNo": 26,
+    "title": "Green synthesis of magnetic Fe-doped ZnO nanoparticles via Hibiscus rosa-sinensis leaf extracts for boosted photocatalytic, antibacterial and antifungal activities",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "Collectively, these studies indicate that green ZnO should be viewed not as a single material class but as a tunable platform in which dopants, capping chemistry, and nano/micro-architecture can be co-optimized for antimicrobial coatings, wound-care materials, and reusable disinfecting systems ref [26], ref [27], ref [4].",
+    "refNo": 27,
+    "title": "Strategy of metal iron doping and green-mediated ZnO nanoparticles: dissolubility, antibacterial and cytotoxic traits",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "Collectively, these studies indicate that green ZnO should be viewed not as a single material class but as a tunable platform in which dopants, capping chemistry, and nano/micro-architecture can be co-optimized for antimicrobial coatings, wound-care materials, and reusable disinfecting systems ref [26], ref [27], ref [4].",
+    "refNo": 4,
+    "title": "Growth of well-defined ZnO microparticles with additives from aqueous solution",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "In an early example, ZnO nanoparticles prepared in an ionic-liquid-based green medium were dispersed in glycerol with ammonium citrate to form stable nanofluids, and their antibacterial activity against Escherichia coli increased with both ZnO concentration and exposure time, underscoring the importance of colloidal stability and nanoparticle–cell contact in liquid-phase antimicrobial performance ref [29].",
+    "refNo": 29,
+    "title": "Facile green synthesis of zinc oxide nanoparticles using Ulva lactuca seaweed extract and evaluation of their photocatalytic, antibiofilm and insecticidal activity",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Using Ulva lactuca extract, green-fabricated ZnO nanoparticles were shown not only to possess antimicrobial and antibiofilm activity, but also photocatalytic and insecticidal functions, illustrating how algal-derived surface chemistries can produce broad-spectrum bioactive platforms rather than single-purpose antibacterial agents ref [2].",
+    "refNo": 2,
+    "title": "Biofabrication of zinc oxide nanoparticles using fruit extract of Rosa canina and their toxic potential against bacteria: a mechanistic approach",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Future translation will depend on balancing antimicrobial potency with storage stability, reproducible extract composition, and biocompatibility under realistic biomedical exposure conditions ref [29], ref [2].",
+    "refNo": 29,
+    "title": "Facile green synthesis of zinc oxide nanoparticles using Ulva lactuca seaweed extract and evaluation of their photocatalytic, antibiofilm and insecticidal activity",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Future translation will depend on balancing antimicrobial potency with storage stability, reproducible extract composition, and biocompatibility under realistic biomedical exposure conditions ref [29], ref [2].",
+    "refNo": 2,
+    "title": "Biofabrication of zinc oxide nanoparticles using fruit extract of Rosa canina and their toxic potential against bacteria: a mechanistic approach",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "In wound settings, these materials are typically developed as gels, nanocomposites, or bandage coatings to suppress local infection, limit biofilm formation, and support re-epithelialization and tissue remodeling ref [30], ref [2], ref [3].",
+    "refNo": 30,
+    "title": "Potential bactericidal activity of S. Nux-vomica-ZnO nanocomposite against multidrug-resistant bacterial pathogens and wound-healing properties",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "In wound settings, these materials are typically developed as gels, nanocomposites, or bandage coatings to suppress local infection, limit biofilm formation, and support re-epithelialization and tissue remodeling ref [30], ref [2], ref [3].",
+    "refNo": 2,
+    "title": "Biofabrication of zinc oxide nanoparticles using fruit extract of Rosa canina and their toxic potential against bacteria: a mechanistic approach",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "In wound settings, these materials are typically developed as gels, nanocomposites, or bandage coatings to suppress local infection, limit biofilm formation, and support re-epithelialization and tissue remodeling ref [30], ref [2], ref [3].",
+    "refNo": 3,
+    "title": "Recent advances in ZnO materials and devices",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Barleria gibsoni leaf-extract-mediated ZnO nanoparticles were incorporated into a topical gel and reported as a wound-therapy platform, highlighting the feasibility of green ZnO formulations for pediatric nursing care and localized application ref [30].",
+    "refNo": 30,
+    "title": "Potential bactericidal activity of S. Nux-vomica-ZnO nanocomposite against multidrug-resistant bacterial pathogens and wound-healing properties",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "Likewise, an S. nux-vomica-ZnO nanocomposite showed strong bactericidal effects against multidrug-resistant wound pathogens together with wound-healing potential, underscoring the importance of coupling infection control with repair-promoting activity in chronic or contaminated wounds ref [2].",
+    "refNo": 2,
+    "title": "Biofabrication of zinc oxide nanoparticles using fruit extract of Rosa canina and their toxic potential against bacteria: a mechanistic approach",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Khatami et al. demonstrated that cotton bandages impregnated with green ZnO nanoparticles, as well as mixed Ag/ZnO systems, inhibited clinically relevant pathogens, supporting ZnO-enabled wound coverings as low-cost and scalable biomaterials ref [3].",
+    "refNo": 3,
+    "title": "Recent advances in ZnO materials and devices",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Mechanistically, the wound-healing value of green ZnO is generally attributed to sustained Zn2+ release, reactive oxygen species-mediated antibacterial action, and favorable interfacial interactions with damaged tissue; however, future work should more rigorously compare healing kinetics, inflammatory responses, and long-term safety across plant sources, particle sizes, and dressing matrices ref [30], ref [2], ref [3].",
+    "refNo": 30,
+    "title": "Potential bactericidal activity of S. Nux-vomica-ZnO nanocomposite against multidrug-resistant bacterial pathogens and wound-healing properties",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "Mechanistically, the wound-healing value of green ZnO is generally attributed to sustained Zn2+ release, reactive oxygen species-mediated antibacterial action, and favorable interfacial interactions with damaged tissue; however, future work should more rigorously compare healing kinetics, inflammatory responses, and long-term safety across plant sources, particle sizes, and dressing matrices ref [30], ref [2], ref [3].",
+    "refNo": 2,
+    "title": "Biofabrication of zinc oxide nanoparticles using fruit extract of Rosa canina and their toxic potential against bacteria: a mechanistic approach",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Mechanistically, the wound-healing value of green ZnO is generally attributed to sustained Zn2+ release, reactive oxygen species-mediated antibacterial action, and favorable interfacial interactions with damaged tissue; however, future work should more rigorously compare healing kinetics, inflammatory responses, and long-term safety across plant sources, particle sizes, and dressing matrices ref [30], ref [2], ref [3].",
+    "refNo": 3,
+    "title": "Recent advances in ZnO materials and devices",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "These features have enabled green-compatible ZnO platforms that act simultaneously as carriers, pH-responsive release gates, and cytotoxic amplifiers through Zn2+ release and reactive oxygen species generation, thereby improving drug accumulation in malignant tissue while potentially reducing off-target exposure ref [31], ref [32].",
+    "refNo": 31,
+    "title": "PH-sensitive ZnO quantum dots-doxorubicin nanoparticles for lung cancer targeted drug delivery",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "These features have enabled green-compatible ZnO platforms that act simultaneously as carriers, pH-responsive release gates, and cytotoxic amplifiers through Zn2+ release and reactive oxygen species generation, thereby improving drug accumulation in malignant tissue while potentially reducing off-target exposure ref [31], ref [32].",
+    "refNo": 32,
+    "title": "Synergistic effect of chemo-photothermal for breast cancer therapy using folic acid (FA) modified zinc oxide nanosheet",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "The formulation showed preferential drug release under acidic conditions relevant to tumors and intracellular vesicles, supporting enhanced cancer-cell killing relative to nontriggered delivery and illustrating how ZnO can integrate targeting and stimulus-responsive chemotherapy within a single construct ref [31].",
+    "refNo": 31,
+    "title": "PH-sensitive ZnO quantum dots-doxorubicin nanoparticles for lung cancer targeted drug delivery",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "The combined chemo-photothermal regimen produced greater cytotoxicity than either chemotherapy or photothermal treatment alone and showed low systemic toxicity in mice, underscoring the translational appeal of multifunctional ZnO systems ref [32].",
+    "refNo": 32,
+    "title": "Synergistic effect of chemo-photothermal for breast cancer therapy using folic acid (FA) modified zinc oxide nanosheet",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "Recent studies therefore combine biosynthesized ZnO with conductive carbon scaffolds or electrode surfaces to enhance sensitivity, selectivity, and operational stability in clinically and environmentally relevant assays ref [33], ref [34], ref [5].",
+    "refNo": 33,
+    "title": "High-performance glucose biosensor based on green synthesized zinc oxide nanoparticle embedded nitrogen-doped carbon sheet",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "Recent studies therefore combine biosynthesized ZnO with conductive carbon scaffolds or electrode surfaces to enhance sensitivity, selectivity, and operational stability in clinically and environmentally relevant assays ref [33], ref [34], ref [5].",
+    "refNo": 34,
+    "title": "Fabrication of organophosphorus biosensor using ZnO nanoparticle-decorated carbon nanotube-graphene hybrid composite prepared by a novel green technique",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "Recent studies therefore combine biosynthesized ZnO with conductive carbon scaffolds or electrode surfaces to enhance sensitivity, selectivity, and operational stability in clinically and environmentally relevant assays ref [33], ref [34], ref [5].",
+    "refNo": 5,
+    "title": "Piezoelectric nanogenerators based on zinc oxide nanowire arrays",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "A representative example is the glucose sensor based on green-synthesized ZnO nanoparticles embedded in a nitrogen-doped carbon sheet, where the hybrid architecture provided a large electroactive area and efficient charge transport, enabling high-performance glucose detection ref [33].",
+    "refNo": 33,
+    "title": "High-performance glucose biosensor based on green synthesized zinc oxide nanoparticle embedded nitrogen-doped carbon sheet",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "Likewise, a solar-assisted green synthesis was used to prepare ZnO nanoparticle-decorated carbon nanotube/graphene composites for organophosphorus sensing; the resulting acetylcholinesterase-based platform showed strong enzyme affinity (Km = 0.8 mM), a linear paraoxon response from 1 to 26 nM, and an ultralow detection limit of 1 pM, highlighting the synergy between biogenic ZnO and conductive nanocarbons ref [34].",
+    "refNo": 34,
+    "title": "Fabrication of organophosphorus biosensor using ZnO nanoparticle-decorated carbon nanotube-graphene hybrid composite prepared by a novel green technique",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "ZnO nanoparticles biosynthesized using Corymbia citriodora leaf extract were successfully integrated onto a glassy carbon electrode to construct an electrochemical H2O2 biosensor with excellent trace-level detection performance ref [5].",
+    "refNo": 5,
+    "title": "Piezoelectric nanogenerators based on zinc oxide nanowire arrays",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Collectively, these studies indicate that green-synthesized ZnO is not merely a sustainable substitute for conventionally prepared ZnO, but a versatile sensing component whose surface chemistry can be leveraged to build low-cost biosensors for metabolites, toxins, and reactive oxygen species ref [33], ref [34], ref [5].",
+    "refNo": 33,
+    "title": "High-performance glucose biosensor based on green synthesized zinc oxide nanoparticle embedded nitrogen-doped carbon sheet",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "Collectively, these studies indicate that green-synthesized ZnO is not merely a sustainable substitute for conventionally prepared ZnO, but a versatile sensing component whose surface chemistry can be leveraged to build low-cost biosensors for metabolites, toxins, and reactive oxygen species ref [33], ref [34], ref [5].",
+    "refNo": 34,
+    "title": "Fabrication of organophosphorus biosensor using ZnO nanoparticle-decorated carbon nanotube-graphene hybrid composite prepared by a novel green technique",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "Collectively, these studies indicate that green-synthesized ZnO is not merely a sustainable substitute for conventionally prepared ZnO, but a versatile sensing component whose surface chemistry can be leveraged to build low-cost biosensors for metabolites, toxins, and reactive oxygen species ref [33], ref [34], ref [5].",
+    "refNo": 5,
+    "title": "Piezoelectric nanogenerators based on zinc oxide nanowire arrays",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "A recent review of phytofabricated zinc nanomaterials emphasized that these systems are being explored not only as cytotoxic nanomedicines but also as theranostic platforms, although most evidence remains preclinical and in vitro ref [35].",
+    "refNo": 35,
+    "title": "Biofabrication of zinc oxide nanoparticles from Aspergillus niger, their antioxidant, antimicrobial and anticancer activity",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "Eco-friendly ZnO NPs were reported to suppress MCF-7 breast cancer cell proliferation through cell-cycle arrest and apoptosis-associated gene regulation ref [38].",
+    "refNo": 38,
+    "title": "Biosynthesis of zinc oxide nanoparticles using Albizia lebbeck stem bark, and evaluation of its antimicrobial, antioxidant, and cytotoxic activities on human breast cancer cell lines",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Likewise, Eclipta prostrata-mediated ZnO NPs induced caspase-dependent apoptosis and DNA fragmentation in human liver carcinoma cells, indicating a canonical programmed cell death pathway ref [11].",
+    "refNo": 11,
+    "title": "Effect of milling speed and time on ultrafine ZnO powder by high energy ball milling technique",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "In HepG2 cells, Aspergillus niger-derived ZnO NPs produced dose-dependent cytotoxicity with apoptotic features ref [37], while Mangifera indica-mediated ZnO NPs reduced viability of A549 lung cancer cells ref [7].",
+    "refNo": 37,
+    "title": "Biosynthesis of zinc oxide nanoparticles using Mangifera indica leaves and evaluation of their antioxidant and cytotoxic properties in lung cancer (A549) cells",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "In HepG2 cells, Aspergillus niger-derived ZnO NPs produced dose-dependent cytotoxicity with apoptotic features ref [37], while Mangifera indica-mediated ZnO NPs reduced viability of A549 lung cancer cells ref [7].",
+    "refNo": 7,
+    "title": "Giant piezoelectric size effects in zinc oxide and gallium nitride nanowires. A first principles investigation",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Plant-derived formulations synthesized from Albizia lebbeck also showed antiproliferative effects against MCF-7 and MDA-MB-231 breast cancer cells ref [8].",
+    "refNo": 8,
+    "title": "Size-dependent piezoelectricity",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Gymnema sylvestre-assisted synthesis of rare-earth-doped ZnO nanoparticles demonstrated that doping can modulate bioactivity and improve cytotoxic performance against carcinoma cells relative to undoped ZnO ref [12].",
+    "refNo": 12,
+    "title": "High-energy ball milling technique for ZnO nanoparticles as antibacterial material",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Overall, the literature suggests that green-synthesized ZnO NPs can engage multiple anticancer mechanisms—oxidative stress, membrane damage, mitochondrial injury, and apoptosis—yet translational progress will require standardized synthesis, rigorous comparisons with normal cells, and in vivo validation of tumor selectivity, pharmacokinetics, and long-term safety ref [35].",
+    "refNo": 35,
+    "title": "Biofabrication of zinc oxide nanoparticles from Aspergillus niger, their antioxidant, antimicrobial and anticancer activity",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "Across the reviewed literature, green ZnO systems repeatedly show promise in antibacterial, antibiofilm, antioxidant, anticancer, wound-healing, and biosensing contexts, while also offering compatibility with hybrid therapeutic strategies such as pH-responsive drug delivery and chemo-photothermal treatment ref [31], ref [32], ref [30], ref [33], ref [18], ref [29].",
+    "refNo": 31,
+    "title": "PH-sensitive ZnO quantum dots-doxorubicin nanoparticles for lung cancer targeted drug delivery",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "Across the reviewed literature, green ZnO systems repeatedly show promise in antibacterial, antibiofilm, antioxidant, anticancer, wound-healing, and biosensing contexts, while also offering compatibility with hybrid therapeutic strategies such as pH-responsive drug delivery and chemo-photothermal treatment ref [31], ref [32], ref [30], ref [33], ref [18], ref [29].",
+    "refNo": 32,
+    "title": "Synergistic effect of chemo-photothermal for breast cancer therapy using folic acid (FA) modified zinc oxide nanosheet",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "Across the reviewed literature, green ZnO systems repeatedly show promise in antibacterial, antibiofilm, antioxidant, anticancer, wound-healing, and biosensing contexts, while also offering compatibility with hybrid therapeutic strategies such as pH-responsive drug delivery and chemo-photothermal treatment ref [31], ref [32], ref [30], ref [33], ref [18], ref [29].",
+    "refNo": 30,
+    "title": "Potential bactericidal activity of S. Nux-vomica-ZnO nanocomposite against multidrug-resistant bacterial pathogens and wound-healing properties",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "Across the reviewed literature, green ZnO systems repeatedly show promise in antibacterial, antibiofilm, antioxidant, anticancer, wound-healing, and biosensing contexts, while also offering compatibility with hybrid therapeutic strategies such as pH-responsive drug delivery and chemo-photothermal treatment ref [31], ref [32], ref [30], ref [33], ref [18], ref [29].",
+    "refNo": 33,
+    "title": "High-performance glucose biosensor based on green synthesized zinc oxide nanoparticle embedded nitrogen-doped carbon sheet",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "Across the reviewed literature, green ZnO systems repeatedly show promise in antibacterial, antibiofilm, antioxidant, anticancer, wound-healing, and biosensing contexts, while also offering compatibility with hybrid therapeutic strategies such as pH-responsive drug delivery and chemo-photothermal treatment ref [31], ref [32], ref [30], ref [33], ref [18], ref [29].",
+    "refNo": 18,
+    "title": "Bacterial exopolysaccharide (EPS)-coated ZnO nanoparticles showed high antibiofilm activity and larvicidal toxicity against malaria and zika virus vectors",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Across the reviewed literature, green ZnO systems repeatedly show promise in antibacterial, antibiofilm, antioxidant, anticancer, wound-healing, and biosensing contexts, while also offering compatibility with hybrid therapeutic strategies such as pH-responsive drug delivery and chemo-photothermal treatment ref [31], ref [32], ref [30], ref [33], ref [18], ref [29].",
+    "refNo": 29,
+    "title": "Facile green synthesis of zinc oxide nanoparticles using Ulva lactuca seaweed extract and evaluation of their photocatalytic, antibiofilm and insecticidal activity",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "The broader ZnO literature also makes clear that nanoscale size effects strongly influence dissolution, surface reactivity, piezoelectric behavior, and biological interactions, implying that reproducibility and translational evaluation must be tied to rigorous physicochemical characterization rather than nominal synthesis labels alone ref [3], ref [8].",
+    "refNo": 3,
+    "title": "Recent advances in ZnO materials and devices",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "The broader ZnO literature also makes clear that nanoscale size effects strongly influence dissolution, surface reactivity, piezoelectric behavior, and biological interactions, implying that reproducibility and translational evaluation must be tied to rigorous physicochemical characterization rather than nominal synthesis labels alone ref [3], ref [8].",
+    "refNo": 8,
+    "title": "Size-dependent piezoelectricity",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Such visual synthesis can help clarify where evidence is mature, where mechanistic gaps persist, and which green ZnO designs are most ready for biomedical translation ref [31], ref [33], ref [29].",
+    "refNo": 31,
+    "title": "PH-sensitive ZnO quantum dots-doxorubicin nanoparticles for lung cancer targeted drug delivery",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "Such visual synthesis can help clarify where evidence is mature, where mechanistic gaps persist, and which green ZnO designs are most ready for biomedical translation ref [31], ref [33], ref [29].",
+    "refNo": 33,
+    "title": "High-performance glucose biosensor based on green synthesized zinc oxide nanoparticle embedded nitrogen-doped carbon sheet",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "Such visual synthesis can help clarify where evidence is mature, where mechanistic gaps persist, and which green ZnO designs are most ready for biomedical translation ref [31], ref [33], ref [29].",
+    "refNo": 29,
+    "title": "Facile green synthesis of zinc oxide nanoparticles using Ulva lactuca seaweed extract and evaluation of their photocatalytic, antibiofilm and insecticidal activity",
+    "marker_text": "[29]"
+  }
+]

@@ -1,0 +1,608 @@
+[
+  {
+    "sentence": "A hallmark of deep-diving mammals is the elevated concentration of myoglobin in skeletal muscle, which serves as the primary oxygen reservoir, accounting for more than 80% of total body oxygen stores in elite divers such as elephant seals and Weddell seals ref [1].",
+    "refNo": 1,
+    "title": "The physiological basis of diving to depth: birds and mammals",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "This muscular oxygen depot, combined with enhanced blood volume and hemoglobin concentration, enables extended aerobic dive durations, minimizing reliance on anaerobic metabolism—a strategy more common in diving birds ref [1].",
+    "refNo": 1,
+    "title": "The physiological basis of diving to depth: birds and mammals",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "The Weddell seal, for instance, exhibits exceptional aerobic endurance, with dive durations often exceeding the calculated aerobic dive limit, facilitated by efficient oxygen extraction and reduced metabolic rates during submersion ref [2].",
+    "refNo": 2,
+    "title": "Maximum Diving Capacities of the Weddell Seal, Leptonychotes weddelli",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Female northern elephant seals demonstrate a nearly continuous diving pattern during foraging migrations, with mean dive durations of nearly 20 minutes and depths reaching up to 894 m, indicating a physiological capacity to sustain prolonged aerobic activity under extreme pressure ref [3].",
+    "refNo": 3,
+    "title": "Continuous, deep diving in female northern elephant seals, Mirounga angustirostris",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "This behavior is energetically optimized, with short surface intervals (mean 2.8 min) allowing rapid reoxygenation and minimal time loss ref [3].",
+    "refNo": 3,
+    "title": "Continuous, deep diving in female northern elephant seals, Mirounga angustirostris",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Foraging success is further linked to the duration spent at the bottom of dives, where accumulated bottom time correlates strongly with feeding events, suggesting that physiological limits on aerobic capacity directly constrain foraging efficiency ref [10].",
+    "refNo": 10,
+    "title": "Drag, but not buoyancy, affects swim speed in captive Steller sea lions",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Additionally, physiological constraints such as digestion and metabolic demand can temporarily reduce the aerobic dive limit, as observed in southern elephant seals feeding on benthic prey ref [4].",
+    "refNo": 4,
+    "title": "Foraging ecology of southern elephant seals in relation to the bathymetry and productivity of the Southern Ocean",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Computational fluid dynamics simulations on grey seals demonstrated that satellite transmitters elevate drag coefficients by 12%, while also inducing substantial increases in pitching moment (32%) and lift (240%), potentially disrupting natural swimming mechanics and posture ref [7].",
+    "refNo": 7,
+    "title": "Flow simulation along a seal: the impact of an external device",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Experimental studies on Steller sea lions confirmed that drag, but not buoyancy, directly impairs swim speed, suggesting that tagged animals may suboptimally forage due to increased hydrodynamic costs ref [10].",
+    "refNo": 10,
+    "title": "Drag, but not buoyancy, affects swim speed in captive Steller sea lions",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Female Antarctic fur seals equipped with cameras and near-infrared flashes exhibited prolonged dive durations and altered diel dive patterns, with flash operation disrupting expected nighttime dive shallowing and increasing dive depth early in foraging trips ref [6].",
+    "refNo": 6,
+    "title": "Effect of animal-borne camera and flash on the diving behaviour of the female Antarctic fur seal (Arctocephalus gazella)",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Handling and tagging procedures themselves also induce stress responses, as evidenced in Antarctic fur seals where instrument attachment correlated with transient changes in haul-out behavior and energy allocation ref [8].",
+    "refNo": 8,
+    "title": "Instrumentation and handling effects on Antarctic fur seals (Arctocephalus gazella)",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "A comprehensive review of marine mammal tagging techniques highlights that while survival is rarely affected, short-term behavioral changes—including altered swimming, haul-out patterns, and maternal care—are frequently reported, yet underpublished due to publication bias ref [9].",
+    "refNo": 9,
+    "title": "A review of the effects of different marking and tagging techniques on marine mammals",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Accelerometry, in particular, has become a cornerstone for inferring foraging effort and body dynamics, with metrics like Overall Dynamic Body Acceleration (ODBA) serving as proxies for energy expenditure ref [13].",
+    "refNo": 13,
+    "title": "Technical Note: Animal-borne CTD-Satellite Relay Data Loggers for real-time oceanographic data collection",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "The development of CTD-Satellite Relay Data Loggers (CTD-SRDLs) has further expanded the utility of instrumented pinnipeds, allowing real-time collection of high-accuracy oceanographic profiles from remote and undersampled regions, effectively turning animals into autonomous oceanographic platforms ref [6].",
+    "refNo": 6,
+    "title": "Effect of animal-borne camera and flash on the diving behaviour of the female Antarctic fur seal (Arctocephalus gazella)",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "These devices now routinely record temperature and salinity with precision better than 0.005 °C and 0.02, respectively, significantly enhancing both ecological and physical oceanography ref [6].",
+    "refNo": 6,
+    "title": "Effect of animal-borne camera and flash on the diving behaviour of the female Antarctic fur seal (Arctocephalus gazella)",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Intelligent data loggers now employ context-driven compression and automated relay systems to maximize information yield while minimizing power consumption and tag size, enabling longer deployments on smaller species ref [7].",
+    "refNo": 7,
+    "title": "Flow simulation along a seal: the impact of an external device",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Crucially, the temporal frequency and spatial accuracy of location data are heavily influenced by programming protocols; irregular or infrequent sampling can obscure small-scale movement patterns, whereas frequent Argos fixes can compensate for lower positional accuracy when analyzed with state-space models ref [10].",
+    "refNo": 10,
+    "title": "Drag, but not buoyancy, affects swim speed in captive Steller sea lions",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "The integration of biologging data with environmental datasets and advanced statistical frameworks has further refined behavioral inference, allowing researchers to link individual foraging decisions to broader ecological patterns ref [12].",
+    "refNo": 12,
+    "title": "New frontiers in biologging science",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "ARGOS location estimates, particularly for lower-quality classes (0, A, B), exhibit substantial spatial error, often exceeding 1 km and showing asymmetric biases between longitude and latitude ref [20].",
+    "refNo": 20,
+    "title": "Assessment of Argos Location Accuracy from Satellite Tags Deployed on Captive Gray Seals",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "The advent of Fastloc GPS has enabled direct validation of ARGOS accuracy, revealing that 68th percentile errors for ARGOS locations can range from 226 m (LC 3) to over 750 m (LC 1), with significant variability across species and habitats ref [16].",
+    "refNo": 16,
+    "title": "Accuracy of ARGOS locations of pinnipeds at-Sea estimated using fastloc GPS",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Studies comparing SSM outputs against GPS ground truth show that while Kalman filtering and Bayesian SSMs improve location accuracy—reducing error by up to 27% compared to traditional least squares methods—their efficacy is sensitive to speed thresholds and sampling frequency ref [17], ref [18], ref [19].",
+    "refNo": 17,
+    "title": "Using GPS data to evaluate the accuracy of state-space methods for correction of Argos satellite telemetry error",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Studies comparing SSM outputs against GPS ground truth show that while Kalman filtering and Bayesian SSMs improve location accuracy—reducing error by up to 27% compared to traditional least squares methods—their efficacy is sensitive to speed thresholds and sampling frequency ref [17], ref [18], ref [19].",
+    "refNo": 18,
+    "title": "The Argos-CLS Kalman Filter: Error Structures and State-Space Modelling Relative to Fastloc GPS Data",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Studies comparing SSM outputs against GPS ground truth show that while Kalman filtering and Bayesian SSMs improve location accuracy—reducing error by up to 27% compared to traditional least squares methods—their efficacy is sensitive to speed thresholds and sampling frequency ref [17], ref [18], ref [19].",
+    "refNo": 19,
+    "title": "Assessing Performance of Bayesian State-Space Models Fit to Argos Satellite Telemetry Locations Processed with Kalman Filtering",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Moreover, interpolated positions between satellite passes may introduce spurious movement patterns, particularly when animals exhibit rapid directional changes during foraging ref [8].",
+    "refNo": 8,
+    "title": "Instrumentation and handling effects on Antarctic fur seals (Arctocephalus gazella)",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Spatial inaccuracies can reduce the probability of detecting ARS by over 50% across all scales, and require a minimum of 13 high-quality locations to reliably identify foraging zones—conditions rarely met with ARGOS-only data ref [8].",
+    "refNo": 8,
+    "title": "Instrumentation and handling effects on Antarctic fur seals (Arctocephalus gazella)",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Field validation using animal-borne video has emerged as a gold standard, demonstrating that descent rate alone can predict prey capture attempts (APCs) in Australian fur seals with up to 77.5% accuracy, and that the majority of dives contain successful captures ref [26].",
+    "refNo": 26,
+    "title": "Dive characteristics can predict foraging success in Australian fur seals (Arctocephalus pusillus doriferus) as validated by animal-borne video",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "Similarly, head-mounted accelerometers have been successfully calibrated against video to identify prey handling events with high precision, enabling the detection of fine-scale foraging behaviors in otariids ref [22].",
+    "refNo": 22,
+    "title": "Identification of prey captures in australian Fur seals (arctocephalus pusillus doriferus) using head-mounted accelerometers: field validation with animal-borne video cameras",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "These approaches have been extended to penguins, where supervised machine learning models using accelerometry classify prey capture events with 84.95% accuracy, validating the use of behavioral signatures beyond dive metrics ref [23].",
+    "refNo": 23,
+    "title": "Supervised accelerometry analysis can identify prey capture by penguins at sea",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "In northern elephant seals, stomach temperature drops confirmed feeding events, revealing that reduced transit rates correlate strongly with prey consumption, thereby supporting the use of movement metrics as indirect indicators ref [24].",
+    "refNo": 24,
+    "title": "Time to eat: measurements of feeding behaviour in a large marine predator, the northern elephant seal Mirounga angustirostris",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Jaw-motion recorders further revealed that these seals make thousands of feeding attempts per foraging trip, primarily targeting small mesopelagic prey, challenging assumptions that deep dives equate to large prey captures ref [27].",
+    "refNo": 27,
+    "title": "Unravelling the mysteries of a mesopelagic diet: a large apex predator specializes on small prey",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "A multi-scale analysis in Antarctic fur seals showed that predictive models of prey capture attempts improve with temporal aggregation, with descent and ascent rates being the most consistent predictors across scales, though model parameters vary by species and context ref [25].",
+    "refNo": 25,
+    "title": "Can We predict foraging success in a marine predator from dive patterns only? validation with prey capture attempt data",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Studies using animal-borne video and accelerometry have demonstrated that descent rate is a robust predictor of prey capture attempts in Australian fur seals, with models achieving up to 77.5% accuracy in classifying foraging dives ref [26].",
+    "refNo": 26,
+    "title": "Dive characteristics can predict foraging success in Australian fur seals (Arctocephalus pusillus doriferus) as validated by animal-borne video",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "Similarly, in Antarctic fur seals, descent and ascent rates at multiple temporal scales—ranging from individual dives to nightly periods—best predicted prey capture attempts, highlighting the scale-dependency of these relationships ref [25].",
+    "refNo": 25,
+    "title": "Can We predict foraging success in a marine predator from dive patterns only? validation with prey capture attempt data",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Dive shape classification further refines inference: U-shaped dives in harbour seals correlate with increased foraging activity, as validated by water-flux and video data, while V-shaped dives are associated with transit ref [28].",
+    "refNo": 28,
+    "title": "Dive shapes reveal temporal changes in the foraging behaviour of different age and sex classes of harbour seals (Phoca vitulina)",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "A novel broken-stick algorithm applied to high-resolution dive data revealed that foraging is not confined to the bottom phase but occurs in sinuous segments identified as 'hunting' phases, with 77% of prey capture attempts in southern elephant seals occurring within these segments ref [24].",
+    "refNo": 24,
+    "title": "Time to eat: measurements of feeding behaviour in a large marine predator, the northern elephant seal Mirounga angustirostris",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Grey seals exhibit square-wave dives during short foraging trips, contrasting with V-shaped dives during transit, suggesting dive shape can distinguish behavioral states ref [10].",
+    "refNo": 10,
+    "title": "Drag, but not buoyancy, affects swim speed in captive Steller sea lions",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Foraging may occur across multiple dive phases, and prey capture success does not always align with dive duration or shape ref [30].",
+    "refNo": 30,
+    "title": "Movements, diving and foraging behaviour of grey seals (Halichoerus grypus)",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "Moreover, interspecific variation in diving physiology and prey capture mechanics means that models derived for one species often fail to generalize ref [11].",
+    "refNo": 11,
+    "title": "Recent advances in bio-logging science: Technologies and methods for understanding animal behaviour and physiology and their environments",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Three-dimensional movement analyses in ringed seals further show that local search behavior—critical to foraging—is best detected through spatial revisitation patterns, not depth-time profiles alone ref [16].",
+    "refNo": 16,
+    "title": "Accuracy of ARGOS locations of pinnipeds at-Sea estimated using fastloc GPS",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Volpov et al. (ref [22]) demonstrated that accelerometry combined with video validation could accurately classify prey captures in Australian fur seals, identifying unique acceleration patterns associated with successful foraging attempts across diverse prey types.",
+    "refNo": 22,
+    "title": "Identification of prey captures in australian Fur seals (arctocephalus pusillus doriferus) using head-mounted accelerometers: field validation with animal-borne video cameras",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Similarly, Ydesen et al. (ref [33]) revealed that high-frequency (200–333 Hz) super-cranial accelerometry detected prey engulfment in harbour seals through distinct jerk signatures exceeding 1000 m s⁻³, distinguishing between raptorial and suction feeding modes with high fidelity.",
+    "refNo": 33,
+    "title": "What a jerk: prey engulfment revealed by high-rate, super-cranial accelerometry on a harbour seal (Phoca vitulina)",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "For instance, drift dives—characterized by passive, near-neutral buoyancy descent—have been shown in Baikal seals to coincide with prolonged surfacing periods, suggesting a combined function of food processing and rest rather than foraging itself, thereby complicating their use as direct foraging indicators ref [35].",
+    "refNo": 35,
+    "title": "Blubber and buoyancy: monitoring the body condition of free-ranging seals using simple dive characteristics",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "Similarly, changes in drift rate during dives have been successfully linked to body condition in southern elephant seals, where declining buoyancy reflects blubber depletion over foraging trips, indirectly signaling energy gain or loss ref [36].",
+    "refNo": 36,
+    "title": "Stomach temperature telemetry reveals temporal patterns of foraging success in a free-ranging marine mammal",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "Stomach temperature telemetry provides a more direct measure of foraging success, revealing temporal feeding patterns and sex-specific differences in meal frequency and duration in grey seals, demonstrating that dive profiles alone may misrepresent actual foraging events ref [37].",
+    "refNo": 37,
+    "title": "The optimal allocation of time over the dive cycle: an approach based on aerobic and anaerobic respiration",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "Theoretical models further highlight the physiological trade-offs underlying dive behavior, showing that the allocation of time between aerobic and anaerobic metabolism influences foraging efficiency and dive cycle structure, with anaerobic dives potentially enabling deeper or longer foraging bouts at the cost of extended recovery ref [38].",
+    "refNo": 38,
+    "title": "Thermal and digestive constraints to foraging behaviour in marine mammals",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Moreover, thermal and digestive constraints shape foraging behavior by limiting the rate and volume of prey intake, with digestion requiring substantial energy and blood flow that may compete with diving thermoregulation, thus forcing behavioral trade-offs ref [8].",
+    "refNo": 8,
+    "title": "Instrumentation and handling effects on Antarctic fur seals (Arctocephalus gazella)",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "In Southern Ocean predators, variations in dive behavior correlate with oceanographic conditions, suggesting that environmental context modulates the relationship between dive metrics and foraging outcomes ref [10].",
+    "refNo": 10,
+    "title": "Drag, but not buoyancy, affects swim speed in captive Steller sea lions",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "First-passage time (FPT) analysis has emerged as a key method to identify area-restricted search (ARS) by quantifying the time an animal spends within a given radius, thereby revealing the spatial scale at which search effort is concentrated ref [40].",
+    "refNo": 40,
+    "title": "Using first-passage time in the analysis of arearestricted search and habitat selection",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "However, the accuracy of FPT is highly sensitive to tracking resolution and environmental structure; spatial errors from Argos systems can reduce ARS detection probability by over 50%, particularly at scales below 10 km, though velocity filtering mitigates this effect ref [21].",
+    "refNo": 21,
+    "title": "Quantifying search effort of moving animals at several spatial scales using first-passage time analysis : effect of the structure of environment and tracking systems",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Temporally, foraging behavior in marine predators like Antarctic fur seals operates at distinct scales—fine-scale foraging (intervals <5 min) reflects localized krill patch exploitation, while mesoscale movements (>5 min) indicate inter-patch travel, with these patterns varying interannually in response to prey distribution ref [9].",
+    "refNo": 9,
+    "title": "A review of the effects of different marking and tagging techniques on marine mammals",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "State-space modeling further enables the disentanglement of behavioral modes from noisy tracking data, allowing for robust identification of intensive versus extensive foraging phases that correlate with vertical dive activity and foraging success ref [11].",
+    "refNo": 11,
+    "title": "Recent advances in bio-logging science: Technologies and methods for understanding animal behaviour and physiology and their environments",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "The integration of horizontal movement patterns with vertical dive data confirms that surface-based ARS can predict underlying foraging effort and success, as demonstrated in southern elephant seals ref [43].",
+    "refNo": 43,
+    "title": "Robust state-space modeling of animal movement data",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "Optimal scale selection must account for tag error, sampling frequency, and ecological context, with FPT and state-space models offering complementary frameworks for multi-scale foraging inference in pinnipeds ref [40], ref [21], ref [43], ref [9], ref [11].",
+    "refNo": 40,
+    "title": "Using first-passage time in the analysis of arearestricted search and habitat selection",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "Optimal scale selection must account for tag error, sampling frequency, and ecological context, with FPT and state-space models offering complementary frameworks for multi-scale foraging inference in pinnipeds ref [40], ref [21], ref [43], ref [9], ref [11].",
+    "refNo": 21,
+    "title": "Quantifying search effort of moving animals at several spatial scales using first-passage time analysis : effect of the structure of environment and tracking systems",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Optimal scale selection must account for tag error, sampling frequency, and ecological context, with FPT and state-space models offering complementary frameworks for multi-scale foraging inference in pinnipeds ref [40], ref [21], ref [43], ref [9], ref [11].",
+    "refNo": 43,
+    "title": "Robust state-space modeling of animal movement data",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "Optimal scale selection must account for tag error, sampling frequency, and ecological context, with FPT and state-space models offering complementary frameworks for multi-scale foraging inference in pinnipeds ref [40], ref [21], ref [43], ref [9], ref [11].",
+    "refNo": 9,
+    "title": "A review of the effects of different marking and tagging techniques on marine mammals",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Optimal scale selection must account for tag error, sampling frequency, and ecological context, with FPT and state-space models offering complementary frameworks for multi-scale foraging inference in pinnipeds ref [40], ref [21], ref [43], ref [9], ref [11].",
+    "refNo": 11,
+    "title": "Recent advances in bio-logging science: Technologies and methods for understanding animal behaviour and physiology and their environments",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "For instance, ref [5] demonstrated that both accumulated bottom time and angular variance in movement paths significantly predicted feeding events in gray seals, highlighting the necessity of multi-dimensional modeling.",
+    "refNo": 5,
+    "title": "Linking movement, diving, and habitat to foraging success in a large marine predator",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Similarly, ref [44] developed a low-resolution dive index based on vertical sinuosity that effectively correlated with prey capture attempts, enabling foraging inference even from satellite-relayed data loggers with limited temporal resolution.",
+    "refNo": 44,
+    "title": "From high-resolution to lowresolution dive datasets: a new index to quantify the foraging effort of marine predators",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "Ref [5] further advanced this approach by integrating dive duration, depth, and post-dive surface intervals into a state-space model, revealing that foraging states in multiple pinniped species were best predicted by the interplay of horizontal and vertical movement dynamics, not by either dimension alone.",
+    "refNo": 5,
+    "title": "Linking movement, diving, and habitat to foraging success in a large marine predator",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Long-term studies on Antarctic fur seals (Arctocephalus gazella) demonstrate that interannual fluctuations in sea-surface temperature and the position of the Antarctic Polar Frontal Zone directly affect foraging zone selection, diving depth, and pup provisioning efficiency, with extreme events like the 1997–1998 El Niño significantly reducing foraging success ref [46].",
+    "refNo": 46,
+    "title": "Impacts of climatic anomalies on provisioning strategies of a Southern Ocean predator",
+    "marker_text": "[46]"
+  },
+  {
+    "sentence": "Similarly, southern elephant seals exhibit reduced juvenile survival during periods of low Southern Oscillation Index (SOI), indicating that large-scale climate anomalies cascade through trophic levels to impact demographic outcomes ref [13].",
+    "refNo": 13,
+    "title": "Technical Note: Animal-borne CTD-Satellite Relay Data Loggers for real-time oceanographic data collection",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Climate-mediated changes in primary productivity and mesopelagic prey fields also reshape foraging landscapes for harbor seals, where regional habitat constraints and prey availability, rather than individual traits, dictate movement patterns ref [11].",
+    "refNo": 11,
+    "title": "Recent advances in bio-logging science: Technologies and methods for understanding animal behaviour and physiology and their environments",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Temporal and spatial variation in survival rates of Hawaiian monk seals further underscores the pervasive influence of climate variability, with synchronized declines across subpopulations suggesting regionally coherent environmental stressors ref [15].",
+    "refNo": 15,
+    "title": "Electronic tracking tag programming is critical to data collection for behavioral time-series analysis",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "The integration of animal-borne CTD-SRDLs has revolutionized the ability to link individual foraging behavior to fine-scale oceanographic conditions, enabling real-time monitoring of thermal structure and salinity gradients that correlate with prey aggregation ref [10].",
+    "refNo": 10,
+    "title": "Drag, but not buoyancy, affects swim speed in captive Steller sea lions",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "As climate change accelerates, predictive models must incorporate multi-scale environmental drivers and their interactions with intrinsic factors to accurately forecast population responses ref [48].",
+    "refNo": 48,
+    "title": "Spatial variation in foraging behaviour of a marine top predator (Phoca vitulina) determined by a large-scale satellite tagging program",
+    "marker_text": "[48]"
+  },
+  {
+    "sentence": "Hidden Markov models (HMMs) have emerged as a powerful tool for this purpose, enabling the simultaneous inference of behavioral states from telemetry data and their covariation with environmental variables such as sea surface temperature or bathymetry ref [52].",
+    "refNo": 52,
+    "title": "Classifying movement behaviour in relation to environmental conditions using hidden Markov models",
+    "marker_text": "[52]"
+  },
+  {
+    "sentence": "Complementary approaches, such as mixture models of random walks, further enhance this integration by assigning movement steps to distinct behavioral modes—e.g., encamped versus exploratory—while incorporating habitat type as a predictor of state switching ref [51].",
+    "refNo": 51,
+    "title": "Extracting more out of relocation data: building movement models as mixtures of random walks",
+    "marker_text": "[51]"
+  },
+  {
+    "sentence": "Beyond state classification, frameworks for estimating space-use and habitat preference from telemetry data provide a broader context for linking behavior to environment, treating usage as a function of environmental availability and selection ref [5].",
+    "refNo": 5,
+    "title": "Linking movement, diving, and habitat to foraging success in a large marine predator",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Harbour seals (Phoca vitulina) in coastal channels exhibit strong fidelity to narrow constrictions during flood tides, where prey aggregation and increased water flow facilitate ambush predation, as demonstrated by high seal densities and peak foraging activity during incoming tides ref [55].",
+    "refNo": 55,
+    "title": "Dynamic habitat corridors for marine predators; intensive use of a coastal channel by harbour seals is modulated by tidal currents",
+    "marker_text": "[55]"
+  },
+  {
+    "sentence": "Similarly, in the San Juan Islands, harbour seals concentrate foraging efforts near tidal channel constrictions during flooding, with higher capture rates of salmon and schooling forage fish observed under slower flood currents, indicating that hydrographic features act as functional foraging corridors ref [54].",
+    "refNo": 54,
+    "title": "Seal predation on salmon and forage fish schools as a function of tidal currents in the San Juan Islands",
+    "marker_text": "[54]"
+  },
+  {
+    "sentence": "These patterns are not uniform across species or life stages; Australian sea lion juveniles, for instance, restrict their movements to shallower coastal waters with limited tidal exposure, suggesting ontogenetic constraints on spatial habitat use and reduced access to deeper, tidally influenced foraging zones ref [5].",
+    "refNo": 5,
+    "title": "Linking movement, diving, and habitat to foraging success in a large marine predator",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Studies on basking sharks and pelagic seabirds have demonstrated that mesoscale fronts serve as predictable foraging hotspots, where zooplankton and small fish accumulate due to convergent flows and nutrient upwelling, a pattern increasingly recognized in marine mammals ref [59], ref [60].",
+    "refNo": 59,
+    "title": "Basking sharks and oceanographic fronts: quantifying associations in the north-east Atlantic",
+    "marker_text": "[59]"
+  },
+  {
+    "sentence": "Studies on basking sharks and pelagic seabirds have demonstrated that mesoscale fronts serve as predictable foraging hotspots, where zooplankton and small fish accumulate due to convergent flows and nutrient upwelling, a pattern increasingly recognized in marine mammals ref [59], ref [60].",
+    "refNo": 60,
+    "title": "Mesoscale fronts as foraging habitats: composite front mapping reveals oceanographic drivers of habitat use for a pelagic seabird",
+    "marker_text": "[60]"
+  },
+  {
+    "sentence": "Southern elephant seals from the Kerguelen Islands exhibit targeted foraging behavior along the Polar Front and near the Antarctic continent, where distinct temperature signatures correlate with increased dive density and improved body condition, suggesting fine-scale selection of oceanographic niches ref [7].",
+    "refNo": 7,
+    "title": "Flow simulation along a seal: the impact of an external device",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Similarly, bottlenose dolphins in the Moray Firth concentrate foraging efforts near small-scale hydrographic fronts and steep bathymetric gradients, optimizing energy efficiency by exploiting prey concentrated by tidal and topographic interactions ref [58].",
+    "refNo": 58,
+    "title": "Effect of oceanographic features on fine-scale foraging movements of bottlenose dolphins",
+    "marker_text": "[58]"
+  },
+  {
+    "sentence": "Neglecting ocean current effects on animal movement trajectories can misidentify foraging zones, as drift and advection may mask true behavioral patterns, underscoring the necessity of integrating in situ current data with tracking datasets ref [57].",
+    "refNo": 57,
+    "title": "Marine animal behaviour: neglecting ocean currents can lead us up the wrong track",
+    "marker_text": "[57]"
+  },
+  {
+    "sentence": "Recent advances in composite front mapping using Earth Observation data have enabled high-resolution quantification of these associations, revealing that pinnipeds often select regions with sharp thermohaline gradients that enhance prey encounter rates ref [39].",
+    "refNo": 39,
+    "title": "Variations in behavior and condition of a Southern Ocean top predator in relation to in situ oceanographic conditions",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "For instance, benthic foragers may target colder bottom waters near continental shelves, while pelagic foragers prefer warmer, frontal zones, indicating adaptive responses to prey distribution shaped by hydrodynamics ref [7].",
+    "refNo": 7,
+    "title": "Flow simulation along a seal: the impact of an external device",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "These patterns are not static; interannual variability in oceanographic conditions, such as shifts in front position or intensity, can alter foraging success and drive changes in movement patterns across populations ref [39].",
+    "refNo": 39,
+    "title": "Variations in behavior and condition of a Southern Ocean top predator in relation to in situ oceanographic conditions",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "Sex-specific differences are well documented, particularly in size-dimorphic species like the grey seal, where males and females exhibit distinct foraging tactics linked to reproductive roles: females prioritize energy accumulation for pregnancy and lactation, resulting in longer, deeper dives and more consistent foraging effort before parturition, while males show more uniform, less seasonally variable diving behavior ref [68].",
+    "refNo": 68,
+    "title": "Effects of Age and body mass on development of diving capabilities of gray seal pups: costs and benefits of the postweaning fast",
+    "marker_text": "[68]"
+  },
+  {
+    "sentence": "These behavioral divergences are mirrored in diet composition, with adult females selecting higher-energy prey during critical post-breeding periods, whereas males exhibit broader dietary niche breadth ref [67].",
+    "refNo": 67,
+    "title": "Age, body mass and environmental variation shape the foraging ontogeny of Galapagos sea lions",
+    "marker_text": "[67]"
+  },
+  {
+    "sentence": "Body size further modulates foraging efficiency, as larger individuals—particularly in harbour seals—undertake longer foraging trips with greater ranges, suggesting enhanced capacity for energy acquisition ref [63].",
+    "refNo": 63,
+    "title": "The influence of body size and sex on the characteristics of harbour seal foraging trips",
+    "marker_text": "[63]"
+  },
+  {
+    "sentence": "Ontogeny plays a critical role in foraging development, with juveniles exhibiting prolonged trip durations, greater transit times to foraging grounds, and less efficient spatial use compared to adults, indicative of learning curves and physiological constraints ref [65].",
+    "refNo": 65,
+    "title": "Sex differences in the diving behaviour of a size-dimorphic capital breeder: the grey seal",
+    "marker_text": "[65]"
+  },
+  {
+    "sentence": "In grey seal pups, age at weaning strongly predicts early dive performance, while body mass influences peak diving capacity and long-term survival, revealing a trade-off between developmental timing and energetic reserves ref [9].",
+    "refNo": 9,
+    "title": "A review of the effects of different marking and tagging techniques on marine mammals",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Similar patterns emerge in Galapagos sea lions, where juvenile foraging strategies evolve over 18 months, with environmental stressors like El Niño further delaying independence ref [8].",
+    "refNo": 8,
+    "title": "Instrumentation and handling effects on Antarctic fur seals (Arctocephalus gazella)",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Collectively, these intrinsic factors interact with life-history stages to determine foraging success, with sex and body condition often mediating responses to environmental variability, necessitating their explicit integration in behavioral inference models ref [62].",
+    "refNo": 62,
+    "title": "Intrinsic and extrinsic drivers of activity budgets in sympatric grey and harbour seals",
+    "marker_text": "[62]"
+  },
+  {
+    "sentence": "Heatmaps of dive depth and duration, overlaid with oceanographic layers, have been instrumental in identifying foraging hotspots linked to mesoscale fronts and bathymetric features [42, 34].",
+    "refNo": 42,
+    "title": "Temporal scales of foraging in a marine predator",
+    "marker_text": "[42]"
+  },
+  {
+    "sentence": "Heatmaps of dive depth and duration, overlaid with oceanographic layers, have been instrumental in identifying foraging hotspots linked to mesoscale fronts and bathymetric features [42, 34].",
+    "refNo": 34,
+    "title": "Drift dives and prolonged surfacing periods in Baikal seals: resting strategies in open waters?",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "Time-series plots of accelerometry and stomach temperature data have successfully revealed prey capture events, validating inferences drawn from dive shape analysis [55, 53].",
+    "refNo": 55,
+    "title": "Dynamic habitat corridors for marine predators; intensive use of a coastal channel by harbour seals is modulated by tidal currents",
+    "marker_text": "[55]"
+  },
+  {
+    "sentence": "Time-series plots of accelerometry and stomach temperature data have successfully revealed prey capture events, validating inferences drawn from dive shape analysis [55, 53].",
+    "refNo": 53,
+    "title": "Estimating space-use and habitat preference from wildlife telemetry data",
+    "marker_text": "[53]"
+  },
+  {
+    "sentence": "First-passage time (FPT) maps, often presented as spatial heatmaps, effectively delineate area-restricted search behavior across varying spatial scales, though their accuracy depends on tracking resolution and environmental heterogeneity [5, 66].",
+    "refNo": 5,
+    "title": "Linking movement, diving, and habitat to foraging success in a large marine predator",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "First-passage time (FPT) maps, often presented as spatial heatmaps, effectively delineate area-restricted search behavior across varying spatial scales, though their accuracy depends on tracking resolution and environmental heterogeneity [5, 66].",
+    "refNo": 66,
+    "title": "Development of foraging strategies with age in a long-lived marine predator",
+    "marker_text": "[66]"
+  },
+  {
+    "sentence": "State-space models, frequently visualized through posterior probability plots, help disentangle behavioral states from noisy location data, improving the reliability of inferred foraging zones [13, 48].",
+    "refNo": 13,
+    "title": "Technical Note: Animal-borne CTD-Satellite Relay Data Loggers for real-time oceanographic data collection",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "State-space models, frequently visualized through posterior probability plots, help disentangle behavioral states from noisy location data, improving the reliability of inferred foraging zones [13, 48].",
+    "refNo": 48,
+    "title": "Spatial variation in foraging behaviour of a marine top predator (Phoca vitulina) determined by a large-scale satellite tagging program",
+    "marker_text": "[48]"
+  },
+  {
+    "sentence": "Tables summarizing dive parameters by sex, age, or season are essential for highlighting intraspecific variation, such as differences in dive duration or bottom time linked to body mass or reproductive status [12, 23].",
+    "refNo": 12,
+    "title": "New frontiers in biologging science",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Tables summarizing dive parameters by sex, age, or season are essential for highlighting intraspecific variation, such as differences in dive duration or bottom time linked to body mass or reproductive status [12, 23].",
+    "refNo": 23,
+    "title": "Supervised accelerometry analysis can identify prey capture by penguins at sea",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Recent advances in multivariate visualization, including 3D movement trajectories and dynamic habitat corridors, have enhanced the depiction of foraging behavior in relation to tidal and current dynamics [26, 65].",
+    "refNo": 26,
+    "title": "Dive characteristics can predict foraging success in Australian fur seals (Arctocephalus pusillus doriferus) as validated by animal-borne video",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "Recent advances in multivariate visualization, including 3D movement trajectories and dynamic habitat corridors, have enhanced the depiction of foraging behavior in relation to tidal and current dynamics [26, 65].",
+    "refNo": 65,
+    "title": "Sex differences in the diving behaviour of a size-dimorphic capital breeder: the grey seal",
+    "marker_text": "[65]"
+  },
+  {
+    "sentence": "Standardization of figure legends and table metadata is increasingly advocated to improve reproducibility and meta-analytic potential [44, 47].",
+    "refNo": 44,
+    "title": "From high-resolution to lowresolution dive datasets: a new index to quantify the foraging effort of marine predators",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "Standardization of figure legends and table metadata is increasingly advocated to improve reproducibility and meta-analytic potential [44, 47].",
+    "refNo": 47,
+    "title": "Complex interplay between intrinsic and extrinsic drivers of long-term survival trends in southern elephant seals",
+    "marker_text": "[47]"
+  }
+]

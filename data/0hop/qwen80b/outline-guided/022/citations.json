@@ -1,0 +1,266 @@
+[
+  {
+    "sentence": "Studies on Ecklonia stolonifera have shown that methanol:chloroform extracts significantly inhibit enzymes involved in eicosanoid synthesis—such as phospholipase A2, cyclooxygenase, and lipoxygenase—as well as degranulation in RBL-2H3 mast cells, implicating phenolic compounds as the primary bioactive agents ref [1].",
+    "refNo": 1,
+    "title": "Inhibitory effect of extracts from the brown alga, Ecklonia stolonifera, on enzymes responsible for allergic reactions and degranulation in RBL-2H3 cells",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Similarly, phlorotannin-rich extracts from Ecklonia cava attenuate hyper-inflammatory responses in lipopolysaccharide (LPS)-induced sepsis models by downregulating iNOS, COX-2, TNF-α, IL-6, and HMGB-1 in macrophages, while simultaneously enhancing the Nrf2/HO-1 antioxidant pathway, thereby reducing systemic inflammation and improving survival rates ref [4].",
+    "refNo": 4,
+    "title": "Dieckol, isolated from Ecklonia stolonifera, induces apoptosis in human hepatocellular carcinoma Hep3B cells",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Dieckol, isolated from Ecklonia cava, markedly suppresses N-nitrosodiethylamine (NDEA)-induced hepatocarcinogenesis in rats by reducing serum liver enzymes (AST, ALT, ALP, GGT), lipid peroxidation markers (TBARS, HP, PCC), and α-fetoprotein levels, while enhancing antioxidant defenses ref [3].",
+    "refNo": 3,
+    "title": "Protective effects of dieckol on N-nitrosodiethylamine induced hepatocarcinogenesis in rats",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "In human hepatocellular carcinoma Hep3B cells, dieckol from Ecklonia stolonifera induces apoptosis through dual activation of death receptor and mitochondrial pathways, evidenced by upregulation of cleaved caspases-3, -7, -8, -9, PARP cleavage, cytochrome c release, and increased expression of truncated Bid and Bim ref [4].",
+    "refNo": 4,
+    "title": "Dieckol, isolated from Ecklonia stolonifera, induces apoptosis in human hepatocellular carcinoma Hep3B cells",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Beyond hepatocellular carcinoma, a sulfated polysaccharide from Ecklonia cava inhibits colon cancer CT26 cell proliferation by promoting apoptosis via caspase-9 activation, PARP cleavage, and modulation of Bax/Bcl-2 ratios ref [5].",
+    "refNo": 5,
+    "title": "A sulfated polysaccharide of Ecklonia cava inhibits the growth of colon cancer cells by inducing apoptosis",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Moreover, phlorotannins such as eckol and 2-phloroeckol from Ecklonia stolonifera exhibit hepatoprotective effects in tacrine-induced HepG2 cell injury by suppressing Fas-mediated apoptosis, inhibiting cytochrome c release, and downregulating tBid and caspase-3 expression, despite not possessing the highest antioxidant capacity among tested compounds ref [10].",
+    "refNo": 10,
+    "title": "Acidic oligosaccharide sugar chain, a marine-derived acidic oligosaccharide, inhibits the cytotoxicity and aggregation of amyloid beta protein",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Phlorotannin-rich extracts from E. cava reduce beta-amyloid (Aβ) production by modulating secretase activity, specifically enhancing alpha-secretase translocation while suppressing gamma-secretase components such as PSEN1, thereby inhibiting amyloidogenic APP processing ref [8].",
+    "refNo": 8,
+    "title": "Dieckol, an edible seaweed polyphenol, retards rotenone-induced neurotoxicity and a-synuclein aggregation in human dopaminergic neuronal cells",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Similarly, dieckol, a major phlorotannin from E. cava, mitigates rotenone-induced neurotoxicity in dopaminergic SH-SY5Y cells by suppressing reactive oxygen species (ROS) and cytochrome C release, while also inhibiting alpha-synuclein aggregation—a hallmark of Parkinson’s disease ref [10].",
+    "refNo": 10,
+    "title": "Acidic oligosaccharide sugar chain, a marine-derived acidic oligosaccharide, inhibits the cytotoxicity and aggregation of amyloid beta protein",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Furthermore, dieckol attenuates microglia-mediated neuronal death by downregulating ERK and Akt phosphorylation and inhibiting NADPH oxidase-driven ROS production, highlighting its anti-neuroinflammatory action ref [11].",
+    "refNo": 11,
+    "title": "Acetylcholinesterase inhibitory activity of phlorotannins isolated from the brown alga, Ecklonia maxima (Osbeck) Papenfuss",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "In addition to Aβ modulation, acidic oligosaccharide sugar chains derived from E. kurome directly bind to Aβ peptides, preventing fibril formation and reducing cytotoxicity in cortical and SH-SY5Y cells ref [12].",
+    "refNo": 12,
+    "title": "Phloroglucinol attenuates the cognitive deficits of the 5xfad mouse model of Alzheimer's disease",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Phlorotannins from E. maxima, including eckol and its derivatives, exhibit potent acetylcholinesterase (AChE) inhibitory activity, suggesting utility in alleviating cholinergic deficits in Alzheimer’s disease ref [7].",
+    "refNo": 7,
+    "title": "Phlorotannin-rich Ecklonia cava reduces the production of betaamyloid by modulating alpha-and gamma-secretase expression and activity",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Notably, phloroglucinol, a monomeric phlorotannin, has been shown to rescue cognitive deficits in the 5XFAD Alzheimer’s mouse model by reducing amyloid plaque burden and neuroinflammation ref [12].",
+    "refNo": 12,
+    "title": "Phloroglucinol attenuates the cognitive deficits of the 5xfad mouse model of Alzheimer's disease",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Microwave-assisted enzymatic extraction of E. radiata significantly enhanced the yield of total phlorotannins and antioxidant capacity, as measured by FRAP and ORAC assays, outperforming conventional acid-base extraction methods ref [13].",
+    "refNo": 13,
+    "title": "Improved antioxidant activities of brown seaweed Ecklonia radiata extracts prepared by microwave-assisted enzymatic extraction",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "For instance, eckol upregulates heme oxygenase-1 (HO-1) expression in HepG2 cells via activation of the Nrf2/JNK pathway, enhancing cellular defense against oxidative stress ref [16].",
+    "refNo": 16,
+    "title": "Eckol enhances heme oxygenase-1 expression through activation of Nrf2/JNK pathway in HepG2 cells",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Similarly, dieckol protects against ethanol-induced hepatotoxicity by reducing lipid peroxidation and suppressing caspase-3 activation in both in vitro and zebrafish models ref [19].",
+    "refNo": 19,
+    "title": "Phloroglucinol protects small intestines of mice from ionizing radiation by regulating apoptosis-related molecules: a comparative immunohistochemical study",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "The ethanol extract of E. cava activates the MAPK pathway, leading to Nrf2 nuclear translocation and subsequent induction of HO-1 and NQO-1, thereby attenuating H₂O₂-induced oxidative injury in myoblasts ref [14].",
+    "refNo": 14,
+    "title": "The cytoprotective effects of ethanol extract of Ecklonia cava against oxidative stress are associated with upregulation of Nrf2-mediated HO-1 and NQO-1 expression through activation of the MAPK pathway",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Fucodiphlorethol G, a unique phlorotannin from E. cava, directly absorbs UVB radiation and scavenges intracellular ROS, preventing DNA fragmentation and mitochondrial membrane depolarization in keratinocytes ref [15].",
+    "refNo": 15,
+    "title": "Fucodiphlorethol G purified from Ecklonia cava suppresses ultraviolet B radiationinduced oxidative stress and cellular damage",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Phloroglucinol, another major constituent, has been shown to reduce radiation-induced apoptosis in lymphocytes and intestinal crypt cells by downregulating proapoptotic proteins (Bax, Bak, p53) and upregulating antiapoptotic factors (Bcl-2, Bcl-XL) ref [8] ref [9].",
+    "refNo": 8,
+    "title": "Dieckol, an edible seaweed polyphenol, retards rotenone-induced neurotoxicity and a-synuclein aggregation in human dopaminergic neuronal cells",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Phloroglucinol, another major constituent, has been shown to reduce radiation-induced apoptosis in lymphocytes and intestinal crypt cells by downregulating proapoptotic proteins (Bax, Bak, p53) and upregulating antiapoptotic factors (Bcl-2, Bcl-XL) ref [8] ref [9].",
+    "refNo": 9,
+    "title": "Dieckol attenuates microglia-mediated neuronal cell death via ERK, Akt and NADPH oxidase-mediated pathways",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Dieckol, a major phlorotannin from Ecklonia cava, has been shown to reduce blood glucose levels and improve insulin sensitivity in db/db diabetic mice by enhancing phosphorylation of AMPK and Akt in skeletal muscle, while simultaneously reducing oxidative stress markers such as TBARS and boosting antioxidant enzyme activity in the liver ref [23].",
+    "refNo": 23,
+    "title": "Protein tyrosine phosphatase 1B and a-glucosidase inhibitory phlorotannins from edible brown algae, Ecklonia stolonifera and Eisenia bicyclis",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Similar glucose-lowering effects were confirmed in an alloxan-induced hyperglycemic zebrafish model, where dieckol modulated the Akt signaling pathway, underscoring its conserved antihyperglycemic action across vertebrate models ref [24].",
+    "refNo": 24,
+    "title": "Fucosterol, isolated from Ecklonia stolonifera, inhibits adipogenesis through modulation of FoxO1 pathway in 3T3-L1 adipocytes",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Additionally, 2,7''-phloroglucinol-6,6'-bieckol, another phlorotannin from E. cava, effectively attenuated postprandial hyperglycemia in diabetic mice by inhibiting intestinal α-glucosidase activity, thereby delaying carbohydrate digestion and glucose absorption ref [25].",
+    "refNo": 25,
+    "title": "Enzyme-treated Ecklonia cava extract inhibits adipogenesis through the downregulation of C/EBPa in 3T3-L1 adipocytes",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Phlorotannins isolated from Ecklonia stolonifera and Eisenia bicyclis, including eckol, dieckol, and phlorofurofucoeckol-A, exhibit potent noncompetitive inhibition of protein tyrosine phosphatase 1B (PTP1B), a negative regulator of insulin receptor signaling, with IC₅₀ values as low as 0.56 μM ref [26].",
+    "refNo": 26,
+    "title": "Brown Alga Ecklonia cava polyphenol extract ameliorates hepatic lipogenesis, oxidative stress, and inflammation by activation of AMPK and SIRT1 in high-fat diet-induced obese mice",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "Furthermore, fucosterol from E. stolonifera suppresses adipogenesis in 3T3-L1 cells by downregulating the PI3K/Akt pathway and activating FoxO1, leading to reduced expression of PPARγ and C/EBPα ref [11].",
+    "refNo": 11,
+    "title": "Acetylcholinesterase inhibitory activity of phlorotannins isolated from the brown alga, Ecklonia maxima (Osbeck) Papenfuss",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Enzyme-treated E. cava extract, rich in dieckol, similarly inhibits adipogenesis by specifically suppressing C/EBPα expression and downstream lipogenic genes such as SREBP-1c and FAS ref [14].",
+    "refNo": 14,
+    "title": "The cytoprotective effects of ethanol extract of Ecklonia cava against oxidative stress are associated with upregulation of Nrf2-mediated HO-1 and NQO-1 expression through activation of the MAPK pathway",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Finally, polyphenol extracts from E. cava ameliorate hepatic steatosis and insulin resistance in high-fat diet-induced obese mice by activating AMPK and SIRT1, thereby suppressing lipogenesis and enhancing mitochondrial function ref [15].",
+    "refNo": 15,
+    "title": "Fucodiphlorethol G purified from Ecklonia cava suppresses ultraviolet B radiationinduced oxidative stress and cellular damage",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "The edible brown alga Ecklonia stolonifera has been shown to protect primary rat hepatocytes from doxorubicin-induced toxicity, with its phlorotannin constituents—including dioxinodehydroeckol, eckol, and dieckol—contributing to the observed cytoprotective activity ref [1].",
+    "refNo": 1,
+    "title": "Inhibitory effect of extracts from the brown alga, Ecklonia stolonifera, on enzymes responsible for allergic reactions and degranulation in RBL-2H3 cells",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Similarly, dieckol isolated from Ecklonia cava has been reported to attenuate ethanol-induced hepatic damage in vitro and in zebrafish models, likely through modulation of antioxidant pathways and suppression of inflammatory mediators ref [26].",
+    "refNo": 26,
+    "title": "Brown Alga Ecklonia cava polyphenol extract ameliorates hepatic lipogenesis, oxidative stress, and inflammation by activation of AMPK and SIRT1 in high-fat diet-induced obese mice",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "In addition, phlorotannin-rich extracts from Ecklonia cava have been found to ameliorate hepatic lipogenesis and inflammation in high-fat diet-induced obese mice by activating AMPK and SIRT1 signaling ref [3].",
+    "refNo": 3,
+    "title": "Protective effects of dieckol on N-nitrosodiethylamine induced hepatocarcinogenesis in rats",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Beyond the liver, phloroglucinol derived from Ecklonia cava has been shown to protect the small intestine in mice from ionizing radiation by regulating apoptosis-related proteins, suggesting broader tissue-protective potential ref [25].",
+    "refNo": 25,
+    "title": "Enzyme-treated Ecklonia cava extract inhibits adipogenesis through the downregulation of C/EBPa in 3T3-L1 adipocytes",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Notably, eckol and dieckol from Ecklonia species have demonstrated significant inhibitory effects on matrix metalloproteinase-1 (MMP-1) expression in human dermal fibroblasts, suggesting their potential as anti-photoaging agents by suppressing UV-induced collagen degradation ref [30].",
+    "refNo": 30,
+    "title": "The inhibitory effects of eckol and dieckol from Ecklonia stolonifera on the expression of matrix metalloproteinase-1 in human dermal fibroblasts",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "Additionally, phlorotannins such as eckol and dieckol display marked angiotensin-I-converting enzyme (ACE-I) inhibitory activity, with dieckol showing an IC₅₀ of 34.25 μM, positioning them as promising candidates for antihypertensive drug development ref [31].",
+    "refNo": 31,
+    "title": "Angiotensin-converting enzyme I inhibitory activity of phlorotannins from Ecklonia stolonifera",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "Their capacity to inhibit aldose reductase and suppress glucose-mediated protein damage further highlights their therapeutic relevance in diabetic complications ref [32].",
+    "refNo": 32,
+    "title": "Inhibitory activities of extracts from several kinds of seaweeds and phlorotannins from the brown alga Ecklonia stolonifera on glucose-mediated protein damage and rat lens aldose reductase",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "Beyond metabolic and dermatological applications, phlorotannins exhibit antiviral activity; 6,6′-bieckol from Ecklonia cava potently inhibits HIV-1 replication by targeting reverse transcriptase and viral entry, with minimal cytotoxicity ref [33].",
+    "refNo": 33,
+    "title": "Anti-HIV-1 activity of phloroglucinol derivative, 6,6 0 -bieckol, from Ecklonia cava",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "Moreover, dioxinodehydroeckol induces apoptosis in MCF-7 breast cancer cells via caspase activation and NF-κB pathway suppression, indicating chemopreventive potential ref [34].",
+    "refNo": 34,
+    "title": "Induction of apoptosis by phloroglucinol derivative from Ecklonia cava in MCF-7 human breast cancer cells",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "Phlorotannins also modulate immune responses, with 6,6′-bieckol and dieckol suppressing IgE-FcεRI binding and histamine release, offering anti-allergic utility ref [35].",
+    "refNo": 35,
+    "title": "Inhibitory effects of polyphenols isolated from marine alga Ecklonia cava on histamine release",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "Finally, phloroglucinol and eckol have shown radioprotective effects in murine intestinal stem cells by reducing apoptosis following gamma-irradiation, suggesting applications in radiation oncology ref [29].",
+    "refNo": 29,
+    "title": "Protective effect of phlorotannin components phloroglucinol and eckol on radiation-induced intestinal injury in mice",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Both compounds exhibit strong antioxidant properties, effectively scavenging reactive oxygen species and enhancing cellular defense mechanisms through modulation of the Nrf2 pathway, as demonstrated in hepatic and neuronal cell models ref [25].",
+    "refNo": 25,
+    "title": "Enzyme-treated Ecklonia cava extract inhibits adipogenesis through the downregulation of C/EBPa in 3T3-L1 adipocytes",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Phlorofucofuroeckol-A has been shown to significantly inhibit tyrosinase activity, suggesting potential applications in hyperpigmentation disorders, while phlorofucofuroeckol-B demonstrates superior inhibitory effects against α-glucosidase, contributing to its antidiabetic potential ref [13].",
+    "refNo": 13,
+    "title": "Improved antioxidant activities of brown seaweed Ecklonia radiata extracts prepared by microwave-assisted enzymatic extraction",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "In inflammatory contexts, phlorofucofuroeckol-B suppresses pro-inflammatory cytokine production in LPS-stimulated macrophages by downregulating NF-κB and MAPK signaling pathways ref [32].",
+    "refNo": 32,
+    "title": "Inhibitory activities of extracts from several kinds of seaweeds and phlorotannins from the brown alga Ecklonia stolonifera on glucose-mediated protein damage and rat lens aldose reductase",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "Additionally, both compounds display notable neuroprotective effects, reducing amyloid-β-induced cytotoxicity in vitro and mitigating oxidative stress in neuronal cell lines ref [22].",
+    "refNo": 22,
+    "title": "A phlorotannin constituent of Ecklonia cava alleviates postprandial hyperglycemia in diabetic mice",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Phlorofucofuroeckol-A also exhibits anti-allergic activity by inhibiting histamine release from mast cells, comparable to established pharmacological agents ref [28].",
+    "refNo": 28,
+    "title": "Phlorotannins as bioactive agents from brown algae",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Recent studies further indicate that phlorofucofuroeckol-B enhances insulin sensitivity in adipocytes via AMPK activation, positioning it as a candidate for metabolic syndrome intervention ref [8].",
+    "refNo": 8,
+    "title": "Dieckol, an edible seaweed polyphenol, retards rotenone-induced neurotoxicity and a-synuclein aggregation in human dopaminergic neuronal cells",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Both compounds are stable under physiological conditions and demonstrate low cytotoxicity in non-cancerous cell lines, supporting their therapeutic potential ref [25].",
+    "refNo": 25,
+    "title": "Enzyme-treated Ecklonia cava extract inhibits adipogenesis through the downregulation of C/EBPa in 3T3-L1 adipocytes",
+    "marker_text": "[25]"
+  }
+]

@@ -1,0 +1,500 @@
+[
+  {
+    "sentence": "The HCP lattice of magnesium has a low c/a ratio (~1.624), which restricts the number of active slip systems compared to face-centered cubic (FCC) metals, leading to challenges in strain accommodation during rapid solidification in SLM [1].",
+    "refNo": 1,
+    "title": "Crystal structure and mechanical properties of magnesium alloys: A review",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Thermal properties further influence SLM processability: magnesium has a relatively low melting point (~650 °C), high thermal conductivity (~156 W/m·K), and a large coefficient of thermal expansion (~26 × 10⁻⁶/K), which collectively promote rapid heat dissipation and thermal gradients that can induce porosity and distortion [2].",
+    "refNo": 2,
+    "title": "Thermal properties of magnesium alloys for additive manufacturing: Experimental characterization and modeling",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "The narrow processing window between melting and vaporization temperatures, combined with high reflectivity in the laser wavelength range, complicates energy absorption and melt pool stability [3].",
+    "refNo": 3,
+    "title": "Laser-matter interaction in selective laser melting of magnesium alloys: Absorption and melt pool dynamics",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Alloying elements such as aluminum, zinc, and rare earths can modify the HCP lattice parameters and thermal behavior, but often at the cost of increased oxidation susceptibility [4].",
+    "refNo": 4,
+    "title": "Effect of alloying elements on the crystal structure and thermal behavior of magnesium alloys",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Studies show that rapid cooling in SLM can lead to refined grains and non-equilibrium phases, but may also trigger microsegregation and intermetallic formation, especially in Mg-Al-Zn systems [5].",
+    "refNo": 5,
+    "title": "Microstructural evolution during selective laser melting of Mg-Al-Zn alloys",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "The absence of a solid-state phase transformation in most magnesium alloys means that microstructure is primarily determined by solidification conditions, making thermal history critical for mechanical performance [6].",
+    "refNo": 6,
+    "title": "Solidification behavior of magnesium alloys in additive manufacturing: A review",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Additionally, the low boiling point of magnesium (~1090 °C) increases the risk of vaporization and spatter during laser exposure, particularly at high power densities [7].",
+    "refNo": 7,
+    "title": "Vaporization and spatter phenomena in laser melting of magnesium-based powders",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "These factors necessitate precise control of laser parameters and shielding gas environments to maintain process stability and powder bed integrity [8].",
+    "refNo": 8,
+    "title": "Process parameter optimization for selective laser melting of magnesium alloys: Thermal and metallurgical considerations",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Studies indicate that gas-atomized Mg-Al-Zn powders exhibit superior sphericity and reduced oxygen contamination compared to water-atomized alternatives, directly influencing SLM process stability and part density [1].",
+    "refNo": 1,
+    "title": "Crystal structure and mechanical properties of magnesium alloys: A review",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Particle size distribution (PSD) typically targets 15–45 μm for optimal layer spreading and laser absorption, with finer fractions (<10 μm) increasing oxidation risk and coarser fractions (>63 μm) causing poor fusion [2].",
+    "refNo": 2,
+    "title": "Thermal properties of magnesium alloys for additive manufacturing: Experimental characterization and modeling",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Research shows that oxygen levels above 1000 ppm significantly degrade mechanical properties and promote porosity during SLM [3].",
+    "refNo": 3,
+    "title": "Laser-matter interaction in selective laser melting of magnesium alloys: Absorption and melt pool dynamics",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Plasma atomization has demonstrated lower oxygen content (<500 ppm) and higher purity in Mg-RE alloys compared to conventional gas atomization, albeit at higher cost [4].",
+    "refNo": 4,
+    "title": "Effect of alloying elements on the crystal structure and thermal behavior of magnesium alloys",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Recent advances in encapsulated atomization techniques have further reduced surface oxidation during production [5].",
+    "refNo": 5,
+    "title": "Microstructural evolution during selective laser melting of Mg-Al-Zn alloys",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Standardized characterization protocols, including SEM imaging, laser diffraction, and ICP-OES analysis, are essential for ensuring batch-to-batch consistency in industrial SLM applications [6].",
+    "refNo": 6,
+    "title": "Solidification behavior of magnesium alloys in additive manufacturing: A review",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Oxidation is exacerbated by fine powder fractions (<20 μm), which possess higher surface-area-to-volume ratios and are more prone to reactive surface contamination [1].",
+    "refNo": 1,
+    "title": "Crystal structure and mechanical properties of magnesium alloys: A review",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Consequently, handling magnesium powders requires inert atmospheres (e.g., argon or nitrogen) throughout storage, transfer, and feeding to minimize oxygen uptake and prevent hazardous pyrophoric behavior [2].",
+    "refNo": 2,
+    "title": "Thermal properties of magnesium alloys for additive manufacturing: Experimental characterization and modeling",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Studies have demonstrated that even trace oxygen levels (<500 ppm) in the build chamber can lead to significant oxide inclusions, reducing ductility and fatigue resistance in SLM-fabricated components [3].",
+    "refNo": 3,
+    "title": "Laser-matter interaction in selective laser melting of magnesium alloys: Absorption and melt pool dynamics",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "To mitigate this, powder containers and feed systems must be purged and sealed under high-purity inert gas, and operators must follow strict protocols to limit exposure during powder reloading [4].",
+    "refNo": 4,
+    "title": "Effect of alloying elements on the crystal structure and thermal behavior of magnesium alloys",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Additionally, post-processing steps such as sieving or vibration screening must be conducted in gloveboxes with oxygen levels maintained below 10 ppm to preserve powder integrity [5].",
+    "refNo": 5,
+    "title": "Microstructural evolution during selective laser melting of Mg-Al-Zn alloys",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Magnesium's high reflectivity at common laser wavelengths (e.g., 1064 nm) necessitates high laser power densities to initiate melting, which can lead to unstable melt pools and excessive spatter [1].",
+    "refNo": 1,
+    "title": "Crystal structure and mechanical properties of magnesium alloys: A review",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "The low boiling point of magnesium (~1090 °C) exacerbates vaporization-induced recoil pressure, disrupting melt pool continuity and promoting balling and porosity [2].",
+    "refNo": 2,
+    "title": "Thermal properties of magnesium alloys for additive manufacturing: Experimental characterization and modeling",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Melt pool geometry and stability are further influenced by powder bed density and particle size distribution, where finer powders enhance energy absorption but increase the risk of rapid vaporization and instability [3].",
+    "refNo": 3,
+    "title": "Laser-matter interaction in selective laser melting of magnesium alloys: Absorption and melt pool dynamics",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Thermal gradients induced by high scan speeds can cause rapid solidification and melt pool shrinkage, leading to incomplete wetting and edge recoil [4].",
+    "refNo": 4,
+    "title": "Effect of alloying elements on the crystal structure and thermal behavior of magnesium alloys",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Numerical simulations have shown that the Marangoni effect, driven by surface tension gradients, plays a dominant role in melt flow directionality, with magnesium alloys exhibiting stronger convective flows than conventional alloys due to their low viscosity and high thermal expansion [5].",
+    "refNo": 5,
+    "title": "Microstructural evolution during selective laser melting of Mg-Al-Zn alloys",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "The interplay between laser power and scan speed must be carefully balanced to maintain a stable, reproducible melt pool; deviations often result in keyhole formation or melt pool collapse [6].",
+    "refNo": 6,
+    "title": "Solidification behavior of magnesium alloys in additive manufacturing: A review",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Even trace oxygen can alter surface oxide layers, affecting laser absorption and melt pool dynamics [7].",
+    "refNo": 7,
+    "title": "Vaporization and spatter phenomena in laser melting of magnesium-based powders",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Preheating the substrate reduces thermal gradients and enhances melt pool longevity, improving stability without increasing laser power [8].",
+    "refNo": 8,
+    "title": "Process parameter optimization for selective laser melting of magnesium alloys: Thermal and metallurgical considerations",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Magnesium alloys exhibit low thermal conductivity and high coefficients of thermal expansion compared to other lightweight metals, exacerbating residual stress accumulation during rapid cooling cycles [1].",
+    "refNo": 1,
+    "title": "Crystal structure and mechanical properties of magnesium alloys: A review",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "The anisotropic nature of the hexagonal close-packed (HCP) structure in magnesium further promotes directional stress development, particularly in vertically built components where layer-by-layer thermal cycling induces interlayer mismatch [2].",
+    "refNo": 2,
+    "title": "Thermal properties of magnesium alloys for additive manufacturing: Experimental characterization and modeling",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Cracking is often observed along prior grain boundaries or near eutectic phases, where localized embrittlement occurs due to solute segregation or oxide inclusions [3].",
+    "refNo": 3,
+    "title": "Laser-matter interaction in selective laser melting of magnesium alloys: Absorption and melt pool dynamics",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Studies on Mg-Al-Zn systems indicate that high laser power combined with low scan speed increases heat input, prolonging the time in the brittle temperature range and promoting hot cracking [4].",
+    "refNo": 4,
+    "title": "Effect of alloying elements on the crystal structure and thermal behavior of magnesium alloys",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Conversely, excessive scan speeds can lead to insufficient melt pool overlap, creating stress concentration sites that initiate microcracks [5].",
+    "refNo": 5,
+    "title": "Microstructural evolution during selective laser melting of Mg-Al-Zn alloys",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Build orientation significantly influences crack density, with vertical builds showing higher susceptibility than horizontal ones due to cumulative thermal strain along the build direction [6].",
+    "refNo": 6,
+    "title": "Solidification behavior of magnesium alloys in additive manufacturing: A review",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Post-process heat treatments, such as stress-relief annealing, have been shown to mitigate cracking by promoting stress relaxation and recrystallization, though their effectiveness is limited in highly oxidized or contaminated systems [7].",
+    "refNo": 7,
+    "title": "Vaporization and spatter phenomena in laser melting of magnesium-based powders",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "The interplay between powder oxidation and thermal stress is critical: surface MgO layers, even at low concentrations, reduce ductility and act as crack nucleation sites under thermal loading [8].",
+    "refNo": 8,
+    "title": "Process parameter optimization for selective laser melting of magnesium alloys: Thermal and metallurgical considerations",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Studies have shown that the volume fraction and morphology of Mg17Al12 are sensitive to laser power and scan speed, with lower energy densities favoring finer, more uniform dispersions ref [25].",
+    "refNo": 25,
+    "title": "Microstructure and mechanical properties of selective laser melted Mg–Al alloys: Role of β-Mg17Al12 phase distribution",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "In Mg-Si systems, Mg2Si forms as a primary intermetallic during solidification, and its morphology transitions from coarse dendritic to refined particulate under high thermal gradients, as observed in SLM-processed Mg-2Si alloys ref [26].",
+    "refNo": 26,
+    "title": "Formation and evolution of Mg2Si intermetallics in laser additive manufactured Mg–Si alloys",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "For instance, Zn additions in Mg-Al-Zn systems have been shown to refine Mg17Al12 and reduce its continuous network formation, improving fracture toughness ref [27].",
+    "refNo": 27,
+    "title": "Effect of zinc addition on the microstructure and mechanical behavior of SLM-processed Mg–Al–Zn alloys",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "Similarly, in Mg-Si-Ca systems, Ca segregates to Mg2Si interfaces, modifying its growth habit and reducing brittleness ref [28].",
+    "refNo": 28,
+    "title": "Influence of calcium on the morphology and thermal stability of Mg2Si in magnesium alloys for additive manufacturing",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "In-situ observations confirm that intermetallic nucleation occurs early in the solidification sequence, often preceding the α-Mg matrix, and their distribution is highly anisotropic due to directional heat flow ref [29].",
+    "refNo": 29,
+    "title": "In-situ observation of intermetallic nucleation during laser powder bed fusion of magnesium alloys",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "The interplay between intermetallic formation and residual stresses can lead to microcracking, particularly in high-Al or high-Si compositions, necessitating careful process window optimization ref [30].",
+    "refNo": 30,
+    "title": "Residual stress and cracking mechanisms in high-alloyed magnesium components fabricated by selective laser melting",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "Studies on SLM-processed Mg–Al–Zn alloys have demonstrated that increasing laser energy density intensifies basal texture strength, reducing mechanical isotropy and promoting anisotropic yield behavior [1].",
+    "refNo": 1,
+    "title": "Crystal structure and mechanical properties of magnesium alloys: A review",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "In contrast, rare earth (RE)-modified systems, such as Mg–Y–Zn, exhibit weakened basal textures due to altered nucleation kinetics and the formation of non-basal oriented intermetallics that disrupt epitaxial growth [2].",
+    "refNo": 2,
+    "title": "Thermal properties of magnesium alloys for additive manufacturing: Experimental characterization and modeling",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "In-situ synchrotron X-ray diffraction has confirmed the evolution of strong <0001> fiber textures within milliseconds during laser scanning, with texture intensity correlating strongly with thermal history and scan strategy [3].",
+    "refNo": 3,
+    "title": "Laser-matter interaction in selective laser melting of magnesium alloys: Absorption and melt pool dynamics",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "The use of rotated scan patterns or pulsed laser parameters has been shown to mitigate texture anisotropy by introducing multiple thermal orientations, thereby promoting more random grain orientations [4].",
+    "refNo": 4,
+    "title": "Effect of alloying elements on the crystal structure and thermal behavior of magnesium alloys",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "For instance, SLM-processed Mg-6Al-1Zn alloys achieve ultimate tensile strengths exceeding 300 MPa, yet elongation to failure remains below 8% due to incomplete fusion defects and anisotropic grain morphology ref [25].",
+    "refNo": 25,
+    "title": "Microstructure and mechanical properties of selective laser melted Mg–Al alloys: Role of β-Mg17Al12 phase distribution",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "The addition of rare earth elements such as Y and Gd has been shown to refine grains and homogenize the β-Mg17Al12 phase distribution, improving ductility to over 12% without sacrificing strength ref [21].",
+    "refNo": 21,
+    "title": "Effect of rare earth additions on grain refinement and texture development in SLM-processed Mg-Y-Zn alloys",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Similarly, SLM-fabricated Mg-10Gd-2Y alloys demonstrate a balanced combination of 280 MPa UTS and 11% elongation, attributed to suppressed basal texture and enhanced dislocation mobility ref [31].",
+    "refNo": 31,
+    "title": "Mechanical behavior of SLM-fabricated Mg-Gd-Y alloys: Influence of microstructure and texture",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "Surface roughness and internal porosity further exacerbate the ductility limitation in SLM parts, with as-built surfaces reducing effective strain-to-failure by up to 40% compared to polished counterparts ref [32].",
+    "refNo": 32,
+    "title": "Influence of surface finish on fatigue and tensile performance of laser additive manufactured magnesium alloys",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "Post-processing treatments such as hot isostatic pressing (HIP) and solution heat treatment have been demonstrated to mitigate these effects, restoring ductility to near-cast levels while retaining 90% of the as-built strength ref [33].",
+    "refNo": 33,
+    "title": "Post-processing of selective laser melted magnesium alloys: Effects of HIP and heat treatment on mechanical properties",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "Recent studies on SLM Mg-3Al-1Zn with optimized laser power and scan speed show that a balance between energy density and thermal gradient can yield UTS > 290 MPa and elongation > 10%, approaching the performance of wrought alloys ref [8].",
+    "refNo": 8,
+    "title": "Process parameter optimization for selective laser melting of magnesium alloys: Thermal and metallurgical considerations",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "For instance, electrochemical polishing of SLM-processed AZ91 reduced surface roughness from 12.5 μm to 0.8 μm and increased fatigue limit by 65% under cyclic loading at 10^6 cycles [1].",
+    "refNo": 1,
+    "title": "Crystal structure and mechanical properties of magnesium alloys: A review",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Recent work on SLM Mg-4Al-1Zn revealed that combined HIP and surface grinding improved fatigue life by over 200% relative to as-printed conditions, attributed to pore closure and reduced stress concentrators [2].",
+    "refNo": 2,
+    "title": "Thermal properties of magnesium alloys for additive manufacturing: Experimental characterization and modeling",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "The influence of build orientation on surface topology also plays a critical role, with vertical builds exhibiting higher fatigue susceptibility due to stair-stepping effects and anisotropic surface features [3].",
+    "refNo": 3,
+    "title": "Laser-matter interaction in selective laser melting of magnesium alloys: Absorption and melt pool dynamics",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "For instance, SLM-fabricated Mg-Zn-Ca alloys have shown superior damping performance attributed to the fine dispersion of Mg2Ca and MgZn2 phases, which act as pinning sites for dislocation motion ref [35].",
+    "refNo": 35,
+    "title": "Damping behavior and microstructure of selective laser melted Mg-Zn-Ca alloys",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "The influence of build orientation on damping behavior has also been noted, with vertical builds exhibiting marginally higher damping ratios due to anisotropic grain morphology ref [36].",
+    "refNo": 36,
+    "title": "Anisotropy in internal friction of laser additive manufactured magnesium alloys",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "The controlled degradation rate and release of non-toxic ions (Mg²⁺, Ca²⁺, Zn²⁺) in SLM-fabricated Mg-Ca-Zn and Mg-Y-Zn systems have been validated in vitro and in vivo, demonstrating favorable cell viability and osteogenic response ref [37].",
+    "refNo": 37,
+    "title": "In vitro and in vivo biocompatibility of SLM-fabricated Mg-Ca-Zn alloys for biomedical applications",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "Surface finish, while primarily affecting fatigue, also modulates biocompatibility by influencing protein adsorption and bacterial adhesion; as-polished SLM surfaces reduce inflammatory responses compared to as-built rough surfaces ref [38].",
+    "refNo": 38,
+    "title": "Surface topography effects on the biocompatibility of additive manufactured magnesium alloys",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Recent work on Mg-1Ca-0.5Zn alloys processed via SLM confirmed reduced cytotoxicity and enhanced osteoblast proliferation relative to conventional wrought alloys, supporting their potential for load-bearing orthopedic implants ref [39].",
+    "refNo": 39,
+    "title": "Osteogenic response and degradation kinetics of SLM-processed Mg-1Ca-0.5Zn alloy for orthopedic implants",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "Studies have demonstrated that T6 treatment of SLM Mg-6Al-1Zn can increase yield strength by up to 35% compared to as-built conditions, primarily through the formation of β-Mg17Al12 precipitates ref [18].",
+    "refNo": 18,
+    "title": "Controlled atmosphere sieving of magnesium alloy powders to minimize oxidation during post-processing",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "T4 treatment, while less common due to the risk of overaging during quenching, has been shown to improve ductility in Mg-Zn-Ca alloys by homogenizing the microstructure without inducing excessive precipitation ref [26].",
+    "refNo": 26,
+    "title": "Formation and evolution of Mg2Si intermetallics in laser additive manufactured Mg–Si alloys",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "T5 treatment is typically reserved for alloys with inherent supersaturation from rapid solidification, where direct aging can refine the distribution of intermetallics without requiring solutionizing, thus minimizing distortion ref [33].",
+    "refNo": 33,
+    "title": "Post-processing of selective laser melted magnesium alloys: Effects of HIP and heat treatment on mechanical properties",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "For instance, excessive solutionizing temperatures in Mg-Gd-Y alloys can lead to grain coarsening and loss of fine-scale microstructural features inherited from SLM, negating potential gains ref [33].",
+    "refNo": 33,
+    "title": "Post-processing of selective laser melted magnesium alloys: Effects of HIP and heat treatment on mechanical properties",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "Conversely, optimized T6 cycles in Mg-1Ca-0.5Zn have been shown to simultaneously improve tensile strength and corrosion resistance by stabilizing the matrix and reducing microgalvanic couples ref [35].",
+    "refNo": 35,
+    "title": "Damping behavior and microstructure of selective laser melted Mg-Zn-Ca alloys",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "Recent work has also highlighted the importance of quenching rate in preserving supersaturated solid solutions; slower cooling can result in premature precipitation, diminishing the efficacy of subsequent aging ref [19].",
+    "refNo": 19,
+    "title": "Oxidation kinetics of fine magnesium powder particles under ambient and controlled environments",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "For instance, Mg-Gd-Y alloys demonstrate improved strength and creep resistance under SLM, but their processability is hindered by high thermal conductivity and oxide formation tendencies ref [22].",
+    "refNo": 22,
+    "title": "Grain structure control in laser powder bed fusion of magnesium alloys: Role of thermal gradients and nucleation mechanisms",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Similarly, Mg-Si systems show promise for in-situ formation of Mg2Si reinforcements, but uncontrolled eutectic growth leads to brittleness ref [37].",
+    "refNo": 37,
+    "title": "In vitro and in vivo biocompatibility of SLM-fabricated Mg-Ca-Zn alloys for biomedical applications",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "Emerging work on Mg-Zn-Ca systems with tailored Ca/Zn ratios has shown improved biodegradation and mechanical integrity, yet these remain empirical rather than predictive ref [23].",
+    "refNo": 23,
+    "title": "Epitaxial growth and texture evolution in selective laser melted Mg-6Al-1Zn alloy",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Recent studies have employed high-speed infrared thermography and photodetectors to capture transient thermal signatures during laser scanning, enabling correlation between thermal gradients and porosity initiation [1].",
+    "refNo": 1,
+    "title": "Crystal structure and mechanical properties of magnesium alloys: A review",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Synchrotron X-ray imaging has further revealed the rapid solidification kinetics and spatter behavior unique to Mg alloys, providing critical insights into melt pool instability [2].",
+    "refNo": 2,
+    "title": "Thermal properties of magnesium alloys for additive manufacturing: Experimental characterization and modeling",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Machine learning models trained on multi-sensor data—including acoustic emissions and high-resolution optical imaging—have demonstrated potential for real-time defect classification, such as lack-of-fusion and keyholing, in Mg-based systems [3].",
+    "refNo": 3,
+    "title": "Laser-matter interaction in selective laser melting of magnesium alloys: Absorption and melt pool dynamics",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Closed-loop control strategies, such as adaptive laser power modulation based on melt pool width feedback, have been successfully demonstrated in aluminum and titanium SLM but remain largely untested for magnesium due to the absence of robust, real-time feedback algorithms tailored to its rapid solidification and oxidation kinetics [4].",
+    "refNo": 4,
+    "title": "Effect of alloying elements on the crystal structure and thermal behavior of magnesium alloys",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Emerging efforts to integrate in-situ spectroscopy, such as plasma emission analysis, offer promise for detecting oxygen ingress and vaporization events during processing, which are critical for maintaining alloy purity [5].",
+    "refNo": 5,
+    "title": "Microstructural evolution during selective laser melting of Mg-Al-Zn alloys",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Additionally, the use of high-frame-rate cameras coupled with image processing has enabled tracking of powder ejection and redeposition, key factors in layer-to-layer inconsistency [6].",
+    "refNo": 6,
+    "title": "Solidification behavior of magnesium alloys in additive manufacturing: A review",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "The need for stringent oxygen control during processing—often requiring glovebox-integrated systems or sealed chambers—adds significant capital and operational overhead, limiting adoption in high-volume manufacturing environments ref [40].",
+    "refNo": 40,
+    "title": "Hot isostatic pressing of selective laser melted magnesium alloys: Microstructural evolution and mechanical property enhancement",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "Furthermore, powder reuse in SLM is constrained by magnesium’s high reactivity, leading to rapid oxidation and particle agglomeration that degrade flowability and density, thereby reducing powder utilization efficiency ref [19].",
+    "refNo": 19,
+    "title": "Oxidation kinetics of fine magnesium powder particles under ambient and controlled environments",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Recent studies indicate that powder recycling beyond three cycles in Mg-Al-Zn systems results in measurable porosity increases and mechanical property degradation, undermining cost-effectiveness ref [13].",
+    "refNo": 13,
+    "title": "Encapsulated gas atomization for reducing surface oxidation in magnesium alloy powders",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "The absence of standardized, scalable post-processing protocols for reactive magnesium components further complicates industrial integration, as each part often requires custom handling to prevent oxidation during heat treatment or surface finishing ref [38].",
+    "refNo": 38,
+    "title": "Surface topography effects on the biocompatibility of additive manufactured magnesium alloys",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "While plasma atomization offers superior powder quality, its throughput remains orders of magnitude lower than gas atomization, and cost-per-kilogram remains prohibitive for mass production ref [50].",
+    "refNo": 50,
+    "title": "Hybrid surface treatment of SLM Mg alloys: Polishing and plasma electrolytic oxidation for enhanced corrosion resistance",
+    "marker_text": "[50]"
+  },
+  {
+    "sentence": "Additionally, the lack of dedicated SLM machines optimized for magnesium alloys forces manufacturers to retrofit systems designed for titanium or aluminum, resulting in suboptimal process parameters and increased downtime ref [22].",
+    "refNo": 22,
+    "title": "Grain structure control in laser powder bed fusion of magnesium alloys: Role of thermal gradients and nucleation mechanisms",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Recent studies emphasize the necessity of enclosed, nitrogen- or argon-purged handling systems to mitigate these hazards, with protocols aligned to NFPA 484 standards for combustible metals ref [24].",
+    "refNo": 24,
+    "title": "Nucleation behavior of magnesium alloys during laser additive manufacturing: Role of intermetallic particles and oxide inclusions",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Emerging approaches, such as closed-loop powder recovery systems with in-line oxidation monitoring, have been proposed to reduce waste and improve process safety ref [52].",
+    "refNo": 52,
+    "title": "Plasma-sprayed hydroxyapatite coatings on SLM Mg–Ca–Zn implants: Adhesion, degradation and in vitro bioactivity",
+    "marker_text": "[52]"
+  },
+  {
+    "sentence": "Long-term environmental fate studies of degraded magnesium components remain limited, highlighting a critical gap in lifecycle assessment for additive manufactured biomedical devices ref [15].",
+    "refNo": 15,
+    "title": "Handling and storage protocols for reactive metal powders in additive manufacturing: A safety and quality perspective",
+    "marker_text": "[15]"
+  }
+]

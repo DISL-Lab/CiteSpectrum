@@ -1,0 +1,716 @@
+[
+  {
+    "sentence": "These Dean flows create lateral migration pathways for particles, with their strength scaling with the Dean number (De = Re√(D/r), where D is channel diameter and r is curvature radius) [1].",
+    "refNo": 1,
+    "title": "Secondary flow in a curved channel of rectangular cross-section",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Particles suspended in such flows experience inertial lift forces that arise from velocity gradients and wall-induced shear, driving them toward equilibrium positions away from channel walls [2].",
+    "refNo": 2,
+    "title": "Inertial microfluidics: particle focusing and separation in microchannels",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "The balance between Dean flow-induced transverse migration and inertial lift determines particle trajectories, enabling size-dependent focusing in straight and curved channels [3].",
+    "refNo": 3,
+    "title": "Inertial focusing in microfluidic channels: theory and applications",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "The interplay between these forces allows for precise control over particle positioning, critical for high-throughput separation [4].",
+    "refNo": 4,
+    "title": "Inertial lift forces in microfluidic channels: a review",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Experimental and numerical studies have demonstrated that particles of different sizes migrate to distinct equilibrium planes due to variations in lift force magnitude, enabling size-based sorting without labels [5].",
+    "refNo": 5,
+    "title": "Size-dependent inertial focusing of cells in microfluidic devices",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "The dynamics are further modulated by channel aspect ratio and curvature, with rectangular channels exhibiting asymmetric Dean vortices that enhance separation efficiency [6].",
+    "refNo": 6,
+    "title": "Effect of channel aspect ratio on inertial particle focusing in rectangular microchannels",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Recent work has quantified the transition between lift-dominated and Dean-flow-dominated regimes, revealing optimal design parameters for cancer cell isolation [7].",
+    "refNo": 7,
+    "title": "Optimization of inertial microfluidic devices for cancer cell separation",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Studies have shown that the interplay between centrifugal force and hydrodynamic torque governs the equilibrium radial position of non-spherical cells, such as circulating tumor cells, in rotating microfluidic devices ref [8].",
+    "refNo": 8,
+    "title": "Centrifugal microfluidics for biomedical applications",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "The balance between these forces is captured by the Dean number and the rotational Reynolds number, which together define the dominance regime of centrifugal effects over inertial ones ref [9].",
+    "refNo": 9,
+    "title": "Rotational microfluidics: principles and applications",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Recent work has demonstrated that controlled rotation enables label-free isolation of rare cancer cells with high purity by exploiting differential centrifugal migration rates ref [10].",
+    "refNo": 10,
+    "title": "Label-free separation of circulating tumor cells using centrifugal microfluidics",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "The use of spiral microchannels under centrifugal actuation further enhances separation throughput while minimizing device footprint ref [11].",
+    "refNo": 11,
+    "title": "Spiral microfluidic devices for high-throughput cell separation under centrifugal force",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Numerical simulations and experimental validations confirm that hydrodynamic torque modulates the lateral displacement of elongated cells, providing an additional dimension for discrimination beyond size alone ref [12].",
+    "refNo": 12,
+    "title": "Hydrodynamic torque and orientation of non-spherical particles in rotating microchannels",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "In combined systems, the ratio of inertial lift to centrifugal force, often expressed as Re²/(Fr_rot·De), dictates the equilibrium position of cells in spiral channels ref [2].",
+    "refNo": 2,
+    "title": "Inertial microfluidics: particle focusing and separation in microchannels",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "The particle Stokes number (Stk = ρ_p d_p² ω / (18μ)) further quantifies particle inertia relative to fluid drag in rotating frames, enabling prediction of radial migration rates ref [5].",
+    "refNo": 5,
+    "title": "Size-dependent inertial focusing of cells in microfluidic devices",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Accurate scaling of these parameters is essential for device design across varying flow rates and channel geometries ref [7].",
+    "refNo": 7,
+    "title": "Optimization of inertial microfluidic devices for cancer cell separation",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Recent studies have demonstrated that optimal cell separation occurs when Re ≈ 1–100 and De ≈ 10–100, balancing lift forces with secondary flow stability ref [1].",
+    "refNo": 1,
+    "title": "Secondary flow in a curved channel of rectangular cross-section",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "For centrifugal platforms, Fr_rot > 100 typically ensures dominant radial migration, while Stk > 1 indicates sufficient particle inertia for effective separation ref [12].",
+    "refNo": 12,
+    "title": "Hydrodynamic torque and orientation of non-spherical particles in rotating microchannels",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "The interplay between these parameters has been systematically mapped in hybrid inertial-centrifugal devices, revealing non-linear thresholds for separation efficiency ref [13].",
+    "refNo": 13,
+    "title": "A comparative study of inertial and centrifugal forces in microfluidic cell separation",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Dimensionless analysis also reveals that particle size discrimination is most effective when the ratio of lift force to centrifugal force is tuned to the particle’s hydrodynamic diameter ref [11].",
+    "refNo": 11,
+    "title": "Spiral microfluidic devices for high-throughput cell separation under centrifugal force",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Studies show that for cancer cell separation, centrifugal forces can dominate inertial forces in spiral channels at rotational frequencies above 2000 rpm due to their mass-proportional nature, whereas inertial forces rely on hydrodynamic interactions that weaken for smaller, low-density targets [1].",
+    "refNo": 1,
+    "title": "Secondary flow in a curved channel of rectangular cross-section",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Scalability differs fundamentally: inertial systems require precise channel dimensions and flow control, limiting throughput without parallelization, while centrifugal platforms inherently scale with disk radius and rotation speed, enabling high-throughput processing in compact formats [2].",
+    "refNo": 2,
+    "title": "Inertial microfluidics: particle focusing and separation in microchannels",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Recent work demonstrates that centrifugal microfluidics can process >1 mL/min with minimal loss in separation efficiency, whereas inertial systems typically max out at ~100 µL/min per channel without complex multi-lane designs [3].",
+    "refNo": 3,
+    "title": "Inertial focusing in microfluidic channels: theory and applications",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Moreover, centrifugal forces remain effective across a broader range of particle sizes and densities, whereas inertial focusing becomes inefficient for cells below 5 µm due to reduced lift forces [4].",
+    "refNo": 4,
+    "title": "Inertial lift forces in microfluidic channels: a review",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "This ratio favors centrifugal separation in high-speed, large-radius systems, while inertial forces prevail in low-speed, narrow channels [5].",
+    "refNo": 5,
+    "title": "Size-dependent inertial focusing of cells in microfluidic devices",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Hybrid systems have been proposed to leverage both forces, but pure centrifugal designs offer superior scalability for clinical translation [6].",
+    "refNo": 6,
+    "title": "Effect of channel aspect ratio on inertial particle focusing in rectangular microchannels",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Early demonstrations showed that spiral channels could isolate CTCs from whole blood with recovery rates exceeding 85% and purity levels above 90% by exploiting differential inertial focusing positions of CTCs and blood cells ref [22].",
+    "refNo": 22,
+    "title": "Spiral microfluidics for high-throughput, label-free separation of circulating tumor cells",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Subsequent optimizations incorporated multi-layered spirals and asymmetric cross-sections to further tune flow dynamics and reduce clogging ref [23].",
+    "refNo": 23,
+    "title": "Design of asymmetric spiral microchannels for enhanced inertial focusing of cancer cells",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "The integration of Dean vortex-mediated focusing in spiral devices has enabled label-free, continuous separation of CTCs from leukocytes without surface markers, making them suitable for clinical applications ref [24].",
+    "refNo": 24,
+    "title": "Label-free isolation of circulating tumor cells using Dean flow fractionation in spiral microchannels",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Studies have demonstrated that spiral microfluidics can achieve throughput rates of up to 10 mL/h while maintaining high recovery, outperforming many straight-channel systems ref [25].",
+    "refNo": 25,
+    "title": "High-throughput inertial separation of circulating tumor cells in spiral microfluidic devices",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Moreover, the use of multi-turn spirals with controlled curvature radii has been shown to improve the separation window between CTCs and smaller blood cells, particularly in low-concentration samples ref [26].",
+    "refNo": 26,
+    "title": "Optimization of spiral channel geometry for size-based separation of rare cancer cells",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "Recent work has also combined spiral architectures with passive trapping elements to enhance capture efficiency without compromising purity ref [27].",
+    "refNo": 27,
+    "title": "Integrated spiral microfluidic platform with passive trapping for enhanced CTC capture",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "Clinical feasibility has been further validated through comparisons with epithelial cell adhesion molecule (EpCAM)-based methods, showing comparable or superior CTC recovery in metastatic cancer patients ref [28].",
+    "refNo": 28,
+    "title": "Clinical evaluation of spiral inertial microfluidics for circulating tumor cell isolation in metastatic breast cancer",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "The scalability and robustness of spiral designs have positioned them as leading candidates for point-of-care CTC diagnostics, particularly when integrated with downstream molecular analysis platforms ref [29].",
+    "refNo": 29,
+    "title": "Point-of-care spiral microfluidic device for CTC isolation and molecular characterization",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Recent advances include the use of peptide-functionalized surfaces in spiral channels to achieve dual-mode capture, where inertial focusing directs CTCs toward functionalized regions, as demonstrated in devices achieving >90% recovery with <5% leukocyte contamination ref [30].",
+    "refNo": 30,
+    "title": "Hybrid inertial and affinity-based microfluidic platform for high-efficiency capture of circulating tumor cells",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "Other studies have employed lectin-coated surfaces to target glycosylated markers on CTCs, leveraging inertial forces to enhance binding kinetics ref [31].",
+    "refNo": 31,
+    "title": "Lectin-functionalized inertial microfluidics for glycan-targeted isolation of circulating tumor cells",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "Microfabricated pillars with surface-bound CD45 antibodies have been integrated into inertial channels to selectively trap leukocytes, allowing CTCs to pass through unimpeded ref [32].",
+    "refNo": 32,
+    "title": "CD45-depletion microfluidic device with inertial focusing for label-free CTC enrichment",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "Additionally, thermoresponsive polymer coatings have enabled reversible CTC capture and release without enzymatic digestion, preserving cell viability for downstream analysis ref [33].",
+    "refNo": 33,
+    "title": "Thermoresponsive polymer-coated microchannels for reversible capture and release of viable circulating tumor cells",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "High purity (>90%) is achieved by combining inertial focusing with size-based discrimination, as demonstrated in straight rectangular channels where CTCs are separated from leukocytes based on hydrodynamic lift forces, yielding purity levels up to 95% in whole blood samples [1].",
+    "refNo": 1,
+    "title": "Secondary flow in a curved channel of rectangular cross-section",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Recovery rates exceeding 85% have been reported in spiral microfluidic devices optimized for Dean flow-mediated separation, where channel curvature and flow rate are tuned to retain rare CTCs while minimizing loss [2].",
+    "refNo": 2,
+    "title": "Inertial microfluidics: particle focusing and separation in microchannels",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Throughput remains a critical challenge; however, recent designs using multi-lane spiral architectures have achieved flow rates of 5–10 mL/h, enabling processing of clinically relevant blood volumes (5–10 mL) within 30–60 minutes [3].",
+    "refNo": 3,
+    "title": "Inertial focusing in microfluidic channels: theory and applications",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Hybrid systems integrating inertial focusing with passive trapping have further improved recovery to 92% while maintaining purity above 88% [4].",
+    "refNo": 4,
+    "title": "Inertial lift forces in microfluidic channels: a review",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "In contrast, straight-channel systems with optimized aspect ratios achieve throughputs of 1–3 mL/h but with higher purity due to reduced cell-cell interactions [5].",
+    "refNo": 5,
+    "title": "Size-dependent inertial focusing of cells in microfluidic devices",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Clinical validation studies have confirmed that spiral devices can process 7.5 mL of blood with 89% recovery and 91% purity in under 45 minutes, meeting point-of-care requirements [6].",
+    "refNo": 6,
+    "title": "Effect of channel aspect ratio on inertial particle focusing in rectangular microchannels",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Recent advances in multiplexed channel designs have enabled simultaneous optimization of all three metrics, with one system reporting 87% recovery, 93% purity, and 8.2 mL/h throughput in metastatic prostate cancer patients [7].",
+    "refNo": 7,
+    "title": "Optimization of inertial microfluidic devices for cancer cell separation",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "However, trade-offs persist: increasing throughput often reduces purity due to broader focusing bands, while surface modifications to enhance recovery can introduce non-specific binding, lowering purity [8].",
+    "refNo": 8,
+    "title": "Centrifugal microfluidics for biomedical applications",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Standardized benchmarking protocols remain underdeveloped, but emerging frameworks now advocate for reporting all three metrics under clinically relevant conditions to enable cross-platform comparison [9].",
+    "refNo": 9,
+    "title": "Rotational microfluidics: principles and applications",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "This mechanism is particularly effective in straight or tapered radial channels, where hydrodynamic drag balances centrifugal force to achieve distinct outlet collection zones ref [16].",
+    "refNo": 16,
+    "title": "Size-based separation of circulating tumor cells in straight microfluidic channels with high aspect ratio",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Tangential mechanisms are often integrated with spiral channel geometries to enhance residence time and separation efficiency under low rotational speeds ref [1].",
+    "refNo": 1,
+    "title": "Secondary flow in a curved channel of rectangular cross-section",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "For instance, spiral channels with radial inlet zones enable simultaneous size-based radial migration and tangential Dean flow focusing, achieving >85% CTC recovery from whole blood at clinically relevant flow rates ref [27].",
+    "refNo": 27,
+    "title": "Integrated spiral microfluidic platform with passive trapping for enhanced CTC capture",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "For instance, thermal lysis triggered by frictional heating during high-speed rotation has been demonstrated for efficient lysis of circulating tumor cells (CTCs) directly on the disc, preserving nucleic acids for downstream analysis ref [39].",
+    "refNo": 39,
+    "title": "Thermal lysis of circulating tumor cells on a centrifugal microfluidic platform for downstream molecular analysis",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "Similarly, chemical lysis using integrated reagent reservoirs and pneumatic valves allows for sequential delivery of lysis buffers without manual intervention, enhancing reproducibility ref [40].",
+    "refNo": 40,
+    "title": "Integrated pneumatic valve control for sequential reagent delivery in centrifugal microfluidics",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "Fluorescent labeling of lysed cellular DNA or RNA, followed by excitation via LED arrays and detection by photodiodes or smartphone-based cameras, enables real-time quantification of tumor-derived biomarkers ref [41].",
+    "refNo": 41,
+    "title": "Fluorescence-based detection of circulating tumor cells on a lab-on-a-disc platform using smartphone readout",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "Recent advances have incorporated paper-based colorimetric sensors that change color upon hybridization with target mRNA, allowing visual readout without complex optics ref [42].",
+    "refNo": 42,
+    "title": "Paper-based colorimetric biosensors integrated into centrifugal microfluidic devices for point-of-care cancer biomarker detection",
+    "marker_text": "[42]"
+  },
+  {
+    "sentence": "These systems have been successfully applied to detect EGFR mutations and HER2 expression directly from whole blood samples, achieving clinical sensitivity comparable to conventional PCR ref [43].",
+    "refNo": 43,
+    "title": "On-chip detection of EGFR and HER2 expression from whole blood using centrifugal microfluidics",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "Systems integrating RT-qPCR amplification on-chip via thermal cycling elements have been demonstrated, enabling molecular characterization of CTCs within 45 minutes ref [44].",
+    "refNo": 44,
+    "title": "Integrated RT-qPCR on a centrifugal microfluidic disc for rapid molecular profiling of circulating tumor cells",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "Such platforms have been validated in pilot studies for monitoring metastatic breast and prostate cancer ref [45].",
+    "refNo": 45,
+    "title": "Clinical validation of a centrifugal microfluidic platform for real-time monitoring of metastatic prostate cancer",
+    "marker_text": "[45]"
+  },
+  {
+    "sentence": "The modular design of centrifugal discs also permits scalability, allowing multiplexed detection of multiple biomarkers in parallel ref [46].",
+    "refNo": 46,
+    "title": "Multiplexed biomarker detection on a centrifugal microfluidic platform using spatially resolved detection zones",
+    "marker_text": "[46]"
+  },
+  {
+    "sentence": "For instance, a smartphone-based centrifugal platform was demonstrated for CTC isolation using a 3D-printed rotor and app-controlled rotation, achieving comparable purity to benchtop systems at a fraction of the cost ref [47].",
+    "refNo": 47,
+    "title": "Smartphone-based centrifugal microfluidic platform for point-of-care isolation of circulating tumor cells",
+    "marker_text": "[47]"
+  },
+  {
+    "sentence": "Similarly, a hand-cranked centrifugal disc integrated with paper-based detection zones enabled colorimetric quantification of cancer biomarkers without electricity, making it suitable for rural clinics ref [48].",
+    "refNo": 48,
+    "title": "Hand-cranked centrifugal microfluidic disc with paper-based colorimetric readout for cancer biomarker detection in resource-limited settings",
+    "marker_text": "[48]"
+  },
+  {
+    "sentence": "The use of injection-molded polymers and disposable disc fabrication further reduces per-test costs to under $1, facilitating scalable screening ref [49].",
+    "refNo": 49,
+    "title": "Low-cost injection-molded polymer discs for high-throughput centrifugal microfluidic cell separation",
+    "marker_text": "[49]"
+  },
+  {
+    "sentence": "Integration of passive valves and capillary stop mechanisms has enabled fully self-contained workflows, minimizing user intervention and reagent handling errors ref [50].",
+    "refNo": 50,
+    "title": "Passive valve integration in centrifugal microfluidic systems for fully automated sample processing",
+    "marker_text": "[50]"
+  },
+  {
+    "sentence": "Recent advances include a foldable, paper-polymer hybrid disc that can be assembled without cleanroom facilities, reducing fabrication complexity and cost while maintaining separation efficiency ref [51].",
+    "refNo": 51,
+    "title": "Foldable paper-polymer hybrid centrifugal microfluidic device for low-cost cancer diagnostics",
+    "marker_text": "[51]"
+  },
+  {
+    "sentence": "Portable centrifugal systems have also been coupled with compact fluorescence readers or smartphone cameras for on-device detection, eliminating the need for laboratory-grade equipment ref [52].",
+    "refNo": 52,
+    "title": "Smartphone-integrated fluorescence detection for on-chip cancer biomarker quantification in centrifugal microfluidics",
+    "marker_text": "[52]"
+  },
+  {
+    "sentence": "These platforms have been validated in field studies for detecting prostate-specific antigen and circulating tumor cells in low-resource environments, demonstrating clinical feasibility ref [53].",
+    "refNo": 53,
+    "title": "Field validation of a portable centrifugal microfluidic platform for circulating tumor cell detection in low-resource clinics",
+    "marker_text": "[53]"
+  },
+  {
+    "sentence": "Inertial microfluidic systems achieve high throughput by leveraging hydrodynamic forces in straight or spiral channels, enabling continuous flow processing at rates exceeding 10 mL/hour in optimized designs, as demonstrated in high-throughput inertial separation of circulating tumor cells using spiral microfluidic devices [1].",
+    "refNo": 1,
+    "title": "Secondary flow in a curved channel of rectangular cross-section",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "However, throughput is constrained by channel clogging and the need for precise flow rate control to maintain inertial focusing, particularly in samples with high hematocrit [2].",
+    "refNo": 2,
+    "title": "Inertial microfluidics: particle focusing and separation in microchannels",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Centrifugal microfluidic platforms, by contrast, rely on rotational forces to drive fluid motion and separation, often achieving comparable or higher throughput (up to 15 mL/hour) through batch processing on disc-based platforms [3].",
+    "refNo": 3,
+    "title": "Inertial focusing in microfluidic channels: theory and applications",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Processing times are typically longer (15–30 minutes) due to the need for rotational acceleration, stabilization, and deceleration cycles, but automation of multi-step protocols (e.g., lysis, washing, detection) enables fully integrated sample-to-answer workflows [4].",
+    "refNo": 4,
+    "title": "Inertial lift forces in microfluidic channels: a review",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Recent advances in low-cost injection-molded polymer discs have enabled scalable, high-throughput CTC isolation with minimal user intervention [5].",
+    "refNo": 5,
+    "title": "Size-dependent inertial focusing of cells in microfluidic devices",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Studies demonstrate that straight-channel inertial devices with high-aspect-ratio geometries can isolate CTCs with specificity up to 95% by suppressing leukocyte co-isolation through precise inertial focusing, as validated in clinical blood samples from metastatic cancer patients ref [31].",
+    "refNo": 31,
+    "title": "Lectin-functionalized inertial microfluidics for glycan-targeted isolation of circulating tumor cells",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "However, sensitivity remains constrained by the limited capture efficiency of small or highly deformable CTCs, with recovery rates typically ranging from 60% to 80% ref [13].",
+    "refNo": 13,
+    "title": "A comparative study of inertial and centrifugal forces in microfluidic cell separation",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Centrifugal systems, by contrast, often rely on density-based sedimentation or hydrodynamic sorting under variable g-forces, which can yield higher sensitivity (70–90%) due to broader size-range capture but at the cost of reduced specificity, frequently co-isolating platelets and large leukocytes ref [8].",
+    "refNo": 8,
+    "title": "Centrifugal microfluidics for biomedical applications",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Integration of affinity coatings or size-selective filters on centrifugal discs has improved specificity to 85–90% in recent platforms, though at the expense of increased fabrication complexity ref [45].",
+    "refNo": 45,
+    "title": "Clinical validation of a centrifugal microfluidic platform for real-time monitoring of metastatic prostate cancer",
+    "marker_text": "[45]"
+  },
+  {
+    "sentence": "Hybrid approaches combining inertial focusing with surface functionalization have demonstrated superior performance, achieving both >85% sensitivity and >90% specificity by leveraging physical and biological discrimination ref [38].",
+    "refNo": 38,
+    "title": "Combining inertial focusing with magnetic nanoparticle labeling for hybrid CTC isolation",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "The need for sub-micron dimensional control increases fabrication cost and limits scalability, particularly for mass production ref [35].",
+    "refNo": 35,
+    "title": "Integration of aptamer-functionalized surfaces with Dean flow for enhanced CTC isolation in microfluidic channels",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "However, integrating passive valves, pumps, and detection zones on a disc demands precise angular alignment and surface functionalization, which can lead to leakage or cross-contamination if not engineered meticulously ref [26].",
+    "refNo": 26,
+    "title": "Optimization of spiral channel geometry for size-based separation of rare cancer cells",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "The integration of on-chip sensors or optical readouts further complicates fabrication, requiring hybrid material systems ref [44].",
+    "refNo": 44,
+    "title": "Integrated RT-qPCR on a centrifugal microfluidic disc for rapid molecular profiling of circulating tumor cells",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "Recent advances in mold-based fabrication and laser ablation have improved consistency, but standardization remains elusive ref [38].",
+    "refNo": 38,
+    "title": "Combining inertial focusing with magnetic nanoparticle labeling for hybrid CTC isolation",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Centrifugal platforms, particularly those based on disc-based designs, benefit from established regulatory pathways due to their resemblance to commercial centrifuges and compatibility with ISO 13485-compliant mass production, as demonstrated in field validation studies for low-resource settings ref [39].",
+    "refNo": 39,
+    "title": "Thermal lysis of circulating tumor cells on a centrifugal microfluidic platform for downstream molecular analysis",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "In contrast, inertial systems face greater regulatory scrutiny due to complex channel geometries and sensitivity to flow variability, which complicate standardization and quality control ref [16].",
+    "refNo": 16,
+    "title": "Size-based separation of circulating tumor cells in straight microfluidic channels with high aspect ratio",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Both platforms require validation of analytical performance against FDA-cleared reference methods, such as CellSearch, to meet clinical diagnostic criteria ref [17].",
+    "refNo": 17,
+    "title": "High-purity isolation of circulating tumor cells using inertial focusing in straight rectangular channels",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Integration of downstream molecular analysis, such as RT-qPCR or fluorescence detection, enhances clinical utility but introduces additional regulatory layers for combined diagnostic devices ref [27].",
+    "refNo": 27,
+    "title": "Integrated spiral microfluidic platform with passive trapping for enhanced CTC capture",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "For global accessibility, centrifugal systems have demonstrated superior feasibility through low-cost, hand-cranked or smartphone-powered designs that require no external power, making them suitable for resource-limited clinics ref [41].",
+    "refNo": 41,
+    "title": "Fluorescence-based detection of circulating tumor cells on a lab-on-a-disc platform using smartphone readout",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "Recent efforts to integrate paper-based readouts with centrifugal platforms further reduce cost and complexity, aligning with WHO guidelines for point-of-care diagnostics ref [47].",
+    "refNo": 47,
+    "title": "Smartphone-based centrifugal microfluidic platform for point-of-care isolation of circulating tumor cells",
+    "marker_text": "[47]"
+  },
+  {
+    "sentence": "Regulatory bodies increasingly emphasize real-world performance data; thus, clinical validation studies in diverse patient cohorts remain critical for both technologies ref [37].",
+    "refNo": 37,
+    "title": "Multiplexed surface modification in straight inertial channels for subtype-specific CTC capture",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "When combined with centrifugal forces in spiral channels, acoustophoresis improves the resolution of CTC enrichment by counteracting hydrodynamic dispersion, as demonstrated in hybrid devices achieving >90% purity from spiked blood samples [1].",
+    "refNo": 1,
+    "title": "Secondary flow in a curved channel of rectangular cross-section",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Magnetophoresis, typically employed via functionalized magnetic nanoparticles, allows for targeted capture of EpCAM-positive CTCs under centrifugal flow, significantly reducing non-specific binding and enabling high-purity isolation even at high flow rates [2].",
+    "refNo": 2,
+    "title": "Inertial microfluidics: particle focusing and separation in microchannels",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Dielectrophoresis (DEP), which exploits polarizability differences under non-uniform electric fields, has been coupled with centrifugal microfluidics to separate CTCs from leukocytes based on intrinsic electrical properties, offering a complementary mechanism to size-based inertial focusing [3].",
+    "refNo": 3,
+    "title": "Inertial focusing in microfluidic channels: theory and applications",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Recent advances have demonstrated multi-force synergies, such as the concurrent use of DEP and acoustophoresis in a single centrifugal platform to achieve orthogonal separation criteria, thereby improving recovery rates for heterogeneous CTC populations [4].",
+    "refNo": 4,
+    "title": "Inertial lift forces in microfluidic channels: a review",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Magnetophoretic capture has also been integrated with Dean flow in spiral channels to enable sequential enrichment and release, preserving cell viability for downstream analysis [5].",
+    "refNo": 5,
+    "title": "Size-dependent inertial focusing of cells in microfluidic devices",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Furthermore, the compatibility of these techniques with on-chip detection and downstream molecular profiling enhances their utility in clinical diagnostics [6].",
+    "refNo": 6,
+    "title": "Effect of channel aspect ratio on inertial particle focusing in rectangular microchannels",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "For instance, integrated platforms have demonstrated successful transcriptomic profiling of CTCs following inertial focusing, achieving high concordance with bulk tissue biopsies ref [17].",
+    "refNo": 17,
+    "title": "High-purity isolation of circulating tumor cells using inertial focusing in straight rectangular channels",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Similarly, centrifugal microfluidic discs with embedded reaction chambers allow for automated lysis, reverse transcription, and amplification directly on-chip, facilitating rapid molecular subtyping ref [68].",
+    "refNo": 68,
+    "title": "Closed-loop control of microfluidic separation using real-time optical feedback and neural networks",
+    "marker_text": "[68]"
+  },
+  {
+    "sentence": "Recent innovations include the coupling of CTC isolation with single-cell barcoding and droplet-based sequencing, enabling high-throughput genomic analysis of individual CTCs without off-chip handling ref [52].",
+    "refNo": 52,
+    "title": "Smartphone-integrated fluorescence detection for on-chip cancer biomarker quantification in centrifugal microfluidics",
+    "marker_text": "[52]"
+  },
+  {
+    "sentence": "Surface-engineered channels with reversible capture motifs further permit gentle release of viable CTCs for functional assays, such as ex vivo culture or live-cell imaging ref [69].",
+    "refNo": 69,
+    "title": "Machine learning-assisted optimization of force parameters in lab-on-a-disc platforms for CTC enrichment",
+    "marker_text": "[69]"
+  },
+  {
+    "sentence": "These approaches have been validated in clinical cohorts, showing correlation between CTC transcript signatures and treatment response in metastatic breast and prostate cancer ref [37].",
+    "refNo": 37,
+    "title": "Multiplexed surface modification in straight inertial channels for subtype-specific CTC capture",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "The synergy between force-based separation and single-cell omics is further enhanced by miniaturized, automated workflows that reduce contamination and processing time, making them suitable for point-of-care deployment ref [66].",
+    "refNo": 66,
+    "title": "Adaptive centrifugal microfluidics with machine learning for variable hematocrit samples",
+    "marker_text": "[66]"
+  },
+  {
+    "sentence": "For instance, mesenchymal-like CTCs, which are often more invasive and metastatic, may be missed by EpCAM-dependent capture systems due to downregulation of this marker, as demonstrated in metastatic breast cancer models ref [70].",
+    "refNo": 70,
+    "title": "Epithelial-mesenchymal transition in circulating tumor cells: implications for isolation and clinical utility",
+    "marker_text": "[70]"
+  },
+  {
+    "sentence": "These clusters exhibit distinct rheological responses compared to single CTCs, leading to misclassification or loss during processing ref [71].",
+    "refNo": 71,
+    "title": "Circulating tumor cell clusters: biophysical properties and implications for microfluidic separation",
+    "marker_text": "[71]"
+  },
+  {
+    "sentence": "Recent studies have shown that CTCs isolated from different cancer types and disease stages display divergent mechanical phenotypes, including increased stiffness in some subpopulations and enhanced deformability in others, undermining the universality of size-based thresholds ref [72].",
+    "refNo": 72,
+    "title": "Mechanical heterogeneity of circulating tumor cells across cancer types and disease stages",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "Longitudinal analyses reveal temporal shifts in CTC phenotypes during therapy, necessitating adaptive separation strategies ref [73].",
+    "refNo": 73,
+    "title": "Temporal evolution of circulating tumor cell phenotypes during systemic therapy",
+    "marker_text": "[73]"
+  },
+  {
+    "sentence": "Current force-based platforms, optimized for static epithelial CTCs, are ill-equipped to handle this heterogeneity without multimodal or machine learning-driven real-time adjustment ref [62].",
+    "refNo": 62,
+    "title": "Machine learning-enabled adaptive control of centrifugal microfluidics for high-purity CTC isolation",
+    "marker_text": "[62]"
+  },
+  {
+    "sentence": "Studies have demonstrated that hematocrit variations of ±5% can reduce CTC isolation efficiency by up to 40% in spiral microfluidic devices due to altered Dean flow profiles and increased viscous drag [1].",
+    "refNo": 1,
+    "title": "Secondary flow in a curved channel of rectangular cross-section",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Similarly, RBC deformation under centrifugal forces distorts the equilibrium focusing positions of CTCs, necessitating adaptive flow control to maintain separation fidelity [2].",
+    "refNo": 2,
+    "title": "Inertial microfluidics: particle focusing and separation in microchannels",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Recent work has shown that pre-filtration or dilution strategies mitigate these effects but compromise cell viability and introduce sample bias [3].",
+    "refNo": 3,
+    "title": "Inertial focusing in microfluidic channels: theory and applications",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Alternative approaches, such as viscoelastic polymer additives, have been explored to modulate blood rheology without dilution, improving CTC recovery in high-viscosity samples [4].",
+    "refNo": 4,
+    "title": "Inertial lift forces in microfluidic channels: a review",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Moreover, computational models incorporating non-Newtonian blood behavior have improved prediction accuracy of CTC trajectories under realistic physiological conditions [5].",
+    "refNo": 5,
+    "title": "Size-dependent inertial focusing of cells in microfluidic devices",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "To enable robust clinical translation, future systems must integrate real-time rheological sensing and feedback control to dynamically adjust flow parameters in response to sample variability [6].",
+    "refNo": 6,
+    "title": "Effect of channel aspect ratio on inertial particle focusing in rectangular microchannels",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Machine learning models trained on rheological signatures of patient blood samples show promise in predicting optimal operating conditions for heterogeneous matrices [7].",
+    "refNo": 7,
+    "title": "Optimization of inertial microfluidic devices for cancer cell separation",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Additionally, microfluidic designs incorporating anti-clogging geometries or surface coatings that reduce RBC adhesion may enhance resilience to matrix effects [8].",
+    "refNo": 8,
+    "title": "Centrifugal microfluidics for biomedical applications",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Recent advances in parallelized spiral microfluidic architectures have demonstrated throughput increases up to 10 mL/h, enabling feasible processing of standard blood draws ref [22].",
+    "refNo": 22,
+    "title": "Spiral microfluidics for high-throughput, label-free separation of circulating tumor cells",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "However, maintaining uniform flow distribution across multiple channels without clogging or shear-induced cell damage requires precise engineering ref [11].",
+    "refNo": 11,
+    "title": "Spiral microfluidic devices for high-throughput cell separation under centrifugal force",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Passive valve systems and centrifugal actuation have enabled fully closed-loop operation, minimizing manual intervention ref [72].",
+    "refNo": 72,
+    "title": "Mechanical heterogeneity of circulating tumor cells across cancer types and disease stages",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "Automation has been further enhanced by integrating real-time feedback control using machine learning and edge computing, allowing dynamic adjustment of flow rates and rotational speeds based on in-line optical sensing ref [61].",
+    "refNo": 61,
+    "title": "Real-time optimization of inertial microfluidic separation using deep reinforcement learning",
+    "marker_text": "[61]"
+  },
+  {
+    "sentence": "Additionally, low-cost, injection-molded polymer discs have been developed to enable mass production and disposability, reducing contamination risk and facilitating integration into clinical workflows ref [19].",
+    "refNo": 19,
+    "title": "A straight-channel inertial microfluidic device for label-free CTC isolation from whole blood",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Recent efforts have begun to address this through standardized reference materials, such as spiked blood samples with characterized CTC lines, to enable cross-platform benchmarking ref [28].",
+    "refNo": 28,
+    "title": "Clinical evaluation of spiral inertial microfluidics for circulating tumor cell isolation in metastatic breast cancer",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Studies like those by Yu et al. have demonstrated the prognostic value of CTC enumeration in metastatic breast cancer using standardized protocols, but such validations remain sparse ref [11].",
+    "refNo": 11,
+    "title": "Spiral microfluidic devices for high-throughput cell separation under centrifugal force",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "To bridge this gap, consortia such as the Circulating Tumor Cell Standardization Initiative (CTCSI) have proposed consensus guidelines for pre-analytical variables, including anticoagulant choice, processing time, and storage conditions ref [38].",
+    "refNo": 38,
+    "title": "Combining inertial focusing with magnetic nanoparticle labeling for hybrid CTC isolation",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Integration of quality control checkpoints within microfluidic platforms, such as real-time flow monitoring and automated calibration, further enhances reliability ref [57].",
+    "refNo": 57,
+    "title": "Hybrid acoustophoretic and dielectrophoretic microfluidics for multiparametric CTC isolation",
+    "marker_text": "[57]"
+  }
+]

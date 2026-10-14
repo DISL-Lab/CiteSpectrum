@@ -1,0 +1,2646 @@
+[
+  {
+    "sentence": "Listed below are some updates on the current state of cancer research and treatment: The conventional process for cell/particle separation was significantly updated after the invention of inertial microfluidics [88].",
+    "refNo": 88,
+    "title": "",
+    "marker_text": "[88]"
+  },
+  {
+    "sentence": "The possibility of infection would affect the test results [22].",
+    "refNo": 22,
+    "title": "Microfabricated centrifugal microfluidic systems: Characterization and multiple enzymatic assays",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "The first LOC analysis system was first used in 1979 to investigate gas chromatography applications [164].",
+    "refNo": 164,
+    "title": "",
+    "marker_text": "[164]"
+  },
+  {
+    "sentence": "Since then, these devices have been investigated for numerous applications, including biosensors [165], separation [166], analysis [167], drug delivery [168], optoelectronics [169], cell manipulation [170], and chemical synthesis [171,172].",
+    "refNo": 165,
+    "title": "",
+    "marker_text": "[165]"
+  },
+  {
+    "sentence": "Since then, these devices have been investigated for numerous applications, including biosensors [165], separation [166], analysis [167], drug delivery [168], optoelectronics [169], cell manipulation [170], and chemical synthesis [171,172].",
+    "refNo": 166,
+    "title": "",
+    "marker_text": "[166]"
+  },
+  {
+    "sentence": "Since then, these devices have been investigated for numerous applications, including biosensors [165], separation [166], analysis [167], drug delivery [168], optoelectronics [169], cell manipulation [170], and chemical synthesis [171,172].",
+    "refNo": 167,
+    "title": "",
+    "marker_text": "[167]"
+  },
+  {
+    "sentence": "Since then, these devices have been investigated for numerous applications, including biosensors [165], separation [166], analysis [167], drug delivery [168], optoelectronics [169], cell manipulation [170], and chemical synthesis [171,172].",
+    "refNo": 168,
+    "title": "",
+    "marker_text": "[168]"
+  },
+  {
+    "sentence": "Since then, these devices have been investigated for numerous applications, including biosensors [165], separation [166], analysis [167], drug delivery [168], optoelectronics [169], cell manipulation [170], and chemical synthesis [171,172].",
+    "refNo": 169,
+    "title": "",
+    "marker_text": "[169]"
+  },
+  {
+    "sentence": "Since then, these devices have been investigated for numerous applications, including biosensors [165], separation [166], analysis [167], drug delivery [168], optoelectronics [169], cell manipulation [170], and chemical synthesis [171,172].",
+    "refNo": 170,
+    "title": "",
+    "marker_text": "[170]"
+  },
+  {
+    "sentence": "Since then, these devices have been investigated for numerous applications, including biosensors [165], separation [166], analysis [167], drug delivery [168], optoelectronics [169], cell manipulation [170], and chemical synthesis [171,172].",
+    "refNo": 171,
+    "title": "",
+    "marker_text": "[171]"
+  },
+  {
+    "sentence": "Since then, these devices have been investigated for numerous applications, including biosensors [165], separation [166], analysis [167], drug delivery [168], optoelectronics [169], cell manipulation [170], and chemical synthesis [171,172].",
+    "refNo": 172,
+    "title": "",
+    "marker_text": "[172]"
+  },
+  {
+    "sentence": "Compared to the other separators, the advantages of inertial microfluidic devices include (1) proficiency, fabrication, and operation, (2) high-throughput and continuous sample processing, (3) neither barriers nor mechanical or electrical components are required in their structure, (4) they can be quickly and easily fabricated using different microfabrication techniques, especially PDMS softlithography, and (5) the whole system can be run with only one syringe pump.",
+    "refNo": 1,
+    "title": "Liquid biopsy: A step closer to transform diagnosis, prognosis and future of cancer treatments",
+    "marker_text": "(1)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Compared to the other separators, the advantages of inertial microfluidic devices include (1) proficiency, fabrication, and operation, (2) high-throughput and continuous sample processing, (3) neither barriers nor mechanical or electrical components are required in their structure, (4) they can be quickly and easily fabricated using different microfabrication techniques, especially PDMS softlithography, and (5) the whole system can be run with only one syringe pump.",
+    "refNo": 2,
+    "title": "Microfluidic-Based Technologies for CTC Isolation: A Review of 10 Years of Intense Efforts towards Liquid Biopsy",
+    "marker_text": "(2)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Compared to the other separators, the advantages of inertial microfluidic devices include (1) proficiency, fabrication, and operation, (2) high-throughput and continuous sample processing, (3) neither barriers nor mechanical or electrical components are required in their structure, (4) they can be quickly and easily fabricated using different microfabrication techniques, especially PDMS softlithography, and (5) the whole system can be run with only one syringe pump.",
+    "refNo": 3,
+    "title": "Recent Advances in Microfluidic Platform for Physical and Immunological Detection and Capture of Circulating Tumor Cells",
+    "marker_text": "(3)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Compared to the other separators, the advantages of inertial microfluidic devices include (1) proficiency, fabrication, and operation, (2) high-throughput and continuous sample processing, (3) neither barriers nor mechanical or electrical components are required in their structure, (4) they can be quickly and easily fabricated using different microfabrication techniques, especially PDMS softlithography, and (5) the whole system can be run with only one syringe pump.",
+    "refNo": 4,
+    "title": "Biophysical isolation and identification of circulating tumor cells",
+    "marker_text": "(4)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Compared to the other separators, the advantages of inertial microfluidic devices include (1) proficiency, fabrication, and operation, (2) high-throughput and continuous sample processing, (3) neither barriers nor mechanical or electrical components are required in their structure, (4) they can be quickly and easily fabricated using different microfabrication techniques, especially PDMS softlithography, and (5) the whole system can be run with only one syringe pump.",
+    "refNo": 5,
+    "title": "Liquid biopsy in bladder cancer: State of the art and future perspectives",
+    "marker_text": "(5)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Such behavior is governed by channel geometry and flow conditions under the inertial forces in the microchannel [18].",
+    "refNo": 18,
+    "title": "An integrated inertial microfluidic vortex sorter for tunable sorting and purification of cells",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "A balance of two dominant forces in a straight channel will draw particles from the walls to the equilibrium position [19].",
+    "refNo": 19,
+    "title": "Label-Free Cancer Cell Separation from Human Whole Blood Using Inertial Microfluidics at Low Shear Stress",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Finally, particles with varied sizes settle at different equilibrium positions between the centerline and walls where these two opposite inertial lift forces on the particle are balanced (see Figure 1a) [18].",
+    "refNo": 18,
+    "title": "An integrated inertial microfluidic vortex sorter for tunable sorting and purification of cells",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "For example, particles are gathered into an annulus with a radius of 0.6r (r is the channel radius) in a cylindrical channel [19]; or migrate to the four equilibrium positions near the centers of the walls in a square channel [19]; or first, move toward the two long walls and then become gently focused to the two equilibrium positions near the middle points on the long walls in a rectangular channel (the aspect ratio of the channel < 1) [19].",
+    "refNo": 19,
+    "title": "Label-Free Cancer Cell Separation from Human Whole Blood Using Inertial Microfluidics at Low Shear Stress",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "For example, particles are gathered into an annulus with a radius of 0.6r (r is the channel radius) in a cylindrical channel [19]; or migrate to the four equilibrium positions near the centers of the walls in a square channel [19]; or first, move toward the two long walls and then become gently focused to the two equilibrium positions near the middle points on the long walls in a rectangular channel (the aspect ratio of the channel < 1) [19].",
+    "refNo": 19,
+    "title": "Label-Free Cancer Cell Separation from Human Whole Blood Using Inertial Microfluidics at Low Shear Stress",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "For example, particles are gathered into an annulus with a radius of 0.6r (r is the channel radius) in a cylindrical channel [19]; or migrate to the four equilibrium positions near the centers of the walls in a square channel [19]; or first, move toward the two long walls and then become gently focused to the two equilibrium positions near the middle points on the long walls in a rectangular channel (the aspect ratio of the channel < 1) [19].",
+    "refNo": 19,
+    "title": "Label-Free Cancer Cell Separation from Human Whole Blood Using Inertial Microfluidics at Low Shear Stress",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "In the spiral channel, the balance between and causes particle migration to the equilibrium position [18] (Reprinted/adapted with permission from Ref. [18]. 2017, Springer Nature).",
+    "refNo": 18,
+    "title": "An integrated inertial microfluidic vortex sorter for tunable sorting and purification of cells",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "In the spiral channel, the balance between and causes particle migration to the equilibrium position [18] (Reprinted/adapted with permission from Ref. [18]. 2017, Springer Nature).",
+    "refNo": 18,
+    "title": "An integrated inertial microfluidic vortex sorter for tunable sorting and purification of cells",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Figure 1b shows that adding curvatures to the flow channel can generate secondary vortices (i.e., Dean vortices) perpendicular to the main flow stream [18].",
+    "refNo": 18,
+    "title": "An integrated inertial microfluidic vortex sorter for tunable sorting and purification of cells",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Indeed, curved channels cause velocity mismatches between liquid elements closer to the channel walls and those near the channel center [18,19].",
+    "refNo": 18,
+    "title": "An integrated inertial microfluidic vortex sorter for tunable sorting and purification of cells",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Indeed, curved channels cause velocity mismatches between liquid elements closer to the channel walls and those near the channel center [18,19].",
+    "refNo": 19,
+    "title": "Label-Free Cancer Cell Separation from Human Whole Blood Using Inertial Microfluidics at Low Shear Stress",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "As shown in Figure 1b, by adjusting the dimension and shape of the channel, large particles can be concentrated near the channel's inner wall while smaller particles flow near the channel's outer wall [18,19].",
+    "refNo": 18,
+    "title": "An integrated inertial microfluidic vortex sorter for tunable sorting and purification of cells",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "As shown in Figure 1b, by adjusting the dimension and shape of the channel, large particles can be concentrated near the channel's inner wall while smaller particles flow near the channel's outer wall [18,19].",
+    "refNo": 19,
+    "title": "Label-Free Cancer Cell Separation from Human Whole Blood Using Inertial Microfluidics at Low Shear Stress",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "One such system, the 'All-in-One Centrifugal Microfluidic Device', enables size-selective CTC isolation with high purity by integrating multiple sample processing steps on a single chip, demonstrating efficient enrichment from spiked blood samples [2].",
+    "refNo": 2,
+    "title": "Microfluidic-Based Technologies for CTC Isolation: A Review of 10 Years of Intense Efforts towards Liquid Biopsy",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Similarly, the 'Centrifuge-on-a-Chip' replicates the functions of a benchtop centrifuge using purely fluid dynamic phenomena, allowing continuous enrichment of cancer cells from blood at mL/min scales while enabling downstream fluorescent labeling without manual handling [3].",
+    "refNo": 3,
+    "title": "Recent Advances in Microfluidic Platform for Physical and Immunological Detection and Capture of Circulating Tumor Cells",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Another approach, the Vortex technology, combines inertial focusing with microscale vortices to achieve high-purity CTC extraction from whole blood, processing 7.5 mL in 20 minutes with purity levels of 57–94% and validating performance in patient samples from breast and lung cancer [4].",
+    "refNo": 4,
+    "title": "Biophysical isolation and identification of circulating tumor cells",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "While inertial microfluidics provides the physical basis for particle sorting, centrifugal systems offer scalable integration for clinical translation, with recent advances demonstrating feasibility in resource-limited settings [3].",
+    "refNo": 3,
+    "title": "Recent Advances in Microfluidic Platform for Physical and Immunological Detection and Capture of Circulating Tumor Cells",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "After the particles with an irregular arrangement are entered into the fluid, they will be finally ordered along the flow direction [99].",
+    "refNo": 99,
+    "title": "",
+    "marker_text": "[99]"
+  },
+  {
+    "sentence": "They also tried to introduce a design with multi-stage separation to achieve a higher purity [100].",
+    "refNo": 100,
+    "title": "",
+    "marker_text": "[100]"
+  },
+  {
+    "sentence": "Recently, Mahboubidoust et al. presented the development of a hybrid acousto-inertial microfluidic platform with a serpentine microchannel with four different configurations for the separation of CTCs from neutrophils in whole blood [1].",
+    "refNo": 1,
+    "title": "Liquid biopsy: A step closer to transform diagnosis, prognosis and future of cancer treatments",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "In addition, hybrid systems integrating inertial microfluidics with dielectrophoresis have been developed to enhance separation resolution for similarly sized cells, such as CTCs and white blood cells, by leveraging both size-dependent inertial focusing and dielectric property differences [3].",
+    "refNo": 3,
+    "title": "Recent Advances in Microfluidic Platform for Physical and Immunological Detection and Capture of Circulating Tumor Cells",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Another approach combines inertial focusing with multi-orifice flow fractionation (MOFF) and DEP to achieve high-throughput, label-free CTC isolation with significant enrichment factors [6].",
+    "refNo": 6,
+    "title": "Liquid Biopsy and Other Non-Invasive Diagnostic Measures in PCNSL",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "A contraction-expansion inertial microfluidic channel coupled with DEP has also been demonstrated to separate CTCs from WBCs regardless of size overlap, achieving high separation distances at moderate flow rates [7].",
+    "refNo": 7,
+    "title": "Microfluidic modelling of the tumor microenvironment for anti-cancer drug development",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Furthermore, the integration of inertial focusing with ferrohydrodynamic forces has enabled ultrahigh-throughput, label-free separation of CTCs from blood with high purity and recovery rates, even for cells with minimal physical size differences [2].",
+    "refNo": 2,
+    "title": "Microfluidic-Based Technologies for CTC Isolation: A Review of 10 Years of Intense Efforts towards Liquid Biopsy",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "The secondary flows in such microchannels efficiently contribute to size-based separation and lateral particle migration [16].",
+    "refNo": 16,
+    "title": "Continuous separation of breast cancer cells from blood samples using multi-orifice flow fractionation (MOFF) and dielectrophoresis (DEP)",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Zhou et al. investigated this phenomenon and studied a microchannel with a similar structure using experimental and numerical simulation approaches [15].",
+    "refNo": 15,
+    "title": "Circulating Tumor Cell Separation in a Zigzag Channel Using Dielectrophoresis Based Inertial Microfluidics",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Later, Wang et al. added two side outlets to the corners of the chambers and three resistance devices to the outlets in the abovementioned channel structure [15].",
+    "refNo": 15,
+    "title": "Circulating Tumor Cell Separation in a Zigzag Channel Using Dielectrophoresis Based Inertial Microfluidics",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "In another study, Wang et al. connected another expansion region to the original channel for secondary separation of the ternary mixture [16].",
+    "refNo": 16,
+    "title": "Continuous separation of breast cancer cells from blood samples using multi-orifice flow fractionation (MOFF) and dielectrophoresis (DEP)",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Later, they successfully developed an integrated inertial microfluidic vortex sorter for continuous size-based separation of rare cells from diluted human blood with the help of sheath flow with a 90% separation efficiency [15].",
+    "refNo": 15,
+    "title": "Circulating Tumor Cell Separation in a Zigzag Channel Using Dielectrophoresis Based Inertial Microfluidics",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Figure 5 shows a centrifugal microfluidic platform with a straight microfluidic channel preloaded with a volume of liquid [91].",
+    "refNo": 91,
+    "title": "",
+    "marker_text": "[91]"
+  },
+  {
+    "sentence": "Specifically, the system can be easily controlled and operated [173].",
+    "refNo": 173,
+    "title": "",
+    "marker_text": "[173]"
+  },
+  {
+    "sentence": "Another advantage of LOCD is having centrifugal force independence of parameters such as viscosity, conductivity, pH, and surface tension [6].",
+    "refNo": 6,
+    "title": "Liquid Biopsy and Other Non-Invasive Diagnostic Measures in PCNSL",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Geometry-based cell/particle separation mechanisms in centrifugal microfluidic systems have been reported in numerous studies [78,[203][204][205][206].",
+    "refNo": 203,
+    "title": "",
+    "marker_text": "[203]"
+  },
+  {
+    "sentence": "Geometry-based cell/particle separation mechanisms in centrifugal microfluidic systems have been reported in numerous studies [78,[203][204][205][206].",
+    "refNo": 204,
+    "title": "",
+    "marker_text": "[204]"
+  },
+  {
+    "sentence": "Geometry-based cell/particle separation mechanisms in centrifugal microfluidic systems have been reported in numerous studies [78,[203][204][205][206].",
+    "refNo": 205,
+    "title": "",
+    "marker_text": "[205]"
+  },
+  {
+    "sentence": "Geometry-based cell/particle separation mechanisms in centrifugal microfluidic systems have been reported in numerous studies [78,[203][204][205][206].",
+    "refNo": 206,
+    "title": "",
+    "marker_text": "[206]"
+  },
+  {
+    "sentence": "Lee et al. developed a centrifugal platform with three processing sets (each set contains a sample loading chamber, filtering chamber, and waste chamber) to separate CTCs [78] (Figure 8a).",
+    "refNo": 78,
+    "title": "",
+    "marker_text": "[78]"
+  },
+  {
+    "sentence": "The relationship between the drag coefficient C D and the particle Reynolds number Re p can be easily obtained using a logarithmic diagram (Figure 10) [215].",
+    "refNo": 215,
+    "title": "",
+    "marker_text": "[215]"
+  },
+  {
+    "sentence": "The relationship between the drag coefficient and the particle Reynolds number can be easily obtained using a logarithmic diagram (Figure 10) [215].",
+    "refNo": 215,
+    "title": "",
+    "marker_text": "[215]"
+  },
+  {
+    "sentence": "Drag coefficient according to the particle Reynolds number for a spherical particle [215] (Reprinted/adapted with permission from Ref. [215]. 2002, Elsevier).",
+    "refNo": 215,
+    "title": "",
+    "marker_text": "[215]"
+  },
+  {
+    "sentence": "Drag coefficient according to the particle Reynolds number for a spherical particle [215] (Reprinted/adapted with permission from Ref. [215]. 2002, Elsevier).",
+    "refNo": 215,
+    "title": "",
+    "marker_text": "[215]"
+  },
+  {
+    "sentence": "The spectral intensity for this process is defined in Equation (18) [227].",
+    "refNo": 227,
+    "title": "",
+    "marker_text": "[227]"
+  },
+  {
+    "sentence": "The spectral intensity for this process is defined in Equation (18) [227].",
+    "refNo": 18,
+    "title": "An integrated inertial microfluidic vortex sorter for tunable sorting and purification of cells",
+    "marker_text": "(18)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "\"paragraphs\": [ \"Although the principles of centrifugal analyzer systems were established in the late 1960s, their implementation in microfluidic domains was first carried out by a few commercial organizations in the early 1990s [174].",
+    "refNo": 174,
+    "title": "",
+    "marker_text": "[174]"
+  },
+  {
+    "sentence": "Following the activities of these pioneering commercial companies, research and academic groups have developed numerous microfluidic processes, including volume measurement [175], gating [173,[176][177][178], mixing [179], flow orientation [180], pumping various fluids [173,176], and so on, and mounted them onto centrifuge-based platforms and a CD.",
+    "refNo": 175,
+    "title": "",
+    "marker_text": "[175]"
+  },
+  {
+    "sentence": "Following the activities of these pioneering commercial companies, research and academic groups have developed numerous microfluidic processes, including volume measurement [175], gating [173,[176][177][178], mixing [179], flow orientation [180], pumping various fluids [173,176], and so on, and mounted them onto centrifuge-based platforms and a CD.",
+    "refNo": 176,
+    "title": "",
+    "marker_text": "[176]"
+  },
+  {
+    "sentence": "Following the activities of these pioneering commercial companies, research and academic groups have developed numerous microfluidic processes, including volume measurement [175], gating [173,[176][177][178], mixing [179], flow orientation [180], pumping various fluids [173,176], and so on, and mounted them onto centrifuge-based platforms and a CD.",
+    "refNo": 177,
+    "title": "",
+    "marker_text": "[177]"
+  },
+  {
+    "sentence": "Following the activities of these pioneering commercial companies, research and academic groups have developed numerous microfluidic processes, including volume measurement [175], gating [173,[176][177][178], mixing [179], flow orientation [180], pumping various fluids [173,176], and so on, and mounted them onto centrifuge-based platforms and a CD.",
+    "refNo": 178,
+    "title": "",
+    "marker_text": "[178]"
+  },
+  {
+    "sentence": "Following the activities of these pioneering commercial companies, research and academic groups have developed numerous microfluidic processes, including volume measurement [175], gating [173,[176][177][178], mixing [179], flow orientation [180], pumping various fluids [173,176], and so on, and mounted them onto centrifuge-based platforms and a CD.",
+    "refNo": 179,
+    "title": "",
+    "marker_text": "[179]"
+  },
+  {
+    "sentence": "Following the activities of these pioneering commercial companies, research and academic groups have developed numerous microfluidic processes, including volume measurement [175], gating [173,[176][177][178], mixing [179], flow orientation [180], pumping various fluids [173,176], and so on, and mounted them onto centrifuge-based platforms and a CD.",
+    "refNo": 180,
+    "title": "",
+    "marker_text": "[180]"
+  },
+  {
+    "sentence": "Following the activities of these pioneering commercial companies, research and academic groups have developed numerous microfluidic processes, including volume measurement [175], gating [173,[176][177][178], mixing [179], flow orientation [180], pumping various fluids [173,176], and so on, and mounted them onto centrifuge-based platforms and a CD.",
+    "refNo": 173,
+    "title": "",
+    "marker_text": "[173]"
+  },
+  {
+    "sentence": "Following the activities of these pioneering commercial companies, research and academic groups have developed numerous microfluidic processes, including volume measurement [175], gating [173,[176][177][178], mixing [179], flow orientation [180], pumping various fluids [173,176], and so on, and mounted them onto centrifuge-based platforms and a CD.",
+    "refNo": 176,
+    "title": "",
+    "marker_text": "[176]"
+  },
+  {
+    "sentence": "Madou et al. established a polymer-based CD platform with different functions and capabilities, such as capillary valves and metering, mixing, and flow sequencing [181].",
+    "refNo": 181,
+    "title": "",
+    "marker_text": "[181]"
+  },
+  {
+    "sentence": "Later, Riegger et al. used this phenomenon and presented a novel method to determine blood hematocrit using a visual inspection [182].",
+    "refNo": 182,
+    "title": "",
+    "marker_text": "[182]"
+  },
+  {
+    "sentence": "After that, the first step toward nucleic acid analysis was performed by realizing a purely mechanical cell lysis method using a CD platform [183].",
+    "refNo": 183,
+    "title": "",
+    "marker_text": "[183]"
+  },
+  {
+    "sentence": "Around the same period, a state-of-the-art controllable flow switch handled using rotation frequency through the Coriolis force was developed on a CD platform by Brenner et al. [184] (Figure 6b).",
+    "refNo": 184,
+    "title": "",
+    "marker_text": "[184]"
+  },
+  {
+    "sentence": "Park et al. showed an interesting application of centrifugal microfluidics by presenting a microvalve (the so-called laser-irradiated ferrowax microvalves (LIFM)) that worked based on a phase change and was controlled with laser irradiation [185] (Figure 6c).",
+    "refNo": 185,
+    "title": "",
+    "marker_text": "[185]"
+  },
+  {
+    "sentence": "In another application, Cho et al. extracted DNA from whole patient blood using a fully integrated LOCD platform [186] (Figure 6d).",
+    "refNo": 186,
+    "title": "",
+    "marker_text": "[186]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 207,
+    "title": "",
+    "marker_text": "[207]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 209,
+    "title": "",
+    "marker_text": "[209]"
+  },
+  {
+    "sentence": "Figure 8e shows a fully automated centrifugal microfluidic system consisting of a blood chamber, a DGM chamber, and a collection chamber for the separation of CTCs from blood samples [197].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "They reported a high recovery rate of greater than 95% [2].\", \"Separation based on or for immunoaffinity processes is another passive particle/cell isolation technique in the centrifugal microfluidic platform.",
+    "refNo": 2,
+    "title": "Microfluidic-Based Technologies for CTC Isolation: A Review of 10 Years of Intense Efforts towards Liquid Biopsy",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 207,
+    "title": "",
+    "marker_text": "[207]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 209,
+    "title": "",
+    "marker_text": "[209]"
+  },
+  {
+    "sentence": "Figure 8e shows a fully automated centrifugal microfluidic system consisting of a blood chamber, a DGM chamber, and a collection chamber for the separation of CTCs from blood samples [197].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "They reported a high recovery rate of greater than 95% [2].\", \"Separation based on or for immunoaffinity processes is another passive particle/cell isolation technique in the centrifugal microfluidic platform.",
+    "refNo": 2,
+    "title": "Microfluidic-Based Technologies for CTC Isolation: A Review of 10 Years of Intense Efforts towards Liquid Biopsy",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 207,
+    "title": "",
+    "marker_text": "[207]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 209,
+    "title": "",
+    "marker_text": "[209]"
+  },
+  {
+    "sentence": "Figure 8e shows a fully automated centrifugal microfluidic system consisting of a blood chamber, a DGM chamber, and a collection chamber for the separation of CTCs from blood samples [197].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "They reported a high recovery rate of greater than 95% [2].\", \"Separation based on or for immunoaffinity processes is another passive particle/cell isolation technique in the centrifugal microfluidic platform.",
+    "refNo": 2,
+    "title": "Microfluidic-Based Technologies for CTC Isolation: A Review of 10 Years of Intense Efforts towards Liquid Biopsy",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 207,
+    "title": "",
+    "marker_text": "[207]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 209,
+    "title": "",
+    "marker_text": "[209]"
+  },
+  {
+    "sentence": "Figure 8e shows a fully automated centrifugal microfluidic system consisting of a blood chamber, a DGM chamber, and a collection chamber for the separation of CTCs from blood samples [197].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "They reported a high recovery rate of greater than 95% [2].\", \"Separation based on or for immunoaffinity processes is another passive particle/cell isolation technique in the centrifugal microfluidic platform.",
+    "refNo": 2,
+    "title": "Microfluidic-Based Technologies for CTC Isolation: A Review of 10 Years of Intense Efforts towards Liquid Biopsy",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 207,
+    "title": "",
+    "marker_text": "[207]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 209,
+    "title": "",
+    "marker_text": "[209]"
+  },
+  {
+    "sentence": "Figure 8e shows a fully automated centrifugal microfluidic system consisting of a blood chamber, a DGM chamber, and a collection chamber for the separation of CTCs from blood samples [197].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "They reported a high recovery rate of greater than 95% [2].\", \"Separation based on or for immunoaffinity processes is another passive particle/cell isolation technique in the centrifugal microfluidic platform.",
+    "refNo": 2,
+    "title": "Microfluidic-Based Technologies for CTC Isolation: A Review of 10 Years of Intense Efforts towards Liquid Biopsy",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 207,
+    "title": "",
+    "marker_text": "[207]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 209,
+    "title": "",
+    "marker_text": "[209]"
+  },
+  {
+    "sentence": "Figure 8e shows a fully automated centrifugal microfluidic system consisting of a blood chamber, a DGM chamber, and a collection chamber for the separation of CTCs from blood samples [197].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "They reported a high recovery rate of greater than 95% [2].\", \"Separation based on or for immunoaffinity processes is another passive particle/cell isolation technique in the centrifugal microfluidic platform.",
+    "refNo": 2,
+    "title": "Microfluidic-Based Technologies for CTC Isolation: A Review of 10 Years of Intense Efforts towards Liquid Biopsy",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 207,
+    "title": "",
+    "marker_text": "[207]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 209,
+    "title": "",
+    "marker_text": "[209]"
+  },
+  {
+    "sentence": "Figure 8e shows a fully automated centrifugal microfluidic system consisting of a blood chamber, a DGM chamber, and a collection chamber for the separation of CTCs from blood samples [197].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "They reported a high recovery rate of greater than 95% [2].\", \"Separation based on or for immunoaffinity processes is another passive particle/cell isolation technique in the centrifugal microfluidic platform.",
+    "refNo": 2,
+    "title": "Microfluidic-Based Technologies for CTC Isolation: A Review of 10 Years of Intense Efforts towards Liquid Biopsy",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 207,
+    "title": "",
+    "marker_text": "[207]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 209,
+    "title": "",
+    "marker_text": "[209]"
+  },
+  {
+    "sentence": "Figure 8e shows a fully automated centrifugal microfluidic system consisting of a blood chamber, a DGM chamber, and a collection chamber for the separation of CTCs from blood samples [197].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "They reported a high recovery rate of greater than 95% [2].\", \"Separation based on or for immunoaffinity processes is another passive particle/cell isolation technique in the centrifugal microfluidic platform.",
+    "refNo": 2,
+    "title": "Microfluidic-Based Technologies for CTC Isolation: A Review of 10 Years of Intense Efforts towards Liquid Biopsy",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 207,
+    "title": "",
+    "marker_text": "[207]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 209,
+    "title": "",
+    "marker_text": "[209]"
+  },
+  {
+    "sentence": "Figure 8e shows a fully automated centrifugal microfluidic system consisting of a blood chamber, a DGM chamber, and a collection chamber for the separation of CTCs from blood samples [197].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "They reported a high recovery rate of greater than 95% [2].\", \"Separation based on or for immunoaffinity processes is another passive particle/cell isolation technique in the centrifugal microfluidic platform.",
+    "refNo": 2,
+    "title": "Microfluidic-Based Technologies for CTC Isolation: A Review of 10 Years of Intense Efforts towards Liquid Biopsy",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 207,
+    "title": "",
+    "marker_text": "[207]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 209,
+    "title": "",
+    "marker_text": "[209]"
+  },
+  {
+    "sentence": "Figure 8e shows a fully automated centrifugal microfluidic system consisting of a blood chamber, a DGM chamber, and a collection chamber for the separation of CTCs from blood samples [197].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "They reported a high recovery rate of greater than 95% [2].\", \"Separation based on or for immunoaffinity processes is another passive particle/cell isolation technique in the centrifugal microfluidic platform.",
+    "refNo": 2,
+    "title": "Microfluidic-Based Technologies for CTC Isolation: A Review of 10 Years of Intense Efforts towards Liquid Biopsy",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 207,
+    "title": "",
+    "marker_text": "[207]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 209,
+    "title": "",
+    "marker_text": "[209]"
+  },
+  {
+    "sentence": "Figure 8e shows a fully automated centrifugal microfluidic system consisting of a blood chamber, a DGM chamber, and a collection chamber for the separation of CTCs from blood samples [197].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "They reported a high recovery rate of greater than 95% [2].\", \"Separation based on or for immunoaffinity processes is another passive particle/cell isolation technique in the centrifugal microfluidic platform.",
+    "refNo": 2,
+    "title": "Microfluidic-Based Technologies for CTC Isolation: A Review of 10 Years of Intense Efforts towards Liquid Biopsy",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 207,
+    "title": "",
+    "marker_text": "[207]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 209,
+    "title": "",
+    "marker_text": "[209]"
+  },
+  {
+    "sentence": "Figure 8e shows a fully automated centrifugal microfluidic system consisting of a blood chamber, a DGM chamber, and a collection chamber for the separation of CTCs from blood samples [197].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "They reported a high recovery rate of greater than 95% [2].\", \"Separation based on or for immunoaffinity processes is another passive particle/cell isolation technique in the centrifugal microfluidic platform.",
+    "refNo": 2,
+    "title": "Microfluidic-Based Technologies for CTC Isolation: A Review of 10 Years of Intense Efforts towards Liquid Biopsy",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 207,
+    "title": "",
+    "marker_text": "[207]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 209,
+    "title": "",
+    "marker_text": "[209]"
+  },
+  {
+    "sentence": "Figure 8e shows a fully automated centrifugal microfluidic system consisting of a blood chamber, a DGM chamber, and a collection chamber for the separation of CTCs from blood samples [197].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "They reported a high recovery rate of greater than 95% [2].\", \"Separation based on or for immunoaffinity processes is another passive particle/cell isolation technique in the centrifugal microfluidic platform.",
+    "refNo": 2,
+    "title": "Microfluidic-Based Technologies for CTC Isolation: A Review of 10 Years of Intense Efforts towards Liquid Biopsy",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 207,
+    "title": "",
+    "marker_text": "[207]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 209,
+    "title": "",
+    "marker_text": "[209]"
+  },
+  {
+    "sentence": "Figure 8e shows a fully automated centrifugal microfluidic system consisting of a blood chamber, a DGM chamber, and a collection chamber for the separation of CTCs from blood samples [197].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "They reported a high recovery rate of greater than 95% [2].\", \"Separation based on or for immunoaffinity processes is another passive particle/cell isolation technique in the centrifugal microfluidic platform.",
+    "refNo": 2,
+    "title": "Microfluidic-Based Technologies for CTC Isolation: A Review of 10 Years of Intense Efforts towards Liquid Biopsy",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 207,
+    "title": "",
+    "marker_text": "[207]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 209,
+    "title": "",
+    "marker_text": "[209]"
+  },
+  {
+    "sentence": "Figure 8e shows a fully automated centrifugal microfluidic system consisting of a blood chamber, a DGM chamber, and a collection chamber for the separation of CTCs from blood samples [197].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "They reported a high recovery rate of greater than 95% [2].\", \"Separation based on or for immunoaffinity processes is another passive particle/cell isolation technique in the centrifugal microfluidic platform.",
+    "refNo": 2,
+    "title": "Microfluidic-Based Technologies for CTC Isolation: A Review of 10 Years of Intense Efforts towards Liquid Biopsy",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 207,
+    "title": "",
+    "marker_text": "[207]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 209,
+    "title": "",
+    "marker_text": "[209]"
+  },
+  {
+    "sentence": "Figure 8e shows a fully automated centrifugal microfluidic system consisting of a blood chamber, a DGM chamber, and a collection chamber for the separation of CTCs from blood samples [197].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "They reported a high recovery rate of greater than 95% [2].\", \"Separation based on or for immunoaffinity processes is another passive particle/cell isolation technique in the centrifugal microfluidic platform.",
+    "refNo": 2,
+    "title": "Microfluidic-Based Technologies for CTC Isolation: A Review of 10 Years of Intense Efforts towards Liquid Biopsy",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 207,
+    "title": "",
+    "marker_text": "[207]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 209,
+    "title": "",
+    "marker_text": "[209]"
+  },
+  {
+    "sentence": "Figure 8e shows a fully automated centrifugal microfluidic system consisting of a blood chamber, a DGM chamber, and a collection chamber for the separation of CTCs from blood samples [197].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "They reported a high recovery rate of greater than 95% [2].\", \"Separation based on or for immunoaffinity processes is another passive particle/cell isolation technique in the centrifugal microfluidic platform.",
+    "refNo": 2,
+    "title": "Microfluidic-Based Technologies for CTC Isolation: A Review of 10 Years of Intense Efforts towards Liquid Biopsy",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 207,
+    "title": "",
+    "marker_text": "[207]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 209,
+    "title": "",
+    "marker_text": "[209]"
+  },
+  {
+    "sentence": "Figure 8e shows a fully automated centrifugal microfluidic system consisting of a blood chamber, a DGM chamber, and a collection chamber for the separation of CTCs from blood samples [197].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "They reported a high recovery rate of greater than 95% [2].\", \"Separation based on or for immunoaffinity processes is another passive particle/cell isolation technique in the centrifugal microfluidic platform.",
+    "refNo": 2,
+    "title": "Microfluidic-Based Technologies for CTC Isolation: A Review of 10 Years of Intense Efforts towards Liquid Biopsy",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 207,
+    "title": "",
+    "marker_text": "[207]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 209,
+    "title": "",
+    "marker_text": "[209]"
+  },
+  {
+    "sentence": "Figure 8e shows a fully automated centrifugal microfluidic system consisting of a blood chamber, a DGM chamber, and a collection chamber for the separation of CTCs from blood samples [197].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "They reported a high recovery rate of greater than 95% [2].\", \"Separation based on or for immunoaffinity processes is another passive particle/cell isolation technique in the centrifugal microfluidic platform.",
+    "refNo": 2,
+    "title": "Microfluidic-Based Technologies for CTC Isolation: A Review of 10 Years of Intense Efforts towards Liquid Biopsy",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 207,
+    "title": "",
+    "marker_text": "[207]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 209,
+    "title": "",
+    "marker_text": "[209]"
+  },
+  {
+    "sentence": "Figure 8e shows a fully automated centrifugal microfluidic system consisting of a blood chamber, a DGM chamber, and a collection chamber for the separation of CTCs from blood samples [197].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "They reported a high recovery rate of greater than 95% [2].\", \"Separation based on or for immunoaffinity processes is another passive particle/cell isolation technique in the centrifugal microfluidic platform.",
+    "refNo": 2,
+    "title": "Microfluidic-Based Technologies for CTC Isolation: A Review of 10 Years of Intense Efforts towards Liquid Biopsy",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 207,
+    "title": "",
+    "marker_text": "[207]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 209,
+    "title": "",
+    "marker_text": "[209]"
+  },
+  {
+    "sentence": "Figure 8e shows a fully automated centrifugal microfluidic system consisting of a blood chamber, a DGM chamber, and a collection chamber for the separation of CTCs from blood samples [197].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "They reported a high recovery rate of greater than 95% [2].\", \"Separation based on or for immunoaffinity processes is another passive particle/cell isolation technique in the centrifugal microfluidic platform.",
+    "refNo": 2,
+    "title": "Microfluidic-Based Technologies for CTC Isolation: A Review of 10 Years of Intense Efforts towards Liquid Biopsy",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 207,
+    "title": "",
+    "marker_text": "[207]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 209,
+    "title": "",
+    "marker_text": "[209]"
+  },
+  {
+    "sentence": "Figure 8e shows a fully automated centrifugal microfluidic system consisting of a blood chamber, a DGM chamber, and a collection chamber for the separation of CTCs from blood samples [197].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "They reported a high recovery rate of greater than 95% [2].\", \"Separation based on or for immunoaffinity processes is another passive particle/cell isolation technique in the centrifugal microfluidic platform.",
+    "refNo": 2,
+    "title": "Microfluidic-Based Technologies for CTC Isolation: A Review of 10 Years of Intense Efforts towards Liquid Biopsy",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 207,
+    "title": "",
+    "marker_text": "[207]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 209,
+    "title": "",
+    "marker_text": "[209]"
+  },
+  {
+    "sentence": "Figure 8e shows a fully automated centrifugal microfluidic system consisting of a blood chamber, a DGM chamber, and a collection chamber for the separation of CTCs from blood samples [197].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "They reported a high recovery rate of greater than 95% [2].\", \"Separation based on or for immunoaffinity processes is another passive particle/cell isolation technique in the centrifugal microfluidic platform.",
+    "refNo": 2,
+    "title": "Microfluidic-Based Technologies for CTC Isolation: A Review of 10 Years of Intense Efforts towards Liquid Biopsy",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 207,
+    "title": "",
+    "marker_text": "[207]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 209,
+    "title": "",
+    "marker_text": "[209]"
+  },
+  {
+    "sentence": "Figure 8e shows a fully automated centrifugal microfluidic system consisting of a blood chamber, a DGM chamber, and a collection chamber for the separation of CTCs from blood samples [197].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "They reported a high recovery rate of greater than 95% [2].\", \"Separation based on or for immunoaffinity processes is another passive particle/cell isolation technique in the centrifugal microfluidic platform.",
+    "refNo": 2,
+    "title": "Microfluidic-Based Technologies for CTC Isolation: A Review of 10 Years of Intense Efforts towards Liquid Biopsy",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 207,
+    "title": "",
+    "marker_text": "[207]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 209,
+    "title": "",
+    "marker_text": "[209]"
+  },
+  {
+    "sentence": "Figure 8e shows a fully automated centrifugal microfluidic system consisting of a blood chamber, a DGM chamber, and a collection chamber for the separation of CTCs from blood samples [197].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "They reported a high recovery rate of greater than 95% [2].\", \"Separation based on or for immunoaffinity processes is another passive particle/cell isolation technique in the centrifugal microfluidic platform.",
+    "refNo": 2,
+    "title": "Microfluidic-Based Technologies for CTC Isolation: A Review of 10 Years of Intense Efforts towards Liquid Biopsy",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 207,
+    "title": "",
+    "marker_text": "[207]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 209,
+    "title": "",
+    "marker_text": "[209]"
+  },
+  {
+    "sentence": "Figure 8e shows a fully automated centrifugal microfluidic system consisting of a blood chamber, a DGM chamber, and a collection chamber for the separation of CTCs from blood samples [197].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "They reported a high recovery rate of greater than 95% [2].\", \"Separation based on or for immunoaffinity processes is another passive particle/cell isolation technique in the centrifugal microfluidic platform.",
+    "refNo": 2,
+    "title": "Microfluidic-Based Technologies for CTC Isolation: A Review of 10 Years of Intense Efforts towards Liquid Biopsy",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 207,
+    "title": "",
+    "marker_text": "[207]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 209,
+    "title": "",
+    "marker_text": "[209]"
+  },
+  {
+    "sentence": "Figure 8e shows a fully automated centrifugal microfluidic system consisting of a blood chamber, a DGM chamber, and a collection chamber for the separation of CTCs from blood samples [197].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "They reported a high recovery rate of greater than 95% [2].\", \"Separation based on or for immunoaffinity processes is another passive particle/cell isolation technique in the centrifugal microfluidic platform.",
+    "refNo": 2,
+    "title": "Microfluidic-Based Technologies for CTC Isolation: A Review of 10 Years of Intense Efforts towards Liquid Biopsy",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 207,
+    "title": "",
+    "marker_text": "[207]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 209,
+    "title": "",
+    "marker_text": "[209]"
+  },
+  {
+    "sentence": "Figure 8e shows a fully automated centrifugal microfluidic system consisting of a blood chamber, a DGM chamber, and a collection chamber for the separation of CTCs from blood samples [197].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "They reported a high recovery rate of greater than 95% [2].\", \"Separation based on or for immunoaffinity processes is another passive particle/cell isolation technique in the centrifugal microfluidic platform.",
+    "refNo": 2,
+    "title": "Microfluidic-Based Technologies for CTC Isolation: A Review of 10 Years of Intense Efforts towards Liquid Biopsy",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 207,
+    "title": "",
+    "marker_text": "[207]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 209,
+    "title": "",
+    "marker_text": "[209]"
+  },
+  {
+    "sentence": "Figure 8e shows a fully automated centrifugal microfluidic system consisting of a blood chamber, a DGM chamber, and a collection chamber for the separation of CTCs from blood samples [197].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "They reported a high recovery rate of greater than 95% [2].\", \"Separation based on or for immunoaffinity processes is another passive particle/cell isolation technique in the centrifugal microfluidic platform.",
+    "refNo": 2,
+    "title": "Microfluidic-Based Technologies for CTC Isolation: A Review of 10 Years of Intense Efforts towards Liquid Biopsy",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 207,
+    "title": "",
+    "marker_text": "[207]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 209,
+    "title": "",
+    "marker_text": "[209]"
+  },
+  {
+    "sentence": "Figure 8e shows a fully automated centrifugal microfluidic system consisting of a blood chamber, a DGM chamber, and a collection chamber for the separation of CTCs from blood samples [197].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "They reported a high recovery rate of greater than 95% [2].\", \"Separation based on or for immunoaffinity processes is another passive particle/cell isolation technique in the centrifugal microfluidic platform.",
+    "refNo": 2,
+    "title": "Microfluidic-Based Technologies for CTC Isolation: A Review of 10 Years of Intense Efforts towards Liquid Biopsy",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 207,
+    "title": "",
+    "marker_text": "[207]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 209,
+    "title": "",
+    "marker_text": "[209]"
+  },
+  {
+    "sentence": "Figure 8e shows a fully automated centrifugal microfluidic system consisting of a blood chamber, a DGM chamber, and a collection chamber for the separation of CTCs from blood samples [197].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "They reported a high recovery rate of greater than 95% [2].\", \"Separation based on or for immunoaffinity processes is another passive particle/cell isolation technique in the centrifugal microfluidic platform.",
+    "refNo": 2,
+    "title": "Microfluidic-Based Technologies for CTC Isolation: A Review of 10 Years of Intense Efforts towards Liquid Biopsy",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 207,
+    "title": "",
+    "marker_text": "[207]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 209,
+    "title": "",
+    "marker_text": "[209]"
+  },
+  {
+    "sentence": "Figure 8e shows a fully automated centrifugal microfluidic system consisting of a blood chamber, a DGM chamber, and a collection chamber for the separation of CTCs from blood samples [197].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "They reported a high recovery rate of greater than 95% [2].\", \"Separation based on or for immunoaffinity processes is another passive particle/cell isolation technique in the centrifugal microfluidic platform.",
+    "refNo": 2,
+    "title": "Microfluidic-Based Technologies for CTC Isolation: A Review of 10 Years of Intense Efforts towards Liquid Biopsy",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 207,
+    "title": "",
+    "marker_text": "[207]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 209,
+    "title": "",
+    "marker_text": "[209]"
+  },
+  {
+    "sentence": "Figure 8e shows a fully automated centrifugal microfluidic system consisting of a blood chamber, a DGM chamber, and a collection chamber for the separation of CTCs from blood samples [197].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "They reported a high recovery rate of greater than 95% [2].\", \"Separation based on or for immunoaffinity processes is another passive particle/cell isolation technique in the centrifugal microfluidic platform.",
+    "refNo": 2,
+    "title": "Microfluidic-Based Technologies for CTC Isolation: A Review of 10 Years of Intense Efforts towards Liquid Biopsy",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 207,
+    "title": "",
+    "marker_text": "[207]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 209,
+    "title": "",
+    "marker_text": "[209]"
+  },
+  {
+    "sentence": "Figure 8e shows a fully automated centrifugal microfluidic system consisting of a blood chamber, a DGM chamber, and a collection chamber for the separation of CTCs from blood samples [197].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "They reported a high recovery rate of greater than 95% [2].\", \"Separation based on or for immunoaffinity processes is another passive particle/cell isolation technique in the centrifugal microfluidic platform.",
+    "refNo": 2,
+    "title": "Microfluidic-Based Technologies for CTC Isolation: A Review of 10 Years of Intense Efforts towards Liquid Biopsy",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 207,
+    "title": "",
+    "marker_text": "[207]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 209,
+    "title": "",
+    "marker_text": "[209]"
+  },
+  {
+    "sentence": "Figure 8e shows a fully automated centrifugal microfluidic system consisting of a blood chamber, a DGM chamber, and a collection chamber for the separation of CTCs from blood samples [197].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "They reported a high recovery rate of greater than 95% [2].\", \"Separation based on or for immunoaffinity processes is another passive particle/cell isolation technique in the centrifugal microfluidic platform.",
+    "refNo": 2,
+    "title": "Microfluidic-Based Technologies for CTC Isolation: A Review of 10 Years of Intense Efforts towards Liquid Biopsy",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 207,
+    "title": "",
+    "marker_text": "[207]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 209,
+    "title": "",
+    "marker_text": "[209]"
+  },
+  {
+    "sentence": "Figure 8e shows a fully automated centrifugal microfluidic system consisting of a blood chamber, a DGM chamber, and a collection chamber for the separation of CTCs from blood samples [197].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "They reported a high recovery rate of greater than 95% [2].\", \"Separation based on or for immunoaffinity processes is another passive particle/cell isolation technique in the centrifugal microfluidic platform.",
+    "refNo": 2,
+    "title": "Microfluidic-Based Technologies for CTC Isolation: A Review of 10 Years of Intense Efforts towards Liquid Biopsy",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 207,
+    "title": "",
+    "marker_text": "[207]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 209,
+    "title": "",
+    "marker_text": "[209]"
+  },
+  {
+    "sentence": "Figure 8e shows a fully automated centrifugal microfluidic system consisting of a blood chamber, a DGM chamber, and a collection chamber for the separation of CTCs from blood samples [197].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "They reported a high recovery rate of greater than 95% [2].\", \"Separation based on or for immunoaffinity processes is another passive particle/cell isolation technique in the centrifugal microfluidic platform.",
+    "refNo": 2,
+    "title": "Microfluidic-Based Technologies for CTC Isolation: A Review of 10 Years of Intense Efforts towards Liquid Biopsy",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 207,
+    "title": "",
+    "marker_text": "[207]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 209,
+    "title": "",
+    "marker_text": "[209]"
+  },
+  {
+    "sentence": "Figure 8e shows a fully automated centrifugal microfluidic system consisting of a blood chamber, a DGM chamber, and a collection chamber for the separation of CTCs from blood samples [197].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "They reported a high recovery rate of greater than 95% [2].\", \"Separation based on or for immunoaffinity processes is another passive particle/cell isolation technique in the centrifugal microfluidic platform.",
+    "refNo": 2,
+    "title": "Microfluidic-Based Technologies for CTC Isolation: A Review of 10 Years of Intense Efforts towards Liquid Biopsy",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 207,
+    "title": "",
+    "marker_text": "[207]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 209,
+    "title": "",
+    "marker_text": "[209]"
+  },
+  {
+    "sentence": "Figure 8e shows a fully automated centrifugal microfluidic system consisting of a blood chamber, a DGM chamber, and a collection chamber for the separation of CTCs from blood samples [197].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "They reported a high recovery rate of greater than 95% [2].\", \"Separation based on or for immunoaffinity processes is another passive particle/cell isolation technique in the centrifugal microfluidic platform.",
+    "refNo": 2,
+    "title": "Microfluidic-Based Technologies for CTC Isolation: A Review of 10 Years of Intense Efforts towards Liquid Biopsy",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 207,
+    "title": "",
+    "marker_text": "[207]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 209,
+    "title": "",
+    "marker_text": "[209]"
+  },
+  {
+    "sentence": "Figure 8e shows a fully automated centrifugal microfluidic system consisting of a blood chamber, a DGM chamber, and a collection chamber for the separation of CTCs from blood samples [197].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "They reported a high recovery rate of greater than 95% [2].\", \"Separation based on or for immunoaffinity processes is another passive particle/cell isolation technique in the centrifugal microfluidic platform.",
+    "refNo": 2,
+    "title": "Microfluidic-Based Technologies for CTC Isolation: A Review of 10 Years of Intense Efforts towards Liquid Biopsy",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 207,
+    "title": "",
+    "marker_text": "[207]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 209,
+    "title": "",
+    "marker_text": "[209]"
+  },
+  {
+    "sentence": "Figure 8e shows a fully automated centrifugal microfluidic system consisting of a blood chamber, a DGM chamber, and a collection chamber for the separation of CTCs from blood samples [197].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "They reported a high recovery rate of greater than 95% [2].\", \"Separation based on or for immunoaffinity processes is another passive particle/cell isolation technique in the centrifugal microfluidic platform.",
+    "refNo": 2,
+    "title": "Microfluidic-Based Technologies for CTC Isolation: A Review of 10 Years of Intense Efforts towards Liquid Biopsy",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 207,
+    "title": "",
+    "marker_text": "[207]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 209,
+    "title": "",
+    "marker_text": "[209]"
+  },
+  {
+    "sentence": "Figure 8e shows a fully automated centrifugal microfluidic system consisting of a blood chamber, a DGM chamber, and a collection chamber for the separation of CTCs from blood samples [197].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "They reported a high recovery rate of greater than 95% [2].\", \"Separation based on or for immunoaffinity processes is another passive particle/cell isolation technique in the centrifugal microfluidic platform.",
+    "refNo": 2,
+    "title": "Microfluidic-Based Technologies for CTC Isolation: A Review of 10 Years of Intense Efforts towards Liquid Biopsy",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 207,
+    "title": "",
+    "marker_text": "[207]"
+  },
+  {
+    "sentence": "Immunoaffinity is mostly integrated with other sorting mechanisms, including the density gradient medium (DGM) [197], capture-array [207], and waved microchannel for inertial sorting [209].",
+    "refNo": 209,
+    "title": "",
+    "marker_text": "[209]"
+  },
+  {
+    "sentence": "Figure 8e shows a fully automated centrifugal microfluidic system consisting of a blood chamber, a DGM chamber, and a collection chamber for the separation of CTCs from blood samples [197].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "LOCD could easily be used for numerous applications in the chemistry and biotechnology fields [185,186].",
+    "refNo": 185,
+    "title": "",
+    "marker_text": "[185]"
+  },
+  {
+    "sentence": "LOCD could easily be used for numerous applications in the chemistry and biotechnology fields [185,186].",
+    "refNo": 186,
+    "title": "",
+    "marker_text": "[186]"
+  },
+  {
+    "sentence": "As a density-based approach, LOCD is used for sample transportation and separation [187], such as plasma separation from blood cells [188] and the extraction of leukocytes from blood samples [189], and, additionally, to separate immune cells [76] and isolate CTCs from whole blood [78].",
+    "refNo": 187,
+    "title": "",
+    "marker_text": "[187]"
+  },
+  {
+    "sentence": "As a density-based approach, LOCD is used for sample transportation and separation [187], such as plasma separation from blood cells [188] and the extraction of leukocytes from blood samples [189], and, additionally, to separate immune cells [76] and isolate CTCs from whole blood [78].",
+    "refNo": 188,
+    "title": "",
+    "marker_text": "[188]"
+  },
+  {
+    "sentence": "As a density-based approach, LOCD is used for sample transportation and separation [187], such as plasma separation from blood cells [188] and the extraction of leukocytes from blood samples [189], and, additionally, to separate immune cells [76] and isolate CTCs from whole blood [78].",
+    "refNo": 189,
+    "title": "",
+    "marker_text": "[189]"
+  },
+  {
+    "sentence": "As a density-based approach, LOCD is used for sample transportation and separation [187], such as plasma separation from blood cells [188] and the extraction of leukocytes from blood samples [189], and, additionally, to separate immune cells [76] and isolate CTCs from whole blood [78].",
+    "refNo": 76,
+    "title": "",
+    "marker_text": "[76]"
+  },
+  {
+    "sentence": "As a density-based approach, LOCD is used for sample transportation and separation [187], such as plasma separation from blood cells [188] and the extraction of leukocytes from blood samples [189], and, additionally, to separate immune cells [76] and isolate CTCs from whole blood [78].",
+    "refNo": 78,
+    "title": "",
+    "marker_text": "[78]"
+  },
+  {
+    "sentence": "The outstanding point about LOCD is that different functions, such as mixing, valving, and cell separation, can be incorporated into one microfluidic platform, which, in turn, makes the LOCD a promising technology for diagnostics and point-of-care applications. [184] (Reprinted/adapted with permission from Ref. [184]. 2005, Royal Society of Chemistry); (c).",
+    "refNo": 184,
+    "title": "",
+    "marker_text": "[184]"
+  },
+  {
+    "sentence": "The outstanding point about LOCD is that different functions, such as mixing, valving, and cell separation, can be incorporated into one microfluidic platform, which, in turn, makes the LOCD a promising technology for diagnostics and point-of-care applications. [184] (Reprinted/adapted with permission from Ref. [184]. 2005, Royal Society of Chemistry); (c).",
+    "refNo": 184,
+    "title": "",
+    "marker_text": "[184]"
+  },
+  {
+    "sentence": "A novel microvalve actuated using laser irradiation [185] (Reprinted/adapted with permission from Ref. [185]. 2007, Royal Society of Chemistry); (d).",
+    "refNo": 185,
+    "title": "",
+    "marker_text": "[185]"
+  },
+  {
+    "sentence": "A novel microvalve actuated using laser irradiation [185] (Reprinted/adapted with permission from Ref. [185]. 2007, Royal Society of Chemistry); (d).",
+    "refNo": 185,
+    "title": "",
+    "marker_text": "[185]"
+  },
+  {
+    "sentence": "Schematic diagram showing the inside of the portable LOCD for DNA extraction from whole blood along with a detailed microfluidic layout and functions [186] (Reprinted/adapted with permission from Ref. [186]. 2007, Royal Society of Chemistry); (e).",
+    "refNo": 186,
+    "title": "",
+    "marker_text": "[186]"
+  },
+  {
+    "sentence": "Schematic diagram showing the inside of the portable LOCD for DNA extraction from whole blood along with a detailed microfluidic layout and functions [186] (Reprinted/adapted with permission from Ref. [186]. 2007, Royal Society of Chemistry); (e).",
+    "refNo": 186,
+    "title": "",
+    "marker_text": "[186]"
+  },
+  {
+    "sentence": "Centrifugal extraction of plasma from sediment with a decanting structure and metering the plasma in consecutive processes using a rotating disk [190] (Reprinted/adapted with permission from Ref. [190]. 2006, Royal Society of Chemistry).",
+    "refNo": 190,
+    "title": "",
+    "marker_text": "[190]"
+  },
+  {
+    "sentence": "Centrifugal extraction of plasma from sediment with a decanting structure and metering the plasma in consecutive processes using a rotating disk [190] (Reprinted/adapted with permission from Ref. [190]. 2006, Royal Society of Chemistry).",
+    "refNo": 190,
+    "title": "",
+    "marker_text": "[190]"
+  },
+  {
+    "sentence": "Unlike the passive separation techniques that work based on microfluidic geometry and physical properties of the particles, active separation techniques (i.e., dielectrophoresis, acoustophoresis, and magnetophoresis) use external forces to help the separation process [173,198].",
+    "refNo": 173,
+    "title": "",
+    "marker_text": "[173]"
+  },
+  {
+    "sentence": "Unlike the passive separation techniques that work based on microfluidic geometry and physical properties of the particles, active separation techniques (i.e., dielectrophoresis, acoustophoresis, and magnetophoresis) use external forces to help the separation process [173,198].",
+    "refNo": 198,
+    "title": "",
+    "marker_text": "[198]"
+  },
+  {
+    "sentence": "Martinez-Duarte et al. implemented the dielectrophoresis approach on the centrifugal microfluidic platform to actively filter and capture the target cells [211] (Figure 9a).",
+    "refNo": 211,
+    "title": "",
+    "marker_text": "[211]"
+  },
+  {
+    "sentence": "Later, Kirby et al. and Siegrist et al. imposed a magnetic field on a centrifugal platform for cell manipulation using the stopped-flow sedimentation method [212,213] (Figure 9b).",
+    "refNo": 212,
+    "title": "",
+    "marker_text": "[212]"
+  },
+  {
+    "sentence": "Later, Kirby et al. and Siegrist et al. imposed a magnetic field on a centrifugal platform for cell manipulation using the stopped-flow sedimentation method [212,213] (Figure 9b).",
+    "refNo": 213,
+    "title": "",
+    "marker_text": "[213]"
+  },
+  {
+    "sentence": "Kirby et al. achieved a recovery rate of 90-96% using their centrifugo-magnetophoresis device [213].",
+    "refNo": 213,
+    "title": "",
+    "marker_text": "[213]"
+  },
+  {
+    "sentence": "This force is expressed in Equation (14): Figure 12.",
+    "refNo": 14,
+    "title": "Label-free inertialferrohydrodynamic cell separation with high throughput and resolution",
+    "marker_text": "(14)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "The position of a particle under the effect of the net lift force: (a) The balance between the recognized lift forces creates the inertial equilibrium position for the particle in the Poiseuille flow [96] (Reprinted/adapted with permission from Ref. [96]. 2016, Royal Society of Chemistry); (b) The net lift coefficient (C L ) as a function of the Reynolds number and the particle lateral position [226].",
+    "refNo": 96,
+    "title": "",
+    "marker_text": "[96]"
+  },
+  {
+    "sentence": "The position of a particle under the effect of the net lift force: (a) The balance between the recognized lift forces creates the inertial equilibrium position for the particle in the Poiseuille flow [96] (Reprinted/adapted with permission from Ref. [96]. 2016, Royal Society of Chemistry); (b) The net lift coefficient (C L ) as a function of the Reynolds number and the particle lateral position [226].",
+    "refNo": 96,
+    "title": "",
+    "marker_text": "[96]"
+  },
+  {
+    "sentence": "The position of a particle under the effect of the net lift force: (a) The balance between the recognized lift forces creates the inertial equilibrium position for the particle in the Poiseuille flow [96] (Reprinted/adapted with permission from Ref. [96]. 2016, Royal Society of Chemistry); (b) The net lift coefficient (C L ) as a function of the Reynolds number and the particle lateral position [226].",
+    "refNo": 226,
+    "title": "",
+    "marker_text": "[226]"
+  },
+  {
+    "sentence": "This force is expressed in Equation (14): As the particle acceleration affects its surrounding fluid and causes the added mass force, the viscous effects of the surrounding fluid also affect the accelerating particle under the Basset force.",
+    "refNo": 14,
+    "title": "Label-free inertialferrohydrodynamic cell separation with high throughput and resolution",
+    "marker_text": "(14)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "For a spherical particle immersed in a fluid, the Basset force can be calculated using Equation (24) [230].",
+    "refNo": 230,
+    "title": "",
+    "marker_text": "[230]"
+  },
+  {
+    "sentence": "For a spherical particle immersed in a fluid, the Basset force can be calculated using Equation (24) [230].",
+    "refNo": 24,
+    "title": "Centrifugal microfluidic platforms: Advanced unit operations and applications",
+    "marker_text": "(24)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "When an inertial microfluidic system is implemented on a rotating platform, the fluid flow inside its microchannel can be handled with the aforementioned forces [191].",
+    "refNo": 191,
+    "title": "",
+    "marker_text": "[191]"
+  },
+  {
+    "sentence": "Indeed, the centrifugal platform has many beneficial advantages, especially for biological sample handling and cell manipulation [192].",
+    "refNo": 192,
+    "title": "",
+    "marker_text": "[192]"
+  },
+  {
+    "sentence": "The most undesirable limitation, originating from the low volume and small sample quantity, is that this method is unsuitable for isolating scarce cells [91].",
+    "refNo": 91,
+    "title": "",
+    "marker_text": "[91]"
+  },
+  {
+    "sentence": "Integrated DEP on the centrifugal platform for selective particle/cell separation [211] (Reprinted/adapted with permission from Ref. [211]. 2010, Royal Society of Chemistry); (b).",
+    "refNo": 211,
+    "title": "",
+    "marker_text": "[211]"
+  },
+  {
+    "sentence": "Integrated DEP on the centrifugal platform for selective particle/cell separation [211] (Reprinted/adapted with permission from Ref. [211]. 2010, Royal Society of Chemistry); (b).",
+    "refNo": 211,
+    "title": "",
+    "marker_text": "[211]"
+  },
+  {
+    "sentence": "Particle/cell sorting consists of different chambers under the effect of centrifugal and magnetic forces [A shows a single centrifugomagnetophoretic separation system with loading and separation chambers and a focusing channel on a rotating disc, B shows the trajectories and destinations of three different particles under the effect of separation forces (i.e., centrifugal, Coriolis and magnetic forces), and C shows the separated beads in different routes] [212] (Reprinted/adapted with permission from Ref. [212]. 2012, Springer Nature); (c).",
+    "refNo": 212,
+    "title": "",
+    "marker_text": "[212]"
+  },
+  {
+    "sentence": "Particle/cell sorting consists of different chambers under the effect of centrifugal and magnetic forces [A shows a single centrifugomagnetophoretic separation system with loading and separation chambers and a focusing channel on a rotating disc, B shows the trajectories and destinations of three different particles under the effect of separation forces (i.e., centrifugal, Coriolis and magnetic forces), and C shows the separated beads in different routes] [212] (Reprinted/adapted with permission from Ref. [212]. 2012, Springer Nature); (c).",
+    "refNo": 212,
+    "title": "",
+    "marker_text": "[212]"
+  },
+  {
+    "sentence": "Schematic showing the polymeric LOCD with microfluidic channels (colored in green) and magnets (specified with silver cylinders) [a displays an overview of a polymeric LOCD with microfluidic channels and magnets, b shows two clusters of cancer cells capped with paramagnetic beads, and c shows the trajectories and destinations of blood cells, magnetically tagged cancer cells and excess magnetic beads under the effect of separation forces (i.e., centrifugal and magnetic forces) on a CCW rotating disk] [213] (Reprinted/adapted with permission from Ref. [213]. 2014, John Wiley and Sons).",
+    "refNo": 213,
+    "title": "",
+    "marker_text": "[213]"
+  },
+  {
+    "sentence": "Schematic showing the polymeric LOCD with microfluidic channels (colored in green) and magnets (specified with silver cylinders) [a displays an overview of a polymeric LOCD with microfluidic channels and magnets, b shows two clusters of cancer cells capped with paramagnetic beads, and c shows the trajectories and destinations of blood cells, magnetically tagged cancer cells and excess magnetic beads under the effect of separation forces (i.e., centrifugal and magnetic forces) on a CCW rotating disk] [213] (Reprinted/adapted with permission from Ref. [213]. 2014, John Wiley and Sons).",
+    "refNo": 213,
+    "title": "",
+    "marker_text": "[213]"
+  },
+  {
+    "sentence": "The most undesirable limitation, originating from the low volume and small sample quantity, is that this method is unsuitable for isolating scarce cells [91].",
+    "refNo": 91,
+    "title": "",
+    "marker_text": "[91]"
+  },
+  {
+    "sentence": "The gravity force for a spherical particle is expressed in Equation (15):.",
+    "refNo": 15,
+    "title": "Circulating Tumor Cell Separation in a Zigzag Channel Using Dielectrophoresis Based Inertial Microfluidics",
+    "marker_text": "(15)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "The plasma separation step is usually accomplished in a sedimentation chamber or another radially arranged microstructure on the centrifugal microfluidic platform [2,4].",
+    "refNo": 2,
+    "title": "Microfluidic-Based Technologies for CTC Isolation: A Review of 10 Years of Intense Efforts towards Liquid Biopsy",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "The plasma separation step is usually accomplished in a sedimentation chamber or another radially arranged microstructure on the centrifugal microfluidic platform [2,4].",
+    "refNo": 4,
+    "title": "Biophysical isolation and identification of circulating tumor cells",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "The influence of the sedimentation chamber geometry on the plasma separation purity and processing time was studied in [2,5].",
+    "refNo": 2,
+    "title": "Microfluidic-Based Technologies for CTC Isolation: A Review of 10 Years of Intense Efforts towards Liquid Biopsy",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "The influence of the sedimentation chamber geometry on the plasma separation purity and processing time was studied in [2,5].",
+    "refNo": 5,
+    "title": "Liquid biopsy in bladder cancer: State of the art and future perspectives",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "This was similar to Boycott's discovery in 1920 when he explained that particle sedimentation would occur faster in slanted chambers due to the larger accessible surface area (the side wall and base of the chamber) for settling particles [2].",
+    "refNo": 2,
+    "title": "Microfluidic-Based Technologies for CTC Isolation: A Review of 10 Years of Intense Efforts towards Liquid Biopsy",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "This is similar in narrower chambers where the side walls are closer together [2].",
+    "refNo": 2,
+    "title": "Microfluidic-Based Technologies for CTC Isolation: A Review of 10 Years of Intense Efforts towards Liquid Biopsy",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "The difference between straight and tilted sedimentation channels is shown in Figure 7a [5].",
+    "refNo": 5,
+    "title": "Liquid biopsy in bladder cancer: State of the art and future perspectives",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Figure 7b presents a curved design of the sedimentation chambers in a LOCD with a logarithmic spiral or mirabilis design [5].",
+    "refNo": 5,
+    "title": "Liquid biopsy in bladder cancer: State of the art and future perspectives",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Later, another study discussed how cells might diffuse into the already separated plasma after centrifugal based-separation, especially at the end of the centrifuge process when the rotation is stopped [4].",
+    "refNo": 4,
+    "title": "Biophysical isolation and identification of circulating tumor cells",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Moreover, a particle size-independent passive method using reserved pneumatic energy was proposed for particles/liquid sedimentation, resuspension, extraction, and transport on a centrifugal microfluidic platform without using any external force or special coating of the microfluidic structure and just by controlling the platform rotational speed [1].",
+    "refNo": 1,
+    "title": "Liquid biopsy: A step closer to transform diagnosis, prognosis and future of cancer treatments",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "From the Lagrangian point of view, Newton's second law for particles is written in Equation (1): The buoyant force is the name of the upward force exerted on objects, whether it floats or sinks.",
+    "refNo": 1,
+    "title": "Liquid biopsy: A step closer to transform diagnosis, prognosis and future of cancer treatments",
+    "marker_text": "(1)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "The buoyant force for a sphere submerged in a fluid is expressed in Equation (16):.",
+    "refNo": 16,
+    "title": "Continuous separation of breast cancer cells from blood samples using multi-orifice flow fractionation (MOFF) and dielectrophoresis (DEP)",
+    "marker_text": "(16)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "A simple centrifugal microfluidic system with a straight microchannel [91] (Reprinted/adapted with permission from Ref. [91]. 2017, Springer Nature).",
+    "refNo": 91,
+    "title": "",
+    "marker_text": "[91]"
+  },
+  {
+    "sentence": "A simple centrifugal microfluidic system with a straight microchannel [91] (Reprinted/adapted with permission from Ref. [91]. 2017, Springer Nature).",
+    "refNo": 91,
+    "title": "",
+    "marker_text": "[91]"
+  },
+  {
+    "sentence": "The centrifugal, Euler, and Coriolis forces are defined in Equations (25)- (27):.",
+    "refNo": 25,
+    "title": "Cell lysis on a microfluidic CD (compact disc)",
+    "marker_text": "(25)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "The centrifugal, Euler, and Coriolis forces are defined in Equations (25)- (27):.",
+    "refNo": 27,
+    "title": "From cellular lysis to microarray detection, an integrated thermoplastic elastomer (TPE) point of care Lab on a Disc",
+    "marker_text": "(27)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Density-based blood fractionation (sedimentation); ref [36].",
+    "refNo": 36,
+    "title": "A centrifugal microfluidic platform that separates whole blood samples into multiple removable fractions due to several discrete but continuous density gradient sections",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "This is because of their (1) relatively large dimensions, (2) simple design and fabrication, (3) high throughput, (4) simple experimental setup, (5) high recovery rate, and (6) high operational flow rate.",
+    "refNo": 1,
+    "title": "Liquid biopsy: A step closer to transform diagnosis, prognosis and future of cancer treatments",
+    "marker_text": "(1)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "This is because of their (1) relatively large dimensions, (2) simple design and fabrication, (3) high throughput, (4) simple experimental setup, (5) high recovery rate, and (6) high operational flow rate.",
+    "refNo": 2,
+    "title": "Microfluidic-Based Technologies for CTC Isolation: A Review of 10 Years of Intense Efforts towards Liquid Biopsy",
+    "marker_text": "(2)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "This is because of their (1) relatively large dimensions, (2) simple design and fabrication, (3) high throughput, (4) simple experimental setup, (5) high recovery rate, and (6) high operational flow rate.",
+    "refNo": 3,
+    "title": "Recent Advances in Microfluidic Platform for Physical and Immunological Detection and Capture of Circulating Tumor Cells",
+    "marker_text": "(3)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "This is because of their (1) relatively large dimensions, (2) simple design and fabrication, (3) high throughput, (4) simple experimental setup, (5) high recovery rate, and (6) high operational flow rate.",
+    "refNo": 4,
+    "title": "Biophysical isolation and identification of circulating tumor cells",
+    "marker_text": "(4)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "This is because of their (1) relatively large dimensions, (2) simple design and fabrication, (3) high throughput, (4) simple experimental setup, (5) high recovery rate, and (6) high operational flow rate.",
+    "refNo": 5,
+    "title": "Liquid biopsy in bladder cancer: State of the art and future perspectives",
+    "marker_text": "(5)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "This is because of their (1) relatively large dimensions, (2) simple design and fabrication, (3) high throughput, (4) simple experimental setup, (5) high recovery rate, and (6) high operational flow rate.",
+    "refNo": 6,
+    "title": "Liquid Biopsy and Other Non-Invasive Diagnostic Measures in PCNSL",
+    "marker_text": "(6)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Recent studies show the importance of their applications in separating blood components, such as CTC [78], plasma [188], immune cell [76], and leukocyte [189] separation from blood samples.",
+    "refNo": 78,
+    "title": "",
+    "marker_text": "[78]"
+  },
+  {
+    "sentence": "Recent studies show the importance of their applications in separating blood components, such as CTC [78], plasma [188], immune cell [76], and leukocyte [189] separation from blood samples.",
+    "refNo": 188,
+    "title": "",
+    "marker_text": "[188]"
+  },
+  {
+    "sentence": "Recent studies show the importance of their applications in separating blood components, such as CTC [78], plasma [188], immune cell [76], and leukocyte [189] separation from blood samples.",
+    "refNo": 76,
+    "title": "",
+    "marker_text": "[76]"
+  },
+  {
+    "sentence": "Recent studies show the importance of their applications in separating blood components, such as CTC [78], plasma [188], immune cell [76], and leukocyte [189] separation from blood samples.",
+    "refNo": 189,
+    "title": "",
+    "marker_text": "[189]"
+  },
+  {
+    "sentence": "Haeberle et al. used this centrifugation-based method to perform on-disk raw blood separation and plasma extraction using a decanting structure in which overflowed plasma emptied out [190] ( Figure 6e).",
+    "refNo": 190,
+    "title": "",
+    "marker_text": "[190]"
+  },
+  {
+    "sentence": "Remarkably, one of the most studied blood separation techniques in centrifugal microfluidic systems is separating the plasma component from the rest of the blood cells [198].",
+    "refNo": 198,
+    "title": "",
+    "marker_text": "[198]"
+  },
+  {
+    "sentence": "According to research in this field, the plasma separation procedure consists of two main steps: first, cell sedimentation using centrifugation, and second, plasma extraction from the layer-separated sample [198].",
+    "refNo": 198,
+    "title": "",
+    "marker_text": "[198]"
+  },
+  {
+    "sentence": "Recent studies show the importance of their applications in separating blood components, such as CTC [78], plasma [188], immune cell [76], and leukocyte [189] separation from blood samples.",
+    "refNo": 78,
+    "title": "",
+    "marker_text": "[78]"
+  },
+  {
+    "sentence": "Recent studies show the importance of their applications in separating blood components, such as CTC [78], plasma [188], immune cell [76], and leukocyte [189] separation from blood samples.",
+    "refNo": 188,
+    "title": "",
+    "marker_text": "[188]"
+  },
+  {
+    "sentence": "Recent studies show the importance of their applications in separating blood components, such as CTC [78], plasma [188], immune cell [76], and leukocyte [189] separation from blood samples.",
+    "refNo": 76,
+    "title": "",
+    "marker_text": "[76]"
+  },
+  {
+    "sentence": "Recent studies show the importance of their applications in separating blood components, such as CTC [78], plasma [188], immune cell [76], and leukocyte [189] separation from blood samples.",
+    "refNo": 189,
+    "title": "",
+    "marker_text": "[189]"
+  },
+  {
+    "sentence": "Haeberle et al. used this centrifugation-based method to perform on-disk raw blood separation and plasma extraction using a decanting structure in which overflowed plasma emptied out [190] ( Figure 6e).",
+    "refNo": 190,
+    "title": "",
+    "marker_text": "[190]"
+  },
+  {
+    "sentence": "Remarkably, one of the most studied blood separation techniques in centrifugal microfluidic systems is separating the plasma component from the rest of the blood cells [198].",
+    "refNo": 198,
+    "title": "",
+    "marker_text": "[198]"
+  },
+  {
+    "sentence": "According to research in this field, the plasma separation procedure consists of two main steps: first, cell sedimentation using centrifugation, and second, plasma extraction from the layer-separated sample [198].",
+    "refNo": 198,
+    "title": "",
+    "marker_text": "[198]"
+  },
+  {
+    "sentence": "This is because of their (1) relatively large dimensions, (2) simple design and fabrication, (3) high throughput, (4) simple experimental setup, (5) high recovery rate, and (6) high operational flow rate.",
+    "refNo": 1,
+    "title": "Liquid biopsy: A step closer to transform diagnosis, prognosis and future of cancer treatments",
+    "marker_text": "(1)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "This is because of their (1) relatively large dimensions, (2) simple design and fabrication, (3) high throughput, (4) simple experimental setup, (5) high recovery rate, and (6) high operational flow rate.",
+    "refNo": 2,
+    "title": "Microfluidic-Based Technologies for CTC Isolation: A Review of 10 Years of Intense Efforts towards Liquid Biopsy",
+    "marker_text": "(2)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "This is because of their (1) relatively large dimensions, (2) simple design and fabrication, (3) high throughput, (4) simple experimental setup, (5) high recovery rate, and (6) high operational flow rate.",
+    "refNo": 3,
+    "title": "Recent Advances in Microfluidic Platform for Physical and Immunological Detection and Capture of Circulating Tumor Cells",
+    "marker_text": "(3)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "This is because of their (1) relatively large dimensions, (2) simple design and fabrication, (3) high throughput, (4) simple experimental setup, (5) high recovery rate, and (6) high operational flow rate.",
+    "refNo": 4,
+    "title": "Biophysical isolation and identification of circulating tumor cells",
+    "marker_text": "(4)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "This is because of their (1) relatively large dimensions, (2) simple design and fabrication, (3) high throughput, (4) simple experimental setup, (5) high recovery rate, and (6) high operational flow rate.",
+    "refNo": 5,
+    "title": "Liquid biopsy in bladder cancer: State of the art and future perspectives",
+    "marker_text": "(5)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "This is because of their (1) relatively large dimensions, (2) simple design and fabrication, (3) high throughput, (4) simple experimental setup, (5) high recovery rate, and (6) high operational flow rate.",
+    "refNo": 6,
+    "title": "Liquid Biopsy and Other Non-Invasive Diagnostic Measures in PCNSL",
+    "marker_text": "(6)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "On the other hand, it suffers from some weaknesses: (1) maintaining the flow rate in a specific range to reach a suitable separation, (2) pump requirements to drive the fluid, (3) using a syringe pump decreases the platform's flexibility for combining preprocessing steps in more involved procedures, (4) low control over cell movement, (5) the possibility of clogging, and (6) no ability to control the operation precisely.",
+    "refNo": 1,
+    "title": "Liquid biopsy: A step closer to transform diagnosis, prognosis and future of cancer treatments",
+    "marker_text": "(1)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "On the other hand, it suffers from some weaknesses: (1) maintaining the flow rate in a specific range to reach a suitable separation, (2) pump requirements to drive the fluid, (3) using a syringe pump decreases the platform's flexibility for combining preprocessing steps in more involved procedures, (4) low control over cell movement, (5) the possibility of clogging, and (6) no ability to control the operation precisely.",
+    "refNo": 2,
+    "title": "Microfluidic-Based Technologies for CTC Isolation: A Review of 10 Years of Intense Efforts towards Liquid Biopsy",
+    "marker_text": "(2)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "On the other hand, it suffers from some weaknesses: (1) maintaining the flow rate in a specific range to reach a suitable separation, (2) pump requirements to drive the fluid, (3) using a syringe pump decreases the platform's flexibility for combining preprocessing steps in more involved procedures, (4) low control over cell movement, (5) the possibility of clogging, and (6) no ability to control the operation precisely.",
+    "refNo": 3,
+    "title": "Recent Advances in Microfluidic Platform for Physical and Immunological Detection and Capture of Circulating Tumor Cells",
+    "marker_text": "(3)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "On the other hand, it suffers from some weaknesses: (1) maintaining the flow rate in a specific range to reach a suitable separation, (2) pump requirements to drive the fluid, (3) using a syringe pump decreases the platform's flexibility for combining preprocessing steps in more involved procedures, (4) low control over cell movement, (5) the possibility of clogging, and (6) no ability to control the operation precisely.",
+    "refNo": 4,
+    "title": "Biophysical isolation and identification of circulating tumor cells",
+    "marker_text": "(4)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "On the other hand, it suffers from some weaknesses: (1) maintaining the flow rate in a specific range to reach a suitable separation, (2) pump requirements to drive the fluid, (3) using a syringe pump decreases the platform's flexibility for combining preprocessing steps in more involved procedures, (4) low control over cell movement, (5) the possibility of clogging, and (6) no ability to control the operation precisely.",
+    "refNo": 5,
+    "title": "Liquid biopsy in bladder cancer: State of the art and future perspectives",
+    "marker_text": "(5)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "On the other hand, it suffers from some weaknesses: (1) maintaining the flow rate in a specific range to reach a suitable separation, (2) pump requirements to drive the fluid, (3) using a syringe pump decreases the platform's flexibility for combining preprocessing steps in more involved procedures, (4) low control over cell movement, (5) the possibility of clogging, and (6) no ability to control the operation precisely.",
+    "refNo": 6,
+    "title": "Liquid Biopsy and Other Non-Invasive Diagnostic Measures in PCNSL",
+    "marker_text": "(6)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "The significant benefits of using the centrifugal microfluidic platforms to separate particle/cell are (1) a simple design and fabrication process, (2) ability to integrate multi-processing stages of mixing, valving, centrifugation, etc., (3) improved portability of the proposed methods, (4) less human interaction, and (5) contain a wide range of implementable unit/operations that can be used in various applications [1].",
+    "refNo": 1,
+    "title": "Liquid biopsy: A step closer to transform diagnosis, prognosis and future of cancer treatments",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "The significant benefits of using the centrifugal microfluidic platforms to separate particle/cell are (1) a simple design and fabrication process, (2) ability to integrate multi-processing stages of mixing, valving, centrifugation, etc., (3) improved portability of the proposed methods, (4) less human interaction, and (5) contain a wide range of implementable unit/operations that can be used in various applications [1].",
+    "refNo": 2,
+    "title": "Microfluidic-Based Technologies for CTC Isolation: A Review of 10 Years of Intense Efforts towards Liquid Biopsy",
+    "marker_text": "(2)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "The significant benefits of using the centrifugal microfluidic platforms to separate particle/cell are (1) a simple design and fabrication process, (2) ability to integrate multi-processing stages of mixing, valving, centrifugation, etc., (3) improved portability of the proposed methods, (4) less human interaction, and (5) contain a wide range of implementable unit/operations that can be used in various applications [1].",
+    "refNo": 3,
+    "title": "Recent Advances in Microfluidic Platform for Physical and Immunological Detection and Capture of Circulating Tumor Cells",
+    "marker_text": "(3)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "The significant benefits of using the centrifugal microfluidic platforms to separate particle/cell are (1) a simple design and fabrication process, (2) ability to integrate multi-processing stages of mixing, valving, centrifugation, etc., (3) improved portability of the proposed methods, (4) less human interaction, and (5) contain a wide range of implementable unit/operations that can be used in various applications [1].",
+    "refNo": 4,
+    "title": "Biophysical isolation and identification of circulating tumor cells",
+    "marker_text": "(4)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "The significant benefits of using the centrifugal microfluidic platforms to separate particle/cell are (1) a simple design and fabrication process, (2) ability to integrate multi-processing stages of mixing, valving, centrifugation, etc., (3) improved portability of the proposed methods, (4) less human interaction, and (5) contain a wide range of implementable unit/operations that can be used in various applications [1].",
+    "refNo": 5,
+    "title": "Liquid biopsy in bladder cancer: State of the art and future perspectives",
+    "marker_text": "(5)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Recent studies show the importance of their applications in separating blood components, such as CTC [78], plasma [188], immune cell [76], and leukocyte [189] separation from blood samples.",
+    "refNo": 78,
+    "title": "",
+    "marker_text": "[78]"
+  },
+  {
+    "sentence": "Recent studies show the importance of their applications in separating blood components, such as CTC [78], plasma [188], immune cell [76], and leukocyte [189] separation from blood samples.",
+    "refNo": 188,
+    "title": "",
+    "marker_text": "[188]"
+  },
+  {
+    "sentence": "Recent studies show the importance of their applications in separating blood components, such as CTC [78], plasma [188], immune cell [76], and leukocyte [189] separation from blood samples.",
+    "refNo": 76,
+    "title": "",
+    "marker_text": "[76]"
+  },
+  {
+    "sentence": "Recent studies show the importance of their applications in separating blood components, such as CTC [78], plasma [188], immune cell [76], and leukocyte [189] separation from blood samples.",
+    "refNo": 189,
+    "title": "",
+    "marker_text": "[189]"
+  },
+  {
+    "sentence": "Haeberle et al. used this centrifugation-based method to perform on-disk raw blood separation and plasma extraction using a decanting structure in which overflowed plasma emptied out [190] ( Figure 6e).",
+    "refNo": 190,
+    "title": "",
+    "marker_text": "[190]"
+  },
+  {
+    "sentence": "Remarkably, one of the most studied blood separation techniques in centrifugal microfluidic systems is separating the plasma component from the rest of the blood cells [198].",
+    "refNo": 198,
+    "title": "",
+    "marker_text": "[198]"
+  },
+  {
+    "sentence": "According to research in this field, the plasma separation procedure consists of two main steps: first, cell sedimentation using centrifugation, and second, plasma extraction from the layer-separated sample [198].",
+    "refNo": 198,
+    "title": "",
+    "marker_text": "[198]"
+  },
+  {
+    "sentence": "Recent studies show the importance of their applications in separating blood components, such as CTC [78], plasma [188], immune cell [76], and leukocyte [189] separation from blood samples.",
+    "refNo": 78,
+    "title": "",
+    "marker_text": "[78]"
+  },
+  {
+    "sentence": "Recent studies show the importance of their applications in separating blood components, such as CTC [78], plasma [188], immune cell [76], and leukocyte [189] separation from blood samples.",
+    "refNo": 188,
+    "title": "",
+    "marker_text": "[188]"
+  },
+  {
+    "sentence": "Recent studies show the importance of their applications in separating blood components, such as CTC [78], plasma [188], immune cell [76], and leukocyte [189] separation from blood samples.",
+    "refNo": 76,
+    "title": "",
+    "marker_text": "[76]"
+  },
+  {
+    "sentence": "Recent studies show the importance of their applications in separating blood components, such as CTC [78], plasma [188], immune cell [76], and leukocyte [189] separation from blood samples.",
+    "refNo": 189,
+    "title": "",
+    "marker_text": "[189]"
+  },
+  {
+    "sentence": "Haeberle et al. used this centrifugation-based method to perform on-disk raw blood separation and plasma extraction using a decanting structure in which overflowed plasma emptied out [190] ( Figure 6e).",
+    "refNo": 190,
+    "title": "",
+    "marker_text": "[190]"
+  },
+  {
+    "sentence": "Remarkably, one of the most studied blood separation techniques in centrifugal microfluidic systems is separating the plasma component from the rest of the blood cells [198].",
+    "refNo": 198,
+    "title": "",
+    "marker_text": "[198]"
+  },
+  {
+    "sentence": "According to research in this field, the plasma separation procedure consists of two main steps: first, cell sedimentation using centrifugation, and second, plasma extraction from the layer-separated sample [198].",
+    "refNo": 198,
+    "title": "",
+    "marker_text": "[198]"
+  },
+  {
+    "sentence": "This is because of their (1) relatively large dimensions, (2) simple design and fabrication, (3) high throughput, (4) simple experimental setup, (5) high recovery rate, and (6) high operational flow rate.",
+    "refNo": 1,
+    "title": "Liquid biopsy: A step closer to transform diagnosis, prognosis and future of cancer treatments",
+    "marker_text": "(1)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "This is because of their (1) relatively large dimensions, (2) simple design and fabrication, (3) high throughput, (4) simple experimental setup, (5) high recovery rate, and (6) high operational flow rate.",
+    "refNo": 2,
+    "title": "Microfluidic-Based Technologies for CTC Isolation: A Review of 10 Years of Intense Efforts towards Liquid Biopsy",
+    "marker_text": "(2)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "This is because of their (1) relatively large dimensions, (2) simple design and fabrication, (3) high throughput, (4) simple experimental setup, (5) high recovery rate, and (6) high operational flow rate.",
+    "refNo": 3,
+    "title": "Recent Advances in Microfluidic Platform for Physical and Immunological Detection and Capture of Circulating Tumor Cells",
+    "marker_text": "(3)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "This is because of their (1) relatively large dimensions, (2) simple design and fabrication, (3) high throughput, (4) simple experimental setup, (5) high recovery rate, and (6) high operational flow rate.",
+    "refNo": 4,
+    "title": "Biophysical isolation and identification of circulating tumor cells",
+    "marker_text": "(4)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "This is because of their (1) relatively large dimensions, (2) simple design and fabrication, (3) high throughput, (4) simple experimental setup, (5) high recovery rate, and (6) high operational flow rate.",
+    "refNo": 5,
+    "title": "Liquid biopsy in bladder cancer: State of the art and future perspectives",
+    "marker_text": "(5)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "This is because of their (1) relatively large dimensions, (2) simple design and fabrication, (3) high throughput, (4) simple experimental setup, (5) high recovery rate, and (6) high operational flow rate.",
+    "refNo": 6,
+    "title": "Liquid Biopsy and Other Non-Invasive Diagnostic Measures in PCNSL",
+    "marker_text": "(6)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "On the other hand, it suffers from some weaknesses: (1) maintaining the flow rate in a specific range to reach a suitable separation, (2) pump requirements to drive the fluid, (3) using a syringe pump decreases the platform's flexibility for combining preprocessing steps in more involved procedures, (4) low control over cell movement, (5) the possibility of clogging, and (6) no ability to control the operation precisely.",
+    "refNo": 1,
+    "title": "Liquid biopsy: A step closer to transform diagnosis, prognosis and future of cancer treatments",
+    "marker_text": "(1)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "On the other hand, it suffers from some weaknesses: (1) maintaining the flow rate in a specific range to reach a suitable separation, (2) pump requirements to drive the fluid, (3) using a syringe pump decreases the platform's flexibility for combining preprocessing steps in more involved procedures, (4) low control over cell movement, (5) the possibility of clogging, and (6) no ability to control the operation precisely.",
+    "refNo": 2,
+    "title": "Microfluidic-Based Technologies for CTC Isolation: A Review of 10 Years of Intense Efforts towards Liquid Biopsy",
+    "marker_text": "(2)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "On the other hand, it suffers from some weaknesses: (1) maintaining the flow rate in a specific range to reach a suitable separation, (2) pump requirements to drive the fluid, (3) using a syringe pump decreases the platform's flexibility for combining preprocessing steps in more involved procedures, (4) low control over cell movement, (5) the possibility of clogging, and (6) no ability to control the operation precisely.",
+    "refNo": 3,
+    "title": "Recent Advances in Microfluidic Platform for Physical and Immunological Detection and Capture of Circulating Tumor Cells",
+    "marker_text": "(3)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "On the other hand, it suffers from some weaknesses: (1) maintaining the flow rate in a specific range to reach a suitable separation, (2) pump requirements to drive the fluid, (3) using a syringe pump decreases the platform's flexibility for combining preprocessing steps in more involved procedures, (4) low control over cell movement, (5) the possibility of clogging, and (6) no ability to control the operation precisely.",
+    "refNo": 4,
+    "title": "Biophysical isolation and identification of circulating tumor cells",
+    "marker_text": "(4)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "On the other hand, it suffers from some weaknesses: (1) maintaining the flow rate in a specific range to reach a suitable separation, (2) pump requirements to drive the fluid, (3) using a syringe pump decreases the platform's flexibility for combining preprocessing steps in more involved procedures, (4) low control over cell movement, (5) the possibility of clogging, and (6) no ability to control the operation precisely.",
+    "refNo": 5,
+    "title": "Liquid biopsy in bladder cancer: State of the art and future perspectives",
+    "marker_text": "(5)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "On the other hand, it suffers from some weaknesses: (1) maintaining the flow rate in a specific range to reach a suitable separation, (2) pump requirements to drive the fluid, (3) using a syringe pump decreases the platform's flexibility for combining preprocessing steps in more involved procedures, (4) low control over cell movement, (5) the possibility of clogging, and (6) no ability to control the operation precisely.",
+    "refNo": 6,
+    "title": "Liquid Biopsy and Other Non-Invasive Diagnostic Measures in PCNSL",
+    "marker_text": "(6)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "The significant benefits of using the centrifugal microfluidic platforms to separate particle/cell are (1) a simple design and fabrication process, (2) ability to integrate multi-processing stages of mixing, valving, centrifugation, etc., (3) improved portability of the proposed methods, (4) less human interaction, and (5) contain a wide range of implementable unit/operations that can be used in various applications.",
+    "refNo": 1,
+    "title": "Liquid biopsy: A step closer to transform diagnosis, prognosis and future of cancer treatments",
+    "marker_text": "(1)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "The significant benefits of using the centrifugal microfluidic platforms to separate particle/cell are (1) a simple design and fabrication process, (2) ability to integrate multi-processing stages of mixing, valving, centrifugation, etc., (3) improved portability of the proposed methods, (4) less human interaction, and (5) contain a wide range of implementable unit/operations that can be used in various applications.",
+    "refNo": 2,
+    "title": "Microfluidic-Based Technologies for CTC Isolation: A Review of 10 Years of Intense Efforts towards Liquid Biopsy",
+    "marker_text": "(2)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "The significant benefits of using the centrifugal microfluidic platforms to separate particle/cell are (1) a simple design and fabrication process, (2) ability to integrate multi-processing stages of mixing, valving, centrifugation, etc., (3) improved portability of the proposed methods, (4) less human interaction, and (5) contain a wide range of implementable unit/operations that can be used in various applications.",
+    "refNo": 3,
+    "title": "Recent Advances in Microfluidic Platform for Physical and Immunological Detection and Capture of Circulating Tumor Cells",
+    "marker_text": "(3)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "The significant benefits of using the centrifugal microfluidic platforms to separate particle/cell are (1) a simple design and fabrication process, (2) ability to integrate multi-processing stages of mixing, valving, centrifugation, etc., (3) improved portability of the proposed methods, (4) less human interaction, and (5) contain a wide range of implementable unit/operations that can be used in various applications.",
+    "refNo": 4,
+    "title": "Biophysical isolation and identification of circulating tumor cells",
+    "marker_text": "(4)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "The significant benefits of using the centrifugal microfluidic platforms to separate particle/cell are (1) a simple design and fabrication process, (2) ability to integrate multi-processing stages of mixing, valving, centrifugation, etc., (3) improved portability of the proposed methods, (4) less human interaction, and (5) contain a wide range of implementable unit/operations that can be used in various applications.",
+    "refNo": 5,
+    "title": "Liquid biopsy in bladder cancer: State of the art and future perspectives",
+    "marker_text": "(5)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "This is because of their (1) relatively large dimensions, (2) simple design and fabrication, (3) high throughput, (4) simple experimental setup, (5) high recovery rate, and (6) high operational flow rate.",
+    "refNo": 1,
+    "title": "Liquid biopsy: A step closer to transform diagnosis, prognosis and future of cancer treatments",
+    "marker_text": "(1)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "This is because of their (1) relatively large dimensions, (2) simple design and fabrication, (3) high throughput, (4) simple experimental setup, (5) high recovery rate, and (6) high operational flow rate.",
+    "refNo": 2,
+    "title": "Microfluidic-Based Technologies for CTC Isolation: A Review of 10 Years of Intense Efforts towards Liquid Biopsy",
+    "marker_text": "(2)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "This is because of their (1) relatively large dimensions, (2) simple design and fabrication, (3) high throughput, (4) simple experimental setup, (5) high recovery rate, and (6) high operational flow rate.",
+    "refNo": 3,
+    "title": "Recent Advances in Microfluidic Platform for Physical and Immunological Detection and Capture of Circulating Tumor Cells",
+    "marker_text": "(3)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "This is because of their (1) relatively large dimensions, (2) simple design and fabrication, (3) high throughput, (4) simple experimental setup, (5) high recovery rate, and (6) high operational flow rate.",
+    "refNo": 4,
+    "title": "Biophysical isolation and identification of circulating tumor cells",
+    "marker_text": "(4)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "This is because of their (1) relatively large dimensions, (2) simple design and fabrication, (3) high throughput, (4) simple experimental setup, (5) high recovery rate, and (6) high operational flow rate.",
+    "refNo": 5,
+    "title": "Liquid biopsy in bladder cancer: State of the art and future perspectives",
+    "marker_text": "(5)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "This is because of their (1) relatively large dimensions, (2) simple design and fabrication, (3) high throughput, (4) simple experimental setup, (5) high recovery rate, and (6) high operational flow rate.",
+    "refNo": 6,
+    "title": "Liquid Biopsy and Other Non-Invasive Diagnostic Measures in PCNSL",
+    "marker_text": "(6)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "On the other hand, it suffers from some weaknesses: (1) maintaining the flow rate in a specific range to reach a suitable separation, (2) pump requirements to drive the fluid, (3) using a syringe pump decreases the platform's flexibility for combining preprocessing steps in more involved procedures, (4) low control over cell movement, (5) the possibility of clogging, and (6) no ability to control the operation precisely.",
+    "refNo": 1,
+    "title": "Liquid biopsy: A step closer to transform diagnosis, prognosis and future of cancer treatments",
+    "marker_text": "(1)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "On the other hand, it suffers from some weaknesses: (1) maintaining the flow rate in a specific range to reach a suitable separation, (2) pump requirements to drive the fluid, (3) using a syringe pump decreases the platform's flexibility for combining preprocessing steps in more involved procedures, (4) low control over cell movement, (5) the possibility of clogging, and (6) no ability to control the operation precisely.",
+    "refNo": 2,
+    "title": "Microfluidic-Based Technologies for CTC Isolation: A Review of 10 Years of Intense Efforts towards Liquid Biopsy",
+    "marker_text": "(2)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "On the other hand, it suffers from some weaknesses: (1) maintaining the flow rate in a specific range to reach a suitable separation, (2) pump requirements to drive the fluid, (3) using a syringe pump decreases the platform's flexibility for combining preprocessing steps in more involved procedures, (4) low control over cell movement, (5) the possibility of clogging, and (6) no ability to control the operation precisely.",
+    "refNo": 3,
+    "title": "Recent Advances in Microfluidic Platform for Physical and Immunological Detection and Capture of Circulating Tumor Cells",
+    "marker_text": "(3)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "On the other hand, it suffers from some weaknesses: (1) maintaining the flow rate in a specific range to reach a suitable separation, (2) pump requirements to drive the fluid, (3) using a syringe pump decreases the platform's flexibility for combining preprocessing steps in more involved procedures, (4) low control over cell movement, (5) the possibility of clogging, and (6) no ability to control the operation precisely.",
+    "refNo": 4,
+    "title": "Biophysical isolation and identification of circulating tumor cells",
+    "marker_text": "(4)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "On the other hand, it suffers from some weaknesses: (1) maintaining the flow rate in a specific range to reach a suitable separation, (2) pump requirements to drive the fluid, (3) using a syringe pump decreases the platform's flexibility for combining preprocessing steps in more involved procedures, (4) low control over cell movement, (5) the possibility of clogging, and (6) no ability to control the operation precisely.",
+    "refNo": 5,
+    "title": "Liquid biopsy in bladder cancer: State of the art and future perspectives",
+    "marker_text": "(5)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "On the other hand, it suffers from some weaknesses: (1) maintaining the flow rate in a specific range to reach a suitable separation, (2) pump requirements to drive the fluid, (3) using a syringe pump decreases the platform's flexibility for combining preprocessing steps in more involved procedures, (4) low control over cell movement, (5) the possibility of clogging, and (6) no ability to control the operation precisely.",
+    "refNo": 6,
+    "title": "Liquid Biopsy and Other Non-Invasive Diagnostic Measures in PCNSL",
+    "marker_text": "(6)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "The significant benefits of using the centrifugal microfluidic platforms to separate particle/cell are (1) a simple design and fabrication process, (2) ability to integrate multi-processing stages of mixing, valving, centrifugation, etc., (3) improved portability of the proposed methods, (4) less human interaction, and (5) contain a wide range of implementable unit/operations that can be used in various applications.",
+    "refNo": 1,
+    "title": "Liquid biopsy: A step closer to transform diagnosis, prognosis and future of cancer treatments",
+    "marker_text": "(1)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "The significant benefits of using the centrifugal microfluidic platforms to separate particle/cell are (1) a simple design and fabrication process, (2) ability to integrate multi-processing stages of mixing, valving, centrifugation, etc., (3) improved portability of the proposed methods, (4) less human interaction, and (5) contain a wide range of implementable unit/operations that can be used in various applications.",
+    "refNo": 2,
+    "title": "Microfluidic-Based Technologies for CTC Isolation: A Review of 10 Years of Intense Efforts towards Liquid Biopsy",
+    "marker_text": "(2)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "The significant benefits of using the centrifugal microfluidic platforms to separate particle/cell are (1) a simple design and fabrication process, (2) ability to integrate multi-processing stages of mixing, valving, centrifugation, etc., (3) improved portability of the proposed methods, (4) less human interaction, and (5) contain a wide range of implementable unit/operations that can be used in various applications.",
+    "refNo": 3,
+    "title": "Recent Advances in Microfluidic Platform for Physical and Immunological Detection and Capture of Circulating Tumor Cells",
+    "marker_text": "(3)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "The significant benefits of using the centrifugal microfluidic platforms to separate particle/cell are (1) a simple design and fabrication process, (2) ability to integrate multi-processing stages of mixing, valving, centrifugation, etc., (3) improved portability of the proposed methods, (4) less human interaction, and (5) contain a wide range of implementable unit/operations that can be used in various applications.",
+    "refNo": 4,
+    "title": "Biophysical isolation and identification of circulating tumor cells",
+    "marker_text": "(4)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "The significant benefits of using the centrifugal microfluidic platforms to separate particle/cell are (1) a simple design and fabrication process, (2) ability to integrate multi-processing stages of mixing, valving, centrifugation, etc., (3) improved portability of the proposed methods, (4) less human interaction, and (5) contain a wide range of implementable unit/operations that can be used in various applications.",
+    "refNo": 5,
+    "title": "Liquid biopsy in bladder cancer: State of the art and future perspectives",
+    "marker_text": "(5)",
+    "extraction_method": "paren_numeric"
+  }
+]

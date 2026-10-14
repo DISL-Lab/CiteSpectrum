@@ -1,0 +1,182 @@
+[
+  {
+    "sentence": "A landmark study profiling 24 colon cancer cell lines confirmed that 20 out of 24 harbored mutually exclusive activating mutations in KRAS or BRAF, while 13 exhibited PIK3CA or PTEN alterations, leading to PI3K/AKT pathway hyperactivation; notably, four lines lacked mutations in these canonical drivers, highlighting molecular heterogeneity ref [1].",
+    "refNo": 1,
+    "title": "Epigenetic and genetic features of 24 colon cancer cell lines",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Furthermore, MSI was detected in nine lines, and CIMP status varied depending on the epimarker panel used, with the Weisenberger panel demonstrating superior discriminatory power ref [1].",
+    "refNo": 1,
+    "title": "Epigenetic and genetic features of 24 colon cancer cell lines",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "These findings align with broader classifications of CRC molecular subtypes, where cell lines faithfully mirror the Wnt, MAPK, p53, TGFβ, and PI3K pathway alterations observed in vivo ref [3].",
+    "refNo": 3,
+    "title": "Novel colon cancer cell lines leading to better understanding of the diversity of respective primary cancers",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "These novel lines exhibit heterogeneous epithelial-mesenchymal features, including E-cadherin mutations and β-catenin stabilization, mirroring in vivo tumor evolution ref [4].",
+    "refNo": 4,
+    "title": "Identification and expansion of human colon-cancer-initiating cells",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Molecular authentication via short tandem repeat profiling and comprehensive mutational screening is now considered essential to ensure model fidelity and experimental reproducibility ref [1].",
+    "refNo": 1,
+    "title": "Epigenetic and genetic features of 24 colon cancer cell lines",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "The availability of annotated panels, such as those detailing CIN, MSI, and CIMP status, enables researchers to select cell lines tailored to specific biological questions, from signaling pathway analysis to drug response profiling ref [3].",
+    "refNo": 3,
+    "title": "Novel colon cancer cell lines leading to better understanding of the diversity of respective primary cancers",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "The identification of CD133 as a marker for tumorigenic colon cancer cells established a foundational model for isolating CSCs capable of initiating and propagating tumors in immunodeficient mice, with these cells maintaining their phenotype across serial transplants ref [4].",
+    "refNo": 4,
+    "title": "Identification and expansion of human colon-cancer-initiating cells",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Beyond surface markers, transcriptional regulators such as SOX2 have been shown to enhance CSC properties by activating β-catenin and Beclin1-mediated autophagy, thereby promoting epithelial-mesenchymal transition (EMT) and chemoresistance through ABCC2 upregulation ref [5].",
+    "refNo": 5,
+    "title": "SOX2 promotes chemoresistance, cancer stem cells properties, and epithelial-mesenchymal transition by βcatenin and Beclin1/autophagy signaling in colorectal cancer",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Hypoxic tumor microenvironments further amplify CSC-driven aggressiveness; CSN8 has emerged as a critical regulator that stabilizes HIF-1α under low oxygen, inducing EMT, dormancy, and survival under stress conditions such as chemotherapy or serum deprivation ref [4].",
+    "refNo": 4,
+    "title": "Identification and expansion of human colon-cancer-initiating cells",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Multicellular tumor spheroids, generated through suspension culture or microfabricated platforms, mimic key tumor microenvironmental features such as oxygen and nutrient gradients, leading to stratified zones of proliferation, quiescence, and necrosis—mirroring in vivo solid tumors ref [7].",
+    "refNo": 7,
+    "title": "Three-dimensional spheroid model in tumor biology",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Recent advances in high-throughput spheroid generation, including centrifugation-based methods in poly-HEMA-coated plates, enable standardized, reproducible models suitable for drug screening and toxicity assessment ref [10].",
+    "refNo": 10,
+    "title": "In vitro three-dimensional (3D) models in cancer research: An update",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Ex vivo-derived colospheres, established directly from patient tumor tissues, preserve tumor heterogeneity and aggressive phenotypes, offering a clinically relevant platform to study invasion and chemoresistance ref [9].",
+    "refNo": 9,
+    "title": "Rapid generation of single-tumor spheroids for high-throughput cell function and toxicity analysis",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Organoids, derived from patient-derived stem cells or tumor biopsies, represent a more sophisticated 3D model by self-organizing into crypt-villus structures that recapitulate the cellular diversity and polarity of the colonic epithelium ref [7].",
+    "refNo": 7,
+    "title": "Three-dimensional spheroid model in tumor biology",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Their utility extends to co-culture systems incorporating stromal and immune cells, thereby better simulating the tumor microenvironment ref [11].",
+    "refNo": 11,
+    "title": "Organogenesis in a dish: Modeling development and disease using organoid technologies",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Notably, dietary interventions have been shown to modulate tumor development in these systems; for instance, dietary wheat bran and dehydrated citrus fiber significantly reduce tumor incidence and multiplicity in F344 rats exposed to 3,2'-dimethyl-4-aminobiphenyl (DMAB), highlighting the protective role of specific fiber types against chemical carcinogenesis ref [12].",
+    "refNo": 12,
+    "title": "Effect of dietary wheat bran and dehydrated citrus fiber on 3,2'-dimethyl-4-aminobiphenyl-induced intestinal carcinogenesis in F344 rats",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "The foundational breakthrough came with the successful engraftment of a human colonic adenocarcinoma into nude mice, which lack a functional thymus and T-cell-mediated immunity, thereby overcoming the immune rejection barrier that had previously thwarted human tumor transplantation efforts ref [13].",
+    "refNo": 13,
+    "title": "Heterotransplantation of a human malignant tumour to \"nude\"mice",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Studies have demonstrated that somatic APC mutations occur in over 50% of HNPCC cases, with a predominance of frameshift mutations at mononucleotide repeats, suggesting a strong link to MMR deficiency as an early driver event ref [14].",
+    "refNo": 14,
+    "title": "Somatic mutations of APC gene in carcinomas from hereditary non-polyposis colorectal cancer patients",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "The prospective generation of a living organoid biobank from CRC patients has demonstrated that tumor organoids faithfully mirror the mutational spectra of their parental tumors, facilitating high-throughput drug screening and the identification of gene-drug associations for personalized therapy ref [15].",
+    "refNo": 15,
+    "title": "Prospective derivation of a living organoid biobank of colorectal cancer patients",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "In a landmark study, organoids derived from metastatic gastrointestinal cancers accurately reflected individual patient responses to chemotherapy and targeted agents, outperforming traditional xenograft models in correlating ex vivo drug sensitivity with clinical outcomes ref [16].",
+    "refNo": 16,
+    "title": "Patient-derived organoids model treatment response of metastatic gastrointestinal cancers",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "The conceptual framework of cancer hallmarks, recently expanded to include cellular plasticity, epigenetic reprogramming, and microbiome interactions, provides a critical lens for interpreting these models ref [17].",
+    "refNo": 17,
+    "title": "Hallmarks of cancer-the new testament",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Among the most extensively studied are heterocyclic amines (HCAs) formed during high-temperature cooking of meat and fish. 2-Amino-1-methyl-6-phenylimidazo[4,5-b]pyridine (PhIP), identified as the most abundant HCA in cooked proteins, reliably induces colon and mammary carcinomas in F344 rats when administered in the diet, making it a cornerstone model for diet-related CRC research ref [2].",
+    "refNo": 2,
+    "title": "Cell line models of molecular subtypes of colorectal cancer",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Beyond PhIP, other chemical agents such as azoxymethane (AOM) and 1,2-dimethylhydrazine (DMH) have been widely employed to induce colonic aberrant crypt foci (ACF) and adenocarcinomas in rodents, often in combination with inflammatory stimuli to model colitis-associated cancer ref [3].",
+    "refNo": 3,
+    "title": "Novel colon cancer cell lines leading to better understanding of the diversity of respective primary cancers",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "In transgenic mouse models, K-ras^G12D activation in the proximal colon induces ACF with high progression potential, characterized by upregulation of PKCβII and sustained MEK/ERK signaling, whereas distal ACF exhibit apoptosis and limited neoplastic progression, highlighting regional heterogeneity in oncogenic response ref [19].",
+    "refNo": 19,
+    "title": "Oncogenic K-ras promotes early carcinogenesis in the mouse proximal colon",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Beyond K-ras, APC loss remains the most common initiating event in sporadic and familial adenomatous polyposis, leading to β-catenin stabilization and Wnt pathway hyperactivation ref [16].",
+    "refNo": 16,
+    "title": "Patient-derived organoids model treatment response of metastatic gastrointestinal cancers",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Ref [1] demonstrated that xanthohumol suppresses CRC proliferation in vitro and in vivo by downregulating HK2-mediated glycolysis, concurrently activating the intrinsic apoptotic pathway via cytochrome c release.",
+    "refNo": 1,
+    "title": "Epigenetic and genetic features of 24 colon cancer cell lines",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Landmark studies have demonstrated that promoter hypermethylation of tumor suppressor genes, including hMLH1, MGMT, p16INK4a, and E-cadherin, is prevalent in both primary CRCs and their derived cell lines, with distinct patterns observed between microsatellite stable (MSS) and unstable (MSI) subtypes ref [21].",
+    "refNo": 21,
+    "title": "A CpG island hypermethylation profile of primary colorectal carcinomas and colon cancer cell lines",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "For instance, a multi-site metastasis-on-a-chip system has been developed to simultaneously house primary CRC organoids alongside liver, lung, and endothelial microtissues under recirculating flow, allowing real-time tracking of circulating tumor cells and organ-specific colonization preferences ref [22].",
+    "refNo": 22,
+    "title": "A multi-site metastasis-on-a-chip microphysiological system for assessing metastatic preference of cancer cells",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Cell line-based platforms, such as the NCI-60 panel, remain foundational for high-throughput drug screening and biomarker discovery, enabling systematic correlation of genomic profiles with drug sensitivity ref [23].",
+    "refNo": 23,
+    "title": "Cell line-based platforms to evaluate the therapeutic efficacy of candidate anticancer agents",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "However, their limited physiological relevance has spurred the adoption of patient-derived xenografts (PDXs) and organoids, which preserve the genetic and phenotypic diversity of primary tumors and better predict clinical outcomes ref [16].",
+    "refNo": 16,
+    "title": "Patient-derived organoids model treatment response of metastatic gastrointestinal cancers",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Recent studies have highlighted the role of therapy-induced senescence as a resistance mechanism; for instance, irinotecan treatment in CRC models activates Akt as a feedback survival signal, and its inhibition shifts the cellular response from senescence to apoptosis, thereby enhancing therapeutic efficacy and reducing emergent resistant clones ref [24].",
+    "refNo": 24,
+    "title": "Akt inhibition improves irinotecan treatment and prevents cell emergence by switching the senescence response to apoptosis",
+    "marker_text": "[24]"
+  }
+]

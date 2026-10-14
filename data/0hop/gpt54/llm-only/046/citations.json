@@ -1,0 +1,702 @@
+[
+  {
+    "sentence": "Rather than treating care delivery as a linear exchange between provider and patient, service ecosystem theory emphasizes dense interdependence among clinical organizations, professionals, patients, carers, technologies, regulators, and payment systems, all linked through processes of resource integration and institutional coordination ref [1], ref [2].",
+    "refNo": 1,
+    "title": "Service-dominant logic: continuing the evolution"
+  },
+  {
+    "sentence": "Rather than treating care delivery as a linear exchange between provider and patient, service ecosystem theory emphasizes dense interdependence among clinical organizations, professionals, patients, carers, technologies, regulators, and payment systems, all linked through processes of resource integration and institutional coordination ref [1], ref [2].",
+    "refNo": 2,
+    "title": "Service ecosystems: A broadening and deepening of the concept of value co-creation"
+  },
+  {
+    "sentence": "Such nested structuring has been explicitly highlighted in service research on healthcare, where service innovation, patient participation, and care quality depend on connections across professional and institutional boundaries rather than on isolated organizations alone ref [3], ref [4].",
+    "refNo": 3,
+    "title": "The service ecosystem as an essential framework for the healthcare services marketing literature"
+  },
+  {
+    "sentence": "Such nested structuring has been explicitly highlighted in service research on healthcare, where service innovation, patient participation, and care quality depend on connections across professional and institutional boundaries rather than on isolated organizations alone ref [3], ref [4].",
+    "refNo": 4,
+    "title": "Value co-creation in health care service ecosystems: The case of improving well-being"
+  },
+  {
+    "sentence": "The classic literature on the diffusion of innovations shows how behaviors and norms propagate through networks, while work on social contagion demonstrates that emotions, attitudes, and conduct can cascade interpersonally and shape collective outcomes ref [5], ref [6].",
+    "refNo": 5,
+    "title": "Diffusion of Innovations"
+  },
+  {
+    "sentence": "The classic literature on the diffusion of innovations shows how behaviors and norms propagate through networks, while work on social contagion demonstrates that emotions, attitudes, and conduct can cascade interpersonally and shape collective outcomes ref [5], ref [6].",
+    "refNo": 6,
+    "title": "Experimental evidence for massive-scale emotional contagion through social networks"
+  },
+  {
+    "sentence": "Complexity theory in healthcare depicts care delivery as a dynamic, tightly coupled system in which small disturbances can amplify across organizational boundaries and professional interfaces ref [7].",
+    "refNo": 7,
+    "title": "Complexity science: the challenge of complexity in health care"
+  },
+  {
+    "sentence": "Research on institutional logics further suggests that problematic assumptions or priorities can become sedimented and reproduced through taken-for-granted rules, thereby “infecting” decision-making at multiple levels of the system ref [8].",
+    "refNo": 8,
+    "title": "The institutional logics perspective: A new approach to culture, structure, and process"
+  },
+  {
+    "sentence": "This broader role is evident in the development of patient-reported measures that distinguish reports of what happened in care from evaluations of care, thereby making surveys useful for tracing system disturbances rather than merely consumer sentiment ref [9], ref [10].",
+    "refNo": 9,
+    "title": "Methods and representations of patient experience and satisfaction: results of a systematic review"
+  },
+  {
+    "sentence": "This broader role is evident in the development of patient-reported measures that distinguish reports of what happened in care from evaluations of care, thereby making surveys useful for tracing system disturbances rather than merely consumer sentiment ref [9], ref [10].",
+    "refNo": 10,
+    "title": "Patients' reports of hospital care in England and The Netherlands: a comparison of two survey instruments"
+  },
+  {
+    "sentence": "Standardized patient experience measures such as CAHPS were explicitly designed to provide comparable information on domains that patients can reliably report, including timeliness, communication, and care coordination ref [11].",
+    "refNo": 11,
+    "title": "The CAHPS Hospital Survey: development, testing, and fielding"
+  },
+  {
+    "sentence": "At the same time, evidence from the psychometric literature shows that survey responses are shaped by questionnaire design, case-mix, and mode effects, which means that these instruments should be interpreted as structured observations requiring calibration rather than transparent mirrors of service reality ref [12].",
+    "refNo": 12,
+    "title": "Adjusting CAHPS scores for survey mode and patient mix"
+  },
+  {
+    "sentence": "Clinical infection refers to microbiologically or clinically identifiable transmission of pathogens, often operationalized through surveillance of healthcare-associated infections and linked to specific prevention protocols ref [13].",
+    "refNo": 13,
+    "title": "Estimating health care-associated infections and deaths in U.S. hospitals, 2002"
+  },
+  {
+    "sentence": "Research on normalization of deviance shows how unsafe accommodations become routine within complex organizations ref [14], while studies of institutional corruption demonstrate how misaligned incentives can diffuse behavior that is formally compliant yet substantively harmful ref [15].",
+    "refNo": 14,
+    "title": "The normalization of deviance in healthcare delivery"
+  },
+  {
+    "sentence": "Research on normalization of deviance shows how unsafe accommodations become routine within complex organizations ref [14], while studies of institutional corruption demonstrate how misaligned incentives can diffuse behavior that is formally compliant yet substantively harmful ref [15].",
+    "refNo": 15,
+    "title": "Institutional Corruption and the Pharmaceutical Policy"
+  },
+  {
+    "sentence": "At the same time, patient experience data may also intersect with literal infection risk, since communication, teamwork, and safety culture are empirically linked to adverse outcomes ref [16].",
+    "refNo": 16,
+    "title": "Safety culture and patient outcomes in hospitals: a systematic review"
+  },
+  {
+    "sentence": "From a governmentality perspective, practices of measurement and evaluation help constitute what counts as “good” care, while simultaneously disciplining organizations and subjects through norms of visibility and comparison ref [17].",
+    "refNo": 17,
+    "title": "Governmentality"
+  },
+  {
+    "sentence": "The literature on normal accidents suggests that adverse outcomes are not always reducible to isolated errors, but may emerge from interactive complexity and organizational interdependence ref [18].",
+    "refNo": 18,
+    "title": "Normal Accidents: Living with High-Risk Technologies"
+  },
+  {
+    "sentence": "A systems view of patient safety similarly emphasizes latent conditions, feedback failures, and cross-level interactions, providing a strong rationale for reading survey signals as possible indicators of ecosystem-level “infection” rather than only local dissatisfaction ref [19].",
+    "refNo": 19,
+    "title": "From a safety-I to a safety-II perspective"
+  },
+  {
+    "sentence": "Audit and performance regimes can convert experience into simplified indicators that privilege managerial comparability over situated meaning ref [20].",
+    "refNo": 20,
+    "title": "The Audit Society: Rituals of Verification"
+  },
+  {
+    "sentence": "A critical analytical stance therefore treats surveys as politically and epistemically consequential instruments: valuable for detection, but always embedded in broader regimes of power, standardization, and unequal voice ref [17], ref [20], ref [21].",
+    "refNo": 17,
+    "title": "Governmentality"
+  },
+  {
+    "sentence": "A critical analytical stance therefore treats surveys as politically and epistemically consequential instruments: valuable for detection, but always embedded in broader regimes of power, standardization, and unequal voice ref [17], ref [20], ref [21].",
+    "refNo": 20,
+    "title": "The Audit Society: Rituals of Verification"
+  },
+  {
+    "sentence": "A critical analytical stance therefore treats surveys as politically and epistemically consequential instruments: valuable for detection, but always embedded in broader regimes of power, standardization, and unequal voice ref [17], ref [20], ref [21].",
+    "refNo": 21,
+    "title": "Structural Competency: Theorizing a New Medical Engagement with Stigma and Inequality"
+  },
+  {
+    "sentence": "The development of national instruments such as HCAHPS illustrates how survey data became embedded in governance infrastructures intended to inform consumer choice while also disciplining organizations through reputational comparison and formal performance monitoring ref [22].",
+    "refNo": 22,
+    "title": "The HCAHPS survey: its history, uses, and future in quality improvement"
+  },
+  {
+    "sentence": "Work on the Picker approach argued that patient reports should capture concrete experiences of care rather than undifferentiated satisfaction, thereby shifting governance attention toward communication, coordination, respect, and responsiveness as measurable domains of service performance ref [23].",
+    "refNo": 23,
+    "title": "The Picker Patient Experience Questionnaire: development and validation using data from in-patient surveys in five countries"
+  },
+  {
+    "sentence": "In this sense, surveys are not merely descriptive; they participate in constructing normative expectations about good care and in legitimating patient-centeredness as an evaluative standard within health systems ref [24].",
+    "refNo": 24,
+    "title": "Patient centredness in the design of responsive health care: a discussion paper"
+  },
+  {
+    "sentence": "Systematic review evidence shows substantial heterogeneity in concepts, instruments, and interpretive frameworks, which can make survey results difficult to compare and can encourage managerial simplification of complex experiences into headline scores ref [9].",
+    "refNo": 9,
+    "title": "Methods and representations of patient experience and satisfaction: results of a systematic review"
+  },
+  {
+    "sentence": "These features matter because survey findings are often used not only for local improvement but also for accountability, contracting, and policy decisions with material organizational consequences ref [25].",
+    "refNo": 25,
+    "title": "Public disclosure of performance data: impact on quality improvement activity in hospitals"
+  },
+  {
+    "sentence": "Comparative instrument work showed that these domains recur across national settings and are valued because patients can report them directly rather than infer technical quality ref [10].",
+    "refNo": 10,
+    "title": "Patients' reports of hospital care in England and The Netherlands: a comparison of two survey instruments"
+  },
+  {
+    "sentence": "CAHPS developers emphasized reports of concrete events—such as how often explanations were clear or help arrived promptly—alongside global ratings, partly to improve interpretability and actionability for quality improvement ref [11].",
+    "refNo": 11,
+    "title": "The CAHPS Hospital Survey: development, testing, and fielding"
+  },
+  {
+    "sentence": "Other instruments broaden the frame to include patient enablement or perceived capacity to understand and manage health after consultation, thereby linking communication quality to downstream capabilities rather than immediate satisfaction alone ref [26].",
+    "refNo": 26,
+    "title": "The development and preliminary validation of a new instrument to measure patient enablement"
+  },
+  {
+    "sentence": "Work on ambulatory safety has demonstrated that patients can identify breakdowns in diagnosis, medication use, test follow-up, and coordination that may be invisible in administrative data ref [27].",
+    "refNo": 27,
+    "title": "Patients' perceptions of ambulatory care safety in the United States"
+  },
+  {
+    "sentence": "At the same time, broader conceptions of responsiveness have highlighted autonomy, confidentiality, prompt attention, and choice as system properties with normative significance beyond clinical effectiveness ref [28].",
+    "refNo": 28,
+    "title": "Health systems responsiveness and associated factors in the World Health Survey"
+  },
+  {
+    "sentence": "Comparative work on CAHPS data showed that survey mode systematically alters scores even after case-mix adjustment, indicating that administration format can shape apparent performance differences between providers rather than simply measuring them ref [12].",
+    "refNo": 12,
+    "title": "Adjusting CAHPS scores for survey mode and patient mix"
+  },
+  {
+    "sentence": "Evidence from inpatient experience measurement across countries further suggests that instrument performance is intertwined with national organizational settings, sampling frames, and fieldwork procedures, making cross-system comparison sensitive to context as well as questionnaire content ref [10], ref [23].",
+    "refNo": 10,
+    "title": "Patients' reports of hospital care in England and The Netherlands: a comparison of two survey instruments"
+  },
+  {
+    "sentence": "Evidence from inpatient experience measurement across countries further suggests that instrument performance is intertwined with national organizational settings, sampling frames, and fieldwork procedures, making cross-system comparison sensitive to context as well as questionnaire content ref [10], ref [23].",
+    "refNo": 23,
+    "title": "The Picker Patient Experience Questionnaire: development and validation using data from in-patient surveys in five countries"
+  },
+  {
+    "sentence": "Practical guidance from the CAHPS literature emphasizes standardized administration protocols, attention to timing, and transparent reporting of mode effects as prerequisites for valid system-level inference ref [22].",
+    "refNo": 22,
+    "title": "The HCAHPS survey: its history, uses, and future in quality improvement"
+  },
+  {
+    "sentence": "This difference is consequential because satisfaction scores are often skewed upward and can obscure actionable variation, while experience reports are designed to be more behaviorally specific and comparable across settings ref [9], ref [29].",
+    "refNo": 9,
+    "title": "Methods and representations of patient experience and satisfaction: results of a systematic review"
+  },
+  {
+    "sentence": "This difference is consequential because satisfaction scores are often skewed upward and can obscure actionable variation, while experience reports are designed to be more behaviorally specific and comparable across settings ref [9], ref [29].",
+    "refNo": 29,
+    "title": "Patient satisfaction with health care"
+  },
+  {
+    "sentence": "In a widely cited review, Sitzia and Wood found major conceptual and methodological instability in satisfaction research, including inconsistent definitions and strong susceptibility to expectation effects ref [30].",
+    "refNo": 30,
+    "title": "Patient satisfaction: a review of issues and concepts"
+  },
+  {
+    "sentence": "By contrast, Cleary has emphasized that reports of concrete care events offer more interpretable signals about quality because they are less dependent on patients’ personal thresholds for what counts as acceptable care ref [31].",
+    "refNo": 31,
+    "title": "The increasing importance of patient surveys"
+  },
+  {
+    "sentence": "For governance purposes, treating experience and satisfaction as interchangeable risks narrowing what patient surveys are taken to know about quality and responsiveness ref [9], ref [31].",
+    "refNo": 9,
+    "title": "Methods and representations of patient experience and satisfaction: results of a systematic review"
+  },
+  {
+    "sentence": "For governance purposes, treating experience and satisfaction as interchangeable risks narrowing what patient surveys are taken to know about quality and responsiveness ref [9], ref [31].",
+    "refNo": 31,
+    "title": "The increasing importance of patient surveys"
+  },
+  {
+    "sentence": "Work on hospital survey design and reporting has shown that such aggregation can support quality improvement and public accountability, but only when sampling, response patterns, and unit-level reliability are explicitly addressed rather than treated as background conditions ref [11], ref [25].",
+    "refNo": 11,
+    "title": "The CAHPS Hospital Survey: development, testing, and fielding"
+  },
+  {
+    "sentence": "Work on hospital survey design and reporting has shown that such aggregation can support quality improvement and public accountability, but only when sampling, response patterns, and unit-level reliability are explicitly addressed rather than treated as background conditions ref [11], ref [25].",
+    "refNo": 25,
+    "title": "Public disclosure of performance data: impact on quality improvement activity in hospitals"
+  },
+  {
+    "sentence": "Psychometric and multilevel analyses of patient-reported experiences indicate that reliable discrimination across providers often depends on case-mix adjustment, adequate numbers of responses per unit, and attention to clustering effects; otherwise, apparent institutional differences may partly reflect patient composition or random variation rather than true performance ref [12], ref [23].",
+    "refNo": 12,
+    "title": "Adjusting CAHPS scores for survey mode and patient mix"
+  },
+  {
+    "sentence": "Psychometric and multilevel analyses of patient-reported experiences indicate that reliable discrimination across providers often depends on case-mix adjustment, adequate numbers of responses per unit, and attention to clustering effects; otherwise, apparent institutional differences may partly reflect patient composition or random variation rather than true performance ref [12], ref [23].",
+    "refNo": 23,
+    "title": "The Picker Patient Experience Questionnaire: development and validation using data from in-patient surveys in five countries"
+  },
+  {
+    "sentence": "Comparative work on health system responsiveness illustrates both the value and the limits of converting individual evaluations into cross-system judgments: patient reports can reveal otherwise hidden dimensions of access, dignity, and communication, yet their policy use depends on contested assumptions about comparability, representativeness, and the meaning of an average experience ref [28].",
+    "refNo": 28,
+    "title": "Health systems responsiveness and associated factors in the World Health Survey"
+  },
+  {
+    "sentence": "A large review of nonresponse in health surveys shows that declining participation can bias prevalence estimates and subgroup comparisons even when sample sizes remain large ref [32].",
+    "refNo": 32,
+    "title": "The problem of non-response in epidemiologic studies"
+  },
+  {
+    "sentence": "Comparisons of mailed questionnaires with telephone or mixed-mode administration have shown that response propensity and reported evaluations vary across modes, implying that between-provider differences may partly reflect survey operations rather than care quality ref [33].",
+    "refNo": 33,
+    "title": "Effect of survey mode on consumers' assessments of health care"
+  },
+  {
+    "sentence": "Likewise, evidence from population health surveys indicates that response rates are socially stratified and that weighting cannot fully repair missingness when nonrespondents differ on unobserved dimensions linked to experience or trust ref [34].",
+    "refNo": 34,
+    "title": "Variation in response rates to the EQ-5D postal survey by demographic characteristics, health status and area of residence"
+  },
+  {
+    "sentence": "Methodological studies of patient-satisfaction data have long cautioned that response bias, case-mix imbalance, and undercoverage can produce misleading league tables unless representativeness is treated as a substantive validity issue rather than a technical afterthought ref [29].",
+    "refNo": 29,
+    "title": "Patient satisfaction with health care"
+  },
+  {
+    "sentence": "Classic critiques showed that “satisfaction” in particular is normatively loaded, weakly specified, and highly vulnerable to shifting expectations, gratitude, and adaptation, making it an uncertain proxy for actual care quality or safety ref [30], ref [29].",
+    "refNo": 30,
+    "title": "Patient satisfaction: a review of issues and concepts"
+  },
+  {
+    "sentence": "Classic critiques showed that “satisfaction” in particular is normatively loaded, weakly specified, and highly vulnerable to shifting expectations, gratitude, and adaptation, making it an uncertain proxy for actual care quality or safety ref [30], ref [29].",
+    "refNo": 29,
+    "title": "Patient satisfaction with health care"
+  },
+  {
+    "sentence": "Cognitive testing work in CAHPS development emphasized that reports about whether a clinician listened carefully or explained medications are psychometrically and conceptually different from asking whether care was “excellent” or whether the patient was “satisfied” ref [11].",
+    "refNo": 11,
+    "title": "The CAHPS Hospital Survey: development, testing, and fielding"
+  },
+  {
+    "sentence": "Instruments designed around patient experiences and priorities also rest on distinct theories of what should count as valid evidence, as illustrated by the Picker approach, which privileges the occurrence of problems in specific domains rather than diffuse attitudinal approval ref [23].",
+    "refNo": 23,
+    "title": "The Picker Patient Experience Questionnaire: development and validation using data from in-patient surveys in five countries"
+  },
+  {
+    "sentence": "The review literature suggests that many instruments blend heterogeneous domains into summary scores, obscuring whether respondents are rating interpersonal respect, technical competence, access, outcomes, or organizational responsiveness ref [9].",
+    "refNo": 9,
+    "title": "Methods and representations of patient experience and satisfaction: results of a systematic review"
+  },
+  {
+    "sentence": "These pressures are particularly salient for global satisfaction items, which invite normative judgments and acquiescent responding rather than concrete reports of events, a distinction emphasized in classic work on patient satisfaction measurement ref [30].",
+    "refNo": 30,
+    "title": "Patient satisfaction: a review of issues and concepts"
+  },
+  {
+    "sentence": "Survey methodology research has long shown that question wording, reference periods, and response formats materially alter self-reports, while cognitive interviewing demonstrates that patients often interpret ostensibly straightforward questions in heterogeneous ways ref [35], ref [36].",
+    "refNo": 35,
+    "title": "The Psychology of Survey Response"
+  },
+  {
+    "sentence": "Survey methodology research has long shown that question wording, reference periods, and response formats materially alter self-reports, while cognitive interviewing demonstrates that patients often interpret ostensibly straightforward questions in heterogeneous ways ref [35], ref [36].",
+    "refNo": 36,
+    "title": "Cognitive Aspects of Survey Methodology: Building a Bridge between Disciplines"
+  },
+  {
+    "sentence": "Experimental evidence in survey research shows that subtle changes in question form can produce substantively different estimates ref [37].",
+    "refNo": 37,
+    "title": "Question and Questionnaire Design"
+  },
+  {
+    "sentence": "Comparative work on response styles shows that cultural groups differ systematically in acquiescence and extreme-response tendencies, which can distort cross-group and cross-system comparisons if scores are treated as directly commensurable ref [38].",
+    "refNo": 38,
+    "title": "Culture and response styles: Cross-cultural differences in ratings of likert scales"
+  },
+  {
+    "sentence": "Methodological guidance on cross-cultural adaptation emphasizes that equivalence must be semantic, experiential, and conceptual, not merely grammatical ref [39].",
+    "refNo": 39,
+    "title": "Guidelines for the process of cross-cultural adaptation of self-report measures"
+  },
+  {
+    "sentence": "Empirical reviews of differential item functioning similarly show that ostensibly identical patient-reported items can perform differently across racial/ethnic and language groups, meaning score gaps may partly reflect measurement noninvariance rather than true differences in experience ref [40].",
+    "refNo": 40,
+    "title": "Differential item functioning in patient reported outcomes: A qualitative literature review of design, analysis and presentation of results"
+  },
+  {
+    "sentence": "Work on structural competency is useful here because it locates survey responses within broader arrangements of stigma, bureaucracy, and inequality rather than individual preference alone ref [21].",
+    "refNo": 21,
+    "title": "Structural Competency: Theorizing a New Medical Engagement with Stigma and Inequality"
+  },
+  {
+    "sentence": "Longstanding critiques therefore caution against using single survey aggregates as proxies for overall performance or ecosystem “health” without stronger construct validation and triangulation with other data sources ref [29], ref [30].",
+    "refNo": 29,
+    "title": "Patient satisfaction with health care"
+  },
+  {
+    "sentence": "Longstanding critiques therefore caution against using single survey aggregates as proxies for overall performance or ecosystem “health” without stronger construct validation and triangulation with other data sources ref [29], ref [30].",
+    "refNo": 30,
+    "title": "Patient satisfaction: a review of issues and concepts"
+  },
+  {
+    "sentence": "In this sense, survey indicators can become targets whose administrative salience exceeds their epistemic precision, a dynamic consistent with broader critiques of audit cultures and indicator-driven governance ref [20], ref [25].",
+    "refNo": 20,
+    "title": "The Audit Society: Rituals of Verification"
+  },
+  {
+    "sentence": "In this sense, survey indicators can become targets whose administrative salience exceeds their epistemic precision, a dynamic consistent with broader critiques of audit cultures and indicator-driven governance ref [20], ref [25].",
+    "refNo": 25,
+    "title": "Public disclosure of performance data: impact on quality improvement activity in hospitals"
+  },
+  {
+    "sentence": "This more cautious approach is particularly important when survey findings are mobilized to infer systemic dysfunction, because complex service environments rarely reduce to a single metric without significant loss of meaning ref [7].",
+    "refNo": 7,
+    "title": "Complexity science: the challenge of complexity in health care"
+  },
+  {
+    "sentence": "Studies of adverse events have repeatedly identified communication breakdown among the most common contributing factors, not merely as isolated interpersonal lapses but as system properties embedded in routines, hierarchies, and fragmented workflows ref [41], ref [42].",
+    "refNo": 41,
+    "title": "Communication failures in patient sign-out and suggestions for improvement: a critical incident analysis"
+  },
+  {
+    "sentence": "Studies of adverse events have repeatedly identified communication breakdown among the most common contributing factors, not merely as isolated interpersonal lapses but as system properties embedded in routines, hierarchies, and fragmented workflows ref [41], ref [42].",
+    "refNo": 42,
+    "title": "Association between adverse events and death in hospital: negligent care, major adverse events and care pathways"
+  },
+  {
+    "sentence": "The discharge literature shows that information loss at transition points produces medication discrepancies, unmet follow-up, and patient confusion, creating downstream burdens for primary care, emergency departments, and family caregivers ref [43].",
+    "refNo": 43,
+    "title": "Reengineered hospital discharge: a randomized trial to reduce rehospitalization"
+  },
+  {
+    "sentence": "Work on resident sign-out similarly demonstrates that handoff quality shapes clinicians’ shared situation awareness, so communication deficits can spread uncertainty through subsequent teams rather than ending with the original sender ref [44].",
+    "refNo": 44,
+    "title": "Handoffs and patient safety: Grasping the story and painting a full picture"
+  },
+  {
+    "sentence": "Such reports can function as early indicators of systemic stress, revealing when communication infrastructures are no longer containing complexity but instead transmitting it across the health service ecosystem ref [43], ref [27].",
+    "refNo": 43,
+    "title": "Reengineered hospital discharge: a randomized trial to reduce rehospitalization"
+  },
+  {
+    "sentence": "Such reports can function as early indicators of systemic stress, revealing when communication infrastructures are no longer containing complexity but instead transmitting it across the health service ecosystem ref [43], ref [27].",
+    "refNo": 27,
+    "title": "Patients' perceptions of ambulatory care safety in the United States"
+  },
+  {
+    "sentence": "Work on high-risk systems shows that interactive complexity and tight coupling make small disruptions difficult to contain, allowing delays, workarounds, and latent hazards to migrate from one unit to another ref [18].",
+    "refNo": 18,
+    "title": "Normal Accidents: Living with High-Risk Technologies"
+  },
+  {
+    "sentence": "In health care, this dynamic is reinforced when production pressures normalize deviant practices, so that temporary exceptions harden into standard operating conditions and spread through teams and sites ref [14].",
+    "refNo": 14,
+    "title": "The normalization of deviance in healthcare delivery"
+  },
+  {
+    "sentence": "Emergency department crowding has been linked to worse timeliness and quality across the wider hospital, not only within the emergency department itself, indicating that congestion in one node can degrade downstream admissions, inpatient flow, and discharge processes ref [45].",
+    "refNo": 45,
+    "title": "The effect of emergency department crowding on clinically oriented outcomes"
+  },
+  {
+    "sentence": "More broadly, organizational accidents in hospitals arise from accumulations of system weaknesses rather than isolated individual errors, meaning that breakdown in one part of the service ecology often signals vulnerabilities elsewhere ref [46].",
+    "refNo": 46,
+    "title": "Organizational accidents: a revisit of the Bates et al. study"
+  },
+  {
+    "sentence": "Interpreted alongside operational data, such signals can help identify where dysfunction is propagating through the ecosystem before it becomes visible in severe outcomes or formal incident reports ref [46], ref [16].",
+    "refNo": 46,
+    "title": "Organizational accidents: a revisit of the Bates et al. study"
+  },
+  {
+    "sentence": "Interpreted alongside operational data, such signals can help identify where dysfunction is propagating through the ecosystem before it becomes visible in severe outcomes or formal incident reports ref [46], ref [16].",
+    "refNo": 16,
+    "title": "Safety culture and patient outcomes in hospitals: a systematic review"
+  },
+  {
+    "sentence": "Classic evidence shows that trust in physicians is strongly associated with adherence, continuity, and willingness to seek care, implying that its loss can amplify downstream risk through delayed presentation, selective non-disclosure, and avoidance of recommended services ref [47].",
+    "refNo": 47,
+    "title": "Trust in Physicians and Medical Institutions: What Is It, Can It Be Measured, and Does It Matter?"
+  },
+  {
+    "sentence": "Publicized quality signals and visible failures can trigger organization-level responses, but they also alter how patients interpret subsequent encounters, sometimes extending distrust from one unit or profession to a wider provider network ref [25].",
+    "refNo": 25,
+    "title": "Public disclosure of performance data: impact on quality improvement activity in hospitals"
+  },
+  {
+    "sentence": "This dynamic is intensified by informational cascades in social networks: emotionally salient negative accounts spread rapidly and can influence perceptions and behavior at scale, even when recipients have no direct exposure to the original event ref [48].",
+    "refNo": 48,
+    "title": "Experimental evidence of massive-scale emotional contagion through social networks"
+  },
+  {
+    "sentence": "In service settings, dissatisfaction and negative word of mouth are especially consequential because they travel across organizational boundaries and affect future demand, co-operation, and legitimacy ref [49].",
+    "refNo": 49,
+    "title": "A dynamic process model of service quality: from expectations to behavioral intentions"
+  },
+  {
+    "sentence": "Work on structural competency argues that clinical failures often originate upstream in housing, labor, policing, and welfare arrangements rather than at the point of care alone, making vulnerability a network property of the ecosystem rather than an attribute of isolated patients ref [21].",
+    "refNo": 21,
+    "title": "Structural Competency: Theorizing a New Medical Engagement with Stigma and Inequality"
+  },
+  {
+    "sentence": "In a large national study, disparities in care persisted within hospitals as well as between hospitals, indicating that vulnerable groups are not only concentrated in under-resourced settings but also experience different care trajectories inside the same institutions ref [50].",
+    "refNo": 50,
+    "title": "Racial and Ethnic Disparities in Quality of Care for Medicare Beneficiaries"
+  },
+  {
+    "sentence": "Related evidence from the unequal treatment literature demonstrates that clinician decision-making, stereotyping, and uncertainty can systematically degrade quality for racial and ethnic minorities ref [51].",
+    "refNo": 51,
+    "title": "Unequal Treatment: Confronting Racial and Ethnic Disparities in Health Care"
+  },
+  {
+    "sentence": "Social epidemiology also suggests that such experiences accumulate across the life course through embodiment and weathering, linking repeated service insults to broader patterns of morbidity and distrust ref [52].",
+    "refNo": 52,
+    "title": "Weathering and age patterns of allostatic load scores among blacks and whites in the United States"
+  },
+  {
+    "sentence": "Work on ambulatory safety reporting shows that patients can identify medication problems, test-result failures, and communication breakdowns that conventional surveillance often misses, making their reports useful as sentinel signals of strain propagating across settings rather than as mere reflections of individual dissatisfaction ref [27].",
+    "refNo": 27,
+    "title": "Patients' perceptions of ambulatory care safety in the United States"
+  },
+  {
+    "sentence": "Evidence from the Re-Engineered Discharge trial demonstrates that discharge communication quality is tightly linked to downstream utilization and rehospitalization, suggesting that patient-reported deterioration in transition experiences can mark broader instability in service coordination ref [43].",
+    "refNo": 43,
+    "title": "Reengineered hospital discharge: a randomized trial to reduce rehospitalization"
+  },
+  {
+    "sentence": "Similarly, qualitative work on patients' perspectives on safety in primary care shows that patients frequently notice near misses, access barriers, and relational discontinuities that precede more visible failures ref [53].",
+    "refNo": 53,
+    "title": "Patient-centered reporting of safety events in ambulatory care: a qualitative study"
+  },
+  {
+    "sentence": "Research on care transitions has shown that patients and caregivers often detect fragmented handoffs and missing accountability across providers, highlighting precisely the kinds of interdependencies through which dysfunction can spread ref [44].",
+    "refNo": 44,
+    "title": "Handoffs and patient safety: Grasping the story and painting a full picture"
+  },
+  {
+    "sentence": "This perspective aligns with complexity-informed accounts of health care, which emphasize nonlinearity, adaptation, and the limits of simple cause-effect attribution ref [7].",
+    "refNo": 7,
+    "title": "Complexity science: the challenge of complexity in health care"
+  },
+  {
+    "sentence": "Conceptual models of organizational accidents are helpful here because they show how adverse outcomes arise when local failures combine with deeper system weaknesses ref [54], while resilience-oriented work argues that analysis should also examine how systems usually succeed under variable conditions rather than focusing exclusively on breakdowns ref [55].",
+    "refNo": 54,
+    "title": "Organizational Accidents"
+  },
+  {
+    "sentence": "Conceptual models of organizational accidents are helpful here because they show how adverse outcomes arise when local failures combine with deeper system weaknesses ref [54], while resilience-oriented work argues that analysis should also examine how systems usually succeed under variable conditions rather than focusing exclusively on breakdowns ref [55].",
+    "refNo": 55,
+    "title": "From Safety-I to Safety-II: A White Paper"
+  },
+  {
+    "sentence": "This orientation is consistent with broader arguments that health systems should be understood as complex adaptive systems whose performance depends on relationships, learning, and adaptation over time ref [56].",
+    "refNo": 56,
+    "title": "Complex adaptive systems: Introduction to computational models of social life"
+  },
+  {
+    "sentence": "The systems engineering framework developed by Carayon and colleagues emphasizes that care quality and safety emerge from interactions among tasks, tools, physical environment, organizational conditions, and worker characteristics; patient-reported communication failures, delays, or coordination gaps can therefore be interpreted as downstream manifestations of work-system design rather than merely interpersonal shortcomings [1].",
+    "refNo": 1,
+    "title": "Service-dominant logic: continuing the evolution"
+  },
+  {
+    "sentence": "In street-level terms, frontline staff often cope with resource constraints through discretionary simplifications that may preserve throughput while degrading responsiveness or continuity in ways visible to patients [2].",
+    "refNo": 2,
+    "title": "Service ecosystems: A broadening and deepening of the concept of value co-creation"
+  },
+  {
+    "sentence": "At the same time, performance regimes can redirect effort toward auditable indicators and symbolic compliance, producing improvement in reported metrics without corresponding transformation of underlying care processes [3].",
+    "refNo": 3,
+    "title": "The service ecosystem as an essential framework for the healthcare services marketing literature"
+  },
+  {
+    "sentence": "The institutional logics perspective is useful here because organizations frequently navigate competing logics of professionalism, managerialism, and market accountability, each shaping how patient feedback is interpreted and whether it is translated into redesign, reassurance, or reputational management [4].",
+    "refNo": 4,
+    "title": "Value co-creation in health care service ecosystems: The case of improving well-being"
+  },
+  {
+    "sentence": "Classic network work shows that contagion can operate through direct contact, social reinforcement, and positional effects, making it useful for linking patient-reported experience to meso-level service conditions rather than reducing responses to individual preference alone (ref [59], ref [60]).",
+    "refNo": 59,
+    "title": "Collective dynamics of ‘small-world’ networks"
+  },
+  {
+    "sentence": "Classic network work shows that contagion can operate through direct contact, social reinforcement, and positional effects, making it useful for linking patient-reported experience to meso-level service conditions rather than reducing responses to individual preference alone (ref [59], ref [60]).",
+    "refNo": 60,
+    "title": "Threshold Models of Collective Behavior"
+  },
+  {
+    "sentence": "Studies of physician networks demonstrate that professional ties influence practice style and diffusion of clinical behavior, while social network analyses of hospital-acquired infection show that movement and contact patterns structure transmission risk across units and institutions (ref [61], ref [62]).",
+    "refNo": 61,
+    "title": "Peer influence in the diffusion of physician adoption of new drugs"
+  },
+  {
+    "sentence": "Studies of physician networks demonstrate that professional ties influence practice style and diffusion of clinical behavior, while social network analyses of hospital-acquired infection show that movement and contact patterns structure transmission risk across units and institutions (ref [61], ref [62]).",
+    "refNo": 62,
+    "title": "Patient movements and bed occupancy as determinants of methicillin-resistant Staphylococcus aureus transmission in hospitals"
+  },
+  {
+    "sentence": "Integrating network models with patient surveys therefore supports explanatory inference: it can identify whether poor reported experience signals isolated breakdowns, cascades along relational pathways, or system-wide fragility produced by highly connected but weakly coordinated service ecosystems (ref [60], ref [63]).",
+    "refNo": 60,
+    "title": "Threshold Models of Collective Behavior"
+  },
+  {
+    "sentence": "Integrating network models with patient surveys therefore supports explanatory inference: it can identify whether poor reported experience signals isolated breakdowns, cascades along relational pathways, or system-wide fragility produced by highly connected but weakly coordinated service ecosystems (ref [60], ref [63]).",
+    "refNo": 63,
+    "title": "The spread of behavior in an online social network experiment"
+  },
+  {
+    "sentence": "The broader quality-measurement literature has long argued for such complementary use of process, outcome, and experiential indicators ref [64].",
+    "refNo": 64,
+    "title": "Explaining Michigan Hospital Inpatient Mortality with Surgical, Nursing, and Financial Data"
+  },
+  {
+    "sentence": "Donabedian's framework remains useful here because it clarifies how patient experience may function both as an outcome in its own right and as an indicator of process quality embedded within structural constraints ref [65].",
+    "refNo": 65,
+    "title": "Evaluating the quality of medical care"
+  },
+  {
+    "sentence": "Work on patient safety similarly shows that latent organizational factors and frontline processes often require multiple data streams for adequate inference ref [66].",
+    "refNo": 66,
+    "title": "Error in medicine"
+  },
+  {
+    "sentence": "Studies of trigger tools and chart review demonstrate that records themselves incompletely detect harm, and that measured adverse-event rates depend strongly on the method of ascertainment ref [67], ref [68].",
+    "refNo": 67,
+    "title": "The Institute for Healthcare Improvement Global Trigger Tool for measuring adverse events"
+  },
+  {
+    "sentence": "Studies of trigger tools and chart review demonstrate that records themselves incompletely detect harm, and that measured adverse-event rates depend strongly on the method of ascertainment ref [67], ref [68].",
+    "refNo": 68,
+    "title": "Temporary harm to hospitalized patients: identifying incident rates and characteristics"
+  },
+  {
+    "sentence": "Donabedian’s classic structure–process–outcome formulation remains useful here because it frames survey responses as potentially downstream indicators of care processes and organizational arrangements rather than isolated satisfaction signals ref [65].",
+    "refNo": 65,
+    "title": "Evaluating the quality of medical care"
+  },
+  {
+    "sentence": "Aday and Andersen’s model of access to medical care is especially helpful for organizing these determinants across predisposing, enabling, and need-related factors ref [69].",
+    "refNo": 69,
+    "title": "A framework for the study of access to medical care"
+  },
+  {
+    "sentence": "More generally, causal diagrams can clarify which variables should be adjusted for, which should be interpreted as mediators, and where selection bias may distort inference ref [70].",
+    "refNo": 70,
+    "title": "Causal diagrams for epidemiologic research"
+  },
+  {
+    "sentence": "This orientation aligns with realist evaluation, which seeks to explain what works, for whom, and under what circumstances by identifying context–mechanism–outcome configurations ref [71].",
+    "refNo": 71,
+    "title": "Realistic Evaluation"
+  },
+  {
+    "sentence": "Nonresponse is rarely random; it is patterned by social disadvantage, illness burden, and survey accessibility, so aggregate results can systematically underrepresent groups already marginalized in care ref [32], ref [34].",
+    "refNo": 32,
+    "title": "The problem of non-response in epidemiologic studies"
+  },
+  {
+    "sentence": "Nonresponse is rarely random; it is patterned by social disadvantage, illness burden, and survey accessibility, so aggregate results can systematically underrepresent groups already marginalized in care ref [32], ref [34].",
+    "refNo": 34,
+    "title": "Variation in response rates to the EQ-5D postal survey by demographic characteristics, health status and area of residence"
+  },
+  {
+    "sentence": "Work on trust in physicians and medical institutions suggests that voice is inseparable from confidence about how information will be used; patients may withhold, soften, or strategically frame responses when they fear retaliation, futility, or misuse ref [47].",
+    "refNo": 47,
+    "title": "Trust in Physicians and Medical Institutions: What Is It, Can It Be Measured, and Does It Matter?"
+  },
+  {
+    "sentence": "The Institute of Medicine’s Unequal Treatment documented persistent racial and ethnic disparities in health care that are not reducible to need or preferences ref [51].",
+    "refNo": 51,
+    "title": "Unequal Treatment: Confronting Racial and Ethnic Disparities in Health Care"
+  },
+  {
+    "sentence": "Experience from public reporting shows that performance data can stimulate organizational quality-improvement activity, but effects are uneven and depend on how intelligible, credible, and actionable the measures are to managers and clinicians ref [25].",
+    "refNo": 25,
+    "title": "Public disclosure of performance data: impact on quality improvement activity in hospitals"
+  },
+  {
+    "sentence": "In the United States, HCAHPS was explicitly designed to support standardized comparisons, public reporting, and payment reform, thereby converting patient reports into a component of hospital governance ref [22].",
+    "refNo": 22,
+    "title": "The HCAHPS survey: its history, uses, and future in quality improvement"
+  },
+  {
+    "sentence": "Evidence from English hospitals likewise suggests that collecting and feeding back patient-experience data can support quality-improvement work, although impact varies by organizational capacity and leadership engagement ref [31].",
+    "refNo": 31,
+    "title": "The increasing importance of patient surveys"
+  },
+  {
+    "sentence": "Donabedian’s framework remains useful here: patient surveys often function as process and outcome indicators of responsiveness, communication, and respect, but should not be treated as self-sufficient proxies for overall quality ref [65].",
+    "refNo": 65,
+    "title": "Evaluating the quality of medical care"
+  },
+  {
+    "sentence": "This danger is amplified when performance metrics are interpreted without adequate attention to social context, institutional constraint, and case-mix differences, reproducing the broader dynamics of audit and verification rather than illuminating causes of poor experience ref [20], ref [58].",
+    "refNo": 20,
+    "title": "The Audit Society: Rituals of Verification"
+  },
+  {
+    "sentence": "This danger is amplified when performance metrics are interpreted without adequate attention to social context, institutional constraint, and case-mix differences, reproducing the broader dynamics of audit and verification rather than illuminating causes of poor experience ref [20], ref [58].",
+    "refNo": 58,
+    "title": "Street-Level Bureaucracy: Dilemmas of the Individual in Public Services"
+  },
+  {
+    "sentence": "Longstanding evidence shows that racial and ethnic disparities in care are shaped by structural inequities rather than individual preference alone, so lower experience scores may register the effects of exclusion while also exposing already disadvantaged groups to further stigmatization if they are framed as \"difficult\" or \"noncompliant\" respondents ref [51].",
+    "refNo": 51,
+    "title": "Unequal Treatment: Confronting Racial and Ethnic Disparities in Health Care"
+  },
+  {
+    "sentence": "Work on structural competency is useful here: it shifts interpretation away from blaming patients or front-line institutions and toward the economic, policy, and social arrangements that pattern both care experiences and the data collected about them ref [21].",
+    "refNo": 21,
+    "title": "Structural Competency: Theorizing a New Medical Engagement with Stigma and Inequality"
+  },
+  {
+    "sentence": "Without such safeguards, measurement intended to surface harm can instead intensify reputational contagion, discourage care for high-need groups, and deepen inequities across already stratified health systems ref [20], ref [21].",
+    "refNo": 20,
+    "title": "The Audit Society: Rituals of Verification"
+  },
+  {
+    "sentence": "Without such safeguards, measurement intended to surface harm can instead intensify reputational contagion, discourage care for high-need groups, and deepen inequities across already stratified health systems ref [20], ref [21].",
+    "refNo": 21,
+    "title": "Structural Competency: Theorizing a New Medical Engagement with Stigma and Inequality"
+  },
+  {
+    "sentence": "A systems perspective such as SEIPS links patient-reported communication failures, discharge confusion, or coordination problems to interacting features of tasks, technologies, teams, and organizational conditions, helping organizations specify whether the appropriate response is workflow redesign, staffing change, training, or information support rather than generic exhortation ref [57].",
+    "refNo": 57,
+    "title": "Work system design for patient safety: the SEIPS model"
+  },
+  {
+    "sentence": "Realist evaluation is particularly helpful because the same survey-identified problem may require different remedies across settings; it asks what works, for whom, and under what circumstances ref [71].",
+    "refNo": 71,
+    "title": "Realistic Evaluation"
+  },
+  {
+    "sentence": "This is consistent with broader evidence that quality-improvement interventions are more likely to succeed when adapted to local barriers and facilitators instead of being implemented as uniform packages ref [72].",
+    "refNo": 72,
+    "title": "Tailored interventions to overcome identified barriers to change: effects on professional practice and health care outcomes"
+  },
+  {
+    "sentence": "Patient-reported improvements may not track automatically with clinical safety or utilization, as shown by discharge redesign efforts that improved transitional care and reduced subsequent acute use through targeted, multi-component changes ref [43].",
+    "refNo": 43,
+    "title": "Reengineered hospital discharge: a randomized trial to reduce rehospitalization"
+  },
+  {
+    "sentence": "Advances in survey methodology suggest value in mixed-mode administration, cognitive testing across diverse populations, and designs that explicitly account for response styles and item interpretation rather than assuming comparability by default (ref [37], ref [38]).",
+    "refNo": 37,
+    "title": "Question and Questionnaire Design"
+  },
+  {
+    "sentence": "Advances in survey methodology suggest value in mixed-mode administration, cognitive testing across diverse populations, and designs that explicitly account for response styles and item interpretation rather than assuming comparability by default (ref [37], ref [38]).",
+    "refNo": 38,
+    "title": "Culture and response styles: Cross-cultural differences in ratings of likert scales"
+  },
+  {
+    "sentence": "The PROMIS initiative demonstrates how item banks and computerized adaptive testing can improve precision while reducing respondent burden, offering a model for modular survey systems that can be linked to quality dashboards and longitudinal monitoring (ref [73]).",
+    "refNo": 73,
+    "title": "The Patient-Reported Outcomes Measurement Information System (PROMIS): progress of an NIH Roadmap cooperative group during its first two years"
+  },
+  {
+    "sentence": "At the same time, methodological work on differential item functioning underscores that greater precision must be paired with routine equity auditing so that comparisons across language, cultural, and social groups are not artifacts of measurement bias (ref [40]).",
+    "refNo": 40,
+    "title": "Differential item functioning in patient reported outcomes: A qualitative literature review of design, analysis and presentation of results"
+  },
+  {
+    "sentence": "Future systems will therefore need co-design with patients and communities, transparent governance over data use, and validation strategies that preserve trust while supporting rapid-cycle learning and implementation (ref [63]).",
+    "refNo": 63,
+    "title": "The spread of behavior in an online social network experiment"
+  }
+]

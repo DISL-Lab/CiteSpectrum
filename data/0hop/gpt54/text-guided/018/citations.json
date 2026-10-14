@@ -1,0 +1,1502 @@
+[
+  {
+    "sentence": "AI's algorithms were attributed to the availability of big data and the efficiency of modern computing criteria that is provided lately ref [1].",
+    "refNo": 1,
+    "title": "Deep learning",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Beside the CNN as a supervised machine leaning algorithm in medical imaging, there are a few unsupervised learning algorithms for this purpose as well, such as Deep Belief Networks (DBNs), Autoencoders, and Generative Adversarial Networks (GANs) ref [3], where the last has been used for not only performing the image-based tasks but as a data synthesis and augmentation too.",
+    "refNo": 3,
+    "title": "A fast learning algorithm for deep belief nets",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Unsupervised learning models have been used for different medical imaging applications, such as motion tracking [17] general modeling, classification improvement [18], artifact reduction [19], and medical image registration [20].",
+    "refNo": 17,
+    "title": "Auto-encoding variational bayes",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Unsupervised learning models have been used for different medical imaging applications, such as motion tracking [17] general modeling, classification improvement [18], artifact reduction [19], and medical image registration [20].",
+    "refNo": 18,
+    "title": "Triple generative adversarial nets",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Unsupervised learning models have been used for different medical imaging applications, such as motion tracking [17] general modeling, classification improvement [18], artifact reduction [19], and medical image registration [20].",
+    "refNo": 19,
+    "title": "ADN: artifact disentanglement network for unsupervised metal artifact reduction",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Unsupervised learning models have been used for different medical imaging applications, such as motion tracking [17] general modeling, classification improvement [18], artifact reduction [19], and medical image registration [20].",
+    "refNo": 20,
+    "title": "Unsupervised deformable registration for multi-modal images via disentangled representations",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "In this section, we will list the mostly used unsupervised learning structures. [21,22] are an unsupervised deep learning algorithm by which this model refers to the important features of an input data and dismisses the other data ref [1].",
+    "refNo": 21,
+    "title": "Learning from simulated and unsupervised images through adversarial training",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "In this section, we will list the mostly used unsupervised learning structures. [21,22] are an unsupervised deep learning algorithm by which this model refers to the important features of an input data and dismisses the other data ref [1].",
+    "refNo": 22,
+    "title": "Visual feature attribution using wasserstein GANs",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "In this section, we will list the mostly used unsupervised learning structures. [21,22] are an unsupervised deep learning algorithm by which this model refers to the important features of an input data and dismisses the other data ref [1].",
+    "refNo": 1,
+    "title": "Deep learning",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "These important representations of features are called 'codings' where it is commonly called represen-tation learning ref [1].",
+    "refNo": 1,
+    "title": "Deep learning",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "The robustness of autoencoders stems from the ability to reconstruct output data, which is similar to the input data, because it has cost function which applies penalties to the model when the output and input data are different ref [1].",
+    "refNo": 1,
+    "title": "Deep learning",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Moreover, autoencoders are considered as an automatic features detector, because they do not need labeled data to learn from due to the unsupervised manner ref [1].",
+    "refNo": 1,
+    "title": "Deep learning",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Autoencoders architecture is similar to a formal CNN model ref [2], but with the feature is that the number of input neurons must be equal to the number in the output layer.",
+    "refNo": 2,
+    "title": "Backpropagation applied to handwritten zip code recognition",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Reducing dimensionality of the raw input data is one of the features of autoencoders, and in some cases, autoencoders are used for denoising purpose [23], where this autoencoders are called denoising autoencoders ref [1].",
+    "refNo": 23,
+    "title": "Models genesis: generic autodidactic models for 3D medical image analysis",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Reducing dimensionality of the raw input data is one of the features of autoencoders, and in some cases, autoencoders are used for denoising purpose [23], where this autoencoders are called denoising autoencoders ref [1].",
+    "refNo": 1,
+    "title": "Deep learning",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "In general, there are few kinds of autoencoders used for different purposes, we mention here the common autoencoders, for example, Sparse Autoencoders [24] where the neurons in the hidden layer are deactivated through a threshold which means limiting the activated neurons to get a representation in the output similar to the input where for extracting most of the features from the input, most of the hidden layer neurons should be set to zero ref [1].",
+    "refNo": 24,
+    "title": "Semi-supervised medical image classification with relation-driven self-ensembling model",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "In general, there are few kinds of autoencoders used for different purposes, we mention here the common autoencoders, for example, Sparse Autoencoders [24] where the neurons in the hidden layer are deactivated through a threshold which means limiting the activated neurons to get a representation in the output similar to the input where for extracting most of the features from the input, most of the hidden layer neurons should be set to zero ref [1].",
+    "refNo": 1,
+    "title": "Deep learning",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Variational autoencoders (VAEs) [25] are generative model with two networks (Encoder and Decoder) where the encoder network projects the input into latent representation using Gaussian distribution approximation, and the decoder network maps the latent representations into the output data ref [1].",
+    "refNo": 25,
+    "title": "Going to extremes: weakly supervised medical image segmentation",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Variational autoencoders (VAEs) [25] are generative model with two networks (Encoder and Decoder) where the encoder network projects the input into latent representation using Gaussian distribution approximation, and the decoder network maps the latent representations into the output data ref [1].",
+    "refNo": 1,
+    "title": "Deep learning",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Contractive autoencoders [26] and adversarial autoencoders are mostly similar to a Generative Adversarial Network (GAN) ref [1].",
+    "refNo": 26,
+    "title": "Weakly-supervised convolutional neural networks for multimodal image registration",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "Contractive autoencoders [26] and adversarial autoencoders are mostly similar to a Generative Adversarial Network (GAN) ref [1].",
+    "refNo": 1,
+    "title": "Deep learning",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Weak supervision is basically a branch of machine learning used to label unlabeled data by exploiting noisy, limited sources to provide supervision signal that is responsible of labeling large amount of training data using supervised manner ref [1].",
+    "refNo": 1,
+    "title": "Deep learning",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "In general, the new labeled data in \"weakly-supervised learning\" are imperfect, but it can be used to create a robust predictive model ref [1].",
+    "refNo": 1,
+    "title": "Deep learning",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "The weakly supervised method uses image-level annotations and weak annotations (e.g., dots and scribbles) [50].",
+    "refNo": 50,
+    "title": "Segmentation of fetal left ventricle in echocardiographic sequences based on dynamic convolutional neural networks",
+    "marker_text": "[50]"
+  },
+  {
+    "sentence": "Weakly supervised multi-label disease system was used for classification task of chest X-ray [51], Also, it is used for multi-organ segmentation, [52] by learning single multi-class network from a combination of multiple datasets, where each one of these datasets contains partially organ labeled data and low sample size.",
+    "refNo": 51,
+    "title": "DeepOrgan: multi-level deep convolutional networks for automated pancreas segmentation",
+    "marker_text": "[51]"
+  },
+  {
+    "sentence": "Weakly supervised multi-label disease system was used for classification task of chest X-ray [51], Also, it is used for multi-organ segmentation, [52] by learning single multi-class network from a combination of multiple datasets, where each one of these datasets contains partially organ labeled data and low sample size.",
+    "refNo": 52,
+    "title": "Deep vessel tracking: a generalized probabilistic approach via deep learning Aaron Wu",
+    "marker_text": "[52]"
+  },
+  {
+    "sentence": "Roth et al. [53] have used weakly supervised learning system for medical image segmentation and their results has speeded up the process of generating new training dataset used for the development purpose of deep learning in medical images analysis, often relying on segmentation backbones such as U-Net ref [8].",
+    "refNo": 53,
+    "title": "Quantitative MRI radiomics in the prediction of molecular classifications of breast cancer subtypes in the TCGA/ TCIA data set",
+    "marker_text": "[53]"
+  },
+  {
+    "sentence": "Roth et al. [53] have used weakly supervised learning system for medical image segmentation and their results has speeded up the process of generating new training dataset used for the development purpose of deep learning in medical images analysis, often relying on segmentation backbones such as U-Net ref [8].",
+    "refNo": 8,
+    "title": "U-Net: convolutional networks for biomedical image segmentation",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Schleg et al. [54] have used this type of deep learning approach to detect abnormal regions from test images.",
+    "refNo": 54,
+    "title": "Prediction of clinical phenotypes in invasive breast carcinomas from the integration of radiomics and genomics data",
+    "marker_text": "[54]"
+  },
+  {
+    "sentence": "Hu et al. [55] proposed an end-to-end CNN approach for displacement field prediction to align multiple labeled corresponding structures, and the proposed work was used for medical image registration of prostate cancer from T2-weighted MRI and 3D transrectal ultrasound images; the results reached 0.87 of Mean Dice score.",
+    "refNo": 55,
+    "title": "MR imaging radiomics signatures for predicting the risk of breast cancer recurrence as given by research versions of MammaPrint, Oncotype DX, and PAM50 Gene assays",
+    "marker_text": "[55]"
+  },
+  {
+    "sentence": "Another application is applied in diabetic retinopathy detection in a retinal image dataset [56].",
+    "refNo": 56,
+    "title": "Disease staging and prognosis in smokers using deep learning in chest computed tomography",
+    "marker_text": "[56]"
+  },
+  {
+    "sentence": "Deep learning in medical imaging ref [13] is the contemporary scope of AI which has the top breakthroughs in numerous scientific domains including computer vision ref [9], Natural Language Processing (NLP) ref [10] and chemical structure analysis, where deep learning is specialized with highly complicated processes.",
+    "refNo": 13,
+    "title": "Deep learning in medical imaging and radiation therapy",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Deep learning in medical imaging ref [13] is the contemporary scope of AI which has the top breakthroughs in numerous scientific domains including computer vision ref [9], Natural Language Processing (NLP) ref [10] and chemical structure analysis, where deep learning is specialized with highly complicated processes.",
+    "refNo": 9,
+    "title": "Learning to read chest x-rays: recurrent neural cascade model for automated image annotation",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Deep learning in medical imaging ref [13] is the contemporary scope of AI which has the top breakthroughs in numerous scientific domains including computer vision ref [9], Natural Language Processing (NLP) ref [10] and chemical structure analysis, where deep learning is specialized with highly complicated processes.",
+    "refNo": 10,
+    "title": "A deep RNN for CT image reconstruction",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Lately due to deep learning robustness while dealing with images, it has attracted big interest in medical imaging ref [13], and it holds big promising future for this field.",
+    "refNo": 13,
+    "title": "Deep learning in medical imaging and radiation therapy",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Analyzing these data especially historical data by learning very complex mathematical models and extracting meaningful information is the key feature where DL scheme outperformed humans ref [13].",
+    "refNo": 13,
+    "title": "Deep learning in medical imaging and radiation therapy",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "In other words, DL framework will not replace the doctors, but it will assist them in decision-making and it will enhance the accuracy of the final diagnosis analysis ref [13].",
+    "refNo": 13,
+    "title": "Deep learning in medical imaging and radiation therapy",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "GANs ref [14] were first introduced by Ian Goodfellow in 2014; it consists basically on a combination of two CNN networks: the first one is called Generative model and another is the discriminator model.",
+    "refNo": 14,
+    "title": "Deep residual inception encoder-decoder network for medical imaging synthesis",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Recently, we have seen tremendous usage of GANs for different applications in medical imaging such as, synthetic images for generating new images and enhance the deep learning models efficiency by increasing the number of training images in the dataset ref [14], classification ref [4,5], detection ref [9], segmentation ref [3,6], image-to-image translation ref [14], and other application too.",
+    "refNo": 14,
+    "title": "Deep residual inception encoder-decoder network for medical imaging synthesis",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Recently, we have seen tremendous usage of GANs for different applications in medical imaging such as, synthetic images for generating new images and enhance the deep learning models efficiency by increasing the number of training images in the dataset ref [14], classification ref [4,5], detection ref [9], segmentation ref [3,6], image-to-image translation ref [14], and other application too.",
+    "refNo": 4,
+    "title": "Very deep convolutional networks for large-scale image recognition",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Recently, we have seen tremendous usage of GANs for different applications in medical imaging such as, synthetic images for generating new images and enhance the deep learning models efficiency by increasing the number of training images in the dataset ref [14], classification ref [4,5], detection ref [9], segmentation ref [3,6], image-to-image translation ref [14], and other application too.",
+    "refNo": 5,
+    "title": "Rethinking the inception architecture for computer vision",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Recently, we have seen tremendous usage of GANs for different applications in medical imaging such as, synthetic images for generating new images and enhance the deep learning models efficiency by increasing the number of training images in the dataset ref [14], classification ref [4,5], detection ref [9], segmentation ref [3,6], image-to-image translation ref [14], and other application too.",
+    "refNo": 9,
+    "title": "Learning to read chest x-rays: recurrent neural cascade model for automated image annotation",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Recently, we have seen tremendous usage of GANs for different applications in medical imaging such as, synthetic images for generating new images and enhance the deep learning models efficiency by increasing the number of training images in the dataset ref [14], classification ref [4,5], detection ref [9], segmentation ref [3,6], image-to-image translation ref [14], and other application too.",
+    "refNo": 3,
+    "title": "A fast learning algorithm for deep belief nets",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Recently, we have seen tremendous usage of GANs for different applications in medical imaging such as, synthetic images for generating new images and enhance the deep learning models efficiency by increasing the number of training images in the dataset ref [14], classification ref [4,5], detection ref [9], segmentation ref [3,6], image-to-image translation ref [14], and other application too.",
+    "refNo": 6,
+    "title": "Inception-v4, inception-ResNet and the impact of residual connections on learning",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Recently, we have seen tremendous usage of GANs for different applications in medical imaging such as, synthetic images for generating new images and enhance the deep learning models efficiency by increasing the number of training images in the dataset ref [14], classification ref [4,5], detection ref [9], segmentation ref [3,6], image-to-image translation ref [14], and other application too.",
+    "refNo": 14,
+    "title": "Deep residual inception encoder-decoder network for medical imaging synthesis",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "In a study by Kazeminia et al. [36], they have listed all the applications of GANs in medical imaging and the most two used applications of this unsupervised models are image synthesis and segmentation ref [14].",
+    "refNo": 36,
+    "title": "Anniversary paper: history and status of CAD and quantitative image analysis: the role of medical physics and AAPM",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "In a study by Kazeminia et al. [36], they have listed all the applications of GANs in medical imaging and the most two used applications of this unsupervised models are image synthesis and segmentation ref [14].",
+    "refNo": 14,
+    "title": "Deep residual inception encoder-decoder network for medical imaging synthesis",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Al Walid et al. [57] have used reinforcement learning for landmark localization in 3D medical images; they have introduced the partial policy-based RL, by learning optimal policy of smaller partial domains; in this paper, the proposed method was used on three different localization task in 3D-CT scans and MR images and proved that learning the optimal behavior requires significantly smaller number of trials.",
+    "refNo": 57,
+    "title": "A deep learning-based radiomics model for prediction of survival in Glioblastoma Multiforme",
+    "marker_text": "[57]"
+  },
+  {
+    "sentence": "Also in [58], RL was used for object detection PET images.",
+    "refNo": 58,
+    "title": "Urinary bladder cancer staging in CT urography using machine learning",
+    "marker_text": "[58]"
+  },
+  {
+    "sentence": "RL was also used for color image classification on neuromorphic system [59].",
+    "refNo": 59,
+    "title": "Applying artificial intelligence to disease staging: deep learning for improved staging of diabetic retinopathy",
+    "marker_text": "[59]"
+  },
+  {
+    "sentence": "There are plenty of medical image types, and selecting the type depends on the usage, in a study which was held in US [4], it was found that there are some basic and widely used modalities of these medical images which also have increased, and these modalities are Magnetic Resonance Images (MRI), Computed Tomography (CT) scans, and Positron Emission Tomography (PET) to be on the top and some other common modalities like, X-ray, Ultrasound, and histology slides.",
+    "refNo": 4,
+    "title": "Very deep convolutional networks for large-scale image recognition",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Axkley et al. were the first to introduce the Boltzmann machines in 1985 [37], Fig. 3, also known as Gibbs distribution, and further Smolensky has modified it to be known as Restricted Boltzmann Machines (RBMs) [38].",
+    "refNo": 37,
+    "title": "Breast image analysis for risk assessment, detection, diagnosis, and treatment of cancer",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "Axkley et al. were the first to introduce the Boltzmann machines in 1985 [37], Fig. 3, also known as Gibbs distribution, and further Smolensky has modified it to be known as Restricted Boltzmann Machines (RBMs) [38].",
+    "refNo": 38,
+    "title": "Densely connected convolutional networks",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "RBMs consist on two layers of neural networks with stochastic, generative, and probabilistic capabilities, and they can learn probability distributions and internal representations from the dataset, in line with later representation-learning and generative-modeling developments such as stacked denoising autoencoders ref [16], variational autoencoders ref [17], and denoising adversarial autoencoders ref [15].",
+    "refNo": 16,
+    "title": "Stacked denoising autoencoders: learning useful representations in a deep network with a local denoising criterion",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "RBMs consist on two layers of neural networks with stochastic, generative, and probabilistic capabilities, and they can learn probability distributions and internal representations from the dataset, in line with later representation-learning and generative-modeling developments such as stacked denoising autoencoders ref [16], variational autoencoders ref [17], and denoising adversarial autoencoders ref [15].",
+    "refNo": 17,
+    "title": "Auto-encoding variational bayes",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "RBMs consist on two layers of neural networks with stochastic, generative, and probabilistic capabilities, and they can learn probability distributions and internal representations from the dataset, in line with later representation-learning and generative-modeling developments such as stacked denoising autoencoders ref [16], variational autoencoders ref [17], and denoising adversarial autoencoders ref [15].",
+    "refNo": 15,
+    "title": "Denoising adversarial autoencoders",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "These unsupervised models are used mostly for dimensionality reduction, filtering, classification, and features representation learning ref [16] ref [17].",
+    "refNo": 16,
+    "title": "Stacked denoising autoencoders: learning useful representations in a deep network with a local denoising criterion",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "These unsupervised models are used mostly for dimensionality reduction, filtering, classification, and features representation learning ref [16] ref [17].",
+    "refNo": 17,
+    "title": "Auto-encoding variational bayes",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "In medical imaging, Tulder et al. [39] have modified the RBMs and introduced a novel convolutional RBMs for lung tissue classification using CT scan images; they have extracted the features using different methodologies (generative, discriminative, or mixed) to construct the filters; after that, Random Forest (RF) classifier was used for the classification objective.",
+    "refNo": 39,
+    "title": "Going deep in medical image analysis: concepts, methods, challenges, and future directions",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "Ultimately, a stacked version of RBMs is called Deep Belief Networks (DBNs) [40].",
+    "refNo": 40,
+    "title": "Textural features for image classification",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "Each RBM model performs non-linear transformation which will again be the input for the next RBM model; performing this process progressively gives the network a lot of flexibility while expansion, similar in spirit to deep stacked representation learning ref [16].",
+    "refNo": 16,
+    "title": "Stacked denoising autoencoders: learning useful representations in a deep network with a local denoising criterion",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Transfer learning is one of the powerful enablers of deep learning [60], which involves training a deep leaning model by re-using of a an already trained model with related or un-related large dataset.",
+    "refNo": 60,
+    "title": "Predicting survival after hepatocellular carcinoma resection using deep learning on histological slides",
+    "marker_text": "[60]"
+  },
+  {
+    "sentence": "It is known that medical data face the problem of lacking and insufficient for training deep learning models perfectly, so Transfer learning can provide the CNN models with large learned features from non-medical images which in turn can be useful for this case [61], and this motivation is closely related to data-efficient representation learning and unsupervised or adversarial pretraining strategies ref [15] ref [16] ref [21].",
+    "refNo": 61,
+    "title": "Classification of histopathological images for early detection of breast cancer using deep learning",
+    "marker_text": "[61]"
+  },
+  {
+    "sentence": "It is known that medical data face the problem of lacking and insufficient for training deep learning models perfectly, so Transfer learning can provide the CNN models with large learned features from non-medical images which in turn can be useful for this case [61], and this motivation is closely related to data-efficient representation learning and unsupervised or adversarial pretraining strategies ref [15] ref [16] ref [21].",
+    "refNo": 15,
+    "title": "Denoising adversarial autoencoders",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "It is known that medical data face the problem of lacking and insufficient for training deep learning models perfectly, so Transfer learning can provide the CNN models with large learned features from non-medical images which in turn can be useful for this case [61], and this motivation is closely related to data-efficient representation learning and unsupervised or adversarial pretraining strategies ref [15] ref [16] ref [21].",
+    "refNo": 16,
+    "title": "Stacked denoising autoencoders: learning useful representations in a deep network with a local denoising criterion",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "It is known that medical data face the problem of lacking and insufficient for training deep learning models perfectly, so Transfer learning can provide the CNN models with large learned features from non-medical images which in turn can be useful for this case [61], and this motivation is closely related to data-efficient representation learning and unsupervised or adversarial pretraining strategies ref [15] ref [16] ref [21].",
+    "refNo": 21,
+    "title": "Learning from simulated and unsupervised images through adversarial training",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "For these reasons, transfer learning was widely used in medical imaging, for example a classification of the interstitial lung disease [61] and detecting the thoraco-abdominal lymph nodes from CT scans; it was found that transfer learning is efficient, even though the disparity between the medical images and natural images.",
+    "refNo": 61,
+    "title": "Classification of histopathological images for early detection of breast cancer using deep learning",
+    "marker_text": "[61]"
+  },
+  {
+    "sentence": "Transfer learning as well could be used for different CNN models (e.g., VGG-16, Resnet-50, and Inception-V3), Xue et al. [62], have developed transfer learning-based model for these models, and furthermore, they have proposed an Ensembled Transfer Learning (ETL) framework for classification enhancement of cervical histopathological images.",
+    "refNo": 62,
+    "title": "Medical image classification based on deep features extracted by deep model and statistic feature fusion with multilayer perceptron",
+    "marker_text": "[62]"
+  },
+  {
+    "sentence": "Overall, in many computer vision tasks, tuning the last classification layers (fully connected layers) which is called \"shallow tuning\" is probably efficient, but in medical imaging, a deep tuning for more layers is needed [63], where they have studied the benefit of using transfer learning in four applications within three imaging modalities (polyp detection from colonoscopy videos, segmentation of the layers of carotid artery wall from ultrasound scans, and colonoscopy video frame classification), their study results found that training more CNN layers on the medical images is efficient more than training from the scratch.",
+    "refNo": 63,
+    "title": "PAM-DenseNet: a deep convolutional neural network for computer-aided COVID-19 diagnosis",
+    "marker_text": "[63]"
+  },
+  {
+    "sentence": "In a broader representation-learning and generative-modeling context for medical imaging, related advances include variational inference-based latent representations ref [17], semi-supervised adversarial learning ref [18], disentangled artifact modeling for metal artifact reduction ref [19], disentangled representations for multi-modal deformable registration ref [20], learning from simulated and unsupervised images through adversarial training ref [21], and GAN-based visual feature attribution ref [22].",
+    "refNo": 17,
+    "title": "Auto-encoding variational bayes",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "In a broader representation-learning and generative-modeling context for medical imaging, related advances include variational inference-based latent representations ref [17], semi-supervised adversarial learning ref [18], disentangled artifact modeling for metal artifact reduction ref [19], disentangled representations for multi-modal deformable registration ref [20], learning from simulated and unsupervised images through adversarial training ref [21], and GAN-based visual feature attribution ref [22].",
+    "refNo": 18,
+    "title": "Triple generative adversarial nets",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "In a broader representation-learning and generative-modeling context for medical imaging, related advances include variational inference-based latent representations ref [17], semi-supervised adversarial learning ref [18], disentangled artifact modeling for metal artifact reduction ref [19], disentangled representations for multi-modal deformable registration ref [20], learning from simulated and unsupervised images through adversarial training ref [21], and GAN-based visual feature attribution ref [22].",
+    "refNo": 19,
+    "title": "ADN: artifact disentanglement network for unsupervised metal artifact reduction",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "In a broader representation-learning and generative-modeling context for medical imaging, related advances include variational inference-based latent representations ref [17], semi-supervised adversarial learning ref [18], disentangled artifact modeling for metal artifact reduction ref [19], disentangled representations for multi-modal deformable registration ref [20], learning from simulated and unsupervised images through adversarial training ref [21], and GAN-based visual feature attribution ref [22].",
+    "refNo": 20,
+    "title": "Unsupervised deformable registration for multi-modal images via disentangled representations",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "In a broader representation-learning and generative-modeling context for medical imaging, related advances include variational inference-based latent representations ref [17], semi-supervised adversarial learning ref [18], disentangled artifact modeling for metal artifact reduction ref [19], disentangled representations for multi-modal deformable registration ref [20], learning from simulated and unsupervised images through adversarial training ref [21], and GAN-based visual feature attribution ref [22].",
+    "refNo": 21,
+    "title": "Learning from simulated and unsupervised images through adversarial training",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "In a broader representation-learning and generative-modeling context for medical imaging, related advances include variational inference-based latent representations ref [17], semi-supervised adversarial learning ref [18], disentangled artifact modeling for metal artifact reduction ref [19], disentangled representations for multi-modal deformable registration ref [20], learning from simulated and unsupervised images through adversarial training ref [21], and GAN-based visual feature attribution ref [22].",
+    "refNo": 22,
+    "title": "Visual feature attribution using wasserstein GANs",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Medical imaging ref [29] is a field by which is specialized in observing and analyzing the physical status of the human body by generating visual representations like images of internal tissues or some organs of the body through either invasive or non-invasive procedure.",
+    "refNo": 29,
+    "title": "Deep convolutional neural networks for computer-aided detection: CNN architectures, dataset characteristics and transfer learning",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "After representation learning, it is fine-tuned using annotated data ref [23].",
+    "refNo": 23,
+    "title": "Models genesis: generic autodidactic models for 3D medical image analysis",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "The benefit of self-supervised learning is that it eliminates the need of humans to label the data, where this system extracts the visibly natural relevant context from the data and assign metadata with the representations as supervisory signals ref [23].",
+    "refNo": 23,
+    "title": "Models genesis: generic autodidactic models for 3D medical image analysis",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "The genesis model of this system can retrieve the original image from a distorted image (e.g., non-linear gray-value transformation, image inpainting, image out-painting, and pixels shuffle) using proxy task ref [23].",
+    "refNo": 23,
+    "title": "Models genesis: generic autodidactic models for 3D medical image analysis",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Zhu et al. ref [23] have used self-supervised learning and its proxy task to solve Rubik's cube which mainly contain three operations (rotating, masking, and ordering) the robustness of this model comes from that the network is robust to noise and it learns features that are invariant to rotation and translation.",
+    "refNo": 23,
+    "title": "Models genesis: generic autodidactic models for 3D medical image analysis",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Shekoofeh et al. ref [24] have exploited the effectiveness of selfsupervised learning in pre-training strategy used to classify medical images for tow tasks (dermatology skin condition classification, and multi-label chest X-ray classification).",
+    "refNo": 24,
+    "title": "Semi-supervised medical image classification with relation-driven self-ensembling model",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Their study has improved the classification accuracy after using two self-supervised learning systems: the first one is trained on ImageNet dataset and the second one is trained on unlabeled domain specific medical images ref [24].",
+    "refNo": 24,
+    "title": "Semi-supervised medical image classification with relation-driven self-ensembling model",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Convolutional Neural Networks (CNNs) based models are usually used in different ways with keeping in minds that CNNs remains the heart of any model; in general, CNN could be trained on the available dataset from the scratch when the available dataset is very large to perform a specific task (e.g., segmentation, classification, detection, etc.), or a pre-trained model with a large dataset (e.g., ImageNet) where this model could be used to train new datasets (e.g., CT scans) with fine-tuning some layers only; this approach is called transfer learning (TL) ref [28], ref [29], ref [30].",
+    "refNo": 28,
+    "title": "A survey on transfer learning",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Convolutional Neural Networks (CNNs) based models are usually used in different ways with keeping in minds that CNNs remains the heart of any model; in general, CNN could be trained on the available dataset from the scratch when the available dataset is very large to perform a specific task (e.g., segmentation, classification, detection, etc.), or a pre-trained model with a large dataset (e.g., ImageNet) where this model could be used to train new datasets (e.g., CT scans) with fine-tuning some layers only; this approach is called transfer learning (TL) ref [28], ref [29], ref [30].",
+    "refNo": 29,
+    "title": "Deep convolutional neural networks for computer-aided detection: CNN architectures, dataset characteristics and transfer learning",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Convolutional Neural Networks (CNNs) based models are usually used in different ways with keeping in minds that CNNs remains the heart of any model; in general, CNN could be trained on the available dataset from the scratch when the available dataset is very large to perform a specific task (e.g., segmentation, classification, detection, etc.), or a pre-trained model with a large dataset (e.g., ImageNet) where this model could be used to train new datasets (e.g., CT scans) with fine-tuning some layers only; this approach is called transfer learning (TL) ref [28], ref [29], ref [30].",
+    "refNo": 30,
+    "title": "Convolutional neural networks for medical image analysis: full training or fine tuning?",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "Moreover, CNN models could be used for feature extraction only from the input images with more representation power before proceeding to the next stage of processing these features ref [29], ref [30].",
+    "refNo": 29,
+    "title": "Deep convolutional neural networks for computer-aided detection: CNN architectures, dataset characteristics and transfer learning",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Moreover, CNN models could be used for feature extraction only from the input images with more representation power before proceeding to the next stage of processing these features ref [29], ref [30].",
+    "refNo": 30,
+    "title": "Convolutional neural networks for medical image analysis: full training or fine tuning?",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "In the literature, there were commonly used CNN models which has proven their effectiveness, and based on these models, some developments have arisen; we will mention the most efficient and used models of deep learning in medical images analysis ref [29].",
+    "refNo": 29,
+    "title": "Deep convolutional neural networks for computer-aided detection: CNN architectures, dataset characteristics and transfer learning",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "First, it was AlexNet which was introduced by Alex Krizhevsky and Siyuan Lu et al. ref [29], have used transfer learning with a pre-trained AlexNet with replacing the parameters of the last three layers with a random parameters for pathological brain detection ref [29], ref [30].",
+    "refNo": 29,
+    "title": "Deep convolutional neural networks for computer-aided detection: CNN architectures, dataset characteristics and transfer learning",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "First, it was AlexNet which was introduced by Alex Krizhevsky and Siyuan Lu et al. ref [29], have used transfer learning with a pre-trained AlexNet with replacing the parameters of the last three layers with a random parameters for pathological brain detection ref [29], ref [30].",
+    "refNo": 29,
+    "title": "Deep convolutional neural networks for computer-aided detection: CNN architectures, dataset characteristics and transfer learning",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "First, it was AlexNet which was introduced by Alex Krizhevsky and Siyuan Lu et al. ref [29], have used transfer learning with a pre-trained AlexNet with replacing the parameters of the last three layers with a random parameters for pathological brain detection ref [29], ref [30].",
+    "refNo": 30,
+    "title": "Convolutional neural networks for medical image analysis: full training or fine tuning?",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "Another frequently used model is Visual Geometry Group (VGG-16) ref [29] where 16 refers to the number of layers; later on, some developments were proposed for VGG-16 like VGG-19; in ref [29], they have listed medical imaging applications using different VGGNet architectures.",
+    "refNo": 29,
+    "title": "Deep convolutional neural networks for computer-aided detection: CNN architectures, dataset characteristics and transfer learning",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Another frequently used model is Visual Geometry Group (VGG-16) ref [29] where 16 refers to the number of layers; later on, some developments were proposed for VGG-16 like VGG-19; in ref [29], they have listed medical imaging applications using different VGGNet architectures.",
+    "refNo": 29,
+    "title": "Deep convolutional neural networks for computer-aided detection: CNN architectures, dataset characteristics and transfer learning",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Inception Network ref [29] is one of the most common CNN architectures which aim to limit the resources consumption.",
+    "refNo": 29,
+    "title": "Deep convolutional neural networks for computer-aided detection: CNN architectures, dataset characteristics and transfer learning",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "And further modifications on this basic network were reported with new versions of it ref [29].",
+    "refNo": 29,
+    "title": "Deep convolutional neural networks for computer-aided detection: CNN architectures, dataset characteristics and transfer learning",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Gao et al. ref [31] have proposed a new architecture of Residual Inception Encoder-Decoder Neural Network (RIEDNet) for medical images synthesis.",
+    "refNo": 31,
+    "title": "An improved DenseNet method based on transfer learning for fundus medical images",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "Later on, Inception network was called Google Net ref [29].",
+    "refNo": 29,
+    "title": "Deep convolutional neural networks for computer-aided detection: CNN architectures, dataset characteristics and transfer learning",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "ResNet ref [29] is a powerful architecture for very deep architectures sometimes over than 100 layers, and it helps in limiting the loss of gradient in the deeper layers, because it adds residual connections between some convolutional layers Fig. 4.",
+    "refNo": 29,
+    "title": "Deep convolutional neural networks for computer-aided detection: CNN architectures, dataset characteristics and transfer learning",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Some of ResNet models in medical imaging are mostly used for robust classification ref [29], ref [31], for pulmonary nodes and intracranial hemorrhage.",
+    "refNo": 29,
+    "title": "Deep convolutional neural networks for computer-aided detection: CNN architectures, dataset characteristics and transfer learning",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Some of ResNet models in medical imaging are mostly used for robust classification ref [29], ref [31], for pulmonary nodes and intracranial hemorrhage.",
+    "refNo": 31,
+    "title": "An improved DenseNet method based on transfer learning for fundus medical images",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "Weak supervision and data-efficient learning are also important in medical imaging because obtaining dense annotations is expensive and time-consuming ref [25], ref [26], ref [27].",
+    "refNo": 25,
+    "title": "Going to extremes: weakly supervised medical image segmentation",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Weak supervision and data-efficient learning are also important in medical imaging because obtaining dense annotations is expensive and time-consuming ref [25], ref [26], ref [27].",
+    "refNo": 26,
+    "title": "Weakly-supervised convolutional neural networks for multimodal image registration",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "Weak supervision and data-efficient learning are also important in medical imaging because obtaining dense annotations is expensive and time-consuming ref [25], ref [26], ref [27].",
+    "refNo": 27,
+    "title": "Weakly supervised classification of medical images",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "Weakly supervised classification of medical images has been studied using limited image-level supervision ref [27], while weakly-supervised convolutional neural networks have also been used for multimodal image registration ref [26].",
+    "refNo": 27,
+    "title": "Weakly supervised classification of medical images",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "Weakly supervised classification of medical images has been studied using limited image-level supervision ref [27], while weakly-supervised convolutional neural networks have also been used for multimodal image registration ref [26].",
+    "refNo": 26,
+    "title": "Weakly-supervised convolutional neural networks for multimodal image registration",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "In segmentation, going to extremes with weak supervision has been explored to reduce annotation burden while still achieving useful performance ref [25].",
+    "refNo": 25,
+    "title": "Going to extremes: weakly supervised medical image segmentation",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Semi-supervised medical image classification with relation-driven self-ensembling model has also been proposed as a data-efficient alternative when only a small portion of labeled data is available ref [24].",
+    "refNo": 24,
+    "title": "Semi-supervised medical image classification with relation-driven self-ensembling model",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Overall, transfer learning, self-supervision, semi-supervision, and weak supervision provide practical solutions for medical image analysis when annotated datasets are limited ref [23], ref [24], ref [25], ref [26], ref [27], ref [28], ref [29], ref [30], ref [31].",
+    "refNo": 23,
+    "title": "Models genesis: generic autodidactic models for 3D medical image analysis",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Overall, transfer learning, self-supervision, semi-supervision, and weak supervision provide practical solutions for medical image analysis when annotated datasets are limited ref [23], ref [24], ref [25], ref [26], ref [27], ref [28], ref [29], ref [30], ref [31].",
+    "refNo": 24,
+    "title": "Semi-supervised medical image classification with relation-driven self-ensembling model",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Overall, transfer learning, self-supervision, semi-supervision, and weak supervision provide practical solutions for medical image analysis when annotated datasets are limited ref [23], ref [24], ref [25], ref [26], ref [27], ref [28], ref [29], ref [30], ref [31].",
+    "refNo": 25,
+    "title": "Going to extremes: weakly supervised medical image segmentation",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Overall, transfer learning, self-supervision, semi-supervision, and weak supervision provide practical solutions for medical image analysis when annotated datasets are limited ref [23], ref [24], ref [25], ref [26], ref [27], ref [28], ref [29], ref [30], ref [31].",
+    "refNo": 26,
+    "title": "Weakly-supervised convolutional neural networks for multimodal image registration",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "Overall, transfer learning, self-supervision, semi-supervision, and weak supervision provide practical solutions for medical image analysis when annotated datasets are limited ref [23], ref [24], ref [25], ref [26], ref [27], ref [28], ref [29], ref [30], ref [31].",
+    "refNo": 27,
+    "title": "Weakly supervised classification of medical images",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "Overall, transfer learning, self-supervision, semi-supervision, and weak supervision provide practical solutions for medical image analysis when annotated datasets are limited ref [23], ref [24], ref [25], ref [26], ref [27], ref [28], ref [29], ref [30], ref [31].",
+    "refNo": 28,
+    "title": "A survey on transfer learning",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Overall, transfer learning, self-supervision, semi-supervision, and weak supervision provide practical solutions for medical image analysis when annotated datasets are limited ref [23], ref [24], ref [25], ref [26], ref [27], ref [28], ref [29], ref [30], ref [31].",
+    "refNo": 29,
+    "title": "Deep convolutional neural networks for computer-aided detection: CNN architectures, dataset characteristics and transfer learning",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Overall, transfer learning, self-supervision, semi-supervision, and weak supervision provide practical solutions for medical image analysis when annotated datasets are limited ref [23], ref [24], ref [25], ref [26], ref [27], ref [28], ref [29], ref [30], ref [31].",
+    "refNo": 30,
+    "title": "Convolutional neural networks for medical image analysis: full training or fine tuning?",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "Overall, transfer learning, self-supervision, semi-supervision, and weak supervision provide practical solutions for medical image analysis when annotated datasets are limited ref [23], ref [24], ref [25], ref [26], ref [27], ref [28], ref [29], ref [30], ref [31].",
+    "refNo": 31,
+    "title": "An improved DenseNet method based on transfer learning for fundus medical images",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "Where basically Convolutional Neural Networks (CNN) ref [4] is used in images and specifically in medical images.",
+    "refNo": 4,
+    "title": "Very deep convolutional networks for large-scale image recognition",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "CNN is known to be hungry for data, so it is the most suitable methodology for images, and the recent developments in hardware specifications and GPUs have helped a lot in performing CNN algorithms for medical image analysis ref [4].",
+    "refNo": 4,
+    "title": "Very deep convolutional networks for large-scale image recognition",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "The generalized formulation of how CNN work was proposed by Lecun et al. [9], where they have used the error backpropagation for the first example of digits hand written recognition.",
+    "refNo": 9,
+    "title": "Learning to read chest x-rays: recurrent neural cascade model for automated image annotation",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Ultimately, CNNs have been the predominant architecture among all other algorithms which belong to AI, and the number of research of CNN has increased especially in medical images analysis and many new modalities have been proposed ref [4].",
+    "refNo": 4,
+    "title": "Very deep convolutional networks for large-scale image recognition",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Nie et al. [47] have proposed semi-supervised learning-based deep network for image segmentation, the proposed method trains adversarially a segmentation model, from the confidence map is computed, and the semi-supervised learning strategy is used to generate labeled data ref [32].",
+    "refNo": 47,
+    "title": "V-Net: fully convolutional neural networks for volumetric medical image segmentation",
+    "marker_text": "[47]"
+  },
+  {
+    "sentence": "Nie et al. [47] have proposed semi-supervised learning-based deep network for image segmentation, the proposed method trains adversarially a segmentation model, from the confidence map is computed, and the semi-supervised learning strategy is used to generate labeled data ref [32].",
+    "refNo": 32,
+    "title": "Threat of adversarial attacks on deep learning in computer vision: a survey",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "Another application of semisupervised learning is used for cardiac MRI segmentation, ref [32].",
+    "refNo": 32,
+    "title": "Threat of adversarial attacks on deep learning in computer vision: a survey",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "Liu et al. [49] have presented a novel relation-driven semi-supervised model to classify medical images, they have introduced a novel Sample Relation Consistency (SRC) paradigm to use unlabeled data by generalizing and modeling the relationship information between different samples; in their experiment, they have applied the novel method on two benchmark medical images for classification, skin lesion diagnosis from ISIC 2018 challenge, and thorax disease classification from the publicly dataset ChestX-ray14, and the results have achieved the state-ofthe-art criteria ref [4].",
+    "refNo": 49,
+    "title": "Automated anatomical landmark detection ondistal femur surface using convolutional neural network",
+    "marker_text": "[49]"
+  },
+  {
+    "sentence": "Liu et al. [49] have presented a novel relation-driven semi-supervised model to classify medical images, they have introduced a novel Sample Relation Consistency (SRC) paradigm to use unlabeled data by generalizing and modeling the relationship information between different samples; in their experiment, they have applied the novel method on two benchmark medical images for classification, skin lesion diagnosis from ISIC 2018 challenge, and thorax disease classification from the publicly dataset ChestX-ray14, and the results have achieved the state-ofthe-art criteria ref [4].",
+    "refNo": 4,
+    "title": "Very deep convolutional networks for large-scale image recognition",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Deep learning is used to segment different body structures from different imaging modalities such as, MRI, CT scans, PET, and ultrasound images ref [14].",
+    "refNo": 14,
+    "title": "Deep residual inception encoder-decoder network for medical imaging synthesis",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Segmentation means portioning an image into different segments where usually these segments belongs to specific classes (tissue classes, organ, or biological structure) ref [34].",
+    "refNo": 34,
+    "title": "Deep semantic segmentation of natural and medical images: a review",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "In general overview, for CNN models, there are two main approaches for segmenting a medical image; the first is using the entire image as an input and the second is using patches from the image ref [14].",
+    "refNo": 14,
+    "title": "Deep residual inception encoder-decoder network for medical imaging synthesis",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Segmentation process of Liver tumor using CNN architecture is shown in Fig. 7 according to Li et al., and both the methods work well in generating an output map which provides Fig. 4 The basic models used in medical imaging: A ResNet architecture, B U-Net architecture, C CNN AlexNet architecture for breast cancer ref [37], and D Dense Net architecture ref [38] the segmented output image.",
+    "refNo": 37,
+    "title": "Breast image analysis for risk assessment, detection, diagnosis, and treatment of cancer",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "Segmentation process of Liver tumor using CNN architecture is shown in Fig. 7 according to Li et al., and both the methods work well in generating an output map which provides Fig. 4 The basic models used in medical imaging: A ResNet architecture, B U-Net architecture, C CNN AlexNet architecture for breast cancer ref [37], and D Dense Net architecture ref [38] the segmented output image.",
+    "refNo": 38,
+    "title": "Densely connected convolutional networks",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Segmentation is potential for surgical planning and determining the exact boundaries of sub-regions (e.g., tumor tissues) for better guidance during the direct surgery resection ref [36].",
+    "refNo": 36,
+    "title": "Anniversary paper: history and status of CAD and quantitative image analysis: the role of medical physics and AAPM",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "Most likely segmentation is common in neuroimaging field and with brain segmentation more than other organs in the body ref [14].",
+    "refNo": 14,
+    "title": "Deep residual inception encoder-decoder network for medical imaging synthesis",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Akkus et al. have reviewed different DL models for segmentation of different organs with their datasets ref [34].",
+    "refNo": 34,
+    "title": "Deep semantic segmentation of natural and medical images: a review",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "Since CNN architecture can handle both 2-dimensional and 3-dimensional images, it is considered suitable for MRI which is in 3D scheme ref [14]; Milleteria et al. have used 3D MRI images and applier 3D-CNN for segmenting prostate images.",
+    "refNo": 14,
+    "title": "Deep residual inception encoder-decoder network for medical imaging synthesis",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "From clinical point of view, segmentation of organs is used for calculating clinical parameters (e.g., volume) and improving the performance of Computer-Aided Detection (CAD) to define the regions accurately ref [36].",
+    "refNo": 36,
+    "title": "Anniversary paper: history and status of CAD and quantitative image analysis: the role of medical physics and AAPM",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "Taghanaki et al. have listed the segmentation challenges from 2007 to 2020 with different imaging modalities ref [34]; Fig. 8 shows the number of these challenges.",
+    "refNo": 34,
+    "title": "Deep semantic segmentation of natural and medical images: a review",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "Prognosis and staging refer to the future prediction of a disease status for example after cancer identification, further treatment process through biopsies which give a track on the stage, molecular type, and genomics which finally provides information about prognosis and the further treatment process and options ref [14].",
+    "refNo": 14,
+    "title": "Deep residual inception encoder-decoder network for medical imaging synthesis",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Since most of the cancers are spatially heterogeneous, specialists and radiologists are interested about the information on spatial variations that medical imaging can provide ref [37].",
+    "refNo": 37,
+    "title": "Breast image analysis for risk assessment, detection, diagnosis, and treatment of cancer",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "Brain (Survival) CNN-S with transfer learning Multiparametric MRI (112 patients the size and another simple enhancement procedures; therefore, the current investigators are more interested in including radiomic features and extending the knowledge from medical images ref [14].",
+    "refNo": 14,
+    "title": "Deep residual inception encoder-decoder network for medical imaging synthesis",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Some deep learning analysis have been investigated in cancerous tumors for prognosis and staging ref [37].",
+    "refNo": 37,
+    "title": "Breast image analysis for risk assessment, detection, diagnosis, and treatment of cancer",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "The goal of prognosis is to analyze the medical images (MRI or ultrasound) of cancer and get the better presentation of it by gaining the prognostic biomarkers from the phenotypes of the image (e.g., size, margin morphology, texture, shape, kinetics, and variance kinetics) ref [16].",
+    "refNo": 16,
+    "title": "Stacked denoising autoencoders: learning useful representations in a deep network with a local denoising criterion",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "For example, Li et al. found that texture phenotype enhancement can characterize the tumor pattern from MRI, which lead to prediction of the molecular classification of the breast cancers; in other words, the computer-extracted phenotypes provide promises regarding the quality of the breast cancer subtypes' discrimination which leads to distinct quantitative prediction in terms of the precise medicine ref [37].",
+    "refNo": 37,
+    "title": "Breast image analysis for risk assessment, detection, diagnosis, and treatment of cancer",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "Moreover, with the enhancement of the texture entropy, the vascular uptake pattern related to the tumor became heterogeneous which in turn reflects the heterogeneous temperament of the angiogenesis and the treatment process applicability and this is termed as the virtual digital biopsy location based ref [16].",
+    "refNo": 16,
+    "title": "Stacked denoising autoencoders: learning useful representations in a deep network with a local denoising criterion",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Gonzalez et al. have applied DL on thoracic CT scans for prediction of staging of chronic obstructive pulmonary disease (COPD) ref [35].",
+    "refNo": 35,
+    "title": "Multisource transfer learning with convolutional neural networks for lung pattern analysis",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "Hidenori et al. have used CNN model for grading diabetic retinopathy and determining the treatment and prognosis which involves a non-typically visualized on fundoscopy of retinal area; their novel AI system suggests treatment and determines prognoses ref [14].",
+    "refNo": 14,
+    "title": "Deep residual inception encoder-decoder network for medical imaging synthesis",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Another term related to staging and prognosis is survival prediction and disease outcome, Skrede et al. have performed DL using a large dataset over 12 million pathology images to predict the survival outcome for colorectal cancer in its early stages, a common evaluation metric is Hazard function which indicate the risk measures of a patient after treatment, and their results yield a hazard ration of 3.84 for poor against good prognosis in the validation set cohort of 1122 patients, and a hazard ratio of 3.04 after adjusting for prognostic markers which contain T and N stages ref [14], and Sillard et al. used deep learning for predicting survival outcomes after hepatocellular carcinoma resection ref [14].",
+    "refNo": 14,
+    "title": "Deep residual inception encoder-decoder network for medical imaging synthesis",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Another term related to staging and prognosis is survival prediction and disease outcome, Skrede et al. have performed DL using a large dataset over 12 million pathology images to predict the survival outcome for colorectal cancer in its early stages, a common evaluation metric is Hazard function which indicate the risk measures of a patient after treatment, and their results yield a hazard ration of 3.84 for poor against good prognosis in the validation set cohort of 1122 patients, and a hazard ratio of 3.04 after adjusting for prognostic markers which contain T and N stages ref [14], and Sillard et al. used deep learning for predicting survival outcomes after hepatocellular carcinoma resection ref [14].",
+    "refNo": 14,
+    "title": "Deep residual inception encoder-decoder network for medical imaging synthesis",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Anatomical structure detection is a crucial task in medical images analysis due to determining the locations of organs substructures and landmarks which in turn guide for better organ segmentation and radiotherapy planning for analysis and further surgical purposes ref [41], ref [42].",
+    "refNo": 41,
+    "title": "Scalable high-performance image registration framework by unsupervised deep feature representations learning",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "Anatomical structure detection is a crucial task in medical images analysis due to determining the locations of organs substructures and landmarks which in turn guide for better organ segmentation and radiotherapy planning for analysis and further surgical purposes ref [41], ref [42].",
+    "refNo": 42,
+    "title": "A CNN regression approach for real-time 2D/3D registration",
+    "marker_text": "[42]"
+  },
+  {
+    "sentence": "Deep learning for organ or lesion detection can be either classification-based or regression-based methods; the first one is used for discriminating body parts, while the second method is used for determining more detailed locations information ref [42].",
+    "refNo": 42,
+    "title": "A CNN regression approach for real-time 2D/3D registration",
+    "marker_text": "[42]"
+  },
+  {
+    "sentence": "In fact, most of the deep learning pathologies are connected; for example, Yang et al. [114] have proposed a custom CNN classifier for locating landmarks which is the initialization steps for the femur bone segmentation.",
+    "refNo": 114,
+    "title": "",
+    "marker_text": "[114]"
+  },
+  {
+    "sentence": "Some CNN custom models were developed specifically for lesion detection [115,116].",
+    "refNo": 115,
+    "title": "",
+    "marker_text": "[115]"
+  },
+  {
+    "sentence": "Some CNN custom models were developed specifically for lesion detection [115,116].",
+    "refNo": 116,
+    "title": "",
+    "marker_text": "[116]"
+  },
+  {
+    "sentence": "When using 3D volumes like MRI, it is better to use patches fashion, because it is more efficient than sliding window fashion, so in this way, the whole CNN architecture will be trained using patches before the fully connected layer, [117].",
+    "refNo": 117,
+    "title": "",
+    "marker_text": "[117]"
+  },
+  {
+    "sentence": "Basically, after COVID-19 has been identified in 31 December 2019 [210] and it is based on polymerase chain reaction (PCR) test.",
+    "refNo": 210,
+    "title": "",
+    "marker_text": "[210]"
+  },
+  {
+    "sentence": "Simpson et al. [211], have prospected a potential use of CT scans for clinical managing, and eventually, they have proposed four standard categories for reporting COVID-19 languages.",
+    "refNo": 211,
+    "title": "",
+    "marker_text": "[211]"
+  },
+  {
+    "sentence": "Mahmood et al. [212] have studied 12,270 patients and recommend to be subjected for CT screening for early detection of COVID-19 to limit the speedy spread of the disease.",
+    "refNo": 212,
+    "title": "",
+    "marker_text": "[212]"
+  },
+  {
+    "sentence": "For the identification of COVID-19, Pereira et al. [152] have flowed using chest X-ray scans using the portable manner.",
+    "refNo": 152,
+    "title": "",
+    "marker_text": "[152]"
+  },
+  {
+    "sentence": "For the comparison of different screening methods, it was suggested by Soldati et al. [213], which stated the Lung Ultrasound (LUS) is needed to be compared with chest X-ray and CT scans to help designing better diagnostic system to be suitable for the technological resources.",
+    "refNo": 213,
+    "title": "",
+    "marker_text": "[213]"
+  },
+  {
+    "sentence": "Starting with segmentation, a new proposed system for screening coronavirus disease was done by Butt et al. [214], who have employed 3D-CNN architecture for segmenting multiple volumes of CT scans; a classification step is included to categorize patches into COVID-19 from other pneumonia diseases, such as influenza and a viral pneumonia.",
+    "refNo": 214,
+    "title": "",
+    "marker_text": "[214]"
+  },
+  {
+    "sentence": "Wang et al. [215] have performed their CNN model on chest X-ray images, for extracting the feature map, classification, regression, and finally the needed mask for segmentation.",
+    "refNo": 215,
+    "title": "",
+    "marker_text": "[215]"
+  },
+  {
+    "sentence": "Another DL model using chest X-ray scans was introduced by Murphy et al. [108], using U-Net architecture for detecting of tuberculosis and finally classifying images, with AUC of 0.81.",
+    "refNo": 108,
+    "title": "",
+    "marker_text": "[108]"
+  },
+  {
+    "sentence": "For the detection of COVID-19, Li et al. [124] have developed a new tool of deep learning to detect COVID-19 from CT scans; the main work consists of few steps starting from extracting the lungs as ROI using U-Net, then generating features using ResNet-50, and finally using fully connected layer for generating the probability score of COVID-19 and the final results have reported AUC of 0.96.",
+    "refNo": 124,
+    "title": "",
+    "marker_text": "[124]"
+  },
+  {
+    "sentence": "Another COVID-19 detection system from X-rays and CT scans was proposed by Kassani et al. [126], who have used multiple models for their strategy, DenseNet 121 have achieved accuracy of 99%, and REsNet achieved accuracy of 98% after being trained by LightGBM, and also, they have used other backbone models such as MobileNet, Xception, and Inception-ResNet-V2,NASNe, and VGG-Net.",
+    "refNo": 126,
+    "title": "",
+    "marker_text": "[126]"
+  },
+  {
+    "sentence": "For classification of COVID-19, Wu et al. [150] have used the fusion of DL networks, starting from segmenting lung regions using thresholdbased method using CT scans, next using ResNet-50 to extract the features map which further is fed to fully connected layer to record AUC of 0.732 and 70% accuracy.",
+    "refNo": 150,
+    "title": "",
+    "marker_text": "[150]"
+  },
+  {
+    "sentence": "Ardakani et al. [216] have compared ten DL models for classification of COVID-19, including AlexNet, VGG-16, VGG-19, GoogleNet, MobileNet, Xception, ResNet-101, ResNet-18, ResNet-50, and SqueezNet.",
+    "refNo": 216,
+    "title": "",
+    "marker_text": "[216]"
+  },
+  {
+    "sentence": "A subtype of classification is called lesion classification and is used in a segmented images from the body ref [8], ref [48].",
+    "refNo": 8,
+    "title": "U-Net: convolutional networks for biomedical image segmentation",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "A subtype of classification is called lesion classification and is used in a segmented images from the body ref [8], ref [48].",
+    "refNo": 48,
+    "title": "Automatic segmentation of liver tumor in CT images with deep convolutional neural networks",
+    "marker_text": "[48]"
+  },
+  {
+    "sentence": "Recently, deep learning has provided an efficient way of building an n end-to-end model which produce classification labels-based from different medical images' modalities ref [8], ref [47].",
+    "refNo": 8,
+    "title": "U-Net: convolutional networks for biomedical image segmentation",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Recently, deep learning has provided an efficient way of building an n end-to-end model which produce classification labels-based from different medical images' modalities ref [8], ref [47].",
+    "refNo": 47,
+    "title": "V-Net: fully convolutional neural networks for volumetric medical image segmentation",
+    "marker_text": "[47]"
+  },
+  {
+    "sentence": "Because of the high resolution of medical images, expensive computational costs arise and limitations in the number of deep model layers and channels; Lai Zhifei et al. [137] have proposed the Coding Network with Multilayer Perceptron (CNMP) to overcome these problems by combining high-level features extracted by CNN and other manually selected common features.",
+    "refNo": 137,
+    "title": "",
+    "marker_text": "[137]"
+  },
+  {
+    "sentence": "Xiao et al. [138] have used parallel attention module (PAM-DenseNet) for COVID-10 diagnosis, and their model can learn strong features automatically from channel-wise and spatial-wise which help in making the network to automatically detect the infected areas in CT scans of lungs without the need [139]; classifying medical images is essential part for clinical aiding and further treatments, for example detecting and classifying pneumonia presence from chest X-ray scans [140]; CNN-based models have introduced various stratifies to better the classification performance especially when using small datasets, for example data augmentation [141,142].",
+    "refNo": 138,
+    "title": "",
+    "marker_text": "[138]"
+  },
+  {
+    "sentence": "Xiao et al. [138] have used parallel attention module (PAM-DenseNet) for COVID-10 diagnosis, and their model can learn strong features automatically from channel-wise and spatial-wise which help in making the network to automatically detect the infected areas in CT scans of lungs without the need [139]; classifying medical images is essential part for clinical aiding and further treatments, for example detecting and classifying pneumonia presence from chest X-ray scans [140]; CNN-based models have introduced various stratifies to better the classification performance especially when using small datasets, for example data augmentation [141,142].",
+    "refNo": 139,
+    "title": "",
+    "marker_text": "[139]"
+  },
+  {
+    "sentence": "Xiao et al. [138] have used parallel attention module (PAM-DenseNet) for COVID-10 diagnosis, and their model can learn strong features automatically from channel-wise and spatial-wise which help in making the network to automatically detect the infected areas in CT scans of lungs without the need [139]; classifying medical images is essential part for clinical aiding and further treatments, for example detecting and classifying pneumonia presence from chest X-ray scans [140]; CNN-based models have introduced various stratifies to better the classification performance especially when using small datasets, for example data augmentation [141,142].",
+    "refNo": 140,
+    "title": "",
+    "marker_text": "[140]"
+  },
+  {
+    "sentence": "Xiao et al. [138] have used parallel attention module (PAM-DenseNet) for COVID-10 diagnosis, and their model can learn strong features automatically from channel-wise and spatial-wise which help in making the network to automatically detect the infected areas in CT scans of lungs without the need [139]; classifying medical images is essential part for clinical aiding and further treatments, for example detecting and classifying pneumonia presence from chest X-ray scans [140]; CNN-based models have introduced various stratifies to better the classification performance especially when using small datasets, for example data augmentation [141,142].",
+    "refNo": 141,
+    "title": "",
+    "marker_text": "[141]"
+  },
+  {
+    "sentence": "Xiao et al. [138] have used parallel attention module (PAM-DenseNet) for COVID-10 diagnosis, and their model can learn strong features automatically from channel-wise and spatial-wise which help in making the network to automatically detect the infected areas in CT scans of lungs without the need [139]; classifying medical images is essential part for clinical aiding and further treatments, for example detecting and classifying pneumonia presence from chest X-ray scans [140]; CNN-based models have introduced various stratifies to better the classification performance especially when using small datasets, for example data augmentation [141,142].",
+    "refNo": 142,
+    "title": "",
+    "marker_text": "[142]"
+  },
+  {
+    "sentence": "GANs' network was widely used for data augmentation and image synthesis [143].",
+    "refNo": 143,
+    "title": "",
+    "marker_text": "[143]"
+  },
+  {
+    "sentence": "Another robust strategy is transfer learning [61].",
+    "refNo": 61,
+    "title": "Classification of histopathological images for early detection of breast cancer using deep learning",
+    "marker_text": "[61]"
+  },
+  {
+    "sentence": "Rajpurkar Another 3D-CNN architecture employed in an autoencoder architecture is also used to classify Alzheimer disease using transfer learning on a pre-trained CAD Dementia dataset, they have reported accuracy of 99% on the publicly dataset ADNI, and the fine-tuning process is done in a supervised manner [145].",
+    "refNo": 145,
+    "title": "",
+    "marker_text": "[145]"
+  },
+  {
+    "sentence": "Diabetic Retinopathy (DR) could be diagnosed using fundus photographs of the eye, Abramoff et al. [146] have used custom CNN inspired from Alexnet and VGGNet to train a device (IDx-DR) version X2.1 on a dataset of 1.2 million DR images to record 0.98 AUC score.",
+    "refNo": 146,
+    "title": "",
+    "marker_text": "[146]"
+  },
+  {
+    "sentence": "It was clearly that deep learning approach performs better than the traditional machine learning and shallow learning methods and other handcrafted feature extraction from images, because deep learning models learn image descriptors automatically for analysis ref [46], ref [51].",
+    "refNo": 46,
+    "title": "Deep learning for brain MRI segmentation: state of the art and future directions",
+    "marker_text": "[46]"
+  },
+  {
+    "sentence": "It was clearly that deep learning approach performs better than the traditional machine learning and shallow learning methods and other handcrafted feature extraction from images, because deep learning models learn image descriptors automatically for analysis ref [46], ref [51].",
+    "refNo": 51,
+    "title": "DeepOrgan: multi-level deep convolutional networks for automated pancreas segmentation",
+    "marker_text": "[51]"
+  },
+  {
+    "sentence": "It is commonly possible to combine deep learning approach with the knowledge learned from the handcrafted features for analyzing medical images ref [48], ref [51].",
+    "refNo": 48,
+    "title": "Automatic segmentation of liver tumor in CT images with deep convolutional neural networks",
+    "marker_text": "[48]"
+  },
+  {
+    "sentence": "It is commonly possible to combine deep learning approach with the knowledge learned from the handcrafted features for analyzing medical images ref [48], ref [51].",
+    "refNo": 51,
+    "title": "DeepOrgan: multi-level deep convolutional networks for automated pancreas segmentation",
+    "marker_text": "[51]"
+  },
+  {
+    "sentence": "The basic data augmentation techniques are simple and it was widely adopted in medical imaging, such as cropping, rotating, flipping, shearing, scaling, and translation of images ref [46], ref [50], ref [51].",
+    "refNo": 46,
+    "title": "Deep learning for brain MRI segmentation: state of the art and future directions",
+    "marker_text": "[46]"
+  },
+  {
+    "sentence": "The basic data augmentation techniques are simple and it was widely adopted in medical imaging, such as cropping, rotating, flipping, shearing, scaling, and translation of images ref [46], ref [50], ref [51].",
+    "refNo": 50,
+    "title": "Segmentation of fetal left ventricle in echocardiographic sequences based on dynamic convolutional neural networks",
+    "marker_text": "[50]"
+  },
+  {
+    "sentence": "The basic data augmentation techniques are simple and it was widely adopted in medical imaging, such as cropping, rotating, flipping, shearing, scaling, and translation of images ref [46], ref [50], ref [51].",
+    "refNo": 51,
+    "title": "DeepOrgan: multi-level deep convolutional networks for automated pancreas segmentation",
+    "marker_text": "[51]"
+  },
+  {
+    "sentence": "Pezeshk et al. [220] have proposed mixing tool which can seamlessly merge a lesion patch into a CT scan or mammography modality, so the merged lesion patches can be augmented using the basic transformations and inserted to the lesion shape and characteristics ref [48].",
+    "refNo": 220,
+    "title": "",
+    "marker_text": "[220]"
+  },
+  {
+    "sentence": "Pezeshk et al. [220] have proposed mixing tool which can seamlessly merge a lesion patch into a CT scan or mammography modality, so the merged lesion patches can be augmented using the basic transformations and inserted to the lesion shape and characteristics ref [48].",
+    "refNo": 48,
+    "title": "Automatic segmentation of liver tumor in CT images with deep convolutional neural networks",
+    "marker_text": "[48]"
+  },
+  {
+    "sentence": "Deep learning models are famous to be dataset hungry, and the good quality of dataset has been always the key-parameter for deep learning for learning computational models and provide trusted results, especially for disease staging, risk stratification, prognosis, and radiomics applications ref [53], ref [54], ref [55], ref [56], ref [57], ref [58], ref [59], ref [60].",
+    "refNo": 53,
+    "title": "Quantitative MRI radiomics in the prediction of molecular classifications of breast cancer subtypes in the TCGA/ TCIA data set",
+    "marker_text": "[53]"
+  },
+  {
+    "sentence": "Deep learning models are famous to be dataset hungry, and the good quality of dataset has been always the key-parameter for deep learning for learning computational models and provide trusted results, especially for disease staging, risk stratification, prognosis, and radiomics applications ref [53], ref [54], ref [55], ref [56], ref [57], ref [58], ref [59], ref [60].",
+    "refNo": 54,
+    "title": "Prediction of clinical phenotypes in invasive breast carcinomas from the integration of radiomics and genomics data",
+    "marker_text": "[54]"
+  },
+  {
+    "sentence": "Deep learning models are famous to be dataset hungry, and the good quality of dataset has been always the key-parameter for deep learning for learning computational models and provide trusted results, especially for disease staging, risk stratification, prognosis, and radiomics applications ref [53], ref [54], ref [55], ref [56], ref [57], ref [58], ref [59], ref [60].",
+    "refNo": 55,
+    "title": "MR imaging radiomics signatures for predicting the risk of breast cancer recurrence as given by research versions of MammaPrint, Oncotype DX, and PAM50 Gene assays",
+    "marker_text": "[55]"
+  },
+  {
+    "sentence": "Deep learning models are famous to be dataset hungry, and the good quality of dataset has been always the key-parameter for deep learning for learning computational models and provide trusted results, especially for disease staging, risk stratification, prognosis, and radiomics applications ref [53], ref [54], ref [55], ref [56], ref [57], ref [58], ref [59], ref [60].",
+    "refNo": 56,
+    "title": "Disease staging and prognosis in smokers using deep learning in chest computed tomography",
+    "marker_text": "[56]"
+  },
+  {
+    "sentence": "Deep learning models are famous to be dataset hungry, and the good quality of dataset has been always the key-parameter for deep learning for learning computational models and provide trusted results, especially for disease staging, risk stratification, prognosis, and radiomics applications ref [53], ref [54], ref [55], ref [56], ref [57], ref [58], ref [59], ref [60].",
+    "refNo": 57,
+    "title": "A deep learning-based radiomics model for prediction of survival in Glioblastoma Multiforme",
+    "marker_text": "[57]"
+  },
+  {
+    "sentence": "Deep learning models are famous to be dataset hungry, and the good quality of dataset has been always the key-parameter for deep learning for learning computational models and provide trusted results, especially for disease staging, risk stratification, prognosis, and radiomics applications ref [53], ref [54], ref [55], ref [56], ref [57], ref [58], ref [59], ref [60].",
+    "refNo": 58,
+    "title": "Urinary bladder cancer staging in CT urography using machine learning",
+    "marker_text": "[58]"
+  },
+  {
+    "sentence": "Deep learning models are famous to be dataset hungry, and the good quality of dataset has been always the key-parameter for deep learning for learning computational models and provide trusted results, especially for disease staging, risk stratification, prognosis, and radiomics applications ref [53], ref [54], ref [55], ref [56], ref [57], ref [58], ref [59], ref [60].",
+    "refNo": 59,
+    "title": "Applying artificial intelligence to disease staging: deep learning for improved staging of diabetic retinopathy",
+    "marker_text": "[59]"
+  },
+  {
+    "sentence": "Deep learning models are famous to be dataset hungry, and the good quality of dataset has been always the key-parameter for deep learning for learning computational models and provide trusted results, especially for disease staging, risk stratification, prognosis, and radiomics applications ref [53], ref [54], ref [55], ref [56], ref [57], ref [58], ref [59], ref [60].",
+    "refNo": 60,
+    "title": "Predicting survival after hepatocellular carcinoma resection using deep learning on histological slides",
+    "marker_text": "[60]"
+  },
+  {
+    "sentence": "Comparing to the datasets for general computer vision tasks (thousands to million annotated images), medical imaging datasets are considered to be too small, as also reflected by studies on breast cancer radiomics ref [53], ref [54], ref [55], chest CT prognosis in smokers ref [56], glioblastoma survival prediction ref [57], bladder cancer staging ref [58], diabetic retinopathy staging ref [59], and histology-based survival prediction after hepatocellular carcinoma resection ref [60].",
+    "refNo": 53,
+    "title": "Quantitative MRI radiomics in the prediction of molecular classifications of breast cancer subtypes in the TCGA/ TCIA data set",
+    "marker_text": "[53]"
+  },
+  {
+    "sentence": "Comparing to the datasets for general computer vision tasks (thousands to million annotated images), medical imaging datasets are considered to be too small, as also reflected by studies on breast cancer radiomics ref [53], ref [54], ref [55], chest CT prognosis in smokers ref [56], glioblastoma survival prediction ref [57], bladder cancer staging ref [58], diabetic retinopathy staging ref [59], and histology-based survival prediction after hepatocellular carcinoma resection ref [60].",
+    "refNo": 54,
+    "title": "Prediction of clinical phenotypes in invasive breast carcinomas from the integration of radiomics and genomics data",
+    "marker_text": "[54]"
+  },
+  {
+    "sentence": "Comparing to the datasets for general computer vision tasks (thousands to million annotated images), medical imaging datasets are considered to be too small, as also reflected by studies on breast cancer radiomics ref [53], ref [54], ref [55], chest CT prognosis in smokers ref [56], glioblastoma survival prediction ref [57], bladder cancer staging ref [58], diabetic retinopathy staging ref [59], and histology-based survival prediction after hepatocellular carcinoma resection ref [60].",
+    "refNo": 55,
+    "title": "MR imaging radiomics signatures for predicting the risk of breast cancer recurrence as given by research versions of MammaPrint, Oncotype DX, and PAM50 Gene assays",
+    "marker_text": "[55]"
+  },
+  {
+    "sentence": "Comparing to the datasets for general computer vision tasks (thousands to million annotated images), medical imaging datasets are considered to be too small, as also reflected by studies on breast cancer radiomics ref [53], ref [54], ref [55], chest CT prognosis in smokers ref [56], glioblastoma survival prediction ref [57], bladder cancer staging ref [58], diabetic retinopathy staging ref [59], and histology-based survival prediction after hepatocellular carcinoma resection ref [60].",
+    "refNo": 56,
+    "title": "Disease staging and prognosis in smokers using deep learning in chest computed tomography",
+    "marker_text": "[56]"
+  },
+  {
+    "sentence": "Comparing to the datasets for general computer vision tasks (thousands to million annotated images), medical imaging datasets are considered to be too small, as also reflected by studies on breast cancer radiomics ref [53], ref [54], ref [55], chest CT prognosis in smokers ref [56], glioblastoma survival prediction ref [57], bladder cancer staging ref [58], diabetic retinopathy staging ref [59], and histology-based survival prediction after hepatocellular carcinoma resection ref [60].",
+    "refNo": 57,
+    "title": "A deep learning-based radiomics model for prediction of survival in Glioblastoma Multiforme",
+    "marker_text": "[57]"
+  },
+  {
+    "sentence": "Comparing to the datasets for general computer vision tasks (thousands to million annotated images), medical imaging datasets are considered to be too small, as also reflected by studies on breast cancer radiomics ref [53], ref [54], ref [55], chest CT prognosis in smokers ref [56], glioblastoma survival prediction ref [57], bladder cancer staging ref [58], diabetic retinopathy staging ref [59], and histology-based survival prediction after hepatocellular carcinoma resection ref [60].",
+    "refNo": 58,
+    "title": "Urinary bladder cancer staging in CT urography using machine learning",
+    "marker_text": "[58]"
+  },
+  {
+    "sentence": "Comparing to the datasets for general computer vision tasks (thousands to million annotated images), medical imaging datasets are considered to be too small, as also reflected by studies on breast cancer radiomics ref [53], ref [54], ref [55], chest CT prognosis in smokers ref [56], glioblastoma survival prediction ref [57], bladder cancer staging ref [58], diabetic retinopathy staging ref [59], and histology-based survival prediction after hepatocellular carcinoma resection ref [60].",
+    "refNo": 59,
+    "title": "Applying artificial intelligence to disease staging: deep learning for improved staging of diabetic retinopathy",
+    "marker_text": "[59]"
+  },
+  {
+    "sentence": "Comparing to the datasets for general computer vision tasks (thousands to million annotated images), medical imaging datasets are considered to be too small, as also reflected by studies on breast cancer radiomics ref [53], ref [54], ref [55], chest CT prognosis in smokers ref [56], glioblastoma survival prediction ref [57], bladder cancer staging ref [58], diabetic retinopathy staging ref [59], and histology-based survival prediction after hepatocellular carcinoma resection ref [60].",
+    "refNo": 60,
+    "title": "Predicting survival after hepatocellular carcinoma resection using deep learning on histological slides",
+    "marker_text": "[60]"
+  },
+  {
+    "sentence": "Therefore, different trends in medical imaging community have started to adopt different approaches for generating and increasing the number of samples in dataset, such as generative models, data augmentation, and weakly supervised learning, to avoid overfitting on the small dataset and finally provide an end-to-end fashion reliable deep learning model for prognosis and staging tasks ref [56], ref [57], ref [59], ref [60].",
+    "refNo": 56,
+    "title": "Disease staging and prognosis in smokers using deep learning in chest computed tomography",
+    "marker_text": "[56]"
+  },
+  {
+    "sentence": "Therefore, different trends in medical imaging community have started to adopt different approaches for generating and increasing the number of samples in dataset, such as generative models, data augmentation, and weakly supervised learning, to avoid overfitting on the small dataset and finally provide an end-to-end fashion reliable deep learning model for prognosis and staging tasks ref [56], ref [57], ref [59], ref [60].",
+    "refNo": 57,
+    "title": "A deep learning-based radiomics model for prediction of survival in Glioblastoma Multiforme",
+    "marker_text": "[57]"
+  },
+  {
+    "sentence": "Therefore, different trends in medical imaging community have started to adopt different approaches for generating and increasing the number of samples in dataset, such as generative models, data augmentation, and weakly supervised learning, to avoid overfitting on the small dataset and finally provide an end-to-end fashion reliable deep learning model for prognosis and staging tasks ref [56], ref [57], ref [59], ref [60].",
+    "refNo": 59,
+    "title": "Applying artificial intelligence to disease staging: deep learning for improved staging of diabetic retinopathy",
+    "marker_text": "[59]"
+  },
+  {
+    "sentence": "Therefore, different trends in medical imaging community have started to adopt different approaches for generating and increasing the number of samples in dataset, such as generative models, data augmentation, and weakly supervised learning, to avoid overfitting on the small dataset and finally provide an end-to-end fashion reliable deep learning model for prognosis and staging tasks ref [56], ref [57], ref [59], ref [60].",
+    "refNo": 60,
+    "title": "Predicting survival after hepatocellular carcinoma resection using deep learning on histological slides",
+    "marker_text": "[60]"
+  },
+  {
+    "sentence": "Examples of popular used databases for medical images analysis which exploit deep learning include TCGA/TCIA-style radiomics resources and disease-specific cohorts used in breast cancer, glioblastoma, bladder cancer, diabetic retinopathy, chest CT, and hepatocellular carcinoma studies ref [53], ref [54], ref [55], ref [56], ref [57], ref [58], ref [59], ref [60].",
+    "refNo": 53,
+    "title": "Quantitative MRI radiomics in the prediction of molecular classifications of breast cancer subtypes in the TCGA/ TCIA data set",
+    "marker_text": "[53]"
+  },
+  {
+    "sentence": "Examples of popular used databases for medical images analysis which exploit deep learning include TCGA/TCIA-style radiomics resources and disease-specific cohorts used in breast cancer, glioblastoma, bladder cancer, diabetic retinopathy, chest CT, and hepatocellular carcinoma studies ref [53], ref [54], ref [55], ref [56], ref [57], ref [58], ref [59], ref [60].",
+    "refNo": 54,
+    "title": "Prediction of clinical phenotypes in invasive breast carcinomas from the integration of radiomics and genomics data",
+    "marker_text": "[54]"
+  },
+  {
+    "sentence": "Examples of popular used databases for medical images analysis which exploit deep learning include TCGA/TCIA-style radiomics resources and disease-specific cohorts used in breast cancer, glioblastoma, bladder cancer, diabetic retinopathy, chest CT, and hepatocellular carcinoma studies ref [53], ref [54], ref [55], ref [56], ref [57], ref [58], ref [59], ref [60].",
+    "refNo": 55,
+    "title": "MR imaging radiomics signatures for predicting the risk of breast cancer recurrence as given by research versions of MammaPrint, Oncotype DX, and PAM50 Gene assays",
+    "marker_text": "[55]"
+  },
+  {
+    "sentence": "Examples of popular used databases for medical images analysis which exploit deep learning include TCGA/TCIA-style radiomics resources and disease-specific cohorts used in breast cancer, glioblastoma, bladder cancer, diabetic retinopathy, chest CT, and hepatocellular carcinoma studies ref [53], ref [54], ref [55], ref [56], ref [57], ref [58], ref [59], ref [60].",
+    "refNo": 56,
+    "title": "Disease staging and prognosis in smokers using deep learning in chest computed tomography",
+    "marker_text": "[56]"
+  },
+  {
+    "sentence": "Examples of popular used databases for medical images analysis which exploit deep learning include TCGA/TCIA-style radiomics resources and disease-specific cohorts used in breast cancer, glioblastoma, bladder cancer, diabetic retinopathy, chest CT, and hepatocellular carcinoma studies ref [53], ref [54], ref [55], ref [56], ref [57], ref [58], ref [59], ref [60].",
+    "refNo": 57,
+    "title": "A deep learning-based radiomics model for prediction of survival in Glioblastoma Multiforme",
+    "marker_text": "[57]"
+  },
+  {
+    "sentence": "Examples of popular used databases for medical images analysis which exploit deep learning include TCGA/TCIA-style radiomics resources and disease-specific cohorts used in breast cancer, glioblastoma, bladder cancer, diabetic retinopathy, chest CT, and hepatocellular carcinoma studies ref [53], ref [54], ref [55], ref [56], ref [57], ref [58], ref [59], ref [60].",
+    "refNo": 58,
+    "title": "Urinary bladder cancer staging in CT urography using machine learning",
+    "marker_text": "[58]"
+  },
+  {
+    "sentence": "Examples of popular used databases for medical images analysis which exploit deep learning include TCGA/TCIA-style radiomics resources and disease-specific cohorts used in breast cancer, glioblastoma, bladder cancer, diabetic retinopathy, chest CT, and hepatocellular carcinoma studies ref [53], ref [54], ref [55], ref [56], ref [57], ref [58], ref [59], ref [60].",
+    "refNo": 59,
+    "title": "Applying artificial intelligence to disease staging: deep learning for improved staging of diabetic retinopathy",
+    "marker_text": "[59]"
+  },
+  {
+    "sentence": "Examples of popular used databases for medical images analysis which exploit deep learning include TCGA/TCIA-style radiomics resources and disease-specific cohorts used in breast cancer, glioblastoma, bladder cancer, diabetic retinopathy, chest CT, and hepatocellular carcinoma studies ref [53], ref [54], ref [55], ref [56], ref [57], ref [58], ref [59], ref [60].",
+    "refNo": 60,
+    "title": "Predicting survival after hepatocellular carcinoma resection using deep learning on histological slides",
+    "marker_text": "[60]"
+  },
+  {
+    "sentence": "Some of the interesting applications in medical imaging was proposed by Nie et al. ref [71], by which they have used GANs to generate or CT scans from MRI images for brain; the benefit of such work will reduce the risk of patients being exposed to ionizing radiation from CT scanners, which also reserve patients' safety.",
+    "refNo": 71,
+    "title": "Generative adversarial networks for brain lesion detection",
+    "marker_text": "[71]"
+  },
+  {
+    "sentence": "It is defined as the ratio between the size of intersection and the size of union of the sample-set, and the mathematical formula is given by ref [72] Receiver-Operating Characteristics Curve (ROC) is a graph between True-Positive Rate (TPR) (sensitiv-.",
+    "refNo": 72,
+    "title": "Adversarial training and dilated convolutions for brain MRI segmentation",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "Also called specificity, it measures the number of negative voxels (background) from the ground truth which are also identified to be negative after the segmentation process, and it is given by the formula ref [73] However, both TNR and TPR metrics are not used commonly for medical images' segmentation due to their sensibility to the segments size ref [73].",
+    "refNo": 73,
+    "title": "An overview of deep learning in medical imaging focusing on MRI",
+    "marker_text": "[73]"
+  },
+  {
+    "sentence": "Also called specificity, it measures the number of negative voxels (background) from the ground truth which are also identified to be negative after the segmentation process, and it is given by the formula ref [73] However, both TNR and TPR metrics are not used commonly for medical images' segmentation due to their sensibility to the segments size ref [73].",
+    "refNo": 73,
+    "title": "An overview of deep learning in medical imaging focusing on MRI",
+    "marker_text": "[73]"
+  },
+  {
+    "sentence": "In this overview paper, we have presented a review of the previous literature of deep learning applications in medical imaging ref [73].",
+    "refNo": 73,
+    "title": "An overview of deep learning in medical imaging focusing on MRI",
+    "marker_text": "[73]"
+  },
+  {
+    "sentence": "It contributed three main sections: first, we have presented the core of deep learning concepts considering the main highlights of understanding of basic frameworks in medical images analysis ref [73].",
+    "refNo": 73,
+    "title": "An overview of deep learning in medical imaging focusing on MRI",
+    "marker_text": "[73]"
+  },
+  {
+    "sentence": "The second section contains the main applications of deep learning in medical imaging (e.g., segmentation, detection, classification, and registration) and we have presented a comprehensive review of the literature ref [73].",
+    "refNo": 73,
+    "title": "An overview of deep learning in medical imaging focusing on MRI",
+    "marker_text": "[73]"
+  },
+  {
+    "sentence": "The criteria that we have built our overview consists of the mostly cited papers, the mostly recent (from 2015 to 2021), and the papers with better results ref [73].",
+    "refNo": 73,
+    "title": "An overview of deep learning in medical imaging focusing on MRI",
+    "marker_text": "[73]"
+  },
+  {
+    "sentence": "The third major part of this paper is focused on the deep learning themes regarding some challenges and the future directions of addressing those challenges ref [73].",
+    "refNo": 73,
+    "title": "An overview of deep learning in medical imaging focusing on MRI",
+    "marker_text": "[73]"
+  },
+  {
+    "sentence": "Besides focusing on the quality of the mostly recent works, we have highlighted the suitable solutions for different challenges in this field and the future directions that have been concluded from different scientific perspective ref [73].",
+    "refNo": 73,
+    "title": "An overview of deep learning in medical imaging focusing on MRI",
+    "marker_text": "[73]"
+  },
+  {
+    "sentence": "Medical imaging can get the benefit from other fields of deep learning, that have been encouraged from collaborative research works from computer vision communities, and furthermore, this collaboration is used to overcome the lack of medical dataset using transfer learning ref [73].",
+    "refNo": 73,
+    "title": "An overview of deep learning in medical imaging focusing on MRI",
+    "marker_text": "[73]"
+  },
+  {
+    "sentence": "Cho et al. [243] have answered the question of how much is the size of medical dataset needed to train a deep learning model.",
+    "refNo": 243,
+    "title": "",
+    "marker_text": "[243]"
+  },
+  {
+    "sentence": "Creating synthetic medical images is another solution presented in deep learning using Variational Autoencoders (VAEs) and GANs for tackling the limited labeled medical data ref [73].",
+    "refNo": 73,
+    "title": "An overview of deep learning in medical imaging focusing on MRI",
+    "marker_text": "[73]"
+  },
+  {
+    "sentence": "For instance, Guibas et al. [244] have used 2 GANs for segmenting and then generating new retinal fundus images successfully.",
+    "refNo": 244,
+    "title": "",
+    "marker_text": "[244]"
+  },
+  {
+    "sentence": "Another applications of GANs for segmentation and synthetic data generation were found [132,245] ref [73].",
+    "refNo": 132,
+    "title": "",
+    "marker_text": "[132]"
+  },
+  {
+    "sentence": "Another applications of GANs for segmentation and synthetic data generation were found [132,245] ref [73].",
+    "refNo": 245,
+    "title": "",
+    "marker_text": "[245]"
+  },
+  {
+    "sentence": "Another applications of GANs for segmentation and synthetic data generation were found [132,245] ref [73].",
+    "refNo": 73,
+    "title": "An overview of deep learning in medical imaging focusing on MRI",
+    "marker_text": "[73]"
+  },
+  {
+    "sentence": "Features' extraction and selection types used for dimensionality reduction ref [14], ref [23], ref [31], ref [44], ref [57], ref [68], ref [79], ref [86], ref [97], ref [108], ref [119], ref [127], ref [138], ref [149], ref [161], ref [172].",
+    "refNo": 14,
+    "title": "Deep residual inception encoder-decoder network for medical imaging synthesis",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Features' extraction and selection types used for dimensionality reduction ref [14], ref [23], ref [31], ref [44], ref [57], ref [68], ref [79], ref [86], ref [97], ref [108], ref [119], ref [127], ref [138], ref [149], ref [161], ref [172].",
+    "refNo": 23,
+    "title": "Models genesis: generic autodidactic models for 3D medical image analysis",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Features' extraction and selection types used for dimensionality reduction ref [14], ref [23], ref [31], ref [44], ref [57], ref [68], ref [79], ref [86], ref [97], ref [108], ref [119], ref [127], ref [138], ref [149], ref [161], ref [172].",
+    "refNo": 31,
+    "title": "An improved DenseNet method based on transfer learning for fundus medical images",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "Features' extraction and selection types used for dimensionality reduction ref [14], ref [23], ref [31], ref [44], ref [57], ref [68], ref [79], ref [86], ref [97], ref [108], ref [119], ref [127], ref [138], ref [149], ref [161], ref [172].",
+    "refNo": 44,
+    "title": "Low-dose CT via convolutional neural network",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "Features' extraction and selection types used for dimensionality reduction ref [14], ref [23], ref [31], ref [44], ref [57], ref [68], ref [79], ref [86], ref [97], ref [108], ref [119], ref [127], ref [138], ref [149], ref [161], ref [172].",
+    "refNo": 57,
+    "title": "A deep learning-based radiomics model for prediction of survival in Glioblastoma Multiforme",
+    "marker_text": "[57]"
+  },
+  {
+    "sentence": "Features' extraction and selection types used for dimensionality reduction ref [14], ref [23], ref [31], ref [44], ref [57], ref [68], ref [79], ref [86], ref [97], ref [108], ref [119], ref [127], ref [138], ref [149], ref [161], ref [172].",
+    "refNo": 68,
+    "title": "Digital mammographic tumor classification using transfer learning from deep convolutional neural networks",
+    "marker_text": "[68]"
+  },
+  {
+    "sentence": "Features' extraction and selection types used for dimensionality reduction ref [14], ref [23], ref [31], ref [44], ref [57], ref [68], ref [79], ref [86], ref [97], ref [108], ref [119], ref [127], ref [138], ref [149], ref [161], ref [172].",
+    "refNo": 79,
+    "title": "",
+    "marker_text": "[79]"
+  },
+  {
+    "sentence": "Features' extraction and selection types used for dimensionality reduction ref [14], ref [23], ref [31], ref [44], ref [57], ref [68], ref [79], ref [86], ref [97], ref [108], ref [119], ref [127], ref [138], ref [149], ref [161], ref [172].",
+    "refNo": 86,
+    "title": "",
+    "marker_text": "[86]"
+  },
+  {
+    "sentence": "Features' extraction and selection types used for dimensionality reduction ref [14], ref [23], ref [31], ref [44], ref [57], ref [68], ref [79], ref [86], ref [97], ref [108], ref [119], ref [127], ref [138], ref [149], ref [161], ref [172].",
+    "refNo": 97,
+    "title": "",
+    "marker_text": "[97]"
+  },
+  {
+    "sentence": "Features' extraction and selection types used for dimensionality reduction ref [14], ref [23], ref [31], ref [44], ref [57], ref [68], ref [79], ref [86], ref [97], ref [108], ref [119], ref [127], ref [138], ref [149], ref [161], ref [172].",
+    "refNo": 108,
+    "title": "",
+    "marker_text": "[108]"
+  },
+  {
+    "sentence": "Features' extraction and selection types used for dimensionality reduction ref [14], ref [23], ref [31], ref [44], ref [57], ref [68], ref [79], ref [86], ref [97], ref [108], ref [119], ref [127], ref [138], ref [149], ref [161], ref [172].",
+    "refNo": 119,
+    "title": "",
+    "marker_text": "[119]"
+  },
+  {
+    "sentence": "Features' extraction and selection types used for dimensionality reduction ref [14], ref [23], ref [31], ref [44], ref [57], ref [68], ref [79], ref [86], ref [97], ref [108], ref [119], ref [127], ref [138], ref [149], ref [161], ref [172].",
+    "refNo": 127,
+    "title": "",
+    "marker_text": "[127]"
+  },
+  {
+    "sentence": "Features' extraction and selection types used for dimensionality reduction ref [14], ref [23], ref [31], ref [44], ref [57], ref [68], ref [79], ref [86], ref [97], ref [108], ref [119], ref [127], ref [138], ref [149], ref [161], ref [172].",
+    "refNo": 138,
+    "title": "",
+    "marker_text": "[138]"
+  },
+  {
+    "sentence": "Features' extraction and selection types used for dimensionality reduction ref [14], ref [23], ref [31], ref [44], ref [57], ref [68], ref [79], ref [86], ref [97], ref [108], ref [119], ref [127], ref [138], ref [149], ref [161], ref [172].",
+    "refNo": 149,
+    "title": "",
+    "marker_text": "[149]"
+  },
+  {
+    "sentence": "Features' extraction and selection types used for dimensionality reduction ref [14], ref [23], ref [31], ref [44], ref [57], ref [68], ref [79], ref [86], ref [97], ref [108], ref [119], ref [127], ref [138], ref [149], ref [161], ref [172].",
+    "refNo": 161,
+    "title": "",
+    "marker_text": "[161]"
+  },
+  {
+    "sentence": "Features' extraction and selection types used for dimensionality reduction ref [14], ref [23], ref [31], ref [44], ref [57], ref [68], ref [79], ref [86], ref [97], ref [108], ref [119], ref [127], ref [138], ref [149], ref [161], ref [172].",
+    "refNo": 172,
+    "title": "",
+    "marker_text": "[172]"
+  }
+]

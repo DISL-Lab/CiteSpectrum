@@ -1,0 +1,500 @@
+[
+  {
+    "sentence": "Analysis of the initial 425 confirmed cases revealed a median age of 59 years, with a male predominance (56%), and a significant clustering of early cases linked to the Huanan Seafood Wholesale Market—55% of cases with symptom onset before January 1, 2020, had exposure to this site, compared to only 8.6% of later cases ref [1].",
+    "refNo": 1,
+    "title": "Early transmission dynamics in Wuhan, China, of novel coronavirus-infected pneumonia",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Mathematical modeling further demonstrated that the epidemic doubled approximately every 7.4 days in early January 2020, with a basic reproductive number (R₀) estimated between 2.2 and 2.7, indicating substantial human-to-human transmission potential ref [4].",
+    "refNo": 4,
+    "title": "Evidence for gastrointestinal infection of SARS-CoV-2",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Beyond Wuhan, international case exports were used to reconstruct transmission dynamics, revealing that sustained community transmission was already underway by late December 2019, prior to widespread detection and reporting ref [4].",
+    "refNo": 4,
+    "title": "Evidence for gastrointestinal infection of SARS-CoV-2",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Studies indicate that SARS-CoV-2 can persist on inanimate surfaces such as plastic and stainless steel for up to 9 days under laboratory conditions, though environmental factors and disinfection practices significantly reduce viability; effective inactivation can be achieved within one minute using 62–71% ethanol, 0.5% hydrogen peroxide, or 0.1% sodium hypochlorite ref [3].",
+    "refNo": 3,
+    "title": "Persistence of coronaviruses on inanimate surfaces and their inactivation with biocidal agents",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Emerging evidence also supports gastrointestinal involvement, with SARS-CoV-2 RNA frequently detected in feces and, less commonly, in urine, suggesting potential for enteric shedding ref [4].",
+    "refNo": 4,
+    "title": "Evidence for gastrointestinal infection of SARS-CoV-2",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "While viral RNA is often present in stool samples, viable virus isolation remains rare, and the risk of fecal-oral transmission appears low ref [6].",
+    "refNo": 6,
+    "title": "The wastewater microbiome: A novel insight for COVID-19 surveillance",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Nevertheless, the presence of viral genetic material in wastewater underscores the importance of monitoring sewage systems as an early warning tool for community-level infection trends, even if direct transmission via contaminated water or food is considered extremely unlikely ref [6].",
+    "refNo": 6,
+    "title": "The wastewater microbiome: A novel insight for COVID-19 surveillance",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Studies have identified viral RNA fragments of SARS-CoV-2 in influent streams of wastewater treatment plants, with detection of all three key genomic targets (ORF1ab, N, and S genes) providing robust evidence of presence ref [9].",
+    "refNo": 9,
+    "title": "First proof of the capability of wastewater surveillance for COVID-19 in India through detection of genetic material of SARS-CoV-2",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "The virus demonstrates notable persistence in aquatic environments, surviving for several days in raw sewage and up to weeks under low-temperature conditions, raising concerns about environmental transmission pathways ref [7].",
+    "refNo": 7,
+    "title": "Coronavirus disease 2019 (COVID-19) outbreak: Some serious consequences with urban and rural water cycle",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "While conventional wastewater treatment reduces viral load, it does not fully eliminate SARS-CoV-2, particularly if disinfection protocols are suboptimal or inconsistently applied ref [7].",
+    "refNo": 7,
+    "title": "Coronavirus disease 2019 (COVID-19) outbreak: Some serious consequences with urban and rural water cycle",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "The stability of the virus in sludge and effluent underscores the need for enhanced monitoring and treatment standards ref [10].",
+    "refNo": 10,
+    "title": "The novel SARS-CoV-2 pandemic: Possible environmental transmission, detection, persistence and fate during wastewater and water treatment",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "The first successful application in India demonstrated a strong temporal correlation between SARS-CoV-2 gene copies in wastewater and reported case numbers, validating its predictive potential ref [9].",
+    "refNo": 9,
+    "title": "First proof of the capability of wastewater surveillance for COVID-19 in India through detection of genetic material of SARS-CoV-2",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Beyond detection, the wastewater microbiome offers additional insights into viral dynamics and co-occurring microbial signatures that may inform public health responses ref [6].",
+    "refNo": 6,
+    "title": "The wastewater microbiome: A novel insight for COVID-19 surveillance",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Integrating WBE into urban water management systems enables early warning capabilities, especially in regions with limited clinical testing infrastructure, and supports equitable, population-wide monitoring ref [8].",
+    "refNo": 8,
+    "title": "Editorial perspectives: 2019 novel coronavirus (SARS-CoV-2): What is its fate in urban water cycle and how can the water research community respond?",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Utilities have implemented enhanced monitoring protocols, increased disinfection frequencies, and adjusted chemical dosing—particularly chlorine and ultraviolet exposure—to inactivate viral particles in effluent and sludge, as recommended by public health guidelines ref [12].",
+    "refNo": 12,
+    "title": "Implications of SARS-CoV-2 on current and future operation and management of wastewater systems",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Many facilities have also adopted real-time flow and load tracking to detect anomalies linked to community infection surges, enabling proactive resource allocation ref [14].",
+    "refNo": 14,
+    "title": "SARS-CoV-2 in hospital wastewater during outbreak of COVID-19: A review on detection, survival and disinfection technologies",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "In hospital settings, specialized pretreatment protocols, including pre-disinfection of effluent prior to municipal entry, have been introduced to address elevated viral loads, with studies highlighting the efficacy of advanced oxidation processes and membrane filtration in reducing viral concentrations ref [4].",
+    "refNo": 4,
+    "title": "Evidence for gastrointestinal infection of SARS-CoV-2",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Operational responses have also extended to workforce management, with many utilities adopting staggered shifts, remote monitoring, and enhanced personal protective equipment (PPE) protocols to safeguard staff amid heightened exposure risks ref [12].",
+    "refNo": 12,
+    "title": "Implications of SARS-CoV-2 on current and future operation and management of wastewater systems",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Additionally, infrastructure upgrades, such as the integration of membrane bioreactors and nanomaterial-based filtration systems, are being evaluated for long-term deployment to improve pathogen removal efficiency ref [14].",
+    "refNo": 14,
+    "title": "SARS-CoV-2 in hospital wastewater during outbreak of COVID-19: A review on detection, survival and disinfection technologies",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "These adaptations reflect a broader shift toward viewing wastewater systems not merely as treatment units but as critical public health surveillance and intervention platforms, necessitating cross-sector collaboration between water utilities, epidemiologists, and regulatory agencies ref [4].",
+    "refNo": 4,
+    "title": "Evidence for gastrointestinal infection of SARS-CoV-2",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Initial concentration methods include polyethylene glycol (PEG) precipitation, ultrafiltration, and electronegative membrane filtration, with PEG followed by acid guanidinium thiocyanate-phenol-chloroform extraction proving effective for robust RNA recovery from complex municipal matrices ref [16].",
+    "refNo": 16,
+    "title": "Applicability of polyethylene glycol precipitation followed by acid guanidinium thiocyanatephenol-chloroform extraction for the detection of SARS-CoV-2 RNA from municipal wastewater",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Subsequent detection is predominantly achieved via reverse transcription quantitative polymerase chain reaction (RT-qPCR), targeting conserved genomic regions such as N, E, and ORF1ab genes ref [19].",
+    "refNo": 19,
+    "title": "Concentration and detection of SARS coronavirus in sewage from Xiao Tang Shan Hospital and the 309th hospital of the Chinese people's liberation army",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Confirmation of amplification specificity is often achieved through Sanger sequencing, as demonstrated in early studies from Australia and Germany, which validated the presence of viral RNA and mitigated risks of false positives ref [15], ref [9].",
+    "refNo": 15,
+    "title": "First confirmed detection of SARS-CoV-2 in untreated wastewater in Australia: A proof of concept for the wastewater surveillance of COVID-19 in the community",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Confirmation of amplification specificity is often achieved through Sanger sequencing, as demonstrated in early studies from Australia and Germany, which validated the presence of viral RNA and mitigated risks of false positives ref [15], ref [9].",
+    "refNo": 9,
+    "title": "First proof of the capability of wastewater surveillance for COVID-19 in India through detection of genetic material of SARS-CoV-2",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Studies across diverse geographic contexts—including the United Arab Emirates, India, and Germany—have successfully applied these methods to quantify viral loads in raw and treated effluents, correlating RNA concentrations with community infection trends ref [18], ref [19], ref [9].",
+    "refNo": 18,
+    "title": "Detection of SARS-CoV-2 in raw and treated wastewater in Germany-Suitability for COVID-19 surveillance and potential transmission risks",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Studies across diverse geographic contexts—including the United Arab Emirates, India, and Germany—have successfully applied these methods to quantify viral loads in raw and treated effluents, correlating RNA concentrations with community infection trends ref [18], ref [19], ref [9].",
+    "refNo": 19,
+    "title": "Concentration and detection of SARS coronavirus in sewage from Xiao Tang Shan Hospital and the 309th hospital of the Chinese people's liberation army",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Studies across diverse geographic contexts—including the United Arab Emirates, India, and Germany—have successfully applied these methods to quantify viral loads in raw and treated effluents, correlating RNA concentrations with community infection trends ref [18], ref [19], ref [9].",
+    "refNo": 9,
+    "title": "First proof of the capability of wastewater surveillance for COVID-19 in India through detection of genetic material of SARS-CoV-2",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Notably, the detection of all three SARS-CoV-2 genes (ORF1ab, N, S) in influent samples from Ahmedabad, India, provided early evidence of wastewater-based epidemiology’s feasibility in low-resource settings ref [19].",
+    "refNo": 19,
+    "title": "Concentration and detection of SARS coronavirus in sewage from Xiao Tang Shan Hospital and the 309th hospital of the Chinese people's liberation army",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Furthermore, methodological adaptations from prior SARS-CoV-1 research, such as electropositive filtration and semi-nested RT-PCR, have informed current protocols, underscoring the translational value of historical coronavirus surveillance ref [7].",
+    "refNo": 7,
+    "title": "Coronavirus disease 2019 (COVID-19) outbreak: Some serious consequences with urban and rural water cycle",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Standardization of protocols remains a challenge, with variability in concentration efficiency, extraction yield, and primer selection influencing inter-laboratory comparability, necessitating continued methodological validation ref [15].",
+    "refNo": 15,
+    "title": "First confirmed detection of SARS-CoV-2 in untreated wastewater in Australia: A proof of concept for the wastewater surveillance of COVID-19 in the community",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Studies have documented the presence of SARS-CoV-2 RNA in stool samples of patients, even in the absence of respiratory symptoms, indicating that the gastrointestinal tract serves as a key route of viral shedding into the urban water cycle ref [20].",
+    "refNo": 20,
+    "title": "Gastrointestinal and liver manifestations in patients with COVID-19",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "This fecal shedding contributes to the introduction of viral genetic material into municipal wastewater systems, where it can persist for several days under ambient conditions ref [9].",
+    "refNo": 9,
+    "title": "First proof of the capability of wastewater surveillance for COVID-19 in India through detection of genetic material of SARS-CoV-2",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "The detection of SARS-CoV-2 RNA in raw sewage has been reported globally, including in the Netherlands, Italy, France, Australia, and the United States, confirming its widespread entry into wastewater infrastructure ref [21], ref [23], ref [9].",
+    "refNo": 21,
+    "title": "Presence of SARS-coronavirus-2 RNA in sewage and correlation with reported COVID-19 prevalence in the early stage of the epidemic in The Netherlands",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "The detection of SARS-CoV-2 RNA in raw sewage has been reported globally, including in the Netherlands, Italy, France, Australia, and the United States, confirming its widespread entry into wastewater infrastructure ref [21], ref [23], ref [9].",
+    "refNo": 23,
+    "title": "Sewage surveillance for the presence of SARS-CoV-2 genome as a useful Wastewater Based Epidemiology (WBE) tracking tool in India",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "The detection of SARS-CoV-2 RNA in raw sewage has been reported globally, including in the Netherlands, Italy, France, Australia, and the United States, confirming its widespread entry into wastewater infrastructure ref [21], ref [23], ref [9].",
+    "refNo": 9,
+    "title": "First proof of the capability of wastewater surveillance for COVID-19 in India through detection of genetic material of SARS-CoV-2",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "In regions with inadequate sanitation, untreated wastewater may directly contaminate surface waters, as evidenced by the detection of viral RNA in river systems in low-sanitation countries, raising concerns about environmental transmission ref [24].",
+    "refNo": 24,
+    "title": "SARS-CoV-2 in wastewater: Potential health risk, but also data source",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Asymptomatic and presymptomatic individuals further amplify this pathway, as they contribute to viral load in sewage without clinical detection ref [8].",
+    "refNo": 8,
+    "title": "Editorial perspectives: 2019 novel coronavirus (SARS-CoV-2): What is its fate in urban water cycle and how can the water research community respond?",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "The persistence of viral RNA in wastewater, even after partial treatment, underscores the need to consider wastewater as a reservoir and vector for potential environmental exposure ref [23].",
+    "refNo": 23,
+    "title": "Sewage surveillance for the presence of SARS-CoV-2 genome as a useful Wastewater Based Epidemiology (WBE) tracking tool in India",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Wastewater-based epidemiology has leveraged this shedding pattern to monitor community-level infection trends, with studies in India demonstrating the feasibility of using sewage surveillance to track SARS-CoV-2 prevalence in real time ref [25].",
+    "refNo": 25,
+    "title": "Existence of SARS-CoV-2 in wastewater: Implications for its environmental transmission in developing communities",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "The correlation between viral RNA concentrations in sewage and reported clinical cases has been validated in multiple settings, reinforcing the reliability of wastewater as a non-invasive surveillance tool ref [21].",
+    "refNo": 21,
+    "title": "Presence of SARS-coronavirus-2 RNA in sewage and correlation with reported COVID-19 prevalence in the early stage of the epidemic in The Netherlands",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "However, the variability in shedding kinetics among individuals, the influence of diet and medication on viral load, and the degradation rate of RNA in different environmental matrices remain key uncertainties in quantifying true infection prevalence from wastewater data ref [23].",
+    "refNo": 23,
+    "title": "Sewage surveillance for the presence of SARS-CoV-2 genome as a useful Wastewater Based Epidemiology (WBE) tracking tool in India",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Wastewater treatment plant (WWTP) workers face elevated occupational risks due to aerosolized viral particles generated during treatment processes, with quantitative microbial risk assessments (QMRA) estimating significant infection probabilities under moderate to extreme pandemic scenarios ref [32], ref [9], ref [10].",
+    "refNo": 32,
+    "title": "Quantitative microbial risk assessment of SARS-CoV-2 for workers in wastewater treatment plants",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "Wastewater treatment plant (WWTP) workers face elevated occupational risks due to aerosolized viral particles generated during treatment processes, with quantitative microbial risk assessments (QMRA) estimating significant infection probabilities under moderate to extreme pandemic scenarios ref [32], ref [9], ref [10].",
+    "refNo": 9,
+    "title": "First proof of the capability of wastewater surveillance for COVID-19 in India through detection of genetic material of SARS-CoV-2",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Wastewater treatment plant (WWTP) workers face elevated occupational risks due to aerosolized viral particles generated during treatment processes, with quantitative microbial risk assessments (QMRA) estimating significant infection probabilities under moderate to extreme pandemic scenarios ref [32], ref [9], ref [10].",
+    "refNo": 10,
+    "title": "The novel SARS-CoV-2 pandemic: Possible environmental transmission, detection, persistence and fate during wastewater and water treatment",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Evidence confirms SARS-CoV-2 RNA in bioaerosols at pumping stations and activated sludge units, though infectivity remains under investigation, necessitating combined molecular and cell culture methods for validation ref [27].",
+    "refNo": 27,
+    "title": "Recreational waters-A potential transmission route for SARS-CoV-2 to humans?",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "Faulty plumbing systems may facilitate airborne transmission via U-bend dry-outs and negative pressure gradients, as demonstrated in SARS outbreaks and corroborated in COVID-19 contexts ref [8].",
+    "refNo": 8,
+    "title": "Editorial perspectives: 2019 novel coronavirus (SARS-CoV-2): What is its fate in urban water cycle and how can the water research community respond?",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Recreational waters, particularly where untreated or partially treated effluent is discharged, present a theoretical exposure pathway, though current evidence suggests low risk to the general public due to dilution and environmental inactivation ref [30].",
+    "refNo": 30,
+    "title": "COVID-19: Mitigating transmission via wastewater plumbing systems",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "In low-resource settings with inadequate sanitation infrastructure, the risk of environmental dissemination is amplified, raising concerns for community-level transmission ref [31], ref [32].",
+    "refNo": 31,
+    "title": "Quantitative Microbial Risk Assessment (QMRA) of occupational exposure to SARS-CoV-2 in wastewater treatment plants",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "In low-resource settings with inadequate sanitation infrastructure, the risk of environmental dissemination is amplified, raising concerns for community-level transmission ref [31], ref [32].",
+    "refNo": 32,
+    "title": "Quantitative microbial risk assessment of SARS-CoV-2 for workers in wastewater treatment plants",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "Studies have demonstrated that SARS-CoV-2 RNA concentrations in wastewater can rise 1–2 weeks before increases in confirmed clinical cases, enabling proactive public health responses ref [33].",
+    "refNo": 33,
+    "title": "Unravelling the early warning capability of wastewater surveillance for COVID-19: A temporal study on SARS-CoV-2 RNA detection and need for the escalation",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "This temporal lead has been validated across diverse settings, including Montpellier, France, where wastewater signals preceded post-lockdown case surges, and in southeastern Virginia, where population-normalized viral loads correlated with regional outbreak dynamics ref [37] ref [35].",
+    "refNo": 37,
+    "title": "Implementing building-level SARS-CoV-2 wastewater surveillance on a university campus",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "This temporal lead has been validated across diverse settings, including Montpellier, France, where wastewater signals preceded post-lockdown case surges, and in southeastern Virginia, where population-normalized viral loads correlated with regional outbreak dynamics ref [37] ref [35].",
+    "refNo": 35,
+    "title": "Post-lockdown detection of SARS-CoV-2 RNA in the wastewater of",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "WBE is particularly effective in detecting asymptomatic and pre-symptomatic shedding, making it invaluable in populations with limited clinical testing capacity ref [33].",
+    "refNo": 33,
+    "title": "Unravelling the early warning capability of wastewater surveillance for COVID-19: A temporal study on SARS-CoV-2 RNA detection and need for the escalation",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "Recent applications have extended WBE to targeted environments, such as university dormitories and high-risk residential buildings, where even a single infected individual can be detected through sensitive RT-ddPCR or RT-qPCR methods ref [38] ref [39].",
+    "refNo": 38,
+    "title": "Wastewater-based epidemiology: Global collaborative to maximize contributions in the fight against COVID-19",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Recent applications have extended WBE to targeted environments, such as university dormitories and high-risk residential buildings, where even a single infected individual can be detected through sensitive RT-ddPCR or RT-qPCR methods ref [38] ref [39].",
+    "refNo": 39,
+    "title": "Estimating the minimum number of SARS-CoV-2 infected cases needed to detect viral RNA in wastewater: To what extent of the outbreak can surveillance of wastewater tell us?",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "The sensitivity of detection, however, depends on viral load thresholds; estimates suggest that 250–400 infected individuals per 10,000 residents are required for reliable detection in some systems ref [11].",
+    "refNo": 11,
+    "title": "Rethinking wastewater risks and monitoring in light of the COVID-19 pandemic",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "To maximize global utility, collaborative frameworks have been established to standardize sampling, analysis, and data interpretation across jurisdictions ref [9].",
+    "refNo": 9,
+    "title": "First proof of the capability of wastewater surveillance for COVID-19 in India through detection of genetic material of SARS-CoV-2",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "By integrating geospatial data with wastewater flow dynamics, researchers have mapped viral load distributions to correlate with reported case counts, revealing spatial disparities in community transmission ref [26].",
+    "refNo": 26,
+    "title": "COVID-19 infection risk from exposure to aerosols of wastewater treatment plants",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "Advances in GIS-based modeling allow for the overlay of demographic, socioeconomic, and infrastructure variables to identify vulnerable populations and optimize sampling site placement ref [32].",
+    "refNo": 32,
+    "title": "Quantitative microbial risk assessment of SARS-CoV-2 for workers in wastewater treatment plants",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "Data synthesis across multiple sampling points has been critical in distinguishing between localized outbreaks and broader regional trends, particularly in urban areas with complex sewer systems ref [21].",
+    "refNo": 21,
+    "title": "Presence of SARS-coronavirus-2 RNA in sewage and correlation with reported COVID-19 prevalence in the early stage of the epidemic in The Netherlands",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Machine learning approaches have been applied to integrate temporal and spatial wastewater data with public health records, improving predictive accuracy for case surges ref [37].",
+    "refNo": 37,
+    "title": "Implementing building-level SARS-CoV-2 wastewater surveillance on a university campus",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "Such syntheses also facilitate cross-jurisdictional comparisons, enhancing the scalability of wastewater-based epidemiology (WBE) as a public health tool ref [39].",
+    "refNo": 39,
+    "title": "Estimating the minimum number of SARS-CoV-2 infected cases needed to detect viral RNA in wastewater: To what extent of the outbreak can surveillance of wastewater tell us?",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "The integration of spatially resolved wastewater data with environmental and demographic covariates has revealed that low-flow zones and aging infrastructure can bias detection sensitivity, necessitating spatial correction models ref [30].",
+    "refNo": 30,
+    "title": "COVID-19: Mitigating transmission via wastewater plumbing systems",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "Studies in low-sanitation settings have demonstrated that riverine contamination patterns reflect upstream population density and sanitation access, highlighting the need for spatially explicit risk mapping ref [30].",
+    "refNo": 30,
+    "title": "COVID-19: Mitigating transmission via wastewater plumbing systems",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "Furthermore, data fusion techniques combining wastewater RNA concentrations with mobility data and testing rates have improved the spatial resolution of infection estimates, reducing false negatives in sparsely sampled areas ref [26].",
+    "refNo": 26,
+    "title": "COVID-19 infection risk from exposure to aerosols of wastewater treatment plants",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "Editorial perspectives have emphasized the urgent need for coordinated, cross-disciplinary responses to integrate wastewater monitoring into national pandemic response frameworks, highlighting the water research community’s unique capacity to provide early warning signals ref [8].",
+    "refNo": 8,
+    "title": "Editorial perspectives: 2019 novel coronavirus (SARS-CoV-2): What is its fate in urban water cycle and how can the water research community respond?",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "The water sector’s response must also address operational resilience, as pandemic-induced changes in wastewater composition and flow rates challenge conventional treatment processes ref [6].",
+    "refNo": 6,
+    "title": "The wastewater microbiome: A novel insight for COVID-19 surveillance",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Furthermore, the convergence of the COVID-19 pandemic with the fourth water and digital revolution has accelerated the adoption of real-time data analytics, IoT-enabled sensors, and AI-driven modeling to interpret wastewater signals at scale ref [7].",
+    "refNo": 7,
+    "title": "Coronavirus disease 2019 (COVID-19) outbreak: Some serious consequences with urban and rural water cycle",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Key considerations include the selection of representative sampling sites, such as influent streams at domestic sewage treatment plants, and the choice between grab and composite sampling strategies, which have been shown to yield correlated results in urban settings ref [41].",
+    "refNo": 41,
+    "title": "Defining the methodological approach for wastewater based epidemiological studies-surveillance of SARS-CoV-2",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "Temporal dynamics of viral RNA concentration, with peak levels observed during morning hours (6–9 am), underscore the importance of time-resolved sampling to capture community infection trends accurately ref [41].",
+    "refNo": 41,
+    "title": "Defining the methodological approach for wastewater based epidemiological studies-surveillance of SARS-CoV-2",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "Additionally, sample concentration techniques—such as polyethylene glycol precipitation and acid guanidinium thiocyanate-phenol-chloroform extraction—must be optimized for sensitivity and reproducibility in diverse wastewater matrices ref [11].",
+    "refNo": 11,
+    "title": "Rethinking wastewater risks and monitoring in light of the COVID-19 pandemic",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Safety protocols for personnel handling untreated sewage, along with quality assurance measures including negative controls and spike recovery tests, are critical to mitigate false positives and ensure data integrity ref [20].",
+    "refNo": 20,
+    "title": "Gastrointestinal and liver manifestations in patients with COVID-19",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Recent efforts have also emphasized the integration of digital tools and statistical modeling to translate RNA concentration data into estimates of infected population size, enhancing the predictive power of wastewater-based epidemiology ref [23].",
+    "refNo": 23,
+    "title": "Sewage surveillance for the presence of SARS-CoV-2 genome as a useful Wastewater Based Epidemiology (WBE) tracking tool in India",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Standardized reporting guidelines, such as those proposed by the Wastewater-Based Epidemiology Consortium, facilitate cross-study comparisons and meta-analyses ref [10].",
+    "refNo": 10,
+    "title": "The novel SARS-CoV-2 pandemic: Possible environmental transmission, detection, persistence and fate during wastewater and water treatment",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Emerging approaches incorporating metagenomic sequencing and machine learning offer promising avenues for distinguishing variant-specific signals and detecting low-prevalence outbreaks ref [36].",
+    "refNo": 36,
+    "title": "Non-intrusive wastewater surveillance for monitoring of a residential building for COVID-19 cases",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "Laboratory studies indicate that SARS-CoV-2 can persist for several days in wastewater at 4 °C, but its viability declines sharply at higher temperatures, particularly above 20 °C, due to envelope destabilization ref [43].",
+    "refNo": 43,
+    "title": "Making waves: Coronavirus detection, presence and persistence in the water environment: State of the art and knowledge needs for public health",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "The virus exhibits lower environmental persistence compared to non-enveloped enteric viruses, yet its presence in fecal matter—linked to gastrointestinal infection—poses potential exposure risks in settings with inadequate sanitation ref [28].",
+    "refNo": 28,
+    "title": "Coronaviruses in wastewater processes: Source, fate and potential risks",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Wastewater treatment processes, including primary sedimentation, activated sludge, and chlorination, demonstrate variable removal efficiencies, with some studies reporting >90% reduction in viral RNA concentrations ref [42].",
+    "refNo": 42,
+    "title": "Occurrence, fates and potential treatment approaches for removal of viruses from wastewater: A review with emphasis on SARS-CoV-2",
+    "marker_text": "[42]"
+  },
+  {
+    "sentence": "However, residual RNA in effluents and biosolids raises concerns regarding reuse practices and occupational exposure, particularly in low-resource settings where disinfection is inconsistent ref [43].",
+    "refNo": 43,
+    "title": "Making waves: Coronavirus detection, presence and persistence in the water environment: State of the art and knowledge needs for public health",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "Field monitoring has detected SARS-CoV-2 RNA in surface waters downstream of wastewater discharges, though infectious virus recovery remains rare, likely due to methodological limitations in sample concentration and detection ref [28].",
+    "refNo": 28,
+    "title": "Coronaviruses in wastewater processes: Source, fate and potential risks",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Computational modeling has shown that a single infected individual can be detected within populations ranging from 100 to 2,000,000, depending on local wastewater flow, viral shedding dynamics, and sampling sensitivity, highlighting its scalability across urban settings ref [9].",
+    "refNo": 9,
+    "title": "First proof of the capability of wastewater surveillance for COVID-19 in India through detection of genetic material of SARS-CoV-2",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "The method has been successfully implemented across diverse geographic and socioeconomic contexts, including low-resource regions, as evidenced by the first detection of SARS-CoV-2 genetic material in Indian wastewater, which correlated with rising case numbers and demonstrated temporal sensitivity ref [5].",
+    "refNo": 5,
+    "title": "Shedding of SARS-CoV-2 in feces and urine and its potential role in person-to-person transmission and the environment-based spread of COVID-19",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Beyond detection, WBE enables cost-effective population-level monitoring, with estimates suggesting that over 2.1 billion people could be tracked through existing sewage infrastructure, potentially saving billions in public health expenditures by prioritizing clinical testing ref [9].",
+    "refNo": 9,
+    "title": "First proof of the capability of wastewater surveillance for COVID-19 in India through detection of genetic material of SARS-CoV-2",
+    "marker_text": "[9]"
+  }
+]

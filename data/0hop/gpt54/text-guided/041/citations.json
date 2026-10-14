@@ -1,0 +1,974 @@
+[
+  {
+    "sentence": "The latter can be reproducibly measured, quantified and processed; and, (D) an associated electronics comprising of signal amplifier, signal processor and an interface, like a display, which finally allows a user-friendly visualization and evaluation of the data ref [4].",
+    "refNo": 4,
+    "title": "Development of Electrochemical Immunosensors toward Pointof-care Cancer Diagnostics: Clinically Relevant Studies",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "For electrochemical biosensor, electrode is used as transducer (Fig. 1A) ref [1], ref [4].",
+    "refNo": 1,
+    "title": "Electric and electrochemical microfluidic devices for cell analysis",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "For electrochemical biosensor, electrode is used as transducer (Fig. 1A) ref [1], ref [4].",
+    "refNo": 4,
+    "title": "Development of Electrochemical Immunosensors toward Pointof-care Cancer Diagnostics: Clinically Relevant Studies",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "The receptor is the most important component for the design of an electrochemical biosensor, which involves antibodies, lectins, peptides, deoxyribonucleic acid (DNA), peptide nucleic acids (PNAs), aptamers, and molecularly imprinted polymers (MIPs) ref [4].",
+    "refNo": 4,
+    "title": "Development of Electrochemical Immunosensors toward Pointof-care Cancer Diagnostics: Clinically Relevant Studies",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "The most important advantage of antibodies is the specificity and affinity of these probes to target analytes ref [4].",
+    "refNo": 4,
+    "title": "Development of Electrochemical Immunosensors toward Pointof-care Cancer Diagnostics: Clinically Relevant Studies",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Antibody-based electrochemical biosensors, also called electrochemical immunosensors, is a type of most common biosensor for cancer protein biomarkers detection ref [2], ref [3], ref [4], ref [5], ref [11].",
+    "refNo": 2,
+    "title": "A Novel Electrochemical Microfluidic Chip Combined with Multiple Biomarkers for Early Diagnosis of Gastric Cancer",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Antibody-based electrochemical biosensors, also called electrochemical immunosensors, is a type of most common biosensor for cancer protein biomarkers detection ref [2], ref [3], ref [4], ref [5], ref [11].",
+    "refNo": 3,
+    "title": "High-Throughput Electrochemical Microfluidic Immunoarray for Multiplexed Detection of Cancer Biomarker Proteins",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Antibody-based electrochemical biosensors, also called electrochemical immunosensors, is a type of most common biosensor for cancer protein biomarkers detection ref [2], ref [3], ref [4], ref [5], ref [11].",
+    "refNo": 4,
+    "title": "Development of Electrochemical Immunosensors toward Pointof-care Cancer Diagnostics: Clinically Relevant Studies",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Antibody-based electrochemical biosensors, also called electrochemical immunosensors, is a type of most common biosensor for cancer protein biomarkers detection ref [2], ref [3], ref [4], ref [5], ref [11].",
+    "refNo": 5,
+    "title": "Automated microfluidic platform of bead-based electrochemical immunosensor integrated with bioreactor for continual monitoring of cell secreted biomarkers",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Antibody-based electrochemical biosensors, also called electrochemical immunosensors, is a type of most common biosensor for cancer protein biomarkers detection ref [2], ref [3], ref [4], ref [5], ref [11].",
+    "refNo": 11,
+    "title": "Identification of volatile biomarkers of gastric cancer cells and ultrasensitive electrochemical detection based on sensing interface of Au-Ag alloy coated MWCNTs",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Lectins are natural proteins of non-immune origin with specific binding affinity for the glycan moiety of glycolipids and glycoproteins ref [6].",
+    "refNo": 6,
+    "title": "An introduction to bioinformatics for glycomics research",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "However, lectins exhibit low affinity (dissociation constant K d = 10 −3 -10 −4 mol L −1 ) while binding with carbohydrates compared to antigen-antibody interactions with K d in the subnanomolar range ref [6].",
+    "refNo": 6,
+    "title": "An introduction to bioinformatics for glycomics research",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "The lectins render them as valuable recognition elements for biosensing of glycoprotein tumor markers ref [6].",
+    "refNo": 6,
+    "title": "An introduction to bioinformatics for glycomics research",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Compared to antibody, the peptides are more stable, easier to overcome harsh environments and more amenable to synthesize at the molecular level ref [4].",
+    "refNo": 4,
+    "title": "Development of Electrochemical Immunosensors toward Pointof-care Cancer Diagnostics: Clinically Relevant Studies",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "A specific peptide for sensitive analysis of PSA was reported by He and coworkers, it showed a good selectivity to PSA when bovine serum albumin (BSA), hemoglobin (HB), CEA and human alphafetoprotein (AFP) were in the analyte solution ref [4].",
+    "refNo": 4,
+    "title": "Development of Electrochemical Immunosensors toward Pointof-care Cancer Diagnostics: Clinically Relevant Studies",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "A biomarker may be used to see how well the body responds to a treatment for a disease or condition\" ref [9], ref [10].",
+    "refNo": 9,
+    "title": "Detection of Molecular Markers of Cancer Through the Use of Biosensors",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "A biomarker may be used to see how well the body responds to a treatment for a disease or condition\" ref [9], ref [10].",
+    "refNo": 10,
+    "title": "Cancer biomarker detection: Recent achievements and challenges",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Cancer biomarkers can be of various molecular origins, including DNA (ie, specific mutation, translocation, amplification, and loss of heterozygosity), RNA, or protein/glycoproteins (ie, antigens, MMPs, cytokines) ref [9], ref [10].",
+    "refNo": 9,
+    "title": "Detection of Molecular Markers of Cancer Through the Use of Biosensors",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Cancer biomarkers can be of various molecular origins, including DNA (ie, specific mutation, translocation, amplification, and loss of heterozygosity), RNA, or protein/glycoproteins (ie, antigens, MMPs, cytokines) ref [9], ref [10].",
+    "refNo": 10,
+    "title": "Cancer biomarker detection: Recent achievements and challenges",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "They can be found in body fluids such as blood, serum, urine, saliva, tears or cerebral spinal fluid ref [9], ref [10].",
+    "refNo": 9,
+    "title": "Detection of Molecular Markers of Cancer Through the Use of Biosensors",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "They can be found in body fluids such as blood, serum, urine, saliva, tears or cerebral spinal fluid ref [9], ref [10].",
+    "refNo": 10,
+    "title": "Cancer biomarker detection: Recent achievements and challenges",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Detection of cancer biomarkers can be clinically applied for early cancer diagnosis, accurate pretreatment staging, determination of response to chemotherapy treatment, and monitoring disease progression ref [9], ref [10].",
+    "refNo": 9,
+    "title": "Detection of Molecular Markers of Cancer Through the Use of Biosensors",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Detection of cancer biomarkers can be clinically applied for early cancer diagnosis, accurate pretreatment staging, determination of response to chemotherapy treatment, and monitoring disease progression ref [9], ref [10].",
+    "refNo": 10,
+    "title": "Cancer biomarker detection: Recent achievements and challenges",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Lots of efforts have been made to identify biomarkers for specific cancers and use them to predict the risk ref [9], ref [10], ref [11], ref [6].",
+    "refNo": 9,
+    "title": "Detection of Molecular Markers of Cancer Through the Use of Biosensors",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Lots of efforts have been made to identify biomarkers for specific cancers and use them to predict the risk ref [9], ref [10], ref [11], ref [6].",
+    "refNo": 10,
+    "title": "Cancer biomarker detection: Recent achievements and challenges",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Lots of efforts have been made to identify biomarkers for specific cancers and use them to predict the risk ref [9], ref [10], ref [11], ref [6].",
+    "refNo": 11,
+    "title": "Identification of volatile biomarkers of gastric cancer cells and ultrasensitive electrochemical detection based on sensing interface of Au-Ag alloy coated MWCNTs",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Lots of efforts have been made to identify biomarkers for specific cancers and use them to predict the risk ref [9], ref [10], ref [11], ref [6].",
+    "refNo": 6,
+    "title": "An introduction to bioinformatics for glycomics research",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Protein and nucleic acid biomarkers associated with different cancers were list in Table II ref [9], ref [10], ref [8].",
+    "refNo": 9,
+    "title": "Detection of Molecular Markers of Cancer Through the Use of Biosensors",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Protein and nucleic acid biomarkers associated with different cancers were list in Table II ref [9], ref [10], ref [8].",
+    "refNo": 10,
+    "title": "Cancer biomarker detection: Recent achievements and challenges",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Protein and nucleic acid biomarkers associated with different cancers were list in Table II ref [9], ref [10], ref [8].",
+    "refNo": 8,
+    "title": "Rapid identification and quantification of tumor cells using an electrocatalytic method based on gold nanoparticles",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Volatile organic compounds (VOCs) that are emitted from cancer cell metabolism are considered to be important indicators for biochemical processes occurring in cancer cells ref [6].",
+    "refNo": 6,
+    "title": "An introduction to bioinformatics for glycomics research",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Analysis of VOCs may be capable of prognosticating and diagnosing early cancer ref [6].",
+    "refNo": 6,
+    "title": "An introduction to bioinformatics for glycomics research",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Zhang et al. developed an electrochemical biosensor with Au-Ag alloy composites-coated MWCNTs sensing interface for ultrasensitive detection of volatile biomarkers in MGC-803 gastric cancer cells ref [6].",
+    "refNo": 6,
+    "title": "An introduction to bioinformatics for glycomics research",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "CV studies showed that the fabricated sensor could detect 3-octanone in the range of 0∼0.0025% (v/v) and a detection limitation of 0.3 ppb ref [6].",
+    "refNo": 6,
+    "title": "An introduction to bioinformatics for glycomics research",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "The sensor could also detect butanone in the range of 0 ∼ 0.055% (v/v) with a detection limitation of 0.5 ppb ref [6].",
+    "refNo": 6,
+    "title": "An introduction to bioinformatics for glycomics research",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Good selectivity was exhibited by the sensor as well ref [6].",
+    "refNo": 6,
+    "title": "An introduction to bioinformatics for glycomics research",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "spite the increasing number of organs-on-a-chip that have been developed in the past decade, limited efforts have been made to integrate a sensing system for in situ continual measurements of biomarkers from the three-dimensional (3D) tissues ref [16], ref [9].",
+    "refNo": 16,
+    "title": "Current advances in aptamers for cancer diagnosis and therapy",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "spite the increasing number of organs-on-a-chip that have been developed in the past decade, limited efforts have been made to integrate a sensing system for in situ continual measurements of biomarkers from the three-dimensional (3D) tissues ref [16], ref [9].",
+    "refNo": 9,
+    "title": "Detection of Molecular Markers of Cancer Through the Use of Biosensors",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Ortega et al. 188 present a custommade integrated platform for muscle cell stimulation under fluidic conditions connected with a multiplexed high-sensitivity electrochemical sensing system for in situ monitoring ref [16], ref [9].",
+    "refNo": 16,
+    "title": "Current advances in aptamers for cancer diagnosis and therapy",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Ortega et al. 188 present a custommade integrated platform for muscle cell stimulation under fluidic conditions connected with a multiplexed high-sensitivity electrochemical sensing system for in situ monitoring ref [16], ref [9].",
+    "refNo": 9,
+    "title": "Detection of Molecular Markers of Cancer Through the Use of Biosensors",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "The detection sensitivity of the IL-6 and TNF-α are in the ng/mL (Fig. 5C) ref [9].",
+    "refNo": 9,
+    "title": "Detection of Molecular Markers of Cancer Through the Use of Biosensors",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Khademhosseini research group designed microfluidic aptamer-based 189 and antibody-based 190 electrochemical biosensing platform for monitoring cardiac biomarker creatine kinase (Fig. 5D/E) ref [7], ref [8], ref [16].",
+    "refNo": 7,
+    "title": "Emerging cytokine biosensors with optical detection modalities and nanomaterial-enabled signal enhancement",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Khademhosseini research group designed microfluidic aptamer-based 189 and antibody-based 190 electrochemical biosensing platform for monitoring cardiac biomarker creatine kinase (Fig. 5D/E) ref [7], ref [8], ref [16].",
+    "refNo": 8,
+    "title": "Rapid identification and quantification of tumor cells using an electrocatalytic method based on gold nanoparticles",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Khademhosseini research group designed microfluidic aptamer-based 189 and antibody-based 190 electrochemical biosensing platform for monitoring cardiac biomarker creatine kinase (Fig. 5D/E) ref [7], ref [8], ref [16].",
+    "refNo": 16,
+    "title": "Current advances in aptamers for cancer diagnosis and therapy",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "They also reported an automated microfluidic platform of bead-based electrochemical immunosensor integrated with bioreactor for continual monitoring of Transferrin and albumin ref [16], ref [9].",
+    "refNo": 16,
+    "title": "Current advances in aptamers for cancer diagnosis and therapy",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "They also reported an automated microfluidic platform of bead-based electrochemical immunosensor integrated with bioreactor for continual monitoring of Transferrin and albumin ref [16], ref [9].",
+    "refNo": 9,
+    "title": "Detection of Molecular Markers of Cancer Through the Use of Biosensors",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "The receptor is the most important component for the design of an electrochemical biosensor, which involves antibodies, lectins, peptides, deoxyribonucleic acid (DNA), peptide nucleic acids (PNAs), aptamers, and molecularly imprinted polymers (MIPs). [50][51][52] Antibodies, also known as immunoglobulins, are the immune system related proteins, which can selectively bind to antigens with a high binding constant in excess of 10 8 L mol −1.",
+    "refNo": 50,
+    "title": "Glycoprofiling of cancer biomarkers: Label-free electrochemical lectin-based biosensors",
+    "marker_text": "[50]"
+  },
+  {
+    "sentence": "The receptor is the most important component for the design of an electrochemical biosensor, which involves antibodies, lectins, peptides, deoxyribonucleic acid (DNA), peptide nucleic acids (PNAs), aptamers, and molecularly imprinted polymers (MIPs). [50][51][52] Antibodies, also known as immunoglobulins, are the immune system related proteins, which can selectively bind to antigens with a high binding constant in excess of 10 8 L mol −1.",
+    "refNo": 51,
+    "title": "Assessment of Cell Viability Using the Chronoamperometric Method Based on Screen-Printed Electrodes",
+    "marker_text": "[51]"
+  },
+  {
+    "sentence": "The receptor is the most important component for the design of an electrochemical biosensor, which involves antibodies, lectins, peptides, deoxyribonucleic acid (DNA), peptide nucleic acids (PNAs), aptamers, and molecularly imprinted polymers (MIPs). [50][51][52] Antibodies, also known as immunoglobulins, are the immune system related proteins, which can selectively bind to antigens with a high binding constant in excess of 10 8 L mol −1.",
+    "refNo": 52,
+    "title": "Metabolic Study of Cancer Cells Using a pH Sensitive Hydrogel Nanofiber Light Addressable Potentiometric Sensor",
+    "marker_text": "[52]"
+  },
+  {
+    "sentence": "The most important advantage of antibodies is the specificity and affinity of these probes to target analytes. 50 Antibody-based electrochemical biosensors, also called electrochemical immunosensors, is a type of most common biosensor for cancer protein biomarkers detection. [53][54][55][56] Lectins are natural proteins of non-immune origin with specific binding affinity for the glycan moiety of glycolipids and glycoproteins.",
+    "refNo": 53,
+    "title": "Using real-time impedance-based assays to monitor the effects of fibroblast-derived media on the adhesion, proliferation, migration and invasion of colon cancer cells",
+    "marker_text": "[53]"
+  },
+  {
+    "sentence": "The most important advantage of antibodies is the specificity and affinity of these probes to target analytes. 50 Antibody-based electrochemical biosensors, also called electrochemical immunosensors, is a type of most common biosensor for cancer protein biomarkers detection. [53][54][55][56] Lectins are natural proteins of non-immune origin with specific binding affinity for the glycan moiety of glycolipids and glycoproteins.",
+    "refNo": 54,
+    "title": "Bioimpedimetric analysis in conjunction with growth dynamics to differentiate aggressiveness of cancer cells",
+    "marker_text": "[54]"
+  },
+  {
+    "sentence": "The most important advantage of antibodies is the specificity and affinity of these probes to target analytes. 50 Antibody-based electrochemical biosensors, also called electrochemical immunosensors, is a type of most common biosensor for cancer protein biomarkers detection. [53][54][55][56] Lectins are natural proteins of non-immune origin with specific binding affinity for the glycan moiety of glycolipids and glycoproteins.",
+    "refNo": 55,
+    "title": "",
+    "marker_text": "[55]"
+  },
+  {
+    "sentence": "The most important advantage of antibodies is the specificity and affinity of these probes to target analytes. 50 Antibody-based electrochemical biosensors, also called electrochemical immunosensors, is a type of most common biosensor for cancer protein biomarkers detection. [53][54][55][56] Lectins are natural proteins of non-immune origin with specific binding affinity for the glycan moiety of glycolipids and glycoproteins.",
+    "refNo": 56,
+    "title": "",
+    "marker_text": "[56]"
+  },
+  {
+    "sentence": "DNA is a stable, low-cost and easily adaptable molecule, which is an excellent building block for the construction of electrochemical biosensor ref [18].",
+    "refNo": 18,
+    "title": "An electrochemical biosensor for detection of DNA species related to oral cancer based on a particular host-guest recognitionassisted strategy for signal tag in situ",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "DNA based electrochemical biosensors were used to detect the cancer related gene mutations ref [18].",
+    "refNo": 18,
+    "title": "An electrochemical biosensor for detection of DNA species related to oral cancer based on a particular host-guest recognitionassisted strategy for signal tag in situ",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "PNAs exhibits chemical and thermal stability in conditions where DNA/RNA would undergo degradation. 65,66 The biophysical properties of PNAs make it an excellent candidate for use in biosens-ing applications, particularly when used as the bioreceptor. 67 Micro RNAs 68 and ctDNA ref [22] were detected by electrochemical PNA biosensor.",
+    "refNo": 22,
+    "title": "Circulating tumor DNA and liquid biopsy: Opportunities, challenges, and recent advances in detection technologies",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Metal-based redox species include simple metal complexes such as [Ru(NH 3 ) 6 ] 3+/2+ ref [19], organic metal chelates [M(L) 3 ] 3+/2+ where M stands for Fe, Co, Os or Ru, and L for heterocyclic nitrogenous bidentate ligands such as 2,2'-bipyri- dine (bipy) or 1,10-phenantroline (phen), metalloporphyrins, oxoosmium(VI) complexes and metalloorganics such as ferrocene and its derivatives ref [19] (Fig. 2B).",
+    "refNo": 19,
+    "title": "Labels and Indicators Based on Transition Metals and Organic Electroactive Moieties for Electrochemical Nucleic Acids Sensing",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Metal-based redox species include simple metal complexes such as [Ru(NH 3 ) 6 ] 3+/2+ ref [19], organic metal chelates [M(L) 3 ] 3+/2+ where M stands for Fe, Co, Os or Ru, and L for heterocyclic nitrogenous bidentate ligands such as 2,2'-bipyri- dine (bipy) or 1,10-phenantroline (phen), metalloporphyrins, oxoosmium(VI) complexes and metalloorganics such as ferrocene and its derivatives ref [19] (Fig. 2B).",
+    "refNo": 19,
+    "title": "Labels and Indicators Based on Transition Metals and Organic Electroactive Moieties for Electrochemical Nucleic Acids Sensing",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Zhu et al. 81 applied AQ, thionine (TH), tris(2,2(-bipyridine-4,4(-dicarboxylic acid) cobalt(III) (Co(bpy) 3 3+ ) and ferrocenecarboxylic acid (Fc) as redox probes to simultaneously detect four biomarkers of colorectal carcinoma. 80 Among the known redox labels compatible with the DNA sensing platform, MB has emerged as the most versatile one, owing to its stability under a wide range of experimental conditions ref [19].",
+    "refNo": 19,
+    "title": "Labels and Indicators Based on Transition Metals and Organic Electroactive Moieties for Electrochemical Nucleic Acids Sensing",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Ratiometric signal transducing strategies can improve the precision of biosensor, which possess the unique merits of spatial-resolved signal readout and self-correcting toward possible false positive results ( Fig. 2D-ii) ref [21].",
+    "refNo": 21,
+    "title": "A label-free ratiometric electrochemical DNA sensor for monitoring intracellular redox homeostasis",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Rolling circle amplification (RCA) is a commonly used research tool for sensitive detection of DNA, RNA, DNA methylation, single nucleotide polymorphisms (SNP), small molecules, target proteins, and cancer cells ref [20].",
+    "refNo": 20,
+    "title": "Research progress on rolling circle amplification (Rca)-based biomedical sensing",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "The signal from a single binding event can be amplified in an exponential manner, so RCA is ideal for the required ultrasensitive detection ref [20].",
+    "refNo": 20,
+    "title": "Research progress on rolling circle amplification (Rca)-based biomedical sensing",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "A representative schematic diagram is showed in Fig. 3B. ref [20] 100 Electrochemical biosensor based on hybrid chain reaction (HCR), 101,102 nicking enzyme signaling amplification (NESA) 103 and enzyme-based exponential amplification 104 for cancer gene detection also have been reported.",
+    "refNo": 20,
+    "title": "Research progress on rolling circle amplification (Rca)-based biomedical sensing",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Cancer molecular biomarkers and CTCs have been widely detected and analysized by electrochemical microfluidic devices. [106][107][108][109] Uliana and coworkers 110 developed a fully disposable microfluidic electrochemical array device (μFED) to detect the breast cancer biomarker estrogen receptor alpha (ERα).",
+    "refNo": 106,
+    "title": "",
+    "marker_text": "[106]"
+  },
+  {
+    "sentence": "Cancer molecular biomarkers and CTCs have been widely detected and analysized by electrochemical microfluidic devices. [106][107][108][109] Uliana and coworkers 110 developed a fully disposable microfluidic electrochemical array device (μFED) to detect the breast cancer biomarker estrogen receptor alpha (ERα).",
+    "refNo": 107,
+    "title": "",
+    "marker_text": "[107]"
+  },
+  {
+    "sentence": "Cancer molecular biomarkers and CTCs have been widely detected and analysized by electrochemical microfluidic devices. [106][107][108][109] Uliana and coworkers 110 developed a fully disposable microfluidic electrochemical array device (μFED) to detect the breast cancer biomarker estrogen receptor alpha (ERα).",
+    "refNo": 108,
+    "title": "",
+    "marker_text": "[108]"
+  },
+  {
+    "sentence": "Cancer molecular biomarkers and CTCs have been widely detected and analysized by electrochemical microfluidic devices. [106][107][108][109] Uliana and coworkers 110 developed a fully disposable microfluidic electrochemical array device (μFED) to detect the breast cancer biomarker estrogen receptor alpha (ERα).",
+    "refNo": 109,
+    "title": "",
+    "marker_text": "[109]"
+  },
+  {
+    "sentence": "Other cytokines (including growth factors), like IL-1β, IL8, tumor necrosis factor-alpha (TNF-α), human epidermal growth factor receptor 2 (HER2), platelet-derived growth factor (PDGF), vascular endothelial growth factor (VEGF) were also reported as cancer biomarkers. 33,50,133 Nucleic acid.-Cell-free nucleic acids (cfNAs), such as cfDNA and cfRNA, are present at significant levels in the blood of cancer patients, are highly desirable targets for electrochemical sensor ref [22].",
+    "refNo": 22,
+    "title": "Circulating tumor DNA and liquid biopsy: Opportunities, challenges, and recent advances in detection technologies",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "A fraction of hematogenous cfDNA originates from tumors are termed as circulating tumor DNA (ctDNA) ref [22].",
+    "refNo": 22,
+    "title": "Circulating tumor DNA and liquid biopsy: Opportunities, challenges, and recent advances in detection technologies",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Traditionally, cancer related ctDNA have been detected using a variety of untargeted methods such as digital karyotyping, personalized analysis of rearranged ends (PARE), whole-genome sequencing of ctDNA, and targeted approaches such as conventional and digital PCR-based methods and deep sequencingbased technologies ref [22].",
+    "refNo": 22,
+    "title": "Circulating tumor DNA and liquid biopsy: Opportunities, challenges, and recent advances in detection technologies",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Recent advances of electrochemical biosensor based liquid biopsy technic will potentially lead to the development of diagnosis, prognosis, therapy response monitoring, and tracking the rise of new mutant sub-clones in cancer patients ref [22].",
+    "refNo": 22,
+    "title": "Circulating tumor DNA and liquid biopsy: Opportunities, challenges, and recent advances in detection technologies",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Compared to traditional tumor tissue biopsies, electrochemical sensor can directly detect cancer-implicated mutant ctDNA without the need for invasive sampling of tissue ref [22].",
+    "refNo": 22,
+    "title": "Circulating tumor DNA and liquid biopsy: Opportunities, challenges, and recent advances in detection technologies",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Chen et al. 137 reported electrochemical interrogation of circulating methylated DNA from plasma samples using a paired-end tagging ref [23].",
+    "refNo": 23,
+    "title": "Accurate Electrochemistry Analysis of Circulating Methylated DNA from Clinical Plasma Based on Paired-End Tagging and Amplifications",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "The clinical sensitivity was 91% (10/11 patient samples) ref [23].",
+    "refNo": 23,
+    "title": "Accurate Electrochemistry Analysis of Circulating Methylated DNA from Clinical Plasma Based on Paired-End Tagging and Amplifications",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "In a similar way, this sequential discrimination-amplification strategy was used for circulating methylated DNA detection with singlecopy sensitivity ref [23].",
+    "refNo": 23,
+    "title": "Accurate Electrochemistry Analysis of Circulating Methylated DNA from Clinical Plasma Based on Paired-End Tagging and Amplifications",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Using this sensitive detection technique, interrogation of as few as one methylated DNA molecule in the presence of a 1000-fold excess of unmethylated alleles was achieved ref [23].",
+    "refNo": 23,
+    "title": "Accurate Electrochemistry Analysis of Circulating Methylated DNA from Clinical Plasma Based on Paired-End Tagging and Amplifications",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "It can detect DNA mutations within 15 minutes with high sensitivity and specificity ref [22].",
+    "refNo": 22,
+    "title": "Circulating tumor DNA and liquid biopsy: Opportunities, challenges, and recent advances in detection technologies",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "In electrochemical miRNA biosensors, cyclic voltammetry (CV), differential pulse voltammetry (DPV), and square wave voltammetry (SWV) are the most attractive techniques due to higher sensitivity. [143][144][145] Kaplan et al. 146 developed biosensor based on electropolymerized polypyrrole (PPy) modified pencil graphite electrodes (PPy/PGE) to detect the miR-21 from breast cancer cell line MCF-7.",
+    "refNo": 143,
+    "title": "",
+    "marker_text": "[143]"
+  },
+  {
+    "sentence": "In electrochemical miRNA biosensors, cyclic voltammetry (CV), differential pulse voltammetry (DPV), and square wave voltammetry (SWV) are the most attractive techniques due to higher sensitivity. [143][144][145] Kaplan et al. 146 developed biosensor based on electropolymerized polypyrrole (PPy) modified pencil graphite electrodes (PPy/PGE) to detect the miR-21 from breast cancer cell line MCF-7.",
+    "refNo": 144,
+    "title": "",
+    "marker_text": "[144]"
+  },
+  {
+    "sentence": "In electrochemical miRNA biosensors, cyclic voltammetry (CV), differential pulse voltammetry (DPV), and square wave voltammetry (SWV) are the most attractive techniques due to higher sensitivity. [143][144][145] Kaplan et al. 146 developed biosensor based on electropolymerized polypyrrole (PPy) modified pencil graphite electrodes (PPy/PGE) to detect the miR-21 from breast cancer cell line MCF-7.",
+    "refNo": 145,
+    "title": "",
+    "marker_text": "[145]"
+  },
+  {
+    "sentence": "A novel label-free electrochemical microRNA biosensor using Pd nanoparticles as enhancer and linker was also reported ref [24].",
+    "refNo": 24,
+    "title": "A novel label-free electrochemical microRNA biosensor using Pd nanoparticles as enhancer and linker",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "They can be obtained from body fluids (such as serum, plasma, and urine) with high abundance and stability ref [25]. [150][151][152][153] Jeong and coworkers reported a portable magneto− electrochemical device and applied it to screen extracellular vesicles in plasma samples from ovarian cancer patients ref [27].",
+    "refNo": 25,
+    "title": "Recent Advances in Exosomal Protein Detection Via Liquid Biopsy Biosensors for Cancer Screening, Diagnosis, and Prognosis",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "They can be obtained from body fluids (such as serum, plasma, and urine) with high abundance and stability ref [25]. [150][151][152][153] Jeong and coworkers reported a portable magneto− electrochemical device and applied it to screen extracellular vesicles in plasma samples from ovarian cancer patients ref [27].",
+    "refNo": 150,
+    "title": "",
+    "marker_text": "[150]"
+  },
+  {
+    "sentence": "They can be obtained from body fluids (such as serum, plasma, and urine) with high abundance and stability ref [25]. [150][151][152][153] Jeong and coworkers reported a portable magneto− electrochemical device and applied it to screen extracellular vesicles in plasma samples from ovarian cancer patients ref [27].",
+    "refNo": 151,
+    "title": "",
+    "marker_text": "[151]"
+  },
+  {
+    "sentence": "They can be obtained from body fluids (such as serum, plasma, and urine) with high abundance and stability ref [25]. [150][151][152][153] Jeong and coworkers reported a portable magneto− electrochemical device and applied it to screen extracellular vesicles in plasma samples from ovarian cancer patients ref [27].",
+    "refNo": 152,
+    "title": "",
+    "marker_text": "[152]"
+  },
+  {
+    "sentence": "They can be obtained from body fluids (such as serum, plasma, and urine) with high abundance and stability ref [25]. [150][151][152][153] Jeong and coworkers reported a portable magneto− electrochemical device and applied it to screen extracellular vesicles in plasma samples from ovarian cancer patients ref [27].",
+    "refNo": 153,
+    "title": "",
+    "marker_text": "[153]"
+  },
+  {
+    "sentence": "They can be obtained from body fluids (such as serum, plasma, and urine) with high abundance and stability ref [25]. [150][151][152][153] Jeong and coworkers reported a portable magneto− electrochemical device and applied it to screen extracellular vesicles in plasma samples from ovarian cancer patients ref [27].",
+    "refNo": 27,
+    "title": "Integrated Magneto-Electrochemical Sensor for Exosome Analysis",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "By combining magnetic enrichment and enzymatic amplification, the device was able to detect exosomes at a sensitivity of <105 vesicles ref [27]. 154 Li et al. 155 used EIS to quantify both external (tetraspanin) and internal (syntenin) exosome-specific markers with LOD of 1.9 × 10 5 particles mL −1 ref [28].",
+    "refNo": 27,
+    "title": "Integrated Magneto-Electrochemical Sensor for Exosome Analysis",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "By combining magnetic enrichment and enzymatic amplification, the device was able to detect exosomes at a sensitivity of <105 vesicles ref [27]. 154 Li et al. 155 used EIS to quantify both external (tetraspanin) and internal (syntenin) exosome-specific markers with LOD of 1.9 × 10 5 particles mL −1 ref [28].",
+    "refNo": 28,
+    "title": "Concentration-Normalized Electroanalytical Assaying of Exosomal Markers",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "The principle of NTH enhancement allows for the maintenance of spatial orientation and reduces the hindrance effect for better biomolecular recognition, the LOD was calculated to be 2.09 × 10 4 exosomes mL −1 ref [25].",
+    "refNo": 25,
+    "title": "Recent Advances in Exosomal Protein Detection Via Liquid Biopsy Biosensors for Cancer Screening, Diagnosis, and Prognosis",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Study of detection and capture of exosomes by using the morphologies of ex situ and in situ nanostructures has also been reported ref [26]. spite the increasing number of organs-on-a-chip that have been developed in the past decade, limited efforts have been made to integrate a sensing system for in situ continual measurements of biomarkers from the three-dimensional (3D) tissues.",
+    "refNo": 26,
+    "title": "Study of detection and capture of exosomes by using the morphologies of ex situ and in situ nanostructures",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "Cancer cell detection.-Sensitive detection of cancer cells can provide effective information of progression of cancer ref [29].",
+    "refNo": 29,
+    "title": "Biosensors for the detection of circulating tumour cells",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Cancer cell of particular type can be specifically detected by electrochemical biosensors ref [29].",
+    "refNo": 29,
+    "title": "Biosensors for the detection of circulating tumour cells",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Li et al. 157 proposed an efficient electrochemical method to detect and distinguish breast cancer cells via recognition of two tumor markers human mucin-1(MUC1) and CEA expressed on the surface of breast cancer cell MCF-7 ref [29].",
+    "refNo": 29,
+    "title": "Biosensors for the detection of circulating tumour cells",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "The breast cancer cells MCF-7 are first recognized due to the specific interaction between MUC1 on the cell surface and its aptamer molecules, which are immobilized on a gold electrode surface ref [29].",
+    "refNo": 29,
+    "title": "Biosensors for the detection of circulating tumour cells",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Subsequently, another tumor marker CEA on the cell surface is captured by CdS nanoparticles (CdS NPs) labeled anti-CEA ref [29].",
+    "refNo": 29,
+    "title": "Biosensors for the detection of circulating tumour cells",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "A label free aptasensor was reported by Wang et al. 158 for detecting cancer cell constructed through layer by layer assembly technique (LBL) with ferrocene-appended poly(allylamine hydrochloride) functionalized graphene (Fc-PAH-G), poly(sodium-p-styrenesulfonate) (PSS) and aptamer (AS1411) ref [29].",
+    "refNo": 29,
+    "title": "Biosensors for the detection of circulating tumour cells",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Differential pulse voltammetry (DPV) was performed to investigate the electrochemical detection of HeLa cells ref [29].",
+    "refNo": 29,
+    "title": "Biosensors for the detection of circulating tumour cells",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Layer by layer construction of electrode helps improve the sensitivity and enhance amplified signal ref [29].",
+    "refNo": 29,
+    "title": "Biosensors for the detection of circulating tumour cells",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "A wide LR from 10 to 10 6 cells mL −1 with a detection limit as low as 10 cells mL −1 was achieved ref [29].",
+    "refNo": 29,
+    "title": "Biosensors for the detection of circulating tumour cells",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Seenivasan et al. 159 used a dual-working electrode (WE) surface to improve the specificity of the detection system ref [29].",
+    "refNo": 29,
+    "title": "Biosensors for the detection of circulating tumour cells",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "One of the WE surface is functionalized with anti-Melanocortin 1 Receptor antibodies specific to melanoma cancer cells, while the other WE act as a control (i.e., without antibody), for detecting non-specific interactions between cells and the electrode ref [29].",
+    "refNo": 29,
+    "title": "Biosensors for the detection of circulating tumour cells",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "The method is described and shown to provide effective detection of melanoma cells at concentrations ranging between 25 and 300 cells per 20 mL after a 5 min incubation and 15 s of DPV measurements ref [29].",
+    "refNo": 29,
+    "title": "Biosensors for the detection of circulating tumour cells",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "The estimated limit of detection was ∼17 cells ref [29].",
+    "refNo": 29,
+    "title": "Biosensors for the detection of circulating tumour cells",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "In recent years, selectively capturing and isolating cancer cells have drawn more attention ref [29].",
+    "refNo": 29,
+    "title": "Biosensors for the detection of circulating tumour cells",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Sun et al. 160 uses an electrochemical desorption method for the efficient release of HepG2 tumor cells by cleaving the Au-S bonds on the SPGE interfaces ref [29].",
+    "refNo": 29,
+    "title": "Biosensors for the detection of circulating tumour cells",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "The microscope image demonstrated that the released cells still maintain high viability for further study ref [29].",
+    "refNo": 29,
+    "title": "Biosensors for the detection of circulating tumour cells",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Instead of using bioreceptor to recognize cell, some researchers use electric cell-substrate impedance sensing (ECIS) to achieve dynamic, real-time, non-invasive, and label-free monitoring of cell growth and viability ref [29].",
+    "refNo": 29,
+    "title": "Biosensors for the detection of circulating tumour cells",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Pan et al. 161 reported a 3D electric cell/matrigel-substrate impedance sensing (3D ECMIS) platform for human hepatoma cells (HepG2) ref [29].",
+    "refNo": 29,
+    "title": "Biosensors for the detection of circulating tumour cells",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Based on this 3D ECMIS sensor, it is convenient to monitor the cell growth and viability and provide more dynamic data for drug screening ref [1,2].",
+    "refNo": 1,
+    "title": "Electric and electrochemical microfluidic devices for cell analysis",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Based on this 3D ECMIS sensor, it is convenient to monitor the cell growth and viability and provide more dynamic data for drug screening ref [1,2].",
+    "refNo": 2,
+    "title": "A Novel Electrochemical Microfluidic Chip Combined with Multiple Biomarkers for Early Diagnosis of Gastric Cancer",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Tissue/organ level and tumor microenvironment measurement.-Electrochemical biosensors have also been used for tumor tissue detection, and related impedance- and microenvironment-monitoring strategies have been demonstrated in cell and microsystem formats ref [31], ref [32], ref [33], ref [34].",
+    "refNo": 31,
+    "title": "Impedance characterization of chitosan cytotoxicity to MCF-7 breast cancer cells using a multidisc indium tin oxide microelectrode array",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "Tissue/organ level and tumor microenvironment measurement.-Electrochemical biosensors have also been used for tumor tissue detection, and related impedance- and microenvironment-monitoring strategies have been demonstrated in cell and microsystem formats ref [31], ref [32], ref [33], ref [34].",
+    "refNo": 32,
+    "title": "Cellular impedance biosensors for drug screening and toxin detection",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "Tissue/organ level and tumor microenvironment measurement.-Electrochemical biosensors have also been used for tumor tissue detection, and related impedance- and microenvironment-monitoring strategies have been demonstrated in cell and microsystem formats ref [31], ref [32], ref [33], ref [34].",
+    "refNo": 33,
+    "title": "Sensor access to the cellular microenvironment using the sensing cell culture flask",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "Tissue/organ level and tumor microenvironment measurement.-Electrochemical biosensors have also been used for tumor tissue detection, and related impedance- and microenvironment-monitoring strategies have been demonstrated in cell and microsystem formats ref [31], ref [32], ref [33], ref [34].",
+    "refNo": 34,
+    "title": "Cell culture monitoring for drug screening and cancer research: A transparent, microfluidic, multi-sensor microsystem",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "In this review, new advancements of electrochemical biosensor used in cancer liquid biopsy (include protein, nucleic acid, exosomes and cancer cell biomarkers detection), cancer drug sensitivity monitoring, cancer-on-a-chip and cancer in vivo detection were summarized and discussed ref [37], ref [38].",
+    "refNo": 37,
+    "title": "Taking advantage of tumor cell adaptations to hypoxia for developing new tumor markers and treatment strategies",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "In this review, new advancements of electrochemical biosensor used in cancer liquid biopsy (include protein, nucleic acid, exosomes and cancer cell biomarkers detection), cancer drug sensitivity monitoring, cancer-on-a-chip and cancer in vivo detection were summarized and discussed ref [37], ref [38].",
+    "refNo": 38,
+    "title": "Targeting tumour hypoxia to prevent cancer metastasis. From biology, biosensing and technology to drug development: The METOXIA consortium",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Though devices based on electrochemical biosensors rarely have been used in clinical patients, they have shown great potential and achieved great progress ref [38].",
+    "refNo": 38,
+    "title": "Targeting tumour hypoxia to prevent cancer metastasis. From biology, biosensing and technology to drug development: The METOXIA consortium",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "EIS provides the advantages of long-term, real-time and dynamic monitoring of cancer biomarkers and cells ref [38].",
+    "refNo": 38,
+    "title": "Targeting tumour hypoxia to prevent cancer metastasis. From biology, biosensing and technology to drug development: The METOXIA consortium",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "GSH, the most abundant thiol-containing tripeptide in biological systems, is regarded as the key molecule to maintain the intracellular redox homeostasis ref [39].",
+    "refNo": 39,
+    "title": "A review on the latest developments in nanostructurebased electrochemical sensors for glutathione",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "Hence, the measurement of GSH concentration has been used for evaluating the intracellular redox state ref [39].",
+    "refNo": 39,
+    "title": "A review on the latest developments in nanostructurebased electrochemical sensors for glutathione",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "With the electro-active nature of GSH, its electrochemical detection via direct oxidation has been demonstrated in clinical application ref [39].",
+    "refNo": 39,
+    "title": "A review on the latest developments in nanostructurebased electrochemical sensors for glutathione",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "Unfortunately, the direct oxidation of GSH using an electrochemical method is not a fully satisfactory strategy due to the poor voltammetric behavior of GSH ref [39].",
+    "refNo": 39,
+    "title": "A review on the latest developments in nanostructurebased electrochemical sensors for glutathione",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "In recent years, there has been a growing interest in the application of novel biosensors in tissue engineering or tissue and organ which are fabricated by 3D bioprinting in a non-invasive style ref [40].",
+    "refNo": 40,
+    "title": "Recent advances in application of biosensors in tissue engineering",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "For example, on-site, real-time, continuously detection of small molecules such as glucose, lactose, and H 2 O 2; as well as proteins of large molecular size, such as albumin and alpha-fetoprotein; and inflammatory cytokines, such as IFN-g and TNF-α ref [40].",
+    "refNo": 40,
+    "title": "Recent advances in application of biosensors in tissue engineering",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "Developing implantable, long-term stable, and biocompatible electrochemical biosensors to detect biomarkers or metabolites in tissue or organ is needed ref [40].",
+    "refNo": 40,
+    "title": "Recent advances in application of biosensors in tissue engineering",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "Pettersen and coworkers [184][185][186] proposed the concept of the Sensing cell Culture Flask (SCCF) which provides a technological platform for cell culture monitoring without the need to deviate from tissue culture flasks (Fig. 5A).",
+    "refNo": 184,
+    "title": "",
+    "marker_text": "[184]"
+  },
+  {
+    "sentence": "Pettersen and coworkers [184][185][186] proposed the concept of the Sensing cell Culture Flask (SCCF) which provides a technological platform for cell culture monitoring without the need to deviate from tissue culture flasks (Fig. 5A).",
+    "refNo": 185,
+    "title": "",
+    "marker_text": "[185]"
+  },
+  {
+    "sentence": "Pettersen and coworkers [184][185][186] proposed the concept of the Sensing cell Culture Flask (SCCF) which provides a technological platform for cell culture monitoring without the need to deviate from tissue culture flasks (Fig. 5A).",
+    "refNo": 186,
+    "title": "",
+    "marker_text": "[186]"
+  },
+  {
+    "sentence": "The size, phenotype, and metabolism of cancerous cells usually change compared to normal cells ref [44].",
+    "refNo": 44,
+    "title": "Electrochemical biosensor for cancer cell detection based on a surface 3D micro-array",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "Meanwhile, the tumor related microenvironment also changes ref [41], ref [42].",
+    "refNo": 41,
+    "title": "Peptide Microarray-Based Metal Enhanced Fluorescence Assay for Multiple Profiling of Matrix Metalloproteinases Activities",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "Meanwhile, the tumor related microenvironment also changes ref [41], ref [42].",
+    "refNo": 42,
+    "title": "Ultrasensitive immunosensor array for TNF-α detection in artificial saliva using polymer-coated magnetic microparticles onto screen-printed gold electrode",
+    "marker_text": "[42]"
+  },
+  {
+    "sentence": "Immune cells secrete some special cytokines in response to cancer cells ref [42].",
+    "refNo": 42,
+    "title": "Ultrasensitive immunosensor array for TNF-α detection in artificial saliva using polymer-coated magnetic microparticles onto screen-printed gold electrode",
+    "marker_text": "[42]"
+  },
+  {
+    "sentence": "The extracellular matrix (ECM) also undergoes significant changes under the action of matrix metalloproteinases (MMPs) ref [41].",
+    "refNo": 41,
+    "title": "Peptide Microarray-Based Metal Enhanced Fluorescence Assay for Multiple Profiling of Matrix Metalloproteinases Activities",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "Throughout the process of tumor formation, development and metastasis, many different cancer biomarkers are produced, such as altered genomic, circulating tumor DNA (ctDNA), microRNA, cancer antigens, cytokines, MMPs, exosomes, Circulating Tumor Cells (CTCs) etc. ref [41], ref [42], ref [43], ref [44], ref [45] The biomarkers originating from tumorigenesis, migration and colonization to a second site are systematically presented in Fig. 1B.",
+    "refNo": 41,
+    "title": "Peptide Microarray-Based Metal Enhanced Fluorescence Assay for Multiple Profiling of Matrix Metalloproteinases Activities",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "Throughout the process of tumor formation, development and metastasis, many different cancer biomarkers are produced, such as altered genomic, circulating tumor DNA (ctDNA), microRNA, cancer antigens, cytokines, MMPs, exosomes, Circulating Tumor Cells (CTCs) etc. ref [41], ref [42], ref [43], ref [44], ref [45] The biomarkers originating from tumorigenesis, migration and colonization to a second site are systematically presented in Fig. 1B.",
+    "refNo": 42,
+    "title": "Ultrasensitive immunosensor array for TNF-α detection in artificial saliva using polymer-coated magnetic microparticles onto screen-printed gold electrode",
+    "marker_text": "[42]"
+  },
+  {
+    "sentence": "Throughout the process of tumor formation, development and metastasis, many different cancer biomarkers are produced, such as altered genomic, circulating tumor DNA (ctDNA), microRNA, cancer antigens, cytokines, MMPs, exosomes, Circulating Tumor Cells (CTCs) etc. ref [41], ref [42], ref [43], ref [44], ref [45] The biomarkers originating from tumorigenesis, migration and colonization to a second site are systematically presented in Fig. 1B.",
+    "refNo": 43,
+    "title": "Development of a Biosensor for Detection of Pleural Mesothelioma Cancer Biomarker Using Surface Imprinting",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "Throughout the process of tumor formation, development and metastasis, many different cancer biomarkers are produced, such as altered genomic, circulating tumor DNA (ctDNA), microRNA, cancer antigens, cytokines, MMPs, exosomes, Circulating Tumor Cells (CTCs) etc. ref [41], ref [42], ref [43], ref [44], ref [45] The biomarkers originating from tumorigenesis, migration and colonization to a second site are systematically presented in Fig. 1B.",
+    "refNo": 44,
+    "title": "Electrochemical biosensor for cancer cell detection based on a surface 3D micro-array",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "Throughout the process of tumor formation, development and metastasis, many different cancer biomarkers are produced, such as altered genomic, circulating tumor DNA (ctDNA), microRNA, cancer antigens, cytokines, MMPs, exosomes, Circulating Tumor Cells (CTCs) etc. ref [41], ref [42], ref [43], ref [44], ref [45] The biomarkers originating from tumorigenesis, migration and colonization to a second site are systematically presented in Fig. 1B.",
+    "refNo": 45,
+    "title": "Conductometric immunoassay of alpha-fetoprotein in sera of liver cancer patients using bienzymefunctionalized nanometer-sized silica beads",
+    "marker_text": "[45]"
+  },
+  {
+    "sentence": "Meanwhile, the tumor related microenvironment also changes ref [46].",
+    "refNo": 46,
+    "title": "Breast Cancer Metastasis: Are Cytokines Important Players during Its Development and Progression?",
+    "marker_text": "[46]"
+  },
+  {
+    "sentence": "Immune cells secrete some special cytokines in response to cancer cells ref [46].",
+    "refNo": 46,
+    "title": "Breast Cancer Metastasis: Are Cytokines Important Players during Its Development and Progression?",
+    "marker_text": "[46]"
+  },
+  {
+    "sentence": "The extracellular matrix (ECM) also undergoes significant changes under the action of matrix metalloproteinases (MMPs) ref [46].",
+    "refNo": 46,
+    "title": "Breast Cancer Metastasis: Are Cytokines Important Players during Its Development and Progression?",
+    "marker_text": "[46]"
+  },
+  {
+    "sentence": "Throughout the process of tumor formation, development and metastasis, many different cancer biomarkers are produced, such as altered genomic, circulating tumor DNA (ctDNA), microRNA, cancer antigens, cytokines, MMPs, exosomes, Circulating Tumor Cells (CTCs) etc. ref [46], ref [47], ref [48], ref [49], ref [50] The biomarkers originating from tumorigenesis, migration and colonization to a second site are systematically presented in Fig. 1B.",
+    "refNo": 46,
+    "title": "Breast Cancer Metastasis: Are Cytokines Important Players during Its Development and Progression?",
+    "marker_text": "[46]"
+  },
+  {
+    "sentence": "Throughout the process of tumor formation, development and metastasis, many different cancer biomarkers are produced, such as altered genomic, circulating tumor DNA (ctDNA), microRNA, cancer antigens, cytokines, MMPs, exosomes, Circulating Tumor Cells (CTCs) etc. ref [46], ref [47], ref [48], ref [49], ref [50] The biomarkers originating from tumorigenesis, migration and colonization to a second site are systematically presented in Fig. 1B.",
+    "refNo": 47,
+    "title": "Micrornas: New biomarkers for diagnosis, prognosis, therapy prediction and therapeutic tools for breast cancer",
+    "marker_text": "[47]"
+  },
+  {
+    "sentence": "Throughout the process of tumor formation, development and metastasis, many different cancer biomarkers are produced, such as altered genomic, circulating tumor DNA (ctDNA), microRNA, cancer antigens, cytokines, MMPs, exosomes, Circulating Tumor Cells (CTCs) etc. ref [46], ref [47], ref [48], ref [49], ref [50] The biomarkers originating from tumorigenesis, migration and colonization to a second site are systematically presented in Fig. 1B.",
+    "refNo": 48,
+    "title": "A label-free electrical detection of exosomal microRNAs using microelectrode array",
+    "marker_text": "[48]"
+  },
+  {
+    "sentence": "Throughout the process of tumor formation, development and metastasis, many different cancer biomarkers are produced, such as altered genomic, circulating tumor DNA (ctDNA), microRNA, cancer antigens, cytokines, MMPs, exosomes, Circulating Tumor Cells (CTCs) etc. ref [46], ref [47], ref [48], ref [49], ref [50] The biomarkers originating from tumorigenesis, migration and colonization to a second site are systematically presented in Fig. 1B.",
+    "refNo": 49,
+    "title": "An aptabiosensor for colon cancer diagnostics",
+    "marker_text": "[49]"
+  },
+  {
+    "sentence": "Throughout the process of tumor formation, development and metastasis, many different cancer biomarkers are produced, such as altered genomic, circulating tumor DNA (ctDNA), microRNA, cancer antigens, cytokines, MMPs, exosomes, Circulating Tumor Cells (CTCs) etc. ref [46], ref [47], ref [48], ref [49], ref [50] The biomarkers originating from tumorigenesis, migration and colonization to a second site are systematically presented in Fig. 1B.",
+    "refNo": 50,
+    "title": "Glycoprofiling of cancer biomarkers: Label-free electrochemical lectin-based biosensors",
+    "marker_text": "[50]"
+  },
+  {
+    "sentence": "In another work, carcinoembryonic antigen (CEA) was detected from CEA-producing LoVo human colon cancer cells using surface molecular imprinted self-assembled monolayers (SAM) of hydroxyl-terminated alkanethiol and template biomolecules on gold-coated silicon chip as bio-recognition element for a potentiometric biosensor with reported LR of 2.5-250 ng mL −1 ref [49].",
+    "refNo": 49,
+    "title": "An aptabiosensor for colon cancer diagnostics",
+    "marker_text": "[49]"
+  },
+  {
+    "sentence": "In malignant pleural mesotheliomas (MPM), the overexpressed proteinaceous biomarker hyaluronan-linked protein 1 (HAPLN1) has also been targeted for using label-free potentiometric detection and achieved the LOD in pM range with a quick response time of 2-5 min in real sample. 27 In a study carried out by Goda and coworkers, a hybridization-based potentiometric microarray was developed to detect the exosomal miRNA ref [48].",
+    "refNo": 48,
+    "title": "A label-free electrical detection of exosomal microRNAs using microelectrode array",
+    "marker_text": "[48]"
+  },
+  {
+    "sentence": "Chronopotentiometric stripping (CPS) was used by Belicky et al. to investigate the prostate specific antigen (PSA) and its interactions with lectins capable to recognize PSA glycans occurring in healthy people or in patients with prostate cancer ref [50].",
+    "refNo": 50,
+    "title": "Glycoprofiling of cancer biomarkers: Label-free electrochemical lectin-based biosensors",
+    "marker_text": "[50]"
+  },
+  {
+    "sentence": "For most cancer biomarkers, like cancer cells, protein biomarkers and nucleic acid biomarkers, can be detected by EIS, including exosomal miRNA targets ref [48].",
+    "refNo": 48,
+    "title": "A label-free electrical detection of exosomal microRNAs using microelectrode array",
+    "marker_text": "[48]"
+  },
+  {
+    "sentence": "Bhardwaj et al. 46 developed tetracyanoquinodimethane (TCNQ)-doped thin films of copper-MOF, Cu 3 (BTC) 2 based conductometric immunosensing platform for the quantification of prostate cancer antigen, it provided PSA detection in a dynamic linear range of 0.1-100 ng mL −1 to attain a limit of detection at 0.06 ng mL −1 ref [50].",
+    "refNo": 50,
+    "title": "Glycoprofiling of cancer biomarkers: Label-free electrochemical lectin-based biosensors",
+    "marker_text": "[50]"
+  },
+  {
+    "sentence": "Tsai et al. demonstrated that chronoam-perometric method can be used as an alternative method for rapidly assessing the viability of MDA-MB-231breast cancer cells ref [51].",
+    "refNo": 51,
+    "title": "Assessment of Cell Viability Using the Chronoamperometric Method Based on Screen-Printed Electrodes",
+    "marker_text": "[51]"
+  },
+  {
+    "sentence": "Also, this work confirmed changes in pH flux surrounding the neoplasm consisting cancer cells which infers the correlation to the metabolism of altered cells ref [52].",
+    "refNo": 52,
+    "title": "Metabolic Study of Cancer Cells Using a pH Sensitive Hydrogel Nanofiber Light Addressable Potentiometric Sensor",
+    "marker_text": "[52]"
+  },
+  {
+    "sentence": "Impedimetric techniques have also been proved to be a promising method for cancer biomarker detection due to their low excitation voltage, fast speed, and high sensitivity ref [53] ref [54].",
+    "refNo": 53,
+    "title": "Using real-time impedance-based assays to monitor the effects of fibroblast-derived media on the adhesion, proliferation, migration and invasion of colon cancer cells",
+    "marker_text": "[53]"
+  },
+  {
+    "sentence": "Impedimetric techniques have also been proved to be a promising method for cancer biomarker detection due to their low excitation voltage, fast speed, and high sensitivity ref [53] ref [54].",
+    "refNo": 54,
+    "title": "Bioimpedimetric analysis in conjunction with growth dynamics to differentiate aggressiveness of cancer cells",
+    "marker_text": "[54]"
+  },
+  {
+    "sentence": "More importantly, they can be used for long-time, real time, and on-site detection ref [53] ref [54].",
+    "refNo": 53,
+    "title": "Using real-time impedance-based assays to monitor the effects of fibroblast-derived media on the adhesion, proliferation, migration and invasion of colon cancer cells",
+    "marker_text": "[53]"
+  },
+  {
+    "sentence": "More importantly, they can be used for long-time, real time, and on-site detection ref [53] ref [54].",
+    "refNo": 54,
+    "title": "Bioimpedimetric analysis in conjunction with growth dynamics to differentiate aggressiveness of cancer cells",
+    "marker_text": "[54]"
+  },
+  {
+    "sentence": "Low excitation voltage does not generate a lot of heat, hence EIS is more suitable for long-term and real-time detection ref [53] ref [54].",
+    "refNo": 53,
+    "title": "Using real-time impedance-based assays to monitor the effects of fibroblast-derived media on the adhesion, proliferation, migration and invasion of colon cancer cells",
+    "marker_text": "[53]"
+  },
+  {
+    "sentence": "Low excitation voltage does not generate a lot of heat, hence EIS is more suitable for long-term and real-time detection ref [53] ref [54].",
+    "refNo": 54,
+    "title": "Bioimpedimetric analysis in conjunction with growth dynamics to differentiate aggressiveness of cancer cells",
+    "marker_text": "[54]"
+  },
+  {
+    "sentence": "Parekh and coworkers developed an impedance-based noninvasive method for real-time analysis of MCF-7 (less aggressive) and MDA-MB-231 cells (more aggressive) ref [54].",
+    "refNo": 54,
+    "title": "Bioimpedimetric analysis in conjunction with growth dynamics to differentiate aggressiveness of cancer cells",
+    "marker_text": "[54]"
+  },
+  {
+    "sentence": "Detailed slope-analysis of impedance curves at different growth phases showed that MDA-MB-231 had higher proliferation rate and intrinsic resistance to cell death which allowed to grow in nutrient and space limiting conditions ref [54].",
+    "refNo": 54,
+    "title": "Bioimpedimetric analysis in conjunction with growth dynamics to differentiate aggressiveness of cancer cells",
+    "marker_text": "[54]"
+  }
+]

@@ -1,0 +1,500 @@
+[
+  {
+    "sentence": "Seaweed is used as a vegetable and traditional medicine in East-Asian countries such as Japan, Korea, and China ref [1], ref [2], ref [3].",
+    "refNo": 1,
+    "title": "Chemical structures and bioactivities of sulfated polysaccharides from marine algae",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Seaweed is used as a vegetable and traditional medicine in East-Asian countries such as Japan, Korea, and China ref [1], ref [2], ref [3].",
+    "refNo": 2,
+    "title": "Neuroprotective effects of marine algae",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Seaweed is used as a vegetable and traditional medicine in East-Asian countries such as Japan, Korea, and China ref [1], ref [2], ref [3].",
+    "refNo": 3,
+    "title": "Antimicrobial action of compounds from marine seaweed",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "It is an important resource of the marine ecosystem, containing active metabolites with probable nutraceuticals that are rich sources of novel bioactive secondary metabolites and harbor diverse classes of health-promoting molecules, including essential dietary fiber, fatty acids, essential amino acids, and vitamins A, B, C, and E ref [1], ref [2], ref [3].",
+    "refNo": 1,
+    "title": "Chemical structures and bioactivities of sulfated polysaccharides from marine algae",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "It is an important resource of the marine ecosystem, containing active metabolites with probable nutraceuticals that are rich sources of novel bioactive secondary metabolites and harbor diverse classes of health-promoting molecules, including essential dietary fiber, fatty acids, essential amino acids, and vitamins A, B, C, and E ref [1], ref [2], ref [3].",
+    "refNo": 2,
+    "title": "Neuroprotective effects of marine algae",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "It is an important resource of the marine ecosystem, containing active metabolites with probable nutraceuticals that are rich sources of novel bioactive secondary metabolites and harbor diverse classes of health-promoting molecules, including essential dietary fiber, fatty acids, essential amino acids, and vitamins A, B, C, and E ref [1], ref [2], ref [3].",
+    "refNo": 3,
+    "title": "Antimicrobial action of compounds from marine seaweed",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Taxonomic classification divides seaweed into three major classes based more on their pigments and coloration than their genetics: Rhodophyceae (red algae), Phaeophyceae (brown algae), and Chlorophyceae (green algae, also known as macroalgae) ref [1], ref [3].",
+    "refNo": 1,
+    "title": "Chemical structures and bioactivities of sulfated polysaccharides from marine algae",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Taxonomic classification divides seaweed into three major classes based more on their pigments and coloration than their genetics: Rhodophyceae (red algae), Phaeophyceae (brown algae), and Chlorophyceae (green algae, also known as macroalgae) ref [1], ref [3].",
+    "refNo": 3,
+    "title": "Antimicrobial action of compounds from marine seaweed",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Brown algae have been used for thousands of years, but only in modern times have they been recognized to contain bioactive substances such as polysaccharides, lipids, and polyphenols, with various pharmacological properties ref [1], ref [2], ref [3].",
+    "refNo": 1,
+    "title": "Chemical structures and bioactivities of sulfated polysaccharides from marine algae",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Brown algae have been used for thousands of years, but only in modern times have they been recognized to contain bioactive substances such as polysaccharides, lipids, and polyphenols, with various pharmacological properties ref [1], ref [2], ref [3].",
+    "refNo": 2,
+    "title": "Neuroprotective effects of marine algae",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Brown algae have been used for thousands of years, but only in modern times have they been recognized to contain bioactive substances such as polysaccharides, lipids, and polyphenols, with various pharmacological properties ref [1], ref [2], ref [3].",
+    "refNo": 3,
+    "title": "Antimicrobial action of compounds from marine seaweed",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Western blot analysis revealed reduced cell apoptosis through the activation of B cell lymphoma-extra large (Bcl-xL) and PARP and down-regulation of Bax and caspase-3, providing evidence for this potential protective agent against ethanol-induced liver diseases ref [10].",
+    "refNo": 10,
+    "title": "Angiotensin-converting enzyme I inhibitory activity of phlorotannins from Ecklonia stolonifera",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Though the activities of cytochrome P-450, aminopyrine N-demethylase, and aniline hydroxylase were unchanged, PG restored enzyme activity in the livers of pretreated-rats, suggesting that acetaminophen-induced hepatic lipid peroxidation could be reduced by enhancing the activity of glutathione S-transferase (GST) ref [6], ref [9].",
+    "refNo": 6,
+    "title": "Protective effects of Ecklonia stolonifera extract on ethanol-induced fatty liver in rats",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Though the activities of cytochrome P-450, aminopyrine N-demethylase, and aniline hydroxylase were unchanged, PG restored enzyme activity in the livers of pretreated-rats, suggesting that acetaminophen-induced hepatic lipid peroxidation could be reduced by enhancing the activity of glutathione S-transferase (GST) ref [6], ref [9].",
+    "refNo": 9,
+    "title": "The inhibitory effects of eckol and dieckol from Ecklonia stolonifera on the expression of matrix metalloproteinase-1 in human dermal fibroblasts",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "All of these data suggest that Ecklonia species could be potent hepatoprotective agents ref [6], ref [9], ref [10].",
+    "refNo": 6,
+    "title": "Protective effects of Ecklonia stolonifera extract on ethanol-induced fatty liver in rats",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "All of these data suggest that Ecklonia species could be potent hepatoprotective agents ref [6], ref [9], ref [10].",
+    "refNo": 9,
+    "title": "The inhibitory effects of eckol and dieckol from Ecklonia stolonifera on the expression of matrix metalloproteinase-1 in human dermal fibroblasts",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "All of these data suggest that Ecklonia species could be potent hepatoprotective agents ref [6], ref [9], ref [10].",
+    "refNo": 10,
+    "title": "Angiotensin-converting enzyme I inhibitory activity of phlorotannins from Ecklonia stolonifera",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Thus, remedies from natural sources are vital, especially those from marine sources ref [8], ref [15].",
+    "refNo": 8,
+    "title": "Brown Alga Ecklonia cava polyphenol extract ameliorates hepatic lipogenesis, oxidative stress, and inflammation by activation of AMPK and SIRT1 in high-fat diet-induced obese mice",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Thus, remedies from natural sources are vital, especially those from marine sources ref [8], ref [15].",
+    "refNo": 15,
+    "title": "Enzyme-treated Ecklonia cava extract inhibits adipogenesis through the downregulation of C/EBPa in 3T3-L1 adipocytes",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Dieckol from EC down-regulated the expression of PPARc, C/EBPa, SREBP-1, and FABP-4, showing anti-adipogenic effects on adipocyte differentiation through the activation and modulation of the AMPK signaling pathway to improve obesity ref [15].",
+    "refNo": 15,
+    "title": "Enzyme-treated Ecklonia cava extract inhibits adipogenesis through the downregulation of C/EBPa in 3T3-L1 adipocytes",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Thus, EC prevented adipogenesis by affecting the activation of the C/EBPa signaling pathway and the resulting adipogenesis-related gene expression ref [15].",
+    "refNo": 15,
+    "title": "Enzyme-treated Ecklonia cava extract inhibits adipogenesis through the downregulation of C/EBPa in 3T3-L1 adipocytes",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Seapolynol derived from EC inhibited triglyceride synthetic enzymes such as diacylglycerol acyltransferase 1, GPAT3, Kruppellike factor 4 (KLF4), KLF5, C/EBPb, C/EBPd, and protein C-ets-2, whereas it up-regulated KLF2, an anti-early adipogenic factor, preventing metabolic disorders ref [15].",
+    "refNo": 15,
+    "title": "Enzyme-treated Ecklonia cava extract inhibits adipogenesis through the downregulation of C/EBPa in 3T3-L1 adipocytes",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Taken together, these results suggest that fucosterol inhibits the expression of PPARc and C/EBPa, resulting in a decrease in lipid accumulation in 3T3-L1 pre-adipocytes, thereby indicating the potential of ES and its bioactive component fucosterol as anti-obesity agents ref [8], ref [15].",
+    "refNo": 8,
+    "title": "Brown Alga Ecklonia cava polyphenol extract ameliorates hepatic lipogenesis, oxidative stress, and inflammation by activation of AMPK and SIRT1 in high-fat diet-induced obese mice",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Taken together, these results suggest that fucosterol inhibits the expression of PPARc and C/EBPa, resulting in a decrease in lipid accumulation in 3T3-L1 pre-adipocytes, thereby indicating the potential of ES and its bioactive component fucosterol as anti-obesity agents ref [8], ref [15].",
+    "refNo": 15,
+    "title": "Enzyme-treated Ecklonia cava extract inhibits adipogenesis through the downregulation of C/EBPa in 3T3-L1 adipocytes",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "In addition, fucosterol enhanced SirT1 expression and decreased phospho-FoxO1 expression, which resulted in the activation of FoxO1 and revealed that fucosterol inhibited adipogenesis of 3T3-L1 preadipocytes at concentrations of 25 and 50 lM through the modulation of the FoxO1 signaling pathway ref [15].",
+    "refNo": 15,
+    "title": "Enzyme-treated Ecklonia cava extract inhibits adipogenesis through the downregulation of C/EBPa in 3T3-L1 adipocytes",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Altogether, these results suggest that several Ecklonia species possess potent activity that might be exploited in adjunct therapy for obesity ref [8], ref [15].",
+    "refNo": 8,
+    "title": "Brown Alga Ecklonia cava polyphenol extract ameliorates hepatic lipogenesis, oxidative stress, and inflammation by activation of AMPK and SIRT1 in high-fat diet-induced obese mice",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Altogether, these results suggest that several Ecklonia species possess potent activity that might be exploited in adjunct therapy for obesity ref [8], ref [15].",
+    "refNo": 15,
+    "title": "Enzyme-treated Ecklonia cava extract inhibits adipogenesis through the downregulation of C/EBPa in 3T3-L1 adipocytes",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "It reduced rotenone-induced cell death and retarded rotenone-induced a-synuclein aggregation in asynuclein-overexpressing SH-SY5Y cells, which prevented a-synuclein aggregation, adding to its role in the prevention of PD (ref [13]).",
+    "refNo": 13,
+    "title": "Dieckol, an edible seaweed polyphenol, retards rotenone-induced neurotoxicity and a-synuclein aggregation in human dopaminergic neuronal cells",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "An oligosaccharide sugar chain derived from EK inhibited the toxicity induced by the Ab protein in both primary cortical cells and the SH-SY5Y cell line, inhibiting apoptosis and fibril formation and indicating its potency for AD (ref [14]).",
+    "refNo": 14,
+    "title": "Acidic oligosaccharide sugar chain, a marine-derived acidic oligosaccharide, inhibits the cytotoxicity and aggregation of amyloid beta protein",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "EM exhibited potent activity against AChE, as did its isolated compounds PG, dibenzo [1,4] dioxine-2,4,7,9-tetraol, and eckol, highlighting its potential as a functional food ingredient for the management of neurodegenerative disorders.",
+    "refNo": 1,
+    "title": "Chemical structures and bioactivities of sulfated polysaccharides from marine algae",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "EM exhibited potent activity against AChE, as did its isolated compounds PG, dibenzo [1,4] dioxine-2,4,7,9-tetraol, and eckol, highlighting its potential as a functional food ingredient for the management of neurodegenerative disorders.",
+    "refNo": 4,
+    "title": "Protective effect of the edible brown alga Ecklonia stolonifera on doxorubicininduced hepatotoxicity in primary rat hepatocytes",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "PG further augmented antiapoptotic molecules such as Bcl-2 and Bcl-X(S/L) (ref [12]).",
+    "refNo": 12,
+    "title": "Radioprotective properties of eckol against ionizing radiation in mice",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Additionally, EC increased Nrf2 and HO-1 expression, reducing inflammation ref [18].",
+    "refNo": 18,
+    "title": "Protective effect of brown alga phlorotannins against hyper-inflammatory responses in lipopolysaccharide-induced sepsis models",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "These results showed that dieckol produced anti-inflammatory effects via the down-regulation of STAT1 activation ref [18].",
+    "refNo": 18,
+    "title": "Protective effect of brown alga phlorotannins against hyper-inflammatory responses in lipopolysaccharide-induced sepsis models",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Furthermore, 8,8 0 -bieckol significantly reduced mortality in LPS-induced septic mice, which indicates that the anti-inflammatory properties of 8,8 0bieckol are associated with the suppression of NO, PGE2, and IL-6 via negative regulation of the NF-jB pathway and ROS production in LPS-stimulated RAW264.7 cells ref [18]).",
+    "refNo": 18,
+    "title": "Protective effect of brown alga phlorotannins against hyper-inflammatory responses in lipopolysaccharide-induced sepsis models",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Dieckol extracted from EC suppressed LPSinduced iNOS expression in mouse leukemic macrophage Raw 264.7 cells, decreasing both LPS-induced NO production and iNOS promoter-driven transcriptional activity in a dose-dependent manner ref [18].",
+    "refNo": 18,
+    "title": "Protective effect of brown alga phlorotannins against hyper-inflammatory responses in lipopolysaccharide-induced sepsis models",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "It also diminished LPSmediated p65 nuclear translocation or IjBa phosphorylation dose-dependently and reduced LPS-induced phosphorylation of MAPKs, especially p38MAPK ref [18].",
+    "refNo": 18,
+    "title": "Protective effect of brown alga phlorotannins against hyper-inflammatory responses in lipopolysaccharide-induced sepsis models",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Collectively, these findings suggest that dieckol acts as a negative regulator of LPS-mediated iNOS induction by suppressing NF-jB activity, implying a mechanistic role for dieckol in the regulation of the inflammatory response ref [18].",
+    "refNo": 18,
+    "title": "Protective effect of brown alga phlorotannins against hyper-inflammatory responses in lipopolysaccharide-induced sepsis models",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "One study demonstrated the inhibitory effect of eckol and dieckol isolated from ES on MMP-1 expression in human dermal fibroblasts, suggesting the possibility of developing an agent to prevent and treat skin aging ref [17].",
+    "refNo": 17,
+    "title": "Fucodiphlorethol G purified from Ecklonia cava suppresses ultraviolet B radiationinduced oxidative stress and cellular damage",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Therefore, investigators have directed their attention toward plants and other natural products ref [22].",
+    "refNo": 22,
+    "title": "Phloroglucinol protects small intestines of mice from ionizing radiation by regulating apoptosis-related molecules: a comparative immunohistochemical study",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Type 2 diabetes (formerly called non-insulindependent) is caused by the body's ineffective use of insulin, often from excess body weight and physical inactivity, with the broader metabolic context closely linked to the global obesity epidemic and its pharmacological management challenges (ref [28], ref [29]).",
+    "refNo": 28,
+    "title": "Protein tyrosine phosphatase 1B and a-glucosidase inhibitory phlorotannins from edible brown algae, Ecklonia stolonifera and Eisenia bicyclis",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Type 2 diabetes (formerly called non-insulindependent) is caused by the body's ineffective use of insulin, often from excess body weight and physical inactivity, with the broader metabolic context closely linked to the global obesity epidemic and its pharmacological management challenges (ref [28], ref [29]).",
+    "refNo": 29,
+    "title": "Dieckol attenuates microglia-mediated neuronal cell death via ERK, Akt and NADPH oxidase-mediated pathways",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "The total number of people with diabetes is projected to rise from 171 million in 2000 to 366 million in 2030 (ref [26]).",
+    "refNo": 26,
+    "title": "The global epidemic of obesity: an overview",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "In addition, 6,6 0 -bieckol purified from EC at concentrations of 10 or 50 lg/mL significantly inhibited high glucose-induced glucotoxicity and dose-dependently reduced the level of thiobarbituric acid reactive substances (TBARS), generation of intracellular ROS, and the level of NO, consistent with the broader role of oxidative stress in chronic disease mechanisms (ref [24], ref [25]).",
+    "refNo": 24,
+    "title": "Oxidative stress and its role in skin disease",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "In addition, 6,6 0 -bieckol purified from EC at concentrations of 10 or 50 lg/mL significantly inhibited high glucose-induced glucotoxicity and dose-dependently reduced the level of thiobarbituric acid reactive substances (TBARS), generation of intracellular ROS, and the level of NO, consistent with the broader role of oxidative stress in chronic disease mechanisms (ref [24], ref [25]).",
+    "refNo": 25,
+    "title": "Global prevalence of diabetes: estimates for the year 2000 and projections for 2030",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "In addition, western blotting analysis revealed that dieckol increased the phosphorylation levels of AMPK and Akt observed in muscle tissues, suggesting that dieckol could be a therapeutic agent for type 2 diabetes; this is also in line with reported Akt-related protective signaling of dieckol in other oxidative stress-linked systems (ref [9]).",
+    "refNo": 9,
+    "title": "The inhibitory effects of eckol and dieckol from Ecklonia stolonifera on the expression of matrix metalloproteinase-1 in human dermal fibroblasts",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "The a-glucosidase inhibitory property of EM and its isolated compounds PG, dibenzo [1,4] dioxine-2,4,7,9-tetraol, and eckol exceeded that of the positive control, suggesting their potency as oral anti-diabetic drugs or functional food ingredients, with a promising role in the formulation of medicines and nutritional supplements.",
+    "refNo": 1,
+    "title": "Chemical structures and bioactivities of sulfated polysaccharides from marine algae",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "The a-glucosidase inhibitory property of EM and its isolated compounds PG, dibenzo [1,4] dioxine-2,4,7,9-tetraol, and eckol exceeded that of the positive control, suggesting their potency as oral anti-diabetic drugs or functional food ingredients, with a promising role in the formulation of medicines and nutritional supplements.",
+    "refNo": 4,
+    "title": "Protective effect of the edible brown alga Ecklonia stolonifera on doxorubicininduced hepatotoxicity in primary rat hepatocytes",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Thus, isolated phlorotannins from both algae possessed marked PTP1B and a-glucosidase inhibitory activity that could contribute to the development of therapeutic agents to control postprandial blood glucose level and prevent diabetic complications (ref [8]).",
+    "refNo": 8,
+    "title": "Brown Alga Ecklonia cava polyphenol extract ameliorates hepatic lipogenesis, oxidative stress, and inflammation by activation of AMPK and SIRT1 in high-fat diet-induced obese mice",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Ecklonia species and their constituents exhibit pronounced inhibitory effects against oxidative stress (Table 2) ref [1].",
+    "refNo": 1,
+    "title": "Chemical structures and bioactivities of sulfated polysaccharides from marine algae",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Although, it did not contain a benzene ring or conjugated structure, it exhibited antioxidant potential ref [1].",
+    "refNo": 1,
+    "title": "Chemical structures and bioactivities of sulfated polysaccharides from marine algae",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Dieckol and PFF-A obtained from boiling water-and organic solvent extracts of EC and ES showed almost 9-and 7-fold stronger antioxidant activity than the standard butylhydroxytoluene, and 6-and 4-fold greater activity than l-ascorbic acid in molar concentration, ref [1].",
+    "refNo": 1,
+    "title": "Chemical structures and bioactivities of sulfated polysaccharides from marine algae",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Lung, prostate, colorectal, stomach, and liver cancer are the most common types of cancer in men, whereas breast, colorectal, lung, uterine cervix, and stomach cancer are the most common types among women ref [32].",
+    "refNo": 32,
+    "title": "Cancer incidence and mortality worldwide: sources, methods and major patterns in GLOBOCAN 2012",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "Cancer results from a mutation in the chromosomal DNA of a normal cell, which can be triggered by both external factors (tobacco, alcohol, chemicals, infectious agents, and radiation) and internal factors (hormones, immune conditions, inherited mutations, and mutations occurring in metabolism) ref [32].",
+    "refNo": 32,
+    "title": "Cancer incidence and mortality worldwide: sources, methods and major patterns in GLOBOCAN 2012",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "One study suggested that sulfated polysaccharides from EC induced T and B cell responses via both the JNK and NF-kB pathways ref [1].",
+    "refNo": 1,
+    "title": "Chemical structures and bioactivities of sulfated polysaccharides from marine algae",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Ecklonia bicyclis together with the novel drug tradamixina improved male sexual function in elderly men, particularly libido, mild-moderate erectile dysfunction, ejaculation function, and sexual quality of life ref [34].",
+    "refNo": 34,
+    "title": "Alga Ecklonia bicyclis, Tribulus terrestris, and glucosamine oligosaccharide improve erectile function, sexual quality of life, and ejaculation function in patients with moderate mild-moderate erectile dysfunction: a prospective, randomized, placebo-controlled, single-blinded study",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "Water-soluble sulfated fucans isolated from EC induced the degradation of Ij-B and the phosphorylation of MAPK in RAW264.7 cells, implying that they might stimulate RAW264.7 cells through the activation of the NF-jB and MAPK pathways ref [1].",
+    "refNo": 1,
+    "title": "Chemical structures and bioactivities of sulfated polysaccharides from marine algae",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "EC and its phlorotannins TPA, eckol, and dieckol attenuated the pathophysiological consequences of osteoarthritis and enhanced osteoblast differentiation, as indicated by increased alkaline phosphatase activity and raised levels of osteoblastogenesis, preventing osteoporosis ref [1].",
+    "refNo": 1,
+    "title": "Chemical structures and bioactivities of sulfated polysaccharides from marine algae",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Therefore, varieties of anti-photoaging or photoprotective compounds from algae and other marine organisms have been isolated ref [36].",
+    "refNo": 36,
+    "title": "Ecklonia cava promotes hair growth",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "Eckol, PFF-A, and dieckol from ES showed potent ACE inhibiting activity with IC 50 values of 70.82 ± 0.25, 12.74 ± 0.15, and 34.25 ± 3.56 lM, respectively, showing the importance of ES ref [37]-ref [39].",
+    "refNo": 37,
+    "title": "A new phlorotannin from the brown alga Ecklonia stolonifera",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "Eckol, PFF-A, and dieckol from ES showed potent ACE inhibiting activity with IC 50 values of 70.82 ± 0.25, 12.74 ± 0.15, and 34.25 ± 3.56 lM, respectively, showing the importance of ES ref [37]-ref [39].",
+    "refNo": 39,
+    "title": "Anti-plasmin inhibitor. VI. Structure of phlorofucofuroeckol A, a novel phlorotannin with both dibenzo-1, 4-dioxin and dibenzofuran elements, from Ecklonia kurome Okamura",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "Therefore, it showed high potential and could be considered as a drug candidate for the development of a new generation of therapeutic agents ref [5].",
+    "refNo": 5,
+    "title": "Effects of gametophytes of Ecklonia Kurome on the levels of glucose and triacylglycerol in db/db, prediabetic C57BL/6J and IFN-c KO mice",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Undoubtedly, Ecklonia species and their active metabolites are potential candidates for drug development, as shown by their plethora of activities against various diseases ref [6], ref [12], ref [18], ref [27], ref [34], ref [41], ref [55], ref [63], ref [72].",
+    "refNo": 6,
+    "title": "Protective effects of Ecklonia stolonifera extract on ethanol-induced fatty liver in rats",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Undoubtedly, Ecklonia species and their active metabolites are potential candidates for drug development, as shown by their plethora of activities against various diseases ref [6], ref [12], ref [18], ref [27], ref [34], ref [41], ref [55], ref [63], ref [72].",
+    "refNo": 12,
+    "title": "Radioprotective properties of eckol against ionizing radiation in mice",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Undoubtedly, Ecklonia species and their active metabolites are potential candidates for drug development, as shown by their plethora of activities against various diseases ref [6], ref [12], ref [18], ref [27], ref [34], ref [41], ref [55], ref [63], ref [72].",
+    "refNo": 18,
+    "title": "Protective effect of brown alga phlorotannins against hyper-inflammatory responses in lipopolysaccharide-induced sepsis models",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Undoubtedly, Ecklonia species and their active metabolites are potential candidates for drug development, as shown by their plethora of activities against various diseases ref [6], ref [12], ref [18], ref [27], ref [34], ref [41], ref [55], ref [63], ref [72].",
+    "refNo": 27,
+    "title": "Anti-obesity drugs: past, present and future",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "Undoubtedly, Ecklonia species and their active metabolites are potential candidates for drug development, as shown by their plethora of activities against various diseases ref [6], ref [12], ref [18], ref [27], ref [34], ref [41], ref [55], ref [63], ref [72].",
+    "refNo": 34,
+    "title": "Alga Ecklonia bicyclis, Tribulus terrestris, and glucosamine oligosaccharide improve erectile function, sexual quality of life, and ejaculation function in patients with moderate mild-moderate erectile dysfunction: a prospective, randomized, placebo-controlled, single-blinded study",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "Undoubtedly, Ecklonia species and their active metabolites are potential candidates for drug development, as shown by their plethora of activities against various diseases ref [6], ref [12], ref [18], ref [27], ref [34], ref [41], ref [55], ref [63], ref [72].",
+    "refNo": 41,
+    "title": "Reference list not provided in prompt",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "Undoubtedly, Ecklonia species and their active metabolites are potential candidates for drug development, as shown by their plethora of activities against various diseases ref [6], ref [12], ref [18], ref [27], ref [34], ref [41], ref [55], ref [63], ref [72].",
+    "refNo": 55,
+    "title": "",
+    "marker_text": "[55]"
+  },
+  {
+    "sentence": "Undoubtedly, Ecklonia species and their active metabolites are potential candidates for drug development, as shown by their plethora of activities against various diseases ref [6], ref [12], ref [18], ref [27], ref [34], ref [41], ref [55], ref [63], ref [72].",
+    "refNo": 63,
+    "title": "",
+    "marker_text": "[63]"
+  },
+  {
+    "sentence": "Undoubtedly, Ecklonia species and their active metabolites are potential candidates for drug development, as shown by their plethora of activities against various diseases ref [6], ref [12], ref [18], ref [27], ref [34], ref [41], ref [55], ref [63], ref [72].",
+    "refNo": 72,
+    "title": "",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "Our review provides current information on the biological and pharmacological potential of this genus, which could be further used for the development of nutraceuticals ref [79], ref [88], ref [96], ref [104], ref [117].",
+    "refNo": 79,
+    "title": "",
+    "marker_text": "[79]"
+  },
+  {
+    "sentence": "Our review provides current information on the biological and pharmacological potential of this genus, which could be further used for the development of nutraceuticals ref [79], ref [88], ref [96], ref [104], ref [117].",
+    "refNo": 88,
+    "title": "",
+    "marker_text": "[88]"
+  },
+  {
+    "sentence": "Our review provides current information on the biological and pharmacological potential of this genus, which could be further used for the development of nutraceuticals ref [79], ref [88], ref [96], ref [104], ref [117].",
+    "refNo": 96,
+    "title": "",
+    "marker_text": "[96]"
+  },
+  {
+    "sentence": "Our review provides current information on the biological and pharmacological potential of this genus, which could be further used for the development of nutraceuticals ref [79], ref [88], ref [96], ref [104], ref [117].",
+    "refNo": 104,
+    "title": "",
+    "marker_text": "[104]"
+  },
+  {
+    "sentence": "Our review provides current information on the biological and pharmacological potential of this genus, which could be further used for the development of nutraceuticals ref [79], ref [88], ref [96], ref [104], ref [117].",
+    "refNo": 117,
+    "title": "",
+    "marker_text": "[117]"
+  },
+  {
+    "sentence": "Screening and study of the interactions between these algae and their constituents and human systems threatened by disease need to continue ref [126], ref [138], ref [149].",
+    "refNo": 126,
+    "title": "",
+    "marker_text": "[126]"
+  },
+  {
+    "sentence": "Screening and study of the interactions between these algae and their constituents and human systems threatened by disease need to continue ref [126], ref [138], ref [149].",
+    "refNo": 138,
+    "title": "",
+    "marker_text": "[138]"
+  },
+  {
+    "sentence": "Screening and study of the interactions between these algae and their constituents and human systems threatened by disease need to continue ref [126], ref [138], ref [149].",
+    "refNo": 149,
+    "title": "",
+    "marker_text": "[149]"
+  },
+  {
+    "sentence": "Therefore, we recommend rapid screening and isolation to develop novel functional ingredients from Ecklonia species ref [157], ref [163], ref [171].",
+    "refNo": 157,
+    "title": "",
+    "marker_text": "[157]"
+  },
+  {
+    "sentence": "Therefore, we recommend rapid screening and isolation to develop novel functional ingredients from Ecklonia species ref [157], ref [163], ref [171].",
+    "refNo": 163,
+    "title": "",
+    "marker_text": "[163]"
+  },
+  {
+    "sentence": "Therefore, we recommend rapid screening and isolation to develop novel functional ingredients from Ecklonia species ref [157], ref [163], ref [171].",
+    "refNo": 171,
+    "title": "",
+    "marker_text": "[171]"
+  },
+  {
+    "sentence": "The future of pharmaceuticals based on natural products seems promising ref [182].",
+    "refNo": 182,
+    "title": "",
+    "marker_text": "[182]"
+  }
+]

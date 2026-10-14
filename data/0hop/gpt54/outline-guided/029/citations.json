@@ -1,0 +1,806 @@
+[
+  {
+    "sentence": "Yet these gains have plateaued in many settings, highlighting the operational and biological limits of interventions that act mainly against mosquitoes feeding or resting indoors [3].",
+    "refNo": 3,
+    "title": "Eave tubes for malaria control in Africa: an introduction",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "This residual component is sustained by vectors that avoid treated surfaces, bite outdoors or at times when people are not protected, feed on animals, or rest outside houses; importantly, such transmission can remain substantial even where vectors are physiologically susceptible to insecticides [1].",
+    "refNo": 1,
+    "title": "Characterizing, controlling and eliminating residual malaria transmission",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Parallel to these behavioral limitations, intensifying insecticide resistance further threatens the durability of current control programs and strengthens the case for new delivery systems and complementary interventions [3].",
+    "refNo": 3,
+    "title": "Eave tubes for malaria control in Africa: an introduction",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "The invasion of Anopheles stephensi into Djibouti and Ethiopia raises the prospect of large-scale urban malaria in Africa because this species is well adapted to man-made water storage habitats and densely populated cities, in contrast to the historically more rural bias of African malaria transmission [2].",
+    "refNo": 2,
+    "title": "Increased threat of urban malaria from Anopheles stephensi mosquitoes",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "In this context, house-based innovations such as eave tubes illustrate the broader shift toward tools that exploit mosquito behavior while reducing human exposure to insecticides and complementing, rather than replacing, LLINs and IRS [3].",
+    "refNo": 3,
+    "title": "Eave tubes for malaria control in Africa: an introduction",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Mosquito host seeking is a staged sensory process in which olfaction provides the dominant long-range information used to detect and orient toward vertebrate hosts, whereas heat, moisture, and visual contrast contribute more strongly at closer range ref [4], ref [5].",
+    "refNo": 4,
+    "title": "Odor-mediated behavior of Afrotropical malaria mosquitoes",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Mosquito host seeking is a staged sensory process in which olfaction provides the dominant long-range information used to detect and orient toward vertebrate hosts, whereas heat, moisture, and visual contrast contribute more strongly at closer range ref [4], ref [5].",
+    "refNo": 5,
+    "title": "The role of olfaction in host-seeking of mosquitoes: a review",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "The primary olfactory organs are the antennae and maxillary palps, which carry receptor neurons tuned to key host volatiles, most notably carbon dioxide on the palps and a broader repertoire of skin- and breath-derived compounds on the antennae ref [4], ref [5].",
+    "refNo": 4,
+    "title": "Odor-mediated behavior of Afrotropical malaria mosquitoes",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "The primary olfactory organs are the antennae and maxillary palps, which carry receptor neurons tuned to key host volatiles, most notably carbon dioxide on the palps and a broader repertoire of skin- and breath-derived compounds on the antennae ref [4], ref [5].",
+    "refNo": 5,
+    "title": "The role of olfaction in host-seeking of mosquitoes: a review",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Foundational behavioral work showed that carbon dioxide is a general activator and orientation cue, but host discrimination depends on additional odor blends from skin emanations, breath, and other body-derived volatiles ref [4], ref [5].",
+    "refNo": 4,
+    "title": "Odor-mediated behavior of Afrotropical malaria mosquitoes",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Foundational behavioral work showed that carbon dioxide is a general activator and orientation cue, but host discrimination depends on additional odor blends from skin emanations, breath, and other body-derived volatiles ref [4], ref [5].",
+    "refNo": 5,
+    "title": "The role of olfaction in host-seeking of mosquitoes: a review",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "In anthropophilic malaria vectors such as Anopheles gambiae, attraction to whole human odor, foot odor, sweat, and chemically similar microbial products indicated that host seeking is mediated by complex kairomonal mixtures rather than single universal attractants ref [4].",
+    "refNo": 4,
+    "title": "Odor-mediated behavior of Afrotropical malaria mosquitoes",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "This complexity also helps explain why host preference varies markedly across mosquito taxa, from highly specialized human-feeding species to broadly opportunistic feeders ref [6].",
+    "refNo": 6,
+    "title": "Host preferences of blood-feeding mosquitoes",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Nutritional reserves, age, gonotrophic stage, and prior sugar or blood feeding alter response thresholds to host cues, while species-specific host preference reflects both inherited sensory biases and plasticity driven by host availability ref [4], ref [6].",
+    "refNo": 4,
+    "title": "Odor-mediated behavior of Afrotropical malaria mosquitoes",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Nutritional reserves, age, gonotrophic stage, and prior sugar or blood feeding alter response thresholds to host cues, while species-specific host preference reflects both inherited sensory biases and plasticity driven by host availability ref [4], ref [6].",
+    "refNo": 6,
+    "title": "Host preferences of blood-feeding mosquitoes",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "These foundations in mosquito olfaction are central to semiochemical control: identifying which odor blends activate, attract, or bias host choice is a prerequisite for designing lures, traps, and push-pull interventions that target malaria vectors with high behavioral specificity ref [4], ref [5].",
+    "refNo": 4,
+    "title": "Odor-mediated behavior of Afrotropical malaria mosquitoes",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "These foundations in mosquito olfaction are central to semiochemical control: identifying which odor blends activate, attract, or bias host choice is a prerequisite for designing lures, traps, and push-pull interventions that target malaria vectors with high behavioral specificity ref [4], ref [5].",
+    "refNo": 5,
+    "title": "The role of olfaction in host-seeking of mosquitoes: a review",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Iterative blend development showed that human-associated volatiles such as ammonia, lactic acid, and selected carboxylic acids can act synergistically, and that optimized synthetic lures may approach or exceed the attractiveness of human odor under field conditions ref [7], ref [3], ref [4], ref [5].",
+    "refNo": 7,
+    "title": "Mosquito attraction: crucial role of carbon dioxide in formulation of a five-component blend of human-derived volatiles",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Iterative blend development showed that human-associated volatiles such as ammonia, lactic acid, and selected carboxylic acids can act synergistically, and that optimized synthetic lures may approach or exceed the attractiveness of human odor under field conditions ref [7], ref [3], ref [4], ref [5].",
+    "refNo": 3,
+    "title": "Eave tubes for malaria control in Africa: an introduction",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Iterative blend development showed that human-associated volatiles such as ammonia, lactic acid, and selected carboxylic acids can act synergistically, and that optimized synthetic lures may approach or exceed the attractiveness of human odor under field conditions ref [7], ref [3], ref [4], ref [5].",
+    "refNo": 4,
+    "title": "Odor-mediated behavior of Afrotropical malaria mosquitoes",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Iterative blend development showed that human-associated volatiles such as ammonia, lactic acid, and selected carboxylic acids can act synergistically, and that optimized synthetic lures may approach or exceed the attractiveness of human odor under field conditions ref [7], ref [3], ref [4], ref [5].",
+    "refNo": 5,
+    "title": "The role of olfaction in host-seeking of mosquitoes: a review",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "In Anopheles coluzzii, adding CO2 to a human-derived base blend significantly increased attraction and enabled certain C4 compounds, notably butan-1-amine and 3-methyl-1-butanol, to enhance rather than suppress behavioral responses, yielding an optimized five-component lure ref [7].",
+    "refNo": 7,
+    "title": "Mosquito attraction: crucial role of carbon dioxide in formulation of a five-component blend of human-derived volatiles",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Related field studies likewise found that CO2 augments captures for synthetic host-odor blends, although its practical deployment remains constrained by logistics and cost in remote endemic settings ref [8], ref [4].",
+    "refNo": 8,
+    "title": "Development and assessment of plant-based synthetic odor baits for surveillance and control of malaria vectors",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Related field studies likewise found that CO2 augments captures for synthetic host-odor blends, although its practical deployment remains constrained by logistics and cost in remote endemic settings ref [8], ref [4].",
+    "refNo": 4,
+    "title": "Odor-mediated behavior of Afrotropical malaria mosquitoes",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Field evaluation of linalool oxide-centered blends demonstrated that plant-based odors can attract Anopheles gambiae s.l. and An. funestus s.l., sometimes comparably to animal/human-derived lures, while also sampling males and engorged females that are less well represented in strictly host-based trapping paradigms ref [8].",
+    "refNo": 8,
+    "title": "Development and assessment of plant-based synthetic odor baits for surveillance and control of malaria vectors",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "This expansion is conceptually important because it links odor-bait technology to attractive toxic sugar bait strategies and to outdoor vector management, where residual transmission increasingly undermines indoor-focused control ref [8], ref [6].",
+    "refNo": 8,
+    "title": "Development and assessment of plant-based synthetic odor baits for surveillance and control of malaria vectors",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "This expansion is conceptually important because it links odor-bait technology to attractive toxic sugar bait strategies and to outdoor vector management, where residual transmission increasingly undermines indoor-focused control ref [8], ref [6].",
+    "refNo": 6,
+    "title": "Host preferences of blood-feeding mosquitoes",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Comparative work on insect chemosensation shows that olfactory systems evolve under strong ecological selection, with receptor repertoires and peripheral sensilla shaped by habitat, resource use, and communication demands ref [9].",
+    "refNo": 9,
+    "title": "Evolution of insect olfaction",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "More generally, chemical signalling often emerges from pre-existing environmental cues, and many behaviourally active compounds first function as incidental information before being elaborated into true signals through selection on detectability and receiver response ref [11].",
+    "refNo": 11,
+    "title": "The origin and dynamic evolution of chemical information transfer",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Automated video tracking, including 2D and 3D flight reconstruction, has made it possible to quantify activation, plume following, landing, house-entry behaviour, and responses to multimodal cue combinations with far greater precision than trap catches alone ref [10].",
+    "refNo": 10,
+    "title": "Keeping track of mosquitoes: a review of tools to track, record and analyse mosquito flight",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "These tools have clarified, for example, how CO2, heat, vision, and odor blends are integrated across different spatial scales and behavioural phases, and they provide a bridge between laboratory olfactometer assays and operational vector-control settings ref [10].",
+    "refNo": 10,
+    "title": "Keeping track of mosquitoes: a review of tools to track, record and analyse mosquito flight",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "An evolutionary view of insect olfaction ref [9], coupled with a cue-to-signal framework from chemical communication theory ref [11] and modern flight-tracking methodologies ref [10], therefore provides the conceptual and technical basis for designing, testing, and interpreting next-generation lures, repellents, and behaviour-modifying interventions in malaria vectors.",
+    "refNo": 9,
+    "title": "Evolution of insect olfaction",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "An evolutionary view of insect olfaction ref [9], coupled with a cue-to-signal framework from chemical communication theory ref [11] and modern flight-tracking methodologies ref [10], therefore provides the conceptual and technical basis for designing, testing, and interpreting next-generation lures, repellents, and behaviour-modifying interventions in malaria vectors.",
+    "refNo": 11,
+    "title": "The origin and dynamic evolution of chemical information transfer",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "An evolutionary view of insect olfaction ref [9], coupled with a cue-to-signal framework from chemical communication theory ref [11] and modern flight-tracking methodologies ref [10], therefore provides the conceptual and technical basis for designing, testing, and interpreting next-generation lures, repellents, and behaviour-modifying interventions in malaria vectors.",
+    "refNo": 10,
+    "title": "Keeping track of mosquitoes: a review of tools to track, record and analyse mosquito flight",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Comparative work on host choice shows that anthropophilic vectors such as Anopheles gambiae sensu lato and Aedes aegypti rely heavily on human-associated odour signatures, whereas more opportunistic species exhibit greater plasticity as host availability changes ref [13].",
+    "refNo": 13,
+    "title": "Electroantennogram and behavioural responses of the malaria vector Anopheles gambiae to human-specific sweat components",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Reviews of Afrotropical malaria mosquitoes further emphasize that CO2 acts mainly as a general activator and long-range cue, while host discrimination depends on additional skin- and sweat-derived volatiles ref [4].",
+    "refNo": 4,
+    "title": "Odor-mediated behavior of Afrotropical malaria mosquitoes",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "In olfactometer assays, ammonia alone was attractive to An. gambiae s.s., but the strongest response emerged from synergistic blends containing ammonia, lactic acid and selected carboxylic acids, demonstrating that mixture composition is critical for host recognition ref [10].",
+    "refNo": 10,
+    "title": "Keeping track of mosquitoes: a review of tools to track, record and analyse mosquito flight",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "This blend logic has been extended in An. coluzzii, where adding CO2 to a human-derived base blend substantially increased attraction and even reversed the behavioural valence of some compounds, yielding an optimized five-component lure with strong host-mimetic activity ref [7].",
+    "refNo": 7,
+    "title": "Mosquito attraction: crucial role of carbon dioxide in formulation of a five-component blend of human-derived volatiles",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Human-specific sweat acids such as 7-octenoic acid and 3-methyl-2-hexenoic acid elicit antennal responses in An. gambiae, yet their behavioural effects can be inhibitory or modulatory depending on the accompanying odour background ref [8].",
+    "refNo": 8,
+    "title": "Development and assessment of plant-based synthetic odor baits for surveillance and control of malaria vectors",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Likewise, (R)-1-octen-3-ol is not simply a universal attractant: its effect depends on release rate and blend context, altering responses differently in anthropophilic versus more generalist mosquitoes ref [12].",
+    "refNo": 12,
+    "title": "Detection and perception of generic host volatiles by mosquitoes modulate host preference: context dependence of (R)-1-octen-3-ol",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Together, these findings show that blood-host location is encoded by quantitative ratios and cross-component interactions, a principle central to designing semiochemical lures for surveillance and control ref [7], ref [4].",
+    "refNo": 7,
+    "title": "Mosquito attraction: crucial role of carbon dioxide in formulation of a five-component blend of human-derived volatiles",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Together, these findings show that blood-host location is encoded by quantitative ratios and cross-component interactions, a principle central to designing semiochemical lures for surveillance and control ref [7], ref [4].",
+    "refNo": 4,
+    "title": "Odor-mediated behavior of Afrotropical malaria mosquitoes",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Early wind-tunnel studies demonstrated that both Aedes aegypti and Anopheles arabiensis orient upwind and land in response to floral odours even when visual cues are removed, establishing olfaction as a sufficient cue for nectar-source location at distance ref [8], ref [20].",
+    "refNo": 8,
+    "title": "Development and assessment of plant-based synthetic odor baits for surveillance and control of malaria vectors",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Early wind-tunnel studies demonstrated that both Aedes aegypti and Anopheles arabiensis orient upwind and land in response to floral odours even when visual cues are removed, establishing olfaction as a sufficient cue for nectar-source location at distance ref [8], ref [20].",
+    "refNo": 20,
+    "title": "Patterns of sugar feeding and host plant preferences in adult males of An. gambiae (Diptera: Culicidae)",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Field and laboratory studies indicate that males and females show preferences for particular flowering plants, and these preferences are reflected in both sugar-feeding patterns and olfactometer responses ref [9], ref [8].",
+    "refNo": 9,
+    "title": "Evolution of insect olfaction",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Field and laboratory studies indicate that males and females show preferences for particular flowering plants, and these preferences are reflected in both sugar-feeding patterns and olfactometer responses ref [9], ref [8].",
+    "refNo": 8,
+    "title": "Development and assessment of plant-based synthetic odor baits for surveillance and control of malaria vectors",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Comparative analyses of common African plants found that volatiles from species such as Parthenium hysterophorus and Senna didymobotrya were especially attractive, whereas other locally abundant plants were weakly attractive or not clearly preferred ref [8].",
+    "refNo": 8,
+    "title": "Development and assessment of plant-based synthetic odor baits for surveillance and control of malaria vectors",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Chemical analyses further indicate that preferred plants emit behaviorally active blends enriched in terpenoids and related compounds; in P. hysterophorus, antennally active components such as hexanal, β-pinene, limonene, β-ocimene, linalool oxide, and β-farnesene contributed to attraction, and optimized synthetic mixtures could match or exceed the attractiveness of intact plants ref [17].",
+    "refNo": 17,
+    "title": "Multimodal floral cues guide mosquitoes to tansy inflorescences",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "In Culex pipiens and Aedes aegypti, tansy inflorescences were most attractive when olfactory cues were combined with visual signals and floral CO2 emissions, and synthetic floral blends were further enhanced by added CO2 ref [18].",
+    "refNo": 18,
+    "title": "The location of floral nectar sources by mosquitoes: the long-range responses of Anopheles arabiensis Patton (Diptera: Culicidae) to Achillea millefolium flowers and isolated floral odour",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Translationally, these insights have enabled plant-based lures for malaria vectors: field-tested baits based on linalool oxide alone or in blends attracted outdoor Anopheles, including physiologically diverse individuals, supporting their utility for surveillance and potentially sugar-based control strategies ref [19].",
+    "refNo": 19,
+    "title": "The location of floral nectar sources by mosquitoes: an advanced bioassay for volatile plant odours and initial studies with Aedes aegypti (L.) (Diptera: Culicidae)",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "As emphasized in broad reviews, gravid females integrate volatile attractants, contact stimulants, and deterrents from multiple sources, including microbes, conspecific immature stages and eggs, and physicochemical features of water; importantly, the same cue can be attractive or repellent depending on species and concentration ref [22], ref [23].",
+    "refNo": 22,
+    "title": "Chemosensory cues for mosquito oviposition site selection",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "As emphasized in broad reviews, gravid females integrate volatile attractants, contact stimulants, and deterrents from multiple sources, including microbes, conspecific immature stages and eggs, and physicochemical features of water; importantly, the same cue can be attractive or repellent depending on species and concentration ref [22], ref [23].",
+    "refNo": 23,
+    "title": "An oviposition attractant pheromone in Culex quinquefasciatus Say (Diptera: Culicidae)",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "In Culex quinquefasciatus, egg-raft apical droplets contain the pheromone erythro-6-acetoxy-5-hexadecanolide, which attracts gravid females and promotes aggregation around previously used sites ref [25].",
+    "refNo": 25,
+    "title": "Identification of bacteria and bacteria-associated chemical cues that mediate oviposition site preferences by Aedes aegypti",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "More recently, a reverse chemical ecology strategy identified acetaldehyde as an oviposition attractant for the same species, linking receptor-based screening to behavioral activity ref [10].",
+    "refNo": 10,
+    "title": "Keeping track of mosquitoes: a review of tools to track, record and analyse mosquito flight",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "In malaria vectors, cedrol was identified from attractive soil infusions and shown to increase oviposition in laboratory assays, attract gravid Anopheles gambiae s.l. in semi-field systems, and enhance trap catches in the field, providing rare support for a long-range oviposition attractant in anophelines ref [26].",
+    "refNo": 26,
+    "title": "Studies of Aedes aegypti (Diptera: Culicidae) ovipositional responses to newly identified semiochemicals from conspecific eggs",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "In Aedes aegypti, bacteria associated with bamboo and oak infusions mediate oviposition preferences, and bioassay-guided analyses implicated bacteria-derived carboxylic acids and methyl esters as key stimulatory signals ref [27].",
+    "refNo": 27,
+    "title": "Reverse chemical ecology approach for the identification of an oviposition attractant for Culex quinquefasciatus",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "Egg-derived cues also contribute: extracts from conspecific eggs contain fatty acids and related compounds that can elicit positive or negative oviposition responses depending on molecule and dose ref [8].",
+    "refNo": 8,
+    "title": "Development and assessment of plant-based synthetic odor baits for surveillance and control of malaria vectors",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Together, these studies suggest that oviposition cues often encode habitat suitability indirectly—through signals of microbial productivity, prior conspecific use, or both—making them attractive candidates for gravid traps and attract-and-kill strategies ref [22], ref [23].",
+    "refNo": 22,
+    "title": "Chemosensory cues for mosquito oviposition site selection",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Together, these studies suggest that oviposition cues often encode habitat suitability indirectly—through signals of microbial productivity, prior conspecific use, or both—making them attractive candidates for gravid traps and attract-and-kill strategies ref [22], ref [23].",
+    "refNo": 23,
+    "title": "An oviposition attractant pheromone in Culex quinquefasciatus Say (Diptera: Culicidae)",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Early studies in Culiseta inornata concluded that volatile female-derived cues could stimulate male sexual responses independently of flight sound, indicating that chemical signals can participate in mate location in at least some culicids ref [6].",
+    "refNo": 6,
+    "title": "Host preferences of blood-feeding mosquitoes",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Likewise, work on Stegomyia mosquitoes provided evidence for a contact sexual pheromone used after close-range encounter, with male tarsi implicated in species recognition and reproductive isolation ref [7].",
+    "refNo": 7,
+    "title": "Mosquito attraction: crucial role of carbon dioxide in formulation of a five-component blend of human-derived volatiles",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Laboratory and semi-field experiments showed that swarming males, and possibly females, emit olfactory cues that increase flight activity and aggregation, thereby modulating mating opportunities ref [32].",
+    "refNo": 32,
+    "title": "Targeting male mosquito mating behaviour for malaria control",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "Subsequent chemical analyses identified candidate swarm-associated volatiles, including ketoisophorone-related compounds and 1-(4-ethylphenyl)ethanone, and showed that at least some of these compounds altered female attraction or male swarm-like activity under laboratory conditions ref [28].",
+    "refNo": 28,
+    "title": "Swarming mechanisms in the yellow fever mosquito: aggregation pheromones are involved in the mating behavior of Aedes aegypti",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "These findings support a model in which acoustic signals initiate close-range sexual interactions, while chemical cues help structure swarm assembly and persistence ref [28], ref [32].",
+    "refNo": 28,
+    "title": "Swarming mechanisms in the yellow fever mosquito: aggregation pheromones are involved in the mating behavior of Aedes aegypti",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "These findings support a model in which acoustic signals initiate close-range sexual interactions, while chemical cues help structure swarm assembly and persistence ref [28], ref [32].",
+    "refNo": 32,
+    "title": "Targeting male mosquito mating behaviour for malaria control",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "Reviews of male mosquito mating behaviour have therefore argued that better characterization of swarm cues—including visual, acoustic, and possible chemical components—could improve male release quality, enable swarm-targeted lure-and-kill tactics, and refine monitoring tools ref [8].",
+    "refNo": 8,
+    "title": "Development and assessment of plant-based synthetic odor baits for surveillance and control of malaria vectors",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Thus, they represent a promising but still underdeveloped frontier for semiochemical-based mosquito control ref [8], ref [28], ref [6].",
+    "refNo": 8,
+    "title": "Development and assessment of plant-based synthetic odor baits for surveillance and control of malaria vectors",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Thus, they represent a promising but still underdeveloped frontier for semiochemical-based mosquito control ref [8], ref [28], ref [6].",
+    "refNo": 28,
+    "title": "Swarming mechanisms in the yellow fever mosquito: aggregation pheromones are involved in the mating behavior of Aedes aegypti",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Thus, they represent a promising but still underdeveloped frontier for semiochemical-based mosquito control ref [8], ref [28], ref [6].",
+    "refNo": 6,
+    "title": "Host preferences of blood-feeding mosquitoes",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Early work on the Anopheles gambiae complex showed that adults of An. gambiae and An. arabiensis could be differentiated by gas-chromatographic analysis of cuticular hydrocarbons, despite their morphological similarity, with species-level differences particularly evident in the relative abundance of female n-paraffins around C26–C29 ref [33].",
+    "refNo": 33,
+    "title": "Differentiation between species of the Anopheles gambiae Giles complex (Diptera: Culicidae) by analysis of cuticular hydrocarbons",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "This approach was extended to individual mosquitoes, where ratios among selected paraffinic and methyl-branched peaks provided statistically significant markers for both females and, to a lesser extent, males ref [34].",
+    "refNo": 34,
+    "title": "Identification of mosquitoes of Anopheles gambiae species complex A and B by analysis of cuticular components",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "In Aedes aegypti, detailed GC and GC-MS profiling identified a chemically diverse epicuticular blend comprising n-alkanes, monomethylalkanes, dimethylalkanes and at least one alkene, with quantitative variation across sex, age and strain ref [35].",
+    "refNo": 35,
+    "title": "The chemical characterization of the epicuticular hydrocarbons of Aedes aegypti (Diptera: Culicidae)",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "Females carried significantly higher amounts of several higher-molecular-weight branched hydrocarbons than males, and age-dependent shifts were also pronounced, indicating that cuticular profiles are dynamic rather than fixed labels ref [35].",
+    "refNo": 35,
+    "title": "The chemical characterization of the epicuticular hydrocarbons of Aedes aegypti (Diptera: Culicidae)",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "Second, because cuticular hydrocarbons in other dipterans function in close-range recognition and mating, mosquito surface lipids remain plausible candidates for contact-mediated signalling linked indirectly to feeding-related life history, even when direct behavioural evidence is still limited ref [34], ref [35].",
+    "refNo": 34,
+    "title": "Identification of mosquitoes of Anopheles gambiae species complex A and B by analysis of cuticular components",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "Second, because cuticular hydrocarbons in other dipterans function in close-range recognition and mating, mosquito surface lipids remain plausible candidates for contact-mediated signalling linked indirectly to feeding-related life history, even when direct behavioural evidence is still limited ref [34], ref [35].",
+    "refNo": 35,
+    "title": "The chemical characterization of the epicuticular hydrocarbons of Aedes aegypti (Diptera: Culicidae)",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "A notable example is the chemically baited ovitrap developed for Aedes aegypti, in which a four-component blend of n-heneicosane, skatole, p-cresol, and phenol increased egg deposition relative to a standard ovitrap under laboratory conditions, with the optimized trap retaining activity for about three days ref [36].",
+    "refNo": 36,
+    "title": "Development and laboratory evaluation of chemically-based baited ovitrap for the monitoring of Aedes aegypti",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "This study illustrates both the promise and the practical constraints of semiochemical deployment: efficacy depends not only on blend composition, but also on trap architecture, dispenser format, and lure longevity ref [36].",
+    "refNo": 36,
+    "title": "Development and laboratory evaluation of chemically-based baited ovitrap for the monitoring of Aedes aegypti",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "In suburban Florida, counterflow traps baited with CO2 and kairomonal lures outperformed conventional CDC and Aedes-specific traps for Aedes albopictus collection, underscoring how odor release, visual design, and airflow geometry jointly determine capture efficiency ref [8].",
+    "refNo": 8,
+    "title": "Development and assessment of plant-based synthetic odor baits for surveillance and control of malaria vectors",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "In Kenya, adding a human-odor-derived component, especially hexanoic acid with CO2, to BG-Sentinel traps approximately doubled Aedes aegypti captures relative to the commercial lure, while some multicomponent blends reduced performance, highlighting the risk of antagonistic interactions in lure design ref [9].",
+    "refNo": 9,
+    "title": "Evolution of insect olfaction",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Synthetic blends offer greater standardization and manufacturability than fermenting infusions, yet their short field life and variable synergy remain key bottlenecks ref [36].",
+    "refNo": 36,
+    "title": "Development and laboratory evaluation of chemically-based baited ovitrap for the monitoring of Aedes aegypti",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "A central contribution of the classical synthesis by Bentley and Day was to formalize this process behaviorally and terminologically, distinguishing attractants and repellents from stimulants and deterrents while stressing that many published assays conflate these categories because they do not isolate olfactory from contact effects ref [21].",
+    "refNo": 21,
+    "title": "Chemical ecology and behavioral aspects of mosquito oviposition",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Navarro-Silva et al. highlighted the breadth of semiochemical classes implicated in site choice, including pheromones from eggs and other immature stages, kairomonal signals from plant infusions and microbes, and deterrent compounds associated with unsuitable habitats, while also arguing that these cues could support more sustainable surveillance and control if translated carefully into traps and lures ref [39].",
+    "refNo": 39,
+    "title": "Review of semiochemicals that mediate the oviposition of mosquitoes: a possible sustainable tool for the control and monitoring of Culicidae",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "Afify and Galizia further systematized the literature across mosquito taxa, showing that responses are highly context dependent, varying with species, cue concentration, prior larval experience, and assay design, which helps explain apparently contradictory reports for the same compound ref [22].",
+    "refNo": 22,
+    "title": "Chemosensory cues for mosquito oviposition site selection",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Taken together, these reviews establish several recurring themes for the field: oviposition signalling is multimodal rather than purely olfactory; microbial and detrital habitat chemistry often provides dominant information about larval resource quality; conspecific-derived cues can either promote aggregation or signal overcrowding; and ecological relevance must be validated beyond laboratory choice assays ref [21], ref [39], ref [22].",
+    "refNo": 21,
+    "title": "Chemical ecology and behavioral aspects of mosquito oviposition",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Taken together, these reviews establish several recurring themes for the field: oviposition signalling is multimodal rather than purely olfactory; microbial and detrital habitat chemistry often provides dominant information about larval resource quality; conspecific-derived cues can either promote aggregation or signal overcrowding; and ecological relevance must be validated beyond laboratory choice assays ref [21], ref [39], ref [22].",
+    "refNo": 39,
+    "title": "Review of semiochemicals that mediate the oviposition of mosquitoes: a possible sustainable tool for the control and monitoring of Culicidae",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "Taken together, these reviews establish several recurring themes for the field: oviposition signalling is multimodal rather than purely olfactory; microbial and detrital habitat chemistry often provides dominant information about larval resource quality; conspecific-derived cues can either promote aggregation or signal overcrowding; and ecological relevance must be validated beyond laboratory choice assays ref [21], ref [39], ref [22].",
+    "refNo": 22,
+    "title": "Chemosensory cues for mosquito oviposition site selection",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "They also converge on a translational caution particularly relevant to control: semiochemicals rarely act as universal lures, so species-specific calibration, dose optimization, and field validation are prerequisites before deployment in monitoring or attract-and-kill systems ref [39], ref [22].",
+    "refNo": 39,
+    "title": "Review of semiochemicals that mediate the oviposition of mosquitoes: a possible sustainable tool for the control and monitoring of Culicidae",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "They also converge on a translational caution particularly relevant to control: semiochemicals rarely act as universal lures, so species-specific calibration, dose optimization, and field validation are prerequisites before deployment in monitoring or attract-and-kill systems ref [39], ref [22].",
+    "refNo": 22,
+    "title": "Chemosensory cues for mosquito oviposition site selection",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "In container-breeding Aedes, fermenting plant infusions consistently outperform clean water, and elegant filtration and replacement experiments have shown that the oviposition-stimulating activity resides largely with microorganisms rather than the infusion water per se ref [40].",
+    "refNo": 40,
+    "title": "Anopheles arabiensis oviposition site selection in response to habitat persistence and associated physicochemical parameters, bacteria and volatile profiles",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "In Ae. aegypti, bacterial communities isolated from bamboo and oak leaf infusions elicited strong egg-laying responses, and bioassay-guided fractionation linked this activity to bacteria-associated carboxylic acids and methyl esters, including nonanoic acid, tetradecanoic acid and methyl tetradecanoate ref [40].",
+    "refNo": 40,
+    "title": "Anopheles arabiensis oviposition site selection in response to habitat persistence and associated physicochemical parameters, bacteria and volatile profiles",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "Field experiments with wild Anopheles arabiensis showed that freshly prepared ponds received about twice as many early-instar larvae as ponds aged 4 or 17 days before access, indicating active preference for less persistent habitats ref [3].",
+    "refNo": 3,
+    "title": "Eave tubes for malaria control in Africa: an introduction",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "These fresher ponds were associated with higher turbidity, higher temperature, elevated nitrite, and lower pH and chlorophyll, and they also differed in bacterial profiles on a round-dependent basis ref [3].",
+    "refNo": 3,
+    "title": "Eave tubes for malaria control in Africa: an introduction",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Notably, 4-heptanone, 2-ethylhexanal and an octenal isomer were detected only from fresh ponds, highlighting how microbial succession and water chemistry can translate into volatile signatures relevant to gravid females ref [3].",
+    "refNo": 3,
+    "title": "Eave tubes for malaria control in Africa: an introduction",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "This framework is consistent with demonstrations that Anopheles gambiae responds to volatiles from bacteria-containing media ref [4], although not all bacterial effects are attractive and responses may depend on community composition, density and environmental context ref [3], ref [5], ref [6].",
+    "refNo": 4,
+    "title": "Odor-mediated behavior of Afrotropical malaria mosquitoes",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "This framework is consistent with demonstrations that Anopheles gambiae responds to volatiles from bacteria-containing media ref [4], although not all bacterial effects are attractive and responses may depend on community composition, density and environmental context ref [3], ref [5], ref [6].",
+    "refNo": 3,
+    "title": "Eave tubes for malaria control in Africa: an introduction",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "This framework is consistent with demonstrations that Anopheles gambiae responds to volatiles from bacteria-containing media ref [4], although not all bacterial effects are attractive and responses may depend on community composition, density and environmental context ref [3], ref [5], ref [6].",
+    "refNo": 5,
+    "title": "The role of olfaction in host-seeking of mosquitoes: a review",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "This framework is consistent with demonstrations that Anopheles gambiae responds to volatiles from bacteria-containing media ref [4], although not all bacterial effects are attractive and responses may depend on community composition, density and environmental context ref [3], ref [5], ref [6].",
+    "refNo": 6,
+    "title": "Host preferences of blood-feeding mosquitoes",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "The practical implication is that microbial and aquatic habitat signals are promising but inherently dynamic targets for lure design, because attractive blends likely represent particular stages of habitat succession rather than static compounds alone ref [40], ref [3], ref [7].",
+    "refNo": 40,
+    "title": "Anopheles arabiensis oviposition site selection in response to habitat persistence and associated physicochemical parameters, bacteria and volatile profiles",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "The practical implication is that microbial and aquatic habitat signals are promising but inherently dynamic targets for lure design, because attractive blends likely represent particular stages of habitat succession rather than static compounds alone ref [40], ref [3], ref [7].",
+    "refNo": 3,
+    "title": "Eave tubes for malaria control in Africa: an introduction",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "The practical implication is that microbial and aquatic habitat signals are promising but inherently dynamic targets for lure design, because attractive blends likely represent particular stages of habitat succession rather than static compounds alone ref [40], ref [3], ref [7].",
+    "refNo": 7,
+    "title": "Mosquito attraction: crucial role of carbon dioxide in formulation of a five-component blend of human-derived volatiles",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "The strongest classical example comes from Culex quinquefasciatus, in which apical droplets on freshly laid egg rafts attract gravid females and thereby promote aggregation at previously used sites ref [23].",
+    "refNo": 23,
+    "title": "An oviposition attractant pheromone in Culex quinquefasciatus Say (Diptera: Culicidae)",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Chemical characterization identified the major volatile component as erythro-6-acetoxy-5-hexadecanolide, and synthetic material reproduced the oviposition-attractant activity observed with natural egg-raft extracts ref [41], ref [23].",
+    "refNo": 41,
+    "title": "Erythro-6-acetoxy-5-hexadecanolide, the major component of a mosquito oviposition attractant pheromone",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "Chemical characterization identified the major volatile component as erythro-6-acetoxy-5-hexadecanolide, and synthetic material reproduced the oviposition-attractant activity observed with natural egg-raft extracts ref [41], ref [23].",
+    "refNo": 23,
+    "title": "An oviposition attractant pheromone in Culex quinquefasciatus Say (Diptera: Culicidae)",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Follow-up behavioral work established that this Culex signal is highly structure-dependent: activity was lost when the lactone was opened, the carbon chain shortened, or the stereochemistry altered, with evidence that the natural active form is the (-)-(5R,6S) enantiomer ref [23].",
+    "refNo": 23,
+    "title": "An oviposition attractant pheromone in Culex quinquefasciatus Say (Diptera: Culicidae)",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Importantly, the compound appears to be produced by the mosquito rather than by associated microbes, being present in mature ovaries before oviposition and remaining associated with egg rafts after deposition ref [23].",
+    "refNo": 23,
+    "title": "An oviposition attractant pheromone in Culex quinquefasciatus Say (Diptera: Culicidae)",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Egg extracts contain multiple lactones, fatty acids, and methyl esters, with some acids such as dodecanoic acid and (Z)-9-hexadecenoic acid promoting oviposition, whereas several methyl esters act as deterrents, suggesting a blend-based system that may balance attraction with avoidance of overcrowding ref [26].",
+    "refNo": 26,
+    "title": "Studies of Aedes aegypti (Diptera: Culicidae) ovipositional responses to newly identified semiochemicals from conspecific eggs",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "More recently, receptor-guided screening in Cx. quinquefasciatus identified acetaldehyde as an oviposition attractant for gravid females, illustrating how reverse chemical ecology can uncover additional conspecific-associated or oviposition-relevant cues beyond the historically defined egg pheromone ref [27].",
+    "refNo": 27,
+    "title": "Reverse chemical ecology approach for the identification of an oviposition attractant for Culex quinquefasciatus",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "Gravid Anopheles arabiensis and An. coluzzii respond hierarchically to volatile extracts from emergent grasses, with Poaceae-associated cues generally eliciting stronger attraction and oviposition than cues from Typha or papyrus, consistent with larval distributions in the field ref [44].",
+    "refNo": 44,
+    "title": "Rice volatiles lure gravid malaria mosquitoes",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "Rice odours attract gravid An. arabiensis across plant phenological stages, stimulate oviposition, and can be reduced to an electrophysiologically active synthetic blend that remains attractive under semi-field conditions ref [45].",
+    "refNo": 45,
+    "title": "Sweet attraction: sugarcane pollen-associated volatiles attract gravid Anopheles arabiensis",
+    "marker_text": "[45]"
+  },
+  {
+    "sentence": "Similarly, sugarcane pollen-associated volatiles attract and stimulate oviposition in gravid An. arabiensis, and comparative assays suggest overlap with other grass-derived cue spaces, including shared components such as alpha-pinene and nonanal ref [5].",
+    "refNo": 5,
+    "title": "The role of olfaction in host-seeking of mosquitoes: a review",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Cedrol, the first confirmed oviposition attractant for members of the Anopheles gambiae complex, was traced to Fusarium spp. isolated from rhizomes of Cyperus rotundus collected at a natural breeding site, showing that some 'plant-associated' cues may in fact be microbially generated within plant–soil interfaces ref [43].",
+    "refNo": 43,
+    "title": "The role of grass volatiles on oviposition site selection by Anopheles arabiensis and Anopheles coluzzii",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "This complicates simple source attribution, but it also broadens the translational opportunity: effective lures may emerge from plant, pollen, or fungal metabolism, provided they reliably indicate habitats preferred by gravid females ref [43], ref [44], ref [45], ref [5].",
+    "refNo": 43,
+    "title": "The role of grass volatiles on oviposition site selection by Anopheles arabiensis and Anopheles coluzzii",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "This complicates simple source attribution, but it also broadens the translational opportunity: effective lures may emerge from plant, pollen, or fungal metabolism, provided they reliably indicate habitats preferred by gravid females ref [43], ref [44], ref [45], ref [5].",
+    "refNo": 44,
+    "title": "Rice volatiles lure gravid malaria mosquitoes",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "This complicates simple source attribution, but it also broadens the translational opportunity: effective lures may emerge from plant, pollen, or fungal metabolism, provided they reliably indicate habitats preferred by gravid females ref [43], ref [44], ref [45], ref [5].",
+    "refNo": 45,
+    "title": "Sweet attraction: sugarcane pollen-associated volatiles attract gravid Anopheles arabiensis",
+    "marker_text": "[45]"
+  },
+  {
+    "sentence": "This complicates simple source attribution, but it also broadens the translational opportunity: effective lures may emerge from plant, pollen, or fungal metabolism, provided they reliably indicate habitats preferred by gravid females ref [43], ref [44], ref [45], ref [5].",
+    "refNo": 5,
+    "title": "The role of olfaction in host-seeking of mosquitoes: a review",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "ATSBs are particularly appealing as supplementary tools for residual transmission because they can target both sexes and can act outside houses, where long-lasting insecticidal nets and indoor residual spraying are less effective [1].",
+    "refNo": 1,
+    "title": "Characterizing, controlling and eliminating residual malaria transmission",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Early field studies showed that vegetation-applied or station-based ATSBs could markedly suppress anopheline populations, establishing proof-of-concept for semiochemical-guided killing at landscape scale [3][4].",
+    "refNo": 3,
+    "title": "Eave tubes for malaria control in Africa: an introduction",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Early field studies showed that vegetation-applied or station-based ATSBs could markedly suppress anopheline populations, establishing proof-of-concept for semiochemical-guided killing at landscape scale [3][4].",
+    "refNo": 4,
+    "title": "Odor-mediated behavior of Afrotropical malaria mosquitoes",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "An ivermectin-based ATSB developed for Anopheles arabiensis caused >95% mortality within 48 h at 0.01% ivermectin, and importantly showed that bait architecture and placement strongly influenced uptake: resting-site-like prototypes outperformed simpler feeding surfaces, and deployment near peri-domestic vegetation increased feeding relative to positions nearer huts [1].",
+    "refNo": 1,
+    "title": "Characterizing, controlling and eliminating residual malaria transmission",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "These findings reinforce that attractancy is not determined by sugar chemistry alone, but by the integration of olfactory, visual, and microhabitat cues associated with natural sugar foraging [5][6].",
+    "refNo": 5,
+    "title": "The role of olfaction in host-seeking of mosquitoes: a review",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "These findings reinforce that attractancy is not determined by sugar chemistry alone, but by the integration of olfactory, visual, and microhabitat cues associated with natural sugar foraging [5][6].",
+    "refNo": 6,
+    "title": "Host preferences of blood-feeding mosquitoes",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "The Mosquito Landing Box, baited with human odours, attracted significantly more An. arabiensis and An. funestus than unbaited controls, and its peak visitation coincided with periods of human outdoor activity, highlighting its relevance for outdoor exposure [2].",
+    "refNo": 2,
+    "title": "Increased threat of urban malaria from Anopheles stephensi mosquitoes",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "However, vectors often contacted the device only briefly, so mortality with surface-applied pirimiphos-methyl remained moderate, indicating that successful outdoor kill stations require toxicants effective after very short contact, or alternative agents such as fungi or electrocuting surfaces [2][7][8].",
+    "refNo": 2,
+    "title": "Increased threat of urban malaria from Anopheles stephensi mosquitoes",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "However, vectors often contacted the device only briefly, so mortality with surface-applied pirimiphos-methyl remained moderate, indicating that successful outdoor kill stations require toxicants effective after very short contact, or alternative agents such as fungi or electrocuting surfaces [2][7][8].",
+    "refNo": 7,
+    "title": "Mosquito attraction: crucial role of carbon dioxide in formulation of a five-component blend of human-derived volatiles",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "However, vectors often contacted the device only briefly, so mortality with surface-applied pirimiphos-methyl remained moderate, indicating that successful outdoor kill stations require toxicants effective after very short contact, or alternative agents such as fungi or electrocuting surfaces [2][7][8].",
+    "refNo": 8,
+    "title": "Development and assessment of plant-based synthetic odor baits for surveillance and control of malaria vectors",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "A broad survey of the healthy human volatolome documented more than 1800 volatile organic compounds across breath, skin secretions, saliva, blood, urine and faeces, underscoring both the richness of candidate ligands and the need to identify the behaviorally relevant subset for mosquito attraction ref [49].",
+    "refNo": 49,
+    "title": "A review of the volatiles from the healthy human body",
+    "marker_text": "[49]"
+  },
+  {
+    "sentence": "Work on malaria vectors established that common human emanations such as ammonia, lactic acid and selected carboxylic acids act synergistically in host seeking, providing an early proof that blend composition matters more than single-compound activity ref [2].",
+    "refNo": 2,
+    "title": "Increased threat of urban malaria from Anopheles stephensi mosquitoes",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Subsequent electrophysiological and behavioural studies showed that Anopheles gambiae detects human-specific sweat constituents, while context-dependent responses to generic host volatiles such as (R)-1-octen-3-ol further emphasized that mosquito attraction depends on the presence of a complementary odour background ref [3], ref [4].",
+    "refNo": 3,
+    "title": "Eave tubes for malaria control in Africa: an introduction",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Subsequent electrophysiological and behavioural studies showed that Anopheles gambiae detects human-specific sweat constituents, while context-dependent responses to generic host volatiles such as (R)-1-octen-3-ol further emphasized that mosquito attraction depends on the presence of a complementary odour background ref [3], ref [4].",
+    "refNo": 4,
+    "title": "Odor-mediated behavior of Afrotropical malaria mosquitoes",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Importantly, carbon dioxide is not merely an added attractant but a key gating cue that strongly enhances orientation to human-derived blends and remains central to synthetic lure design ref [5].",
+    "refNo": 5,
+    "title": "The role of olfaction in host-seeking of mosquitoes: a review",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Odour-bait studies in Afrotropical malaria mosquitoes demonstrated that synthetic host blends can reproduce substantial components of human attractiveness in the field ref [6].",
+    "refNo": 6,
+    "title": "Host preferences of blood-feeding mosquitoes",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "More recently, improved monitoring lures for Aedes aegypti and related vectors have combined human-derived volatiles with optimized release systems to increase trap sensitivity under realistic deployment conditions ref [7].",
+    "refNo": 7,
+    "title": "Mosquito attraction: crucial role of carbon dioxide in formulation of a five-component blend of human-derived volatiles",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Overall, the trajectory from cataloguing human VOCs to identifying synergistic subsets illustrates a central principle in semiochemical control: effective synthetic attractants are best viewed as parsimonious reconstructions of human odour space, tuned to mosquito sensory ecology rather than exhaustive chemical mimicry ref [49], ref [5].",
+    "refNo": 49,
+    "title": "A review of the volatiles from the healthy human body",
+    "marker_text": "[49]"
+  },
+  {
+    "sentence": "Overall, the trajectory from cataloguing human VOCs to identifying synergistic subsets illustrates a central principle in semiochemical control: effective synthetic attractants are best viewed as parsimonious reconstructions of human odour space, tuned to mosquito sensory ecology rather than exhaustive chemical mimicry ref [49], ref [5].",
+    "refNo": 5,
+    "title": "The role of olfaction in host-seeking of mosquitoes: a review",
+    "marker_text": "[5]"
+  }
+]

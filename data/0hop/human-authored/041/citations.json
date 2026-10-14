@@ -1,0 +1,1175 @@
+[
+  {
+    "sentence": "Meanwhile, the tumor related microenvironment also changes. 8,10 Immune cells secrete some special cytokines in response to cancer cells. [11][12][13][14] The extracellular matrix (ECM) also undergoes significant changes under the action of matrix metalloproteinases (MMPs).",
+    "refNo": 12,
+    "title": "Cytokines in cancer pathogenesis and cancer therapy",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Meanwhile, the tumor related microenvironment also changes. 8,10 Immune cells secrete some special cytokines in response to cancer cells. [11][12][13][14] The extracellular matrix (ECM) also undergoes significant changes under the action of matrix metalloproteinases (MMPs).",
+    "refNo": 13,
+    "title": "Breast cancer cell-derived cytokines, macrophages and cell adhesion: Implications for metastasis",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Meanwhile, the tumor related microenvironment also changes. 8,10 Immune cells secrete some special cytokines in response to cancer cells. [11][12][13][14] The extracellular matrix (ECM) also undergoes significant changes under the action of matrix metalloproteinases (MMPs).",
+    "refNo": 14,
+    "title": "Breast Cancer Metastasis: Are Cytokines Important Players during Its Development and Progression?",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Meanwhile, the tumor related microenvironment also changes. 8,10 Immune cells secrete some special cytokines in response to cancer cells. [11][12][13][14] The extracellular matrix (ECM) also undergoes significant changes under the action of matrix metalloproteinases (MMPs).",
+    "refNo": 15,
+    "title": "Peptide Microarray-Based Metal Enhanced Fluorescence Assay for Multiple Profiling of Matrix Metalloproteinases Activities",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Meanwhile, the tumor related microenvironment also changes. 8,10 Immune cells secrete some special cytokines in response to cancer cells. [11][12][13][14] The extracellular matrix (ECM) also undergoes significant changes under the action of matrix metalloproteinases (MMPs).",
+    "refNo": 9,
+    "title": "",
+    "marker_text": "8",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Meanwhile, the tumor related microenvironment also changes. 8,10 Immune cells secrete some special cytokines in response to cancer cells. [11][12][13][14] The extracellular matrix (ECM) also undergoes significant changes under the action of matrix metalloproteinases (MMPs).",
+    "refNo": 11,
+    "title": "",
+    "marker_text": "10",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Throughout the process of tumor formation, development and metastasis, many different cancer biomarkers are produced, such as altered genomic, circulating tumor DNA (ctDNA), microRNA, cancer antigens, cytokines, MMPs, exosomes, Circulating Tumor Cells (CTCs) etc. 8,16,17 The biomarkers originating from tumorigenesis, migration and colonization to a second site are systematically presented in Fig. 1B.",
+    "refNo": 9,
+    "title": "",
+    "marker_text": "8",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Throughout the process of tumor formation, development and metastasis, many different cancer biomarkers are produced, such as altered genomic, circulating tumor DNA (ctDNA), microRNA, cancer antigens, cytokines, MMPs, exosomes, Circulating Tumor Cells (CTCs) etc. 8,16,17 The biomarkers originating from tumorigenesis, migration and colonization to a second site are systematically presented in Fig. 1B.",
+    "refNo": 17,
+    "title": "Micrornas: New biomarkers for diagnosis, prognosis, therapy prediction and therapeutic tools for breast cancer",
+    "marker_text": "16",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Throughout the process of tumor formation, development and metastasis, many different cancer biomarkers are produced, such as altered genomic, circulating tumor DNA (ctDNA), microRNA, cancer antigens, cytokines, MMPs, exosomes, Circulating Tumor Cells (CTCs) etc. 8,16,17 The biomarkers originating from tumorigenesis, migration and colonization to a second site are systematically presented in Fig. 1B.",
+    "refNo": 18,
+    "title": "Immunosensors for detection of Annexin II and MUC5AC for early diagnosis of lung cancer",
+    "marker_text": "17",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Throughout the process of tumor formation, development and metastasis, many different cancer biomarkers are produced, such as altered genomic, circulating tumor DNA (ctDNA), microRNA, cancer antigens, cytokines, MMPs, exosomes, Circulating Tumor Cells (CTCs) etc. 8,16,17 The biomarkers originating from tumorigenesis, migration and colonization to a second site are systematically presented in Fig. 1B.",
+    "refNo": 2,
+    "title": "Current trends and emerging diagnostic techniques for lung cancer",
+    "marker_text": "1",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "In another work, Chandra et al. 21 have developed an amperometric biosensor for the detection of cancer cells using antipermeability glycoprotein functionalized nanoprobe, which has shown Linear Range (LR) and LOD of 50 to 10 5 cells mL −1 and 23 ± 2 cells mL −1 , respectively.",
+    "refNo": 22,
+    "title": "Ultrasensitive immunosensor array for TNF-α detection in artificial saliva using polymer-coated magnetic microparticles onto screen-printed gold electrode",
+    "marker_text": "21",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "It offers low LOD (between 10 −8 and 10 −11 M) which is important for cancer detection as the concentration of biomarkers are very low in the early stages. 24 Jia and coworkers have reported a Light-Addressable Potentiometric Sensor (LAPS) for the detection of human phosphatase of regenerating liver-3 (hPRL-3), a prognostic biomarker of liver cancer.",
+    "refNo": 25,
+    "title": "Label-free biosensor: A novel phage-modified Light Addressable Potentiometric Sensor system for cancer cell monitoring",
+    "marker_text": "24",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Also, this work confirmed changes in pH flux surrounding the neoplasm consisting cancer cells which infers the correlation to the metabolism of altered cells. 29 Similarly, anti-EpCAM functionalized graphene oxide potentiometric biosensor was developed for the selective detection of CTCs of prostate cancer using the LAPS technique. 30 In chronopotentiometry the potential is measured as a function of time in response to a constant or square-wave current.",
+    "refNo": 30,
+    "title": "Detection of circulating tumor cells in prostate cancer based on carboxylated graphene oxide modified light addressable potentiometric sensor",
+    "marker_text": "29",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Also, this work confirmed changes in pH flux surrounding the neoplasm consisting cancer cells which infers the correlation to the metabolism of altered cells. 29 Similarly, anti-EpCAM functionalized graphene oxide potentiometric biosensor was developed for the selective detection of CTCs of prostate cancer using the LAPS technique. 30 In chronopotentiometry the potential is measured as a function of time in response to a constant or square-wave current.",
+    "refNo": 31,
+    "title": "Label-free chronopotentiometric glycoprofiling of prostate specific antigen using sialic acid recognizing lectins",
+    "marker_text": "30",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Chronopotentiometric stripping (CPS) was used by Belicky et al. to investigate the prostate specific antigen (PSA) and its interactions with lectins capable to recognize PSA glycans occurring in healthy people or in patients with prostate cancer. 31 Voltammetry belongs to a category of electro-analytical methods, through which information about an analyte is obtained by varying a potential and then measuring the resulting current.",
+    "refNo": 32,
+    "title": "",
+    "marker_text": "31",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Among different voltammetry methods, SWV and DPV are often used due to their high sensitivity. 32 They have also been widely utilized for cancer biomarkers detection in numerous matrices.",
+    "refNo": 33,
+    "title": "Early stage screening of breast cancer using electrochemical biomarker detection",
+    "marker_text": "32",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "The voltammetric techniques have been used to detect numerous cancer biomarkers including, IL-10, HER2, Osteopontin (OPN), HEp-2, HT29, PSA, CA153, HCT, etc. 33,34 Impedimetric techniques have also been proved to be a promising method for cancer biomarker detection due to their low excitation voltage, fast speed, and high sensitivity. 35,36 More importantly, they can be used for long-time, real time, and on-site detection. 37,38 Electrochemical impedance spectroscopy (EIS) is the most often used impedance method.",
+    "refNo": 34,
+    "title": "An aptabiosensor for colon cancer diagnostics",
+    "marker_text": "33",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "The voltammetric techniques have been used to detect numerous cancer biomarkers including, IL-10, HER2, Osteopontin (OPN), HEp-2, HT29, PSA, CA153, HCT, etc. 33,34 Impedimetric techniques have also been proved to be a promising method for cancer biomarker detection due to their low excitation voltage, fast speed, and high sensitivity. 35,36 More importantly, they can be used for long-time, real time, and on-site detection. 37,38 Electrochemical impedance spectroscopy (EIS) is the most often used impedance method.",
+    "refNo": 35,
+    "title": "Electrochemical biosensor for cancer cell detection based on a surface 3D micro-array",
+    "marker_text": "34",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "The voltammetric techniques have been used to detect numerous cancer biomarkers including, IL-10, HER2, Osteopontin (OPN), HEp-2, HT29, PSA, CA153, HCT, etc. 33,34 Impedimetric techniques have also been proved to be a promising method for cancer biomarker detection due to their low excitation voltage, fast speed, and high sensitivity. 35,36 More importantly, they can be used for long-time, real time, and on-site detection. 37,38 Electrochemical impedance spectroscopy (EIS) is the most often used impedance method.",
+    "refNo": 36,
+    "title": "Carbon nanotube based dielectric spectroscopy of tumor secretion; electrochemical lipidomics for cancer diagnosis",
+    "marker_text": "35",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "The voltammetric techniques have been used to detect numerous cancer biomarkers including, IL-10, HER2, Osteopontin (OPN), HEp-2, HT29, PSA, CA153, HCT, etc. 33,34 Impedimetric techniques have also been proved to be a promising method for cancer biomarker detection due to their low excitation voltage, fast speed, and high sensitivity. 35,36 More importantly, they can be used for long-time, real time, and on-site detection. 37,38 Electrochemical impedance spectroscopy (EIS) is the most often used impedance method.",
+    "refNo": 37,
+    "title": "Using real-time impedance-based assays to monitor the effects of fibroblast-derived media on the adhesion, proliferation, migration and invasion of colon cancer cells",
+    "marker_text": "36",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "The voltammetric techniques have been used to detect numerous cancer biomarkers including, IL-10, HER2, Osteopontin (OPN), HEp-2, HT29, PSA, CA153, HCT, etc. 33,34 Impedimetric techniques have also been proved to be a promising method for cancer biomarker detection due to their low excitation voltage, fast speed, and high sensitivity. 35,36 More importantly, they can be used for long-time, real time, and on-site detection. 37,38 Electrochemical impedance spectroscopy (EIS) is the most often used impedance method.",
+    "refNo": 38,
+    "title": "Bioimpedimetric analysis in conjunction with growth dynamics to differentiate aggressiveness of cancer cells",
+    "marker_text": "37",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "The voltammetric techniques have been used to detect numerous cancer biomarkers including, IL-10, HER2, Osteopontin (OPN), HEp-2, HT29, PSA, CA153, HCT, etc. 33,34 Impedimetric techniques have also been proved to be a promising method for cancer biomarker detection due to their low excitation voltage, fast speed, and high sensitivity. 35,36 More importantly, they can be used for long-time, real time, and on-site detection. 37,38 Electrochemical impedance spectroscopy (EIS) is the most often used impedance method.",
+    "refNo": 39,
+    "title": "A highly sensitive and selective electrochemical DNA biosensor to diagnose breast cancer",
+    "marker_text": "38",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Compared with voltammteric methods which need apply about −200 mV ∼ 600 mV excitation voltage, the EIS just need 5 mV or 10 mV excitation voltage. 39 The low excitation voltage makes it become a more undamaged detection technology.",
+    "refNo": 40,
+    "title": "Glycoprofiling of cancer biomarkers: Label-free electrochemical lectin-based biosensors",
+    "marker_text": "39",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Generally, at low frequencies (f < 1 mHz) the impedance is determined by the DC-conductivity of the electrolyte solution and at higher frequencies (f > 100 kHz), inductance of the electrochemical cell and connecting wires dominate the system. [40][41][42] For most cancer biomarkers, like cancer cells, protein biomarkers and nucleic acid biomarkers, can be detected by EIS.",
+    "refNo": 41,
+    "title": "Nanomaterials in label-free impedimetric biosensor: Current process and future perspectives",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "Generally, at low frequencies (f < 1 mHz) the impedance is determined by the DC-conductivity of the electrolyte solution and at higher frequencies (f > 100 kHz), inductance of the electrochemical cell and connecting wires dominate the system. [40][41][42] For most cancer biomarkers, like cancer cells, protein biomarkers and nucleic acid biomarkers, can be detected by EIS.",
+    "refNo": 42,
+    "title": "",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "Generally, at low frequencies (f < 1 mHz) the impedance is determined by the DC-conductivity of the electrolyte solution and at higher frequencies (f > 100 kHz), inductance of the electrochemical cell and connecting wires dominate the system. [40][41][42] For most cancer biomarkers, like cancer cells, protein biomarkers and nucleic acid biomarkers, can be detected by EIS.",
+    "refNo": 43,
+    "title": "Mannosyl electrochemical impedance cytosensor for label-free MDA-MB-231 cancer cell detection",
+    "marker_text": "[42]"
+  },
+  {
+    "sentence": "Tang et al. 43 reported an EIS biosensor to detect MDA-MB-231 breast cancer with LOD of 10 cells mL −1 .",
+    "refNo": 44,
+    "title": "Capacitive aptasensor based on interdigitated electrode for breast cancer detection in undiluted human serum",
+    "marker_text": "43",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Arya et al. 44 developed a capacitive aptasensor to detect and estimate human epidermal growth factor receptor 2 (HER2), a biomarker for breast cancer, in undiluted serum.",
+    "refNo": 45,
+    "title": "Conductometric immunoassay of alpha-fetoprotein in sera of liver cancer patients using bienzymefunctionalized nanometer-sized silica beads",
+    "marker_text": "44",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Liang et al. 45 used conductometric immunoassay to detect alpha-fetoprotein (AFP) in sera of liver cancer patients.",
+    "refNo": 46,
+    "title": "TCNQ-doped Cu-metal organic framework as a novel conductometric immunosensing platform for the quantification of prostate cancer antigen",
+    "marker_text": "45",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Bhardwaj et al. 46 developed tetracyanoquinodimethane (TCNQ)-doped thin films of copper-MOF, Cu 3 (BTC) 2 based conductometric immunosensing platform for the quantification of prostate cancer antigen, it provided PSA detection in a dynamic linear range of 0.1-100 ng mL −1 to attain a limit of detection at 0.06 ng mL −1 .",
+    "refNo": 47,
+    "title": "Bottom-up assembly of silicon nanowire conductometric sensors for the detection of apolipoprotein A1, a biomarker for bladder cancer",
+    "marker_text": "46",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Bhardwaj et al. 46 developed tetracyanoquinodimethane (TCNQ)-doped thin films of copper-MOF, Cu 3 (BTC) 2 based conductometric immunosensing platform for the quantification of prostate cancer antigen, it provided PSA detection in a dynamic linear range of 0.1-100 ng mL −1 to attain a limit of detection at 0.06 ng mL −1 .",
+    "refNo": 3,
+    "title": "Biomarkers and biosensors for the early diagnosis of lung cancer",
+    "marker_text": "2",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Lin et al. 47 constructed silicon nanowire conductometric sensors for the detection of apolipoprotein A1, a biomarker for bladder cancer.",
+    "refNo": 48,
+    "title": "Review-field-effect transistor biosensing: Devices and clinical applications",
+    "marker_text": "47",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "The latter can be reproducibly measured, quantified and processed; and, (D) an associated electronics comprising of signal amplifier, signal processor and an interface, like a display, which finally allows a user-friendly visualization and evaluation of the data. 49 For electrochemical biosensor, electrode is used as transducer (Fig. 1A).",
+    "refNo": 50,
+    "title": "Recent advances in design of electrochemical affinity biosensors for low level detection of cancer protein biomarkers using nanomaterialassisted signal enhancement strategies",
+    "marker_text": "49",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "The latter can be reproducibly measured, quantified and processed; and, (D) an associated electronics comprising of signal amplifier, signal processor and an interface, like a display, which finally allows a user-friendly visualization and evaluation of the data. 49 For electrochemical biosensor, electrode is used as transducer (Fig. 1A).",
+    "refNo": 2,
+    "title": "Current trends and emerging diagnostic techniques for lung cancer",
+    "marker_text": "1",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "The receptor is the most important component for the design of an electrochemical biosensor, which involves antibodies, lectins, peptides, deoxyribonucleic acid (DNA), peptide nucleic acids (PNAs), aptamers, and molecularly imprinted polymers (MIPs). [50][51][52] Antibodies, also known as immunoglobulins, are the immune system related proteins, which can selectively bind to antigens with a high binding constant in excess of 10 8 L mol −1 .",
+    "refNo": 51,
+    "title": "Biosensors: The new wave in cancer diagnosis",
+    "marker_text": "[50]"
+  },
+  {
+    "sentence": "The receptor is the most important component for the design of an electrochemical biosensor, which involves antibodies, lectins, peptides, deoxyribonucleic acid (DNA), peptide nucleic acids (PNAs), aptamers, and molecularly imprinted polymers (MIPs). [50][51][52] Antibodies, also known as immunoglobulins, are the immune system related proteins, which can selectively bind to antigens with a high binding constant in excess of 10 8 L mol −1 .",
+    "refNo": 52,
+    "title": "Biosensor recognition elements",
+    "marker_text": "[51]"
+  },
+  {
+    "sentence": "The receptor is the most important component for the design of an electrochemical biosensor, which involves antibodies, lectins, peptides, deoxyribonucleic acid (DNA), peptide nucleic acids (PNAs), aptamers, and molecularly imprinted polymers (MIPs). [50][51][52] Antibodies, also known as immunoglobulins, are the immune system related proteins, which can selectively bind to antigens with a high binding constant in excess of 10 8 L mol −1 .",
+    "refNo": 53,
+    "title": "Electrochemical immunosensors for detection of cancer protein biomarkers",
+    "marker_text": "[52]"
+  },
+  {
+    "sentence": "The most important advantage of antibodies is the specificity and affinity of these probes to target analytes. 50 Antibody-based electrochemical biosensors, also called electrochemical immunosensors, is a type of most common biosensor for cancer protein biomarkers detection. [53][54][55][56] Lectins are natural proteins of non-immune origin with specific binding affinity for the glycan moiety of glycolipids and glycoproteins.",
+    "refNo": 54,
+    "title": "",
+    "marker_text": "[53]"
+  },
+  {
+    "sentence": "The most important advantage of antibodies is the specificity and affinity of these probes to target analytes. 50 Antibody-based electrochemical biosensors, also called electrochemical immunosensors, is a type of most common biosensor for cancer protein biomarkers detection. [53][54][55][56] Lectins are natural proteins of non-immune origin with specific binding affinity for the glycan moiety of glycolipids and glycoproteins.",
+    "refNo": 55,
+    "title": "Nanostructures for nonlabeled and labeled electrochemical immunosensors: Simultaneous electrochemical detection of cancer markers: A review",
+    "marker_text": "[54]"
+  },
+  {
+    "sentence": "The most important advantage of antibodies is the specificity and affinity of these probes to target analytes. 50 Antibody-based electrochemical biosensors, also called electrochemical immunosensors, is a type of most common biosensor for cancer protein biomarkers detection. [53][54][55][56] Lectins are natural proteins of non-immune origin with specific binding affinity for the glycan moiety of glycolipids and glycoproteins.",
+    "refNo": 56,
+    "title": "Development of Electrochemical Immunosensors toward Pointof-care Cancer Diagnostics: Clinically Relevant Studies",
+    "marker_text": "[55]"
+  },
+  {
+    "sentence": "The most important advantage of antibodies is the specificity and affinity of these probes to target analytes. 50 Antibody-based electrochemical biosensors, also called electrochemical immunosensors, is a type of most common biosensor for cancer protein biomarkers detection. [53][54][55][56] Lectins are natural proteins of non-immune origin with specific binding affinity for the glycan moiety of glycolipids and glycoproteins.",
+    "refNo": 57,
+    "title": "An introduction to bioinformatics for glycomics research",
+    "marker_text": "[56]"
+  },
+  {
+    "sentence": "The most important advantage of antibodies is the specificity and affinity of these probes to target analytes. 50 Antibody-based electrochemical biosensors, also called electrochemical immunosensors, is a type of most common biosensor for cancer protein biomarkers detection. [53][54][55][56] Lectins are natural proteins of non-immune origin with specific binding affinity for the glycan moiety of glycolipids and glycoproteins.",
+    "refNo": 51,
+    "title": "Biosensors: The new wave in cancer diagnosis",
+    "marker_text": "50",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "However, lectins exhibit low affinity (dissociation constant K d = 10 −3 -10 −4 mol L −1 ) while binding with carbohydrates compared to antigen-antibody interactions with K d in the subnanomolar range. 57 The lectins render them as valuable recognition elements for biosensing of glycoprotein tumor markers. 58 Peptides are short chains of amino acid monomers linked by amide bonds.",
+    "refNo": 58,
+    "title": "Lectin-based optical sensing for quantitative analysis of cancer antigen CA15-3 as a breast cancer marker",
+    "marker_text": "57",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "However, lectins exhibit low affinity (dissociation constant K d = 10 −3 -10 −4 mol L −1 ) while binding with carbohydrates compared to antigen-antibody interactions with K d in the subnanomolar range. 57 The lectins render them as valuable recognition elements for biosensing of glycoprotein tumor markers. 58 Peptides are short chains of amino acid monomers linked by amide bonds.",
+    "refNo": 59,
+    "title": "",
+    "marker_text": "58",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Compared to antibody, the peptides are more stable, easier to overcome harsh environments and more amenable to synthesize at the molecular level. 59 A specific peptide for sensitive analysis of PSA was reported by He and coworkers, 60 it showed a good selectivity to PSA when bovine serum albumin (BSA), hemoglobin (HB), CEA and human alphafetoprotein (AFP) were in the analyte solution.",
+    "refNo": 60,
+    "title": "Electrochemical Peptide Biosensor Based on in Situ Silver Deposition for Detection of Prostate Specific Antigen",
+    "marker_text": "59",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "DNA is a stable, low-cost and easily adaptable molecule, which is an excellent building block for the construction of electrochemical biosensor. 61,62 DNA based electrochemical biosensors were used to detect the cancer related gene mutations. 63 Cui and coworkers 64 developed an oligonucleotides based EIS DNA biosensor for breast cancer gene marker BRCA1 detection.",
+    "refNo": 62,
+    "title": "Biosensors -classification, characterization and new trends",
+    "marker_text": "61",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "DNA is a stable, low-cost and easily adaptable molecule, which is an excellent building block for the construction of electrochemical biosensor. 61,62 DNA based electrochemical biosensors were used to detect the cancer related gene mutations. 63 Cui and coworkers 64 developed an oligonucleotides based EIS DNA biosensor for breast cancer gene marker BRCA1 detection.",
+    "refNo": 63,
+    "title": "Basics of DNA biosensors and cancer diagnosis",
+    "marker_text": "62",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "DNA is a stable, low-cost and easily adaptable molecule, which is an excellent building block for the construction of electrochemical biosensor. 61,62 DNA based electrochemical biosensors were used to detect the cancer related gene mutations. 63 Cui and coworkers 64 developed an oligonucleotides based EIS DNA biosensor for breast cancer gene marker BRCA1 detection.",
+    "refNo": 64,
+    "title": "A label-free electrochemical DNA biosensor for breast cancer marker BRCA1 based on self-assembled antifouling peptide monolayer",
+    "marker_text": "63",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "PNAs exhibits chemical and thermal stability in conditions where DNA/RNA would undergo degradation. 65,66 The biophysical properties of PNAs make it an excellent candidate for use in biosens-ing applications, particularly when used as the bioreceptor. 67 Micro RNAs 68 and ctDNA 69 were detected by electrochemical PNA biosensor.",
+    "refNo": 66,
+    "title": "",
+    "marker_text": "65",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "PNAs exhibits chemical and thermal stability in conditions where DNA/RNA would undergo degradation. 65,66 The biophysical properties of PNAs make it an excellent candidate for use in biosens-ing applications, particularly when used as the bioreceptor. 67 Micro RNAs 68 and ctDNA 69 were detected by electrochemical PNA biosensor.",
+    "refNo": 67,
+    "title": "Recent advances on application of peptide nucleic acids as a bioreceptor in biosensors development",
+    "marker_text": "66",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "PNAs exhibits chemical and thermal stability in conditions where DNA/RNA would undergo degradation. 65,66 The biophysical properties of PNAs make it an excellent candidate for use in biosens-ing applications, particularly when used as the bioreceptor. 67 Micro RNAs 68 and ctDNA 69 were detected by electrochemical PNA biosensor.",
+    "refNo": 68,
+    "title": "Highly sensitive dual mode electrochemical platform for microRNA detection",
+    "marker_text": "67",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Aptamers are single-stranded DNA or RNA sequences that can specifically bind to analytes by folding into well-defined threedimensional structures. 70 Compared to antibodies, they have advantages of rapid in vitro selection, cell-free chemical synthesis, low immunogenicity and superior tissue penetration. 71 Wu et al. reviewed aptamer as a type of bioreceptor for cancer diagnosis and therapy. 72 MIPs also have been used as receptor in electrochemical biosensors.",
+    "refNo": 71,
+    "title": "Current advances in aptamers for cancer diagnosis and therapy",
+    "marker_text": "70",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Aptamers are single-stranded DNA or RNA sequences that can specifically bind to analytes by folding into well-defined threedimensional structures. 70 Compared to antibodies, they have advantages of rapid in vitro selection, cell-free chemical synthesis, low immunogenicity and superior tissue penetration. 71 Wu et al. reviewed aptamer as a type of bioreceptor for cancer diagnosis and therapy. 72 MIPs also have been used as receptor in electrochemical biosensors.",
+    "refNo": 72,
+    "title": "",
+    "marker_text": "71",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Aptamers are single-stranded DNA or RNA sequences that can specifically bind to analytes by folding into well-defined threedimensional structures. 70 Compared to antibodies, they have advantages of rapid in vitro selection, cell-free chemical synthesis, low immunogenicity and superior tissue penetration. 71 Wu et al. reviewed aptamer as a type of bioreceptor for cancer diagnosis and therapy. 72 MIPs also have been used as receptor in electrochemical biosensors.",
+    "refNo": 73,
+    "title": "Electrosynthesized molecularly imprinted polymers for protein recognition",
+    "marker_text": "72",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "MIP receptor films are usually prepared by electrochemical polymerization, since they have the advantages of (1) simple and fast preparation, (2) high adherence to the electrode surface, (3) easy control of the film thickness and morphology and (4) high reproducibility in different conductive materials. 73,74 Electropolymerization of 2aminophenol based MIP has been used in a DPV biosensor for cancer antigen 15-3 (CA 15-3) detection.",
+    "refNo": 2,
+    "title": "Current trends and emerging diagnostic techniques for lung cancer",
+    "marker_text": "(1)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "MIP receptor films are usually prepared by electrochemical polymerization, since they have the advantages of (1) simple and fast preparation, (2) high adherence to the electrode surface, (3) easy control of the film thickness and morphology and (4) high reproducibility in different conductive materials. 73,74 Electropolymerization of 2aminophenol based MIP has been used in a DPV biosensor for cancer antigen 15-3 (CA 15-3) detection.",
+    "refNo": 3,
+    "title": "Biomarkers and biosensors for the early diagnosis of lung cancer",
+    "marker_text": "(2)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "MIP receptor films are usually prepared by electrochemical polymerization, since they have the advantages of (1) simple and fast preparation, (2) high adherence to the electrode surface, (3) easy control of the film thickness and morphology and (4) high reproducibility in different conductive materials. 73,74 Electropolymerization of 2aminophenol based MIP has been used in a DPV biosensor for cancer antigen 15-3 (CA 15-3) detection.",
+    "refNo": 4,
+    "title": "Biosensors for breast cancer diagnosis: A review of bioreceptors, biotransducers and signal amplification strategies",
+    "marker_text": "(3)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "MIP receptor films are usually prepared by electrochemical polymerization, since they have the advantages of (1) simple and fast preparation, (2) high adherence to the electrode surface, (3) easy control of the film thickness and morphology and (4) high reproducibility in different conductive materials. 73,74 Electropolymerization of 2aminophenol based MIP has been used in a DPV biosensor for cancer antigen 15-3 (CA 15-3) detection.",
+    "refNo": 5,
+    "title": "",
+    "marker_text": "(4)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "MIP receptor films are usually prepared by electrochemical polymerization, since they have the advantages of (1) simple and fast preparation, (2) high adherence to the electrode surface, (3) easy control of the film thickness and morphology and (4) high reproducibility in different conductive materials. 73,74 Electropolymerization of 2aminophenol based MIP has been used in a DPV biosensor for cancer antigen 15-3 (CA 15-3) detection.",
+    "refNo": 74,
+    "title": "Disposable electrochemical detection of breast cancer tumour marker CA 15-3 using poly(Toluidine Blue) as imprinted polymer receptor",
+    "marker_text": "73",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "MIP receptor films are usually prepared by electrochemical polymerization, since they have the advantages of (1) simple and fast preparation, (2) high adherence to the electrode surface, (3) easy control of the film thickness and morphology and (4) high reproducibility in different conductive materials. 73,74 Electropolymerization of 2aminophenol based MIP has been used in a DPV biosensor for cancer antigen 15-3 (CA 15-3) detection.",
+    "refNo": 75,
+    "title": "Molecularly imprinted electrochemical sensor for the point-of-care detection of a breast cancer biomarker (CA 15-3)",
+    "marker_text": "74",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "It could be label or label free ( Fig. 2A) by adding an electro-active indicator or no indicator.",
+    "refNo": 3,
+    "title": "Biomarkers and biosensors for the early diagnosis of lung cancer",
+    "marker_text": "2",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Besides non-faradaic EIS, most of electrochemical measurement methods require the use of electro-active indicator. 77 Of course, for an analyte that is electrochemically active by itself, it is not necessary to add an electro-active indicator.",
+    "refNo": 78,
+    "title": "Electrochemical identification of DNA single nucleotide polymorphisms (SNPs) based on different redox probes",
+    "marker_text": "77",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Metal-based redox species include simple metal complexes such as [Ru(NH 3 ) 6 ] 3+/2+ 78 , organic metal chelates [M(L) 3 ] 3+/2+ where M stands for Fe, Co, Os or Ru, and L for heterocyclic nitrogenous bidentate ligands such as 2,2'-bipyri- dine (bipy) or 1,10-phenantroline (phen), metalloporphyrins, oxoosmium(VI) complexes and metalloorganics such as ferrocene and its derivatives 79 (Fig. 2B).",
+    "refNo": 3,
+    "title": "Biomarkers and biosensors for the early diagnosis of lung cancer",
+    "marker_text": "2",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Heavy metal ions such as Cu 2+ , Cd 2+ , Pb 2+ also used for electro-active indicators. 76 Anthraquinone (AQ, potential at −0.37 V vs.",
+    "refNo": 77,
+    "title": "faradaic and non-faradaic electrochemical impedance spectroscopy as transduction techniques for sensing applications",
+    "marker_text": "76",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Ag/AgCl) were used by Liu et al. 80 to label aptamers, then the complexes were immobilizated on one electrode for simultaneous detection of interferon gamma (IFNγ) and tumor necrosis factor alpha (TNF-α).",
+    "refNo": 81,
+    "title": "Folding-Lai and Dynamics-Based Electrochemical DNA Sensors",
+    "marker_text": "80",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Zhu et al. 81 applied AQ, thionine (TH), tris(2,2(-bipyridine-4,4(-dicarboxylic acid) cobalt(III) (Co(bpy) 3 3+ ) and ferrocenecarboxylic acid (Fc) as redox probes to simultaneously detect four biomarkers of colorectal carcinoma. 80 Among the known redox labels compatible with the DNA sensing platform, MB has emerged as the most versatile one, owing to its stability under a wide range of experimental conditions.",
+    "refNo": 82,
+    "title": "Sensitive detection of human breast cancer cells based on aptamer-cell-aptamer sandwich architecture",
+    "marker_text": "81",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Zhu et al. 81 applied AQ, thionine (TH), tris(2,2(-bipyridine-4,4(-dicarboxylic acid) cobalt(III) (Co(bpy) 3 3+ ) and ferrocenecarboxylic acid (Fc) as redox probes to simultaneously detect four biomarkers of colorectal carcinoma. 80 Among the known redox labels compatible with the DNA sensing platform, MB has emerged as the most versatile one, owing to its stability under a wide range of experimental conditions.",
+    "refNo": 81,
+    "title": "Folding-Lai and Dynamics-Based Electrochemical DNA Sensors",
+    "marker_text": "80",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "The most commonly used enzymes in biosensing are glucose oxidase (GOx) and horseradish peroxidase (HRP), less commonly used enzymes comprise beta-lactamase, urea and urease. 24 Zhu et al. 82 used HRP labeled mucin 1 (MUC1)-binding aptamer to detection Michigan cancer foundation-7 (MCF-7) human breast cancer cells.",
+    "refNo": 25,
+    "title": "Label-free biosensor: A novel phage-modified Light Addressable Potentiometric Sensor system for cancer cell monitoring",
+    "marker_text": "24",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "The most commonly used enzymes in biosensing are glucose oxidase (GOx) and horseradish peroxidase (HRP), less commonly used enzymes comprise beta-lactamase, urea and urease. 24 Zhu et al. 82 used HRP labeled mucin 1 (MUC1)-binding aptamer to detection Michigan cancer foundation-7 (MCF-7) human breast cancer cells.",
+    "refNo": 83,
+    "title": "Electrochemical Biosensor for Rapid Detection of Viable Bacteria and Antibiotic Screening",
+    "marker_text": "82",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Both hydrogen peroxide (H 2 O 2 ) and thionine were used to the test solution, the occurrence of the HRP-catalyzed and thionine-mediated electrochemical reduction of H 2 O 2 generated an apparent reduction ( Fig. 2C-i).",
+    "refNo": 3,
+    "title": "Biomarkers and biosensors for the early diagnosis of lung cancer",
+    "marker_text": "2",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Saucedo et al. 83 used acid metabolites produced upon glucose induction by viable cells as redox probe.",
+    "refNo": 84,
+    "title": "Rapid identification and quantification of tumor cells using an electrocatalytic method based on gold nanoparticles",
+    "marker_text": "83",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Escosura-Muniz et al. 84 applied catalytic effect of gold nanoparticles on hydrogen ion reduction as electrochemical signal output for biosensor ( Fig. 2C-ii).",
+    "refNo": 85,
+    "title": "Electrochemical sensors and biosensors based on redox polymer/carbon nanotube modified electrodes: A review",
+    "marker_text": "84",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Escosura-Muniz et al. 84 applied catalytic effect of gold nanoparticles on hydrogen ion reduction as electrochemical signal output for biosensor ( Fig. 2C-ii).",
+    "refNo": 3,
+    "title": "Biomarkers and biosensors for the early diagnosis of lung cancer",
+    "marker_text": "2",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Barsan et al. have published a related review paper. 85 Conducting polymer/noble metal composites are also used as electrochemical redox species which have great potential applications for multiplexed electrochemical biosensors.",
+    "refNo": 86,
+    "title": "Novel electrochemical redox-active species: Onestep synthesis of polyaniline derivative-Au/Pd and its application for multiplexed immunoassay",
+    "marker_text": "85",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Wang et al. 86 synthesized four kinds of polyaniline derivative-Au/Pd composites as redox-active species to simultaneously detect four tumor biomarkers (CEA, carbohydrate antigen 19-9 (CA199), carbohydrate antigen 72-4 (CA72-4), and alpha fetoprotein (AFP).",
+    "refNo": 87,
+    "title": "A new ratiometric electrochemical immunoassay for reliable detection of nuclear matrix protein 22",
+    "marker_text": "86",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "It is a good way to achieve electrochemically multiplexed bioassays ( Fig. 2D-i).",
+    "refNo": 3,
+    "title": "Biomarkers and biosensors for the early diagnosis of lung cancer",
+    "marker_text": "2",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Ratiometric signal transducing strategies can improve the precision of biosensor, which possess the unique merits of spatial-resolved signal readout and self-correcting toward possible false positive results ( Fig. 2D-ii).",
+    "refNo": 3,
+    "title": "Biomarkers and biosensors for the early diagnosis of lung cancer",
+    "marker_text": "2",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "After sandwich-type immunoreaction, with the increasing concentration of NMP22, the stripping peak current of Pb 2+ decreases while the stripping peak current of Cu 2+ increases. 87 Signal amplification.-Since the concentration of cancer biomarkers in body fluids are too low in early cancer stage, electrochemical signal amplification is needed.",
+    "refNo": 88,
+    "title": "Recent progress in nanomaterial-based electrochemical biosensors for cancer biomarkers: A review",
+    "marker_text": "87",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "One is modifying electrode with nanomaterials, the other is design second antibody-redox-enzyme complexes with nanomaterials. 6 Wang and Anzai 88 reviewed nanomaterials, including metal nanoparticles, carbon nanotubes, and graphene that have been used for fabricating electrochemical biosensors.",
+    "refNo": 7,
+    "title": "Rapid biosensing tools for cancer biomarkers",
+    "marker_text": "6",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Wang et al. 90 reviewed 2D nanomaterials based electrochemical biosensors for cancer diagnosis.",
+    "refNo": 91,
+    "title": "Electrochemical and optical biosensors for early-stage cancer diagnosis by using graphene and graphene oxide",
+    "marker_text": "90",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "These two materials based electrochemical biosensor for early-stage cancer diagnosis has been reviewed by Balaji and Zhang. 91 Several gold nanomaterials based signaling labels are reported.",
+    "refNo": 92,
+    "title": "Impedimetric aptasensor with femtomolar sensitivity based on the enlargement of surface-charged gold nanoparticles",
+    "marker_text": "91",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Three main signal amplification mechanisms are used: electrostatic repulsion, 92 sterical hindrance, 93 and precipitation generation. 94 Zhao et al. 95 designed a cascaded signal amplification approach by using gold nanoparticle-CaCO 3 microspheres (AuNP-CaCO 3 ) to trigger pH responsive alginate hydrogel precipitation for sandwich-type impedimetric immunosensor.",
+    "refNo": 95,
+    "title": "Ca 2+ -Triggered ph-response sodium alginate hydrogel precipitation for amplified sandwich-Type impedimetric immunosensor of tumor marker",
+    "marker_text": "94",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Three main signal amplification mechanisms are used: electrostatic repulsion, 92 sterical hindrance, 93 and precipitation generation. 94 Zhao et al. 95 designed a cascaded signal amplification approach by using gold nanoparticle-CaCO 3 microspheres (AuNP-CaCO 3 ) to trigger pH responsive alginate hydrogel precipitation for sandwich-type impedimetric immunosensor.",
+    "refNo": 96,
+    "title": "Cascade catalysis-initiated radical polymerization amplified impedimetric immunosensor for ultrasensitive detection of carbohydrate antigen 15-3",
+    "marker_text": "95",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "The same group reported another signal amplification strategy by coupling cascade catalysisinitiated radical polymerization. 96 Copper-based metal-organic framework nanoparticles (Cu-MOF), as peroxidase mimics, combined with CA15-3 antibody (Ab 2 ) and glucose oxidase (GOx) were employed as immunoprobes to initiate radical polymerization by cascade catalysis.",
+    "refNo": 97,
+    "title": "",
+    "marker_text": "96",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Besides nanomaterials based signal amplification, electrochemical redox cycling amplification technology is also used for cancer biomarkers detection. 97 The schematic diagram of signal amplification mainly for electrochemical ELISA is showed in Fig 3A.",
+    "refNo": 98,
+    "title": "Research progress on rolling circle amplification (Rca)-based biomedical sensing",
+    "marker_text": "97",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Rolling circle amplification (RCA) is a commonly used research tool for sensitive detection of DNA, RNA, DNA methylation, single nucleotide polymorphisms (SNP), small molecules, target proteins, and cancer cells. 98 The circular templates designed in RCA can make a single binding event amplified over a thousand-fold.",
+    "refNo": 99,
+    "title": "An electrochemical strategy with tetrahedron rolling circle amplification for ultrasensitive detection of DNA methylation",
+    "marker_text": "98",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Liu and Luo et al. 99 reported padlock probe primer generating RCA for the detection of DNA methylation.",
+    "refNo": 100,
+    "title": "A label-free ratiometric electrochemical DNA sensor for monitoring intracellular redox homeostasis",
+    "marker_text": "99",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "A representative schematic diagram is showed in Fig. 3B. 100 Electrochemical biosensor based on hybrid chain reaction (HCR), 101,102 nicking enzyme signaling amplification (NESA) 103 and enzyme-based exponential amplification 104 for cancer gene detection also have been reported.",
+    "refNo": 4,
+    "title": "Biosensors for breast cancer diagnosis: A review of bioreceptors, biotransducers and signal amplification strategies",
+    "marker_text": "3",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "A representative schematic diagram is showed in Fig. 3B. 100 Electrochemical biosensor based on hybrid chain reaction (HCR), 101,102 nicking enzyme signaling amplification (NESA) 103 and enzyme-based exponential amplification 104 for cancer gene detection also have been reported.",
+    "refNo": 101,
+    "title": "In situ hybridization chain reaction mediated ultrasensitive enzyme-free and conjugationfree electrochemcial genosensor for BRCA-1 gene in complex matrices",
+    "marker_text": "100",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "A representative schematic diagram is showed in Fig. 3B. 100 Electrochemical biosensor based on hybrid chain reaction (HCR), 101,102 nicking enzyme signaling amplification (NESA) 103 and enzyme-based exponential amplification 104 for cancer gene detection also have been reported.",
+    "refNo": 104,
+    "title": "An electrochemical biosensor for double-stranded Wnt7B gene detection based on enzymatic isothermal amplification",
+    "marker_text": "103",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Cancer molecular biomarkers and CTCs have been widely detected and analysized by electrochemical microfluidic devices. [106][107][108][109] Uliana and coworkers 110 developed a fully disposable microfluidic electrochemical array device (μFED) to detect the breast cancer biomarker estrogen receptor alpha (ERα).",
+    "refNo": 107,
+    "title": "Electrochemical detection of methylated DNA on a microfluidic chip with nanoelectrokinetic pre-concentration",
+    "marker_text": "[106]"
+  },
+  {
+    "sentence": "Cancer molecular biomarkers and CTCs have been widely detected and analysized by electrochemical microfluidic devices. [106][107][108][109] Uliana and coworkers 110 developed a fully disposable microfluidic electrochemical array device (μFED) to detect the breast cancer biomarker estrogen receptor alpha (ERα).",
+    "refNo": 108,
+    "title": "A Novel Electrochemical Microfluidic Chip Combined with Multiple Biomarkers for Early Diagnosis of Gastric Cancer",
+    "marker_text": "[107]"
+  },
+  {
+    "sentence": "Cancer molecular biomarkers and CTCs have been widely detected and analysized by electrochemical microfluidic devices. [106][107][108][109] Uliana and coworkers 110 developed a fully disposable microfluidic electrochemical array device (μFED) to detect the breast cancer biomarker estrogen receptor alpha (ERα).",
+    "refNo": 109,
+    "title": "Recent advances in microfluidic chip integrated electronic biosensors for multiplexed detection",
+    "marker_text": "[108]"
+  },
+  {
+    "sentence": "Cancer molecular biomarkers and CTCs have been widely detected and analysized by electrochemical microfluidic devices. [106][107][108][109] Uliana and coworkers 110 developed a fully disposable microfluidic electrochemical array device (μFED) to detect the breast cancer biomarker estrogen receptor alpha (ERα).",
+    "refNo": 110,
+    "title": "Fully disposable microfluidic electrochemical device for detection of estrogen receptor alpha breast cancer biomarker",
+    "marker_text": "[109]"
+  },
+  {
+    "sentence": "The construction process of the microfluidic device was shown in Fig. 4A.",
+    "refNo": 5,
+    "title": "",
+    "marker_text": "4",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "An inexpensive high-throughput electrochemical array featuring 32 individually addressable microelectrodes was reported Tang et al. 111 Highthroughput analyses were realized using eight 32-sensor immunoarrays connected to the miniaturized 8-port manifold, allowing 256 measurements in <1 h.",
+    "refNo": 112,
+    "title": "Label-free microfluidic paper-based electrochemical aptasensor for ultrasensitive and simultaneous multiplexed detection of cancer biomarkers",
+    "marker_text": "111",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Wang and coworkers 112 designed a paper-based electrochemical aptasensor for simultaneous detection of CEA and NSE in clinical serum samples (Fig. 4B).",
+    "refNo": 5,
+    "title": "",
+    "marker_text": "4",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Hong et al. 107 fabricated an integrated microfluidic chip which can preconcentrate the methylated DNAs using ion concentration polarization (ICP) and electrochemically detect the pre-concentrated DNAs.",
+    "refNo": 108,
+    "title": "A Novel Electrochemical Microfluidic Chip Combined with Multiple Biomarkers for Early Diagnosis of Gastric Cancer",
+    "marker_text": "107",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "The chip consists of three layers, including the gold electrode with a Nafion pattern on the bottom, the pre-concentration layer on the second layer, and the valve layer on the top layer (Fig. 4C).",
+    "refNo": 5,
+    "title": "",
+    "marker_text": "4",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "They can be found in body fluids such as blood, serum, urine, saliva, tears or cerebral spinal fluid 5 . 113 Detection of cancer biomarkers can be clinically applied for early cancer diagnosis, accurate pretreatment staging, determination of response to chemotherapy treatment, and monitoring disease progression. 114 Lots of efforts have been made to identify biomarkers for specific cancers and use them to predict the risk.",
+    "refNo": 114,
+    "title": "",
+    "marker_text": "113",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "They can be found in body fluids such as blood, serum, urine, saliva, tears or cerebral spinal fluid 5 . 113 Detection of cancer biomarkers can be clinically applied for early cancer diagnosis, accurate pretreatment staging, determination of response to chemotherapy treatment, and monitoring disease progression. 114 Lots of efforts have been made to identify biomarkers for specific cancers and use them to predict the risk.",
+    "refNo": 115,
+    "title": "Detection of Molecular Markers of Cancer Through the Use of Biosensors",
+    "marker_text": "114",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Protein biomarkers.-Extensive efforts have been devoted to developing ultrasensitive electrochemical biosensors for the detection of cancer protein biomarkers with high selectivity. 115,116 Cancer protein biomarkers include antigens, MMPs, and cytokines.",
+    "refNo": 116,
+    "title": "Cancer biomarker detection: Recent achievements and challenges",
+    "marker_text": "115",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Protein biomarkers.-Extensive efforts have been devoted to developing ultrasensitive electrochemical biosensors for the detection of cancer protein biomarkers with high selectivity. 115,116 Cancer protein biomarkers include antigens, MMPs, and cytokines.",
+    "refNo": 117,
+    "title": "",
+    "marker_text": "116",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "The antigens include CEA, cancer antigen 15-3, 19-9, 125, PSA etc. 50,117 CEA is the most extensively used biomarkers for diagnosis and management of colorectal cancer, ovarian carcinoma and breast cancer.",
+    "refNo": 51,
+    "title": "Biosensors: The new wave in cancer diagnosis",
+    "marker_text": "50",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "The antigens include CEA, cancer antigen 15-3, 19-9, 125, PSA etc. 50,117 CEA is the most extensively used biomarkers for diagnosis and management of colorectal cancer, ovarian carcinoma and breast cancer.",
+    "refNo": 118,
+    "title": "Sandwichtype electrochemical immunosensor for CEA detection based on Ag/MoS2@Fe3O4 and an analogous ELISA method with total internal reflection microscopy",
+    "marker_text": "117",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Many Electrochemical immunosensors based on monoclonal anti-CEA or polyclonal anti-CEA have been proposed for CEA detection. 118 A heterogeneous immunosensor was reported by Gu et al. 119 by immobilizing polyclonal anti-CEA onto Fc-labeled AuNPs on the gold electrode.",
+    "refNo": 119,
+    "title": "Electrochemical detection of carcinoembryonic antigen",
+    "marker_text": "118",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Many Electrochemical immunosensors based on monoclonal anti-CEA or polyclonal anti-CEA have been proposed for CEA detection. 118 A heterogeneous immunosensor was reported by Gu et al. 119 by immobilizing polyclonal anti-CEA onto Fc-labeled AuNPs on the gold electrode.",
+    "refNo": 120,
+    "title": "A label-free electrochemical immunoassay for carcinoembryonic antigen (CEA) based on gold nanoparticles (AuNPs) and nonconductive polymer film",
+    "marker_text": "119",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "They are widely used to track disease progression and monitor treatment outcomes. 130 Several cytokines are associated with the development of multiple myeloma, leukemia, and breast cancer cell. 13,14 Interleukins (ILs) are one type of cytokines that were first discovered to be secreted by white blood cells.",
+    "refNo": 131,
+    "title": "Serum levels of interleukin-6 in patients with primary head and neck squamous cell carcinoma",
+    "marker_text": "130",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "They are widely used to track disease progression and monitor treatment outcomes. 130 Several cytokines are associated with the development of multiple myeloma, leukemia, and breast cancer cell. 13,14 Interleukins (ILs) are one type of cytokines that were first discovered to be secreted by white blood cells.",
+    "refNo": 14,
+    "title": "Breast Cancer Metastasis: Are Cytokines Important Players during Its Development and Progression?",
+    "marker_text": "13",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "They are widely used to track disease progression and monitor treatment outcomes. 130 Several cytokines are associated with the development of multiple myeloma, leukemia, and breast cancer cell. 13,14 Interleukins (ILs) are one type of cytokines that were first discovered to be secreted by white blood cells.",
+    "refNo": 15,
+    "title": "Peptide Microarray-Based Metal Enhanced Fluorescence Assay for Multiple Profiling of Matrix Metalloproteinases Activities",
+    "marker_text": "14",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "The mean value of IL-6 is ∼ 20 pg mL −1 in cancer patient compared to ∼ 6 pg mL −1 in healthy individuals. 131 Munge et al. used GSH modified AuNPs to detect IL-6 in serum.",
+    "refNo": 132,
+    "title": "Electrochemical immunosensors for interleukin-6. Comparison of carbon nanotube forest and gold nanoparticle platforms",
+    "marker_text": "131",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Other cytokines (including growth factors), like IL-1β, IL8, tumor necrosis factor-alpha (TNF-α), human epidermal growth factor receptor 2 (HER2), platelet-derived growth factor (PDGF), vascular endothelial growth factor (VEGF) were also reported as cancer biomarkers. 33,50,133 Nucleic acid.-Cell-free nucleic acids (cfNAs), such as cfDNA and cfRNA, are present at significant levels in the blood of cancer patients, are highly desirable targets for electrochemical sensor.",
+    "refNo": 34,
+    "title": "An aptabiosensor for colon cancer diagnostics",
+    "marker_text": "33",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Other cytokines (including growth factors), like IL-1β, IL8, tumor necrosis factor-alpha (TNF-α), human epidermal growth factor receptor 2 (HER2), platelet-derived growth factor (PDGF), vascular endothelial growth factor (VEGF) were also reported as cancer biomarkers. 33,50,133 Nucleic acid.-Cell-free nucleic acids (cfNAs), such as cfDNA and cfRNA, are present at significant levels in the blood of cancer patients, are highly desirable targets for electrochemical sensor.",
+    "refNo": 51,
+    "title": "Biosensors: The new wave in cancer diagnosis",
+    "marker_text": "50",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Other cytokines (including growth factors), like IL-1β, IL8, tumor necrosis factor-alpha (TNF-α), human epidermal growth factor receptor 2 (HER2), platelet-derived growth factor (PDGF), vascular endothelial growth factor (VEGF) were also reported as cancer biomarkers. 33,50,133 Nucleic acid.-Cell-free nucleic acids (cfNAs), such as cfDNA and cfRNA, are present at significant levels in the blood of cancer patients, are highly desirable targets for electrochemical sensor.",
+    "refNo": 134,
+    "title": "Circulating tumor DNA and liquid biopsy: Opportunities, challenges, and recent advances in detection technologies",
+    "marker_text": "133",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Traditionally, cancer related ctDNA have been detected using a variety of untargeted methods such as digital karyotyping, personalized analysis of rearranged ends (PARE), whole-genome sequencing of ctDNA, and targeted approaches such as conventional and digital PCR-based methods and deep sequencingbased technologies. 134,135 Recent advances of electrochemical biosensor based liquid biopsy technic will potentially lead to the development of diagnosis, prognosis, therapy response monitoring, and tracking the rise of new mutant sub-clones in cancer patients.",
+    "refNo": 135,
+    "title": "Liquid biopsy of circulating tumor DNA and biosensor applications",
+    "marker_text": "134",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Traditionally, cancer related ctDNA have been detected using a variety of untargeted methods such as digital karyotyping, personalized analysis of rearranged ends (PARE), whole-genome sequencing of ctDNA, and targeted approaches such as conventional and digital PCR-based methods and deep sequencingbased technologies. 134,135 Recent advances of electrochemical biosensor based liquid biopsy technic will potentially lead to the development of diagnosis, prognosis, therapy response monitoring, and tracking the rise of new mutant sub-clones in cancer patients.",
+    "refNo": 136,
+    "title": "Nitrogen-doped multiple graphene aerogel/gold nanostar as the electrochemical sensing platform for ultrasensitive detection of circulating free DNA in human serum",
+    "marker_text": "135",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "An electrochemical sensing platform was recently reported for cfDNA detection which based on nitrogen-doped multiple graphene aerogel/gold nanostar. 136 The DPV signal linearly increases with the increase of cfDNA concentration in the range from 1.0 × 10 −21 g mL −1 to 1.0 × 10 −16 g mL −1 with the detection limit of 3.9 × 10 −22 g mL −1 .",
+    "refNo": 137,
+    "title": "Accurate Electrochemistry Analysis of Circulating Methylated DNA from Clinical Plasma Based on Paired-End Tagging and Amplifications",
+    "marker_text": "136",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Chen et al. 137 reported electrochemical interrogation of circulating methylated DNA from plasma samples using a paired-end tagging.",
+    "refNo": 138,
+    "title": "Single copy-sensitive electrochemical assay for circulating methylated DNA in clinical samples with ultrahigh specificity based on a sequential discriminationamplification strategy",
+    "marker_text": "137",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "In a similar way, this sequential discrimination-amplification strategy was used for circulating methylated DNA detection with singlecopy sensitivity. 138 Firstly, a nanostructured self-assembled tetrahedral DNA was immobilized on the surface of a gold electrode to capture amplicons.",
+    "refNo": 139,
+    "title": "An electrochemical clamp assay for direct, rapid analysis of circulating nucleic acids in serum",
+    "marker_text": "138",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "For example, Das et al. 139 designed an electrochemical clamp assay that can directly detect mutant circulating nucleic acids in patients' serum.",
+    "refNo": 140,
+    "title": "Detection methods for microRNAs in clinic practice",
+    "marker_text": "139",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "A large group of miRNAs categorized as \"circulating miRNA\" are released into the blood and their expression level is specifically related with tumorigenesis, cancer development and metastasis. 140,141 There are numerous methods for miRNA detection and some of them including real-time qPCR, northern blotting, microarray, and deep sequencing of transcriptome (RNAseq). 140,142 The voltammetric methods are the most frequently used electrochemical techniques for qualitative and quantitative analyses of miRNA.",
+    "refNo": 141,
+    "title": "MicroRNA dysregulation in cancer : diagnostics, monitoring and therapeutics",
+    "marker_text": "140",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "A large group of miRNAs categorized as \"circulating miRNA\" are released into the blood and their expression level is specifically related with tumorigenesis, cancer development and metastasis. 140,141 There are numerous methods for miRNA detection and some of them including real-time qPCR, northern blotting, microarray, and deep sequencing of transcriptome (RNAseq). 140,142 The voltammetric methods are the most frequently used electrochemical techniques for qualitative and quantitative analyses of miRNA.",
+    "refNo": 142,
+    "title": "",
+    "marker_text": "141",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "A large group of miRNAs categorized as \"circulating miRNA\" are released into the blood and their expression level is specifically related with tumorigenesis, cancer development and metastasis. 140,141 There are numerous methods for miRNA detection and some of them including real-time qPCR, northern blotting, microarray, and deep sequencing of transcriptome (RNAseq). 140,142 The voltammetric methods are the most frequently used electrochemical techniques for qualitative and quantitative analyses of miRNA.",
+    "refNo": 143,
+    "title": "Naderi-manesh, An electrochemical nanobiosensor for plasma miRNA-155 based on graphene oxide and gold nanorod, for early detection of breast cancer",
+    "marker_text": "142",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "In electrochemical miRNA biosensors, cyclic voltammetry (CV), differential pulse voltammetry (DPV), and square wave voltammetry (SWV) are the most attractive techniques due to higher sensitivity. [143][144][145] Kaplan et al. 146 developed biosensor based on electropolymerized polypyrrole (PPy) modified pencil graphite electrodes (PPy/PGE) to detect the miR-21 from breast cancer cell line MCF-7.",
+    "refNo": 144,
+    "title": "Label-free and reagentless electrochemical detection of microRNAs using a conducting polymer nanostructured by carbon nanotubes: Application to prostate cancer biomarker miR-141",
+    "marker_text": "[143]"
+  },
+  {
+    "sentence": "In electrochemical miRNA biosensors, cyclic voltammetry (CV), differential pulse voltammetry (DPV), and square wave voltammetry (SWV) are the most attractive techniques due to higher sensitivity. [143][144][145] Kaplan et al. 146 developed biosensor based on electropolymerized polypyrrole (PPy) modified pencil graphite electrodes (PPy/PGE) to detect the miR-21 from breast cancer cell line MCF-7.",
+    "refNo": 145,
+    "title": "A novel label-free electrochemical microRNA biosensor using Pd nanoparticles as enhancer and linker",
+    "marker_text": "[144]"
+  },
+  {
+    "sentence": "In electrochemical miRNA biosensors, cyclic voltammetry (CV), differential pulse voltammetry (DPV), and square wave voltammetry (SWV) are the most attractive techniques due to higher sensitivity. [143][144][145] Kaplan et al. 146 developed biosensor based on electropolymerized polypyrrole (PPy) modified pencil graphite electrodes (PPy/PGE) to detect the miR-21 from breast cancer cell line MCF-7.",
+    "refNo": 146,
+    "title": "A novel method for sensitive microRNA detection: Electropolymerization based doping",
+    "marker_text": "[145]"
+  },
+  {
+    "sentence": "In electrochemical miRNA biosensors, cyclic voltammetry (CV), differential pulse voltammetry (DPV), and square wave voltammetry (SWV) are the most attractive techniques due to higher sensitivity. [143][144][145] Kaplan et al. 146 developed biosensor based on electropolymerized polypyrrole (PPy) modified pencil graphite electrodes (PPy/PGE) to detect the miR-21 from breast cancer cell line MCF-7.",
+    "refNo": 147,
+    "title": "A study of the volatile organic compounds exhaled by lung cancer cells in vitro for breath diagnosis",
+    "marker_text": "146",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Analysis of VOCs may be capable of prognosticating and diagnosing early cancer. 147,148 Zhang et al. 149 developed an electrochemical biosensor with Au-Ag alloy composites-coated MWCNTs sensing interface for ultrasensitive detection of volatile biomarkers in MGC-803 gastric cancer cells.",
+    "refNo": 148,
+    "title": "A sensor array and GC study about VOCs and cancer cells",
+    "marker_text": "147",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Analysis of VOCs may be capable of prognosticating and diagnosing early cancer. 147,148 Zhang et al. 149 developed an electrochemical biosensor with Au-Ag alloy composites-coated MWCNTs sensing interface for ultrasensitive detection of volatile biomarkers in MGC-803 gastric cancer cells.",
+    "refNo": 149,
+    "title": "Identification of volatile biomarkers of gastric cancer cells and ultrasensitive electrochemical detection based on sensing interface of Au-Ag alloy coated MWCNTs",
+    "marker_text": "148",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Analysis of VOCs may be capable of prognosticating and diagnosing early cancer. 147,148 Zhang et al. 149 developed an electrochemical biosensor with Au-Ag alloy composites-coated MWCNTs sensing interface for ultrasensitive detection of volatile biomarkers in MGC-803 gastric cancer cells.",
+    "refNo": 150,
+    "title": "Recent Advances in Biosensors for Detecting Cancer-Derived Exosomes",
+    "marker_text": "149",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "They can be obtained from body fluids (such as serum, plasma, and urine) with high abundance and stability. [150][151][152][153] Jeong and coworkers reported a portable magneto− electrochemical device and applied it to screen extracellular vesicles in plasma samples from ovarian cancer patients.",
+    "refNo": 151,
+    "title": "Microfluidic strategies for label-free exosomes isolation and analysis",
+    "marker_text": "[150]"
+  },
+  {
+    "sentence": "They can be obtained from body fluids (such as serum, plasma, and urine) with high abundance and stability. [150][151][152][153] Jeong and coworkers reported a portable magneto− electrochemical device and applied it to screen extracellular vesicles in plasma samples from ovarian cancer patients.",
+    "refNo": 152,
+    "title": "Recent Advances in Exosomal Protein Detection Via Liquid Biopsy Biosensors for Cancer Screening, Diagnosis, and Prognosis",
+    "marker_text": "[151]"
+  },
+  {
+    "sentence": "They can be obtained from body fluids (such as serum, plasma, and urine) with high abundance and stability. [150][151][152][153] Jeong and coworkers reported a portable magneto− electrochemical device and applied it to screen extracellular vesicles in plasma samples from ovarian cancer patients.",
+    "refNo": 153,
+    "title": "Study of detection and capture of exosomes by using the morphologies of ex situ and in situ nanostructures",
+    "marker_text": "[152]"
+  },
+  {
+    "sentence": "They can be obtained from body fluids (such as serum, plasma, and urine) with high abundance and stability. [150][151][152][153] Jeong and coworkers reported a portable magneto− electrochemical device and applied it to screen extracellular vesicles in plasma samples from ovarian cancer patients.",
+    "refNo": 154,
+    "title": "Integrated Magneto-Electrochemical Sensor for Exosome Analysis",
+    "marker_text": "[153]"
+  },
+  {
+    "sentence": "By combining magnetic enrichment and enzymatic amplification, the device was able to detect exosomes at a sensitivity of <105 vesicles. 154 Li et al. 155 used EIS to quantify both external (tetraspanin) and internal (syntenin) exosome-specific markers with LOD of 1.9 × 10 5 particles mL −1 .",
+    "refNo": 155,
+    "title": "Concentration-Normalized Electroanalytical Assaying of Exosomal Markers",
+    "marker_text": "154",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "By combining magnetic enrichment and enzymatic amplification, the device was able to detect exosomes at a sensitivity of <105 vesicles. 154 Li et al. 155 used EIS to quantify both external (tetraspanin) and internal (syntenin) exosome-specific markers with LOD of 1.9 × 10 5 particles mL −1 .",
+    "refNo": 156,
+    "title": "Aptasensor with Expanded Nucleotide Using DNA Nanotetrahedra for Electrochemical Detection of Cancerous Exosomes",
+    "marker_text": "155",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Li et al. 157 proposed an efficient electrochemical method to detect and distinguish breast cancer cells via recognition of two tumor markers human mucin-1(MUC1) and CEA expressed on the surface of breast cancer cell MCF-7.",
+    "refNo": 158,
+    "title": "Analytica Chimica Acta Label-free electrochemical aptasensor constructed by layer-by-layer technology for sensitive and selective detection of cancer cells",
+    "marker_text": "157",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "A label free aptasensor was reported by Wang et al. 158 for detecting cancer cell constructed through layer by layer assembly technique (LBL) with ferrocene-appended poly(allylamine hydrochloride) functionalized graphene (Fc-PAH-G), poly(sodium-p-styrenesulfonate) (PSS) and aptamer (AS1411).",
+    "refNo": 159,
+    "title": "Integrating electrochemical immunosensing and cell adhesion technologies for cancer cell detection and enumeration",
+    "marker_text": "158",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Seenivasan et al. 159 used a dual-working electrode (WE) surface to improve the specificity of the detection system.",
+    "refNo": 160,
+    "title": "Label-free electrochemical detection of HepG2 tumor cells with a self-assembled DNA nanostructure-based aptasensor",
+    "marker_text": "159",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Sun et al. 160 uses an electrochemical desorption method for the efficient release of HepG2 tumor cells by cleaving the Au-S bonds on the SPGE interfaces.",
+    "refNo": 161,
+    "title": "Biosensors and Bioelectronics 3D cell-based biosensor for cell viability and drug assessment by 3D electric cell/matrigel-substrate impedance sensing",
+    "marker_text": "160",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Pan et al. 161 reported a 3D electric cell/matrigel-substrate impedance sensing (3D ECMIS) platform for human hepatoma cells (HepG2).",
+    "refNo": 162,
+    "title": "Biosensors for the detection of circulating tumour cells",
+    "marker_text": "161",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "CTCs as a prognosis factor and their use for early detection of metastasis events are recognised for several tumors such as breast, colorectal, lung and prostate cancers. 162 Several electrochemical biosensors have been developed for CTCs detection.",
+    "refNo": 163,
+    "title": "Rapid and specific electrochemical detection of prostate cancer cells using an aperture sensor array",
+    "marker_text": "162",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "The biosensor allows high-efficiency readout of small cell populations within 15 min. 163 Xiang 164 synthesized a new aptamer-functionalized and gold nanoparticle (AuNP) array-decorated magnetic graphene nanosheet recognition probe to detect CTC.",
+    "refNo": 164,
+    "title": "Aptamer-Functionalized and Gold Nanoparticle Array-Decorated Magnetic Graphene Nanosheets Enable Multiplexed and Sensitive Electrochemical Detection of Rare Circulating Tumor Cells in Whole Blood",
+    "marker_text": "163",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Shen et al. 165 combined rolling circle amplification (RCA) with antiepithelial cell adhesion molecule (EpCAM) antibodymodified magnetic nanospheres for highly efficient capture and ultrasensitive detection of MCF-7 in peripheral blood.",
+    "refNo": 166,
+    "title": "Three-dimensional graphene biointerface with extremely high sensitivity to single cancer cell monitoring",
+    "marker_text": "165",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Wang et al. 166 demonstrated the fabrication of 3D micro/nano structured graphene interface and their outstanding capability of impedance signal sensing in single cancer cell.",
+    "refNo": 167,
+    "title": "",
+    "marker_text": "166",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Sanchez et al. 167 reported an electrochemical pulse amperometric detection based device for genetic profiling of single CTC.",
+    "refNo": 168,
+    "title": "Amplified electrochemical detection of surface biomarker in breast cancer stem cell using selfassembled supramolecular nanocomposites",
+    "marker_text": "167",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Zhao et al. 168 used linear sweep voltammetry (LSV) to detect the CD44 on cancer cells with a limit of detection of 2.17 pg mL −1 .",
+    "refNo": 169,
+    "title": "A simple electrochemical lectin-probe for in situ homogeneous cytosensing and facile evaluation of cell surface glycan",
+    "marker_text": "168",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Zheng et al. 171 reported an assay to measure CD147/EMMPRIN expression on cancer cell surfaces by using electrochemical technique with a sandwich format.",
+    "refNo": 172,
+    "title": "Impedance characterization of chitosan cytotoxicity to MCF-7 breast cancer cells using a multidisc indium tin oxide microelectrode array",
+    "marker_text": "171",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Asphahani et al. 174 demonstrated the feasibility of a cell-based electrochemical biosensor that measures changes in cell impedance in response to analyte.",
+    "refNo": 175,
+    "title": "Intracellular redox compartmentation and ROS-related communication in regulation and signaling",
+    "marker_text": "174",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "The imbalance of intracellular redox homeostasis can affect DNA and RNA synthesis, signal transduction, enzyme activation and even cell proliferation, and may cause severe diseases, such as cancer and Parkinson's disease. 175,176 GSH, the most abundant thiol-containing tripeptide in biological systems, is regarded as the key molecule to maintain the intracellular redox homeostasis. 177 Hence, the measurement of GSH concentration has been used for evaluating the intracellular redox state.",
+    "refNo": 176,
+    "title": "Intracellular redox potential is correlated with miRNA expression in MCF7 cells under hypoxic conditions",
+    "marker_text": "175",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "The imbalance of intracellular redox homeostasis can affect DNA and RNA synthesis, signal transduction, enzyme activation and even cell proliferation, and may cause severe diseases, such as cancer and Parkinson's disease. 175,176 GSH, the most abundant thiol-containing tripeptide in biological systems, is regarded as the key molecule to maintain the intracellular redox homeostasis. 177 Hence, the measurement of GSH concentration has been used for evaluating the intracellular redox state.",
+    "refNo": 177,
+    "title": "Chemically modified carbon based electrodes for the detection of reduced glutathione",
+    "marker_text": "176",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "The imbalance of intracellular redox homeostasis can affect DNA and RNA synthesis, signal transduction, enzyme activation and even cell proliferation, and may cause severe diseases, such as cancer and Parkinson's disease. 175,176 GSH, the most abundant thiol-containing tripeptide in biological systems, is regarded as the key molecule to maintain the intracellular redox homeostasis. 177 Hence, the measurement of GSH concentration has been used for evaluating the intracellular redox state.",
+    "refNo": 178,
+    "title": "A review on the latest developments in nanostructurebased electrochemical sensors for glutathione",
+    "marker_text": "177",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Unfortunately, the direct oxidation of GSH using an electrochemical method is not a fully satisfactory strategy due to the poor voltammetric behavior of GSH. [178][179][180] Liu et al. developed a label-free ratiometric electrochemical biosensor to detect GSH in cancer cell lines (A549 and HeLa) and one normal cell line (NIH3T3).",
+    "refNo": 179,
+    "title": "Sensitive detection of glutathione by using DNA-templated copper nanoparticles as electrochemical reporters",
+    "marker_text": "[178]"
+  },
+  {
+    "sentence": "Unfortunately, the direct oxidation of GSH using an electrochemical method is not a fully satisfactory strategy due to the poor voltammetric behavior of GSH. [178][179][180] Liu et al. developed a label-free ratiometric electrochemical biosensor to detect GSH in cancer cell lines (A549 and HeLa) and one normal cell line (NIH3T3).",
+    "refNo": 180,
+    "title": "Overview and recent advances in electrochemical sensing of glutathione -A review",
+    "marker_text": "[179]"
+  },
+  {
+    "sentence": "Unfortunately, the direct oxidation of GSH using an electrochemical method is not a fully satisfactory strategy due to the poor voltammetric behavior of GSH. [178][179][180] Liu et al. developed a label-free ratiometric electrochemical biosensor to detect GSH in cancer cell lines (A549 and HeLa) and one normal cell line (NIH3T3).",
+    "refNo": 181,
+    "title": "Label-free impedimetric immunosensor for ultrasensitive detection of cancer marker Murine double minute 2 in brain tissue",
+    "marker_text": "[180]"
+  },
+  {
+    "sentence": "Elshafey et al. 181 used EIS biosensor to detect MDM2 protein biomarker from mouse brain tissue homogenate.",
+    "refNo": 182,
+    "title": "Fast Electrochemical miRNAs Determination in Cancer Cells and Tumor Tissues with Antibody-Functionalized Magnetic Microcarriers",
+    "marker_text": "181",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "For example, on-site, real-time, continuously detection of small molecules such as glucose, lactose, and H 2 O 2 ; as well as proteins of large molecular size, such as albumin and alpha-fetoprotein; and inflammatory cytokines, such as IFN-g and TNF-α. 183 Developing implantable, long-term stable, and biocompatible electrochemical biosensors to detect biomarkers or metabolites in tissue or organ is needed.",
+    "refNo": 184,
+    "title": "Taking advantage of tumor cell adaptations to hypoxia for developing new tumor markers and treatment strategies",
+    "marker_text": "183",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Pettersen and coworkers [184][185][186] proposed the concept of the Sensing cell Culture Flask (SCCF) which provides a technological platform for cell culture monitoring without the need to deviate from tissue culture flasks (Fig. 5A).",
+    "refNo": 185,
+    "title": "Targeting tumour hypoxia to prevent cancer metastasis. From biology, biosensing and technology to drug development: The METOXIA consortium",
+    "marker_text": "[184]"
+  },
+  {
+    "sentence": "Pettersen and coworkers [184][185][186] proposed the concept of the Sensing cell Culture Flask (SCCF) which provides a technological platform for cell culture monitoring without the need to deviate from tissue culture flasks (Fig. 5A).",
+    "refNo": 186,
+    "title": "Sensor access to the cellular microenvironment using the sensing cell culture flask",
+    "marker_text": "[185]"
+  },
+  {
+    "sentence": "Pettersen and coworkers [184][185][186] proposed the concept of the Sensing cell Culture Flask (SCCF) which provides a technological platform for cell culture monitoring without the need to deviate from tissue culture flasks (Fig. 5A).",
+    "refNo": 187,
+    "title": "Cell culture monitoring for drug screening and cancer research: A transparent, microfluidic, multi-sensor microsystem",
+    "marker_text": "[186]"
+  },
+  {
+    "sentence": "Pettersen and coworkers [184][185][186] proposed the concept of the Sensing cell Culture Flask (SCCF) which provides a technological platform for cell culture monitoring without the need to deviate from tissue culture flasks (Fig. 5A).",
+    "refNo": 6,
+    "title": "Recent advances in enhancement strategies for electrochemical ELISA-based immunoassays for cancer biomarker detection",
+    "marker_text": "5",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Weltin et al. 187 developed a multiparametric electrochemical biosensor based system for the dynamic online monitoring of human tumor microenvironment and cancer cell metabolism.",
+    "refNo": 188,
+    "title": "",
+    "marker_text": "187",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "The pH, oxygen, glucose, and lactate were measured with linear, long-term stable, selective and reversible behavior in the desired range (Fig. 5B).",
+    "refNo": 6,
+    "title": "Recent advances in enhancement strategies for electrochemical ELISA-based immunoassays for cancer biomarker detection",
+    "marker_text": "5",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Ortega et al. 188 present a custommade integrated platform for muscle cell stimulation under fluidic conditions connected with a multiplexed high-sensitivity electrochemical sensing system for in situ monitoring.",
+    "refNo": 189,
+    "title": "Aptamer-Based Microfluidic Electrochemical Biosensor for Monitoring Cell-Secreted Trace Cardiac Biomarkers",
+    "marker_text": "188",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "The detection sensitivity of the IL-6 and TNF-α are in the ng/mL (Fig. 5C).",
+    "refNo": 6,
+    "title": "Recent advances in enhancement strategies for electrochemical ELISA-based immunoassays for cancer biomarker detection",
+    "marker_text": "5",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Khademhosseini research group designed microfluidic aptamer-based 189 and antibody-based 190 electrochemical biosensing platform for monitoring cardiac biomarker creatine kinase (Fig. 5D/E).",
+    "refNo": 6,
+    "title": "Recent advances in enhancement strategies for electrochemical ELISA-based immunoassays for cancer biomarker detection",
+    "marker_text": "5",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "They also reported an automated microfluidic platform of bead-based electrochemical immunosensor integrated with bioreactor for continual monitoring of Transferrin and albumin. 191 The capability of in situ continual monitoring of organ behaviors and their responses to pharmaceutical compounds over extended periods of time is critical in understanding the dynamics of drug effects and therefore accurate prediction of human organ reactions.",
+    "refNo": 192,
+    "title": "Electrochemical in-vivo sensors using nanomaterials made from carbon species, noble metals, or semiconductors",
+    "marker_text": "191",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Animal level and in vivo detection.-In vivo electrochemistry has been a major tool to understand and reveal physiology and pathological processes from the molecular basis of living systems. 192,193 Griveau et al. 194 developed an electrochemical sensor that allows the in vivo detection of nitric oxide (NO) in tumor-bearing mice.",
+    "refNo": 193,
+    "title": "Real-time measurement of small molecules directly in awake, ambulatory animals",
+    "marker_text": "192",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Animal level and in vivo detection.-In vivo electrochemistry has been a major tool to understand and reveal physiology and pathological processes from the molecular basis of living systems. 192,193 Griveau et al. 194 developed an electrochemical sensor that allows the in vivo detection of nitric oxide (NO) in tumor-bearing mice.",
+    "refNo": 194,
+    "title": "In vivo electrochemical detection of nitric oxide in tumor-bearing mice",
+    "marker_text": "193",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Animal level and in vivo detection.-In vivo electrochemistry has been a major tool to understand and reveal physiology and pathological processes from the molecular basis of living systems. 192,193 Griveau et al. 194 developed an electrochemical sensor that allows the in vivo detection of nitric oxide (NO) in tumor-bearing mice.",
+    "refNo": 195,
+    "title": "Role of glutathione in cancer progression and chemoresistance",
+    "marker_text": "194",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "As a key marker for redox status of cells, GSH concentrations in cancerous cells are much higher compared to healthy cells. 195 Fierro et al. 196 used needle-shaped boron doped diamond (BBD) microelectrode as work electrode, silver wire as counter electrode and Ag/AgCl wire as reference electrode to detection the GSH concentration in subcutaneous xenograft tumors derived from human cancer cells in immunodeficient mice.",
+    "refNo": 196,
+    "title": "In vivo assessment of cancerous tumors using boron doped diamond microelectrode",
+    "marker_text": "195",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "As a key marker for redox status of cells, GSH concentrations in cancerous cells are much higher compared to healthy cells. 195 Fierro et al. 196 used needle-shaped boron doped diamond (BBD) microelectrode as work electrode, silver wire as counter electrode and Ag/AgCl wire as reference electrode to detection the GSH concentration in subcutaneous xenograft tumors derived from human cancer cells in immunodeficient mice.",
+    "refNo": 197,
+    "title": "Fabrication of an immunosensor for quantitative detection of breast cancer biomarker UBE2C",
+    "marker_text": "196",
+    "extraction_method": "naked_numeric"
+  }
+]

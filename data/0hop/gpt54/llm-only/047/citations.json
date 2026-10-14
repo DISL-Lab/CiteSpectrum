@@ -1,0 +1,467 @@
+[
+  {
+    "sentence": "Epidemiologic work has shown that a substantial proportion of older adults fall each year, and many experience repeated falls, making falls prevention a core issue in healthy ageing and community care ref [1].",
+    "refNo": 1,
+    "title": "Falls in older people: epidemiology, risk factors and strategies for prevention"
+  },
+  {
+    "sentence": "Global burden analyses further indicate that falls are a leading cause of injury-related disability and death in later life, with substantial variation across countries but a consistently high contribution to years lived with disability among older adults ref [2].",
+    "refNo": 2,
+    "title": "Global, regional, and national burden of falls in 195 countries and territories, 1990-2017: a systematic analysis for the Global Burden of Disease Study 2017"
+  },
+  {
+    "sentence": "This distinction matters for economic evaluation because intervention complexity, required workforce, and expected pathways to benefit differ substantially across categories ref [3].",
+    "refNo": 3,
+    "title": "Preventing Falls in Older People Living in the Community"
+  },
+  {
+    "sentence": "Evidence syntheses suggest that exercise has the most consistent preventive effect among community-dwelling older adults, while the effects of other single-component interventions are often more context dependent ref [4].",
+    "refNo": 4,
+    "title": "Interventions for preventing falls in older people living in the community"
+  },
+  {
+    "sentence": "For reviewers of economic evidence, this typology is especially important because it shapes comparators, implementation costs, heterogeneity in outcomes, and the transferability of results across health and social care systems ref [3], ref [5].",
+    "refNo": 3,
+    "title": "Preventing Falls in Older People Living in the Community"
+  },
+  {
+    "sentence": "For reviewers of economic evidence, this typology is especially important because it shapes comparators, implementation costs, heterogeneity in outcomes, and the transferability of results across health and social care systems ref [3], ref [5].",
+    "refNo": 5,
+    "title": "World guidelines for falls prevention and management for older adults: a global initiative"
+  },
+  {
+    "sentence": "Standard approaches include cost-effectiveness, cost-utility, and cost-benefit analysis, with the choice of framework depending on whether decision makers prioritize natural units such as falls prevented, preference-based outcomes such as quality-adjusted life years, or broader welfare impacts ref [6].",
+    "refNo": 6,
+    "title": "Methods for the Economic Evaluation of Health Care Programmes"
+  },
+  {
+    "sentence": "Methodological guidance therefore emphasizes explicit specification of analytic perspective, comparator, time horizon, discounting, and uncertainty, since these choices materially shape conclusions about value for money ref [7].",
+    "refNo": 7,
+    "title": "Consolidated Health Economic Evaluation Reporting Standards (CHEERS) statement"
+  },
+  {
+    "sentence": "Established guidance for reviewing economic evaluations emphasizes structured appraisal of resource-use measurement, valuation methods, modelling assumptions, and handling of uncertainty, thereby supporting more transparent cross-study comparison and interpretation ref [8].",
+    "refNo": 8,
+    "title": "Systematic reviews of economic evaluations: utility or futility?"
+  },
+  {
+    "sentence": "Reviews focused on cost-effectiveness in older-person falls prevention have therefore been valuable in identifying both promising intervention classes and persistent evidence gaps, including limited comparability of outcomes and insufficient long-term modelling ref [9].",
+    "refNo": 9,
+    "title": "A systematic review of the cost-effectiveness of falls prevention interventions in older people living in the community"
+  },
+  {
+    "sentence": "The Prevention of Falls Network Europe recommended a standard definition of a fall and a core set of fall-related outcomes precisely to improve comparability across studies; without such harmonization, incremental cost-effectiveness estimates may reflect measurement choices as much as intervention performance ref [10].",
+    "refNo": 10,
+    "title": "Prevention of Falls Network Europe: a thematic network aimed at introducing good practice in effective falls prevention across Europe"
+  },
+  {
+    "sentence": "Recommendations from the Second Panel on Cost-Effectiveness in Health and Medicine are useful here because they make explicit the choice between health care sector and societal perspectives and encourage transparent reporting of what is inside or outside the analytic boundary ref [11].",
+    "refNo": 11,
+    "title": "Recommendations for conduct, methodological practices, and reporting of cost-effectiveness analyses: Second Panel on Cost-Effectiveness in Health and Medicine"
+  },
+  {
+    "sentence": "General methodological distinctions between these forms are well established in health economics and are especially relevant in falls prevention because interventions can generate both condition-specific outcomes and broader quality-of-life effects ref [6].",
+    "refNo": 6,
+    "title": "Methods for the Economic Evaluation of Health Care Programmes"
+  },
+  {
+    "sentence": "Reviews of the falls-prevention literature show substantial heterogeneity in outcome metrics, with many studies combining cost-consequence reporting alongside formal CEA or CUA, which complicates cross-study synthesis and threshold-based interpretation ref [9].",
+    "refNo": 9,
+    "title": "A systematic review of the cost-effectiveness of falls prevention interventions in older people living in the community"
+  },
+  {
+    "sentence": "Consequently, most contemporary studies frame falls prevention as a health sector investment assessed through CEA/CUA, while some broader public health analyses supplement these with disaggregated cost and outcome profiles rather than a single monetary net-benefit estimate ref [12].",
+    "refNo": 12,
+    "title": "Cost-effectiveness of population-based, community, workplace and health service interventions to prevent falls among older adults: a systematic review"
+  },
+  {
+    "sentence": "However, guidance from the Second Panel on Cost-Effectiveness in Health and Medicine argues that a broader societal perspective should also be considered, particularly when interventions affect unpaid caregiving, patient time, transport, and downstream social care use that may be substantial in older populations ref [11].",
+    "refNo": 11,
+    "title": "Recommendations for conduct, methodological practices, and reporting of cost-effectiveness analyses: Second Panel on Cost-Effectiveness in Health and Medicine"
+  },
+  {
+    "sentence": "Methodological reviews of falls-prevention economics repeatedly note heterogeneity in perspective and cost inclusion as a major reason why estimates are difficult to compare across studies and jurisdictions ref [8].",
+    "refNo": 8,
+    "title": "Systematic reviews of economic evaluations: utility or futility?"
+  },
+  {
+    "sentence": "Methodological guidance therefore recommends that the analytic horizon be long enough to reflect all important differences in costs and outcomes between alternatives, rather than merely mirroring study duration ref [6].",
+    "refNo": 6,
+    "title": "Methods for the Economic Evaluation of Health Care Programmes"
+  },
+  {
+    "sentence": "Reviews of economic evaluations in falls prevention have consequently noted substantial heterogeneity in chosen horizons, which complicates cross-study comparison and transferability of cost-effectiveness results ref [9].",
+    "refNo": 9,
+    "title": "A systematic review of the cost-effectiveness of falls prevention interventions in older people living in the community"
+  },
+  {
+    "sentence": "This issue is especially salient because multifactorial assessment and management are often judged against care pathways that differ across health systems and even across trial sites ref [4].",
+    "refNo": 4,
+    "title": "Interventions for preventing falls in older people living in the community"
+  },
+  {
+    "sentence": "The clinical falls literature has long emphasized that intervention effects are contingent on the background level of prevention activity and on whether controls receive co-interventions that reduce fall risk ref [3].",
+    "refNo": 3,
+    "title": "Preventing Falls in Older People Living in the Community"
+  },
+  {
+    "sentence": "However, in falls prevention they are often constrained by short follow-up, limited statistical power for rare but costly events such as hip fracture or long-term care admission, and difficulty capturing downstream quality-of-life gains beyond the trial period, as highlighted in reviews of the field ref [9].",
+    "refNo": 9,
+    "title": "A systematic review of the cost-effectiveness of falls prevention interventions in older people living in the community"
+  },
+  {
+    "sentence": "Yet these advantages come at the cost of stronger structural assumptions regarding transition probabilities, persistence of effect, adherence, and baseline risk; accordingly, the credibility of model-based results depends heavily on transparent model specification, validation, and extensive sensitivity analysis ref [13].",
+    "refNo": 13,
+    "title": "Decision modelling for health economic evaluation"
+  },
+  {
+    "sentence": "For falls prevention, where consequences may unfold over years and span health and social care sectors, hybrid strategies that use trial data to populate or validate decision models are often methodologically preferable ref [9], ref [14].",
+    "refNo": 9,
+    "title": "A systematic review of the cost-effectiveness of falls prevention interventions in older people living in the community"
+  },
+  {
+    "sentence": "For falls prevention, where consequences may unfold over years and span health and social care sectors, hybrid strategies that use trial data to populate or validate decision models are often methodologically preferable ref [9], ref [14].",
+    "refNo": 14,
+    "title": "Modeling Good Research Practices—Overview: A Report of the ISPOR-SMDM Modeling Good Research Practices Task Force–1"
+  },
+  {
+    "sentence": "Probabilistic sensitivity analysis is especially important when model outputs depend on multiple correlated inputs, and it is now widely recommended as the reference approach for representing joint parameter uncertainty in decision models ref [15].",
+    "refNo": 15,
+    "title": "Probabilistic Sensitivity Analysis for NICE Technology Assessment: Not an Optional Extra"
+  },
+  {
+    "sentence": "For trial-based evaluations, uncertainty should also reflect sampling variation, missing data, and skewed cost distributions; non-parametric bootstrap methods have been recommended to characterize the joint distribution of incremental costs and effects in such settings ref [16].",
+    "refNo": 16,
+    "title": "Confidence intervals for cost-effectiveness ratios: an application of Fieller's theorem"
+  },
+  {
+    "sentence": "The choice of endpoint therefore directly affects both estimated effectiveness and the translation of effects into costs and utilities ref [4].",
+    "refNo": 4,
+    "title": "Interventions for preventing falls in older people living in the community"
+  },
+  {
+    "sentence": "Consensus work has emphasized standardised definitions of a fall and recommended common domains for reporting, including falls, recurrent falls, injuries, fractures, healthcare use, and psychological consequences such as fear of falling ref [17].",
+    "refNo": 17,
+    "title": "Development of a common outcome data set for fall injury prevention trials: the Prevention of Falls Network Europe consensus"
+  },
+  {
+    "sentence": "Reviews of falls prevention trials have also shown that intervention effects are often stronger for rate of falls than for fractures or institutional outcomes, so analysts must be explicit about which falls-related metric anchors the economic case and how surrogate endpoints are linked to broader health and cost consequences ref [5].",
+    "refNo": 5,
+    "title": "World guidelines for falls prevention and management for older adults: a global initiative"
+  },
+  {
+    "sentence": "Generic preference-based instruments may be insensitive to changes that matter in this field, such as fear of falling, confidence in mobility, or maintenance of independence, particularly when interventions primarily avert infrequent but severe events rather than produce immediate average health-status gains ref [18].",
+    "refNo": 18,
+    "title": "Falls prevention interventions in primary care to reduce fear of falling among community-dwelling older adults: a systematic review and meta-analysis"
+  },
+  {
+    "sentence": "Reviews of quality-of-life measurement in older populations have highlighted heterogeneity in the use of EQ-5D, SF-6D, Health Utilities Index, and mapping approaches, each with different descriptive systems and value sets, making cross-study comparison difficult ref [19].",
+    "refNo": 19,
+    "title": "A systematic review of health-related quality of life issues in older adults with trauma"
+  },
+  {
+    "sentence": "This distinction matters because falls often trigger extended recovery pathways rather than isolated acute episodes, so evaluations limited to immediate treatment costs may underestimate the economic consequences of both injurious and non-injurious falls ref [1].",
+    "refNo": 1,
+    "title": "Falls in older people: epidemiology, risk factors and strategies for prevention"
+  },
+  {
+    "sentence": "Methodological guidance from the Second Panel supports transparent reporting of such non-health-care consequences alongside the valuation approach used for time and unpaid care, yet many evaluations either omit these costs or include them inconsistently, limiting comparability across studies ref [11].",
+    "refNo": 11,
+    "title": "Recommendations for conduct, methodological practices, and reporting of cost-effectiveness analyses: Second Panel on Cost-Effectiveness in Health and Medicine"
+  },
+  {
+    "sentence": "Reviews of falls-prevention economics have therefore noted wide variation in whether studies include downstream long-term care and informal support, with important implications for estimated cost savings and conclusions about value for money ref [12].",
+    "refNo": 12,
+    "title": "Cost-effectiveness of population-based, community, workplace and health service interventions to prevent falls among older adults: a systematic review"
+  },
+  {
+    "sentence": "This inconsistency reduces comparability across studies and contributes to differences in estimated cost-effectiveness even for similar interventions ref [9].",
+    "refNo": 9,
+    "title": "A systematic review of the cost-effectiveness of falls prevention interventions in older people living in the community"
+  },
+  {
+    "sentence": "Standard economic evaluation texts emphasize the need to distinguish quantities of resources from unit prices, report the price year, and state whether costs reflect opportunity cost, tariffs, or charges ref [6].",
+    "refNo": 6,
+    "title": "Methods for the Economic Evaluation of Health Care Programmes"
+  },
+  {
+    "sentence": "Reviews of falls prevention economics note that recruitment, adherence support, and ongoing program maintenance are often undermeasured, despite their importance for real-world affordability and transferability ref [12].",
+    "refNo": 12,
+    "title": "Cost-effectiveness of population-based, community, workplace and health service interventions to prevent falls among older adults: a systematic review"
+  },
+  {
+    "sentence": "The Second Panel on Cost-Effectiveness in Health and Medicine explicitly recommends a broader impact inventory so that consequences falling outside the health sector are identified and, where relevant, valued alongside health outcomes ref [11].",
+    "refNo": 11,
+    "title": "Recommendations for conduct, methodological practices, and reporting of cost-effectiveness analyses: Second Panel on Cost-Effectiveness in Health and Medicine"
+  },
+  {
+    "sentence": "Reviews of falls interventions in primary care show that reducing fear of falling is itself a meaningful patient-relevant outcome, with implications for activity, isolation, and subsequent service use ref [18].",
+    "refNo": 18,
+    "title": "Falls prevention interventions in primary care to reduce fear of falling among community-dwelling older adults: a systematic review and meta-analysis"
+  },
+  {
+    "sentence": "Emerging guidance on falls prevention for older adults also emphasizes person-centred outcomes and heterogeneity in risk, reinforcing the need for evaluations that move beyond narrowly defined injury counts or health-service costs alone ref [5].",
+    "refNo": 5,
+    "title": "World guidelines for falls prevention and management for older adults: a global initiative"
+  },
+  {
+    "sentence": "In practice, many economic evaluations rely on decision-analytic extrapolation beyond observed follow-up, making structural assumptions about maintenance or waning of effect particularly influential on cost-effectiveness estimates ref [13], ref [14].",
+    "refNo": 13,
+    "title": "Decision modelling for health economic evaluation"
+  },
+  {
+    "sentence": "In practice, many economic evaluations rely on decision-analytic extrapolation beyond observed follow-up, making structural assumptions about maintenance or waning of effect particularly influential on cost-effectiveness estimates ref [13], ref [14].",
+    "refNo": 14,
+    "title": "Modeling Good Research Practices—Overview: A Report of the ISPOR-SMDM Modeling Good Research Practices Task Force–1"
+  },
+  {
+    "sentence": "Capturing these benefits requires time horizons long enough to reflect downstream consequences and explicit handling of competing mortality risks in older populations; otherwise, studies may systematically undervalue preventive interventions whose major gains occur after the trial period ref [13], ref [6].",
+    "refNo": 13,
+    "title": "Decision modelling for health economic evaluation"
+  },
+  {
+    "sentence": "Capturing these benefits requires time horizons long enough to reflect downstream consequences and explicit handling of competing mortality risks in older populations; otherwise, studies may systematically undervalue preventive interventions whose major gains occur after the trial period ref [13], ref [6].",
+    "refNo": 6,
+    "title": "Methods for the Economic Evaluation of Health Care Programmes"
+  },
+  {
+    "sentence": "Sensitivity analysis around durability of benefit, fracture risk reduction, and residential care transitions is especially important because these parameters often drive incremental cost-effectiveness results more strongly than short-run programme costs alone ref [14], ref [6].",
+    "refNo": 14,
+    "title": "Modeling Good Research Practices—Overview: A Report of the ISPOR-SMDM Modeling Good Research Practices Task Force–1"
+  },
+  {
+    "sentence": "Sensitivity analysis around durability of benefit, fracture risk reduction, and residential care transitions is especially important because these parameters often drive incremental cost-effectiveness results more strongly than short-run programme costs alone ref [14], ref [6].",
+    "refNo": 6,
+    "title": "Methods for the Economic Evaluation of Health Care Programmes"
+  },
+  {
+    "sentence": "Methodological guidance for systematic reviews of economic evaluations recommends combining biomedical databases with specialist economic sources and using broad terminology for both the intervention and the economic component, rather than relying only on cost-effectiveness indexing terms, which are inconsistently applied ref [8].",
+    "refNo": 8,
+    "title": "Systematic reviews of economic evaluations: utility or futility?"
+  },
+  {
+    "sentence": "For falls prevention specifically, intervention taxonomies developed in major effectiveness reviews provide a useful basis for structuring inclusion criteria around exercise, home hazard modification, medication review, vision-related strategies, and multifactorial programmes ref [4].",
+    "refNo": 4,
+    "title": "Interventions for preventing falls in older people living in the community"
+  },
+  {
+    "sentence": "Transparent specification of population, intervention, comparator, perspective, study design, and minimum outcome requirements is therefore essential, particularly where reviews aim to synthesize both cost-effectiveness and broader resource-use evidence ref [8].",
+    "refNo": 8,
+    "title": "Systematic reviews of economic evaluations: utility or futility?"
+  },
+  {
+    "sentence": "For trial- and model-based studies alike, the Drummond checklist remains one of the most widely recognized frameworks because it explicitly examines whether alternatives, costs, consequences, and analytic methods are clearly and appropriately specified ref [6].",
+    "refNo": 6,
+    "title": "Methods for the Economic Evaluation of Health Care Programmes"
+  },
+  {
+    "sentence": "The Philips framework is particularly relevant in this context because it extends quality assessment beyond transparency of inputs to the justification of model structure, data identification, consistency checks, and handling of uncertainty ref [20].",
+    "refNo": 20,
+    "title": "Good practice guidelines for decision-analytic modelling in health technology assessment: a review and consolidation of quality assessment"
+  },
+  {
+    "sentence": "Guidance on systematic reviews of economic evaluations emphasizes that extraction should also capture transferability factors, including setting, unit costs, and assumptions about intervention implementation, since these strongly condition cross-study comparability ref [21].",
+    "refNo": 21,
+    "title": "Including economic evaluations in systematic reviews: current issues and recommendations for reviewers"
+  },
+  {
+    "sentence": "Methodological critiques of economic review practice note that attempts to aggregate incremental cost-effectiveness ratios can be misleading, and recommend instead comparing the direction and robustness of conclusions, the sources of uncertainty, and the structural assumptions underlying models ref [8].",
+    "refNo": 8,
+    "title": "Systematic reviews of economic evaluations: utility or futility?"
+  },
+  {
+    "sentence": "Review teams therefore need explicit protocols and transparent decision rules for study selection, data hierarchy, and treatment of overlapping evidence, consistent with broader guidance on assessing bias in systematic reviews [1].",
+    "refNo": 1,
+    "title": "Falls in older people: epidemiology, risk factors and strategies for prevention"
+  },
+  {
+    "sentence": "PRISMA 2020 reinforces these expectations by emphasizing protocol accessibility, comprehensive reporting of methods, and explanation of synthesis decisions; these elements are especially pertinent where heterogeneity precludes quantitative pooling and narrative synthesis dominates [2].",
+    "refNo": 2,
+    "title": "Global, regional, and national burden of falls in 195 countries and territories, 1990-2017: a systematic analysis for the Global Burden of Disease Study 2017"
+  },
+  {
+    "sentence": "Guidance on incorporating economic evaluations in systematic reviews therefore emphasizes structured tabulation and transparent categorization of design features before any cross-study comparison is attempted ref [21].",
+    "refNo": 21,
+    "title": "Including economic evaluations in systematic reviews: current issues and recommendations for reviewers"
+  },
+  {
+    "sentence": "This approach is particularly important in falls prevention, where intervention effectiveness and resource use depend on local service delivery arrangements and baseline fall risk, limiting the external validity of pooled economic conclusions ref [12].",
+    "refNo": 12,
+    "title": "Cost-effectiveness of population-based, community, workplace and health service interventions to prevent falls among older adults: a systematic review"
+  },
+  {
+    "sentence": "More rigorous treatment would involve prespecified subgrouping, standardized currency and price-year conversion where feasible, and explicit discussion of why synthesis stops at qualitative comparison rather than unsupported quantitative aggregation ref [21], ref [8].",
+    "refNo": 21,
+    "title": "Including economic evaluations in systematic reviews: current issues and recommendations for reviewers"
+  },
+  {
+    "sentence": "More rigorous treatment would involve prespecified subgrouping, standardized currency and price-year conversion where feasible, and explicit discussion of why synthesis stops at qualitative comparison rather than unsupported quantitative aggregation ref [21], ref [8].",
+    "refNo": 8,
+    "title": "Systematic reviews of economic evaluations: utility or futility?"
+  },
+  {
+    "sentence": "Broader reporting guidance for systematic reviews is therefore directly relevant, particularly the expectation that searches, selection processes, data items, synthesis methods, and availability of extracted data be described in sufficient detail to permit replication ref [23].",
+    "refNo": 23,
+    "title": "The PRISMA 2020 statement: an updated guideline for reporting systematic reviews"
+  },
+  {
+    "sentence": "CHEERS was developed for primary economic evaluations rather than systematic reviews, but its domains provide a useful benchmark for what review authors should report when summarizing economic methods and assumptions across studies ref [7].",
+    "refNo": 7,
+    "title": "Consolidated Health Economic Evaluation Reporting Standards (CHEERS) statement"
+  },
+  {
+    "sentence": "Cross-national comparative work in health systems has long shown that institutional design shapes both resource use and prices, implying that the same falls-prevention programme may generate different incremental costs and downstream savings in different jurisdictions [1].",
+    "refNo": 1,
+    "title": "Falls in older people: epidemiology, risk factors and strategies for prevention"
+  },
+  {
+    "sentence": "International guidance has emphasized that recommended falls strategies must be adapted to local epidemiology, workforce capacity, and implementation constraints rather than assumed to transfer unchanged across countries [2].",
+    "refNo": 2,
+    "title": "Global, regional, and national burden of falls in 195 countries and territories, 1990-2017: a systematic analysis for the Global Burden of Disease Study 2017"
+  },
+  {
+    "sentence": "As a result, economic conclusions from one country cannot be assumed to hold elsewhere without explicit assessment of contextual fit and parameter uncertainty ref [25].",
+    "refNo": 25,
+    "title": "Transferability of health economic evaluations in EU countries: a new systematic review and European consensus approach"
+  },
+  {
+    "sentence": "Frameworks for transferability distinguish between aspects that may be relatively portable (for example, core intervention mechanisms) and those that are highly context dependent, such as resource use, prices, epidemiology, and comparators in usual care ref [26].",
+    "refNo": 26,
+    "title": "Transferability of economic evaluations across jurisdictions: ISPOR Good Research Practices Task Force report"
+  },
+  {
+    "sentence": "RE-AIM emphasises reach, effectiveness, adoption, implementation, and maintenance as distinct determinants of population impact, highlighting why scalable interventions may differ from those that perform best in efficacy studies ref [27].",
+    "refNo": 27,
+    "title": "RE-AIMing public health for the real world"
+  },
+  {
+    "sentence": "Similarly, the MRC guidance on process evaluation of complex interventions argues that context, mechanisms, and implementation quality should be examined alongside outcomes, which is especially relevant for multicomponent falls programmes delivered across community, primary care, and social support settings ref [28].",
+    "refNo": 28,
+    "title": "Process evaluation of complex interventions: Medical Research Council guidance"
+  },
+  {
+    "sentence": "Recent falls guidelines likewise stress integration, tailoring, and system readiness, reinforcing that scalable value is a function of delivery infrastructure as much as of intervention design ref [5].",
+    "refNo": 5,
+    "title": "World guidelines for falls prevention and management for older adults: a global initiative"
+  },
+  {
+    "sentence": "This logic is consistent with broader work on heterogeneity in cost-effectiveness, which argues that average incremental cost-effectiveness ratios can conceal substantial subgroup variation relevant to policy design ref [29].",
+    "refNo": 29,
+    "title": "The value of heterogeneity for cost-effectiveness subgroup analysis"
+  },
+  {
+    "sentence": "Reviews of falls prevention have repeatedly noted that multifactorial and exercise-based interventions tend to generate greater benefit in groups at elevated risk, although the operational definition of 'high risk' varies across studies and health systems ref [4].",
+    "refNo": 4,
+    "title": "Interventions for preventing falls in older people living in the community"
+  },
+  {
+    "sentence": "A policy-relevant interpretation of stratified value therefore requires attention to both distributional consequences and the feasibility of identifying, engaging, and retaining high-risk groups under real-world conditions ref [29], ref [30].",
+    "refNo": 29,
+    "title": "The value of heterogeneity for cost-effectiveness subgroup analysis"
+  },
+  {
+    "sentence": "A policy-relevant interpretation of stratified value therefore requires attention to both distributional consequences and the feasibility of identifying, engaging, and retaining high-risk groups under real-world conditions ref [29], ref [30].",
+    "refNo": 30,
+    "title": "Distributional cost-effectiveness analysis: a tutorial"
+  },
+  {
+    "sentence": "This is especially important for community and prevention interventions, where benefits may accrue over long horizons and outside the health sector, making threshold choice materially influential on conclusions about adoption or disinvestment ref [6].",
+    "refNo": 6,
+    "title": "Methods for the Economic Evaluation of Health Care Programmes"
+  },
+  {
+    "sentence": "Claxton and colleagues argued that thresholds should reflect the health forgone when resources are displaced within constrained systems, implying that historically used thresholds may be too high in some settings ref [31].",
+    "refNo": 31,
+    "title": "Methods for the estimation of the National Institute for Health and Care Excellence cost-effectiveness threshold"
+  },
+  {
+    "sentence": "Reporting net monetary benefit across a range of threshold values, rather than relying only on point ICERs, improves policy relevance and makes explicit how judgments change under alternative willingness-to-pay assumptions ref [6].",
+    "refNo": 6,
+    "title": "Methods for the Economic Evaluation of Health Care Programmes"
+  },
+  {
+    "sentence": "The Second Panel’s recommendations reinforce the importance of making these perspective choices explicit, particularly where interventions may shift costs between medical services and community support systems rather than simply reduce total expenditure ref [11].",
+    "refNo": 11,
+    "title": "Recommendations for conduct, methodological practices, and reporting of cost-effectiveness analyses: Second Panel on Cost-Effectiveness in Health and Medicine"
+  },
+  {
+    "sentence": "Frameworks developed for real-world public health emphasize that reach, adoption, implementation fidelity, and maintenance are integral to population impact; these dimensions are especially pertinent for community falls programmes that require coordination across primary care, rehabilitation, housing, and voluntary-sector providers ref [27].",
+    "refNo": 27,
+    "title": "RE-AIMing public health for the real world"
+  },
+  {
+    "sentence": "Distributional approaches highlight that interventions can improve aggregate health while also affecting equity across socioeconomic or clinical risk groups ref [30].",
+    "refNo": 30,
+    "title": "Distributional cost-effectiveness analysis: a tutorial"
+  },
+  {
+    "sentence": "This matters because intervention effectiveness, adherence, resource use, and downstream consequences are likely to differ substantially across these groups, and reviews of falls prevention have repeatedly noted limited subgroup-specific evidence despite marked heterogeneity in risk profiles and care pathways ref [4].",
+    "refNo": 4,
+    "title": "Interventions for preventing falls in older people living in the community"
+  },
+  {
+    "sentence": "Evidence syntheses suggest that fear of falling is an important and modifiable outcome in primary care and community settings, but translation of these effects into preference-based outcomes and long-term economic consequences is still limited ref [18].",
+    "refNo": 18,
+    "title": "Falls prevention interventions in primary care to reduce fear of falling among community-dwelling older adults: a systematic review and meta-analysis"
+  },
+  {
+    "sentence": "A more informative approach is to combine subgroup-specific estimates of baseline risk, intervention uptake, adherence, and outcomes with explicit social value judgements about inequality, as formalized in distributional cost-effectiveness analysis ref [30].",
+    "refNo": 30,
+    "title": "Distributional cost-effectiveness analysis: a tutorial"
+  },
+  {
+    "sentence": "Extended frameworks such as equity-informative cost-effectiveness analysis are also relevant where interventions generate important non-health consequences, including unpaid caregiver burden, out-of-pocket costs, or differential capability to age safely at home ref [32].",
+    "refNo": 32,
+    "title": "Making health equity count: a theoretical framework for equity-informative economic evaluation"
+  },
+  {
+    "sentence": "Guidance on real-world evidence for decision making emphasizes the need for explicit design choices, transparent analytic protocols, and careful consideration of data provenance and fitness for purpose ref [33], ref [34].",
+    "refNo": 33,
+    "title": "Real-World Evidence — What Is It and What Can It Tell Us?"
+  },
+  {
+    "sentence": "Guidance on real-world evidence for decision making emphasizes the need for explicit design choices, transparent analytic protocols, and careful consideration of data provenance and fitness for purpose ref [33], ref [34].",
+    "refNo": 34,
+    "title": "Framework for FDA's Real-World Evidence Program"
+  },
+  {
+    "sentence": "A useful agenda is therefore not only greater use of routine data, but stronger reporting standards for linkage quality, outcome definitions, and bias mitigation, so that real-world evidence can be credibly incorporated into model-based and trial-based economic evaluations of falls prevention ref [35].",
+    "refNo": 35,
+    "title": "Using Real-World Data for Coverage and Payment Decisions: The ISPOR Real-World Data Task Force Report"
+  },
+  {
+    "sentence": "Future models should therefore move beyond standard Markov structures toward recurrent-event, semi-Markov, or individual-level state-transition approaches that can represent event dependence, time since last fall, competing mortality, and changing frailty over time, consistent with broader good-practice recommendations for decision modelling in health economics ref [13].",
+    "refNo": 13,
+    "title": "Decision modelling for health economic evaluation"
+  },
+  {
+    "sentence": "In this context, multistate methods offer a principled framework for representing transitions among non-injurious falls, injurious falls, disability, institutionalization, and death, while allowing intervention effects to operate on several pathways rather than only on fall incidence ref [36].",
+    "refNo": 36,
+    "title": "Multi-State Models for Panel Data: The msm Package for R"
+  },
+  {
+    "sentence": "Greater use of patient-level simulation may also improve estimation of accumulated risk and equity-relevant subgroup effects, but this will require better reporting of transition assumptions, recurrence parameters, and structural uncertainty than is typical in current studies ref [13], ref [14].",
+    "refNo": 13,
+    "title": "Decision modelling for health economic evaluation"
+  },
+  {
+    "sentence": "Greater use of patient-level simulation may also improve estimation of accumulated risk and equity-relevant subgroup effects, but this will require better reporting of transition assumptions, recurrence parameters, and structural uncertainty than is typical in current studies ref [13], ref [14].",
+    "refNo": 14,
+    "title": "Modeling Good Research Practices—Overview: A Report of the ISPOR-SMDM Modeling Good Research Practices Task Force–1"
+  },
+  {
+    "sentence": "In falls prevention, consensus work has already demonstrated the feasibility of harmonizing core domains such as falls, injurious falls, and related consequences for trials [3].",
+    "refNo": 3,
+    "title": "Preventing Falls in Older People Living in the Community"
+  },
+  {
+    "sentence": "This would help address long-recognized weaknesses in reviews of economic evaluations, including inconsistent appraisal criteria and limited ability to explain why results differ across settings and methods ref [8].",
+    "refNo": 8,
+    "title": "Systematic reviews of economic evaluations: utility or futility?"
+  },
+  {
+    "sentence": "Existing guidance on including economic evaluations in systematic reviews provides a foundation, but a more focused programme of overviews is needed for falls prevention to identify where generic review methods fail to capture sectoral complexity, such as cross-sector costs, multifactorial pathways, and repeated-event outcomes ref [21].",
+    "refNo": 21,
+    "title": "Including economic evaluations in systematic reviews: current issues and recommendations for reviewers"
+  }
+]

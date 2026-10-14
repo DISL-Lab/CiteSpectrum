@@ -1,0 +1,1622 @@
+[
+  {
+    "sentence": "In remote and weak-grid settings, the load must be met with high reliability despite fluctuating resource availability, fuel logistics constraints, and limited maintenance access; consequently, tower electrification is typically framed within the broader literature on stand-alone and off-grid hybrid energy systems rather than as a simple grid-extension problem ref [3], ref [15], ref [22], ref [26].",
+    "refNo": 3,
+    "title": "A review of hybrid renewable energy systems in mini-grids for off-grid electrification in developing countries",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "In remote and weak-grid settings, the load must be met with high reliability despite fluctuating resource availability, fuel logistics constraints, and limited maintenance access; consequently, tower electrification is typically framed within the broader literature on stand-alone and off-grid hybrid energy systems rather than as a simple grid-extension problem ref [3], ref [15], ref [22], ref [26].",
+    "refNo": 15,
+    "title": "Fossil Fuels Environmental Challenges and the Role of Solar Photovoltaic Technology Advances in Fast Tracking Hybrid Renewable Energy System",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "In remote and weak-grid settings, the load must be met with high reliability despite fluctuating resource availability, fuel logistics constraints, and limited maintenance access; consequently, tower electrification is typically framed within the broader literature on stand-alone and off-grid hybrid energy systems rather than as a simple grid-extension problem ref [3], ref [15], ref [22], ref [26].",
+    "refNo": 22,
+    "title": "The impact of complementarity on power supply reliability of small scale hybrid energy systems",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "In remote and weak-grid settings, the load must be met with high reliability despite fluctuating resource availability, fuel logistics constraints, and limited maintenance access; consequently, tower electrification is typically framed within the broader literature on stand-alone and off-grid hybrid energy systems rather than as a simple grid-extension problem ref [3], ref [15], ref [22], ref [26].",
+    "refNo": 26,
+    "title": "Measuring reliability of hybrid photovoltaic-wind energy systems: A new indicator",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "Reviews of off-grid and mini-grid hybrid renewable systems consistently show that combining renewable generation with storage and auxiliary backup improves resilience, operational flexibility, and lifecycle performance under variable demand and resource conditions ref [21], ref [22], ref [28].",
+    "refNo": 21,
+    "title": "A review of key functionalities of battery energy storage system in renewable energy integrated power systems",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Reviews of off-grid and mini-grid hybrid renewable systems consistently show that combining renewable generation with storage and auxiliary backup improves resilience, operational flexibility, and lifecycle performance under variable demand and resource conditions ref [21], ref [22], ref [28].",
+    "refNo": 22,
+    "title": "The impact of complementarity on power supply reliability of small scale hybrid energy systems",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Reviews of off-grid and mini-grid hybrid renewable systems consistently show that combining renewable generation with storage and auxiliary backup improves resilience, operational flexibility, and lifecycle performance under variable demand and resource conditions ref [21], ref [22], ref [28].",
+    "refNo": 28,
+    "title": "Dynamic environmental economic dispatch of hybrid renewable energy systems based on tradable green certificates",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Economic studies on rural hybrid systems indicate that integrating photovoltaics and other renewables with storage and limited diesel backup can reduce long-term operating costs while lowering fuel consumption and emissions, particularly in remote regions where fuel delivery is expensive ref [37], ref [38].",
+    "refNo": 37,
+    "title": "Design and analysis of a hybrid renewable energy plant with solar and wind power",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "Economic studies on rural hybrid systems indicate that integrating photovoltaics and other renewables with storage and limited diesel backup can reduce long-term operating costs while lowering fuel consumption and emissions, particularly in remote regions where fuel delivery is expensive ref [37], ref [38].",
+    "refNo": 38,
+    "title": "Analysis of hybrid energy systems for application in southern Ghana",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Accordingly, understanding tower energy demand as a continuous, reliability-constrained off-grid load is the first step toward evaluating renewable-based supply options that are both technically robust and environmentally preferable ref [3], ref [21].",
+    "refNo": 3,
+    "title": "A review of hybrid renewable energy systems in mini-grids for off-grid electrification in developing countries",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Accordingly, understanding tower energy demand as a continuous, reliability-constrained off-grid load is the first step toward evaluating renewable-based supply options that are both technically robust and environmentally preferable ref [3], ref [21].",
+    "refNo": 21,
+    "title": "A review of key functionalities of battery energy storage system in renewable energy integrated power systems",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Reviews of stand-alone and hybrid renewable energy systems consistently show that applications with high service continuity and geographically dispersed sites require multi-source architectures rather than single-source supply, because resource intermittency must be managed without compromising availability ref [14], ref [17], ref [27].",
+    "refNo": 14,
+    "title": "Hybrid renewable power systems for mobile telephony base stations in developing countries",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Reviews of stand-alone and hybrid renewable energy systems consistently show that applications with high service continuity and geographically dispersed sites require multi-source architectures rather than single-source supply, because resource intermittency must be managed without compromising availability ref [14], ref [17], ref [27].",
+    "refNo": 17,
+    "title": "Stand-alone hybrid energy systems for remote area power generation",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Reviews of stand-alone and hybrid renewable energy systems consistently show that applications with high service continuity and geographically dispersed sites require multi-source architectures rather than single-source supply, because resource intermittency must be managed without compromising availability ref [14], ref [17], ref [27].",
+    "refNo": 27,
+    "title": "Review on the state‐of‐the‐art multi‐objective optimisation of hybrid standalone/grid‐connected energy systems",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "Planning studies on off-grid hybrid systems emphasize that proper source combination, storage sizing, and dispatch strategy are central to meeting round-the-clock demand at acceptable cost and reliability ref [33], ref [17].",
+    "refNo": 33,
+    "title": "A review on the complementarity of renewable energy sources: Concept, metrics, application and future research directions",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "Planning studies on off-grid hybrid systems emphasize that proper source combination, storage sizing, and dispatch strategy are central to meeting round-the-clock demand at acceptable cost and reliability ref [33], ref [17].",
+    "refNo": 17,
+    "title": "Stand-alone hybrid energy systems for remote area power generation",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "For telecom and radio transmission sites in particular, techno-economic optimization studies show that PV–battery–diesel and related hybrid configurations can substantially reduce fuel dependence while preserving supply security, provided that component sizing is matched to local solar resource, load profile, and autonomy requirements ref [15], ref [37].",
+    "refNo": 15,
+    "title": "Fossil Fuels Environmental Challenges and the Role of Solar Photovoltaic Technology Advances in Fast Tracking Hybrid Renewable Energy System",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "For telecom and radio transmission sites in particular, techno-economic optimization studies show that PV–battery–diesel and related hybrid configurations can substantially reduce fuel dependence while preserving supply security, provided that component sizing is matched to local solar resource, load profile, and autonomy requirements ref [15], ref [37].",
+    "refNo": 37,
+    "title": "Design and analysis of a hybrid renewable energy plant with solar and wind power",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "Comparative assessments of stand-alone, grid-connected, and hybrid systems indicate that hybrid renewable configurations frequently offer the most balanced pathway where grid quality is poor: they lower operating expenditure, reduce logistics associated with diesel transport, and cut emissions without sacrificing reliability ref [27], ref [14].",
+    "refNo": 27,
+    "title": "Review on the state‐of‐the‐art multi‐objective optimisation of hybrid standalone/grid‐connected energy systems",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "Comparative assessments of stand-alone, grid-connected, and hybrid systems indicate that hybrid renewable configurations frequently offer the most balanced pathway where grid quality is poor: they lower operating expenditure, reduce logistics associated with diesel transport, and cut emissions without sacrificing reliability ref [27], ref [14].",
+    "refNo": 14,
+    "title": "Hybrid renewable power systems for mobile telephony base stations in developing countries",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "For mobile telephony base stations in developing-country settings, the literature further underscores that renewable-based hybrids are especially attractive because tower loads are persistent, predictable, and well suited to optimization-led system design ref [37], ref [33].",
+    "refNo": 37,
+    "title": "Design and analysis of a hybrid renewable energy plant with solar and wind power",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "For mobile telephony base stations in developing-country settings, the literature further underscores that renewable-based hybrids are especially attractive because tower loads are persistent, predictable, and well suited to optimization-led system design ref [37], ref [33].",
+    "refNo": 33,
+    "title": "A review on the complementarity of renewable energy sources: Concept, metrics, application and future research directions",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "While diesel backup offers dispatchability, it also imposes high fuel logistics costs, exposure to price volatility, maintenance burdens, and significant local and lifecycle emissions, making it increasingly misaligned with sustainability objectives and long-term operating efficiency ref [17], ref [34].",
+    "refNo": 17,
+    "title": "Stand-alone hybrid energy systems for remote area power generation",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "While diesel backup offers dispatchability, it also imposes high fuel logistics costs, exposure to price volatility, maintenance burdens, and significant local and lifecycle emissions, making it increasingly misaligned with sustainability objectives and long-term operating efficiency ref [17], ref [34].",
+    "refNo": 34,
+    "title": "Modelling and optimization of an off-grid hybrid renewable energy system for electrification in a rural areas",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "In remote deployments, these drawbacks are amplified by difficult site access and the need for autonomous operation over long periods ref [34].",
+    "refNo": 34,
+    "title": "Modelling and optimization of an off-grid hybrid renewable energy system for electrification in a rural areas",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "The broader hybrid energy literature shows that such systems can improve fuel displacement, reduce operating expenditure, and enhance supply reliability when properly sized to site-specific resource availability and load behavior ref [32], ref [34].",
+    "refNo": 32,
+    "title": "Technical and economic analysis of different configurations of stand-alone hybrid renewable power systems – A case study",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "The broader hybrid energy literature shows that such systems can improve fuel displacement, reduce operating expenditure, and enhance supply reliability when properly sized to site-specific resource availability and load behavior ref [32], ref [34].",
+    "refNo": 34,
+    "title": "Modelling and optimization of an off-grid hybrid renewable energy system for electrification in a rural areas",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "Advances in solar photovoltaic technology further strengthen this transition by improving the practical feasibility and performance of hybrid renewable energy systems intended to reduce fossil-fuel dependence ref [17].",
+    "refNo": 17,
+    "title": "Stand-alone hybrid energy systems for remote area power generation",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Comparative assessment must integrate technical, economic, environmental, and, increasingly, social criteria, since model-based design decisions strongly influence affordability, resilience, and local acceptability ref [32], ref [37].",
+    "refNo": 32,
+    "title": "Technical and economic analysis of different configurations of stand-alone hybrid renewable power systems – A case study",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "Comparative assessment must integrate technical, economic, environmental, and, increasingly, social criteria, since model-based design decisions strongly influence affordability, resilience, and local acceptability ref [32], ref [37].",
+    "refNo": 37,
+    "title": "Design and analysis of a hybrid renewable energy plant with solar and wind power",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "As emphasized in reviews of hybrid-system modeling tools, optimization frameworks that move beyond purely techno-economic metrics are important for selecting robust tower electrification solutions in diverse operational contexts ref [37].",
+    "refNo": 37,
+    "title": "Design and analysis of a hybrid renewable energy plant with solar and wind power",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "Battery energy storage systems (BESS) therefore act not only as energy reservoirs, but also as fast-response assets for smoothing renewable power fluctuations, stabilizing voltage and frequency, and supporting short-term load transients associated with telecom operation ref [9], ref [17].",
+    "refNo": 9,
+    "title": "Hybrid renewable energy systems for off-grid electric power: Review of substantial issues",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Battery energy storage systems (BESS) therefore act not only as energy reservoirs, but also as fast-response assets for smoothing renewable power fluctuations, stabilizing voltage and frequency, and supporting short-term load transients associated with telecom operation ref [9], ref [17].",
+    "refNo": 17,
+    "title": "Stand-alone hybrid energy systems for remote area power generation",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "In remote and weak-grid tower contexts, these functions directly reduce diesel generator start-stop cycling and improve the effective utilization of solar and wind resources ref [13], ref [17].",
+    "refNo": 13,
+    "title": "Optimal planning and design of hybrid renewable energy systems for microgrids",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "In remote and weak-grid tower contexts, these functions directly reduce diesel generator start-stop cycling and improve the effective utilization of solar and wind resources ref [13], ref [17].",
+    "refNo": 17,
+    "title": "Stand-alone hybrid energy systems for remote area power generation",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Studies on hybrid wind/PV/battery systems show that coordinated dispatch between renewable generation, batteries, and auxiliary sources can significantly enhance continuity of supply under both on-grid and off-grid conditions ref [13].",
+    "refNo": 13,
+    "title": "Optimal planning and design of hybrid renewable energy systems for microgrids",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Likewise, complementarity between resources can reduce unmet load and lower the storage burden required to maintain reliability, which is particularly relevant for geographically dispersed tower networks facing variable meteorological conditions ref [22].",
+    "refNo": 22,
+    "title": "The impact of complementarity on power supply reliability of small scale hybrid energy systems",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Optimization studies indicate that hybrid system sizing must be explicitly constrained by reliability metrics, since aggressive diesel displacement without adequate storage or resource diversity can degrade service continuity ref [32].",
+    "refNo": 32,
+    "title": "Technical and economic analysis of different configurations of stand-alone hybrid renewable power systems – A case study",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "Recent work on hybrid energy storage systems further suggests that combining batteries with complementary storage technologies can better handle both slow energy balancing and fast power fluctuations, offering a promising pathway for deeper diesel reduction in next-generation green telecom power systems ref [34], ref [9].",
+    "refNo": 34,
+    "title": "Modelling and optimization of an off-grid hybrid renewable energy system for electrification in a rural areas",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "Recent work on hybrid energy storage systems further suggests that combining batteries with complementary storage technologies can better handle both slow energy balancing and fast power fluctuations, offering a promising pathway for deeper diesel reduction in next-generation green telecom power systems ref [34], ref [9].",
+    "refNo": 9,
+    "title": "Hybrid renewable energy systems for off-grid electric power: Review of substantial issues",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "This shifts system design from simple diesel offsetting toward reliability-constrained hybrid planning, where loss-of-supply risk, reserve margins, and unmet-load indicators become primary design criteria alongside cost [8], [16], [21].",
+    "refNo": 8,
+    "title": "Optimization of PV-biomass-diesel and grid base hybrid energy systems for rural electrification by using HOMER",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "This shifts system design from simple diesel offsetting toward reliability-constrained hybrid planning, where loss-of-supply risk, reserve margins, and unmet-load indicators become primary design criteria alongside cost [8], [16], [21].",
+    "refNo": 16,
+    "title": "Techno-economic evaluation for hybrid renewable energy system: Application and merits",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "This shifts system design from simple diesel offsetting toward reliability-constrained hybrid planning, where loss-of-supply risk, reserve margins, and unmet-load indicators become primary design criteria alongside cost [8], [16], [21].",
+    "refNo": 21,
+    "title": "A review of key functionalities of battery energy storage system in renewable energy integrated power systems",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "For remote towers, which often operate as quasi-critical infrastructure, the acceptable reliability threshold is typically much tighter than in generic rural electrification settings, making probabilistic and multi-objective formulations especially relevant [3], [26].",
+    "refNo": 3,
+    "title": "A review of hybrid renewable energy systems in mini-grids for off-grid electrification in developing countries",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "For remote towers, which often operate as quasi-critical infrastructure, the acceptable reliability threshold is typically much tighter than in generic rural electrification settings, making probabilistic and multi-objective formulations especially relevant [3], [26].",
+    "refNo": 26,
+    "title": "Measuring reliability of hybrid photovoltaic-wind energy systems: A new indicator",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "Multi-objective approaches are particularly suitable for tower applications because they expose the trade-offs among net present cost, renewable fraction, fuel consumption, emissions, and battery cycling stress [16], [24].",
+    "refNo": 16,
+    "title": "Techno-economic evaluation for hybrid renewable energy system: Application and merits",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Multi-objective approaches are particularly suitable for tower applications because they expose the trade-offs among net present cost, renewable fraction, fuel consumption, emissions, and battery cycling stress [16], [24].",
+    "refNo": 24,
+    "title": "Recent Advances in Hybrid Energy Storage System Integrated Renewable Power Generation: Configuration, Control, Applications, and Future Directions",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Stochastic optimization further improves design robustness by accounting for uncertainty in solar irradiance, wind availability, and demand fluctuations, thereby avoiding undersized systems that would otherwise increase diesel runtime or service interruptions [21].",
+    "refNo": 21,
+    "title": "A review of key functionalities of battery energy storage system in renewable energy integrated power systems",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Case-based techno-economic studies of stand-alone hybrid systems similarly show that optimal configurations are highly site-specific, with resource complementarity and storage sizing strongly influencing both economics and reliability [26], [35].",
+    "refNo": 26,
+    "title": "Measuring reliability of hybrid photovoltaic-wind energy systems: A new indicator",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "Case-based techno-economic studies of stand-alone hybrid systems similarly show that optimal configurations are highly site-specific, with resource complementarity and storage sizing strongly influencing both economics and reliability [26], [35].",
+    "refNo": 35,
+    "title": "A review on biomass and wind as renewable energy for sustainable environment.",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "Reviews of HRES planning and operation note that dispatch strategies increasingly incorporate environmental objectives rather than treating emissions as a secondary outcome [3], while dynamic environmental-economic dispatch formulations demonstrate how explicit valuation of green attributes can alter the preferred operating point of hybrid systems [18].",
+    "refNo": 3,
+    "title": "A review of hybrid renewable energy systems in mini-grids for off-grid electrification in developing countries",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Reviews of HRES planning and operation note that dispatch strategies increasingly incorporate environmental objectives rather than treating emissions as a secondary outcome [3], while dynamic environmental-economic dispatch formulations demonstrate how explicit valuation of green attributes can alter the preferred operating point of hybrid systems [18].",
+    "refNo": 18,
+    "title": "A critical analysis on hybrid renewable energy modeling tools: An emerging opportunity to include social indicators to optimise systems in small communities",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "For telecom towers, this implies that future supply architectures will be judged not only by energy security, but also by their ability to deliver resilient low-carbon operation through optimized component sizing, control, and lifetime cost-emission trade-offs [24], [35].",
+    "refNo": 24,
+    "title": "Recent Advances in Hybrid Energy Storage System Integrated Renewable Power Generation: Configuration, Control, Applications, and Future Directions",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "For telecom towers, this implies that future supply architectures will be judged not only by energy security, but also by their ability to deliver resilient low-carbon operation through optimized component sizing, control, and lifetime cost-emission trade-offs [24], [35].",
+    "refNo": 35,
+    "title": "A review on biomass and wind as renewable energy for sustainable environment.",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "Review studies on stand-alone and off-grid hybrid systems consistently identify solar photovoltaic generation as the most deployable option because of its modularity, low maintenance, and suitability for remote sites, while wind and biomass become attractive where their site-specific resource profiles are strong enough to offset intermittency or fuel logistics constraints ref [2], ref [15], ref [22], ref [26].",
+    "refNo": 2,
+    "title": "A review of hybrid renewable/alternative energy systems for electric power generation: Configurations, control and applications",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Review studies on stand-alone and off-grid hybrid systems consistently identify solar photovoltaic generation as the most deployable option because of its modularity, low maintenance, and suitability for remote sites, while wind and biomass become attractive where their site-specific resource profiles are strong enough to offset intermittency or fuel logistics constraints ref [2], ref [15], ref [22], ref [26].",
+    "refNo": 15,
+    "title": "Fossil Fuels Environmental Challenges and the Role of Solar Photovoltaic Technology Advances in Fast Tracking Hybrid Renewable Energy System",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Review studies on stand-alone and off-grid hybrid systems consistently identify solar photovoltaic generation as the most deployable option because of its modularity, low maintenance, and suitability for remote sites, while wind and biomass become attractive where their site-specific resource profiles are strong enough to offset intermittency or fuel logistics constraints ref [2], ref [15], ref [22], ref [26].",
+    "refNo": 22,
+    "title": "The impact of complementarity on power supply reliability of small scale hybrid energy systems",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Review studies on stand-alone and off-grid hybrid systems consistently identify solar photovoltaic generation as the most deployable option because of its modularity, low maintenance, and suitability for remote sites, while wind and biomass become attractive where their site-specific resource profiles are strong enough to offset intermittency or fuel logistics constraints ref [2], ref [15], ref [22], ref [26].",
+    "refNo": 26,
+    "title": "Measuring reliability of hybrid photovoltaic-wind energy systems: A new indicator",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "In developing-country mini-grid and off-grid contexts, the same literature emphasizes that no single renewable resource is universally optimal; instead, technology choice depends on climate regime, land availability, access conditions, and required autonomy ref [21], ref [28].",
+    "refNo": 21,
+    "title": "A review of key functionalities of battery energy storage system in renewable energy integrated power systems",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "In developing-country mini-grid and off-grid contexts, the same literature emphasizes that no single renewable resource is universally optimal; instead, technology choice depends on climate regime, land availability, access conditions, and required autonomy ref [21], ref [28].",
+    "refNo": 28,
+    "title": "Dynamic environmental economic dispatch of hybrid renewable energy systems based on tradable green certificates",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "The complementarity literature shows that combining resources with different temporal patterns—most commonly solar with wind, or solar with dispatchable biomass or backup generation—can reduce variability and improve effective capacity utilization ref [6].",
+    "refNo": 6,
+    "title": "A review on the utilization of hybrid renewable energy",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Broader reviews of hybrid renewable energy systems similarly argue that hybridization is valuable precisely because it exploits seasonal, diurnal, and stochastic differences among resources, thereby lowering storage requirements and improving reliability in stand-alone applications ref [2], ref [15], ref [26].",
+    "refNo": 2,
+    "title": "A review of hybrid renewable/alternative energy systems for electric power generation: Configurations, control and applications",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Broader reviews of hybrid renewable energy systems similarly argue that hybridization is valuable precisely because it exploits seasonal, diurnal, and stochastic differences among resources, thereby lowering storage requirements and improving reliability in stand-alone applications ref [2], ref [15], ref [26].",
+    "refNo": 15,
+    "title": "Fossil Fuels Environmental Challenges and the Role of Solar Photovoltaic Technology Advances in Fast Tracking Hybrid Renewable Energy System",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Broader reviews of hybrid renewable energy systems similarly argue that hybridization is valuable precisely because it exploits seasonal, diurnal, and stochastic differences among resources, thereby lowering storage requirements and improving reliability in stand-alone applications ref [2], ref [15], ref [26].",
+    "refNo": 26,
+    "title": "Measuring reliability of hybrid photovoltaic-wind energy systems: A new indicator",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "From an architectural perspective, the most relevant configurations for telecom towers are PV-battery, PV-wind-battery, and PV-biomass-diesel-battery arrangements, selected according to resource quality and service criticality ref [22], ref [28].",
+    "refNo": 22,
+    "title": "The impact of complementarity on power supply reliability of small scale hybrid energy systems",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "From an architectural perspective, the most relevant configurations for telecom towers are PV-battery, PV-wind-battery, and PV-biomass-diesel-battery arrangements, selected according to resource quality and service criticality ref [22], ref [28].",
+    "refNo": 28,
+    "title": "Dynamic environmental economic dispatch of hybrid renewable energy systems based on tradable green certificates",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Reviews of planning and configuration methods note that diesel is often retained as a reliability layer rather than the primary source, especially in isolated installations where loss of load is unacceptable ref [21], ref [22].",
+    "refNo": 21,
+    "title": "A review of key functionalities of battery energy storage system in renewable energy integrated power systems",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Reviews of planning and configuration methods note that diesel is often retained as a reliability layer rather than the primary source, especially in isolated installations where loss of load is unacceptable ref [21], ref [22].",
+    "refNo": 22,
+    "title": "The impact of complementarity on power supply reliability of small scale hybrid energy systems",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "This trend is also reflected in optimization-based studies such as PV-biomass-diesel systems, where biomass contributes dispatchability and PV reduces fuel dependence, yielding more resilient supply structures for remote energy users ref [38].",
+    "refNo": 38,
+    "title": "Analysis of hybrid energy systems for application in southern Ghana",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Reviews of off-grid hybrid systems emphasize that photovoltaic generation is attractive in most regions due to modularity and low operating cost, but its intermittency necessitates pairing with complementary sources and storage ref [14], ref [23].",
+    "refNo": 14,
+    "title": "Hybrid renewable power systems for mobile telephony base stations in developing countries",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Reviews of off-grid hybrid systems emphasize that photovoltaic generation is attractive in most regions due to modularity and low operating cost, but its intermittency necessitates pairing with complementary sources and storage ref [14], ref [23].",
+    "refNo": 23,
+    "title": "Design optimization of a hybrid system subject to reliability level and renewable energy penetration",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "In practice, the most common architecture for tower applications is PV–wind–battery, with optional diesel backup, because the temporal diversity of solar irradiation and wind speed can reduce unmet load and fuel dependence relative to PV-only designs ref [30], ref [37].",
+    "refNo": 30,
+    "title": "Hybrid Renewable Energy Systems’ Optimisation. A Review and Extended Comparison of the Most-Used Software Tools",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "In practice, the most common architecture for tower applications is PV–wind–battery, with optional diesel backup, because the temporal diversity of solar irradiation and wind speed can reduce unmet load and fuel dependence relative to PV-only designs ref [30], ref [37].",
+    "refNo": 37,
+    "title": "Design and analysis of a hybrid renewable energy plant with solar and wind power",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "Studies on solar–wind plant design and regional hybrid analysis show that wind is particularly valuable in coastal, elevated, and open-terrain locations, where nocturnal or seasonal wind availability offsets the daytime bias of PV output ref [30], ref [32].",
+    "refNo": 30,
+    "title": "Hybrid Renewable Energy Systems’ Optimisation. A Review and Extended Comparison of the Most-Used Software Tools",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "Studies on solar–wind plant design and regional hybrid analysis show that wind is particularly valuable in coastal, elevated, and open-terrain locations, where nocturnal or seasonal wind availability offsets the daytime bias of PV output ref [30], ref [32].",
+    "refNo": 32,
+    "title": "Technical and economic analysis of different configurations of stand-alone hybrid renewable power systems – A case study",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "For telecom stations with continuous DC demand, this complementarity improves reliability and can reduce battery oversizing, a point also highlighted in optimization-oriented reviews of PV–wind sizing strategies and cost assessment methods ref [23].",
+    "refNo": 23,
+    "title": "Design optimization of a hybrid system subject to reliability level and renewable energy penetration",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Case-specific optimization for a radio transmitter station in India similarly found that hybrid configurations outperform single-resource systems when component sizes are tuned against local meteorological data and lifecycle cost criteria ref [15].",
+    "refNo": 15,
+    "title": "Fossil Fuels Environmental Challenges and the Role of Solar Photovoltaic Technology Advances in Fast Tracking Hybrid Renewable Energy System",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Biomass offers dispatchable renewable power and can therefore compensate for prolonged low-solar or low-wind periods, although logistical complexity and fuel-chain management limit universal deployment ref [20].",
+    "refNo": 20,
+    "title": "Energy management for on-grid and off-grid wind/PV and battery hybrid systems",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "More general rural electrification studies confirm that optimal off-grid architectures depend on matching resource availability, storage, and backup generation to local load and climate conditions ref [37].",
+    "refNo": 37,
+    "title": "Design and analysis of a hybrid renewable energy plant with solar and wind power",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "For developing-country telecom networks, this argues for resource-driven architectures rather than uniform tower designs, with PV–wind, PV–biomass, and PV–wind–diesel/battery combinations selected according to geography, accessibility, and service reliability requirements ref [37].",
+    "refNo": 37,
+    "title": "Design and analysis of a hybrid renewable energy plant with solar and wind power",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "Studies on stand-alone hybrid systems consistently show that combining solar PV with wind, biomass, or auxiliary storage/generation improves supply adequacy relative to single-source systems, especially in remote sites where grid extension is uneconomic ref [34], ref [32].",
+    "refNo": 34,
+    "title": "Modelling and optimization of an off-grid hybrid renewable energy system for electrification in a rural areas",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "Studies on stand-alone hybrid systems consistently show that combining solar PV with wind, biomass, or auxiliary storage/generation improves supply adequacy relative to single-source systems, especially in remote sites where grid extension is uneconomic ref [34], ref [32].",
+    "refNo": 32,
+    "title": "Technical and economic analysis of different configurations of stand-alone hybrid renewable power systems – A case study",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "Multi-objective formulations further indicate that architecture selection must balance lifecycle cost, emissions, and reliability rather than optimize only one criterion ref [28], ref [39].",
+    "refNo": 28,
+    "title": "Dynamic environmental economic dispatch of hybrid renewable energy systems based on tradable green certificates",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Multi-objective formulations further indicate that architecture selection must balance lifecycle cost, emissions, and reliability rather than optimize only one criterion ref [28], ref [39].",
+    "refNo": 39,
+    "title": "Techno-economic and environmental assessment of a hybrid renewable energy system using multi-objective genetic algorithm: A case study for remote Island in Bangladesh",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "Among candidate configurations, PV–wind systems are attractive where diurnal and seasonal complementarities exist, while PV–wind–biomass arrangements become more robust in locations with weak solar or wind periods because dispatchable biomass can stabilize the residual deficit ref [22], ref [25].",
+    "refNo": 22,
+    "title": "The impact of complementarity on power supply reliability of small scale hybrid energy systems",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Among candidate configurations, PV–wind systems are attractive where diurnal and seasonal complementarities exist, while PV–wind–biomass arrangements become more robust in locations with weak solar or wind periods because dispatchable biomass can stabilize the residual deficit ref [22], ref [25].",
+    "refNo": 25,
+    "title": "A Comprehensive State-of-the-Art Survey on Hybrid Renewable Energy System Operations and Planning",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "For isolated or climatically variable regions, optimized hybrid designs reported for islands and remote settlements show that adding a third renewable or storage element reduces unmet load and diesel dependence, albeit with site-specific trade-offs in capital cost and fuel logistics ref [39], ref [34].",
+    "refNo": 39,
+    "title": "Techno-economic and environmental assessment of a hybrid renewable energy system using multi-objective genetic algorithm: A case study for remote Island in Bangladesh",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "For isolated or climatically variable regions, optimized hybrid designs reported for islands and remote settlements show that adding a third renewable or storage element reduces unmet load and diesel dependence, albeit with site-specific trade-offs in capital cost and fuel logistics ref [39], ref [34].",
+    "refNo": 34,
+    "title": "Modelling and optimization of an off-grid hybrid renewable energy system for electrification in a rural areas",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "Geospatial siting and multi-criteria mapping approaches show that renewable hybrid selection should be tied to local irradiance, wind regime, biomass accessibility, land constraints, and transport conditions rather than adopting a uniform tower power template ref [40], ref [36].",
+    "refNo": 40,
+    "title": "Sustainable siting and design optimization of hybrid renewable energy system: A geospatial multi-criteria analysis",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "Geospatial siting and multi-criteria mapping approaches show that renewable hybrid selection should be tied to local irradiance, wind regime, biomass accessibility, land constraints, and transport conditions rather than adopting a uniform tower power template ref [40], ref [36].",
+    "refNo": 36,
+    "title": "Review of solar photovoltaic and wind hybrid energy systems for sizing strategies optimization techniques and cost analysis methodologies",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "In this sense, hybridization is not merely a technology combination, but a location-specific design strategy for improving autonomy, environmental performance, and long-term techno-economic viability of telecom power systems ref [32], ref [28].",
+    "refNo": 32,
+    "title": "Technical and economic analysis of different configurations of stand-alone hybrid renewable power systems – A case study",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "In this sense, hybridization is not merely a technology combination, but a location-specific design strategy for improving autonomy, environmental performance, and long-term techno-economic viability of telecom power systems ref [32], ref [28].",
+    "refNo": 28,
+    "title": "Dynamic environmental economic dispatch of hybrid renewable energy systems based on tradable green certificates",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Dynamic simulation and economic assessment studies show that coupling wind and solar with electrical storage smooths short-term variability and lowers dependence on backup generators, especially in isolated operation ref [47].",
+    "refNo": 47,
+    "title": "Feasibility evaluation of a hybrid renewable power generation system for sustainable electricity supply in a Moroccan remote site",
+    "marker_text": "[47]"
+  },
+  {
+    "sentence": "More generally, the reliability gain of such architectures depends not only on the individual resource potentials but also on their complementarity; systems with stronger anti-correlation between wind and solar availability exhibit better continuity of supply for a given storage size ref [22].",
+    "refNo": 22,
+    "title": "The impact of complementarity on power supply reliability of small scale hybrid energy systems",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Optimization studies indicate that reliability targets and desired renewable penetration strongly shape the preferred mix of PV, wind, storage, and residual conventional backup ref [32].",
+    "refNo": 32,
+    "title": "Technical and economic analysis of different configurations of stand-alone hybrid renewable power systems – A case study",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "In practical telecom-like off-grid settings, energy management strategies for wind/PV/battery systems must coordinate source dispatch, battery state of charge, and load priorities under both grid-connected and stand-alone modes to avoid excessive cycling and unmet demand ref [13].",
+    "refNo": 13,
+    "title": "Optimal planning and design of hybrid renewable energy systems for microgrids",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Case-based techno-economic analyses further confirm that PV/wind/battery/diesel configurations remain relevant in weak-resource or high-reliability contexts, where limited diesel capacity is retained as a security layer rather than the primary source ref [18].",
+    "refNo": 18,
+    "title": "A critical analysis on hybrid renewable energy modeling tools: An emerging opportunity to include social indicators to optimise systems in small communities",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Feasibility assessments for remote Moroccan sites highlight that local wind regime, solar resource, and logistics jointly determine whether fully renewable or hybridized architectures are preferable ref [27].",
+    "refNo": 27,
+    "title": "Review on the state‐of‐the‐art multi‐objective optimisation of hybrid standalone/grid‐connected energy systems",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "Likewise, optimal sizing results incorporating socio-demographic factors suggest that load growth, service expectations, and community usage patterns can materially alter the economically optimal wind–PV–battery balance ref [40].",
+    "refNo": 40,
+    "title": "Sustainable siting and design optimization of hybrid renewable energy system: A geospatial multi-criteria analysis",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "Recent planning surveys emphasize that standalone and grid-coupled hybrid systems must be designed through integrated operational and planning frameworks rather than by simple component substitution, especially where tower loads are continuous and outage tolerance is low ref [49].",
+    "refNo": 49,
+    "title": "Optimal sizing of a Hybrid Renewable Energy System: Importance of data selection with highly variable renewable energy sources",
+    "marker_text": "[49]"
+  },
+  {
+    "sentence": "In this context, PV–wind–battery and PV–biomass–battery configurations are attractive because they exploit temporal complementarity while reducing diesel dependence; however, their performance is highly sensitive to local resource variability and load representation ref [14], ref [35].",
+    "refNo": 14,
+    "title": "Hybrid renewable power systems for mobile telephony base stations in developing countries",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "In this context, PV–wind–battery and PV–biomass–battery configurations are attractive because they exploit temporal complementarity while reducing diesel dependence; however, their performance is highly sensitive to local resource variability and load representation ref [14], ref [35].",
+    "refNo": 35,
+    "title": "A review on biomass and wind as renewable energy for sustainable environment.",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "Reliability-oriented studies of hybrid PV–wind systems propose indicators that better capture the probability and duration of unmet load, which is critical for communication infrastructure requiring near-continuous service ref [32].",
+    "refNo": 32,
+    "title": "Technical and economic analysis of different configurations of stand-alone hybrid renewable power systems – A case study",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "Likewise, stochastic optimization approaches show that uncertainty in irradiance, wind speed, and demand should be explicitly modeled during design, since deterministic sizing may yield underperforming or overcapitalized systems under real operating conditions ref [21].",
+    "refNo": 21,
+    "title": "A review of key functionalities of battery energy storage system in renewable energy integrated power systems",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Accordingly, recent work increasingly adopts multi-objective optimization to balance net present cost, reliability, renewable fraction, and sometimes emissions when selecting tower power architectures ref [16].",
+    "refNo": 16,
+    "title": "Techno-economic evaluation for hybrid renewable energy system: Application and merits",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Reviews of optimization platforms further note that software choice affects modeled dispatch logic, storage behavior, and economic outputs, which can materially alter preferred configurations ref [24].",
+    "refNo": 24,
+    "title": "Recent Advances in Hybrid Energy Storage System Integrated Renewable Power Generation: Configuration, Control, Applications, and Future Directions",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Case-based techno-economic analyses for remote standalone systems generally confirm that no single architecture is universally optimal: PV-dominant systems suit high-insolation regions, wind-assisted hybrids become favorable in coastal or elevated sites, and more diversified combinations are justified where reliability requirements outweigh minimum-cost design ref [26], ref [35].",
+    "refNo": 26,
+    "title": "Measuring reliability of hybrid photovoltaic-wind energy systems: A new indicator",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "Case-based techno-economic analyses for remote standalone systems generally confirm that no single architecture is universally optimal: PV-dominant systems suit high-insolation regions, wind-assisted hybrids become favorable in coastal or elevated sites, and more diversified combinations are justified where reliability requirements outweigh minimum-cost design ref [26], ref [35].",
+    "refNo": 35,
+    "title": "A review on biomass and wind as renewable energy for sustainable environment.",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "Overall, the literature suggests that renewable telecom tower supply should be framed as a site-specific hybrid design problem under uncertainty, with explicit reliability metrics and optimization-based sizing used to identify robust architectures rather than nominal least-cost solutions ref [49], ref [16].",
+    "refNo": 49,
+    "title": "Optimal sizing of a Hybrid Renewable Energy System: Importance of data selection with highly variable renewable energy sources",
+    "marker_text": "[49]"
+  },
+  {
+    "sentence": "Overall, the literature suggests that renewable telecom tower supply should be framed as a site-specific hybrid design problem under uncertainty, with explicit reliability metrics and optimization-based sizing used to identify robust architectures rather than nominal least-cost solutions ref [49], ref [16].",
+    "refNo": 16,
+    "title": "Techno-economic evaluation for hybrid renewable energy system: Application and merits",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Broad reviews emphasize that storage selection should be driven by autonomy requirement, cycling profile, efficiency, and maintenance constraints rather than energy capacity alone, since remote towers are especially sensitive to outages and service visits ref [53].",
+    "refNo": 53,
+    "title": "Emergence of hybrid energy storage systems in renewable energy and transport applications – A review",
+    "marker_text": "[53]"
+  },
+  {
+    "sentence": "In this context, batteries remain the primary short- to medium-duration option, but their standalone use can be suboptimal under sharp solar and wind fluctuations or repetitive deep cycling ref [23], ref [40].",
+    "refNo": 23,
+    "title": "Design optimization of a hybrid system subject to reliability level and renewable energy penetration",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "In this context, batteries remain the primary short- to medium-duration option, but their standalone use can be suboptimal under sharp solar and wind fluctuations or repetitive deep cycling ref [23], ref [40].",
+    "refNo": 40,
+    "title": "Sustainable siting and design optimization of hybrid renewable energy system: A geospatial multi-criteria analysis",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "Battery–supercapacitor combinations can decouple high-power transients from bulk energy provision, reducing battery stress, improving transient voltage support, and extending useful battery life in remote renewable systems ref [40], ref [23].",
+    "refNo": 40,
+    "title": "Sustainable siting and design optimization of hybrid renewable energy system: A geospatial multi-criteria analysis",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "Battery–supercapacitor combinations can decouple high-power transients from bulk energy provision, reducing battery stress, improving transient voltage support, and extending useful battery life in remote renewable systems ref [40], ref [23].",
+    "refNo": 23,
+    "title": "Design optimization of a hybrid system subject to reliability level and renewable energy penetration",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "For longer backup durations, hydrogen pathways—typically electrolyzer, storage tank, and fuel cell—offer seasonal or multi-day storage potential that conventional batteries struggle to provide economically at larger autonomy margins ref [19], ref [20].",
+    "refNo": 19,
+    "title": "Research overview of energy storage in renewable energy power fluctuation mitigation",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "For longer backup durations, hydrogen pathways—typically electrolyzer, storage tank, and fuel cell—offer seasonal or multi-day storage potential that conventional batteries struggle to provide economically at larger autonomy margins ref [19], ref [20].",
+    "refNo": 20,
+    "title": "Energy management for on-grid and off-grid wind/PV and battery hybrid systems",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Reviews of hydrogen-integrated hybrid systems further note that component sizing, conversion losses, and operational scheduling are decisive for overall feasibility, particularly when fuel cells are used to replace or reduce diesel dependence in isolated applications ref [19], ref [20].",
+    "refNo": 19,
+    "title": "Research overview of energy storage in renewable energy power fluctuation mitigation",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Reviews of hydrogen-integrated hybrid systems further note that component sizing, conversion losses, and operational scheduling are decisive for overall feasibility, particularly when fuel cells are used to replace or reduce diesel dependence in isolated applications ref [19], ref [20].",
+    "refNo": 20,
+    "title": "Energy management for on-grid and off-grid wind/PV and battery hybrid systems",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Optimization and techno-economic studies report that combining battery storage for fast balancing with hydrogen storage for long-duration backup can improve supply continuity while mitigating oversizing of either subsystem alone ref [29], ref [34].",
+    "refNo": 29,
+    "title": "Stochastic optimization of hybrid renewable energy systems using sampling average method",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Optimization and techno-economic studies report that combining battery storage for fast balancing with hydrogen storage for long-duration backup can improve supply continuity while mitigating oversizing of either subsystem alone ref [29], ref [34].",
+    "refNo": 34,
+    "title": "Modelling and optimization of an off-grid hybrid renewable energy system for electrification in a rural areas",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "However, the practicality of hydrogen in telecom towers depends strongly on electrolysis efficiency, water availability, and balance-of-plant complexity, making the choice of electrolyzer and hydrogen production route central to system design ref [35].",
+    "refNo": 35,
+    "title": "A review on biomass and wind as renewable energy for sustainable environment.",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "Overall, storage for telecom towers is moving toward layered architectures in which batteries handle daily cycling, supercapacitors absorb fast dynamics, and hydrogen provides extended resilience under prolonged renewable deficits ref [53], ref [23], ref [35].",
+    "refNo": 53,
+    "title": "Emergence of hybrid energy storage systems in renewable energy and transport applications – A review",
+    "marker_text": "[53]"
+  },
+  {
+    "sentence": "Overall, storage for telecom towers is moving toward layered architectures in which batteries handle daily cycling, supercapacitors absorb fast dynamics, and hydrogen provides extended resilience under prolonged renewable deficits ref [53], ref [23], ref [35].",
+    "refNo": 23,
+    "title": "Design optimization of a hybrid system subject to reliability level and renewable energy penetration",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Overall, storage for telecom towers is moving toward layered architectures in which batteries handle daily cycling, supercapacitors absorb fast dynamics, and hydrogen provides extended resilience under prolonged renewable deficits ref [53], ref [23], ref [35].",
+    "refNo": 35,
+    "title": "A review on biomass and wind as renewable energy for sustainable environment.",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "Reviews of renewable hybrid systems with hydrogen backup emphasize that this architecture improves autonomy and reduces diesel dependence, but requires careful supervisory control because electrolyzer, tank, and fuel-cell efficiencies and start-up constraints differ substantially from electrochemical batteries ref [9], ref [38].",
+    "refNo": 9,
+    "title": "Hybrid renewable energy systems for off-grid electric power: Review of substantial issues",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Reviews of renewable hybrid systems with hydrogen backup emphasize that this architecture improves autonomy and reduces diesel dependence, but requires careful supervisory control because electrolyzer, tank, and fuel-cell efficiencies and start-up constraints differ substantially from electrochemical batteries ref [9], ref [38].",
+    "refNo": 38,
+    "title": "Analysis of hybrid energy systems for application in southern Ghana",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Case studies of fully renewable stand-alone microgrids likewise show that PV-battery-hydrogen combinations can sustain continuous supply when short-term battery buffering is complemented by hydrogen for prolonged scarcity periods ref [26].",
+    "refNo": 26,
+    "title": "Measuring reliability of hybrid photovoltaic-wind energy systems: A new indicator",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "The hybrid-storage literature consistently reports improved dynamic response, reduced battery degradation, and better renewable utilization when power-sharing control is explicitly designed for stand-alone systems ref [11], ref [16].",
+    "refNo": 11,
+    "title": "Evaluation of approaches used for optimization of stand-alone hybrid renewable energy systems",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "The hybrid-storage literature consistently reports improved dynamic response, reduced battery degradation, and better renewable utilization when power-sharing control is explicitly designed for stand-alone systems ref [11], ref [16].",
+    "refNo": 16,
+    "title": "Techno-economic evaluation for hybrid renewable energy system: Application and merits",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Broader microgrid studies further indicate that integrating multiple renewable sources with hybrid storage can move systems closer to very high renewable fractions while maintaining supply continuity, although added component count increases control and sizing complexity ref [25].",
+    "refNo": 25,
+    "title": "A Comprehensive State-of-the-Art Survey on Hybrid Renewable Energy System Operations and Planning",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Non-isolated DC-DC converters are central for coupling PV arrays, batteries, fuel cells, and DC telecom loads because they enable voltage regulation, maximum power extraction, and bidirectional energy flow with high efficiency when properly controlled ref [65].",
+    "refNo": 65,
+    "title": "Optimal hybrid pumped hydro-battery storage scheme for off-grid renewable energy systems",
+    "marker_text": "[65]"
+  },
+  {
+    "sentence": "For systems considering alternative long-duration storage, optimization studies on hybrid pumped hydro-battery and hydrogen-assisted off-grid configurations underscore that converter selection and coordinated energy management are inseparable from storage sizing, since conversion losses and control bandwidth directly affect reliability and lifecycle cost ref [40], ref [38].",
+    "refNo": 40,
+    "title": "Sustainable siting and design optimization of hybrid renewable energy system: A geospatial multi-criteria analysis",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "For systems considering alternative long-duration storage, optimization studies on hybrid pumped hydro-battery and hydrogen-assisted off-grid configurations underscore that converter selection and coordinated energy management are inseparable from storage sizing, since conversion losses and control bandwidth directly affect reliability and lifecycle cost ref [40], ref [38].",
+    "refNo": 38,
+    "title": "Analysis of hybrid energy systems for application in southern Ghana",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "The literature consistently positions battery–supercapacitor combinations as an effective way to decouple energy and power functions: batteries provide bulk energy for multi-hour autonomy, whereas supercapacitors absorb short transients, start-up surges, and converter-induced ripple, thereby reducing battery stress and extending service life ref [21], ref [23].",
+    "refNo": 21,
+    "title": "A review of key functionalities of battery energy storage system in renewable energy integrated power systems",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "The literature consistently positions battery–supercapacitor combinations as an effective way to decouple energy and power functions: batteries provide bulk energy for multi-hour autonomy, whereas supercapacitors absorb short transients, start-up surges, and converter-induced ripple, thereby reducing battery stress and extending service life ref [21], ref [23].",
+    "refNo": 23,
+    "title": "Design optimization of a hybrid system subject to reliability level and renewable energy penetration",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "This division of roles is attractive for towers with sensitive DC loads and repeated cycling under partial-state-of-charge operation ref [26].",
+    "refNo": 26,
+    "title": "Measuring reliability of hybrid photovoltaic-wind energy systems: A new indicator",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "Comparative life-cycle studies show that battery/hydrogen architectures can outperform battery-only designs when long autonomy, seasonal mismatch, or high reliability targets dominate the design objective, although at the cost of greater balance-of-plant complexity ref [40].",
+    "refNo": 40,
+    "title": "Sustainable siting and design optimization of hybrid renewable energy system: A geospatial multi-criteria analysis",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "Fuel-cell–PV–battery–supercapacitor configurations further illustrate how multi-layered storage can combine fast response, medium-term buffering, and extended backup, provided that an appropriate supervisory energy management strategy coordinates charging priorities and mode transitions ref [12].",
+    "refNo": 12,
+    "title": "Performance evaluation of stand alone, grid connected and hybrid renewable energy systems for rural application: A comparative review",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Multiple-input and multi-port DC-DC converters offer a compact interface for PV, batteries, supercapacitors, and fuel cells, reducing conversion stages and enabling coordinated power sharing ref [18], ref [27].",
+    "refNo": 18,
+    "title": "A critical analysis on hybrid renewable energy modeling tools: An emerging opportunity to include social indicators to optimise systems in small communities",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Multiple-input and multi-port DC-DC converters offer a compact interface for PV, batteries, supercapacitors, and fuel cells, reducing conversion stages and enabling coordinated power sharing ref [18], ref [27].",
+    "refNo": 27,
+    "title": "Review on the state‐of‐the‐art multi‐objective optimisation of hybrid standalone/grid‐connected energy systems",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "For higher-power AC coupling or modular expansion, hybrid cascaded modular multilevel inverters provide scalable conversion with improved waveform quality and fault-tolerant potential in renewable environments ref [68].",
+    "refNo": 68,
+    "title": "A review of multiple input DC-DC converter topologies linked with hybrid electric vehicles and renewable energy systems",
+    "marker_text": "[68]"
+  },
+  {
+    "sentence": "For telecom towers, the practical implication is that storage reliability depends not only on chemistry selection but also on converter topology, control bandwidth, and system-level sizing optimization across heterogeneous storage technologies ref [26].",
+    "refNo": 26,
+    "title": "Measuring reliability of hybrid photovoltaic-wind energy systems: A new indicator",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "Overall, recent reviews on hybrid electrochemical storage emphasize that the most robust off-grid designs are those that jointly optimize storage mix, converter interface, and energy management rather than selecting a single storage technology in isolation ref [21], ref [23].",
+    "refNo": 21,
+    "title": "A review of key functionalities of battery energy storage system in renewable energy integrated power systems",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Overall, recent reviews on hybrid electrochemical storage emphasize that the most robust off-grid designs are those that jointly optimize storage mix, converter interface, and energy management rather than selecting a single storage technology in isolation ref [21], ref [23].",
+    "refNo": 23,
+    "title": "Design optimization of a hybrid system subject to reliability level and renewable energy penetration",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Battery energy storage systems contribute not only backup capacity, but also voltage support, ramp-rate control, transient smoothing, and power-quality improvement in renewable-integrated supply systems, making converter coordination central to tower availability under intermittent solar and wind inputs ref [17], ref [9].",
+    "refNo": 17,
+    "title": "Stand-alone hybrid energy systems for remote area power generation",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Battery energy storage systems contribute not only backup capacity, but also voltage support, ramp-rate control, transient smoothing, and power-quality improvement in renewable-integrated supply systems, making converter coordination central to tower availability under intermittent solar and wind inputs ref [17], ref [9].",
+    "refNo": 9,
+    "title": "Hybrid renewable energy systems for off-grid electric power: Review of substantial issues",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "For off-grid and weak-grid tower sites, these functions are typically implemented through coordinated DC/DC stages, bidirectional battery converters, and inverter units supervised by energy-management logic ref [13].",
+    "refNo": 13,
+    "title": "Optimal planning and design of hybrid renewable energy systems for microgrids",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Multilevel inverter families are particularly relevant for telecom applications that require compact, efficient, and high-quality AC output for auxiliary loads or hybrid AC/DC site architectures, since they can reduce filter size and improve waveform quality compared with conventional two-level structures ref [14].",
+    "refNo": 14,
+    "title": "Hybrid renewable power systems for mobile telephony base stations in developing countries",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Where multiple sources and storage paths coexist, hybrid AC/DC microgrid control becomes equally important; advanced nonlinear controllers such as integral terminal sliding mode approaches have been proposed to preserve bus-voltage regulation and robust power sharing in renewable-storage systems subject to disturbances and parameter uncertainty ref [31].",
+    "refNo": 31,
+    "title": "Techno-economic optimization analysis of stand-alone renewable energy system for remote areas",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "Studies on hybrid hydrogen-electric systems show that their energetic and exergetic performance depends heavily on how electricity is split between immediate load service, battery buffering, and hydrogen production/storage ref [11], ref [33].",
+    "refNo": 11,
+    "title": "Evaluation of approaches used for optimization of stand-alone hybrid renewable energy systems",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Studies on hybrid hydrogen-electric systems show that their energetic and exergetic performance depends heavily on how electricity is split between immediate load service, battery buffering, and hydrogen production/storage ref [11], ref [33].",
+    "refNo": 33,
+    "title": "A review on the complementarity of renewable energy sources: Concept, metrics, application and future research directions",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "More recent work on hybrid energy storage systems further indicates that combining high-energy and high-power devices can reduce cycling stress on batteries while improving fast-response support, but this benefit is realized only with converter-level coordination and hierarchical control ref [34].",
+    "refNo": 34,
+    "title": "Modelling and optimization of an off-grid hybrid renewable energy system for electrification in a rural areas",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "In telecom towers, therefore, the design problem is not storage alone, but an integrated storage–converter–controller architecture optimized for efficiency, autonomy, and reliability ref [13], ref [17].",
+    "refNo": 13,
+    "title": "Optimal planning and design of hybrid renewable energy systems for microgrids",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "In telecom towers, therefore, the design problem is not storage alone, but an integrated storage–converter–controller architecture optimized for efficiency, autonomy, and reliability ref [13], ref [17].",
+    "refNo": 17,
+    "title": "Stand-alone hybrid energy systems for remote area power generation",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Recent reviews emphasize that rule-based scheduling is increasingly complemented by stochastic and real-time strategies that account for renewable intermittency, state-of-charge constraints, and uncertainty in demand and weather forecasts, thereby reducing unmet load and excessive cycling of storage assets ref [81], ref [19].",
+    "refNo": 81,
+    "title": "Multi-criteria optimal sizing of hybrid renewable energy systems including wind, photovoltaic, battery, and hydrogen storage with ɛ-constraint method",
+    "marker_text": "[81]"
+  },
+  {
+    "sentence": "Recent reviews emphasize that rule-based scheduling is increasingly complemented by stochastic and real-time strategies that account for renewable intermittency, state-of-charge constraints, and uncertainty in demand and weather forecasts, thereby reducing unmet load and excessive cycling of storage assets ref [81], ref [19].",
+    "refNo": 19,
+    "title": "Research overview of energy storage in renewable energy power fluctuation mitigation",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "For remote tower applications, this coordination is especially important because power electronics and storage cannot be sized independently of the control logic that governs source prioritization and reserve margins ref [33], ref [36].",
+    "refNo": 33,
+    "title": "A review on the complementarity of renewable energy sources: Concept, metrics, application and future research directions",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "For remote tower applications, this coordination is especially important because power electronics and storage cannot be sized independently of the control logic that governs source prioritization and reserve margins ref [33], ref [36].",
+    "refNo": 36,
+    "title": "Review of solar photovoltaic and wind hybrid energy systems for sizing strategies optimization techniques and cost analysis methodologies",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "Reviews of power-to-X and hybrid battery–hydrogen systems show that batteries are generally better suited to short-term balancing and fast transient support, while hydrogen offers seasonal or multi-day backup despite lower round-trip efficiency; pumped hydro can be attractive where geography permits, but is typically less practical for telecom sites ref [78], ref [10].",
+    "refNo": 78,
+    "title": "The role of power-to-X in hybrid renewable energy systems: A comprehensive review",
+    "marker_text": "[78]"
+  },
+  {
+    "sentence": "Reviews of power-to-X and hybrid battery–hydrogen systems show that batteries are generally better suited to short-term balancing and fast transient support, while hydrogen offers seasonal or multi-day backup despite lower round-trip efficiency; pumped hydro can be attractive where geography permits, but is typically less practical for telecom sites ref [78], ref [10].",
+    "refNo": 10,
+    "title": "Techno-economic optimization of an off-grid hybrid renewable energy system using metaheuristic optimization approaches – Case of a radio transmitter station in India",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Multi-criteria sizing studies further indicate that the preferred mix depends on the trade-off among capital cost, reliability target, and fuel replacement objectives, making joint optimization of PV/wind generation, battery capacity, hydrogen storage, and converter ratings essential ref [17], ref [36].",
+    "refNo": 17,
+    "title": "Stand-alone hybrid energy systems for remote area power generation",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Multi-criteria sizing studies further indicate that the preferred mix depends on the trade-off among capital cost, reliability target, and fuel replacement objectives, making joint optimization of PV/wind generation, battery capacity, hydrogen storage, and converter ratings essential ref [17], ref [36].",
+    "refNo": 36,
+    "title": "Review of solar photovoltaic and wind hybrid energy systems for sizing strategies optimization techniques and cost analysis methodologies",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "Hourly dispatch formulations and optimum design frameworks consistently show that lifecycle performance improves when storage operation, converter loading, and renewable curtailment are co-optimized rather than treated sequentially ref [33], ref [36].",
+    "refNo": 33,
+    "title": "A review on the complementarity of renewable energy sources: Concept, metrics, application and future research directions",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "Hourly dispatch formulations and optimum design frameworks consistently show that lifecycle performance improves when storage operation, converter loading, and renewable curtailment are co-optimized rather than treated sequentially ref [33], ref [36].",
+    "refNo": 36,
+    "title": "Review of solar photovoltaic and wind hybrid energy systems for sizing strategies optimization techniques and cost analysis methodologies",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "This perspective is particularly relevant for next-generation towers seeking diesel-free operation, where robust supervisory control can extract greater reliability from hybrid storage portfolios while limiting oversizing and conversion losses ref [81], ref [19].",
+    "refNo": 81,
+    "title": "Multi-criteria optimal sizing of hybrid renewable energy systems including wind, photovoltaic, battery, and hydrogen storage with ɛ-constraint method",
+    "marker_text": "[81]"
+  },
+  {
+    "sentence": "This perspective is particularly relevant for next-generation towers seeking diesel-free operation, where robust supervisory control can extract greater reliability from hybrid storage portfolios while limiting oversizing and conversion losses ref [81], ref [19].",
+    "refNo": 19,
+    "title": "Research overview of energy storage in renewable energy power fluctuation mitigation",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Review studies consistently frame this as a techno-economic optimization problem in which component ratings are determined under resource variability, load uncertainty, and reliability targets such as loss-of-power-supply probability or unmet load limits ref [89], ref [16], ref [30].",
+    "refNo": 89,
+    "title": "Review of recent trends in optimization techniques for solar photovoltaic–wind based hybrid energy systems",
+    "marker_text": "[89]"
+  },
+  {
+    "sentence": "Review studies consistently frame this as a techno-economic optimization problem in which component ratings are determined under resource variability, load uncertainty, and reliability targets such as loss-of-power-supply probability or unmet load limits ref [89], ref [16], ref [30].",
+    "refNo": 16,
+    "title": "Techno-economic evaluation for hybrid renewable energy system: Application and merits",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Review studies consistently frame this as a techno-economic optimization problem in which component ratings are determined under resource variability, load uncertainty, and reliability targets such as loss-of-power-supply probability or unmet load limits ref [89], ref [16], ref [30].",
+    "refNo": 30,
+    "title": "Hybrid Renewable Energy Systems’ Optimisation. A Review and Extended Comparison of the Most-Used Software Tools",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "Simulation-based approaches remain dominant because they can represent hourly or sub-hourly renewable fluctuations, battery state evolution, and generator backup operation more realistically than purely deterministic calculations ref [90], ref [22].",
+    "refNo": 90,
+    "title": "A review on recent sizing methodologies of hybrid renewable energy systems",
+    "marker_text": "[90]"
+  },
+  {
+    "sentence": "Simulation-based approaches remain dominant because they can represent hourly or sub-hourly renewable fluctuations, battery state evolution, and generator backup operation more realistically than purely deterministic calculations ref [90], ref [22].",
+    "refNo": 22,
+    "title": "The impact of complementarity on power supply reliability of small scale hybrid energy systems",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "HOMER-based planning has been especially influential for screening feasible configurations and comparing net present cost, fuel consumption, and renewable fraction across candidate designs, although review articles note that its results are sensitive to input assumptions and predefined dispatch settings ref [9].",
+    "refNo": 9,
+    "title": "Hybrid renewable energy systems for off-grid electric power: Review of substantial issues",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Methodologically, the literature has moved from single-objective cost minimization toward multi-objective formulations that jointly consider reliability, emissions, and component aging, especially for PV-wind-battery stand-alone systems ref [11], ref [14].",
+    "refNo": 11,
+    "title": "Evaluation of approaches used for optimization of stand-alone hybrid renewable energy systems",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Methodologically, the literature has moved from single-objective cost minimization toward multi-objective formulations that jointly consider reliability, emissions, and component aging, especially for PV-wind-battery stand-alone systems ref [11], ref [14].",
+    "refNo": 14,
+    "title": "Hybrid renewable power systems for mobile telephony base stations in developing countries",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Recent reviews also emphasize that effective sizing should not be isolated from subsequent operational strategy, since dispatch logic and control assumptions materially change the optimal battery capacity, renewable penetration, and backup generator rating ref [16], ref [30].",
+    "refNo": 16,
+    "title": "Techno-economic evaluation for hybrid renewable energy system: Application and merits",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Recent reviews also emphasize that effective sizing should not be isolated from subsequent operational strategy, since dispatch logic and control assumptions materially change the optimal battery capacity, renewable penetration, and backup generator rating ref [16], ref [30].",
+    "refNo": 30,
+    "title": "Hybrid Renewable Energy Systems’ Optimisation. A Review and Extended Comparison of the Most-Used Software Tools",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "Comparative reviews show that hybrid system sizing is typically formulated as a constrained optimization problem balancing cost, reliability, renewable fraction, and component lifetime, with decision variables covering PV area, wind turbine rating, battery capacity, and backup generator size ref [17], ref [22], ref [23].",
+    "refNo": 17,
+    "title": "Stand-alone hybrid energy systems for remote area power generation",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Comparative reviews show that hybrid system sizing is typically formulated as a constrained optimization problem balancing cost, reliability, renewable fraction, and component lifetime, with decision variables covering PV area, wind turbine rating, battery capacity, and backup generator size ref [17], ref [22], ref [23].",
+    "refNo": 22,
+    "title": "The impact of complementarity on power supply reliability of small scale hybrid energy systems",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Comparative reviews show that hybrid system sizing is typically formulated as a constrained optimization problem balancing cost, reliability, renewable fraction, and component lifetime, with decision variables covering PV area, wind turbine rating, battery capacity, and backup generator size ref [17], ref [22], ref [23].",
+    "refNo": 23,
+    "title": "Design optimization of a hybrid system subject to reliability level and renewable energy penetration",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Studies report the application of genetic algorithms, particle swarm optimization, harmony search, and Jaya-based approaches for unit sizing and cost minimization in stand-alone hybrid systems ref [21], ref [39].",
+    "refNo": 21,
+    "title": "A review of key functionalities of battery energy storage system in renewable energy integrated power systems",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Studies report the application of genetic algorithms, particle swarm optimization, harmony search, and Jaya-based approaches for unit sizing and cost minimization in stand-alone hybrid systems ref [21], ref [39].",
+    "refNo": 39,
+    "title": "Techno-economic and environmental assessment of a hybrid renewable energy system using multi-objective genetic algorithm: A case study for remote Island in Bangladesh",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "In the specific context of radio or telecom stations, techno-economic optimization using metaheuristics has been shown to reduce lifecycle cost while preserving supply adequacy, reinforcing their suitability for remote off-grid tower deployment ref [15], ref [37].",
+    "refNo": 15,
+    "title": "Fossil Fuels Environmental Challenges and the Role of Solar Photovoltaic Technology Advances in Fast Tracking Hybrid Renewable Energy System",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "In the specific context of radio or telecom stations, techno-economic optimization using metaheuristics has been shown to reduce lifecycle cost while preserving supply adequacy, reinforcing their suitability for remote off-grid tower deployment ref [15], ref [37].",
+    "refNo": 37,
+    "title": "Design and analysis of a hybrid renewable energy plant with solar and wind power",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "Microgrid-oriented planning studies argue that optimal design depends on the assumed dispatch logic, reserve margin, and storage cycling policy ref [33].",
+    "refNo": 33,
+    "title": "A review on the complementarity of renewable energy sources: Concept, metrics, application and future research directions",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "Consequently, recent surveys recommend integrated design frameworks in which optimization simultaneously accounts for resource variability, load priority, battery management, and cost-analysis methodology, rather than treating sizing and energy management as separate tasks ref [22], ref [23], ref [17].",
+    "refNo": 22,
+    "title": "The impact of complementarity on power supply reliability of small scale hybrid energy systems",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Consequently, recent surveys recommend integrated design frameworks in which optimization simultaneously accounts for resource variability, load priority, battery management, and cost-analysis methodology, rather than treating sizing and energy management as separate tasks ref [22], ref [23], ref [17].",
+    "refNo": 23,
+    "title": "Design optimization of a hybrid system subject to reliability level and renewable energy penetration",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Consequently, recent surveys recommend integrated design frameworks in which optimization simultaneously accounts for resource variability, load priority, battery management, and cost-analysis methodology, rather than treating sizing and energy management as separate tasks ref [22], ref [23], ref [17].",
+    "refNo": 17,
+    "title": "Stand-alone hybrid energy systems for remote area power generation",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Economic predictive control has been used to jointly determine system capacities and dispatch decisions in standalone hybrid renewable systems, showing that sizing choices for PV, storage, and backup units are highly sensitive to anticipated operating policies and forecast quality ref [33].",
+    "refNo": 33,
+    "title": "A review on the complementarity of renewable energy sources: Concept, metrics, application and future research directions",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "For telecom towers, this integrated viewpoint is especially relevant because battery cycling cost, renewable curtailment, and backup fuel use are all strongly shaped by short-term dispatch logic rather than by static sizing alone ref [35].",
+    "refNo": 35,
+    "title": "A review on biomass and wind as renewable energy for sustainable environment.",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "Studies on fuel cell-photovoltaic-battery-supercapacitor architectures demonstrate that layered control can improve transient response, smooth renewable intermittency, and reduce stress on electrochemical storage by allocating fast fluctuations to supercapacitors and slower energy balancing to batteries or fuel cells ref [12].",
+    "refNo": 12,
+    "title": "Performance evaluation of stand alone, grid connected and hybrid renewable energy systems for rural application: A comparative review",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Although such configurations are broader than typical telecom systems, the same principle is applicable to tower power supplies that combine PV, batteries, diesel or fuel-cell backup, and possibly hybrid storage ref [35].",
+    "refNo": 35,
+    "title": "A review on biomass and wind as renewable energy for sustainable environment.",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "Artificial-neural-network-based energy prediction has been identified as a promising tool for improving dispatch anticipation in hybrid renewable systems ref [29], while machine-learning-based energy management frameworks further show how predictive models can support adaptive scheduling under variable charging or load conditions ref [9].",
+    "refNo": 29,
+    "title": "Stochastic optimization of hybrid renewable energy systems using sampling average method",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Artificial-neural-network-based energy prediction has been identified as a promising tool for improving dispatch anticipation in hybrid renewable systems ref [29], while machine-learning-based energy management frameworks further show how predictive models can support adaptive scheduling under variable charging or load conditions ref [9].",
+    "refNo": 9,
+    "title": "Hybrid renewable energy systems for off-grid electric power: Review of substantial issues",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "At a higher system level, multi-objective dispatch formulations explicitly balance cost, emissions, and renewable utilization under stochastic generation profiles ref [30].",
+    "refNo": 30,
+    "title": "Hybrid Renewable Energy Systems’ Optimisation. A Review and Extended Comparison of the Most-Used Software Tools",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "For renewable-powered telecom towers, these advances point toward forecast-aware, multi-objective controllers that can preserve reliability while lowering lifecycle cost and backup-fuel dependence ref [33], ref [35].",
+    "refNo": 33,
+    "title": "A review on the complementarity of renewable energy sources: Concept, metrics, application and future research directions",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "For renewable-powered telecom towers, these advances point toward forecast-aware, multi-objective controllers that can preserve reliability while lowering lifecycle cost and backup-fuel dependence ref [33], ref [35].",
+    "refNo": 35,
+    "title": "A review on biomass and wind as renewable energy for sustainable environment.",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "For hybrid PV/wind/battery systems, energy management frameworks are increasingly formulated to coordinate source dispatch, battery charging limits, and grid or backup interactions under both on-grid and off-grid conditions, with the objective of reducing operating cost while preserving supply continuity ref [13].",
+    "refNo": 13,
+    "title": "Optimal planning and design of hybrid renewable energy systems for microgrids",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Data-driven models for predicting hybrid PV-wind output improve the scheduling of storage utilization and reserve margins by converting short-term weather variability into actionable dispatch information ref [26].",
+    "refNo": 26,
+    "title": "Measuring reliability of hybrid photovoltaic-wind energy systems: A new indicator",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "At the device and converter level, advanced control methods such as integral terminal sliding mode control have been proposed for hybrid AC/DC microgrids with renewables and storage, offering faster regulation and stronger robustness against disturbances than conventional schemes ref [31].",
+    "refNo": 31,
+    "title": "Techno-economic optimization analysis of stand-alone renewable energy system for remote areas",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "In parallel, battery energy storage is no longer treated only as backup; its wider functionalities include power smoothing, peak support, frequency and voltage assistance, and operational flexibility, which directly affect dispatch policy design ref [17].",
+    "refNo": 17,
+    "title": "Stand-alone hybrid energy systems for remote area power generation",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Hybrid energy storage systems combining batteries with complementary media can decouple high-power transients from long-duration energy balancing, improving lifetime and dynamic performance under variable renewable input ref [34].",
+    "refNo": 34,
+    "title": "Modelling and optimization of an off-grid hybrid renewable energy system for electrification in a rural areas",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "Hydrogen-based pathways add another layer of temporal flexibility, allowing surplus renewable energy to be shifted beyond the short-term horizon addressed by batteries alone, although this typically increases control complexity and requires joint optimization of electrolysis, storage, and reconversion states ref [33].",
+    "refNo": 33,
+    "title": "A review on the complementarity of renewable energy sources: Concept, metrics, application and future research directions",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "Looking ahead, multi-agent deep reinforcement learning points toward decentralized energy management capable of coordinating distributed renewable assets, storage, and even local energy trading, which could be adapted to clustered telecom infrastructure and shared microgrid settings ref [39].",
+    "refNo": 39,
+    "title": "Techno-economic and environmental assessment of a hybrid renewable energy system using multi-objective genetic algorithm: A case study for remote Island in Bangladesh",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "The most promising strategies are those that explicitly couple uncertainty-aware prediction with real-time optimization across heterogeneous storage and power-conversion assets ref [13], ref [26], ref [34].",
+    "refNo": 13,
+    "title": "Optimal planning and design of hybrid renewable energy systems for microgrids",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "The most promising strategies are those that explicitly couple uncertainty-aware prediction with real-time optimization across heterogeneous storage and power-conversion assets ref [13], ref [26], ref [34].",
+    "refNo": 26,
+    "title": "Measuring reliability of hybrid photovoltaic-wind energy systems: A new indicator",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "The most promising strategies are those that explicitly couple uncertainty-aware prediction with real-time optimization across heterogeneous storage and power-conversion assets ref [13], ref [26], ref [34].",
+    "refNo": 34,
+    "title": "Modelling and optimization of an off-grid hybrid renewable energy system for electrification in a rural areas",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "Methods that embed the energy management strategy inside the sizing process show that battery, generator, and renewable capacities should be determined together rather than sequentially, since control assumptions materially affect autonomy, fuel use, and lifecycle cost ref [36], ref [33].",
+    "refNo": 36,
+    "title": "Review of solar photovoltaic and wind hybrid energy systems for sizing strategies optimization techniques and cost analysis methodologies",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "Methods that embed the energy management strategy inside the sizing process show that battery, generator, and renewable capacities should be determined together rather than sequentially, since control assumptions materially affect autonomy, fuel use, and lifecycle cost ref [36], ref [33].",
+    "refNo": 33,
+    "title": "A review on the complementarity of renewable energy sources: Concept, metrics, application and future research directions",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "Scenario-based formulations and sampling-average approaches capture renewable intermittency and load variability more realistically than deterministic averages, enabling solutions that are robust to forecast error and temporal mismatch between generation and demand ref [28], ref [21].",
+    "refNo": 28,
+    "title": "Dynamic environmental economic dispatch of hybrid renewable energy systems based on tradable green certificates",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Scenario-based formulations and sampling-average approaches capture renewable intermittency and load variability more realistically than deterministic averages, enabling solutions that are robust to forecast error and temporal mismatch between generation and demand ref [28], ref [21].",
+    "refNo": 21,
+    "title": "A review of key functionalities of battery energy storage system in renewable energy integrated power systems",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "For practical operation, dynamic decision models and real-time stochastic power management frameworks further support adaptive source scheduling, storage dispatch, and backup activation under changing operating states, which is especially relevant for remotely located telecom towers with limited maintenance access ref [9], ref [103].",
+    "refNo": 9,
+    "title": "Hybrid renewable energy systems for off-grid electric power: Review of substantial issues",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "For practical operation, dynamic decision models and real-time stochastic power management frameworks further support adaptive source scheduling, storage dispatch, and backup activation under changing operating states, which is especially relevant for remotely located telecom towers with limited maintenance access ref [9], ref [103].",
+    "refNo": 103,
+    "title": "A stochastic optimization approach to the design and operation planning of a hybrid renewable energy system",
+    "marker_text": "[103]"
+  },
+  {
+    "sentence": "Accurate horizon-ahead power forecasting can improve battery scheduling, reduce unnecessary diesel starts, and preserve reserve margins for critical telecom loads; advanced data-driven predictors, including hybrid graph-based and LSTM architectures, indicate the growing role of forecasting-informed energy management in hybrid systems ref [34].",
+    "refNo": 34,
+    "title": "Modelling and optimization of an off-grid hybrid renewable energy system for electrification in a rural areas",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "Overall, the literature points toward predictive, uncertainty-aware, and hourly dispatch-oriented management architectures as a key enabler for improving both reliability and techno-economic performance of renewable telecom tower power systems ref [33], ref [103].",
+    "refNo": 33,
+    "title": "A review on the complementarity of renewable energy sources: Concept, metrics, application and future research directions",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "Overall, the literature points toward predictive, uncertainty-aware, and hourly dispatch-oriented management architectures as a key enabler for improving both reliability and techno-economic performance of renewable telecom tower power systems ref [33], ref [103].",
+    "refNo": 103,
+    "title": "A stochastic optimization approach to the design and operation planning of a hybrid renewable energy system",
+    "marker_text": "[103]"
+  },
+  {
+    "sentence": "Reviews of hybrid renewable energy system design consistently show that optimal solutions emerge from balancing capital cost against fuel savings, unmet load, and replacement expenses, rather than minimizing initial cost alone ref [3], ref [16], ref [25].",
+    "refNo": 3,
+    "title": "A review of hybrid renewable energy systems in mini-grids for off-grid electrification in developing countries",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Reviews of hybrid renewable energy system design consistently show that optimal solutions emerge from balancing capital cost against fuel savings, unmet load, and replacement expenses, rather than minimizing initial cost alone ref [3], ref [16], ref [25].",
+    "refNo": 16,
+    "title": "Techno-economic evaluation for hybrid renewable energy system: Application and merits",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Reviews of hybrid renewable energy system design consistently show that optimal solutions emerge from balancing capital cost against fuel savings, unmet load, and replacement expenses, rather than minimizing initial cost alone ref [3], ref [16], ref [25].",
+    "refNo": 25,
+    "title": "A Comprehensive State-of-the-Art Survey on Hybrid Renewable Energy System Operations and Planning",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "HOMER remains the most widely discussed platform for such comparative analyses, although broader reviews note that tool choice affects how uncertainty, dispatch strategy, and multi-objective trade-offs are represented ref [85], ref [9].",
+    "refNo": 85,
+    "title": "Optimum design of hybrid renewable energy systems: Overview of different approaches",
+    "marker_text": "[85]"
+  },
+  {
+    "sentence": "HOMER remains the most widely discussed platform for such comparative analyses, although broader reviews note that tool choice affects how uncertainty, dispatch strategy, and multi-objective trade-offs are represented ref [85], ref [9].",
+    "refNo": 9,
+    "title": "Hybrid renewable energy systems for off-grid electric power: Review of substantial issues",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Complementary surveys on off-grid planning and mini-grid hybrid systems further emphasize that robust appraisal should integrate technical reliability with local deployment conditions such as logistics, maintenance capability, and demand growth, which are especially relevant for rural telecom towers ref [21], ref [22].",
+    "refNo": 21,
+    "title": "A review of key functionalities of battery energy storage system in renewable energy integrated power systems",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Complementary surveys on off-grid planning and mini-grid hybrid systems further emphasize that robust appraisal should integrate technical reliability with local deployment conditions such as logistics, maintenance capability, and demand growth, which are especially relevant for rural telecom towers ref [21], ref [22].",
+    "refNo": 22,
+    "title": "The impact of complementarity on power supply reliability of small scale hybrid energy systems",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Case-based evaluation across Nigerian regions, for example, illustrates how geographic and resource heterogeneity materially changes system economics, reinforcing the need for site-specific appraisal rather than uniform tower power strategies ref [37].",
+    "refNo": 37,
+    "title": "Design and analysis of a hybrid renewable energy plant with solar and wind power",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "Overall, for telecom tower deployment, the most credible techno-economic pathway is therefore a location-sensitive optimization framework that combines component sizing, dispatch modeling, and sensitivity analysis before environmental and implementation benefits are claimed ref [3], ref [25], ref [37].",
+    "refNo": 3,
+    "title": "A review of hybrid renewable energy systems in mini-grids for off-grid electrification in developing countries",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Overall, for telecom tower deployment, the most credible techno-economic pathway is therefore a location-sensitive optimization framework that combines component sizing, dispatch modeling, and sensitivity analysis before environmental and implementation benefits are claimed ref [3], ref [25], ref [37].",
+    "refNo": 25,
+    "title": "A Comprehensive State-of-the-Art Survey on Hybrid Renewable Energy System Operations and Planning",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Overall, for telecom tower deployment, the most credible techno-economic pathway is therefore a location-sensitive optimization framework that combines component sizing, dispatch modeling, and sensitivity analysis before environmental and implementation benefits are claimed ref [3], ref [25], ref [37].",
+    "refNo": 37,
+    "title": "Design and analysis of a hybrid renewable energy plant with solar and wind power",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "Reviews of hybrid distributed generation and stand-alone renewable systems show that cost minimization must be balanced against unmet load, excess electricity, storage cycling, and component replacement, making single-metric design approaches inadequate for remote telecom applications ref [22], ref [17].",
+    "refNo": 22,
+    "title": "The impact of complementarity on power supply reliability of small scale hybrid energy systems",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Reviews of hybrid distributed generation and stand-alone renewable systems show that cost minimization must be balanced against unmet load, excess electricity, storage cycling, and component replacement, making single-metric design approaches inadequate for remote telecom applications ref [22], ref [17].",
+    "refNo": 17,
+    "title": "Stand-alone hybrid energy systems for remote area power generation",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Comparative assessments of stand-alone, grid-connected, and hybrid systems further indicate that hybridization generally improves feasibility in weak-grid and off-grid settings by reducing diesel dependence while maintaining continuity of service ref [27], ref [33].",
+    "refNo": 27,
+    "title": "Review on the state‐of‐the‐art multi‐objective optimisation of hybrid standalone/grid‐connected energy systems",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "Comparative assessments of stand-alone, grid-connected, and hybrid systems further indicate that hybridization generally improves feasibility in weak-grid and off-grid settings by reducing diesel dependence while maintaining continuity of service ref [27], ref [33].",
+    "refNo": 33,
+    "title": "A review on the complementarity of renewable energy sources: Concept, metrics, application and future research directions",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "Surveys focused on sizing strategies and optimization techniques emphasize that deterministic, metaheuristic, and multi-objective methods are widely used, with the best choice depending on problem complexity, data quality, and computational burden ref [23], ref [17].",
+    "refNo": 23,
+    "title": "Design optimization of a hybrid system subject to reliability level and renewable energy penetration",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Surveys focused on sizing strategies and optimization techniques emphasize that deterministic, metaheuristic, and multi-objective methods are widely used, with the best choice depending on problem complexity, data quality, and computational burden ref [23], ref [17].",
+    "refNo": 17,
+    "title": "Stand-alone hybrid energy systems for remote area power generation",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "For telecom-like continuous loads, case evidence from a radio transmitter station in India shows that metaheuristic optimization can materially improve lifecycle cost and renewable fraction compared with non-optimized designs ref [15].",
+    "refNo": 15,
+    "title": "Fossil Fuels Environmental Challenges and the Role of Solar Photovoltaic Technology Advances in Fast Tracking Hybrid Renewable Energy System",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Earlier work focused specifically on mobile telephony base stations in developing countries likewise demonstrates that hybrid renewable systems can outperform diesel-only supply, particularly where fuel logistics are difficult and maintenance access is limited ref [37].",
+    "refNo": 37,
+    "title": "Design and analysis of a hybrid renewable energy plant with solar and wind power",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "Microgrid planning studies stress that planning horizons, modularity, and expansion capability should be embedded in the initial design to avoid stranded assets and oversizing ref [33].",
+    "refNo": 33,
+    "title": "A review on the complementarity of renewable energy sources: Concept, metrics, application and future research directions",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "Broader geographical assessments, including small-island analyses, reinforce that the economic attractiveness of renewable hybrids increases where imported fuel costs, transport risk, and environmental sensitivity are high—conditions that closely resemble many remote telecom tower locations ref [35].",
+    "refNo": 35,
+    "title": "A review on biomass and wind as renewable energy for sustainable environment.",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "Overall, the evidence suggests that scalable rollout requires not only favorable resource conditions, but also optimization frameworks that explicitly integrate cost, reliability, and implementation constraints ref [22], ref [27].",
+    "refNo": 22,
+    "title": "The impact of complementarity on power supply reliability of small scale hybrid energy systems",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Overall, the evidence suggests that scalable rollout requires not only favorable resource conditions, but also optimization frameworks that explicitly integrate cost, reliability, and implementation constraints ref [22], ref [27].",
+    "refNo": 27,
+    "title": "Review on the state‐of‐the‐art multi‐objective optimisation of hybrid standalone/grid‐connected energy systems",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "In this respect, sustainable siting and location-mapping frameworks based on GIS and multi-criteria decision-making provide a useful basis for tower planning beyond purely component-level optimization ref [108], ref [36].",
+    "refNo": 108,
+    "title": "Hybrid renewable energy supply for rural healthcare facilities: An approach to quality healthcare delivery",
+    "marker_text": "[108]"
+  },
+  {
+    "sentence": "In this respect, sustainable siting and location-mapping frameworks based on GIS and multi-criteria decision-making provide a useful basis for tower planning beyond purely component-level optimization ref [108], ref [36].",
+    "refNo": 36,
+    "title": "Review of solar photovoltaic and wind hybrid energy systems for sizing strategies optimization techniques and cost analysis methodologies",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "Comparative studies in Cameroon and Egypt show that PV-wind-fuel cell or other multi-source combinations can outperform single-source systems when reliability requirements are strict and seasonal variability is high, although the cost premium depends on storage and backup choices ref [13], ref [10].",
+    "refNo": 13,
+    "title": "Optimal planning and design of hybrid renewable energy systems for microgrids",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Comparative studies in Cameroon and Egypt show that PV-wind-fuel cell or other multi-source combinations can outperform single-source systems when reliability requirements are strict and seasonal variability is high, although the cost premium depends on storage and backup choices ref [13], ref [10].",
+    "refNo": 10,
+    "title": "Techno-economic optimization of an off-grid hybrid renewable energy system using metaheuristic optimization approaches – Case of a radio transmitter station in India",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Similar techno-economic assessments for rural settlements and residential microgrids also report that hybridization can reduce emissions and diesel dependence, but only when sizing is coordinated with realistic load profiles and long-term operating assumptions ref [22], ref [31].",
+    "refNo": 22,
+    "title": "The impact of complementarity on power supply reliability of small scale hybrid energy systems",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Similar techno-economic assessments for rural settlements and residential microgrids also report that hybridization can reduce emissions and diesel dependence, but only when sizing is coordinated with realistic load profiles and long-term operating assumptions ref [22], ref [31].",
+    "refNo": 31,
+    "title": "Techno-economic optimization analysis of stand-alone renewable energy system for remote areas",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "Critical reviews of hybrid-system modeling platforms note that many tools emphasize cost and energy metrics while underrepresenting social, institutional, and service-delivery indicators that are crucial in small and remote communities ref [37].",
+    "refNo": 37,
+    "title": "Design and analysis of a hybrid renewable energy plant with solar and wind power",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "Insights from healthcare electrification studies are relevant here: systems judged optimal on paper may fail in practice if maintainability, spare-parts access, and user priorities are ignored ref [111].",
+    "refNo": 111,
+    "title": "Hybrid Renewable Energy Microgrid for a Residential Community: A Techno-Economic and Environmental Perspective in the Context of the SDG7",
+    "marker_text": "[111]"
+  },
+  {
+    "sentence": "Comparative decision studies across multiple climate zones show that the least-cost choice is highly location-specific and depends on renewable resource quality, distance from existing networks, and required service reliability, making uniform rollout strategies ineffective ref [23].",
+    "refNo": 23,
+    "title": "Design optimization of a hybrid system subject to reliability level and renewable energy penetration",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Case studies from Peru, Morocco, and Northern Nigeria similarly indicate that PV/wind/battery or PV/wind/battery/diesel combinations can outperform conventional diesel supply when transport costs, fuel volatility, and long-term operation are properly internalized ref [25], ref [27], ref [18].",
+    "refNo": 25,
+    "title": "A Comprehensive State-of-the-Art Survey on Hybrid Renewable Energy System Operations and Planning",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Case studies from Peru, Morocco, and Northern Nigeria similarly indicate that PV/wind/battery or PV/wind/battery/diesel combinations can outperform conventional diesel supply when transport costs, fuel volatility, and long-term operation are properly internalized ref [25], ref [27], ref [18].",
+    "refNo": 27,
+    "title": "Review on the state‐of‐the‐art multi‐objective optimisation of hybrid standalone/grid‐connected energy systems",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "Case studies from Peru, Morocco, and Northern Nigeria similarly indicate that PV/wind/battery or PV/wind/battery/diesel combinations can outperform conventional diesel supply when transport costs, fuel volatility, and long-term operation are properly internalized ref [25], ref [27], ref [18].",
+    "refNo": 18,
+    "title": "A critical analysis on hybrid renewable energy modeling tools: An emerging opportunity to include social indicators to optimise systems in small communities",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Optimization studies demonstrate that higher renewable penetration is desirable, but only up to the point where added storage and generation capacity do not disproportionately increase lifecycle cost ref [32].",
+    "refNo": 32,
+    "title": "Technical and economic analysis of different configurations of stand-alone hybrid renewable power systems – A case study",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "Source complementarity between solar and wind improves supply continuity and reduces storage stress, which is especially relevant for telecom towers requiring near-continuous operation with limited maintenance access ref [22].",
+    "refNo": 22,
+    "title": "The impact of complementarity on power supply reliability of small scale hybrid energy systems",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "This effect is reinforced by site-specific sizing work showing that demographic and demand-growth factors should be included alongside meteorological inputs, since tower load evolution and local service uptake influence the optimal balance among PV, wind, batteries, and diesel backup ref [40].",
+    "refNo": 40,
+    "title": "Sustainable siting and design optimization of hybrid renewable energy system: A geospatial multi-criteria analysis",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "Feasibility assessments in remote sites emphasize that renewable-dominant systems reduce fuel logistics and emissions, but successful deployment still requires modular designs, maintainable component choices, and planning methods robust to uncertain demand and resource variability ref [27], ref [18].",
+    "refNo": 27,
+    "title": "Review on the state‐of‐the‐art multi‐objective optimisation of hybrid standalone/grid‐connected energy systems",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "Feasibility assessments in remote sites emphasize that renewable-dominant systems reduce fuel logistics and emissions, but successful deployment still requires modular designs, maintainable component choices, and planning methods robust to uncertain demand and resource variability ref [27], ref [18].",
+    "refNo": 18,
+    "title": "A critical analysis on hybrid renewable energy modeling tools: An emerging opportunity to include social indicators to optimise systems in small communities",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "For telecom operators, this implies that scalable deployment is most credible when techno-economic optimization is coupled with context-sensitive planning criteria rather than purely component-level cost minimization ref [23], ref [25], ref [40].",
+    "refNo": 23,
+    "title": "Design optimization of a hybrid system subject to reliability level and renewable energy penetration",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "For telecom operators, this implies that scalable deployment is most credible when techno-economic optimization is coupled with context-sensitive planning criteria rather than purely component-level cost minimization ref [23], ref [25], ref [40].",
+    "refNo": 25,
+    "title": "A Comprehensive State-of-the-Art Survey on Hybrid Renewable Energy System Operations and Planning",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "For telecom operators, this implies that scalable deployment is most credible when techno-economic optimization is coupled with context-sensitive planning criteria rather than purely component-level cost minimization ref [23], ref [25], ref [40].",
+    "refNo": 40,
+    "title": "Sustainable siting and design optimization of hybrid renewable energy system: A geospatial multi-criteria analysis",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "Surveys on hybrid renewable energy system operations and planning show that robust implementation requires the joint treatment of resource uncertainty, load variability, storage behavior, and lifecycle cost rather than single-point deterministic design assumptions ref [28], ref [21].",
+    "refNo": 28,
+    "title": "Dynamic environmental economic dispatch of hybrid renewable energy systems based on tradable green certificates",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Surveys on hybrid renewable energy system operations and planning show that robust implementation requires the joint treatment of resource uncertainty, load variability, storage behavior, and lifecycle cost rather than single-point deterministic design assumptions ref [28], ref [21].",
+    "refNo": 21,
+    "title": "A review of key functionalities of battery energy storage system in renewable energy integrated power systems",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "For telecom towers in rural and remote areas, this implies that replication-ready solutions should be based on probabilistic resource assessment, modular architectures, and dispatch strategies that can tolerate seasonal fluctuations without excessive diesel backup ref [16], ref [26].",
+    "refNo": 16,
+    "title": "Techno-economic evaluation for hybrid renewable energy system: Application and merits",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "For telecom towers in rural and remote areas, this implies that replication-ready solutions should be based on probabilistic resource assessment, modular architectures, and dispatch strategies that can tolerate seasonal fluctuations without excessive diesel backup ref [16], ref [26].",
+    "refNo": 26,
+    "title": "Measuring reliability of hybrid photovoltaic-wind energy systems: A new indicator",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "Comparative reviews of optimisation tools indicate that platforms such as HOMER are widely used because they allow rapid comparison of PV-wind-battery-diesel options under cost, reliability, and emissions constraints, although results remain sensitive to input data quality and model assumptions ref [24].",
+    "refNo": 24,
+    "title": "Recent Advances in Hybrid Energy Storage System Integrated Renewable Power Generation: Configuration, Control, Applications, and Future Directions",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Case-oriented techno-economic studies further show that configuration choice is strongly site-specific: renewable-storage hybrids become more attractive where fuel logistics are expensive and maintenance access is limited, while oversized systems can erode project viability despite high renewable penetration ref [35], ref [30].",
+    "refNo": 35,
+    "title": "A review on biomass and wind as renewable energy for sustainable environment.",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "Case-oriented techno-economic studies further show that configuration choice is strongly site-specific: renewable-storage hybrids become more attractive where fuel logistics are expensive and maintenance access is limited, while oversized systems can erode project viability despite high renewable penetration ref [35], ref [30].",
+    "refNo": 30,
+    "title": "Hybrid Renewable Energy Systems’ Optimisation. A Review and Extended Comparison of the Most-Used Software Tools",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "At the policy and business level, environmental dispatch frameworks suggest that market-based mechanisms, including green incentives and carbon-related signals, can materially improve the competitiveness of cleaner hybrid systems against diesel-dominated operation ref [18].",
+    "refNo": 18,
+    "title": "A critical analysis on hybrid renewable energy modeling tools: An emerging opportunity to include social indicators to optimise systems in small communities",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Accordingly, accelerated rollout of telecom tower decarbonization is likely to require a combination of optimization-based design, context-aware investment appraisal, local service capability, and supportive regulatory instruments that value both avoided emissions and reduced fuel dependence ref [16], ref [30], ref [35].",
+    "refNo": 16,
+    "title": "Techno-economic evaluation for hybrid renewable energy system: Application and merits",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Accordingly, accelerated rollout of telecom tower decarbonization is likely to require a combination of optimization-based design, context-aware investment appraisal, local service capability, and supportive regulatory instruments that value both avoided emissions and reduced fuel dependence ref [16], ref [30], ref [35].",
+    "refNo": 30,
+    "title": "Hybrid Renewable Energy Systems’ Optimisation. A Review and Extended Comparison of the Most-Used Software Tools",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "Accordingly, accelerated rollout of telecom tower decarbonization is likely to require a combination of optimization-based design, context-aware investment appraisal, local service capability, and supportive regulatory instruments that value both avoided emissions and reduced fuel dependence ref [16], ref [30], ref [35].",
+    "refNo": 35,
+    "title": "A review on biomass and wind as renewable energy for sustainable environment.",
+    "marker_text": "[35]"
+  }
+]

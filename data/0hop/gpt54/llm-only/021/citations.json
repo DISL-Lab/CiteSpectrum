@@ -1,0 +1,1067 @@
+[
+  {
+    "sentence": "As central-place foragers during breeding, many seals and sea lions must balance travel, prey search, and repeated returns to haul-out or colony sites, so observed tracks reflect both energetic decisions and reproductive constraints rather than prey capture alone ref [1].",
+    "refNo": 1,
+    "title": "The influence of central-place foraging on the foraging behavior of pinnipeds"
+  },
+  {
+    "sentence": "Area-restricted search has often been treated as a signature of profitable feeding, yet its relationship to actual prey intake can be weak or context dependent, especially in marine predators exploiting patchy and mobile prey fields ref [2], ref [3].",
+    "refNo": 2,
+    "title": "Identifying Area-Restricted Search in Movement Data Using First-Passage Time"
+  },
+  {
+    "sentence": "Area-restricted search has often been treated as a signature of profitable feeding, yet its relationship to actual prey intake can be weak or context dependent, especially in marine predators exploiting patchy and mobile prey fields ref [2], ref [3].",
+    "refNo": 3,
+    "title": "Mean shift gradient analysis for the identification of foraging behaviour from movement tracks"
+  },
+  {
+    "sentence": "Similarly, dive shape, bottom time, or vertical sinuosity may indicate searching or exploitation, but these proxies can also reflect transit, exploration, predator avoidance, or physiological constraints ref [4], ref [5].",
+    "refNo": 4,
+    "title": "Use of time-depth recorders and other biotelemetry devices to study diving behavior in free-ranging animals"
+  },
+  {
+    "sentence": "Similarly, dive shape, bottom time, or vertical sinuosity may indicate searching or exploitation, but these proxies can also reflect transit, exploration, predator avoidance, or physiological constraints ref [4], ref [5].",
+    "refNo": 5,
+    "title": "What is a dive? Movement characteristics in foraging blue whales suggest abrupt prey encounter and predict dive kinematics"
+  },
+  {
+    "sentence": "Studies combining movement with stomach temperature, jaw acceleration, or fine-scale kinematics show that no single proxy universally maps onto prey capture, and that interpretation must be species-, habitat-, and scale-specific ref [6], ref [7].",
+    "refNo": 6,
+    "title": "How Quickly Can Skipjack Tuna Jump on Board? Estimating Feeding Events of Marine Predators from Acceleration Data"
+  },
+  {
+    "sentence": "Studies combining movement with stomach temperature, jaw acceleration, or fine-scale kinematics show that no single proxy universally maps onto prey capture, and that interpretation must be species-, habitat-, and scale-specific ref [6], ref [7].",
+    "refNo": 7,
+    "title": "Validation of dive foraging indices using archived acceleration data from northern elephant seals"
+  },
+  {
+    "sentence": "The statistical concept of a state therefore does not map one-to-one onto a biological act, but represents a probabilistic summary of processes operating at the scale of the sensor record ref [8], ref [9].",
+    "refNo": 8,
+    "title": "Identifying behavioural states from movement data using hidden Markov models"
+  },
+  {
+    "sentence": "The statistical concept of a state therefore does not map one-to-one onto a biological act, but represents a probabilistic summary of processes operating at the scale of the sensor record ref [8], ref [9].",
+    "refNo": 9,
+    "title": "Switching state-space models reveal behavioral states from animal movement"
+  },
+  {
+    "sentence": "Empirical work combining movement records with dive behaviour and prey-capture proxies has shown that putative “foraging” states are heterogeneous mixtures of searching and feeding-related sub-processes rather than direct observations of ingestion ref [10], ref [11].",
+    "refNo": 10,
+    "title": "More than counting pixels: Identifying and quantifying complex movement patterns using hidden Markov models"
+  },
+  {
+    "sentence": "Empirical work combining movement records with dive behaviour and prey-capture proxies has shown that putative “foraging” states are heterogeneous mixtures of searching and feeding-related sub-processes rather than direct observations of ingestion ref [10], ref [11].",
+    "refNo": 11,
+    "title": "A hidden Markov model for identifying behavioural states from animal movement data"
+  },
+  {
+    "sentence": "This has motivated state-space and hidden Markov approaches that treat states as useful abstractions while acknowledging uncertainty in their biological labels ref [12], ref [13].",
+    "refNo": 12,
+    "title": "State-space models for animal movement"
+  },
+  {
+    "sentence": "This has motivated state-space and hidden Markov approaches that treat states as useful abstractions while acknowledging uncertainty in their biological labels ref [12], ref [13].",
+    "refNo": 13,
+    "title": "A review of hidden Markov models and extensions for animal movement"
+  },
+  {
+    "sentence": "The result is a more cautious view in which behavioural states are best understood as scale- and data-dependent indicators of likely foraging opportunity, not definitive measures of prey capture ref [14].",
+    "refNo": 14,
+    "title": "Biologging science: logging and relaying physical and biological data using animal-attached tags"
+  },
+  {
+    "sentence": "A central idea is that area-restricted search, expressed as reduced speed and increased turning, can signal local exploitation of profitable patches, although such patterns are not uniquely diagnostic of feeding and may also reflect resting, social interactions, or oceanographic constraints ref [15], ref [16].",
+    "refNo": 15,
+    "title": "The fractal landscape method: an alternative approach to measuring area-restricted searching as a test of the concentration of food in patches"
+  },
+  {
+    "sentence": "A central idea is that area-restricted search, expressed as reduced speed and increased turning, can signal local exploitation of profitable patches, although such patterns are not uniquely diagnostic of feeding and may also reflect resting, social interactions, or oceanographic constraints ref [15], ref [16].",
+    "refNo": 16,
+    "title": "Identifying hunting behaviour from the three-dimensional movements of marine predators"
+  },
+  {
+    "sentence": "Validation studies that pair conventional tracks and dives with onboard sensors show that prey-capture attempts are often associated with fine-scale kinematic events, such as rapid head or body accelerations, that are only imperfectly represented in low-resolution location and dive data ref [17], ref [18].",
+    "refNo": 17,
+    "title": "Prey capture attempts and feeding success in a marine predator: insights from simultaneous high-resolution accelerometry and video camera deployments"
+  },
+  {
+    "sentence": "Validation studies that pair conventional tracks and dives with onboard sensors show that prey-capture attempts are often associated with fine-scale kinematic events, such as rapid head or body accelerations, that are only imperfectly represented in low-resolution location and dive data ref [17], ref [18].",
+    "refNo": 18,
+    "title": "Can we infer prey capture success from dive behaviour? A validation study with animal-borne video and accelerometers"
+  },
+  {
+    "sentence": "Integrative frameworks that combine horizontal movement, dive metrics, and higher-frequency biologging signals have therefore become important for quantifying uncertainty and identifying when broad-scale proxies succeed or fail as indicators of true foraging effort ref [19], ref [20].",
+    "refNo": 19,
+    "title": "The use of tri-axial accelerometers to identify prey capture attempts in marine predators: a systematic review"
+  },
+  {
+    "sentence": "Integrative frameworks that combine horizontal movement, dive metrics, and higher-frequency biologging signals have therefore become important for quantifying uncertainty and identifying when broad-scale proxies succeed or fail as indicators of true foraging effort ref [19], ref [20].",
+    "refNo": 20,
+    "title": "A hidden Markov model for identifying behavioural states from animal movement"
+  },
+  {
+    "sentence": "Because most bio-logging records sample movement and diving at coarser resolutions than prey capture itself, observed path tortuosity or dive shape often integrates multiple underlying processes rather than a single feeding decision ref [21], ref [22].",
+    "refNo": 21,
+    "title": "Marine predators algorithmically reveal hidden patterns in behavior"
+  },
+  {
+    "sentence": "Because most bio-logging records sample movement and diving at coarser resolutions than prey capture itself, observed path tortuosity or dive shape often integrates multiple underlying processes rather than a single feeding decision ref [21], ref [22].",
+    "refNo": 22,
+    "title": "Identifying Area-Restricted Search Behaviour from Animal-Borne Global Positioning System Data Using a First-Passage Time Approach"
+  },
+  {
+    "sentence": "First-passage and related analyses show that the apparent scale of search can shift with the grain of location data and with the hierarchical structure of movement, making state boundaries partly an observational artefact ref [23], ref [24].",
+    "refNo": 23,
+    "title": "Scale-dependent habitat use in a long-ranging central place predator"
+  },
+  {
+    "sentence": "First-passage and related analyses show that the apparent scale of search can shift with the grain of location data and with the hierarchical structure of movement, making state boundaries partly an observational artefact ref [23], ref [24].",
+    "refNo": 24,
+    "title": "First-passage time analysis of animal movements and foraging theory"
+  },
+  {
+    "sentence": "In marine predators, vertical behaviour adds a second axis of scale: dive cycles reflect oxygen management, prey-field depth, and patch persistence, so the same individual may exhibit fine-scale prey chasing within broader mesoscale habitat selection ref [25].",
+    "refNo": 25,
+    "title": "A standard protocol for the collection and analysis of behaviour data from animal-borne sensors: a case study for detecting foraging behaviour in free-ranging marine predators"
+  },
+  {
+    "sentence": "More generally, scale-aware frameworks caution against treating any single proxy as universally valid and encourage multi-sensor, hierarchical interpretations that connect prey capture, patch use, and landscape movement across nested levels of organization ref [21], ref [25], ref [26].",
+    "refNo": 21,
+    "title": "Marine predators algorithmically reveal hidden patterns in behavior"
+  },
+  {
+    "sentence": "More generally, scale-aware frameworks caution against treating any single proxy as universally valid and encourage multi-sensor, hierarchical interpretations that connect prey capture, patch use, and landscape movement across nested levels of organization ref [21], ref [25], ref [26].",
+    "refNo": 25,
+    "title": "A standard protocol for the collection and analysis of behaviour data from animal-borne sensors: a case study for detecting foraging behaviour in free-ranging marine predators"
+  },
+  {
+    "sentence": "More generally, scale-aware frameworks caution against treating any single proxy as universally valid and encourage multi-sensor, hierarchical interpretations that connect prey capture, patch use, and landscape movement across nested levels of organization ref [21], ref [25], ref [26].",
+    "refNo": 26,
+    "title": "Hierarchical responses of marine predators to prey and habitat"
+  },
+  {
+    "sentence": "Argos enabled basin-scale tracking of wide-ranging seals but is characterized by irregular sampling and location errors that can be large and anisotropic, especially for low-quality classes and short surfacing events ref [27], ref [28].",
+    "refNo": 27,
+    "title": "Argos location accuracy: the influence of message frequency and length"
+  },
+  {
+    "sentence": "Argos enabled basin-scale tracking of wide-ranging seals but is characterized by irregular sampling and location errors that can be large and anisotropic, especially for low-quality classes and short surfacing events ref [27], ref [28].",
+    "refNo": 28,
+    "title": "A review of Argos satellite telemetry and data-processing methods for animal tracking"
+  },
+  {
+    "sentence": "Fastloc-GPS can obtain positions rapidly during short surfacings and has been shown to outperform Argos in accuracy, although retained errors, missed fixes, and habitat-dependent biases remain important in high-latitude or complex coastal settings ref [29], ref [30].",
+    "refNo": 29,
+    "title": "An advanced, low-cost, GPS-based wildlife tracking system"
+  },
+  {
+    "sentence": "Fastloc-GPS can obtain positions rapidly during short surfacings and has been shown to outperform Argos in accuracy, although retained errors, missed fixes, and habitat-dependent biases remain important in high-latitude or complex coastal settings ref [29], ref [30].",
+    "refNo": 30,
+    "title": "Accuracy and performance of Fastloc GPS locations collected by a wildlife tracking collar"
+  },
+  {
+    "sentence": "When GPS duty cycling is sparse, state-space and switching state-space models are commonly used to regularize tracks, estimate uncertainty, and infer movement behaviour while accounting for observation error and temporal irregularity ref [31], ref [32].",
+    "refNo": 31,
+    "title": "Bayesian state-space models for animal movement"
+  },
+  {
+    "sentence": "When GPS duty cycling is sparse, state-space and switching state-space models are commonly used to regularize tracks, estimate uncertainty, and infer movement behaviour while accounting for observation error and temporal irregularity ref [31], ref [32].",
+    "refNo": 32,
+    "title": "Hierarchical switching state-space model for estimating movement and behavioral states from telemetry data"
+  },
+  {
+    "sentence": "Across platforms, uncertainty should be propagated explicitly through filtering, error-aware movement models, and validation against known locations or higher-accuracy tags to avoid overinterpretation of apparent tortuosity, residency, or habitat selection ref [28], ref [31], ref [33].",
+    "refNo": 28,
+    "title": "A review of Argos satellite telemetry and data-processing methods for animal tracking"
+  },
+  {
+    "sentence": "Across platforms, uncertainty should be propagated explicitly through filtering, error-aware movement models, and validation against known locations or higher-accuracy tags to avoid overinterpretation of apparent tortuosity, residency, or habitat selection ref [28], ref [31], ref [33].",
+    "refNo": 31,
+    "title": "Bayesian state-space models for animal movement"
+  },
+  {
+    "sentence": "Across platforms, uncertainty should be propagated explicitly through filtering, error-aware movement models, and validation against known locations or higher-accuracy tags to avoid overinterpretation of apparent tortuosity, residency, or habitat selection ref [28], ref [31], ref [33].",
+    "refNo": 33,
+    "title": "Animal telemetry: an integral component of the research and management toolbox"
+  },
+  {
+    "sentence": "Time–depth recorders and satellite-relayed dive summaries typically quantify dive start and end time, maximum depth, duration, post-dive interval, and the proportion of time spent within depth bins, enabling inference on activity budgets, foraging effort, and access to stratified prey fields ref [34], ref [35].",
+    "refNo": 34,
+    "title": "Diving behaviour of pinnipeds: areview of physiological and ecological constraints"
+  },
+  {
+    "sentence": "Time–depth recorders and satellite-relayed dive summaries typically quantify dive start and end time, maximum depth, duration, post-dive interval, and the proportion of time spent within depth bins, enabling inference on activity budgets, foraging effort, and access to stratified prey fields ref [34], ref [35].",
+    "refNo": 35,
+    "title": "The diving behaviour of southern elephant seals, Mirounga leonina"
+  },
+  {
+    "sentence": "Common metrics include descent and ascent rates, bottom time, bottom variance, number of wiggles or inflection points, and shape classes such as V-, U-, and W-shaped dives, all of which have been used as proxies for prey encounter processes and search intensity ref [36], ref [37].",
+    "refNo": 36,
+    "title": "Variations in the dive behaviour of northern elephant seals with relative prey abundance"
+  },
+  {
+    "sentence": "Common metrics include descent and ascent rates, bottom time, bottom variance, number of wiggles or inflection points, and shape classes such as V-, U-, and W-shaped dives, all of which have been used as proxies for prey encounter processes and search intensity ref [36], ref [37].",
+    "refNo": 37,
+    "title": "Classification of Weddell seal diving behaviour"
+  },
+  {
+    "sentence": "Drift dives are particularly informative because changes in passive sinking rate can index body condition and lipid stores, providing a rare link between movement behaviour and physiological state in free-ranging elephant seals ref [38].",
+    "refNo": 38,
+    "title": "How do elephant seals retrieve their highly depleted lipid stores?"
+  },
+  {
+    "sentence": "Integrating accelerometry or jaw-motion sensors has shown that prey encounter events may be distributed across descent, bottom, and ascent segments, refining the behavioural meaning of classical dive descriptors ref [39], ref [40].",
+    "refNo": 39,
+    "title": "Prey encounter rate and fine-scale movement of southern elephant seals"
+  },
+  {
+    "sentence": "Integrating accelerometry or jaw-motion sensors has shown that prey encounter events may be distributed across descent, bottom, and ascent segments, refining the behavioural meaning of classical dive descriptors ref [39], ref [40].",
+    "refNo": 40,
+    "title": "Hydroacoustic and acceleration signatures of prey capture attempts in elephant seals"
+  },
+  {
+    "sentence": "Accelerometers and magnetometers permit dead-reckoning and behavioural classification, and have been used to identify prey capture attempts, stroke patterns, and fine-scale body posture that are not visible in Argos or summary dive records alone ref [41], ref [42].",
+    "refNo": 41,
+    "title": "Using tri-axial accelerometers to identify wild marine mammals' behavior"
+  },
+  {
+    "sentence": "Accelerometers and magnetometers permit dead-reckoning and behavioural classification, and have been used to identify prey capture attempts, stroke patterns, and fine-scale body posture that are not visible in Argos or summary dive records alone ref [41], ref [42].",
+    "refNo": 42,
+    "title": "Dead-reckoning elucidates fine-scale habitat use by European badgers Meles meles"
+  },
+  {
+    "sentence": "Crittercam and related camera systems have revealed prey type, attack tactics, and habitat use in free-ranging pinnipeds, while jaw-motion, stomach-temperature, and acoustic sensors provide complementary proxies for ingestion and foraging success ref [43], ref [44].",
+    "refNo": 43,
+    "title": "Crittercam reveals an atmospheric mode of prey capture in the king penguin"
+  },
+  {
+    "sentence": "Crittercam and related camera systems have revealed prey type, attack tactics, and habitat use in free-ranging pinnipeds, while jaw-motion, stomach-temperature, and acoustic sensors provide complementary proxies for ingestion and foraging success ref [43], ref [44].",
+    "refNo": 44,
+    "title": "Animal-borne imaging reveals novel insights into the foraging behaviour and ecology of marine animals"
+  },
+  {
+    "sentence": "Data synchronization, calibration drift, and the need for species-specific validation remain important constraints, particularly for machine-learning classifiers trained on accelerometry or video-labelled events ref [45], ref [46].",
+    "refNo": 45,
+    "title": "Inferring animal behavior from location and movement data using hidden Markov models"
+  },
+  {
+    "sentence": "Data synchronization, calibration drift, and the need for species-specific validation remain important constraints, particularly for machine-learning classifiers trained on accelerometry or video-labelled events ref [45], ref [46].",
+    "refNo": 46,
+    "title": "Machine learning for animal behaviour classification from accelerometry data: a review"
+  },
+  {
+    "sentence": "These issues motivate explicit consideration of representativeness, repeated deployments across seasons and life-history stages, and analytical treatment of uneven observation windows when scaling from individuals to populations ref [47], ref [48].",
+    "refNo": 47,
+    "title": "Bio-logging science: Logging and relaying physical and biological data using animal-attached tags"
+  },
+  {
+    "sentence": "These issues motivate explicit consideration of representativeness, repeated deployments across seasons and life-history stages, and analytical treatment of uneven observation windows when scaling from individuals to populations ref [47], ref [48].",
+    "refNo": 48,
+    "title": "A review of methods used to estimate survival of seals from flipper tags"
+  },
+  {
+    "sentence": "Experimental and comparative work on instrumented marine vertebrates has shown that tag shape, frontal area, and placement influence swimming costs, while review syntheses for penguins and seals emphasize that even small devices may affect trip duration, dive performance, or breeding success if attachment protocols are poor ref [49], ref [50].",
+    "refNo": 49,
+    "title": "How much does a logger disturb the diving behaviour of penguins?"
+  },
+  {
+    "sentence": "Experimental and comparative work on instrumented marine vertebrates has shown that tag shape, frontal area, and placement influence swimming costs, while review syntheses for penguins and seals emphasize that even small devices may affect trip duration, dive performance, or breeding success if attachment protocols are poor ref [49], ref [50].",
+    "refNo": 50,
+    "title": "Assessing the impact of externally attached devices on the diving behaviour of marine animals"
+  },
+  {
+    "sentence": "Guidelines from field and laboratory studies stress that attachment procedures, handling duration, and recovery monitoring should be integrated into study design alongside data needs, with careful reporting to enable assessment of potential bias and animal impacts ref [51], ref [52].",
+    "refNo": 51,
+    "title": "Guidelines for the treatment of animals in behavioural research and teaching"
+  },
+  {
+    "sentence": "Guidelines from field and laboratory studies stress that attachment procedures, handling duration, and recovery monitoring should be integrated into study design alongside data needs, with careful reporting to enable assessment of potential bias and animal impacts ref [51], ref [52].",
+    "refNo": 52,
+    "title": "Methods for attaching data loggers to marine mammals"
+  },
+  {
+    "sentence": "For summary dive products transmitted over constrained bandwidth, analysts must also account for lossy compression and the assumptions embedded in broken-stick abstractions of dive shape [5].",
+    "refNo": 5,
+    "title": "What is a dive? Movement characteristics in foraging blue whales suggest abrupt prey encounter and predict dive kinematics"
+  },
+  {
+    "sentence": "Early applications used first-passage time (FPT) to identify spatial scales at which transit slows and turning increases, providing an operational way to map candidate search zones along tracks ref [59].",
+    "refNo": 59,
+    "title": "Identifying area-restricted search behaviour in a foraging marine predator using first-passage time"
+  },
+  {
+    "sentence": "Subsequent syntheses emphasized that ARS metrics are attractive because they are computationally simple and can be applied to large telemetry datasets, but they remain indirect proxies for prey capture or ingestion ref [60].",
+    "refNo": 60,
+    "title": "Area-restricted search adopted by animal trackers and trapliners: a review"
+  },
+  {
+    "sentence": "Residence-time approaches were developed partly to overcome sensitivity of FPT to path interpolation and to better represent time allocation in localized search ref [61].",
+    "refNo": 61,
+    "title": "The residence in space and time method for analyzing animal movements"
+  },
+  {
+    "sentence": "Scale selection is critical: the same trajectory can exhibit different apparent behaviours depending on the radius or window used, and multiscale methods have therefore become standard in ARS studies ref [59], ref [61].",
+    "refNo": 59,
+    "title": "Identifying area-restricted search behaviour in a foraging marine predator using first-passage time"
+  },
+  {
+    "sentence": "Scale selection is critical: the same trajectory can exhibit different apparent behaviours depending on the radius or window used, and multiscale methods have therefore become standard in ARS studies ref [59], ref [61].",
+    "refNo": 61,
+    "title": "The residence in space and time method for analyzing animal movements"
+  },
+  {
+    "sentence": "In marine predators, these metrics have been used to delineate putative feeding patches and to relate movement concentration to oceanographic features, although validation against independent behavioural data is often limited ref [62].",
+    "refNo": 62,
+    "title": "Behavioural plasticity in a central place foraging marine predator, the macaroni penguin"
+  },
+  {
+    "sentence": "Comparative work has shown only partial correspondence between ARS inferred from tracks and prey-capture indicators from other sensors, cautioning against treating ARS as a direct measure of feeding success ref [63].",
+    "refNo": 63,
+    "title": "Can we infer prey encounter rates from marine predator tracking data?"
+  },
+  {
+    "sentence": "More recent frameworks therefore use track-based metrics either as exploratory tools or as observation features within state-space and hidden Markov models rather than as stand-alone behavioural labels ref [64].",
+    "refNo": 64,
+    "title": "A review of methods for analysing animal space use from relocation data"
+  },
+  {
+    "sentence": "Early comparative work showed that such variables can separate pelagic, benthic, and transit dives and that prey pursuit often concentrates in the bottom phase or in sinuous intra-dive segments ref [65], ref [66].",
+    "refNo": 65,
+    "title": "Foraging strategies among male and female Australian fur seals (Arctocephalus pusillus doriferus)"
+  },
+  {
+    "sentence": "Early comparative work showed that such variables can separate pelagic, benthic, and transit dives and that prey pursuit often concentrates in the bottom phase or in sinuous intra-dive segments ref [65], ref [66].",
+    "refNo": 66,
+    "title": "Identification of prey capture attempts in penguins from acceleration measurements"
+  },
+  {
+    "sentence": "For example, studies of penguins used principal-components and cluster-based schemes to partition dives into putative travelling, exploratory, and foraging types from depth-profile shape and bout context ref [37].",
+    "refNo": 37,
+    "title": "Classification of Weddell seal diving behaviour"
+  },
+  {
+    "sentence": "In pinnipeds and cetaceans, analogous approaches have linked U-shaped dives with benthic or patch exploitation and V-shaped dives with transit or sampling, although species-specific calibration is essential ref [67].",
+    "refNo": 67,
+    "title": "Diving behaviour of female southern elephant seals from Marion Island"
+  },
+  {
+    "sentence": "Increasingly, acceleration-derived prey catch proxies have been used to validate dive classes, showing that simple dive shape can be informative but imperfect when prey capture occurs during ascent, descent, or short epipelagic excursions ref [68].",
+    "refNo": 68,
+    "title": "Using acceleration data loggers to quantify prey encounter, capture and handling in free-ranging marine predators: prospects and challenges"
+  },
+  {
+    "sentence": "Consequently, dive-only classifiers are strongest when paired with contextual information such as day-night effects, dive bout structure, or prey-capture sensors ref [68], ref [69].",
+    "refNo": 68,
+    "title": "Using acceleration data loggers to quantify prey encounter, capture and handling in free-ranging marine predators: prospects and challenges"
+  },
+  {
+    "sentence": "Consequently, dive-only classifiers are strongest when paired with contextual information such as day-night effects, dive bout structure, or prey-capture sensors ref [68], ref [69].",
+    "refNo": 69,
+    "title": "The use of dive depth and dive shape in foraging studies of marine predators: a review"
+  },
+  {
+    "sentence": "This has motivated more formal probabilistic and integrative frameworks, but dive-based classification remains an important, interpretable baseline for identifying candidate feeding behaviour from bio-logging records ref [66], ref [69].",
+    "refNo": 66,
+    "title": "Identification of prey capture attempts in penguins from acceleration measurements"
+  },
+  {
+    "sentence": "This has motivated more formal probabilistic and integrative frameworks, but dive-based classification remains an important, interpretable baseline for identifying candidate feeding behaviour from bio-logging records ref [66], ref [69].",
+    "refNo": 69,
+    "title": "The use of dive depth and dive shape in foraging studies of marine predators: a review"
+  },
+  {
+    "sentence": "In marine predator studies, they have been especially valuable for telemetry records affected by Argos error, irregular sampling, and behavioural switching, allowing movement parameters such as step length and turning angle to vary with an unobserved state interpreted as transiting or area-restricted search ref [12], ref [70].",
+    "refNo": 12,
+    "title": "State-space models for animal movement"
+  },
+  {
+    "sentence": "In marine predator studies, they have been especially valuable for telemetry records affected by Argos error, irregular sampling, and behavioural switching, allowing movement parameters such as step length and turning angle to vary with an unobserved state interpreted as transiting or area-restricted search ref [12], ref [70].",
+    "refNo": 70,
+    "title": "Switching state-space models for rapid switching among behavioural states"
+  },
+  {
+    "sentence": "Hierarchical SSMs further permit individual-level variation and joint inference across animals, improving behavioural classification when tracks are sparse or noisy ref [71].",
+    "refNo": 71,
+    "title": "A hierarchical switching state-space model for estimating movement behaviour from animal tracking data"
+  },
+  {
+    "sentence": "Their appeal lies in computational efficiency and flexibility: movement metrics, dive descriptors, or both can be modelled as state-dependent observations, with covariates entering transition probabilities to link behavioural switching to environment or internal context ref [72], ref [73].",
+    "refNo": 72,
+    "title": "A guide to selecting and implementing hidden Markov models in ecology and evolution"
+  },
+  {
+    "sentence": "Their appeal lies in computational efficiency and flexibility: movement metrics, dive descriptors, or both can be modelled as state-dependent observations, with covariates entering transition probabilities to link behavioural switching to environment or internal context ref [72], ref [73].",
+    "refNo": 73,
+    "title": "Animal telemetry data: using hidden Markov models for animal movement"
+  },
+  {
+    "sentence": "In foraging applications, HMMs have therefore been used not only to label candidate foraging states, but also to quantify how prey fields, bathymetry, light regime, or memory alter the probability of entering intensive-search behaviour ref [73], ref [74].",
+    "refNo": 73,
+    "title": "Animal telemetry data: using hidden Markov models for animal movement"
+  },
+  {
+    "sentence": "In foraging applications, HMMs have therefore been used not only to label candidate foraging states, but also to quantify how prey fields, bathymetry, light regime, or memory alter the probability of entering intensive-search behaviour ref [73], ref [74].",
+    "refNo": 74,
+    "title": "Modelling individual animal movement with hidden Markov models using the momentuHMM package"
+  },
+  {
+    "sentence": "Recent syntheses emphasize that integrated movement models combining horizontal trajectories with vertical or ancillary sensor streams are often necessary when foraging cannot be reliably inferred from track geometry alone ref [72], ref [75].",
+    "refNo": 72,
+    "title": "A guide to selecting and implementing hidden Markov models in ecology and evolution"
+  },
+  {
+    "sentence": "Recent syntheses emphasize that integrated movement models combining horizontal trajectories with vertical or ancillary sensor streams are often necessary when foraging cannot be reliably inferred from track geometry alone ref [72], ref [75].",
+    "refNo": 75,
+    "title": "Integrating animal movement with habitat and environment data: a review of methods and applications"
+  },
+  {
+    "sentence": "Early formulations in behavioural ecology emphasized bout structure as a statistical signature of clustered events, typically using inter-event intervals or mixture distributions to infer transitions between within-bout and between-bout processes ref [76], ref [77].",
+    "refNo": 76,
+    "title": "The behavioural ecology of foraging in shorebirds"
+  },
+  {
+    "sentence": "Early formulations in behavioural ecology emphasized bout structure as a statistical signature of clustered events, typically using inter-event intervals or mixture distributions to infer transitions between within-bout and between-bout processes ref [76], ref [77].",
+    "refNo": 77,
+    "title": "Animal groups in three dimensions: how species aggregate"
+  },
+  {
+    "sentence": "Lavielle’s general framework for detecting multiple changes in dependent sequences has been influential for movement applications ref [78], while Bayesian partitioning methods such as reversible-jump approaches provide uncertainty-aware estimates of breakpoints and behavioural phases ref [79].",
+    "refNo": 78,
+    "title": "Using penalized contrasts for the change-point problem"
+  },
+  {
+    "sentence": "Lavielle’s general framework for detecting multiple changes in dependent sequences has been influential for movement applications ref [78], while Bayesian partitioning methods such as reversible-jump approaches provide uncertainty-aware estimates of breakpoints and behavioural phases ref [79].",
+    "refNo": 79,
+    "title": "Analyzing animal movement as a persistent random walk"
+  },
+  {
+    "sentence": "Recent movement-focused segmentation tools, including methods based on changes in location variance or persistence, offer more flexible multivariate partitioning and can complement model-based inference by providing exploratory structure or biologically interpretable candidate phases ref [80], ref [81].",
+    "refNo": 80,
+    "title": "Identifying behavioural changes in animal movement data using a non-parametric segmentation method"
+  },
+  {
+    "sentence": "Recent movement-focused segmentation tools, including methods based on changes in location variance or persistence, offer more flexible multivariate partitioning and can complement model-based inference by providing exploratory structure or biologically interpretable candidate phases ref [80], ref [81].",
+    "refNo": 81,
+    "title": "segclust2d: a new tool to identify and characterize phases of animal movement from multivariate time series"
+  },
+  {
+    "sentence": "In movement ecology more broadly, random forests, support vector machines and related classifiers have been used to map accelerometry and derived kinematic descriptors to behaviour with high predictive skill, illustrating the value of supervised pattern recognition when labelled data are available ref [82], ref [83].",
+    "refNo": 82,
+    "title": "Machine learning to classify animal behaviour using acceleration data: a review"
+  },
+  {
+    "sentence": "In movement ecology more broadly, random forests, support vector machines and related classifiers have been used to map accelerometry and derived kinematic descriptors to behaviour with high predictive skill, illustrating the value of supervised pattern recognition when labelled data are available ref [82], ref [83].",
+    "refNo": 83,
+    "title": "A comparison of machine-learning methods to classify wild ungulate behaviour from accelerometer data"
+  },
+  {
+    "sentence": "Deep-learning studies have further shown that convolutional or recurrent architectures can classify behaviour from raw or minimally processed biologging signals, reducing dependence on hand-crafted features and enabling scalable annotation of large deployments ref [84], ref [85].",
+    "refNo": 84,
+    "title": "Deep learning for wildlife conservation and animal behavior analysis"
+  },
+  {
+    "sentence": "Deep-learning studies have further shown that convolutional or recurrent architectures can classify behaviour from raw or minimally processed biologging signals, reducing dependence on hand-crafted features and enabling scalable annotation of large deployments ref [84], ref [85].",
+    "refNo": 85,
+    "title": "Automatic identification of bird activity from accelerometer data using deep learning"
+  },
+  {
+    "sentence": "Unsupervised pattern-recognition methods, including clustering and self-organizing maps, are also useful when ground truth is sparse, providing data-driven behavioural typologies that can later be interpreted ecologically ref [86].",
+    "refNo": 86,
+    "title": "Using self-organizing maps to investigate patterns in movement data"
+  },
+  {
+    "sentence": "Recent reviews in biologging therefore emphasize cross-validation that respects temporal autocorrelation, external validation across individuals or colonies, and interpretability tools that connect model decisions back to biologically meaningful movement and dive attributes ref [87], ref [88].",
+    "refNo": 87,
+    "title": "Best practice recommendations for machine learning in movement ecology"
+  },
+  {
+    "sentence": "Recent reviews in biologging therefore emphasize cross-validation that respects temporal autocorrelation, external validation across individuals or colonies, and interpretability tools that connect model decisions back to biologically meaningful movement and dive attributes ref [87], ref [88].",
+    "refNo": 88,
+    "title": "A guide to using machine learning for animal behaviour studies"
+  },
+  {
+    "sentence": "This logic was developed early in studies linking first-passage or ARS behaviour with dive variables in marine predators, showing that horizontal concentration of effort is not always synchronized with intensive diving and that prey capture may occur outside classical ARS zones ref [89], ref [90].",
+    "refNo": 89,
+    "title": "First-passage time analysis of area-restricted search by marine predators"
+  },
+  {
+    "sentence": "This logic was developed early in studies linking first-passage or ARS behaviour with dive variables in marine predators, showing that horizontal concentration of effort is not always synchronized with intensive diving and that prey capture may occur outside classical ARS zones ref [89], ref [90].",
+    "refNo": 90,
+    "title": "Scale-dependent area-restricted search behaviour in a large marine predator"
+  },
+  {
+    "sentence": "Examples include integrated analyses of southern elephant seals and other pinnipeds in which behavioural states are inferred from both Argos/GPS movement and dive sequences, often improving discrimination between travelling, area-restricted searching, and deep foraging modes ref [91], ref [92].",
+    "refNo": 91,
+    "title": "A hidden Markov model for multivariate state estimation for animal movement"
+  },
+  {
+    "sentence": "Examples include integrated analyses of southern elephant seals and other pinnipeds in which behavioural states are inferred from both Argos/GPS movement and dive sequences, often improving discrimination between travelling, area-restricted searching, and deep foraging modes ref [91], ref [92].",
+    "refNo": 92,
+    "title": "Unravelling the mysteries of animal movement using state-space models"
+  },
+  {
+    "sentence": "A central result from this literature is that horizontal and vertical behaviours can be decoupled by bathymetry, prey depth, and physiological constraints, so integrative models are most informative when linked to environmental context and, where available, prey-capture proxies from accelerometry or jaw sensors ref [93], ref [94].",
+    "refNo": 93,
+    "title": "Identification of prey capture attempts by Antarctic fur seals using tri-axial acceleration data"
+  },
+  {
+    "sentence": "A central result from this literature is that horizontal and vertical behaviours can be decoupled by bathymetry, prey depth, and physiological constraints, so integrative models are most informative when linked to environmental context and, where available, prey-capture proxies from accelerometry or jaw sensors ref [93], ref [94].",
+    "refNo": 94,
+    "title": "Accelerometers and magnetometers reveal a secret life of intermediate-scale foraging behaviour in air-breathing marine vertebrates"
+  },
+  {
+    "sentence": "Consequently, current best practice treats foraging as a multi-scale, multi-sensor process rather than a property recoverable from tracks or dives in isolation ref [95].",
+    "refNo": 95,
+    "title": "Marine predator behaviour: neglecting ocean currents can lead us up the wrong track"
+  },
+  {
+    "sentence": "Classic area-restricted search theory predicts tortuous movement in profitable patches, but similar patterns can arise during resting, social interactions, navigation around physical barriers, or responses to predators and currents ref [96], ref [97].",
+    "refNo": 96,
+    "title": "The fractal landscape and the evolution of patchy landscapes"
+  },
+  {
+    "sentence": "Classic area-restricted search theory predicts tortuous movement in profitable patches, but similar patterns can arise during resting, social interactions, navigation around physical barriers, or responses to predators and currents ref [96], ref [97].",
+    "refNo": 97,
+    "title": "Area-restricted search by Antarctic fur seals is driven by prey distribution and landscape features: a case study using GPS and dive data"
+  },
+  {
+    "sentence": "Even when first-passage time or state-space models identify putative \"foraging\" states, these states usually represent changes in search effort rather than direct evidence of ingestion ref [98], ref [99].",
+    "refNo": 98,
+    "title": "First-passage time analysis of animal movement and foraging strategy"
+  },
+  {
+    "sentence": "Even when first-passage time or state-space models identify putative \"foraging\" states, these states usually represent changes in search effort rather than direct evidence of ingestion ref [98], ref [99].",
+    "refNo": 99,
+    "title": "A dynamic state-space model for identifying behavioural modes and influence of oceanographic features on animal movement"
+  },
+  {
+    "sentence": "In several marine predator systems, accelerometers, stomach temperature pills, jaw-motion sensors, or animal-borne video have shown that prey capture attempts can occur during transit-like segments, whereas some movement-defined search phases contain few or no feeding events ref [100], ref [101].",
+    "refNo": 100,
+    "title": "Identification of prey capture attempts by penguins using accelerometers"
+  },
+  {
+    "sentence": "In several marine predator systems, accelerometers, stomach temperature pills, jaw-motion sensors, or animal-borne video have shown that prey capture attempts can occur during transit-like segments, whereas some movement-defined search phases contain few or no feeding events ref [100], ref [101].",
+    "refNo": 101,
+    "title": "Inferring prey capture behaviour from animal-borne video and movement data in a marine predator"
+  },
+  {
+    "sentence": "Stronger inference requires validation against independent prey-capture indicators and explicit acknowledgement that search, encounter, attack, and consumption are related but distinct processes ref [99], ref [102].",
+    "refNo": 99,
+    "title": "A dynamic state-space model for identifying behavioural modes and influence of oceanographic features on animal movement"
+  },
+  {
+    "sentence": "Stronger inference requires validation against independent prey-capture indicators and explicit acknowledgement that search, encounter, attack, and consumption are related but distinct processes ref [99], ref [102].",
+    "refNo": 102,
+    "title": "You are what you eat… and a so is your movement: linking animal movement and feeding ecology"
+  },
+  {
+    "sentence": "Treating recorded positions or dives as exact can create spurious turning points, inflate path tortuosity, and blur the timing of putative feeding events, especially when behavioral classification is based on first-passage metrics, switching state-space models, or hidden Markov models ref [103], ref [104].",
+    "refNo": 103,
+    "title": "Animal telemetry: an integral tool for ecology and conservation"
+  },
+  {
+    "sentence": "Treating recorded positions or dives as exact can create spurious turning points, inflate path tortuosity, and blur the timing of putative feeding events, especially when behavioral classification is based on first-passage metrics, switching state-space models, or hidden Markov models ref [103], ref [104].",
+    "refNo": 104,
+    "title": "Estimating animal movement from location data using state-space models"
+  },
+  {
+    "sentence": "Simulation and empirical studies have shown that increasing fix intervals systematically smooths movement paths, reduces apparent sinuosity, and weakens inference about area-restricted search or residence behaviour ref [105], ref [106].",
+    "refNo": 105,
+    "title": "How many animal tracks are needed to mark behaviour? An application of random forests to animal movement data"
+  },
+  {
+    "sentence": "Simulation and empirical studies have shown that increasing fix intervals systematically smooths movement paths, reduces apparent sinuosity, and weakens inference about area-restricted search or residence behaviour ref [105], ref [106].",
+    "refNo": 106,
+    "title": "Identifying Lévy walks and area-restricted search patterns in the movement paths of animals"
+  },
+  {
+    "sentence": "In diving predators, coarse temporal aggregation can merge distinct dive phases, miss rapid wiggles or acceleration bursts associated with prey pursuit, and bias summary descriptors used as foraging proxies ref [107].",
+    "refNo": 107,
+    "title": "Quantitative estimates of diving and foraging behavior in pinnipeds using acceleration data loggers"
+  },
+  {
+    "sentence": "Observation models that explicitly separate process from measurement error improve inference, but only when error distributions, sampling design, and device failure mechanisms are reported transparently ref [104], ref [108].",
+    "refNo": 104,
+    "title": "Estimating animal movement from location data using state-space models"
+  },
+  {
+    "sentence": "Observation models that explicitly separate process from measurement error improve inference, but only when error distributions, sampling design, and device failure mechanisms are reported transparently ref [104], ref [108].",
+    "refNo": 108,
+    "title": "A review of methods for analysing animal space use from tracking data"
+  },
+  {
+    "sentence": "Integrating auxiliary sensors such as accelerometers or stomach temperature loggers can partially recover missed feeding events, yet validation remains scale-dependent and incomplete ref [109].",
+    "refNo": 109,
+    "title": "Measuring prey capture success in free-ranging marine predators: integrating diet, behavior, and energetics"
+  },
+  {
+    "sentence": "Comparative syntheses show that first-passage time and related movement proxies perform unevenly across species and environments, and that the coupling between tortuous movement and feeding can be weak when prey are patchy, vertically structured, or encountered opportunistically ref [110], ref [111].",
+    "refNo": 110,
+    "title": "Identification of area-restricted search behaviour in a marine predator using first-passage time analysis"
+  },
+  {
+    "sentence": "Comparative syntheses show that first-passage time and related movement proxies perform unevenly across species and environments, and that the coupling between tortuous movement and feeding can be weak when prey are patchy, vertically structured, or encountered opportunistically ref [110], ref [111].",
+    "refNo": 111,
+    "title": "When is area-restricted search a useful indicator of foraging area? A systematic evaluation in seabirds"
+  },
+  {
+    "sentence": "Such specializations are well documented in marine predators, where repeated individual-level strategies can persist over time and alter the mapping between tracks, dives, and actual prey capture ref [112].",
+    "refNo": 112,
+    "title": "Individual specialisation in the foraging behaviour and diets of benthic predators: a review"
+  },
+  {
+    "sentence": "Even in closely related species, different ecological constraints can decouple presumed foraging indicators from intake; for example, movement and dive variables associated with prey capture in one penguin species or season may be poor predictors in another ref [113].",
+    "refNo": 113,
+    "title": "Can we infer prey capture success from body acceleration and dive shape in a diving seabird?"
+  },
+  {
+    "sentence": "Studies linking movement to prey capture in seabirds show that environmental conditions and behavioural mode interact strongly, so identical track features may imply different energetic consequences across situations ref [114], ref [11].",
+    "refNo": 114,
+    "title": "Prey distribution and patchiness affect foraging success in a marine predator"
+  },
+  {
+    "sentence": "Studies linking movement to prey capture in seabirds show that environmental conditions and behavioural mode interact strongly, so identical track features may imply different energetic consequences across situations ref [114], ref [11].",
+    "refNo": 11,
+    "title": "A hidden Markov model for identifying behavioural states from animal movement data"
+  },
+  {
+    "sentence": "Accordingly, inference frameworks should favour hierarchical, species-aware models and explicit validation against independent feeding measurements rather than assuming universal behavioural signatures ref [110], ref [11].",
+    "refNo": 110,
+    "title": "Identification of area-restricted search behaviour in a marine predator using first-passage time analysis"
+  },
+  {
+    "sentence": "Accordingly, inference frameworks should favour hierarchical, species-aware models and explicit validation against independent feeding measurements rather than assuming universal behavioural signatures ref [110], ref [11].",
+    "refNo": 11,
+    "title": "A hidden Markov model for identifying behavioural states from animal movement data"
+  },
+  {
+    "sentence": "Area-restricted search can arise from resting, social interactions, mate searching, predator avoidance, or responses to physical features that aggregate animals without increasing feeding rate, so localized tortuosity or reduced speed should not be treated as direct evidence of prey intake ref [115], ref [116].",
+    "refNo": 115,
+    "title": "First-passage time analysis of animal movements in a fractal landscape"
+  },
+  {
+    "sentence": "Area-restricted search can arise from resting, social interactions, mate searching, predator avoidance, or responses to physical features that aggregate animals without increasing feeding rate, so localized tortuosity or reduced speed should not be treated as direct evidence of prey intake ref [115], ref [116].",
+    "refNo": 116,
+    "title": "Identifying area-restricted search behaviour from GPS data using a first-passage time analysis"
+  },
+  {
+    "sentence": "In marine predators, first-passage time and related path-based metrics can identify scales of intensive space use, yet these zones do not always coincide with profitable feeding habitat or ingestion events ref [115], ref [117].",
+    "refNo": 115,
+    "title": "First-passage time analysis of animal movements in a fractal landscape"
+  },
+  {
+    "sentence": "In marine predators, first-passage time and related path-based metrics can identify scales of intensive space use, yet these zones do not always coincide with profitable feeding habitat or ingestion events ref [115], ref [117].",
+    "refNo": 117,
+    "title": "How many animals really do the shimmy? Estimating the occurrence of cryptic behaviours from movement data"
+  },
+  {
+    "sentence": "Animal-borne video and acceleration studies further show that prey encounter, prey handling, and unsuccessful attack attempts can generate similar kinematic patterns, while some captures leave weak or no signature in coarse movement records ref [118], ref [119].",
+    "refNo": 118,
+    "title": "Accelerometers and animal behaviour: a case study in free-ranging marine predators"
+  },
+  {
+    "sentence": "Animal-borne video and acceleration studies further show that prey encounter, prey handling, and unsuccessful attack attempts can generate similar kinematic patterns, while some captures leave weak or no signature in coarse movement records ref [118], ref [119].",
+    "refNo": 119,
+    "title": "Can animal-borne video cameras provide insights into the underwater behaviour of free-ranging marine predators?"
+  },
+  {
+    "sentence": "State-dependent decisions, prey patchiness, bathymetry, currents, and conspecific interactions can all produce behaviours that mimic canonical foraging states ref [116], ref [120].",
+    "refNo": 116,
+    "title": "Identifying area-restricted search behaviour from GPS data using a first-passage time analysis"
+  },
+  {
+    "sentence": "State-dependent decisions, prey patchiness, bathymetry, currents, and conspecific interactions can all produce behaviours that mimic canonical foraging states ref [116], ref [120].",
+    "refNo": 120,
+    "title": "Animal movement and the development of turn-based metrics for location data"
+  },
+  {
+    "sentence": "Consequently, alternative explanations should be explicitly considered when interpreting inferred feeding hotspots or dive-based feeding indices, ideally by integrating complementary sensors or independent prey-field information rather than relying on a single behavioural proxy ref [118], ref [121].",
+    "refNo": 118,
+    "title": "Accelerometers and animal behaviour: a case study in free-ranging marine predators"
+  },
+  {
+    "sentence": "Consequently, alternative explanations should be explicitly considered when interpreting inferred feeding hotspots or dive-based feeding indices, ideally by integrating complementary sensors or independent prey-field information rather than relying on a single behavioural proxy ref [118], ref [121].",
+    "refNo": 121,
+    "title": "Bio-logging science: Logging and relating animal behavior, physiology and the environment"
+  },
+  {
+    "sentence": "Moreover, the statistical conditions under which area-restricted search can be detected are limited, and different movement models may fit equally well yet imply different ecological narratives [3].",
+    "refNo": 3,
+    "title": "Mean shift gradient analysis for the identification of foraging behaviour from movement tracks"
+  },
+  {
+    "sentence": "As a result, latent states should not be reified as feeding events without independent validation from stomach temperature, accelerometry, animal-borne video, or prey-field data [4].",
+    "refNo": 4,
+    "title": "Use of time-depth recorders and other biotelemetry devices to study diving behavior in free-ranging animals"
+  },
+  {
+    "sentence": "State-space formulations were adopted partly to separate process from observation error, yet they also show that behavioural classification is often weakly identified when tracks are sparse or noisy ref [128], ref [129].",
+    "refNo": 128,
+    "title": "State-space models reveal the scale of oceanographic influences on sea turtle movement"
+  },
+  {
+    "sentence": "State-space formulations were adopted partly to separate process from observation error, yet they also show that behavioural classification is often weakly identified when tracks are sparse or noisy ref [128], ref [129].",
+    "refNo": 129,
+    "title": "A guide to state-space modeling of ecological time series"
+  },
+  {
+    "sentence": "Hidden Markov and related movement models can yield apparently precise state assignments even when state-dependent distributions overlap substantially, making posterior state probabilities, confusion among states, and sensitivity to initial conditions or priors important to disclose ref [130], ref [131].",
+    "refNo": 130,
+    "title": "Hidden Markov models for animal movement"
+  },
+  {
+    "sentence": "Hidden Markov and related movement models can yield apparently precise state assignments even when state-dependent distributions overlap substantially, making posterior state probabilities, confusion among states, and sensitivity to initial conditions or priors important to disclose ref [130], ref [131].",
+    "refNo": 131,
+    "title": "Bayesian inference for animal movement in continuous time"
+  },
+  {
+    "sentence": "Where feeding events are inferred from first-passage, residence-time, or dive-derived indices, authors should report robustness to alternative spatial and temporal scales, threshold definitions, and data-filtering rules, and should distinguish predictive success from biological validation ref [132].",
+    "refNo": 132,
+    "title": "Area-restricted search and habitat selection in marine predators: are we asking the right questions?"
+  },
+  {
+    "sentence": "General guidance from movement ecology and biologging emphasizes reproducible workflows, transparent metadata, and archiving of code and processed data so that uncertainty can be re-evaluated as methods improve ref [133], ref [134].",
+    "refNo": 133,
+    "title": "Best practice for authors using animal-borne electronic devices to collect data for conservation"
+  },
+  {
+    "sentence": "General guidance from movement ecology and biologging emphasizes reproducible workflows, transparent metadata, and archiving of code and processed data so that uncertainty can be re-evaluated as methods improve ref [133], ref [134].",
+    "refNo": 134,
+    "title": "A primer on modelling and inference in animal movement"
+  },
+  {
+    "sentence": "Animal-borne video and still-imaging systems have been particularly influential because they reveal whether accelerometer peaks, rapid head or jaw movements, and fine-scale body kinematics correspond to actual strikes, pursuits, or handling events rather than travel or social behaviour ref [135], ref [136].",
+    "refNo": 135,
+    "title": "Animal-borne imaging reveals the detailed fishing behavior of marine vertebrates"
+  },
+  {
+    "sentence": "Animal-borne video and still-imaging systems have been particularly influential because they reveal whether accelerometer peaks, rapid head or jaw movements, and fine-scale body kinematics correspond to actual strikes, pursuits, or handling events rather than travel or social behaviour ref [135], ref [136].",
+    "refNo": 136,
+    "title": "A new prey capture metric for penguins derived using Hall sensors and acceleration data"
+  },
+  {
+    "sentence": "In toothed whales, candidate feeding events inferred from movement and acceleration can be corroborated by echolocation buzzes, a well-established indicator of prey capture attempts ref [137].",
+    "refNo": 137,
+    "title": "Beaked whales echolocate on prey"
+  },
+  {
+    "sentence": "In pinnipeds and seabirds, stomach or oesophageal temperature telemetry provides a complementary benchmark by detecting ingestion, allowing the temporal matching of inferred foraging bouts with actual prey intake ref [138], ref [139].",
+    "refNo": 138,
+    "title": "An automatic feeding recorder for free-ranging marine mammals and birds"
+  },
+  {
+    "sentence": "In pinnipeds and seabirds, stomach or oesophageal temperature telemetry provides a complementary benchmark by detecting ingestion, allowing the temporal matching of inferred foraging bouts with actual prey intake ref [138], ref [139].",
+    "refNo": 139,
+    "title": "Monitoring prey ingestion in wild pygoscelid penguins with oesophageal temperature sensors"
+  },
+  {
+    "sentence": "Comparative evaluations of acceleration-based prey capture metrics have shown that sensitivity can decline when tags are mounted differently or when behaviours are transferred across species without retraining ref [140], ref [141].",
+    "refNo": 140,
+    "title": "How many days are needed to estimate activity patterns in animals? Accelerometer data from small birds"
+  },
+  {
+    "sentence": "Comparative evaluations of acceleration-based prey capture metrics have shown that sensitivity can decline when tags are mounted differently or when behaviours are transferred across species without retraining ref [140], ref [141].",
+    "refNo": 141,
+    "title": "Accelerometers and magnetometers: a versatile approach for quantifying fine-scale animal movement"
+  },
+  {
+    "sentence": "Early work on area-restricted search showed that inferred search effort can correspond to profitable habitats, but also that the strength of this relationship depends on prey patchiness, detectability, and the scale at which predators respond to environmental structure ref [142].",
+    "refNo": 142,
+    "title": "Area-restricted search and habitat selection in a wild seabird: implications for foraging success and population dynamics"
+  },
+  {
+    "sentence": "More generally, top predators often forage in relation to mesoscale and submesoscale features such as fronts, eddies, shelf breaks, and bathymetric discontinuities that concentrate prey rather than prey biomass per se ref [143].",
+    "refNo": 143,
+    "title": "How predictable is the home range of a marine predator?"
+  },
+  {
+    "sentence": "For example, penguin and seal studies have shown that putative foraging dives and horizontal search intensify where prey layers or frontal systems are present, but the correspondence is imperfect because prey can shift vertically and horizontally faster than predator tracks are sampled ref [144], ref [145].",
+    "refNo": 144,
+    "title": "Animal-borne imaging reveals novel insights into the foraging behaviour and prey field of southern elephant seals"
+  },
+  {
+    "sentence": "For example, penguin and seal studies have shown that putative foraging dives and horizontal search intensify where prey layers or frontal systems are present, but the correspondence is imperfect because prey can shift vertically and horizontally faster than predator tracks are sampled ref [144], ref [145].",
+    "refNo": 145,
+    "title": "First glitzy spatio-temporal record of a prey field and marine predator activity: interactions between Antarctic fur seals and mesoscale eddies"
+  },
+  {
+    "sentence": "Similar arguments have been made in marine predators more broadly, where habitat models based only on remotely sensed surface variables may capture access to foraging habitat without directly resolving the prey field actually encountered at depth ref [146].",
+    "refNo": 146,
+    "title": "Marine ecology: from local to global"
+  },
+  {
+    "sentence": "Mechanistic approaches that integrate prey landscapes, behavioural switching, and dynamic oceanography therefore provide stronger ecological inference than correlative habitat overlays alone ref [147].",
+    "refNo": 147,
+    "title": "A dynamic state variable model of marine predator-prey interactions in a changing environment"
+  },
+  {
+    "sentence": "Bio-logging studies that integrate movement with accelerometry, stroking effort, and dive mechanics show that prey capture can carry substantial and variable costs, so identical behavioural classifications may differ markedly in net payoff across habitats, prey types, and individuals ref [148], ref [149].",
+    "refNo": 148,
+    "title": "The use of overall dynamic body acceleration as a proxy for energy expenditure in wild animals: a validation study using heart rate in free-ranging kittiwakes"
+  },
+  {
+    "sentence": "Bio-logging studies that integrate movement with accelerometry, stroking effort, and dive mechanics show that prey capture can carry substantial and variable costs, so identical behavioural classifications may differ markedly in net payoff across habitats, prey types, and individuals ref [148], ref [149].",
+    "refNo": 149,
+    "title": "Foraging theory upscaled: the behavioural ecology of marine megafauna"
+  },
+  {
+    "sentence": "In elephant seals, combining dive behaviour with buoyancy-based indices revealed that some putative foraging periods were associated with tissue gain whereas others were not, highlighting the distinction between feeding effort and successful energy acquisition ref [150], ref [151].",
+    "refNo": 150,
+    "title": "Changes in body condition during diving and transit in a deep-diving predator, the northern elephant seal"
+  },
+  {
+    "sentence": "In elephant seals, combining dive behaviour with buoyancy-based indices revealed that some putative foraging periods were associated with tissue gain whereas others were not, highlighting the distinction between feeding effort and successful energy acquisition ref [150], ref [151].",
+    "refNo": 151,
+    "title": "Identification of foraging events in deep-diving northern elephant seals, Mirounga angustirostris, using swim speed and stomach temperature"
+  },
+  {
+    "sentence": "Similar logic underpins frameworks that estimate prey encounter and capture from accelerometry and use dynamic body acceleration as a proxy for expenditure, allowing net energetic landscapes rather than simple activity budgets to be mapped ref [152].",
+    "refNo": 152,
+    "title": "Estimating energy expenditure of animals using acceleration proxies: a reappraisal"
+  },
+  {
+    "sentence": "In marine predators and other wide-ranging consumers, individuals foraging in more profitable habitats or seasons often show better mass gain, faster provisioning, or higher reproductive success, but the relationship is typically nonlinear because risk, competition, and travel costs mediate the conversion of prey encounters into fitness ref [153], ref [154].",
+    "refNo": 153,
+    "title": "A general framework for understanding the evolution of foraging behavior"
+  },
+  {
+    "sentence": "In marine predators and other wide-ranging consumers, individuals foraging in more profitable habitats or seasons often show better mass gain, faster provisioning, or higher reproductive success, but the relationship is typically nonlinear because risk, competition, and travel costs mediate the conversion of prey encounters into fitness ref [153], ref [154].",
+    "refNo": 154,
+    "title": "The energetics of lactation in free-ranging northern elephant seals"
+  },
+  {
+    "sentence": "Reviews of movement-method standardization have emphasized that reproducible inference requires explicit reporting of preprocessing, segmentation rules, and parameter choices, rather than only final behavioural labels ref [155], ref [156].",
+    "refNo": 155,
+    "title": "A standardised framework for detecting interest points in movement paths"
+  },
+  {
+    "sentence": "Reviews of movement-method standardization have emphasized that reproducible inference requires explicit reporting of preprocessing, segmentation rules, and parameter choices, rather than only final behavioural labels ref [155], ref [156].",
+    "refNo": 156,
+    "title": "A review of methods for identifying animal behavioural states from movement paths"
+  },
+  {
+    "sentence": "State-space and hidden Markov models have become influential partly because they formalize observation error and permit clearer separation between model assumptions and ecological interpretation ref [157], ref [130].",
+    "refNo": 157,
+    "title": "State-space models reveal the scale of area-restricted search in Pacific bluefin tuna"
+  },
+  {
+    "sentence": "State-space and hidden Markov models have become influential partly because they formalize observation error and permit clearer separation between model assumptions and ecological interpretation ref [157], ref [130].",
+    "refNo": 130,
+    "title": "Hidden Markov models for animal movement"
+  },
+  {
+    "sentence": "Yet reproducibility still depends on documenting covariates, priors, optimization criteria, and label-assignment conventions, since alternative model structures can yield different behavioural classifications from the same tracks ref [130], ref [158].",
+    "refNo": 130,
+    "title": "Hidden Markov models for animal movement"
+  },
+  {
+    "sentence": "Yet reproducibility still depends on documenting covariates, priors, optimization criteria, and label-assignment conventions, since alternative model structures can yield different behavioural classifications from the same tracks ref [130], ref [158].",
+    "refNo": 158,
+    "title": "A guide to choosing and implementing Bayesian and maximum likelihood state-space models for ecological data"
+  },
+  {
+    "sentence": "Community data infrastructures and shared bio-logging workflows can help by promoting standardized metadata, archival formats, and reanalysis of raw sensor data ref [159], ref [160].",
+    "refNo": 159,
+    "title": "Movebank: archive, analysis and sharing of animal movement data"
+  },
+  {
+    "sentence": "Community data infrastructures and shared bio-logging workflows can help by promoting standardized metadata, archival formats, and reanalysis of raw sensor data ref [159], ref [160].",
+    "refNo": 160,
+    "title": "The bio-logging science of terrestrial animal movement"
+  },
+  {
+    "sentence": "Conflating these scales risks treating any increase in path tortuosity or dive intensity as equivalent evidence of successful feeding, even though first-passage time and related residence metrics can fail when prey fields are patchy, hierarchical, or decoupled from movement geometry ref [161], ref [162].",
+    "refNo": 161,
+    "title": "Using first-passage time in the analysis of area-restricted search and habitat selection"
+  },
+  {
+    "sentence": "Conflating these scales risks treating any increase in path tortuosity or dive intensity as equivalent evidence of successful feeding, even though first-passage time and related residence metrics can fail when prey fields are patchy, hierarchical, or decoupled from movement geometry ref [161], ref [162].",
+    "refNo": 162,
+    "title": "What is area-restricted search? A review of the concept and an empirical application to foraging in a pelagic seabird"
+  },
+  {
+    "sentence": "Studies linking predator tracks to fronts, eddies, and Lagrangian features show that habitat associations can strengthen or disappear depending on the grain and temporal alignment of behavioural and environmental data ref [163], ref [164].",
+    "refNo": 163,
+    "title": "Marine predators track Lagrangian coherent structures"
+  },
+  {
+    "sentence": "Studies linking predator tracks to fronts, eddies, and Lagrangian features show that habitat associations can strengthen or disappear depending on the grain and temporal alignment of behavioural and environmental data ref [163], ref [164].",
+    "refNo": 164,
+    "title": "Quantifying the influence of fronts on marine birds: the importance of scale"
+  },
+  {
+    "sentence": "Hierarchical frameworks that integrate individual decisions with broader seascape structure are especially valuable because they distinguish behavioural mechanisms operating at nested scales rather than forcing a single ecological meaning onto all inferred foraging signals ref [26], ref [165].",
+    "refNo": 26,
+    "title": "Hierarchical responses of marine predators to prey and habitat"
+  },
+  {
+    "sentence": "Hierarchical frameworks that integrate individual decisions with broader seascape structure are especially valuable because they distinguish behavioural mechanisms operating at nested scales rather than forcing a single ecological meaning onto all inferred foraging signals ref [26], ref [165].",
+    "refNo": 165,
+    "title": "Scale-dependent habitat use in a large marine predator"
+  },
+  {
+    "sentence": "Accelerometry has enabled inference of prey capture attempts and fine-scale activity budgets, while animal-borne video has provided critical validation of these signatures and exposed important species- and context-specific failure modes in purely kinematic classification ref [166], ref [167].",
+    "refNo": 166,
+    "title": "Validation of head-mounted accelerometers for recording prey capture by free-ranging Steller sea lions"
+  },
+  {
+    "sentence": "Accelerometry has enabled inference of prey capture attempts and fine-scale activity budgets, while animal-borne video has provided critical validation of these signatures and exposed important species- and context-specific failure modes in purely kinematic classification ref [166], ref [167].",
+    "refNo": 167,
+    "title": "Accelerometers and animal behaviour: a case study in recording precise movements"
+  },
+  {
+    "sentence": "More generally, integrated tag packages combining depth, tri-axial acceleration, magnetometry, GPS, video, and oceanographic sensors can link dives, body orientation, prey pursuit, and habitat structure within a unified behavioural sequence ref [168].",
+    "refNo": 168,
+    "title": "Marine mammals explore the oceans using hidden foraging strategies inferred from data loggers"
+  },
+  {
+    "sentence": "Daily Diary-style approaches illustrate how multi-sensor records can reconstruct energy expenditure, behaviour, and external conditions at biologically meaningful scales ref [169].",
+    "refNo": 169,
+    "title": "The value of daily diary data for science and conservation"
+  },
+  {
+    "sentence": "Equally important is explicit validation against independent observations, captive trials, animal-borne cameras, and known-event datasets, as demonstrated in studies that paired accelerometry with direct prey-capture confirmation ref [166], ref [170].",
+    "refNo": 166,
+    "title": "Validation of head-mounted accelerometers for recording prey capture by free-ranging Steller sea lions"
+  },
+  {
+    "sentence": "Equally important is explicit validation against independent observations, captive trials, animal-borne cameras, and known-event datasets, as demonstrated in studies that paired accelerometry with direct prey-capture confirmation ref [166], ref [170].",
+    "refNo": 170,
+    "title": "Identifying prey capture in Australian fur seals using head-mounted accelerometers: field validation with animal-borne video cameras"
+  },
+  {
+    "sentence": "Emerging biologging networks and interoperable data standards can further support comparative synthesis across species, colonies, and ocean regimes ref [171].",
+    "refNo": 171,
+    "title": "The Marine Biodiversity Observation Network—An observatory for life in a changing ocean"
+  },
+  {
+    "sentence": "State-space methods provide a principled basis for separating observation error from latent movement or behavioural states and are well suited to irregular, error-prone telemetry data ref [12].",
+    "refNo": 12,
+    "title": "State-space models for animal movement"
+  },
+  {
+    "sentence": "Extensions that incorporate hidden Markov structure allow inference on switching among behavioural modes while retaining explicit links to measurement processes ref [130].",
+    "refNo": 130,
+    "title": "Hidden Markov models for animal movement"
+  },
+  {
+    "sentence": "Bayesian latent variable frameworks also facilitate borrowing strength across sparse datasets and linking fine-scale metrics such as accelerometry or prey-capture proxies to broader-scale space use and habitat selection ref [172], ref [173].",
+    "refNo": 172,
+    "title": "Mixed effects models and extensions in ecology with R"
+  },
+  {
+    "sentence": "Bayesian latent variable frameworks also facilitate borrowing strength across sparse datasets and linking fine-scale metrics such as accelerometry or prey-capture proxies to broader-scale space use and habitat selection ref [172], ref [173].",
+    "refNo": 173,
+    "title": "Animal telemetry: an integral component of the study of movement ecology"
+  },
+  {
+    "sentence": "Integrated models that combine telemetry, diving, and environmental covariates can reveal scale-dependent habitat associations and improve ecological interpretation ref [129].",
+    "refNo": 129,
+    "title": "A guide to state-space modeling of ecological time series"
+  },
+  {
+    "sentence": "More generally, hierarchical movement models offer a transparent route to estimating uncertainty, testing mechanistic hypotheses, and translating individual-level inference into colony- or species-level conservation assessments under changing marine conditions ref [174].",
+    "refNo": 174,
+    "title": "A review of methods for analysing animal space use and habitat selection from relocation data"
+  },
+  {
+    "sentence": "The need to distinguish latent movement states from observed behaviour has been emphasized in broader movement-ecology syntheses, which provide a useful conceptual foundation for benchmark design ref [175], ref [176].",
+    "refNo": 175,
+    "title": "A guide to methods for estimating animal geographic range and habitat use from tracking data"
+  },
+  {
+    "sentence": "The need to distinguish latent movement states from observed behaviour has been emphasized in broader movement-ecology syntheses, which provide a useful conceptual foundation for benchmark design ref [175], ref [176].",
+    "refNo": 176,
+    "title": "Mechanistic home range analysis"
+  },
+  {
+    "sentence": "Studies using head or jaw accelerometry in pinnipeds show that prey encounters can be identified with high temporal precision, making these data especially valuable as ground truth for lower-resolution dive and location records ref [177], ref [178].",
+    "refNo": 177,
+    "title": "Accelerometers and magnetometers reveal prey-capture success and metabolic rates of free-ranging northern elephant seals"
+  },
+  {
+    "sentence": "Studies using head or jaw accelerometry in pinnipeds show that prey encounters can be identified with high temporal precision, making these data especially valuable as ground truth for lower-resolution dive and location records ref [177], ref [178].",
+    "refNo": 178,
+    "title": "Validation of a simple method for detecting prey capture attempts by Weddell seals using tri-axial acceleration data"
+  },
+  {
+    "sentence": "Equally, integrated deployments combining acceleration, magnetometry, and video demonstrate how sensor-specific uncertainty can be quantified rather than ignored ref [179].",
+    "refNo": 179,
+    "title": "Field biomechanics and long-term animal behavior"
+  },
+  {
+    "sentence": "Recent calls for best practice in biologging stress reproducible calibration, harmonized metadata, and transparent validation workflows, all of which are prerequisites for robust cross-study synthesis and conservation application ref [180], ref [181].",
+    "refNo": 180,
+    "title": "Best practice for reporting and archiving animal tracking data"
+  },
+  {
+    "sentence": "Recent calls for best practice in biologging stress reproducible calibration, harmonized metadata, and transparent validation workflows, all of which are prerequisites for robust cross-study synthesis and conservation application ref [180], ref [181].",
+    "refNo": 181,
+    "title": "Best practices for biologging and data management in a changing world"
+  },
+  {
+    "sentence": "Broader ecological and evolutionary research has shown that transparent workflows, version-controlled code, and explicit reporting standards substantially improve reproducibility and reuse of complex datasets ref [182], ref [183].",
+    "refNo": 182,
+    "title": "The FAIR Guiding Principles for scientific data management and stewardship"
+  },
+  {
+    "sentence": "Broader ecological and evolutionary research has shown that transparent workflows, version-controlled code, and explicit reporting standards substantially improve reproducibility and reuse of complex datasets ref [182], ref [183].",
+    "refNo": 183,
+    "title": "Best practices for making reproducible biochemical models"
+  },
+  {
+    "sentence": "Community standards developed through the Movebank platform and associated data-model work demonstrate how structured metadata, persistent identifiers, and standardized vocabularies can make movement data more interoperable across studies and taxa ref [159], ref [184].",
+    "refNo": 159,
+    "title": "Movebank: archive, analysis and sharing of animal movement data"
+  },
+  {
+    "sentence": "Community standards developed through the Movebank platform and associated data-model work demonstrate how structured metadata, persistent identifiers, and standardized vocabularies can make movement data more interoperable across studies and taxa ref [159], ref [184].",
+    "refNo": 184,
+    "title": "A standard vocabulary for identifying animal biotelemetry data resources"
+  },
+  {
+    "sentence": "The FAIR principles provide a useful overarching framework for making pinniped movement and foraging data findable, accessible, interoperable, and reusable ref [185].",
+    "refNo": 185,
+    "title": "An Introduction to the TagBase Data Model"
+  },
+  {
+    "sentence": "In parallel, open repositories for animal telemetry and biologging have illustrated the value of common infrastructures for long-term curation and comparative ecology ref [6].",
+    "refNo": 6,
+    "title": "How Quickly Can Skipjack Tuna Jump on Board? Estimating Feeding Events of Marine Predators from Acceleration Data"
+  },
+  {
+    "sentence": "Work on marine predator responses to environmental variability shows that behavioural and demographic outcomes can change abruptly when climate forcing alters prey accessibility rather than prey abundance alone ref [192], ref [193].",
+    "refNo": 192,
+    "title": "Foraging behavior links sea ice to breeding success in Antarctic penguins"
+  },
+  {
+    "sentence": "Work on marine predator responses to environmental variability shows that behavioural and demographic outcomes can change abruptly when climate forcing alters prey accessibility rather than prey abundance alone ref [192], ref [193].",
+    "refNo": 193,
+    "title": "Climate change and marine top predators"
+  },
+  {
+    "sentence": "Studies of Antarctic and subantarctic predators have shown that environmental anomalies can reshape foraging distributions, trip structure, and reproductive performance in ways that are detectable from concurrent movement and ocean data ref [194], ref [195].",
+    "refNo": 194,
+    "title": "Southern elephant seals reallocate their diving effort in response to climate variability"
+  },
+  {
+    "sentence": "Studies of Antarctic and subantarctic predators have shown that environmental anomalies can reshape foraging distributions, trip structure, and reproductive performance in ways that are detectable from concurrent movement and ocean data ref [194], ref [195].",
+    "refNo": 195,
+    "title": "Marine predators and persistent prey patches: new insights from foraging movements"
+  },
+  {
+    "sentence": "Because marine heatwaves and long-term warming are already reorganizing food webs and predator distributions ref [196], ref [197], survey syntheses should emphasize resilience metrics, cross-population comparisons, and adaptive baselines that remain useful under continued ecological novelty ref [198].",
+    "refNo": 196,
+    "title": "Marine heatwaves threaten global biodiversity and the provision of ecosystem services"
+  },
+  {
+    "sentence": "Because marine heatwaves and long-term warming are already reorganizing food webs and predator distributions ref [196], ref [197], survey syntheses should emphasize resilience metrics, cross-population comparisons, and adaptive baselines that remain useful under continued ecological novelty ref [198].",
+    "refNo": 197,
+    "title": "The response of marine animals to climate warming"
+  },
+  {
+    "sentence": "Because marine heatwaves and long-term warming are already reorganizing food webs and predator distributions ref [196], ref [197], survey syntheses should emphasize resilience metrics, cross-population comparisons, and adaptive baselines that remain useful under continued ecological novelty ref [198].",
+    "refNo": 198,
+    "title": "The future of the world's climate refugia"
+  }
+]

@@ -1,0 +1,867 @@
+[
+  {
+    "sentence": "Prior to the regulation, the ultra-orphan market was considered unattractive and unprofitable ref [1] ref [3].",
+    "refNo": 1,
+    "title": "Orphan drug development: an economically viable strategy for biopharma R&D",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Prior to the regulation, the ultra-orphan market was considered unattractive and unprofitable ref [1] ref [3].",
+    "refNo": 3,
+    "title": "Extraordinary pricing of orphan drugs: is it a socially responsible strategy for the US pharmaceutical industry",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "The following search terms and combinations thereof were used: orphan drug; orphan medicinal product; ultra-orphan drug; ultra-orphan medicinal product; rare disease; ultra-rare disease; rare disorder; ultra-rare disorder; ERT; price; pricing; policies; price-setting; market access; budget; and regulation, reflecting the pricing, cost-effectiveness, and affordability debates highlighted in the literature on high-cost orphan and ultra-orphan therapies ref [3], ref [4], ref [5].",
+    "refNo": 3,
+    "title": "Extraordinary pricing of orphan drugs: is it a socially responsible strategy for the US pharmaceutical industry",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "The following search terms and combinations thereof were used: orphan drug; orphan medicinal product; ultra-orphan drug; ultra-orphan medicinal product; rare disease; ultra-rare disease; rare disorder; ultra-rare disorder; ERT; price; pricing; policies; price-setting; market access; budget; and regulation, reflecting the pricing, cost-effectiveness, and affordability debates highlighted in the literature on high-cost orphan and ultra-orphan therapies ref [3], ref [4], ref [5].",
+    "refNo": 4,
+    "title": "Dutch doctors call for EU evaluation of cost effectiveness of high cost orphan drugs",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "The following search terms and combinations thereof were used: orphan drug; orphan medicinal product; ultra-orphan drug; ultra-orphan medicinal product; rare disease; ultra-rare disease; rare disorder; ultra-rare disorder; ERT; price; pricing; policies; price-setting; market access; budget; and regulation, reflecting the pricing, cost-effectiveness, and affordability debates highlighted in the literature on high-cost orphan and ultra-orphan therapies ref [3], ref [4], ref [5].",
+    "refNo": 5,
+    "title": "Quantifying emerging drugs for very rare conditions",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "In the European regulation, rare diseases are described as \"conditions that occur so infrequently that the cost of developing and bringing to the market a medicinal product to diagnose, prevent, or treat the condition would not be recovered by the expected sales of the medicinal product.\" In Europe, the maximum prevalence of a rare disease is five cases per 10,000 individuals ref [8]. 1The World Health Organization adopted a definition in which the maximum prevalence of a rare disease is 65 cases per 100,000 individuals. 2ltra-rare diseases constitute an informal subcategory, within rare diseases, to describe very rare diseases.",
+    "refNo": 8,
+    "title": "Access to orphan drugs in Europe: current and future issues",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "In the European regulation, rare diseases are described as \"conditions that occur so infrequently that the cost of developing and bringing to the market a medicinal product to diagnose, prevent, or treat the condition would not be recovered by the expected sales of the medicinal product.\" In Europe, the maximum prevalence of a rare disease is five cases per 10,000 individuals ref [8]. 1The World Health Organization adopted a definition in which the maximum prevalence of a rare disease is 65 cases per 100,000 individuals. 2ltra-rare diseases constitute an informal subcategory, within rare diseases, to describe very rare diseases.",
+    "refNo": 1,
+    "title": "Orphan drug development: an economically viable strategy for biopharma R&D",
+    "marker_text": "1",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "In the European regulation, rare diseases are described as \"conditions that occur so infrequently that the cost of developing and bringing to the market a medicinal product to diagnose, prevent, or treat the condition would not be recovered by the expected sales of the medicinal product.\" In Europe, the maximum prevalence of a rare disease is five cases per 10,000 individuals ref [8]. 1The World Health Organization adopted a definition in which the maximum prevalence of a rare disease is 65 cases per 100,000 individuals. 2ltra-rare diseases constitute an informal subcategory, within rare diseases, to describe very rare diseases.",
+    "refNo": 2,
+    "title": "Big Pharma's new model in orphan drugs and rare diseases",
+    "marker_text": "2",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "The frequency of ultra-rare diseases is not well defined; consequently, no formal legal definition exists ref [7][3]. 35][6][7][8] Prior to the regulation, the ultra-orphan market was considered unattractive and unprofitable.",
+    "refNo": 7,
+    "title": "Developing and paying for medicines for orphan indications in oncology: utilitarian regulation vs equitable care?",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "The frequency of ultra-rare diseases is not well defined; consequently, no formal legal definition exists ref [7][3]. 35][6][7][8] Prior to the regulation, the ultra-orphan market was considered unattractive and unprofitable.",
+    "refNo": 3,
+    "title": "Extraordinary pricing of orphan drugs: is it a socially responsible strategy for the US pharmaceutical industry",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "The frequency of ultra-rare diseases is not well defined; consequently, no formal legal definition exists ref [7][3]. 35][6][7][8] Prior to the regulation, the ultra-orphan market was considered unattractive and unprofitable.",
+    "refNo": 6,
+    "title": "Ethical issues related to the access to orphan drugs in Brazil: the case of mucopolysaccharidosis type I",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "The frequency of ultra-rare diseases is not well defined; consequently, no formal legal definition exists ref [7][3]. 35][6][7][8] Prior to the regulation, the ultra-orphan market was considered unattractive and unprofitable.",
+    "refNo": 7,
+    "title": "Developing and paying for medicines for orphan indications in oncology: utilitarian regulation vs equitable care?",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "The frequency of ultra-rare diseases is not well defined; consequently, no formal legal definition exists ref [7][3]. 35][6][7][8] Prior to the regulation, the ultra-orphan market was considered unattractive and unprofitable.",
+    "refNo": 8,
+    "title": "Access to orphan drugs in Europe: current and future issues",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "The pharmaceutical industry, confronted with lagging traditional drug approvals and declining investments, is seeking new sources of income. 9,10Spurred by high prices, pharmaceutical companies have moved from traditional blockbusters to niche-busters. 11,12Shorter clinical development time, the high level of unmet medical need, and successful regulatory submissions fuelled a turn to targeted medicinal products. 12Nowadays, orphan medicinal products (OMPs), intended for the treatment, diagnosis, or prevention of ultra-rare diseases, represent attractive investment opportunities ref [8]. 1,9,10A few OMPs even qualify as blockbusters, as their global annual sales exceed $1 billion. 10igh prices for ultra-OMPs can be traced back to the need to recoup a high cost of research and development (R&D) from a small number of patients. 13Genzyme was the first to charge a high price for imiglucerase, and other ultra-OMPs soon followed. 10,14Imiglucerase, an enzyme replacement therapy (ERT) for the treatment of Gaucher's disease, costs between $100,000 and $400,000 per patient per year.",
+    "refNo": 8,
+    "title": "Access to orphan drugs in Europe: current and future issues",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "The pharmaceutical industry, confronted with lagging traditional drug approvals and declining investments, is seeking new sources of income. 9,10Spurred by high prices, pharmaceutical companies have moved from traditional blockbusters to niche-busters. 11,12Shorter clinical development time, the high level of unmet medical need, and successful regulatory submissions fuelled a turn to targeted medicinal products. 12Nowadays, orphan medicinal products (OMPs), intended for the treatment, diagnosis, or prevention of ultra-rare diseases, represent attractive investment opportunities ref [8]. 1,9,10A few OMPs even qualify as blockbusters, as their global annual sales exceed $1 billion. 10igh prices for ultra-OMPs can be traced back to the need to recoup a high cost of research and development (R&D) from a small number of patients. 13Genzyme was the first to charge a high price for imiglucerase, and other ultra-OMPs soon followed. 10,14Imiglucerase, an enzyme replacement therapy (ERT) for the treatment of Gaucher's disease, costs between $100,000 and $400,000 per patient per year.",
+    "refNo": 9,
+    "title": "Expensive drugs for rare disorders: to treat or not to treat? The case of enzyme replacement therapy for mucopolysaccharidosis VI",
+    "marker_text": "9",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "The pharmaceutical industry, confronted with lagging traditional drug approvals and declining investments, is seeking new sources of income. 9,10Spurred by high prices, pharmaceutical companies have moved from traditional blockbusters to niche-busters. 11,12Shorter clinical development time, the high level of unmet medical need, and successful regulatory submissions fuelled a turn to targeted medicinal products. 12Nowadays, orphan medicinal products (OMPs), intended for the treatment, diagnosis, or prevention of ultra-rare diseases, represent attractive investment opportunities ref [8]. 1,9,10A few OMPs even qualify as blockbusters, as their global annual sales exceed $1 billion. 10igh prices for ultra-OMPs can be traced back to the need to recoup a high cost of research and development (R&D) from a small number of patients. 13Genzyme was the first to charge a high price for imiglucerase, and other ultra-OMPs soon followed. 10,14Imiglucerase, an enzyme replacement therapy (ERT) for the treatment of Gaucher's disease, costs between $100,000 and $400,000 per patient per year.",
+    "refNo": 10,
+    "title": "Imiglucerase in the treatment of Gaucher disease: a history and perspective",
+    "marker_text": "10",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "The pharmaceutical industry, confronted with lagging traditional drug approvals and declining investments, is seeking new sources of income. 9,10Spurred by high prices, pharmaceutical companies have moved from traditional blockbusters to niche-busters. 11,12Shorter clinical development time, the high level of unmet medical need, and successful regulatory submissions fuelled a turn to targeted medicinal products. 12Nowadays, orphan medicinal products (OMPs), intended for the treatment, diagnosis, or prevention of ultra-rare diseases, represent attractive investment opportunities ref [8]. 1,9,10A few OMPs even qualify as blockbusters, as their global annual sales exceed $1 billion. 10igh prices for ultra-OMPs can be traced back to the need to recoup a high cost of research and development (R&D) from a small number of patients. 13Genzyme was the first to charge a high price for imiglucerase, and other ultra-OMPs soon followed. 10,14Imiglucerase, an enzyme replacement therapy (ERT) for the treatment of Gaucher's disease, costs between $100,000 and $400,000 per patient per year.",
+    "refNo": 11,
+    "title": "Care for patients with ultra-rare disorders",
+    "marker_text": "11",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "The pharmaceutical industry, confronted with lagging traditional drug approvals and declining investments, is seeking new sources of income. 9,10Spurred by high prices, pharmaceutical companies have moved from traditional blockbusters to niche-busters. 11,12Shorter clinical development time, the high level of unmet medical need, and successful regulatory submissions fuelled a turn to targeted medicinal products. 12Nowadays, orphan medicinal products (OMPs), intended for the treatment, diagnosis, or prevention of ultra-rare diseases, represent attractive investment opportunities ref [8]. 1,9,10A few OMPs even qualify as blockbusters, as their global annual sales exceed $1 billion. 10igh prices for ultra-OMPs can be traced back to the need to recoup a high cost of research and development (R&D) from a small number of patients. 13Genzyme was the first to charge a high price for imiglucerase, and other ultra-OMPs soon followed. 10,14Imiglucerase, an enzyme replacement therapy (ERT) for the treatment of Gaucher's disease, costs between $100,000 and $400,000 per patient per year.",
+    "refNo": 12,
+    "title": "Rare diseases, orphan drugs and their regulation: questions and misconceptions",
+    "marker_text": "12",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "The pharmaceutical industry, confronted with lagging traditional drug approvals and declining investments, is seeking new sources of income. 9,10Spurred by high prices, pharmaceutical companies have moved from traditional blockbusters to niche-busters. 11,12Shorter clinical development time, the high level of unmet medical need, and successful regulatory submissions fuelled a turn to targeted medicinal products. 12Nowadays, orphan medicinal products (OMPs), intended for the treatment, diagnosis, or prevention of ultra-rare diseases, represent attractive investment opportunities ref [8]. 1,9,10A few OMPs even qualify as blockbusters, as their global annual sales exceed $1 billion. 10igh prices for ultra-OMPs can be traced back to the need to recoup a high cost of research and development (R&D) from a small number of patients. 13Genzyme was the first to charge a high price for imiglucerase, and other ultra-OMPs soon followed. 10,14Imiglucerase, an enzyme replacement therapy (ERT) for the treatment of Gaucher's disease, costs between $100,000 and $400,000 per patient per year.",
+    "refNo": 1,
+    "title": "Orphan drug development: an economically viable strategy for biopharma R&D",
+    "marker_text": "1",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "The pharmaceutical industry, confronted with lagging traditional drug approvals and declining investments, is seeking new sources of income. 9,10Spurred by high prices, pharmaceutical companies have moved from traditional blockbusters to niche-busters. 11,12Shorter clinical development time, the high level of unmet medical need, and successful regulatory submissions fuelled a turn to targeted medicinal products. 12Nowadays, orphan medicinal products (OMPs), intended for the treatment, diagnosis, or prevention of ultra-rare diseases, represent attractive investment opportunities ref [8]. 1,9,10A few OMPs even qualify as blockbusters, as their global annual sales exceed $1 billion. 10igh prices for ultra-OMPs can be traced back to the need to recoup a high cost of research and development (R&D) from a small number of patients. 13Genzyme was the first to charge a high price for imiglucerase, and other ultra-OMPs soon followed. 10,14Imiglucerase, an enzyme replacement therapy (ERT) for the treatment of Gaucher's disease, costs between $100,000 and $400,000 per patient per year.",
+    "refNo": 13,
+    "title": "The price of innovation: new estimates of drug development costs",
+    "marker_text": "13",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "The pharmaceutical industry, confronted with lagging traditional drug approvals and declining investments, is seeking new sources of income. 9,10Spurred by high prices, pharmaceutical companies have moved from traditional blockbusters to niche-busters. 11,12Shorter clinical development time, the high level of unmet medical need, and successful regulatory submissions fuelled a turn to targeted medicinal products. 12Nowadays, orphan medicinal products (OMPs), intended for the treatment, diagnosis, or prevention of ultra-rare diseases, represent attractive investment opportunities ref [8]. 1,9,10A few OMPs even qualify as blockbusters, as their global annual sales exceed $1 billion. 10igh prices for ultra-OMPs can be traced back to the need to recoup a high cost of research and development (R&D) from a small number of patients. 13Genzyme was the first to charge a high price for imiglucerase, and other ultra-OMPs soon followed. 10,14Imiglucerase, an enzyme replacement therapy (ERT) for the treatment of Gaucher's disease, costs between $100,000 and $400,000 per patient per year.",
+    "refNo": 14,
+    "title": "What is wrong with orphan drug policies? Suggestions for ways forward",
+    "marker_text": "14",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Although there are only 2000 patients in the United States and 6000 patients worldwide, the revenue from imiglucerase approached US $1.8 billion in 2009. 10,11,15imilarly, agalsidase beta (for the treatment of Fabry disease) and laronidase (for the treatment of mucopolysaccharidosis type I), respectively cost $300,000 and $350,000 per year per patient. 11,16In a study by Orofino, the average of the mean cost per patient across several European countries ranged from €3523 to €337,501 for 14 ultra-OMPs. 17The yearly cost of eculizumab (for the treatment of paroxysmal nocturnal hemoglobinuria) is the highest, at just under $500,000 per patient. 9,10In 2010, eculizumab generated $541 million in sales. 12Remarkably, eculizumab was originally intended for the treatment of arthritis, and would probably have been priced in the range of similar medicinal products at $20,000 per patient per year. 18Extraordinary price increases (defined as increases of more than 100% at a time) have also been documented when established off-label use of a medicinal product became approved. 19,20For example, unlicensed use of 3,4-diaminopyridine for the treatment of Lambert-Eaton myasthenic syndrome cost approximately €1000 per patient per year.",
+    "refNo": 11,
+    "title": "Care for patients with ultra-rare disorders",
+    "marker_text": "11",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Although there are only 2000 patients in the United States and 6000 patients worldwide, the revenue from imiglucerase approached US $1.8 billion in 2009. 10,11,15imilarly, agalsidase beta (for the treatment of Fabry disease) and laronidase (for the treatment of mucopolysaccharidosis type I), respectively cost $300,000 and $350,000 per year per patient. 11,16In a study by Orofino, the average of the mean cost per patient across several European countries ranged from €3523 to €337,501 for 14 ultra-OMPs. 17The yearly cost of eculizumab (for the treatment of paroxysmal nocturnal hemoglobinuria) is the highest, at just under $500,000 per patient. 9,10In 2010, eculizumab generated $541 million in sales. 12Remarkably, eculizumab was originally intended for the treatment of arthritis, and would probably have been priced in the range of similar medicinal products at $20,000 per patient per year. 18Extraordinary price increases (defined as increases of more than 100% at a time) have also been documented when established off-label use of a medicinal product became approved. 19,20For example, unlicensed use of 3,4-diaminopyridine for the treatment of Lambert-Eaton myasthenic syndrome cost approximately €1000 per patient per year.",
+    "refNo": 16,
+    "title": "Quantitative Analysis of the Influence of Disease and Product Characteristics on Orphan Drug Prices in Europe",
+    "marker_text": "16",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Although there are only 2000 patients in the United States and 6000 patients worldwide, the revenue from imiglucerase approached US $1.8 billion in 2009. 10,11,15imilarly, agalsidase beta (for the treatment of Fabry disease) and laronidase (for the treatment of mucopolysaccharidosis type I), respectively cost $300,000 and $350,000 per year per patient. 11,16In a study by Orofino, the average of the mean cost per patient across several European countries ranged from €3523 to €337,501 for 14 ultra-OMPs. 17The yearly cost of eculizumab (for the treatment of paroxysmal nocturnal hemoglobinuria) is the highest, at just under $500,000 per patient. 9,10In 2010, eculizumab generated $541 million in sales. 12Remarkably, eculizumab was originally intended for the treatment of arthritis, and would probably have been priced in the range of similar medicinal products at $20,000 per patient per year. 18Extraordinary price increases (defined as increases of more than 100% at a time) have also been documented when established off-label use of a medicinal product became approved. 19,20For example, unlicensed use of 3,4-diaminopyridine for the treatment of Lambert-Eaton myasthenic syndrome cost approximately €1000 per patient per year.",
+    "refNo": 17,
+    "title": "Are rare diseases still orphans or happily adopted? The challenges of developing and using orphan medicinal products",
+    "marker_text": "17",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Although there are only 2000 patients in the United States and 6000 patients worldwide, the revenue from imiglucerase approached US $1.8 billion in 2009. 10,11,15imilarly, agalsidase beta (for the treatment of Fabry disease) and laronidase (for the treatment of mucopolysaccharidosis type I), respectively cost $300,000 and $350,000 per year per patient. 11,16In a study by Orofino, the average of the mean cost per patient across several European countries ranged from €3523 to €337,501 for 14 ultra-OMPs. 17The yearly cost of eculizumab (for the treatment of paroxysmal nocturnal hemoglobinuria) is the highest, at just under $500,000 per patient. 9,10In 2010, eculizumab generated $541 million in sales. 12Remarkably, eculizumab was originally intended for the treatment of arthritis, and would probably have been priced in the range of similar medicinal products at $20,000 per patient per year. 18Extraordinary price increases (defined as increases of more than 100% at a time) have also been documented when established off-label use of a medicinal product became approved. 19,20For example, unlicensed use of 3,4-diaminopyridine for the treatment of Lambert-Eaton myasthenic syndrome cost approximately €1000 per patient per year.",
+    "refNo": 9,
+    "title": "Expensive drugs for rare disorders: to treat or not to treat? The case of enzyme replacement therapy for mucopolysaccharidosis VI",
+    "marker_text": "9",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Although there are only 2000 patients in the United States and 6000 patients worldwide, the revenue from imiglucerase approached US $1.8 billion in 2009. 10,11,15imilarly, agalsidase beta (for the treatment of Fabry disease) and laronidase (for the treatment of mucopolysaccharidosis type I), respectively cost $300,000 and $350,000 per year per patient. 11,16In a study by Orofino, the average of the mean cost per patient across several European countries ranged from €3523 to €337,501 for 14 ultra-OMPs. 17The yearly cost of eculizumab (for the treatment of paroxysmal nocturnal hemoglobinuria) is the highest, at just under $500,000 per patient. 9,10In 2010, eculizumab generated $541 million in sales. 12Remarkably, eculizumab was originally intended for the treatment of arthritis, and would probably have been priced in the range of similar medicinal products at $20,000 per patient per year. 18Extraordinary price increases (defined as increases of more than 100% at a time) have also been documented when established off-label use of a medicinal product became approved. 19,20For example, unlicensed use of 3,4-diaminopyridine for the treatment of Lambert-Eaton myasthenic syndrome cost approximately €1000 per patient per year.",
+    "refNo": 10,
+    "title": "Imiglucerase in the treatment of Gaucher disease: a history and perspective",
+    "marker_text": "10",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Although there are only 2000 patients in the United States and 6000 patients worldwide, the revenue from imiglucerase approached US $1.8 billion in 2009. 10,11,15imilarly, agalsidase beta (for the treatment of Fabry disease) and laronidase (for the treatment of mucopolysaccharidosis type I), respectively cost $300,000 and $350,000 per year per patient. 11,16In a study by Orofino, the average of the mean cost per patient across several European countries ranged from €3523 to €337,501 for 14 ultra-OMPs. 17The yearly cost of eculizumab (for the treatment of paroxysmal nocturnal hemoglobinuria) is the highest, at just under $500,000 per patient. 9,10In 2010, eculizumab generated $541 million in sales. 12Remarkably, eculizumab was originally intended for the treatment of arthritis, and would probably have been priced in the range of similar medicinal products at $20,000 per patient per year. 18Extraordinary price increases (defined as increases of more than 100% at a time) have also been documented when established off-label use of a medicinal product became approved. 19,20For example, unlicensed use of 3,4-diaminopyridine for the treatment of Lambert-Eaton myasthenic syndrome cost approximately €1000 per patient per year.",
+    "refNo": 12,
+    "title": "Rare diseases, orphan drugs and their regulation: questions and misconceptions",
+    "marker_text": "12",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Although there are only 2000 patients in the United States and 6000 patients worldwide, the revenue from imiglucerase approached US $1.8 billion in 2009. 10,11,15imilarly, agalsidase beta (for the treatment of Fabry disease) and laronidase (for the treatment of mucopolysaccharidosis type I), respectively cost $300,000 and $350,000 per year per patient. 11,16In a study by Orofino, the average of the mean cost per patient across several European countries ranged from €3523 to €337,501 for 14 ultra-OMPs. 17The yearly cost of eculizumab (for the treatment of paroxysmal nocturnal hemoglobinuria) is the highest, at just under $500,000 per patient. 9,10In 2010, eculizumab generated $541 million in sales. 12Remarkably, eculizumab was originally intended for the treatment of arthritis, and would probably have been priced in the range of similar medicinal products at $20,000 per patient per year. 18Extraordinary price increases (defined as increases of more than 100% at a time) have also been documented when established off-label use of a medicinal product became approved. 19,20For example, unlicensed use of 3,4-diaminopyridine for the treatment of Lambert-Eaton myasthenic syndrome cost approximately €1000 per patient per year.",
+    "refNo": 18,
+    "title": "Pricing and reimbursement of orphan drugs: the need for more transparency",
+    "marker_text": "18",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Although there are only 2000 patients in the United States and 6000 patients worldwide, the revenue from imiglucerase approached US $1.8 billion in 2009. 10,11,15imilarly, agalsidase beta (for the treatment of Fabry disease) and laronidase (for the treatment of mucopolysaccharidosis type I), respectively cost $300,000 and $350,000 per year per patient. 11,16In a study by Orofino, the average of the mean cost per patient across several European countries ranged from €3523 to €337,501 for 14 ultra-OMPs. 17The yearly cost of eculizumab (for the treatment of paroxysmal nocturnal hemoglobinuria) is the highest, at just under $500,000 per patient. 9,10In 2010, eculizumab generated $541 million in sales. 12Remarkably, eculizumab was originally intended for the treatment of arthritis, and would probably have been priced in the range of similar medicinal products at $20,000 per patient per year. 18Extraordinary price increases (defined as increases of more than 100% at a time) have also been documented when established off-label use of a medicinal product became approved. 19,20For example, unlicensed use of 3,4-diaminopyridine for the treatment of Lambert-Eaton myasthenic syndrome cost approximately €1000 per patient per year.",
+    "refNo": 19,
+    "title": "Paying for the Orphan Drug System: break or bend? Is it time for a new evaluation system for payers in Europe to take account of new rare disease treatments?",
+    "marker_text": "19",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Although there are only 2000 patients in the United States and 6000 patients worldwide, the revenue from imiglucerase approached US $1.8 billion in 2009. 10,11,15imilarly, agalsidase beta (for the treatment of Fabry disease) and laronidase (for the treatment of mucopolysaccharidosis type I), respectively cost $300,000 and $350,000 per year per patient. 11,16In a study by Orofino, the average of the mean cost per patient across several European countries ranged from €3523 to €337,501 for 14 ultra-OMPs. 17The yearly cost of eculizumab (for the treatment of paroxysmal nocturnal hemoglobinuria) is the highest, at just under $500,000 per patient. 9,10In 2010, eculizumab generated $541 million in sales. 12Remarkably, eculizumab was originally intended for the treatment of arthritis, and would probably have been priced in the range of similar medicinal products at $20,000 per patient per year. 18Extraordinary price increases (defined as increases of more than 100% at a time) have also been documented when established off-label use of a medicinal product became approved. 19,20For example, unlicensed use of 3,4-diaminopyridine for the treatment of Lambert-Eaton myasthenic syndrome cost approximately €1000 per patient per year.",
+    "refNo": 20,
+    "title": "Orphan Drugs for Rare Diseases: Grounds for Special Status",
+    "marker_text": "20",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "The price of the marketed version is 50-70 times higher. 21rices, often as high as the market will bear, have given rise to arguments on the justification of high prices ref [7][3]. 22or example, the Dutch government questioned the high prices of some ultra-OMPs for the treatment of hereditary metabolic disorders. 23The pricing process of ultra-OMPs has been viewed as arbitrary and nontransparent. 24dditionally, there is a debate on the sustainability of high prices for ultra-OMPs within the context of current health care systems ref [7][3]. 12e aim of this article is to review the international scientific literature on the pricing of ultra-OMPs.",
+    "refNo": 7,
+    "title": "Developing and paying for medicines for orphan indications in oncology: utilitarian regulation vs equitable care?",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "The price of the marketed version is 50-70 times higher. 21rices, often as high as the market will bear, have given rise to arguments on the justification of high prices ref [7][3]. 22or example, the Dutch government questioned the high prices of some ultra-OMPs for the treatment of hereditary metabolic disorders. 23The pricing process of ultra-OMPs has been viewed as arbitrary and nontransparent. 24dditionally, there is a debate on the sustainability of high prices for ultra-OMPs within the context of current health care systems ref [7][3]. 12e aim of this article is to review the international scientific literature on the pricing of ultra-OMPs.",
+    "refNo": 3,
+    "title": "Extraordinary pricing of orphan drugs: is it a socially responsible strategy for the US pharmaceutical industry",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "The price of the marketed version is 50-70 times higher. 21rices, often as high as the market will bear, have given rise to arguments on the justification of high prices ref [7][3]. 22or example, the Dutch government questioned the high prices of some ultra-OMPs for the treatment of hereditary metabolic disorders. 23The pricing process of ultra-OMPs has been viewed as arbitrary and nontransparent. 24dditionally, there is a debate on the sustainability of high prices for ultra-OMPs within the context of current health care systems ref [7][3]. 12e aim of this article is to review the international scientific literature on the pricing of ultra-OMPs.",
+    "refNo": 7,
+    "title": "Developing and paying for medicines for orphan indications in oncology: utilitarian regulation vs equitable care?",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "The price of the marketed version is 50-70 times higher. 21rices, often as high as the market will bear, have given rise to arguments on the justification of high prices ref [7][3]. 22or example, the Dutch government questioned the high prices of some ultra-OMPs for the treatment of hereditary metabolic disorders. 23The pricing process of ultra-OMPs has been viewed as arbitrary and nontransparent. 24dditionally, there is a debate on the sustainability of high prices for ultra-OMPs within the context of current health care systems ref [7][3]. 12e aim of this article is to review the international scientific literature on the pricing of ultra-OMPs.",
+    "refNo": 3,
+    "title": "Extraordinary pricing of orphan drugs: is it a socially responsible strategy for the US pharmaceutical industry",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "The price of the marketed version is 50-70 times higher. 21rices, often as high as the market will bear, have given rise to arguments on the justification of high prices ref [7][3]. 22or example, the Dutch government questioned the high prices of some ultra-OMPs for the treatment of hereditary metabolic disorders. 23The pricing process of ultra-OMPs has been viewed as arbitrary and nontransparent. 24dditionally, there is a debate on the sustainability of high prices for ultra-OMPs within the context of current health care systems ref [7][3]. 12e aim of this article is to review the international scientific literature on the pricing of ultra-OMPs.",
+    "refNo": 21,
+    "title": "Drugs for exceptionally rare diseases: do they deserve special status for funding?",
+    "marker_text": "21",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "The price of the marketed version is 50-70 times higher. 21rices, often as high as the market will bear, have given rise to arguments on the justification of high prices ref [7][3]. 22or example, the Dutch government questioned the high prices of some ultra-OMPs for the treatment of hereditary metabolic disorders. 23The pricing process of ultra-OMPs has been viewed as arbitrary and nontransparent. 24dditionally, there is a debate on the sustainability of high prices for ultra-OMPs within the context of current health care systems ref [7][3]. 12e aim of this article is to review the international scientific literature on the pricing of ultra-OMPs.",
+    "refNo": 22,
+    "title": "A fair share for the orphans: ethical guidelines for a fair distribution of resources within the bounds of the 10-year-old European Orphan Drug Regulation",
+    "marker_text": "22",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "The price of the marketed version is 50-70 times higher. 21rices, often as high as the market will bear, have given rise to arguments on the justification of high prices ref [7][3]. 22or example, the Dutch government questioned the high prices of some ultra-OMPs for the treatment of hereditary metabolic disorders. 23The pricing process of ultra-OMPs has been viewed as arbitrary and nontransparent. 24dditionally, there is a debate on the sustainability of high prices for ultra-OMPs within the context of current health care systems ref [7][3]. 12e aim of this article is to review the international scientific literature on the pricing of ultra-OMPs.",
+    "refNo": 23,
+    "title": "Drugs for rare diseases: influence of orphan designation status on price",
+    "marker_text": "23",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "The price of the marketed version is 50-70 times higher. 21rices, often as high as the market will bear, have given rise to arguments on the justification of high prices ref [7][3]. 22or example, the Dutch government questioned the high prices of some ultra-OMPs for the treatment of hereditary metabolic disorders. 23The pricing process of ultra-OMPs has been viewed as arbitrary and nontransparent. 24dditionally, there is a debate on the sustainability of high prices for ultra-OMPs within the context of current health care systems ref [7][3]. 12e aim of this article is to review the international scientific literature on the pricing of ultra-OMPs.",
+    "refNo": 24,
+    "title": "Estimating the budget impact of orphan medicines in Europe: 2010-2020",
+    "marker_text": "24",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "The price of the marketed version is 50-70 times higher. 21rices, often as high as the market will bear, have given rise to arguments on the justification of high prices ref [7][3]. 22or example, the Dutch government questioned the high prices of some ultra-OMPs for the treatment of hereditary metabolic disorders. 23The pricing process of ultra-OMPs has been viewed as arbitrary and nontransparent. 24dditionally, there is a debate on the sustainability of high prices for ultra-OMPs within the context of current health care systems ref [7][3]. 12e aim of this article is to review the international scientific literature on the pricing of ultra-OMPs.",
+    "refNo": 12,
+    "title": "Rare diseases, orphan drugs and their regulation: questions and misconceptions",
+    "marker_text": "12",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "In the European regulation, rare diseases are described as \"conditions that occur so infrequently that the cost of developing and bringing to the market a medicinal product to diagnose, prevent, or treat the condition would not be recovered by the expected sales of the medicinal product.\"In Europe, the maximum prevalence of a rare disease is five cases per 10,000 individuals. 1The World Health Organization adopted a definition in which the maximum prevalence of a rare disease is 65 cases per 100,000 individuals. 2ltra-rare diseases constitute an informal subcategory, within rare diseases, to describe very rare diseases.",
+    "refNo": 1,
+    "title": "Orphan drug development: an economically viable strategy for biopharma R&D",
+    "marker_text": "1",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "In the European regulation, rare diseases are described as \"conditions that occur so infrequently that the cost of developing and bringing to the market a medicinal product to diagnose, prevent, or treat the condition would not be recovered by the expected sales of the medicinal product.\"In Europe, the maximum prevalence of a rare disease is five cases per 10,000 individuals. 1The World Health Organization adopted a definition in which the maximum prevalence of a rare disease is 65 cases per 100,000 individuals. 2ltra-rare diseases constitute an informal subcategory, within rare diseases, to describe very rare diseases.",
+    "refNo": 2,
+    "title": "Big Pharma's new model in orphan drugs and rare diseases",
+    "marker_text": "2",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "The frequency of ultra-rare diseases is not well defined; consequently, no formal legal definition exists ref [11]. 35][6][7][8] Prior to the regulation, the ultra-orphan market was considered unattractive and unprofitable.",
+    "refNo": 11,
+    "title": "Care for patients with ultra-rare disorders",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "The frequency of ultra-rare diseases is not well defined; consequently, no formal legal definition exists ref [11]. 35][6][7][8] Prior to the regulation, the ultra-orphan market was considered unattractive and unprofitable.",
+    "refNo": 6,
+    "title": "Ethical issues related to the access to orphan drugs in Brazil: the case of mucopolysaccharidosis type I",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "The frequency of ultra-rare diseases is not well defined; consequently, no formal legal definition exists ref [11]. 35][6][7][8] Prior to the regulation, the ultra-orphan market was considered unattractive and unprofitable.",
+    "refNo": 7,
+    "title": "Developing and paying for medicines for orphan indications in oncology: utilitarian regulation vs equitable care?",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "The frequency of ultra-rare diseases is not well defined; consequently, no formal legal definition exists ref [11]. 35][6][7][8] Prior to the regulation, the ultra-orphan market was considered unattractive and unprofitable.",
+    "refNo": 8,
+    "title": "Access to orphan drugs in Europe: current and future issues",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "The pharmaceutical industry, confronted with lagging traditional drug approvals and declining investments, is seeking new sources of income. 9,10Spurred by high prices, pharmaceutical companies have moved from traditional blockbusters to niche-busters. 11,12Shorter clinical development time, the high level of unmet medical need, and successful regulatory submissions fuelled a turn to targeted medicinal products. 12Nowadays, orphan medicinal products (OMPs), intended for the treatment, diagnosis, or prevention of ultra-rare diseases, represent attractive investment opportunities. 1,9,10A few OMPs even qualify as blockbusters, as their global annual sales exceed $1 billion. 10igh prices for ultra-OMPs can be traced back to the need to recoup a high cost of research and development (R&D) from a small number of patients. 13Genzyme was the first to charge a high price for imiglucerase, and other ultra-OMPs soon followed ref [10]. 10,14Imiglucerase, an enzyme replacement therapy (ERT) for the treatment of Gaucher's disease, costs between $100,000 and $400,000 per patient per year.",
+    "refNo": 10,
+    "title": "Imiglucerase in the treatment of Gaucher disease: a history and perspective",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "The pharmaceutical industry, confronted with lagging traditional drug approvals and declining investments, is seeking new sources of income. 9,10Spurred by high prices, pharmaceutical companies have moved from traditional blockbusters to niche-busters. 11,12Shorter clinical development time, the high level of unmet medical need, and successful regulatory submissions fuelled a turn to targeted medicinal products. 12Nowadays, orphan medicinal products (OMPs), intended for the treatment, diagnosis, or prevention of ultra-rare diseases, represent attractive investment opportunities. 1,9,10A few OMPs even qualify as blockbusters, as their global annual sales exceed $1 billion. 10igh prices for ultra-OMPs can be traced back to the need to recoup a high cost of research and development (R&D) from a small number of patients. 13Genzyme was the first to charge a high price for imiglucerase, and other ultra-OMPs soon followed ref [10]. 10,14Imiglucerase, an enzyme replacement therapy (ERT) for the treatment of Gaucher's disease, costs between $100,000 and $400,000 per patient per year.",
+    "refNo": 9,
+    "title": "Expensive drugs for rare disorders: to treat or not to treat? The case of enzyme replacement therapy for mucopolysaccharidosis VI",
+    "marker_text": "9",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "The pharmaceutical industry, confronted with lagging traditional drug approvals and declining investments, is seeking new sources of income. 9,10Spurred by high prices, pharmaceutical companies have moved from traditional blockbusters to niche-busters. 11,12Shorter clinical development time, the high level of unmet medical need, and successful regulatory submissions fuelled a turn to targeted medicinal products. 12Nowadays, orphan medicinal products (OMPs), intended for the treatment, diagnosis, or prevention of ultra-rare diseases, represent attractive investment opportunities. 1,9,10A few OMPs even qualify as blockbusters, as their global annual sales exceed $1 billion. 10igh prices for ultra-OMPs can be traced back to the need to recoup a high cost of research and development (R&D) from a small number of patients. 13Genzyme was the first to charge a high price for imiglucerase, and other ultra-OMPs soon followed ref [10]. 10,14Imiglucerase, an enzyme replacement therapy (ERT) for the treatment of Gaucher's disease, costs between $100,000 and $400,000 per patient per year.",
+    "refNo": 11,
+    "title": "Care for patients with ultra-rare disorders",
+    "marker_text": "11",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "The pharmaceutical industry, confronted with lagging traditional drug approvals and declining investments, is seeking new sources of income. 9,10Spurred by high prices, pharmaceutical companies have moved from traditional blockbusters to niche-busters. 11,12Shorter clinical development time, the high level of unmet medical need, and successful regulatory submissions fuelled a turn to targeted medicinal products. 12Nowadays, orphan medicinal products (OMPs), intended for the treatment, diagnosis, or prevention of ultra-rare diseases, represent attractive investment opportunities. 1,9,10A few OMPs even qualify as blockbusters, as their global annual sales exceed $1 billion. 10igh prices for ultra-OMPs can be traced back to the need to recoup a high cost of research and development (R&D) from a small number of patients. 13Genzyme was the first to charge a high price for imiglucerase, and other ultra-OMPs soon followed ref [10]. 10,14Imiglucerase, an enzyme replacement therapy (ERT) for the treatment of Gaucher's disease, costs between $100,000 and $400,000 per patient per year.",
+    "refNo": 12,
+    "title": "Rare diseases, orphan drugs and their regulation: questions and misconceptions",
+    "marker_text": "12",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "The pharmaceutical industry, confronted with lagging traditional drug approvals and declining investments, is seeking new sources of income. 9,10Spurred by high prices, pharmaceutical companies have moved from traditional blockbusters to niche-busters. 11,12Shorter clinical development time, the high level of unmet medical need, and successful regulatory submissions fuelled a turn to targeted medicinal products. 12Nowadays, orphan medicinal products (OMPs), intended for the treatment, diagnosis, or prevention of ultra-rare diseases, represent attractive investment opportunities. 1,9,10A few OMPs even qualify as blockbusters, as their global annual sales exceed $1 billion. 10igh prices for ultra-OMPs can be traced back to the need to recoup a high cost of research and development (R&D) from a small number of patients. 13Genzyme was the first to charge a high price for imiglucerase, and other ultra-OMPs soon followed ref [10]. 10,14Imiglucerase, an enzyme replacement therapy (ERT) for the treatment of Gaucher's disease, costs between $100,000 and $400,000 per patient per year.",
+    "refNo": 1,
+    "title": "Orphan drug development: an economically viable strategy for biopharma R&D",
+    "marker_text": "1",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "The pharmaceutical industry, confronted with lagging traditional drug approvals and declining investments, is seeking new sources of income. 9,10Spurred by high prices, pharmaceutical companies have moved from traditional blockbusters to niche-busters. 11,12Shorter clinical development time, the high level of unmet medical need, and successful regulatory submissions fuelled a turn to targeted medicinal products. 12Nowadays, orphan medicinal products (OMPs), intended for the treatment, diagnosis, or prevention of ultra-rare diseases, represent attractive investment opportunities. 1,9,10A few OMPs even qualify as blockbusters, as their global annual sales exceed $1 billion. 10igh prices for ultra-OMPs can be traced back to the need to recoup a high cost of research and development (R&D) from a small number of patients. 13Genzyme was the first to charge a high price for imiglucerase, and other ultra-OMPs soon followed ref [10]. 10,14Imiglucerase, an enzyme replacement therapy (ERT) for the treatment of Gaucher's disease, costs between $100,000 and $400,000 per patient per year.",
+    "refNo": 13,
+    "title": "The price of innovation: new estimates of drug development costs",
+    "marker_text": "13",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "The pharmaceutical industry, confronted with lagging traditional drug approvals and declining investments, is seeking new sources of income. 9,10Spurred by high prices, pharmaceutical companies have moved from traditional blockbusters to niche-busters. 11,12Shorter clinical development time, the high level of unmet medical need, and successful regulatory submissions fuelled a turn to targeted medicinal products. 12Nowadays, orphan medicinal products (OMPs), intended for the treatment, diagnosis, or prevention of ultra-rare diseases, represent attractive investment opportunities. 1,9,10A few OMPs even qualify as blockbusters, as their global annual sales exceed $1 billion. 10igh prices for ultra-OMPs can be traced back to the need to recoup a high cost of research and development (R&D) from a small number of patients. 13Genzyme was the first to charge a high price for imiglucerase, and other ultra-OMPs soon followed ref [10]. 10,14Imiglucerase, an enzyme replacement therapy (ERT) for the treatment of Gaucher's disease, costs between $100,000 and $400,000 per patient per year.",
+    "refNo": 14,
+    "title": "What is wrong with orphan drug policies? Suggestions for ways forward",
+    "marker_text": "14",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Although there are only 2000 patients in the United States and 6000 patients worldwide, the revenue from imiglucerase approached US $1.8 billion in 2009 ref [10]. 10,11,15imilarly, agalsidase beta (for the treatment of Fabry disease) and laronidase (for the treatment of mucopolysaccharidosis type I), respectively cost $300,000 and $350,000 per year per patient. 11,16In a study by Orofino, the average of the mean cost per patient across several European countries ranged from €3523 to €337,501 for 14 ultra-OMPs. 17The yearly cost of eculizumab (for the treatment of paroxysmal nocturnal hemoglobinuria) is the highest, at just under $500,000 per patient. 9,10In 2010, eculizumab generated $541 million in sales. 12Remarkably, eculizumab was originally intended for the treatment of arthritis, and would probably have been priced in the range of similar medicinal products at $20,000 per patient per year. 18Extraordinary price increases (defined as increases of more than 100% at a time) have also been documented when established off-label use of a medicinal product became approved. 19,20For example, unlicensed use of 3,4-diaminopyridine for the treatment of Lambert-Eaton myasthenic syndrome cost approximately €1000 per patient per year.",
+    "refNo": 10,
+    "title": "Imiglucerase in the treatment of Gaucher disease: a history and perspective",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Although there are only 2000 patients in the United States and 6000 patients worldwide, the revenue from imiglucerase approached US $1.8 billion in 2009 ref [10]. 10,11,15imilarly, agalsidase beta (for the treatment of Fabry disease) and laronidase (for the treatment of mucopolysaccharidosis type I), respectively cost $300,000 and $350,000 per year per patient. 11,16In a study by Orofino, the average of the mean cost per patient across several European countries ranged from €3523 to €337,501 for 14 ultra-OMPs. 17The yearly cost of eculizumab (for the treatment of paroxysmal nocturnal hemoglobinuria) is the highest, at just under $500,000 per patient. 9,10In 2010, eculizumab generated $541 million in sales. 12Remarkably, eculizumab was originally intended for the treatment of arthritis, and would probably have been priced in the range of similar medicinal products at $20,000 per patient per year. 18Extraordinary price increases (defined as increases of more than 100% at a time) have also been documented when established off-label use of a medicinal product became approved. 19,20For example, unlicensed use of 3,4-diaminopyridine for the treatment of Lambert-Eaton myasthenic syndrome cost approximately €1000 per patient per year.",
+    "refNo": 11,
+    "title": "Care for patients with ultra-rare disorders",
+    "marker_text": "11",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Although there are only 2000 patients in the United States and 6000 patients worldwide, the revenue from imiglucerase approached US $1.8 billion in 2009 ref [10]. 10,11,15imilarly, agalsidase beta (for the treatment of Fabry disease) and laronidase (for the treatment of mucopolysaccharidosis type I), respectively cost $300,000 and $350,000 per year per patient. 11,16In a study by Orofino, the average of the mean cost per patient across several European countries ranged from €3523 to €337,501 for 14 ultra-OMPs. 17The yearly cost of eculizumab (for the treatment of paroxysmal nocturnal hemoglobinuria) is the highest, at just under $500,000 per patient. 9,10In 2010, eculizumab generated $541 million in sales. 12Remarkably, eculizumab was originally intended for the treatment of arthritis, and would probably have been priced in the range of similar medicinal products at $20,000 per patient per year. 18Extraordinary price increases (defined as increases of more than 100% at a time) have also been documented when established off-label use of a medicinal product became approved. 19,20For example, unlicensed use of 3,4-diaminopyridine for the treatment of Lambert-Eaton myasthenic syndrome cost approximately €1000 per patient per year.",
+    "refNo": 15,
+    "title": "Early access: analysis of the French ATU system",
+    "marker_text": "15",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Although there are only 2000 patients in the United States and 6000 patients worldwide, the revenue from imiglucerase approached US $1.8 billion in 2009 ref [10]. 10,11,15imilarly, agalsidase beta (for the treatment of Fabry disease) and laronidase (for the treatment of mucopolysaccharidosis type I), respectively cost $300,000 and $350,000 per year per patient. 11,16In a study by Orofino, the average of the mean cost per patient across several European countries ranged from €3523 to €337,501 for 14 ultra-OMPs. 17The yearly cost of eculizumab (for the treatment of paroxysmal nocturnal hemoglobinuria) is the highest, at just under $500,000 per patient. 9,10In 2010, eculizumab generated $541 million in sales. 12Remarkably, eculizumab was originally intended for the treatment of arthritis, and would probably have been priced in the range of similar medicinal products at $20,000 per patient per year. 18Extraordinary price increases (defined as increases of more than 100% at a time) have also been documented when established off-label use of a medicinal product became approved. 19,20For example, unlicensed use of 3,4-diaminopyridine for the treatment of Lambert-Eaton myasthenic syndrome cost approximately €1000 per patient per year.",
+    "refNo": 16,
+    "title": "Quantitative Analysis of the Influence of Disease and Product Characteristics on Orphan Drug Prices in Europe",
+    "marker_text": "16",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Although there are only 2000 patients in the United States and 6000 patients worldwide, the revenue from imiglucerase approached US $1.8 billion in 2009 ref [10]. 10,11,15imilarly, agalsidase beta (for the treatment of Fabry disease) and laronidase (for the treatment of mucopolysaccharidosis type I), respectively cost $300,000 and $350,000 per year per patient. 11,16In a study by Orofino, the average of the mean cost per patient across several European countries ranged from €3523 to €337,501 for 14 ultra-OMPs. 17The yearly cost of eculizumab (for the treatment of paroxysmal nocturnal hemoglobinuria) is the highest, at just under $500,000 per patient. 9,10In 2010, eculizumab generated $541 million in sales. 12Remarkably, eculizumab was originally intended for the treatment of arthritis, and would probably have been priced in the range of similar medicinal products at $20,000 per patient per year. 18Extraordinary price increases (defined as increases of more than 100% at a time) have also been documented when established off-label use of a medicinal product became approved. 19,20For example, unlicensed use of 3,4-diaminopyridine for the treatment of Lambert-Eaton myasthenic syndrome cost approximately €1000 per patient per year.",
+    "refNo": 17,
+    "title": "Are rare diseases still orphans or happily adopted? The challenges of developing and using orphan medicinal products",
+    "marker_text": "17",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Although there are only 2000 patients in the United States and 6000 patients worldwide, the revenue from imiglucerase approached US $1.8 billion in 2009 ref [10]. 10,11,15imilarly, agalsidase beta (for the treatment of Fabry disease) and laronidase (for the treatment of mucopolysaccharidosis type I), respectively cost $300,000 and $350,000 per year per patient. 11,16In a study by Orofino, the average of the mean cost per patient across several European countries ranged from €3523 to €337,501 for 14 ultra-OMPs. 17The yearly cost of eculizumab (for the treatment of paroxysmal nocturnal hemoglobinuria) is the highest, at just under $500,000 per patient. 9,10In 2010, eculizumab generated $541 million in sales. 12Remarkably, eculizumab was originally intended for the treatment of arthritis, and would probably have been priced in the range of similar medicinal products at $20,000 per patient per year. 18Extraordinary price increases (defined as increases of more than 100% at a time) have also been documented when established off-label use of a medicinal product became approved. 19,20For example, unlicensed use of 3,4-diaminopyridine for the treatment of Lambert-Eaton myasthenic syndrome cost approximately €1000 per patient per year.",
+    "refNo": 9,
+    "title": "Expensive drugs for rare disorders: to treat or not to treat? The case of enzyme replacement therapy for mucopolysaccharidosis VI",
+    "marker_text": "9",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Although there are only 2000 patients in the United States and 6000 patients worldwide, the revenue from imiglucerase approached US $1.8 billion in 2009 ref [10]. 10,11,15imilarly, agalsidase beta (for the treatment of Fabry disease) and laronidase (for the treatment of mucopolysaccharidosis type I), respectively cost $300,000 and $350,000 per year per patient. 11,16In a study by Orofino, the average of the mean cost per patient across several European countries ranged from €3523 to €337,501 for 14 ultra-OMPs. 17The yearly cost of eculizumab (for the treatment of paroxysmal nocturnal hemoglobinuria) is the highest, at just under $500,000 per patient. 9,10In 2010, eculizumab generated $541 million in sales. 12Remarkably, eculizumab was originally intended for the treatment of arthritis, and would probably have been priced in the range of similar medicinal products at $20,000 per patient per year. 18Extraordinary price increases (defined as increases of more than 100% at a time) have also been documented when established off-label use of a medicinal product became approved. 19,20For example, unlicensed use of 3,4-diaminopyridine for the treatment of Lambert-Eaton myasthenic syndrome cost approximately €1000 per patient per year.",
+    "refNo": 12,
+    "title": "Rare diseases, orphan drugs and their regulation: questions and misconceptions",
+    "marker_text": "12",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Although there are only 2000 patients in the United States and 6000 patients worldwide, the revenue from imiglucerase approached US $1.8 billion in 2009 ref [10]. 10,11,15imilarly, agalsidase beta (for the treatment of Fabry disease) and laronidase (for the treatment of mucopolysaccharidosis type I), respectively cost $300,000 and $350,000 per year per patient. 11,16In a study by Orofino, the average of the mean cost per patient across several European countries ranged from €3523 to €337,501 for 14 ultra-OMPs. 17The yearly cost of eculizumab (for the treatment of paroxysmal nocturnal hemoglobinuria) is the highest, at just under $500,000 per patient. 9,10In 2010, eculizumab generated $541 million in sales. 12Remarkably, eculizumab was originally intended for the treatment of arthritis, and would probably have been priced in the range of similar medicinal products at $20,000 per patient per year. 18Extraordinary price increases (defined as increases of more than 100% at a time) have also been documented when established off-label use of a medicinal product became approved. 19,20For example, unlicensed use of 3,4-diaminopyridine for the treatment of Lambert-Eaton myasthenic syndrome cost approximately €1000 per patient per year.",
+    "refNo": 18,
+    "title": "Pricing and reimbursement of orphan drugs: the need for more transparency",
+    "marker_text": "18",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Although there are only 2000 patients in the United States and 6000 patients worldwide, the revenue from imiglucerase approached US $1.8 billion in 2009 ref [10]. 10,11,15imilarly, agalsidase beta (for the treatment of Fabry disease) and laronidase (for the treatment of mucopolysaccharidosis type I), respectively cost $300,000 and $350,000 per year per patient. 11,16In a study by Orofino, the average of the mean cost per patient across several European countries ranged from €3523 to €337,501 for 14 ultra-OMPs. 17The yearly cost of eculizumab (for the treatment of paroxysmal nocturnal hemoglobinuria) is the highest, at just under $500,000 per patient. 9,10In 2010, eculizumab generated $541 million in sales. 12Remarkably, eculizumab was originally intended for the treatment of arthritis, and would probably have been priced in the range of similar medicinal products at $20,000 per patient per year. 18Extraordinary price increases (defined as increases of more than 100% at a time) have also been documented when established off-label use of a medicinal product became approved. 19,20For example, unlicensed use of 3,4-diaminopyridine for the treatment of Lambert-Eaton myasthenic syndrome cost approximately €1000 per patient per year.",
+    "refNo": 19,
+    "title": "Paying for the Orphan Drug System: break or bend? Is it time for a new evaluation system for payers in Europe to take account of new rare disease treatments?",
+    "marker_text": "19",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Although there are only 2000 patients in the United States and 6000 patients worldwide, the revenue from imiglucerase approached US $1.8 billion in 2009 ref [10]. 10,11,15imilarly, agalsidase beta (for the treatment of Fabry disease) and laronidase (for the treatment of mucopolysaccharidosis type I), respectively cost $300,000 and $350,000 per year per patient. 11,16In a study by Orofino, the average of the mean cost per patient across several European countries ranged from €3523 to €337,501 for 14 ultra-OMPs. 17The yearly cost of eculizumab (for the treatment of paroxysmal nocturnal hemoglobinuria) is the highest, at just under $500,000 per patient. 9,10In 2010, eculizumab generated $541 million in sales. 12Remarkably, eculizumab was originally intended for the treatment of arthritis, and would probably have been priced in the range of similar medicinal products at $20,000 per patient per year. 18Extraordinary price increases (defined as increases of more than 100% at a time) have also been documented when established off-label use of a medicinal product became approved. 19,20For example, unlicensed use of 3,4-diaminopyridine for the treatment of Lambert-Eaton myasthenic syndrome cost approximately €1000 per patient per year.",
+    "refNo": 20,
+    "title": "Orphan Drugs for Rare Diseases: Grounds for Special Status",
+    "marker_text": "20",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "The price of the marketed version is 50-70 times higher. 21rices, often as high as the market will bear, have given rise to arguments on the justification of high prices. 22or example, the Dutch government questioned the high prices of some ultra-OMPs for the treatment of hereditary metabolic disorders ref [9]. 23The pricing process of ultra-OMPs has been viewed as arbitrary and nontransparent ref [9]. 24dditionally, there is a debate on the sustainability of high prices for ultra-OMPs within the context of current health care systems. 12e aim of this article is to review the international scientific literature on the pricing of ultra-OMPs.",
+    "refNo": 9,
+    "title": "Expensive drugs for rare disorders: to treat or not to treat? The case of enzyme replacement therapy for mucopolysaccharidosis VI",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "The price of the marketed version is 50-70 times higher. 21rices, often as high as the market will bear, have given rise to arguments on the justification of high prices. 22or example, the Dutch government questioned the high prices of some ultra-OMPs for the treatment of hereditary metabolic disorders ref [9]. 23The pricing process of ultra-OMPs has been viewed as arbitrary and nontransparent ref [9]. 24dditionally, there is a debate on the sustainability of high prices for ultra-OMPs within the context of current health care systems. 12e aim of this article is to review the international scientific literature on the pricing of ultra-OMPs.",
+    "refNo": 9,
+    "title": "Expensive drugs for rare disorders: to treat or not to treat? The case of enzyme replacement therapy for mucopolysaccharidosis VI",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "The price of the marketed version is 50-70 times higher. 21rices, often as high as the market will bear, have given rise to arguments on the justification of high prices. 22or example, the Dutch government questioned the high prices of some ultra-OMPs for the treatment of hereditary metabolic disorders ref [9]. 23The pricing process of ultra-OMPs has been viewed as arbitrary and nontransparent ref [9]. 24dditionally, there is a debate on the sustainability of high prices for ultra-OMPs within the context of current health care systems. 12e aim of this article is to review the international scientific literature on the pricing of ultra-OMPs.",
+    "refNo": 21,
+    "title": "Drugs for exceptionally rare diseases: do they deserve special status for funding?",
+    "marker_text": "21",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "The price of the marketed version is 50-70 times higher. 21rices, often as high as the market will bear, have given rise to arguments on the justification of high prices. 22or example, the Dutch government questioned the high prices of some ultra-OMPs for the treatment of hereditary metabolic disorders ref [9]. 23The pricing process of ultra-OMPs has been viewed as arbitrary and nontransparent ref [9]. 24dditionally, there is a debate on the sustainability of high prices for ultra-OMPs within the context of current health care systems. 12e aim of this article is to review the international scientific literature on the pricing of ultra-OMPs.",
+    "refNo": 22,
+    "title": "A fair share for the orphans: ethical guidelines for a fair distribution of resources within the bounds of the 10-year-old European Orphan Drug Regulation",
+    "marker_text": "22",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "The price of the marketed version is 50-70 times higher. 21rices, often as high as the market will bear, have given rise to arguments on the justification of high prices. 22or example, the Dutch government questioned the high prices of some ultra-OMPs for the treatment of hereditary metabolic disorders ref [9]. 23The pricing process of ultra-OMPs has been viewed as arbitrary and nontransparent ref [9]. 24dditionally, there is a debate on the sustainability of high prices for ultra-OMPs within the context of current health care systems. 12e aim of this article is to review the international scientific literature on the pricing of ultra-OMPs.",
+    "refNo": 23,
+    "title": "Drugs for rare diseases: influence of orphan designation status on price",
+    "marker_text": "23",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "The price of the marketed version is 50-70 times higher. 21rices, often as high as the market will bear, have given rise to arguments on the justification of high prices. 22or example, the Dutch government questioned the high prices of some ultra-OMPs for the treatment of hereditary metabolic disorders ref [9]. 23The pricing process of ultra-OMPs has been viewed as arbitrary and nontransparent ref [9]. 24dditionally, there is a debate on the sustainability of high prices for ultra-OMPs within the context of current health care systems. 12e aim of this article is to review the international scientific literature on the pricing of ultra-OMPs.",
+    "refNo": 24,
+    "title": "Estimating the budget impact of orphan medicines in Europe: 2010-2020",
+    "marker_text": "24",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "The price of the marketed version is 50-70 times higher. 21rices, often as high as the market will bear, have given rise to arguments on the justification of high prices. 22or example, the Dutch government questioned the high prices of some ultra-OMPs for the treatment of hereditary metabolic disorders ref [9]. 23The pricing process of ultra-OMPs has been viewed as arbitrary and nontransparent ref [9]. 24dditionally, there is a debate on the sustainability of high prices for ultra-OMPs within the context of current health care systems. 12e aim of this article is to review the international scientific literature on the pricing of ultra-OMPs.",
+    "refNo": 12,
+    "title": "Rare diseases, orphan drugs and their regulation: questions and misconceptions",
+    "marker_text": "12",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Pharmaceutical pricing itself is not an event, but a process of value judgment in which the context is provided by an interplay of factors ref [5].",
+    "refNo": 5,
+    "title": "Quantifying emerging drugs for very rare conditions",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "It was observed that the pricing mechanisms for OMPs are essentially similar to those for traditional medicinal products, ie, a price is initially set based on the company's profitability and return on investment and then compared to the reality of the target market ref [13].",
+    "refNo": 13,
+    "title": "The price of innovation: new estimates of drug development costs",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "According to Kolassa, eight factors must be considered: two internal factors relating to (1) company needs (ie, need to recover R&D costs) ref [14] and (2) abilities; and six external factors: (3) value (ie, perceived medical benefit); (4) competitive environment (ie, availability and prices of alternative and competing medicinal products);.",
+    "refNo": 14,
+    "title": "What is wrong with orphan drug policies? Suggestions for ways forward",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "According to Kolassa, eight factors must be considered: two internal factors relating to (1) company needs (ie, need to recover R&D costs) ref [14] and (2) abilities; and six external factors: (3) value (ie, perceived medical benefit); (4) competitive environment (ie, availability and prices of alternative and competing medicinal products);.",
+    "refNo": 1,
+    "title": "Orphan drug development: an economically viable strategy for biopharma R&D",
+    "marker_text": "(1)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "According to Kolassa, eight factors must be considered: two internal factors relating to (1) company needs (ie, need to recover R&D costs) ref [14] and (2) abilities; and six external factors: (3) value (ie, perceived medical benefit); (4) competitive environment (ie, availability and prices of alternative and competing medicinal products);.",
+    "refNo": 2,
+    "title": "Big Pharma's new model in orphan drugs and rare diseases",
+    "marker_text": "(2)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "According to Kolassa, eight factors must be considered: two internal factors relating to (1) company needs (ie, need to recover R&D costs) ref [14] and (2) abilities; and six external factors: (3) value (ie, perceived medical benefit); (4) competitive environment (ie, availability and prices of alternative and competing medicinal products);.",
+    "refNo": 3,
+    "title": "Extraordinary pricing of orphan drugs: is it a socially responsible strategy for the US pharmaceutical industry",
+    "marker_text": "(3)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "According to Kolassa, eight factors must be considered: two internal factors relating to (1) company needs (ie, need to recover R&D costs) ref [14] and (2) abilities; and six external factors: (3) value (ie, perceived medical benefit); (4) competitive environment (ie, availability and prices of alternative and competing medicinal products);.",
+    "refNo": 4,
+    "title": "Dutch doctors call for EU evaluation of cost effectiveness of high cost orphan drugs",
+    "marker_text": "(4)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Nevertheless, development costs are still considered the highest for the rarest of diseases. ref [9] An independent study estimated the development cost of imiglucerase at less than $30 million. ref [10] For some 'repurposed' medicines, the effectiveness evidence was published prior to the application for orphan designation.",
+    "refNo": 9,
+    "title": "Expensive drugs for rare disorders: to treat or not to treat? The case of enzyme replacement therapy for mucopolysaccharidosis VI",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Nevertheless, development costs are still considered the highest for the rarest of diseases. ref [9] An independent study estimated the development cost of imiglucerase at less than $30 million. ref [10] For some 'repurposed' medicines, the effectiveness evidence was published prior to the application for orphan designation.",
+    "refNo": 10,
+    "title": "Imiglucerase in the treatment of Gaucher disease: a history and perspective",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Despite these incentives to promote the development of OMPs, there is no guarantee that an OMP will become available or remain available on the market. ref [5] Many ultra-OMPs are biotechnological products, manufactured through complex and expensive processes.",
+    "refNo": 5,
+    "title": "Quantifying emerging drugs for very rare conditions",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Monoclonal antibodies, of similar molecular and manufacturing complexity, are sold at far lower or far higher prices. ref [10] At the same time, opportunities arise when marketing in small target populations.",
+    "refNo": 10,
+    "title": "Imiglucerase in the treatment of Gaucher disease: a history and perspective",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Geographic variation in access to enzyme replacement therapies has been described for MPS VI in Europe, ref [9] while in Brazil many patients with MPS I obtained laronidase in the absence of a formal governmental access policy, often through exceptional mechanisms. ref [6].",
+    "refNo": 9,
+    "title": "Expensive drugs for rare disorders: to treat or not to treat? The case of enzyme replacement therapy for mucopolysaccharidosis VI",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Geographic variation in access to enzyme replacement therapies has been described for MPS VI in Europe, ref [9] while in Brazil many patients with MPS I obtained laronidase in the absence of a formal governmental access policy, often through exceptional mechanisms. ref [6].",
+    "refNo": 6,
+    "title": "Ethical issues related to the access to orphan drugs in Brazil: the case of mucopolysaccharidosis type I",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Because ultra-OMPs target small populations, high prices are needed to recoup (volume-independent) R&D expenditures. ref [6] As such, there is an inverse correlation between the price per capita of an ultra-OMP and the prevalence of the disease; the rarer the disease, the more expensive the treatment.",
+    "refNo": 6,
+    "title": "Ethical issues related to the access to orphan drugs in Brazil: the case of mucopolysaccharidosis type I",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "In other words, the yearly cost per patient is inversely related to the prevalence of the disease. ref [16] The inverse relationship, however, is not linear and there are exceptions; some prices of medicinal products, with similar prevalence, differ as much as sevenfold. ref [16] The first symptoms of an ultra-rare disease usually occur during childhood.",
+    "refNo": 16,
+    "title": "Quantitative Analysis of the Influence of Disease and Product Characteristics on Orphan Drug Prices in Europe",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "In other words, the yearly cost per patient is inversely related to the prevalence of the disease. ref [16] The inverse relationship, however, is not linear and there are exceptions; some prices of medicinal products, with similar prevalence, differ as much as sevenfold. ref [16] The first symptoms of an ultra-rare disease usually occur during childhood.",
+    "refNo": 16,
+    "title": "Quantitative Analysis of the Influence of Disease and Product Characteristics on Orphan Drug Prices in Europe",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Thereafter, new indications are sought and the OMP is marketed at the high initial price, generating disproportionate returns. ref [6] For some OMPs, the target population is broad; for example, imatinib is now used for both orphan as well as non-orphan oncolytic indications.",
+    "refNo": 6,
+    "title": "Ethical issues related to the access to orphan drugs in Brazil: the case of mucopolysaccharidosis type I",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "A not statistically significant association was found between high prices and low prevalence and low number of treatment alternatives. ref [16].",
+    "refNo": 16,
+    "title": "Quantitative Analysis of the Influence of Disease and Product Characteristics on Orphan Drug Prices in Europe",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "In most European countries, ultra-OMPs are fully reimbursed, whereas in the United States and Canada copayments for patients exist. ref [8] As such, high prices for ultra-OMPs have a direct (through high financial costs) and/or indirect (through the fear of having funding for the treatment withdrawn) effect on patient access.",
+    "refNo": 8,
+    "title": "Access to orphan drugs in Europe: current and future issues",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Patients can get access to ultra-OMPs via health insurance or alternatively through company funded patient assistance programs. ref [18] The reimbursement of ultra-OMPs can create conflicts between the rights of individuals (ie, right of access to treatment) and overall health of a society.",
+    "refNo": 18,
+    "title": "Pricing and reimbursement of orphan drugs: the need for more transparency",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "The fact that for most ultra-rare disease no alternative treatment is available also underlines the high therapeutic need. ref [18] On the other hand, society allocates health budget to interventions with a view to maximizing the health of the population as a whole.",
+    "refNo": 18,
+    "title": "Pricing and reimbursement of orphan drugs: the need for more transparency",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "As such, reimbursement of expensive ultra-OMPs for a minority of patients brings about missed opportunities in treating common illnesses with inexpensive medicinal products. ref [19] Ideally, reimbursement decisions should reflect public preferences, but at the moment, preference towards reimbursement of ultra-OMPs is not fully evident.",
+    "refNo": 19,
+    "title": "Paying for the Orphan Drug System: break or bend? Is it time for a new evaluation system for payers in Europe to take account of new rare disease treatments?",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Moreover, in times of economic hardship, there is increasing pressure to contain health care costs. ref [19].",
+    "refNo": 19,
+    "title": "Paying for the Orphan Drug System: break or bend? Is it time for a new evaluation system for payers in Europe to take account of new rare disease treatments?",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "The fact that for most ultra-rare disease no alternative treatment is available also underlines the high therapeutic need ref [22].",
+    "refNo": 22,
+    "title": "A fair share for the orphans: ethical guidelines for a fair distribution of resources within the bounds of the 10-year-old European Orphan Drug Regulation",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "As such, reimbursement of expensive ultra-OMPs for a minority of patients brings about missed opportunities in treating common illnesses with inexpensive medicinal products ref [20], ref [22].",
+    "refNo": 20,
+    "title": "Orphan Drugs for Rare Diseases: Grounds for Special Status",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "As such, reimbursement of expensive ultra-OMPs for a minority of patients brings about missed opportunities in treating common illnesses with inexpensive medicinal products ref [20], ref [22].",
+    "refNo": 22,
+    "title": "A fair share for the orphans: ethical guidelines for a fair distribution of resources within the bounds of the 10-year-old European Orphan Drug Regulation",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Ultra-OMPs are seldom cost-effective, on the one hand due to their high price, and on the other hand because of the uncertainty surrounding the long-term effectiveness and clinical benefit ref [22], ref [5].",
+    "refNo": 22,
+    "title": "A fair share for the orphans: ethical guidelines for a fair distribution of resources within the bounds of the 10-year-old European Orphan Drug Regulation",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Ultra-OMPs are seldom cost-effective, on the one hand due to their high price, and on the other hand because of the uncertainty surrounding the long-term effectiveness and clinical benefit ref [22], ref [5].",
+    "refNo": 5,
+    "title": "Quantifying emerging drugs for very rare conditions",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Evidence indicates that the public prefers to offer treatments to those with the worst initial health state, even if this is not a cost-effective allocation of resources ref [21], ref [5].",
+    "refNo": 21,
+    "title": "Drugs for exceptionally rare diseases: do they deserve special status for funding?",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Evidence indicates that the public prefers to offer treatments to those with the worst initial health state, even if this is not a cost-effective allocation of resources ref [21], ref [5].",
+    "refNo": 5,
+    "title": "Quantifying emerging drugs for very rare conditions",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "The model is based both on budgetary insulation, which allows access to treatment for certain patients, and on possible access for a few randomly selected patients ref [5].",
+    "refNo": 5,
+    "title": "Quantifying emerging drugs for very rare conditions",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "During the period of market exclusivity, no similar product can be marketed for the same indication, and this exclusivity can contribute to monopolistic pricing power in orphan drug markets ref [23].",
+    "refNo": 23,
+    "title": "Drugs for rare diseases: influence of orphan designation status on price",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Sponsors of dissimilar products can apply for a separate marketing authorization, but are often discouraged from doing so by the small target population and high costs ref [23].",
+    "refNo": 23,
+    "title": "Drugs for rare diseases: influence of orphan designation status on price",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "By contrast, the very small size of the target population brings about little competition in the field of ultra-rare diseases ref [23].",
+    "refNo": 23,
+    "title": "Drugs for rare diseases: influence of orphan designation status on price",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "In some cases, a monopolistic situation is created in which only one medicinal product is available for a single indication, spurring manufacturers to dictate high prices ref [23], ref [3].",
+    "refNo": 23,
+    "title": "Drugs for rare diseases: influence of orphan designation status on price",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "In some cases, a monopolistic situation is created in which only one medicinal product is available for a single indication, spurring manufacturers to dictate high prices ref [23], ref [3].",
+    "refNo": 3,
+    "title": "Extraordinary pricing of orphan drugs: is it a socially responsible strategy for the US pharmaceutical industry",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Upon comparing Belgian hospital prices per defined daily dose of 28 designated OMPs and 16 comparable non-designated medicines for rare disease, a significantly higher median price was recorded for the former (€138.56) compared to the latter (€16.55) ref [4].",
+    "refNo": 4,
+    "title": "Dutch doctors call for EU evaluation of cost effectiveness of high cost orphan drugs",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "On that account, market exclusivity and lack of alternatives are likely associated with higher prices for medicinal products for rare diseases, but not as the only sources of higher prices ref [4], ref [23].",
+    "refNo": 4,
+    "title": "Dutch doctors call for EU evaluation of cost effectiveness of high cost orphan drugs",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "On that account, market exclusivity and lack of alternatives are likely associated with higher prices for medicinal products for rare diseases, but not as the only sources of higher prices ref [4], ref [23].",
+    "refNo": 23,
+    "title": "Drugs for rare diseases: influence of orphan designation status on price",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Besides patent protection, OMPs also benefit from a period of market exclusivity, which may give exclusivity beyond the patent, therefore sustaining return on investment after patent expiration ref [2].",
+    "refNo": 2,
+    "title": "Big Pharma's new model in orphan drugs and rare diseases",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Biosimilars could be sold at a price 10%-30% lower than the originator ref [2].",
+    "refNo": 2,
+    "title": "Big Pharma's new model in orphan drugs and rare diseases",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Estimates show that at least five competitors are needed to achieve significant price reductions, an unlikely scenario in the ultra-OMP market ref [2].",
+    "refNo": 2,
+    "title": "Big Pharma's new model in orphan drugs and rare diseases",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Nevertheless, competition may stimulate future innovation and could help in reducing critical supply shortages of lifesaving medicines ref [2].",
+    "refNo": 2,
+    "title": "Big Pharma's new model in orphan drugs and rare diseases",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Article 8.2 of the regulation on OMPs allows for the period of market exclusivity to be reduced to six years. ref [8] Member States can invoke the application of this procedure for a highly profitable OMP with a view to lowering its price.",
+    "refNo": 8,
+    "title": "Access to orphan drugs in Europe: current and future issues",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "At that point however, immediate price decreases due to direct competition are unlikely. ref [19] Competition from generic medicinal products can only occur when all protection on the originator medicine has elapsed.",
+    "refNo": 19,
+    "title": "Paying for the Orphan Drug System: break or bend? Is it time for a new evaluation system for payers in Europe to take account of new rare disease treatments?",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Market exclusivity may give exclusivity beyond the patent, therefore sustaining return on investment after patent expiration. ref [24] Even if the period of market exclusivity is reduced, most medicines will still be protected by patents.",
+    "refNo": 24,
+    "title": "Estimating the budget impact of orphan medicines in Europe: 2010-2020",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Estimates show that at least five competitors are needed to achieve significant price reductions, an unlikely scenario in the ultra-OMP market. ref [19] On that account, it remains to be seen whether competition in the field, from other OMPs or generic versions, can lead to price reductions and savings in the health care budget.",
+    "refNo": 19,
+    "title": "Paying for the Orphan Drug System: break or bend? Is it time for a new evaluation system for payers in Europe to take account of new rare disease treatments?",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "For example, in the United States, both imiglucerase and taliglucerase alfa are available for the treatment of Gaucher's disease ref [10].",
+    "refNo": 10,
+    "title": "Imiglucerase in the treatment of Gaucher disease: a history and perspective",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Competition from generic medicinal products can only occur when all protection on the originator medicine has elapsed ref [25].",
+    "refNo": 25,
+    "title": "Overcoming challenges in market access of generic medicines in the European Union",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Prices of traditional generic medicines tend to be 10%-80% lower than those of originator medicines ref [25].",
+    "refNo": 25,
+    "title": "Overcoming challenges in market access of generic medicines in the European Union",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "However, the biosimilar velaglucerase alfa is priced higher than the originator imiglucerase ref [10].",
+    "refNo": 10,
+    "title": "Imiglucerase in the treatment of Gaucher disease: a history and perspective",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "High prices for ultra-OMPs have a negative effect on the pharmaceutical industry's reputation, as the general population considers it indecent to profit from the misfortunes of others ref [3], ref [26].",
+    "refNo": 3,
+    "title": "Extraordinary pricing of orphan drugs: is it a socially responsible strategy for the US pharmaceutical industry",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "High prices for ultra-OMPs have a negative effect on the pharmaceutical industry's reputation, as the general population considers it indecent to profit from the misfortunes of others ref [3], ref [26].",
+    "refNo": 26,
+    "title": "Priceless goods: how should life-saving drugs be priced?",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "But the expectations of the general public are at odds with itself; on the one hand they expect the industry to develop new life-saving medicines, on the other hand there is a taboo against commercialization and profit seeking in health care ref [26].",
+    "refNo": 26,
+    "title": "Priceless goods: how should life-saving drugs be priced?",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "Pricing of ultra-OMPs is an important and delicate issue as it has a direct effect on patient access to health care ref [3].",
+    "refNo": 3,
+    "title": "Extraordinary pricing of orphan drugs: is it a socially responsible strategy for the US pharmaceutical industry",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "The literature appears to indicate that ultra-OMPs are priced according to rarity and what the manufacturer believes the market will bear ref [9], ref [21].",
+    "refNo": 9,
+    "title": "Expensive drugs for rare disorders: to treat or not to treat? The case of enzyme replacement therapy for mucopolysaccharidosis VI",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "The literature appears to indicate that ultra-OMPs are priced according to rarity and what the manufacturer believes the market will bear ref [9], ref [21].",
+    "refNo": 21,
+    "title": "Drugs for exceptionally rare diseases: do they deserve special status for funding?",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Patients, third-party payers, and pharmaceutical companies could benefit from more transparent pricing strategies ref [21].",
+    "refNo": 21,
+    "title": "Drugs for exceptionally rare diseases: do they deserve special status for funding?",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Ideally, a balance must be struck between attaining affordable prices for ultra-OMPs and securing a realistic return on investment for the pharmaceutical industry ref [9], ref [21].",
+    "refNo": 9,
+    "title": "Expensive drugs for rare disorders: to treat or not to treat? The case of enzyme replacement therapy for mucopolysaccharidosis VI",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Ideally, a balance must be struck between attaining affordable prices for ultra-OMPs and securing a realistic return on investment for the pharmaceutical industry ref [9], ref [21].",
+    "refNo": 21,
+    "title": "Drugs for exceptionally rare diseases: do they deserve special status for funding?",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "However, without appropriate benchmarks, it is difficult to assess whether the price of an ultra-OMP is too high or too low relative to its value ref [14].",
+    "refNo": 14,
+    "title": "What is wrong with orphan drug policies? Suggestions for ways forward",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Revenue is approximated by multiplying market size and the price of a medicinal product; however, market size is only roughly estimated, as there are few reliable data on prevalence of ultra-rare diseases ref [14].",
+    "refNo": 14,
+    "title": "What is wrong with orphan drug policies? Suggestions for ways forward",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "The industry would benefit from appropriate benchmarks and a clear definition of profitability ref [14].",
+    "refNo": 14,
+    "title": "What is wrong with orphan drug policies? Suggestions for ways forward",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "However, these price controls need to be consistent with the intended goals of the incentives to promote the development of new OMPs ref [14].",
+    "refNo": 14,
+    "title": "What is wrong with orphan drug policies? Suggestions for ways forward",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Price controls create short-term benefits, but they could also create shortages and could take away incentives to invest in the development of new OMPs ref [14].",
+    "refNo": 14,
+    "title": "What is wrong with orphan drug policies? Suggestions for ways forward",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Patients, third-party payers, and pharmaceutical companies could benefit from more transparent pricing strategies ref [14].",
+    "refNo": 14,
+    "title": "What is wrong with orphan drug policies? Suggestions for ways forward",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Ideally, a balance must be struck between attaining affordable prices for ultra-OMPs and securing a realistic return on investment for the pharmaceutical industry ref [27].",
+    "refNo": 27,
+    "title": "The potential investment impact of improved access to accelerated approval on the development of treatments for low prevalence rare diseases",
+    "marker_text": "[27]"
+  }
+]

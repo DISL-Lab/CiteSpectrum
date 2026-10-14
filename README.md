@@ -12,7 +12,7 @@
 
 <p>
 <img src="https://img.shields.io/badge/EMNLP_2026-Oral-6D4BC3?style=flat-square" alt="EMNLP 2026 Oral">
-<a href="data/0hop"><img src="https://img.shields.io/badge/Dataset-450_surveys-287B74?style=flat-square" alt="450 unique surveys"></a>
+<a href="data/0hop"><img src="https://img.shields.io/badge/Dataset-73%2C586_citation_events-287B74?style=flat-square" alt="73,586 citation events from 450 unique surveys"></a>
 <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache_2.0-476C9B?style=flat-square" alt="Apache 2.0 license"></a>
 </p>
 
@@ -52,9 +52,9 @@ Each step adds a different form of guidance. The source topic stays fixed, so pa
 | **RAG** | Topic and retrieved scholarly literature | [50 surveys](data/0hop/gpt54/rag) | [50 surveys](data/0hop/qwen80b/rag) |
 | **Outline-Guided** | Human-authored outline and reference pool | [50 surveys](data/0hop/gpt54/outline-guided) | [50 surveys](data/0hop/qwen80b/outline-guided) |
 | **Text-Guided** | Human-authored prose and reference pool; the model restores citations | [50 surveys](data/0hop/gpt54/text-guided) | [50 surveys](data/0hop/qwen80b/text-guided) |
-| **Human-Authored** | Original human-authored survey | [50 surveys](data/0hop/gpt54/human-authored) | [50 surveys](data/0hop/qwen80b/human-authored) |
+| **Human-Authored** | Original human-authored survey | [50 shared surveys](data/0hop/human-authored) | [50 shared surveys](data/0hop/human-authored) |
 
-The **same 50 human surveys** appear under both model folders for convenient pairing. This gives **500 JSON files representing 450 unique surveys**, with source IDs `001`–`050` shared across all ten folders.
+The release contains **73,586 citation events from 450 unique surveys**, stored in **450 per-paper JSON files**. The **same 50 human surveys** serve as the baseline for both models and are stored once in `human-authored/`. Source IDs `001`–`050` pair the same topics across all conditions and models.
 
 ## What citation behavior reveals
 
@@ -99,17 +99,18 @@ Results are from Table 4 of the paper, using domain-balanced five-fold cross-val
 
 ## Released data
 
-The release contains **survey text at hop 0**: the focal survey's title, section headings, and prose, with in-text citation markers retained. Each survey is stored as a `survey_content.json` file.
+The release contains **73,586 citation events** from the survey subset. Each paper has a `citations.json` array with one record per citation event: the citing sentence, local reference number, cited-paper title, and extraction fields where present. The shared human baseline is included once in this total.
 
 | Resource | Location |
 |:---|:---|
-| GPT-5.4 surveys across all five conditions | [`data/0hop/gpt54/`](data/0hop/gpt54) |
-| Qwen3-Next-80B surveys across all five conditions | [`data/0hop/qwen80b/`](data/0hop/qwen80b) |
-| Model, condition, source ID, file path, and checksum for every survey | [`data/0hop/manifest.json`](data/0hop/manifest.json) |
+| GPT-5.4 · 200 papers · 36,625 citation events | [`data/0hop/gpt54/`](data/0hop/gpt54) |
+| Qwen3-Next-80B · 200 papers · 19,817 citation events | [`data/0hop/qwen80b/`](data/0hop/qwen80b) |
+| Shared Human-Authored baseline · 50 papers · 17,144 citation events | [`data/0hop/human-authored/`](data/0hop/human-authored) |
+| Model, condition, source ID, event count, file path, and checksum for every paper | [`data/0hop/manifest.json`](data/0hop/manifest.json) |
 | Data format and pairing guide | [`data/README.md`](data/README.md) |
 | Paper | — |
 
-The full study covers **550 papers and 78,016 citation events**, including the survey and method subsets. This repository releases the **450-survey text subset**. See Appendix C of the paper for the full study's corpus construction and statistics.
+The full study covers **550 papers and 78,016 citation events**, including the survey and method subsets. This repository releases the survey subset's **450 papers and 73,586 citation events**. See Appendix C of the paper for the full study's corpus construction and statistics.
 
 ## Quick start
 
@@ -120,7 +121,7 @@ git clone https://github.com/DISL-Lab/CiteSpectrum.git
 cd CiteSpectrum
 ```
 
-Load one RAG survey:
+Load the citation events for one RAG paper:
 
 ```python
 import json
@@ -129,31 +130,38 @@ from pathlib import Path
 root = Path("data/0hop")
 manifest = json.loads((root / "manifest.json").read_text(encoding="utf-8"))
 record = next(
-    row for row in manifest["surveys"]
+    row for row in manifest["papers"]
     if row["model"] == "gpt54"
     and row["condition"] == "rag"
     and row["stable_source_id"] == 1
 )
-survey = json.loads((root / record["path"]).read_text(encoding="utf-8"))
+citations = json.loads((root / record["path"]).read_text(encoding="utf-8"))
 
-print(survey["title"])
-for subsection in survey["subsections"]:
-    print(subsection["section_title"], "/", subsection["subsection_title"])
-    print(subsection["content"])
+print(record["title"], len(citations))
+for citation in citations[:3]:
+    print(citation["sentence"])
+    print(citation["refNo"], citation["title"])
 ```
 
-Compare the same source topic across all five conditions:
+Compare the same source topic across all five conditions, including the shared human baseline:
 
 ```python
 paired = {}
-for row in manifest["surveys"]:
-    if row["model"] == "gpt54" and row["stable_source_id"] == 1:
+for row in manifest["papers"]:
+    if row["model"] in ("gpt54", None) and row["stable_source_id"] == 1:
         paired[row["condition"]] = json.loads(
             (root / row["path"]).read_text(encoding="utf-8")
         )
 
 print(sorted(paired))
 # ['human-authored', 'llm-only', 'outline-guided', 'rag', 'text-guided']
+```
+
+Count all released citation events:
+
+```python
+print(sum(row["citation_count"] for row in manifest["papers"]))
+# 73586
 ```
 
 <details>
@@ -172,9 +180,11 @@ CiteSpectrum/
         │   ├── llm-only/
         │   ├── rag/
         │   ├── outline-guided/
-        │   ├── text-guided/
-        │   └── human-authored/
-        └── qwen80b/            # Same five conditions
+        │   └── text-guided/
+        ├── qwen80b/            # Same four AI conditions
+        └── human-authored/     # Shared baseline for both models
+            └── 001/
+                └── citations.json
 ```
 
 </details>

@@ -1,0 +1,746 @@
+[
+  {
+    "sentence": "This microenvironment is not merely reactive: HRS cells actively shape an immunosuppressive niche through recurrent 9p24.1 alterations involving CD274/PD-L1, PDCD1LG2/PD-L2, and JAK2, with additional induction through EBV-associated signaling in a subset of cases, thereby promoting T-cell exhaustion and immune escape ref [1], ref [2].",
+    "refNo": 1,
+    "title": "Immune Checkpoint Blockade for the Treatment of Hodgkin Lymphoma",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "This microenvironment is not merely reactive: HRS cells actively shape an immunosuppressive niche through recurrent 9p24.1 alterations involving CD274/PD-L1, PDCD1LG2/PD-L2, and JAK2, with additional induction through EBV-associated signaling in a subset of cases, thereby promoting T-cell exhaustion and immune escape ref [1], ref [2].",
+    "refNo": 2,
+    "title": "PD-L1 expression is characteristic of a subset of aggressive B-cell lymphomas and virus-associated malignancies",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Histopathologic and spatial studies further show that PD-L1 expression extends beyond HRS cells to surrounding tumor-associated macrophages, creating a protective peri-tumoral niche in which inhibitory signaling is concentrated around the malignant cells ref [2].",
+    "refNo": 2,
+    "title": "PD-L1 expression is characteristic of a subset of aggressive B-cell lymphomas and virus-associated malignancies",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Immune profiling has also demonstrated an exhausted effector T-cell compartment together with abundant regulatory CD4+ T cells, helping explain how a tumor with very few neoplastic cells can nevertheless persist and expand ref [1].",
+    "refNo": 1,
+    "title": "Immune Checkpoint Blockade for the Treatment of Hodgkin Lymphoma",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "In pediatric cHL, similar biomarker patterns—including PD-L1 pathway activation and CD30 dependence—support the concept that immune contexture is central across age groups, while also informing translational trial design ref [4].",
+    "refNo": 4,
+    "title": "Cancer statistics, 2022",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Because cHL is unusually dependent on PD-1 axis signaling for immune evasion, checkpoint blockade can restore anti-tumor immunity even in heavily pretreated disease, a principle validated by the durable activity of nivolumab and pembrolizumab and now being extended into earlier-line combinations ref [1].",
+    "refNo": 1,
+    "title": "Immune Checkpoint Blockade for the Treatment of Hodgkin Lymphoma",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "More broadly, the microenvironmental dependence of cHL also underpins the success of other biologically targeted strategies, especially CD30-directed therapy and chemoimmunotherapy platforms designed to exploit immune reactivation while reducing long-term treatment burden ref [1], ref [4].",
+    "refNo": 1,
+    "title": "Immune Checkpoint Blockade for the Treatment of Hodgkin Lymphoma",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "More broadly, the microenvironmental dependence of cHL also underpins the success of other biologically targeted strategies, especially CD30-directed therapy and chemoimmunotherapy platforms designed to exploit immune reactivation while reducing long-term treatment burden ref [1], ref [4].",
+    "refNo": 4,
+    "title": "Cancer statistics, 2022",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "In 1832, Thomas Hodgkin described a syndrome of progressive enlargement of the “absorbent glands and spleen,” establishing the historical foundation for what later became Hodgkin lymphoma ref [5].",
+    "refNo": 5,
+    "title": "On some Morbid Appearances of the Absorbent Glands and Spleen",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "S. cancer statistics estimate roughly 8,540 new Hodgkin lymphoma cases and 920 deaths in 2022, underscoring both its rarity and its generally favorable prognosis in the modern era ref [4].",
+    "refNo": 4,
+    "title": "Cancer statistics, 2022",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "A long-recognized feature is its bimodal age distribution, with an early peak in young adulthood and a later peak in older age; this pattern varies by geography, socioeconomic context, and histologic subtype, suggesting etiologic heterogeneity rather than a single uniform disease process ref [4].",
+    "refNo": 4,
+    "title": "Cancer statistics, 2022",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Population-based SEER data comparing 21,734 cases showed that children and adolescents differ from adults in sex balance, histologic distribution, symptom burden, and survival, with nodular sclerosis predominating in younger patients and outcomes declining with advancing age ref [5].",
+    "refNo": 5,
+    "title": "On some Morbid Appearances of the Absorbent Glands and Spleen",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Detailed mapping of 719 surgically staged patients also demonstrated that mediastinal and cervical presentations are most frequent in nodular sclerosis and mixed cellularity disease, whereas lymphocyte-predominant disease shows a different pattern of presentation and spread ref [4].",
+    "refNo": 4,
+    "title": "Cancer statistics, 2022",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Hodgkin/Reed-Sternberg (HRS) cells harbor clonally rearranged and somatically mutated immunoglobulin genes, often with a shared clonal architecture across tumor cells, directly linking them to GC transit rather than to reactive bystanders ref [9], ref [7], ref [6].",
+    "refNo": 9,
+    "title": "Hodgkin and reed-sternberg cells represent an expansion of a single clone originating from a germinal center B-cell with functional immunoglobulin gene rearrangements but defective immunoglobulin transcription",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Hodgkin/Reed-Sternberg (HRS) cells harbor clonally rearranged and somatically mutated immunoglobulin genes, often with a shared clonal architecture across tumor cells, directly linking them to GC transit rather than to reactive bystanders ref [9], ref [7], ref [6].",
+    "refNo": 7,
+    "title": "Molecular biology of Hodgkin lymphoma",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Hodgkin/Reed-Sternberg (HRS) cells harbor clonally rearranged and somatically mutated immunoglobulin genes, often with a shared clonal architecture across tumor cells, directly linking them to GC transit rather than to reactive bystanders ref [9], ref [7], ref [6].",
+    "refNo": 6,
+    "title": "Patterns of presentation of Hodgkin disease. Implications for etiology and pathogenesis",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Expression of the B-cell lineage factor PAX5 in Reed-Sternberg cells provided early phenotypic support for this origin despite the paradoxical loss of most conventional B-cell markers ref [8].",
+    "refNo": 8,
+    "title": "Frequent expression of the B-cell-specific activator protein in Reed-Sternberg cells of classical Hodgkin's disease provides further evidence for its B-cell origin",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "In many cases, immunoglobulin loci remain potentially functional, yet immunoglobulin transcription is defective, indicating that the extinguished B-cell phenotype reflects disrupted lineage maintenance rather than simple structural loss of the receptor ref [9], ref [6].",
+    "refNo": 9,
+    "title": "Hodgkin and reed-sternberg cells represent an expansion of a single clone originating from a germinal center B-cell with functional immunoglobulin gene rearrangements but defective immunoglobulin transcription",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "In many cases, immunoglobulin loci remain potentially functional, yet immunoglobulin transcription is defective, indicating that the extinguished B-cell phenotype reflects disrupted lineage maintenance rather than simple structural loss of the receptor ref [9], ref [6].",
+    "refNo": 6,
+    "title": "Patterns of presentation of Hodgkin disease. Implications for etiology and pathogenesis",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "This state is reinforced by reduced or absent activity of key B-cell transcription factors such as OCT2, BOB.1/OBF.1, PU.1, and E2A, together with aberrant expression of ID2 and activation of Notch1, which collectively suppress the B-cell program and promote survival of otherwise apoptosis-prone GC B cells ref [7], ref [6].",
+    "refNo": 7,
+    "title": "Molecular biology of Hodgkin lymphoma",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "This state is reinforced by reduced or absent activity of key B-cell transcription factors such as OCT2, BOB.1/OBF.1, PU.1, and E2A, together with aberrant expression of ID2 and activation of Notch1, which collectively suppress the B-cell program and promote survival of otherwise apoptosis-prone GC B cells ref [7], ref [6].",
+    "refNo": 6,
+    "title": "Patterns of presentation of Hodgkin disease. Implications for etiology and pathogenesis",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "NF-kappaB activation arises through multiple, sometimes overlapping, mechanisms, including receptor signaling, EBV-encoded LMP1 in virus-positive disease, REL gains, and inactivation of negative regulators such as NFKBIA, NFKBIE, and TNFAIP3/A20 ref [7], ref [6].",
+    "refNo": 7,
+    "title": "Molecular biology of Hodgkin lymphoma",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "NF-kappaB activation arises through multiple, sometimes overlapping, mechanisms, including receptor signaling, EBV-encoded LMP1 in virus-positive disease, REL gains, and inactivation of negative regulators such as NFKBIA, NFKBIE, and TNFAIP3/A20 ref [7], ref [6].",
+    "refNo": 6,
+    "title": "Patterns of presentation of Hodgkin disease. Implications for etiology and pathogenesis",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "EBV also has a biologically coherent role in rescuing crippled GC B cells lacking functional B-cell receptor signaling, consistent with the enrichment of EBV in cases carrying destructive immunoglobulin mutations ref [7], ref [6].",
+    "refNo": 7,
+    "title": "Molecular biology of Hodgkin lymphoma",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "EBV also has a biologically coherent role in rescuing crippled GC B cells lacking functional B-cell receptor signaling, consistent with the enrichment of EBV in cases carrying destructive immunoglobulin mutations ref [7], ref [6].",
+    "refNo": 6,
+    "title": "Patterns of presentation of Hodgkin disease. Implications for etiology and pathogenesis",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Rare exceptions exist: a small minority of cHL shows clonal T-cell receptor rearrangements and true T-cell derivation, underscoring that cHL is predominantly—but not absolutely exclusively—a GC B-cell lymphoma ref [10].",
+    "refNo": 10,
+    "title": "Rare occurrence of classical Hodgkin's disease as a T cell lymphoma",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Contemporary schemes divide the disease into classical Hodgkin lymphoma (cHL) and nodular lymphocyte-predominant Hodgkin lymphoma (NLPHL), the latter now increasingly recognized as biologically distinct and recently renamed nodular lymphocyte-predominant B-cell lymphoma in updated classifications ref [12], ref [15], ref [6]. cHL accounts for about 90–95% of cases and is characterized by Hodgkin/Reed-Sternberg cells with the canonical immunophenotype CD30-positive, usually CD15-positive, weak PAX5, and typically absent or diminished pan-B-cell markers; by contrast, NLPHL shows LP (“popcorn”) cells that retain a mature B-cell program, including CD20, CD45, BCL6, OCT2, and BOB1, and are usually CD15-/CD30- ref [12], ref [15], ref [6], ref [7].",
+    "refNo": 12,
+    "title": "Hodgkin lymphoma: A review and update on recent progress",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Contemporary schemes divide the disease into classical Hodgkin lymphoma (cHL) and nodular lymphocyte-predominant Hodgkin lymphoma (NLPHL), the latter now increasingly recognized as biologically distinct and recently renamed nodular lymphocyte-predominant B-cell lymphoma in updated classifications ref [12], ref [15], ref [6]. cHL accounts for about 90–95% of cases and is characterized by Hodgkin/Reed-Sternberg cells with the canonical immunophenotype CD30-positive, usually CD15-positive, weak PAX5, and typically absent or diminished pan-B-cell markers; by contrast, NLPHL shows LP (“popcorn”) cells that retain a mature B-cell program, including CD20, CD45, BCL6, OCT2, and BOB1, and are usually CD15-/CD30- ref [12], ref [15], ref [6], ref [7].",
+    "refNo": 15,
+    "title": "Hodgkin lymphoma: Differences and differential diagnosis",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Contemporary schemes divide the disease into classical Hodgkin lymphoma (cHL) and nodular lymphocyte-predominant Hodgkin lymphoma (NLPHL), the latter now increasingly recognized as biologically distinct and recently renamed nodular lymphocyte-predominant B-cell lymphoma in updated classifications ref [12], ref [15], ref [6]. cHL accounts for about 90–95% of cases and is characterized by Hodgkin/Reed-Sternberg cells with the canonical immunophenotype CD30-positive, usually CD15-positive, weak PAX5, and typically absent or diminished pan-B-cell markers; by contrast, NLPHL shows LP (“popcorn”) cells that retain a mature B-cell program, including CD20, CD45, BCL6, OCT2, and BOB1, and are usually CD15-/CD30- ref [12], ref [15], ref [6], ref [7].",
+    "refNo": 6,
+    "title": "Patterns of presentation of Hodgkin disease. Implications for etiology and pathogenesis",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Contemporary schemes divide the disease into classical Hodgkin lymphoma (cHL) and nodular lymphocyte-predominant Hodgkin lymphoma (NLPHL), the latter now increasingly recognized as biologically distinct and recently renamed nodular lymphocyte-predominant B-cell lymphoma in updated classifications ref [12], ref [15], ref [6]. cHL accounts for about 90–95% of cases and is characterized by Hodgkin/Reed-Sternberg cells with the canonical immunophenotype CD30-positive, usually CD15-positive, weak PAX5, and typically absent or diminished pan-B-cell markers; by contrast, NLPHL shows LP (“popcorn”) cells that retain a mature B-cell program, including CD20, CD45, BCL6, OCT2, and BOB1, and are usually CD15-/CD30- ref [12], ref [15], ref [6], ref [7].",
+    "refNo": 12,
+    "title": "Hodgkin lymphoma: A review and update on recent progress",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Contemporary schemes divide the disease into classical Hodgkin lymphoma (cHL) and nodular lymphocyte-predominant Hodgkin lymphoma (NLPHL), the latter now increasingly recognized as biologically distinct and recently renamed nodular lymphocyte-predominant B-cell lymphoma in updated classifications ref [12], ref [15], ref [6]. cHL accounts for about 90–95% of cases and is characterized by Hodgkin/Reed-Sternberg cells with the canonical immunophenotype CD30-positive, usually CD15-positive, weak PAX5, and typically absent or diminished pan-B-cell markers; by contrast, NLPHL shows LP (“popcorn”) cells that retain a mature B-cell program, including CD20, CD45, BCL6, OCT2, and BOB1, and are usually CD15-/CD30- ref [12], ref [15], ref [6], ref [7].",
+    "refNo": 15,
+    "title": "Hodgkin lymphoma: Differences and differential diagnosis",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Contemporary schemes divide the disease into classical Hodgkin lymphoma (cHL) and nodular lymphocyte-predominant Hodgkin lymphoma (NLPHL), the latter now increasingly recognized as biologically distinct and recently renamed nodular lymphocyte-predominant B-cell lymphoma in updated classifications ref [12], ref [15], ref [6]. cHL accounts for about 90–95% of cases and is characterized by Hodgkin/Reed-Sternberg cells with the canonical immunophenotype CD30-positive, usually CD15-positive, weak PAX5, and typically absent or diminished pan-B-cell markers; by contrast, NLPHL shows LP (“popcorn”) cells that retain a mature B-cell program, including CD20, CD45, BCL6, OCT2, and BOB1, and are usually CD15-/CD30- ref [12], ref [15], ref [6], ref [7].",
+    "refNo": 6,
+    "title": "Patterns of presentation of Hodgkin disease. Implications for etiology and pathogenesis",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Contemporary schemes divide the disease into classical Hodgkin lymphoma (cHL) and nodular lymphocyte-predominant Hodgkin lymphoma (NLPHL), the latter now increasingly recognized as biologically distinct and recently renamed nodular lymphocyte-predominant B-cell lymphoma in updated classifications ref [12], ref [15], ref [6]. cHL accounts for about 90–95% of cases and is characterized by Hodgkin/Reed-Sternberg cells with the canonical immunophenotype CD30-positive, usually CD15-positive, weak PAX5, and typically absent or diminished pan-B-cell markers; by contrast, NLPHL shows LP (“popcorn”) cells that retain a mature B-cell program, including CD20, CD45, BCL6, OCT2, and BOB1, and are usually CD15-/CD30- ref [12], ref [15], ref [6], ref [7].",
+    "refNo": 7,
+    "title": "Molecular biology of Hodgkin lymphoma",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "This distinction is clinically important because NLPHL is generally more indolent, may transform to T-cell/histiocyte-rich large B-cell lymphoma or diffuse large B-cell lymphoma, and can overlap morphologically with these entities ref [6], ref [7].",
+    "refNo": 6,
+    "title": "Patterns of presentation of Hodgkin disease. Implications for etiology and pathogenesis",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "This distinction is clinically important because NLPHL is generally more indolent, may transform to T-cell/histiocyte-rich large B-cell lymphoma or diffuse large B-cell lymphoma, and can overlap morphologically with these entities ref [6], ref [7].",
+    "refNo": 7,
+    "title": "Molecular biology of Hodgkin lymphoma",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Histologically, cHL comprises four classic subtypes—nodular sclerosis, mixed cellularity, lymphocyte-rich, and lymphocyte-depleted—defined by architectural pattern, abundance and morphology of HRS cells, fibrosis, and inflammatory background ref [12], ref [15], ref [6].",
+    "refNo": 12,
+    "title": "Hodgkin lymphoma: A review and update on recent progress",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Histologically, cHL comprises four classic subtypes—nodular sclerosis, mixed cellularity, lymphocyte-rich, and lymphocyte-depleted—defined by architectural pattern, abundance and morphology of HRS cells, fibrosis, and inflammatory background ref [12], ref [15], ref [6].",
+    "refNo": 15,
+    "title": "Hodgkin lymphoma: Differences and differential diagnosis",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Histologically, cHL comprises four classic subtypes—nodular sclerosis, mixed cellularity, lymphocyte-rich, and lymphocyte-depleted—defined by architectural pattern, abundance and morphology of HRS cells, fibrosis, and inflammatory background ref [12], ref [15], ref [6].",
+    "refNo": 6,
+    "title": "Patterns of presentation of Hodgkin disease. Implications for etiology and pathogenesis",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Nodular sclerosis is the most common form in high-income settings and often presents with mediastinal disease; mixed cellularity and lymphocyte-depleted forms show stronger associations with EBV and immunodeficiency, whereas lymphocyte-rich cHL can mimic NLPHL and requires immunophenotypic resolution ref [12], ref [15], ref [6], ref [7].",
+    "refNo": 12,
+    "title": "Hodgkin lymphoma: A review and update on recent progress",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Nodular sclerosis is the most common form in high-income settings and often presents with mediastinal disease; mixed cellularity and lymphocyte-depleted forms show stronger associations with EBV and immunodeficiency, whereas lymphocyte-rich cHL can mimic NLPHL and requires immunophenotypic resolution ref [12], ref [15], ref [6], ref [7].",
+    "refNo": 15,
+    "title": "Hodgkin lymphoma: Differences and differential diagnosis",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Nodular sclerosis is the most common form in high-income settings and often presents with mediastinal disease; mixed cellularity and lymphocyte-depleted forms show stronger associations with EBV and immunodeficiency, whereas lymphocyte-rich cHL can mimic NLPHL and requires immunophenotypic resolution ref [12], ref [15], ref [6], ref [7].",
+    "refNo": 6,
+    "title": "Patterns of presentation of Hodgkin disease. Implications for etiology and pathogenesis",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Nodular sclerosis is the most common form in high-income settings and often presents with mediastinal disease; mixed cellularity and lymphocyte-depleted forms show stronger associations with EBV and immunodeficiency, whereas lymphocyte-rich cHL can mimic NLPHL and requires immunophenotypic resolution ref [12], ref [15], ref [6], ref [7].",
+    "refNo": 7,
+    "title": "Molecular biology of Hodgkin lymphoma",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Differential diagnosis also includes primary mediastinal large B-cell lymphoma, mediastinal gray-zone lymphoma, EBV-positive diffuse large B-cell lymphoma, and CD30-positive T-cell lymphomas, highlighting the need for adequate excisional tissue and integrated clinicopathologic assessment ref [6], ref [7].",
+    "refNo": 6,
+    "title": "Patterns of presentation of Hodgkin disease. Implications for etiology and pathogenesis",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Differential diagnosis also includes primary mediastinal large B-cell lymphoma, mediastinal gray-zone lymphoma, EBV-positive diffuse large B-cell lymphoma, and CD30-positive T-cell lymphomas, highlighting the need for adequate excisional tissue and integrated clinicopathologic assessment ref [6], ref [7].",
+    "refNo": 7,
+    "title": "Molecular biology of Hodgkin lymphoma",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Epstein-Barr virus (EBV) is the best-established infectious factor: EBV is clonally present in Hodgkin/Reed-Sternberg cells in a substantial subset of cHL, supporting a causal role in those tumors, and EBV-positive disease shows distinct epidemiologic patterns by age, sex, geography, and histology ref [19], ref [20].",
+    "refNo": 19,
+    "title": "Family history of cancer and risk of pediatric and adolescent Hodgkin lymphoma: A Children's Oncology Group study",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Epstein-Barr virus (EBV) is the best-established infectious factor: EBV is clonally present in Hodgkin/Reed-Sternberg cells in a substantial subset of cHL, supporting a causal role in those tumors, and EBV-positive disease shows distinct epidemiologic patterns by age, sex, geography, and histology ref [19], ref [20].",
+    "refNo": 20,
+    "title": "Perinatal and family risk factors for Hodgkin lymphoma in childhood through young adulthood",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Prior infectious mononucleosis confers an increased later risk of HL, with the association strongest for EBV-positive young-adult disease, consistent with delayed primary EBV infection as a biologically relevant antecedent ref [19], ref [20], ref [16].",
+    "refNo": 19,
+    "title": "Family history of cancer and risk of pediatric and adolescent Hodgkin lymphoma: A Children's Oncology Group study",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Prior infectious mononucleosis confers an increased later risk of HL, with the association strongest for EBV-positive young-adult disease, consistent with delayed primary EBV infection as a biologically relevant antecedent ref [19], ref [20], ref [16].",
+    "refNo": 20,
+    "title": "Perinatal and family risk factors for Hodgkin lymphoma in childhood through young adulthood",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Prior infectious mononucleosis confers an increased later risk of HL, with the association strongest for EBV-positive young-adult disease, consistent with delayed primary EBV infection as a biologically relevant antecedent ref [19], ref [20], ref [16].",
+    "refNo": 16,
+    "title": "Clinical, Molecular, and Environmental Risk Factors for Hodgkin Lymphoma",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Broader epidemiologic syntheses also implicate childhood environment, socioeconomic conditions, and infection-related immune maturation as modifiers of HL susceptibility ref [16].",
+    "refNo": 16,
+    "title": "Clinical, Molecular, and Environmental Risk Factors for Hodgkin Lymphoma",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Large registry-based analyses from the Nordic countries show an approximately threefold excess risk of cHL in first-degree relatives overall, with markedly higher risk in siblings, especially same-sex siblings and twins, and greater risk when the proband is diagnosed at a young age ref [8].",
+    "refNo": 8,
+    "title": "Frequent expression of the B-cell-specific activator protein in Reed-Sternberg cells of classical Hodgkin's disease provides further evidence for its B-cell origin",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "In pediatric and adolescent HL, family history of lymphoid neoplasms similarly clusters in affected pedigrees, with stronger signals for early-onset cancers and first-degree relatives ref [21].",
+    "refNo": 21,
+    "title": "Risk of familial classical Hodgkin lymphoma by relationship, histology, age, and sex: A joint study from five Nordic countries",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Population-based Swedish data further support substantial familial risk across childhood through young adulthood, with hazard ratios exceeding seven for parental or sibling history of HL ref [7].",
+    "refNo": 7,
+    "title": "Molecular biology of Hodgkin lymphoma",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "HL incidence is increased in settings of congenital or acquired immunodeficiency, particularly HIV infection, and HIV-associated HL is overwhelmingly EBV-positive, linking impaired immune surveillance to viral lymphomagenesis ref [20], ref [16].",
+    "refNo": 20,
+    "title": "Perinatal and family risk factors for Hodgkin lymphoma in childhood through young adulthood",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "HL incidence is increased in settings of congenital or acquired immunodeficiency, particularly HIV infection, and HIV-associated HL is overwhelmingly EBV-positive, linking impaired immune surveillance to viral lymphomagenesis ref [20], ref [16].",
+    "refNo": 16,
+    "title": "Clinical, Molecular, and Environmental Risk Factors for Hodgkin Lymphoma",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Together, these observations support a model in which cHL emerges from subtype-specific combinations of EBV biology, inherited susceptibility, and altered host immune control, with important implications for risk stratification and prevention-oriented research ref [16], ref [19], ref [8].",
+    "refNo": 16,
+    "title": "Clinical, Molecular, and Environmental Risk Factors for Hodgkin Lymphoma",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Together, these observations support a model in which cHL emerges from subtype-specific combinations of EBV biology, inherited susceptibility, and altered host immune control, with important implications for risk stratification and prevention-oriented research ref [16], ref [19], ref [8].",
+    "refNo": 19,
+    "title": "Family history of cancer and risk of pediatric and adolescent Hodgkin lymphoma: A Children's Oncology Group study",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Together, these observations support a model in which cHL emerges from subtype-specific combinations of EBV biology, inherited susceptibility, and altered host immune control, with important implications for risk stratification and prevention-oriented research ref [16], ref [19], ref [8].",
+    "refNo": 8,
+    "title": "Frequent expression of the B-cell-specific activator protein in Reed-Sternberg cells of classical Hodgkin's disease provides further evidence for its B-cell origin",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Contemporary frontline management of classical Hodgkin lymphoma (cHL) is fundamentally guideline-driven and stage-adapted, integrating Ann Arbor/Lugano staging, baseline risk stratification, and interim PET response assessment into therapeutic decision-making ref [22], ref [13], ref [6], ref [7].",
+    "refNo": 22,
+    "title": "Hodgkin Lymphoma, Version 2.2020, NCCN Clinical Practice Guidelines in Oncology",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Contemporary frontline management of classical Hodgkin lymphoma (cHL) is fundamentally guideline-driven and stage-adapted, integrating Ann Arbor/Lugano staging, baseline risk stratification, and interim PET response assessment into therapeutic decision-making ref [22], ref [13], ref [6], ref [7].",
+    "refNo": 13,
+    "title": "Hodgkin Lymphoma-Review on Pathogenesis, Diagnosis, Current and Future Treatment Approaches for Adult Patients",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Contemporary frontline management of classical Hodgkin lymphoma (cHL) is fundamentally guideline-driven and stage-adapted, integrating Ann Arbor/Lugano staging, baseline risk stratification, and interim PET response assessment into therapeutic decision-making ref [22], ref [13], ref [6], ref [7].",
+    "refNo": 6,
+    "title": "Patterns of presentation of Hodgkin disease. Implications for etiology and pathogenesis",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Contemporary frontline management of classical Hodgkin lymphoma (cHL) is fundamentally guideline-driven and stage-adapted, integrating Ann Arbor/Lugano staging, baseline risk stratification, and interim PET response assessment into therapeutic decision-making ref [22], ref [13], ref [6], ref [7].",
+    "refNo": 7,
+    "title": "Molecular biology of Hodgkin lymphoma",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Across major frameworks, patients are broadly separated into early-stage favorable, early-stage unfavorable/intermediate, and advanced-stage disease, although the exact definitions of bulky disease and adverse risk factors vary among NCCN, GHSG, and EORTC-based algorithms ref [22], ref [13], ref [7].",
+    "refNo": 22,
+    "title": "Hodgkin Lymphoma, Version 2.2020, NCCN Clinical Practice Guidelines in Oncology",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Across major frameworks, patients are broadly separated into early-stage favorable, early-stage unfavorable/intermediate, and advanced-stage disease, although the exact definitions of bulky disease and adverse risk factors vary among NCCN, GHSG, and EORTC-based algorithms ref [22], ref [13], ref [7].",
+    "refNo": 13,
+    "title": "Hodgkin Lymphoma-Review on Pathogenesis, Diagnosis, Current and Future Treatment Approaches for Adult Patients",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Across major frameworks, patients are broadly separated into early-stage favorable, early-stage unfavorable/intermediate, and advanced-stage disease, although the exact definitions of bulky disease and adverse risk factors vary among NCCN, GHSG, and EORTC-based algorithms ref [22], ref [13], ref [7].",
+    "refNo": 7,
+    "title": "Molecular biology of Hodgkin lymphoma",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "For early-stage disease, combined-modality therapy remains a standard backbone, whereas omission of radiotherapy is generally restricted to carefully selected PET-negative patients after discussion of relapse risk versus late effects ref [22], ref [13], ref [6].",
+    "refNo": 22,
+    "title": "Hodgkin Lymphoma, Version 2.2020, NCCN Clinical Practice Guidelines in Oncology",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "For early-stage disease, combined-modality therapy remains a standard backbone, whereas omission of radiotherapy is generally restricted to carefully selected PET-negative patients after discussion of relapse risk versus late effects ref [22], ref [13], ref [6].",
+    "refNo": 13,
+    "title": "Hodgkin Lymphoma-Review on Pathogenesis, Diagnosis, Current and Future Treatment Approaches for Adult Patients",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "For early-stage disease, combined-modality therapy remains a standard backbone, whereas omission of radiotherapy is generally restricted to carefully selected PET-negative patients after discussion of relapse risk versus late effects ref [22], ref [13], ref [6].",
+    "refNo": 6,
+    "title": "Patterns of presentation of Hodgkin disease. Implications for etiology and pathogenesis",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "For advanced-stage disease, guideline-endorsed options include ABVD-based PET-adapted approaches, escalated BEACOPP in fit younger patients, and in some jurisdictions brentuximab vedotin plus AVD, reflecting divergent interpretations of efficacy-to-toxicity tradeoffs and resource availability ref [22], ref [6], ref [7].",
+    "refNo": 22,
+    "title": "Hodgkin Lymphoma, Version 2.2020, NCCN Clinical Practice Guidelines in Oncology",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "For advanced-stage disease, guideline-endorsed options include ABVD-based PET-adapted approaches, escalated BEACOPP in fit younger patients, and in some jurisdictions brentuximab vedotin plus AVD, reflecting divergent interpretations of efficacy-to-toxicity tradeoffs and resource availability ref [22], ref [6], ref [7].",
+    "refNo": 6,
+    "title": "Patterns of presentation of Hodgkin disease. Implications for etiology and pathogenesis",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "For advanced-stage disease, guideline-endorsed options include ABVD-based PET-adapted approaches, escalated BEACOPP in fit younger patients, and in some jurisdictions brentuximab vedotin plus AVD, reflecting divergent interpretations of efficacy-to-toxicity tradeoffs and resource availability ref [22], ref [6], ref [7].",
+    "refNo": 7,
+    "title": "Molecular biology of Hodgkin lymphoma",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Pre-treatment fertility counseling, cardiopulmonary assessment, and survivorship risk mitigation are therefore integral parts of the frontline framework rather than ancillary considerations ref [22], ref [13].",
+    "refNo": 22,
+    "title": "Hodgkin Lymphoma, Version 2.2020, NCCN Clinical Practice Guidelines in Oncology",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Pre-treatment fertility counseling, cardiopulmonary assessment, and survivorship risk mitigation are therefore integral parts of the frontline framework rather than ancillary considerations ref [22], ref [13].",
+    "refNo": 13,
+    "title": "Hodgkin Lymphoma-Review on Pathogenesis, Diagnosis, Current and Future Treatment Approaches for Adult Patients",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Pediatric and adolescent guidelines apply the same principles of risk-adapted, response-adapted therapy but place even greater emphasis on minimizing cumulative anthracycline, alkylator, bleomycin, and radiation exposure because of lifelong risks of infertility, cardiopulmonary injury, endocrinopathy, and second malignancies ref [23], ref [6].",
+    "refNo": 23,
+    "title": "Pediatric Hodgkin Lymphoma, Version 3.2021",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Pediatric and adolescent guidelines apply the same principles of risk-adapted, response-adapted therapy but place even greater emphasis on minimizing cumulative anthracycline, alkylator, bleomycin, and radiation exposure because of lifelong risks of infertility, cardiopulmonary injury, endocrinopathy, and second malignancies ref [23], ref [6].",
+    "refNo": 6,
+    "title": "Patterns of presentation of Hodgkin disease. Implications for etiology and pathogenesis",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Accordingly, contemporary frontline practice across age groups can be viewed as a continuum: cure remains the primary objective, but modern guideline architecture increasingly prioritizes biologically and imaging-informed de-escalation for low-risk responders and selective intensification for patients with higher-risk or PET-positive disease ref [22], ref [23], ref [7].",
+    "refNo": 22,
+    "title": "Hodgkin Lymphoma, Version 2.2020, NCCN Clinical Practice Guidelines in Oncology",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Accordingly, contemporary frontline practice across age groups can be viewed as a continuum: cure remains the primary objective, but modern guideline architecture increasingly prioritizes biologically and imaging-informed de-escalation for low-risk responders and selective intensification for patients with higher-risk or PET-positive disease ref [22], ref [23], ref [7].",
+    "refNo": 23,
+    "title": "Pediatric Hodgkin Lymphoma, Version 3.2021",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Accordingly, contemporary frontline practice across age groups can be viewed as a continuum: cure remains the primary objective, but modern guideline architecture increasingly prioritizes biologically and imaging-informed de-escalation for low-risk responders and selective intensification for patients with higher-risk or PET-positive disease ref [22], ref [23], ref [7].",
+    "refNo": 7,
+    "title": "Molecular biology of Hodgkin lymphoma",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Long-term follow-up from GHSG HD9 showed superior tumor control and overall survival with escalated BEACOPP over COPP/ABVD, establishing the efficacy of dose-intensified therapy in high-risk disease ref [28].",
+    "refNo": 28,
+    "title": "Early chemotherapy intensification with escalated BEACOPP in patients with advanced-stage Hodgkin lymphoma with a positive interim positron emission tomography/computed tomography scan after two ABVD cycles: Long-term results of the GITIL/FIL HD 0607 Trial",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "However, when ABVD was compared with BEACOPP in a setting that incorporated planned high-dose salvage, BEACOPP improved initial disease control but did not confer a significant overall-survival advantage, while causing substantially greater toxicity ref [25].",
+    "refNo": 25,
+    "title": "ABVD versus BEACOPP for Hodgkin's lymphoma when high-dose salvage is planned",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "In SWOG S0816, patients with a positive interim PET after two ABVD cycles were escalated to eBEACOPP, yielding encouraging 2-year outcomes, but 5-year follow-up highlighted limitations: nearly one quarter of PET2-negative patients relapsed and second cancers were more frequent after eBEACOPP ref [8], ref [31].",
+    "refNo": 8,
+    "title": "Frequent expression of the B-cell-specific activator protein in Reed-Sternberg cells of classical Hodgkin's disease provides further evidence for its B-cell origin",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "In SWOG S0816, patients with a positive interim PET after two ABVD cycles were escalated to eBEACOPP, yielding encouraging 2-year outcomes, but 5-year follow-up highlighted limitations: nearly one quarter of PET2-negative patients relapsed and second cancers were more frequent after eBEACOPP ref [8], ref [31].",
+    "refNo": 31,
+    "title": "Adapted treatment guided by interim PET-CT scan in advanced Hodgkin's lymphoma",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "Similarly, the RATHL study showed that interim PET can safely support de-escalation in PET-negative patients by omitting bleomycin after cycle 2, reducing pulmonary toxicity with only a small decrement, if any, in efficacy, while PET-positive patients treated with BEACOPP achieved intermediate long-term control ref [9].",
+    "refNo": 9,
+    "title": "Hodgkin and reed-sternberg cells represent an expansion of a single clone originating from a germinal center B-cell with functional immunoglobulin gene rearrangements but defective immunoglobulin transcription",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "The GITIL/FIL HD 0607 trial likewise confirmed the feasibility of switching PET2-positive patients from ABVD to escalated BEACOPP, with benefit concentrated in Deauville 4 rather than Deauville 5 disease ref [30].",
+    "refNo": 30,
+    "title": "US Intergroup Trial of response-adapted therapy for stage III to IV Hodgkin lymphoma using early interim fluorodeoxyglucose-positron emission tomography imaging: Southwest Oncology Group S0816",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "In ECHELON-1, A+AVD improved modified progression-free survival versus ABVD in stage III/IV disease, supporting a bleomycin-sparing, antibody-drug conjugate–based approach for many adults with advanced-stage disease ref [26].",
+    "refNo": 26,
+    "title": "Brentuximab vedotin with chemotherapy for stage III or IV Hodgkin's lymphoma",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "Collectively, current frontline frameworks favor individualized selection among ABVD-based, PET-adapted escalation/de-escalation, BEACOPP-based, and brentuximab-containing regimens according to relapse risk, fertility concerns, pulmonary risk, and tolerance of treatment intensity ref [25], ref [26], ref [30], ref [9].",
+    "refNo": 25,
+    "title": "ABVD versus BEACOPP for Hodgkin's lymphoma when high-dose salvage is planned",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Collectively, current frontline frameworks favor individualized selection among ABVD-based, PET-adapted escalation/de-escalation, BEACOPP-based, and brentuximab-containing regimens according to relapse risk, fertility concerns, pulmonary risk, and tolerance of treatment intensity ref [25], ref [26], ref [30], ref [9].",
+    "refNo": 26,
+    "title": "Brentuximab vedotin with chemotherapy for stage III or IV Hodgkin's lymphoma",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "Collectively, current frontline frameworks favor individualized selection among ABVD-based, PET-adapted escalation/de-escalation, BEACOPP-based, and brentuximab-containing regimens according to relapse risk, fertility concerns, pulmonary risk, and tolerance of treatment intensity ref [25], ref [26], ref [30], ref [9].",
+    "refNo": 30,
+    "title": "US Intergroup Trial of response-adapted therapy for stage III to IV Hodgkin lymphoma using early interim fluorodeoxyglucose-positron emission tomography imaging: Southwest Oncology Group S0816",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "Collectively, current frontline frameworks favor individualized selection among ABVD-based, PET-adapted escalation/de-escalation, BEACOPP-based, and brentuximab-containing regimens according to relapse risk, fertility concerns, pulmonary risk, and tolerance of treatment intensity ref [25], ref [26], ref [30], ref [9].",
+    "refNo": 9,
+    "title": "Hodgkin and reed-sternberg cells represent an expansion of a single clone originating from a germinal center B-cell with functional immunoglobulin gene rearrangements but defective immunoglobulin transcription",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Contemporary cooperative-group strategies stratify patients by stage, bulk, B symptoms, and increasingly interim metabolic response, allowing de-escalation of radiotherapy (RT) or chemotherapy in favorable responders and selective intensification in higher-risk subsets ref [10], ref [39], ref [44], ref [11].",
+    "refNo": 10,
+    "title": "Rare occurrence of classical Hodgkin's disease as a T cell lymphoma",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Contemporary cooperative-group strategies stratify patients by stage, bulk, B symptoms, and increasingly interim metabolic response, allowing de-escalation of radiotherapy (RT) or chemotherapy in favorable responders and selective intensification in higher-risk subsets ref [10], ref [39], ref [44], ref [11].",
+    "refNo": 39,
+    "title": "Dose-intensive response-based chemotherapy and radiation therapy for children and adolescents with newly diagnosed intermediate-risk hodgkin lymphoma: A report from the Children's Oncology Group Study AHOD0031",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "Contemporary cooperative-group strategies stratify patients by stage, bulk, B symptoms, and increasingly interim metabolic response, allowing de-escalation of radiotherapy (RT) or chemotherapy in favorable responders and selective intensification in higher-risk subsets ref [10], ref [39], ref [44], ref [11].",
+    "refNo": 44,
+    "title": "Brentuximab vedotin and association with event-free survival (EFS) in children with newly diagnosed high-risk Hodgkin lymphoma (HL): A report from the Children's Oncology Group phase 3 study AHOD1331 (NCT 02166463)",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "Contemporary cooperative-group strategies stratify patients by stage, bulk, B symptoms, and increasingly interim metabolic response, allowing de-escalation of radiotherapy (RT) or chemotherapy in favorable responders and selective intensification in higher-risk subsets ref [10], ref [39], ref [44], ref [11].",
+    "refNo": 11,
+    "title": "Molecular biology of Hodgkin's and Reed/Sternberg cells in Hodgkin's lymphoma",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "In GPOH-HD95, RT could be safely omitted in early-stage patients achieving strict complete remission after chemotherapy, whereas omission in intermediate-stage patients was associated with inferior progression-free survival ref [15].",
+    "refNo": 15,
+    "title": "Hodgkin lymphoma: Differences and differential diagnosis",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Similarly, long-term follow-up of CCG 5942 showed that involved-field RT improved event-free survival after chemotherapy-induced complete response, although not overall survival, underscoring the trade-off between relapse prevention and late toxicity ref [13].",
+    "refNo": 13,
+    "title": "Hodgkin Lymphoma-Review on Pathogenesis, Diagnosis, Current and Future Treatment Approaches for Adult Patients",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "AHOD0431 further refined this paradigm in stage IA/IIA nonbulky disease, showing that nearly half of patients could receive minimal chemotherapy alone, while PET1 negativity, low ESR, and mixed-cellularity histology identified particularly favorable groups ref [44].",
+    "refNo": 44,
+    "title": "Brentuximab vedotin and association with event-free survival (EFS) in children with newly diagnosed high-risk Hodgkin lymphoma (HL): A report from the Children's Oncology Group phase 3 study AHOD1331 (NCT 02166463)",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "P9425 showed that dose-dense ABVE-PC with early response assessment yielded 5-year event-free survival of 84% while limiting cumulative anthracycline and alkylator exposure ref [10].",
+    "refNo": 10,
+    "title": "Rare occurrence of classical Hodgkin's disease as a T cell lymphoma",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "AHOD0031 confirmed the prognostic value of early response in intermediate-risk disease and demonstrated that rapid early responders in complete remission could omit IFRT without compromising outcome, whereas slow early responders with persistent PET positivity might benefit from augmented therapy ref [39].",
+    "refNo": 39,
+    "title": "Dose-intensive response-based chemotherapy and radiation therapy for children and adolescents with newly diagnosed intermediate-risk hodgkin lymphoma: A report from the Children's Oncology Group Study AHOD0031",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "In high-risk patients, AHOD0831 used PET-adapted consolidation with ifosfamide/vinorelbine for slow early responders, achieving survival comparable to prior high-risk studies despite reduced radiation volumes ref [11].",
+    "refNo": 11,
+    "title": "Molecular biology of Hodgkin's and Reed/Sternberg cells in Hodgkin's lymphoma",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "European studies likewise prioritized late-effects reduction: GPOH-HD-2002 showed that procarbazine-free OEPA-COPDAC in boys had effectiveness comparable to OPPA-COPP in girls, supporting fertility-conscious regimen design ref [45].",
+    "refNo": 45,
+    "title": "Long-term results of CCG 5942: A randomized comparison of chemotherapy with and without radiotherapy for children with Hodgkin's lymphoma--a report from the Children's Oncology Group",
+    "marker_text": "[45]"
+  },
+  {
+    "sentence": "Most recently, AHOD1331 demonstrated improved event-free survival with brentuximab vedotin plus multiagent chemotherapy in newly diagnosed high-risk pediatric HL, signaling incorporation of targeted agents into frontline risk-adapted therapy ref [12].",
+    "refNo": 12,
+    "title": "Hodgkin lymphoma: A review and update on recent progress",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Late effects remain clinically relevant for decades and are dominated by second malignant neoplasms and cardiovascular disease, both of which contribute substantially to excess late mortality in long-term survivors ref [47].",
+    "refNo": 47,
+    "title": "Hodgkin lymphoma: Late effects of treatment and guidelines for surveillance",
+    "marker_text": "[47]"
+  },
+  {
+    "sentence": "Risk is strongly exposure-dependent, with the highest burdens historically observed after larger-field radiotherapy, anthracycline-containing chemotherapy, and alkylator-based regimens ref [47].",
+    "refNo": 47,
+    "title": "Hodgkin lymphoma: Late effects of treatment and guidelines for surveillance",
+    "marker_text": "[47]"
+  },
+  {
+    "sentence": "Women exposed to chest irradiation at a young age warrant structured early breast surveillance, while survivors treated with neck or mediastinal irradiation require ongoing assessment for thyroid dysfunction and radiation-related vascular or cardiac disease ref [47].",
+    "refNo": 47,
+    "title": "Hodgkin lymphoma: Late effects of treatment and guidelines for surveillance",
+    "marker_text": "[47]"
+  },
+  {
+    "sentence": "For patients exposed to chest radiotherapy and/or anthracyclines, long-term monitoring for coronary disease, valvular dysfunction, and heart failure is appropriate, together with aggressive management of modifiable cardiovascular risk factors such as smoking, hypertension, dyslipidemia, diabetes, obesity, and physical inactivity ref [47].",
+    "refNo": 47,
+    "title": "Hodgkin lymphoma: Late effects of treatment and guidelines for surveillance",
+    "marker_text": "[47]"
+  },
+  {
+    "sentence": "Other survivorship priorities include pulmonary toxicity after bleomycin or thoracic irradiation, fertility and gonadal dysfunction after alkylating therapy or pelvic irradiation, and less common but disabling sequelae such as chronic fatigue and neuromuscular complications ref [47].",
+    "refNo": 47,
+    "title": "Hodgkin lymphoma: Late effects of treatment and guidelines for surveillance",
+    "marker_text": "[47]"
+  },
+  {
+    "sentence": "Contemporary guidelines, including exposure-based survivorship frameworks from NCCN and the Children’s Oncology Group, support periodic history, focused examination, laboratory testing, and selected imaging rather than uniform intensive screening ref [47].",
+    "refNo": 47,
+    "title": "Hodgkin lymphoma: Late effects of treatment and guidelines for surveillance",
+    "marker_text": "[47]"
+  },
+  {
+    "sentence": "As radiation volumes shrink and novel agents enter frontline care, surveillance recommendations will need continuous recalibration to reflect changing late-effect profiles ref [47].",
+    "refNo": 47,
+    "title": "Hodgkin lymphoma: Late effects of treatment and guidelines for surveillance",
+    "marker_text": "[47]"
+  },
+  {
+    "sentence": "Early series established that the timing of relapse, presence of B symptoms, extranodal disease, and limited response to prior therapy strongly influence post-relapse survival, thereby laying the foundation for modern risk stratification in relapsed cHL ref [48].",
+    "refNo": 48,
+    "title": "Outcome of treatment of first relapse of Hodgkin's disease after primary chemotherapy: Identification of risk factors from the British Columbia experience 1970 to 1988",
+    "marker_text": "[48]"
+  },
+  {
+    "sentence": "Yet long-term survival is not equivalent to restoration of population-level life expectancy: excess late mortality persists and progressively shifts from relapse-related death toward treatment-related causes, especially second malignant neoplasms and cardiovascular and pulmonary disease ref [49], ref [2], ref [3], ref [4].",
+    "refNo": 49,
+    "title": "Late mortality among 5-year survivors of childhood cancer: A summary from the Childhood Cancer Survivor Study",
+    "marker_text": "[49]"
+  },
+  {
+    "sentence": "Yet long-term survival is not equivalent to restoration of population-level life expectancy: excess late mortality persists and progressively shifts from relapse-related death toward treatment-related causes, especially second malignant neoplasms and cardiovascular and pulmonary disease ref [49], ref [2], ref [3], ref [4].",
+    "refNo": 2,
+    "title": "PD-L1 expression is characteristic of a subset of aggressive B-cell lymphomas and virus-associated malignancies",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Yet long-term survival is not equivalent to restoration of population-level life expectancy: excess late mortality persists and progressively shifts from relapse-related death toward treatment-related causes, especially second malignant neoplasms and cardiovascular and pulmonary disease ref [49], ref [2], ref [3], ref [4].",
+    "refNo": 3,
+    "title": "Pediatric Hodgkin lymphoma: Biomarkers, drugs, and clinical trials for translational science and medicine",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Yet long-term survival is not equivalent to restoration of population-level life expectancy: excess late mortality persists and progressively shifts from relapse-related death toward treatment-related causes, especially second malignant neoplasms and cardiovascular and pulmonary disease ref [49], ref [2], ref [3], ref [4].",
+    "refNo": 4,
+    "title": "Cancer statistics, 2022",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Among childhood cancer survivors, the Childhood Cancer Survivor Study demonstrated a 30-year cumulative mortality of 18.1%, with marked excess risks for death from subsequent neoplasms, cardiac disease, and pulmonary disease; radiotherapy, alkylating agents, anthracyclines, and epipodophyllotoxins were major contributors ref [49].",
+    "refNo": 49,
+    "title": "Late mortality among 5-year survivors of childhood cancer: A summary from the Childhood Cancer Survivor Study",
+    "marker_text": "[49]"
+  },
+  {
+    "sentence": "Consistently, Hodgkin lymphoma survivors show some of the highest excess risks of second cancers and cardiac mortality among childhood cancer groups, and excess mortality remains detectable for decades ref [49], ref [3], ref [5], ref [6].",
+    "refNo": 49,
+    "title": "Late mortality among 5-year survivors of childhood cancer: A summary from the Childhood Cancer Survivor Study",
+    "marker_text": "[49]"
+  },
+  {
+    "sentence": "Consistently, Hodgkin lymphoma survivors show some of the highest excess risks of second cancers and cardiac mortality among childhood cancer groups, and excess mortality remains detectable for decades ref [49], ref [3], ref [5], ref [6].",
+    "refNo": 3,
+    "title": "Pediatric Hodgkin lymphoma: Biomarkers, drugs, and clinical trials for translational science and medicine",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Consistently, Hodgkin lymphoma survivors show some of the highest excess risks of second cancers and cardiac mortality among childhood cancer groups, and excess mortality remains detectable for decades ref [49], ref [3], ref [5], ref [6].",
+    "refNo": 5,
+    "title": "On some Morbid Appearances of the Absorbent Glands and Spleen",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Consistently, Hodgkin lymphoma survivors show some of the highest excess risks of second cancers and cardiac mortality among childhood cancer groups, and excess mortality remains detectable for decades ref [49], ref [3], ref [5], ref [6].",
+    "refNo": 6,
+    "title": "Patterns of presentation of Hodgkin disease. Implications for etiology and pathogenesis",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Reduced radiation fields and doses, anthracycline awareness, and contemporary risk-adapted strategies are expected to lessen future late deaths, although confirmation requires very long follow-up ref [2], ref [4], ref [7].",
+    "refNo": 2,
+    "title": "PD-L1 expression is characteristic of a subset of aggressive B-cell lymphomas and virus-associated malignancies",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Reduced radiation fields and doses, anthracycline awareness, and contemporary risk-adapted strategies are expected to lessen future late deaths, although confirmation requires very long follow-up ref [2], ref [4], ref [7].",
+    "refNo": 4,
+    "title": "Cancer statistics, 2022",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Reduced radiation fields and doses, anthracycline awareness, and contemporary risk-adapted strategies are expected to lessen future late deaths, although confirmation requires very long follow-up ref [2], ref [4], ref [7].",
+    "refNo": 7,
+    "title": "Molecular biology of Hodgkin lymphoma",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Survivorship programs should therefore integrate lifelong risk-based surveillance, cardiovascular prevention, screening for breast, lung, thyroid, and gastrointestinal malignancies when appropriate, fertility and endocrine follow-up, and attention to psychosocial and health-behavior determinants that may further shape long-term mortality ref [5], ref [8], ref [9].",
+    "refNo": 5,
+    "title": "On some Morbid Appearances of the Absorbent Glands and Spleen",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Survivorship programs should therefore integrate lifelong risk-based surveillance, cardiovascular prevention, screening for breast, lung, thyroid, and gastrointestinal malignancies when appropriate, fertility and endocrine follow-up, and attention to psychosocial and health-behavior determinants that may further shape long-term mortality ref [5], ref [8], ref [9].",
+    "refNo": 8,
+    "title": "Frequent expression of the B-cell-specific activator protein in Reed-Sternberg cells of classical Hodgkin's disease provides further evidence for its B-cell origin",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Survivorship programs should therefore integrate lifelong risk-based surveillance, cardiovascular prevention, screening for breast, lung, thyroid, and gastrointestinal malignancies when appropriate, fertility and endocrine follow-up, and attention to psychosocial and health-behavior determinants that may further shape long-term mortality ref [5], ref [8], ref [9].",
+    "refNo": 9,
+    "title": "Hodgkin and reed-sternberg cells represent an expansion of a single clone originating from a germinal center B-cell with functional immunoglobulin gene rearrangements but defective immunoglobulin transcription",
+    "marker_text": "[9]"
+  }
+]

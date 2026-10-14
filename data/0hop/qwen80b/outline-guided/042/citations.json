@@ -1,0 +1,440 @@
+[
+  {
+    "sentence": "The dietary intake of phytonutrients is predominantly linked to the consumption of fruits, vegetables, whole grains, legumes, nuts, and teas, as highlighted in comprehensive reviews of plant-based diets ref [1].",
+    "refNo": 1,
+    "title": "Critical review: Vegetables and fruit in the prevention of chronic diseases",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Emerging research also underscores the therapeutic potential of specific phytochemicals, such as curcumin and resveratrol, in cancer chemoprevention, though their clinical translation is often limited by bioavailability challenges ref [6].",
+    "refNo": 6,
+    "title": "Synergistic mechanisms of constituents in herbal extracts during intestinal absorption: Focus on natural occurring nanoparticles",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "In inflammatory bowel diseases (IBD), dietary phytonutrients derived from the Mediterranean diet—such as flavonoids, carotenoids, and omega-3 fatty acids—have been shown to restore gut microbiota balance and dampen mucosal inflammation, offering a complementary strategy to conventional therapies ref [3].",
+    "refNo": 3,
+    "title": "The role of diet in the prevention and treatment of inflammatory bowel diseases",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "In the United States, over 42% of the population reported using botanical dietary supplements by the early 2000s, fueling a $4.8 billion industry by 2008, as noted by Khan and Smillie ref [4].",
+    "refNo": 4,
+    "title": "Implementing a \"quality by design\" approach to assure the safety and integrity of botanical dietary supplements",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "The call for a 'Quality by Design' (QbD) approach, as proposed by Khan and Smillie ref [4], emphasizes systematic control from raw material authentication through final product testing to ensure consistency and safety, a model increasingly endorsed by international regulatory bodies and academic consortia.",
+    "refNo": 4,
+    "title": "Implementing a \"quality by design\" approach to assure the safety and integrity of botanical dietary supplements",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Steaming has been shown to better preserve phenolic compounds and glucosinolates compared to boiling, as it minimizes leaching into cooking water ref [6].",
+    "refNo": 6,
+    "title": "Synergistic mechanisms of constituents in herbal extracts during intestinal absorption: Focus on natural occurring nanoparticles",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Recent research highlights that coexisting constituents in herbal extracts—such as flavonoids, saponins, and essential oils—can act synergistically to enhance bioavailability by modulating enzyme activity, increasing membrane permeability, and forming natural nanoparticles that facilitate transport across the intestinal barrier ref [3].",
+    "refNo": 3,
+    "title": "The role of diet in the prevention and treatment of inflammatory bowel diseases",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Nanoparticle and microparticle platforms—fabricated from food-grade lipids, proteins, polysaccharides, and surfactants—have demonstrated significant potential in improving the dispersibility and bioactivity of phytochemicals, enabling controlled release and protection against degradation in the gastrointestinal tract ref [8].",
+    "refNo": 8,
+    "title": "Advances in nanoparticle and microparticle delivery systems for increasing the dispersibility, stability, and bioactivity of phytochemicals",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Nanocarrier systems, including polymeric nanoparticles, liposomes, and micelles, have been successfully applied to deliver poorly soluble phytochemicals such as kaempferol, where mechanochemical complexation with polysaccharides or glycyrrhetate significantly enhanced solubility and oral absorption ref [7].",
+    "refNo": 7,
+    "title": "Mechanochemical preparation of kaempferol intermolecular complexes for enhancing the solubility and bioavailability",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Similarly, saponin-derived wormlike micellar aggregates from Ilex paraguariensis have shown promise as natural solubilizing agents, improving the aqueous solubility of hydrophobic drugs through self-assembly and viscoelastic network formation ref [10].",
+    "refNo": 10,
+    "title": "Wormlike micellar aggregates of saponins from ilex paraguariensis a. St. Hil. (mate): A characterisation by cryo-tem, rheology, light scattering and small-angle neutron scattering",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "In oncological applications, nano-based delivery systems have enabled targeted chemotherapy using phytochemicals, improving tumor accumulation while minimizing systemic toxicity ref [9].",
+    "refNo": 9,
+    "title": "Recent trends in nano-based drug delivery systems for efficient delivery of phytochemicals in chemotherapy",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Garlic-derived organosulfur compounds have demonstrated potent inhibition of influenza A virus (H1N1) in vitro, reducing viral antigen production in MDCK cells as quantified by direct immunofluorescence assays, suggesting interference with early viral replication stages ref [12].",
+    "refNo": 12,
+    "title": "Evaluation of the effect of hydro alcoholic extract of cinnamon on herpes simplex virus-1",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Similarly, hydroalcoholic extracts of cinnamon significantly reduce herpes simplex virus type 1 (HSV-1) titers by inhibiting viral attachment and entry, with efficacy observed across multiple treatment phases in Vero cell cultures ref [14].",
+    "refNo": 14,
+    "title": "Natural compounds from djiboutian medicinal plants as inhibitors of COVID-19 by in silico investigations",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Annona muricata leaf extracts have shown dose-dependent antiviral activity against dengue virus type 2, likely through suppression of viral replication and modulation of host immune responses ref [15].",
+    "refNo": 15,
+    "title": "Emergency antiviral drug discovery during a pandemic-a case study on the application of natural compounds to treat covid-19",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "In the context of the COVID-19 pandemic, in silico studies have identified phytochemicals such as rutin, quercetin, and chlorogenic acid as high-affinity binders to SARS-CoV-2 main protease and receptor-binding domain, outperforming reference drugs like hydroxychloroquine in binding energy ref [7] ref [8].",
+    "refNo": 7,
+    "title": "Mechanochemical preparation of kaempferol intermolecular complexes for enhancing the solubility and bioavailability",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "In the context of the COVID-19 pandemic, in silico studies have identified phytochemicals such as rutin, quercetin, and chlorogenic acid as high-affinity binders to SARS-CoV-2 main protease and receptor-binding domain, outperforming reference drugs like hydroxychloroquine in binding energy ref [7] ref [8].",
+    "refNo": 8,
+    "title": "Advances in nanoparticle and microparticle delivery systems for increasing the dispersibility, stability, and bioactivity of phytochemicals",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Natural products such as catechin, kaempferol, and gallic acid have been shown to disrupt viral envelope integrity and inhibit viral DNA polymerase, providing multi-target mechanisms that reduce the likelihood of resistance development ref [14].",
+    "refNo": 14,
+    "title": "Natural compounds from djiboutian medicinal plants as inhibitors of COVID-19 by in silico investigations",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Curcuminoids modulate a wide array of molecular targets, including transcription factors (e.g., NF-κB, STAT3), kinases (e.g., AKT, MAPK), and inflammatory enzymes (e.g., COX-2, 5-LOX), underpinning their anti-inflammatory, antioxidant, and immunomodulatory effects ref [10].",
+    "refNo": 10,
+    "title": "Wormlike micellar aggregates of saponins from ilex paraguariensis a. St. Hil. (mate): A characterisation by cryo-tem, rheology, light scattering and small-angle neutron scattering",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Curcumin inhibits viral entry and replication by interfering with viral envelope proteins and host cell receptors; for instance, it blocks hemagglutination in influenza A virus and suppresses adsorption of transmissible gastroenteritis virus (TGEV) by over 3.5 log TCID₅₀/ml ref [18], ref [20].",
+    "refNo": 18,
+    "title": "Curcumin as an antiviral agent",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Curcumin inhibits viral entry and replication by interfering with viral envelope proteins and host cell receptors; for instance, it blocks hemagglutination in influenza A virus and suppresses adsorption of transmissible gastroenteritis virus (TGEV) by over 3.5 log TCID₅₀/ml ref [18], ref [20].",
+    "refNo": 20,
+    "title": "Antiviral and virucidal effects of curcumin on transmissible gastroenteritis virus in vitro",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Structure–activity relationship studies reveal that the α,β-unsaturated carbonyl system and phenolic hydroxyls are critical for antiviral potency, as analogues like tetrahydrocurcumin and petasphenol show reduced efficacy due to saturation or structural alteration ref [19].",
+    "refNo": 19,
+    "title": "Structure-activity relationship analysis of curcumin analogues on anti-influenza virus activity",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Furthermore, curcumin’s poor bioavailability has spurred development of novel formulations, including metal complexes with zinc, copper, or iron, which enhance solubility and amplify antioxidant and antiviral effects compared to free curcumin ref [8].",
+    "refNo": 8,
+    "title": "Advances in nanoparticle and microparticle delivery systems for increasing the dispersibility, stability, and bioactivity of phytochemicals",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Clinical evidence supports the therapeutic potential of curcuminoids across inflammatory and immune-mediated conditions, with trials demonstrating safety at doses up to 12 g/day and efficacy in diseases ranging from arthritis to ulcerative colitis ref [11].",
+    "refNo": 11,
+    "title": "Assessment of direct immunofluorescence assay in detection of antiviral effect of garlic extract on influenza virus",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "This metabolic targeting induces energy crisis-mediated apoptosis and cell cycle arrest, particularly at the G2/M phase, as demonstrated in endometrial, breast, and prostate cancer models ref [8].",
+    "refNo": 8,
+    "title": "Advances in nanoparticle and microparticle delivery systems for increasing the dispersibility, stability, and bioactivity of phytochemicals",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Annonacin, a prototypical acetogenin, has been shown to suppress extracellular signal-regulated kinase (ERK) signaling and activate caspase-3, leading to DNA fragmentation and apoptotic cell death ref [8].",
+    "refNo": 8,
+    "title": "Advances in nanoparticle and microparticle delivery systems for increasing the dispersibility, stability, and bioactivity of phytochemicals",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Recent studies further reveal that annonacin and related acetogenins inhibit both sodium/potassium ATPase (NKA) and sarcoplasmic reticulum Ca²⁺ ATPase (SERCA), disrupting ion homeostasis and triggering selective cancer cell death with minimal toxicity to non-transformed cells ref [9].",
+    "refNo": 9,
+    "title": "Recent trends in nano-based drug delivery systems for efficient delivery of phytochemicals in chemotherapy",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "The n-butanolic leaf extract of A. muricata, rich in polyphenols, demonstrates selective cytotoxicity against cancerous cell lines (MDA-MB-435S, HaCaT) with significantly higher IC₅₀ values in normal hepatic cells (WRL-68), suggesting a therapeutic window ref [10].",
+    "refNo": 10,
+    "title": "Wormlike micellar aggregates of saponins from ilex paraguariensis a. St. Hil. (mate): A characterisation by cryo-tem, rheology, light scattering and small-angle neutron scattering",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Comprehensive reviews highlight that over 200 phytochemicals in A. muricata, including acetogenins and polyphenols, synergistically target multiple oncogenic pathways, including PI3K/Akt, MAPK, and Wnt/β-catenin, thereby suppressing tumor growth, angiogenesis, and metastasis ref [24], ref [25], ref [26].",
+    "refNo": 24,
+    "title": "Annona muricata: A comprehensive review on its traditional medicinal uses, phytochemicals, pharmacological activities, mechanisms of action and toxicity",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Comprehensive reviews highlight that over 200 phytochemicals in A. muricata, including acetogenins and polyphenols, synergistically target multiple oncogenic pathways, including PI3K/Akt, MAPK, and Wnt/β-catenin, thereby suppressing tumor growth, angiogenesis, and metastasis ref [24], ref [25], ref [26].",
+    "refNo": 25,
+    "title": "Anticancer properties of graviola (annona muricata): A comprehensive mechanistic review",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Comprehensive reviews highlight that over 200 phytochemicals in A. muricata, including acetogenins and polyphenols, synergistically target multiple oncogenic pathways, including PI3K/Akt, MAPK, and Wnt/β-catenin, thereby suppressing tumor growth, angiogenesis, and metastasis ref [24], ref [25], ref [26].",
+    "refNo": 26,
+    "title": "Molecular mechanisms of annona muricata anti-proliferative/anti-cancer properties",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "The therapeutic potential of these compounds is further supported by in vivo xenograft studies showing tumor regression upon treatment with graviola leaf extract ref [9].",
+    "refNo": 9,
+    "title": "Recent trends in nano-based drug delivery systems for efficient delivery of phytochemicals in chemotherapy",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Cinnamon bark oil, rich in cinnamaldehyde (up to 85.5%), demonstrates potent activity against Gram-positive and Gram-negative bacteria, including Staphylococcus aureus and Escherichia coli, as well as the fungal pathogen Candida albicans, though efficacy varies with concentration and microbial strain ref [34].",
+    "refNo": 34,
+    "title": "Antimicrobial activity of carvacrol: Current progress and future prospectives",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "Combinatorial formulations, such as cinnamon and pogostemon oil complexes, enhance antifungal potency against Candida species, with MIC values as low as 0.032 mg/mL for C. albicans, and induce severe ultrastructural damage to fungal cell walls and organelles, as observed via SEM and TEM ref [7].",
+    "refNo": 7,
+    "title": "Mechanochemical preparation of kaempferol intermolecular complexes for enhancing the solubility and bioavailability",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Carvacrol, the dominant phenolic monoterpenoid in oregano and thyme EOs, exhibits exceptional antimicrobial breadth, targeting drug-resistant bacteria, biofilm-forming pathogens, and fungi through membrane disruption, increased permeability, and leakage of intracellular contents ref [9], ref [11].",
+    "refNo": 9,
+    "title": "Recent trends in nano-based drug delivery systems for efficient delivery of phytochemicals in chemotherapy",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Carvacrol, the dominant phenolic monoterpenoid in oregano and thyme EOs, exhibits exceptional antimicrobial breadth, targeting drug-resistant bacteria, biofilm-forming pathogens, and fungi through membrane disruption, increased permeability, and leakage of intracellular contents ref [9], ref [11].",
+    "refNo": 11,
+    "title": "Assessment of direct immunofluorescence assay in detection of antiviral effect of garlic extract on influenza virus",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "The antimicrobial efficacy of carvacrol-bearing oils is further supported by their ability to inhibit quorum sensing and reduce virulence factor expression ref [15].",
+    "refNo": 15,
+    "title": "Emergency antiviral drug discovery during a pandemic-a case study on the application of natural compounds to treat covid-19",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Beyond carvacrol, EOs from spices such as clove, thyme, and oregano contain synergistic mixtures of p-cymene, γ-terpinene, and linalool, which modulate bioactivity and reduce microbial resistance development ref [10].",
+    "refNo": 10,
+    "title": "Wormlike micellar aggregates of saponins from ilex paraguariensis a. St. Hil. (mate): A characterisation by cryo-tem, rheology, light scattering and small-angle neutron scattering",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Moreover, the synergistic interactions between minor and major components in complex EOs often yield greater efficacy than isolated compounds alone, underscoring the importance of whole-oil formulations in therapeutic applications ref [10], ref [15].",
+    "refNo": 10,
+    "title": "Wormlike micellar aggregates of saponins from ilex paraguariensis a. St. Hil. (mate): A characterisation by cryo-tem, rheology, light scattering and small-angle neutron scattering",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Moreover, the synergistic interactions between minor and major components in complex EOs often yield greater efficacy than isolated compounds alone, underscoring the importance of whole-oil formulations in therapeutic applications ref [10], ref [15].",
+    "refNo": 15,
+    "title": "Emergency antiviral drug discovery during a pandemic-a case study on the application of natural compounds to treat covid-19",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Allicin exhibits broad-spectrum antimicrobial activity against bacteria, fungi, and viruses, including drug-resistant strains such as MRSA, primarily through redox-mediated modification of thiol groups in microbial proteins and enzymes ref [36].",
+    "refNo": 36,
+    "title": "Allicin: Chemistry and biological properties",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "Beyond its direct antimicrobial effects, allicin and its derivatives—such as diallyl sulfide (DAS), diallyl disulfide (DADS), and diallyl trisulfide (DATS)—demonstrate potent anticancer properties by inducing DNA damage, G₂/M cell cycle arrest, and apoptosis in various cancer cell lines, including melanoma and basal cell carcinoma, via ROS generation and p53 pathway activation ref [38].",
+    "refNo": 38,
+    "title": "Allyl sulfides inhibit cell growth of skin cancer cells through induction of DNA damage mediated g2/m arrest and apoptosis",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "The anticancer mechanisms of garlic OSCs extend to endoplasmic reticulum (ER) stress induction, as demonstrated by homemade garlic extract, which triggers unfolded protein response pathways and selectively inhibits cancer cell proliferation while sparing normal cells ref [40].",
+    "refNo": 40,
+    "title": "Anti-cancer potential of homemade fresh garlic extract is related to increased endoplasmic reticulum stress",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "Ajoene, a stable condensation product of allicin, targets protein folding in the ER of cancer cells by S-thiolating key chaperones, leading to proteotoxic stress and apoptosis ref [37].",
+    "refNo": 37,
+    "title": "The garlic compound ajoene targets protein folding in the endoplasmic reticulum of cancer cells",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "Furthermore, ajoene and its oxidized derivatives suppress inflammation by inhibiting NF-κB activation, reducing iNOS and COX-2 expression, and blocking p38 and ERK phosphorylation in macrophages ref [11].",
+    "refNo": 11,
+    "title": "Assessment of direct immunofluorescence assay in detection of antiviral effect of garlic extract on influenza virus",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Garlic OSCs also modulate immune function, with allicin shown to alleviate immunosuppression induced by reticuloendotheliosis virus in chickens via ERK/MAPK pathway regulation and restoration of interferon and cytokine balance ref [43].",
+    "refNo": 43,
+    "title": "Anti-inflammatory activity of sulfur-containing compounds from garlic",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "Systematic reviews confirm the antiviral potential of garlic extracts against influenza, herpesviruses, and other pathogens, with clinical evidence supporting reduced severity and duration of viral infections ref [42].",
+    "refNo": 42,
+    "title": "Allicin alleviates reticuloendotheliosis virus-induced immunosuppression via erk/mitogen-activated protein kinase pathway in specific pathogen-free chickens",
+    "marker_text": "[42]"
+  },
+  {
+    "sentence": "Synergistic interactions with conventional chemotherapeutics, such as 5-fluorouracil, enhance antitumor efficacy in lung and colorectal carcinoma models, suggesting therapeutic utility in combination regimens ref [39].",
+    "refNo": 39,
+    "title": "The synergistic antitumor effect of 5-fluorouracil combined with allicin against lung and colorectal carcinoma cells",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "Ref [1] systematically documents these interactions, identifying over 20 botanicals with potential to alter warfarin metabolism or platelet function, underscoring the clinical imperative for patient counseling and pharmacovigilance.",
+    "refNo": 1,
+    "title": "Critical review: Vegetables and fruit in the prevention of chronic diseases",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Ref [2] reports the first documented case of garlicin Cardio-induced acute drug-induced liver injury, with normalization of liver enzymes upon discontinuation, suggesting a direct causal link.",
+    "refNo": 2,
+    "title": "Ramírez de Molina, A. Improving in vivo efficacy of bioactive molecules: an overview of potentially antitumor phytochemicals and currently available lipid-based delivery systems",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Ref [5] demonstrates that different garlic preparations vary markedly in mucosal tolerability: dehydrated raw garlic powder causes severe gastric erosion, while aged garlic extract shows minimal irritation.",
+    "refNo": 5,
+    "title": "The effect of cooking on the phytochemical content of vegetables",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Black garlic, a fermented supplement derived from Allium sativum, has been associated with rare but severe pulmonary reactions, including interstitial pneumonia, as documented in a case report of a 77-year-old woman who developed bilateral infiltrates and elevated biomarkers (KL-6, SP-D) following its ingestion, with resolution upon discontinuation ref [47].",
+    "refNo": 47,
+    "title": "A case of black garlic-induced pneumonia as an adverse reaction",
+    "marker_text": "[47]"
+  },
+  {
+    "sentence": "Similarly, dry cinnamon ingestion—popularized by the 'cinnamon challenge' among adolescents—can cause acute chemical pneumonitis due to particulate aspiration, leading to bronchospasm, granulomatous inflammation, and respiratory distress, particularly in pediatric populations ref [2].",
+    "refNo": 2,
+    "title": "Ramírez de Molina, A. Improving in vivo efficacy of bioactive molecules: an overview of potentially antitumor phytochemicals and currently available lipid-based delivery systems",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Curcumin, the principal polyphenol in turmeric, has been shown to enhance insulin sensitivity and reduce hyperglycemia by modulating GLUT4 expression, activating AMPK, and suppressing inflammatory pathways linked to metabolic syndrome, thereby indirectly influencing immune cell function through metabolic-immune crosstalk ref [48].",
+    "refNo": 48,
+    "title": "Anti-hyperglycemic and insulin sensitizer effects of turmeric and its principle constituent curcumin",
+    "marker_text": "[48]"
+  },
+  {
+    "sentence": "Conversely, cinnamaldehyde, a major component of cinnamon, demonstrates immune-suppressive properties by inhibiting the proliferation of T and B lymphocytes and inducing apoptosis in immune cells, which may be therapeutically useful in autoimmune conditions but could compromise host defense against pathogens ref [49].",
+    "refNo": 49,
+    "title": "Immune suppressive effect of cinnamaldehyde due to inhibition of proliferation and induction of apoptosis in immune cells: Implications in cancer",
+    "marker_text": "[49]"
+  },
+  {
+    "sentence": "Many phytochemicals, such as curcumin, quercetin, and resveratrol, violate Lipinski’s Rule of Five, exhibiting high molecular weight, excessive lipophilicity, or an overabundance of hydrogen bond donors/acceptors, which correlate with suboptimal absorption and distribution ref [51].",
+    "refNo": 51,
+    "title": "Overview on the Rule of Five",
+    "marker_text": "[51]"
+  },
+  {
+    "sentence": "Recent analyses using measured physicochemical data reveal that log D₇.₄, rather than log P, is the most predictive parameter for permeability and solubility, highlighting the importance of ionization state at physiological pH in determining bioavailability ref [50].",
+    "refNo": 50,
+    "title": "Facts, Patterns, and Principles in Drug Discovery: Appraising the Rule of 5 with Measured Physicochemical Data",
+    "marker_text": "[50]"
+  },
+  {
+    "sentence": "Furthermore, studies on biomass-extracted nutraceuticals demonstrate that over 60% of isolated compounds exhibit poor drug-likeness scores under the Rule of Five, with high polar surface area and rotatable bond counts further impeding passive diffusion ref [52].",
+    "refNo": 52,
+    "title": "Pharmacokinetic properties of biomass-extracted substances isolated by green solvents",
+    "marker_text": "[52]"
+  },
+  {
+    "sentence": "Addressing these limitations requires a shift from rigid adherence to rule-based heuristics toward data-driven principles that integrate measured solubility, permeability, and metabolic stability profiles to guide formulation and dosing strategies ref [50].",
+    "refNo": 50,
+    "title": "Facts, Patterns, and Principles in Drug Discovery: Appraising the Rule of 5 with Measured Physicochemical Data",
+    "marker_text": "[50]"
+  },
+  {
+    "sentence": "Curcumin’s β-diketone moiety and allylic sulfides in garlic derivatives enable chelation of metal ions and modulation of redox-sensitive signaling pathways, contributing to their anti-inflammatory and anticancer effects ref [7], ref [26], ref [30], ref [47].",
+    "refNo": 7,
+    "title": "Mechanochemical preparation of kaempferol intermolecular complexes for enhancing the solubility and bioavailability",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Curcumin’s β-diketone moiety and allylic sulfides in garlic derivatives enable chelation of metal ions and modulation of redox-sensitive signaling pathways, contributing to their anti-inflammatory and anticancer effects ref [7], ref [26], ref [30], ref [47].",
+    "refNo": 26,
+    "title": "Molecular mechanisms of annona muricata anti-proliferative/anti-cancer properties",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "Curcumin’s β-diketone moiety and allylic sulfides in garlic derivatives enable chelation of metal ions and modulation of redox-sensitive signaling pathways, contributing to their anti-inflammatory and anticancer effects ref [7], ref [26], ref [30], ref [47].",
+    "refNo": 30,
+    "title": "Phytochemical screening, chemical composition and antimicrobial activity of cinnamon verum bark",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "Curcumin’s β-diketone moiety and allylic sulfides in garlic derivatives enable chelation of metal ions and modulation of redox-sensitive signaling pathways, contributing to their anti-inflammatory and anticancer effects ref [7], ref [26], ref [30], ref [47].",
+    "refNo": 47,
+    "title": "A case of black garlic-induced pneumonia as an adverse reaction",
+    "marker_text": "[47]"
+  },
+  {
+    "sentence": "Carvacrol’s phenolic structure underpins its membrane-disruptive antimicrobial activity, while its ability to suppress NF-κB activation links it to broader immunomodulatory functions ref [37], ref [20].",
+    "refNo": 37,
+    "title": "The garlic compound ajoene targets protein folding in the endoplasmic reticulum of cancer cells",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "Carvacrol’s phenolic structure underpins its membrane-disruptive antimicrobial activity, while its ability to suppress NF-κB activation links it to broader immunomodulatory functions ref [37], ref [20].",
+    "refNo": 20,
+    "title": "Antiviral and virucidal effects of curcumin on transmissible gastroenteritis virus in vitro",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "The annonaceous acetogenins, exemplified by annonacin, feature long aliphatic chains with tetrahydrofuran rings that selectively inhibit mitochondrial complex I, inducing cancer cell apoptosis ref [21], ref [35], ref [34].",
+    "refNo": 21,
+    "title": "Biological properties of metal complexes of curcumin",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "The annonaceous acetogenins, exemplified by annonacin, feature long aliphatic chains with tetrahydrofuran rings that selectively inhibit mitochondrial complex I, inducing cancer cell apoptosis ref [21], ref [35], ref [34].",
+    "refNo": 35,
+    "title": "Carvacrol and human health: A comprehensive review",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "The annonaceous acetogenins, exemplified by annonacin, feature long aliphatic chains with tetrahydrofuran rings that selectively inhibit mitochondrial complex I, inducing cancer cell apoptosis ref [21], ref [35], ref [34].",
+    "refNo": 34,
+    "title": "Antimicrobial activity of carvacrol: Current progress and future prospectives",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "Cinnamaldehyde’s α,β-unsaturated carbonyl group facilitates Michael addition reactions with cellular thiols, explaining its dual role in antimicrobial action and immune cell apoptosis ref [30], ref [39].",
+    "refNo": 30,
+    "title": "Phytochemical screening, chemical composition and antimicrobial activity of cinnamon verum bark",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "Cinnamaldehyde’s α,β-unsaturated carbonyl group facilitates Michael addition reactions with cellular thiols, explaining its dual role in antimicrobial action and immune cell apoptosis ref [30], ref [39].",
+    "refNo": 39,
+    "title": "The synergistic antitumor effect of 5-fluorouracil combined with allicin against lung and colorectal carcinoma cells",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "The spatial arrangement of functional groups in these phytochemicals also governs their interaction with biological macromolecules, as demonstrated by structure-activity relationship studies on curcumin analogues and garlic organosulfur compounds ref [44], ref [43].",
+    "refNo": 44,
+    "title": "Potential interactions between alternative therapies and warfarin",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "The spatial arrangement of functional groups in these phytochemicals also governs their interaction with biological macromolecules, as demonstrated by structure-activity relationship studies on curcumin analogues and garlic organosulfur compounds ref [44], ref [43].",
+    "refNo": 43,
+    "title": "Anti-inflammatory activity of sulfur-containing compounds from garlic",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "Recent evidence suggests that minor modifications, such as methoxylation or epoxidation, can significantly alter pharmacokinetic profiles without compromising efficacy ref [19], ref [33].",
+    "refNo": 19,
+    "title": "Structure-activity relationship analysis of curcumin analogues on anti-influenza virus activity",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Recent evidence suggests that minor modifications, such as methoxylation or epoxidation, can significantly alter pharmacokinetic profiles without compromising efficacy ref [19], ref [33].",
+    "refNo": 33,
+    "title": "Essential oils of oregano: Biological activity beyond their antimicrobial properties",
+    "marker_text": "[33]"
+  }
+]

@@ -1,0 +1,284 @@
+[
+  {
+    "sentence": "A foundational contribution to the field is the comprehensive taxonomy proposed by Ho et al., who synthesized over a decade of SCRM literature to classify risks into internal and external dimensions, including operational, financial, environmental, and geopolitical factors ref [1].",
+    "refNo": 1,
+    "title": "Supply chain risk management: A literature review",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Complementing this, Shahbaz et al. developed a novel, empirically validated classification of supply chain risks specific to manufacturing ecosystems, identifying seven distinct constructs: supply-side, process-side, demand-side, logistics-side, collaboration-side, environmental, and regulatory risks ref [2].",
+    "refNo": 2,
+    "title": "A Novel Classification of Supply Chain Risks",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Empirical evidence from credit default swap (CDS) markets demonstrates that credit shocks propagate significantly across first-tier suppliers and customers, with effects persisting into second and third tiers—particularly for adverse shocks, as shown by Agca et al. (ref [3]).",
+    "refNo": 3,
+    "title": "Credit Shock Propagation Along Supply Chains: Evidence from the CDS Market",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Garvey et al. (ref [3]) develop a Bayesian network model that quantifies risk propagation by treating conditional probabilities as random variables with beta priors, enabling dynamic updating as new evidence emerges.",
+    "refNo": 3,
+    "title": "Credit Shock Propagation Along Supply Chains: Evidence from the CDS Market",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "For instance, ref [6] developed hybrid ML models combining nearest-neighbor clustering and deep learning to forecast COVID-19 growth rates and excess demand, integrating auxiliary data such as Google Trends and simulated governmental lockdown policies to inform operational decisions across multiple countries.",
+    "refNo": 6,
+    "title": "Forecasting and planning during a pandemic: COVID-19 growth rates, supply chain disruptions, and governmental decisions",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "In specialized domains like healthcare, ML-driven decision support systems have been tailored to manage acute demand surges. ref [5].",
+    "refNo": 5,
+    "title": "A decision support system for demand management in healthcare supply chains considering the epidemic outbreaks: A case study of coronavirus disease 2019 (COVID-19)",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "A foundational comparison between traditional machine learning and deep learning approaches highlights their respective strengths in handling structured versus unstructured supply chain data, with deep learning excelling in high-dimensional, non-linear contexts ref [7].",
+    "refNo": 7,
+    "title": "Machine learning and deep learning",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Ref [1] demonstrates how term frequency, correlation, and bi-gram analysis of academic literature, combined with sentiment analysis of Google News, can uncover region-specific supply chain risks and construct a hierarchical risk taxonomy.",
+    "refNo": 1,
+    "title": "Supply chain risk management: A literature review",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Similarly, ref [9] leverages deep neural networks to automatically extract buyer-supplier relationships from news text, reconstructing dynamic supply chain maps that enhance structural visibility and enable proactive risk assessment.",
+    "refNo": 9,
+    "title": "Extracting supply chain maps from news articles using deep neural networks",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Beyond corporate networks, text mining has proven effective in monitoring product-level risks, as shown in ref [11], where supervised machine learning on over four million online food reviews achieved 77–90% accuracy in identifying hazardous products—far outperforming sentiment-based methods.",
+    "refNo": 11,
+    "title": "Enabling blockchain based scm systems with a real time event monitoring function for preemptive risk management",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Furthermore, ref [17] integrates text mining with blockchain-based systems to enable real-time event monitoring, allowing firms to trigger preemptive responses to operational disturbances such as natural disasters or epidemics.",
+    "refNo": 17,
+    "title": "XAI Evaluation: Evaluating Black-Box Model Explanations for Prediction",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "For instance, Priore et al. ref [12].",
+    "refNo": 12,
+    "title": "Applying machine learning to the dynamic selection of replenishment policies in fast-changing supply chain environments",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Similarly, Yu et al. ref [14].",
+    "refNo": 14,
+    "title": "From predictive to prescriptive analytics: A datadriven multi-item newsvendor model",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Punia et al. ref [5].",
+    "refNo": 5,
+    "title": "A decision support system for demand management in healthcare supply chains considering the epidemic outbreaks: A case study of coronavirus disease 2019 (COVID-19)",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "In procurement contexts, Abdollahnejadbarough et al. ref [8].",
+    "refNo": 8,
+    "title": "A global supply chain risk management framework: An application of text-mining to identify region-specific supply chain risks",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Ref [2] presents a foundational analytical framework that quantifies how disruptions propagate through supply chain structures using conditional probability tables and beta distributions to update beliefs dynamically, enabling proactive risk mitigation.",
+    "refNo": 2,
+    "title": "A Novel Classification of Supply Chain Risks",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Similarly, ref [17] demonstrates the applicability of BNs in food safety contexts, integrating climatic, economic, and agronomic variables to predict hazard occurrences with 95% accuracy, highlighting their utility in multi-domain risk modeling.",
+    "refNo": 17,
+    "title": "XAI Evaluation: Evaluating Black-Box Model Explanations for Prediction",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Ref [5] introduces the MDMC evaluation framework to systematically assess the quality of XAI explanations, ensuring that model outputs are not only accurate but also interpretable and trustworthy for supply chain managers.",
+    "refNo": 5,
+    "title": "A decision support system for demand management in healthcare supply chains considering the epidemic outbreaks: A case study of coronavirus disease 2019 (COVID-19)",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Ref [7] further advances this by applying Shapley values to decompose the contributions of individual events in anomaly detection systems, offering granular insights into root causes of disruptions.",
+    "refNo": 7,
+    "title": "Machine learning and deep learning",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "For instance, Brintrup et al. ref [21].",
+    "refNo": 21,
+    "title": "Artificial intelligence-driven innovation for enhancing supply chain resilience and performance under the effect of supply chain dynamism: An empirical investigation",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Similarly, Fu and Chien ref [22] introduced the UNISON framework, which integrates temporal aggregation and machine learning to forecast intermittent demand in electronics distribution, significantly reducing stockouts and overstocking risks.",
+    "refNo": 22,
+    "title": "Supply Chain Monitoring Using Principal Component Analysis",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Beyond demand, Wang et al. ref [9].",
+    "refNo": 9,
+    "title": "Extracting supply chain maps from news articles using deep neural networks",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "In agricultural supply chains, Kouadio et al. ref [13].",
+    "refNo": 13,
+    "title": "Prediction-Based Multi-Objective Optimization for Oil Purchasing and Distribution with the NSGA-II Algorithm",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Furthermore, Sun et al. ref [12].",
+    "refNo": 12,
+    "title": "Applying machine learning to the dynamic selection of replenishment policies in fast-changing supply chain environments",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Belhadi et al. ref [7].",
+    "refNo": 7,
+    "title": "Machine learning and deep learning",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Ref [1] demonstrates that SVM-based models, incorporating supply chain partner credit status and relational dynamics, outperform BP neural networks in generalization and robustness.",
+    "refNo": 1,
+    "title": "Supply chain risk management: A literature review",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Similarly, ref [10] integrates SVM with mathematical fuzzy sets to quantify enterprise chain risks, enhancing accuracy in handling uncertain and nonlinear risk factors.",
+    "refNo": 10,
+    "title": "Text Mining Approaches for Postmarket Food Safety Surveillance Using Online Media",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Recent advances have shifted toward ensemble methods, with ref [30] and ref [31] showing that integrated ensemble models like RS-RAB and RS-boosting significantly improve SME credit risk prediction accuracy compared to individual or basic ensemble learners.",
+    "refNo": 30,
+    "title": "Forecasting SMEs' credit risk in supply chain finance with an enhanced hybrid ensemble machine learning approach",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "Recent advances have shifted toward ensemble methods, with ref [30] and ref [31] showing that integrated ensemble models like RS-RAB and RS-boosting significantly improve SME credit risk prediction accuracy compared to individual or basic ensemble learners.",
+    "refNo": 31,
+    "title": "Quantitative analysis of enterprise chain risk based on SVM algorithm and mathematical fuzzy set",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "Ref [8] further refines this approach with RS-MultiBoosting, achieving superior performance on small-sample datasets common in emerging markets.",
+    "refNo": 8,
+    "title": "A global supply chain risk management framework: An application of text-mining to identify region-specific supply chain risks",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Complementing these, ref [28] proposes an improved neural network architecture tailored for enterprise-level risk assessment, while ref [29] combines machine learning with fuzzy decision models to capture qualitative risk dimensions in financial contexts.",
+    "refNo": 28,
+    "title": "Predicting China's SME Credit Risk in Supply Chain Finance Based on",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Complementing these, ref [28] proposes an improved neural network architecture tailored for enterprise-level risk assessment, while ref [29] combines machine learning with fuzzy decision models to capture qualitative risk dimensions in financial contexts.",
+    "refNo": 29,
+    "title": "Comparison of individual, ensemble and integrated ensemble machine learning methods to predict China's SME credit risk in supply chain finance",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Ref [12] introduces a novel fusion of blockchain and fuzzy neural networks to ensure data integrity and improve risk assessment transparency in supply chain finance systems.",
+    "refNo": 12,
+    "title": "Applying machine learning to the dynamic selection of replenishment policies in fast-changing supply chain environments",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Future research must prioritize explainable AI (XAI) to enhance stakeholder trust, as emphasized by ref [12] and ref [13], and integrate multi-source data—including satellite imagery, news sentiment, and blockchain logs—to improve robustness.",
+    "refNo": 12,
+    "title": "Applying machine learning to the dynamic selection of replenishment policies in fast-changing supply chain environments",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Future research must prioritize explainable AI (XAI) to enhance stakeholder trust, as emphasized by ref [12] and ref [13], and integrate multi-source data—including satellite imagery, news sentiment, and blockchain logs—to improve robustness.",
+    "refNo": 13,
+    "title": "Prediction-Based Multi-Objective Optimization for Oil Purchasing and Distribution with the NSGA-II Algorithm",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "The role of hybrid architectures combining fuzzy logic, neural networks, and ensemble methods, as demonstrated in ref [11], ref [15], and ref [23], warrants further exploration in heterogeneous supply networks.",
+    "refNo": 11,
+    "title": "Enabling blockchain based scm systems with a real time event monitoring function for preemptive risk management",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "The role of hybrid architectures combining fuzzy logic, neural networks, and ensemble methods, as demonstrated in ref [11], ref [15], and ref [23], warrants further exploration in heterogeneous supply networks.",
+    "refNo": 15,
+    "title": "Verizon Uses Advanced Analytics to Rationalize Its Tail Spend Suppliers",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "The role of hybrid architectures combining fuzzy logic, neural networks, and ensemble methods, as demonstrated in ref [11], ref [15], and ref [23], warrants further exploration in heterogeneous supply networks.",
+    "refNo": 23,
+    "title": "Sales forecasting using extreme learning machine with applications in fashion retailing",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Studies employing bibliometric tools such as VOSviewer and CitNetExplorer have mapped thematic clusters including anomaly detection, supplier disruption forecasting, and financial risk modeling, highlighting the dominance of supervised learning techniques in empirical applications [1].",
+    "refNo": 1,
+    "title": "Supply chain risk management: A literature review",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "The convergence of text mining and network analysis has enabled the identification of emerging risk dimensions, particularly in global and multi-tiered supply chains, as demonstrated in recent large-scale corpus analyses [2].",
+    "refNo": 2,
+    "title": "A Novel Classification of Supply Chain Risks",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Co-authorship networks indicate growing interdisciplinary collaboration between operations management, computer science, and finance domains, with institutions in North America and East Asia leading publication output [3].",
+    "refNo": 3,
+    "title": "Credit Shock Propagation Along Supply Chains: Evidence from the CDS Market",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Citation impact analysis shows that ML-driven SCRM studies published in high-impact operations journals (e.g., International Journal of Production Research, European Journal of Operational Research) receive significantly higher citation rates than those in domain-specific journals [4].",
+    "refNo": 4,
+    "title": "An analytical framework for supply network risk propagation: A Bayesian network approach",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Furthermore, keyword co-occurrence trends reveal a shift from traditional risk mitigation toward real-time, data-driven decision support systems, with increasing emphasis on explainability and integration with IoT and blockchain technologies [5].",
+    "refNo": 5,
+    "title": "A decision support system for demand management in healthcare supply chains considering the epidemic outbreaks: A case study of coronavirus disease 2019 (COVID-19)",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Despite this growth, bibliometric gaps persist: few studies systematically evaluate the methodological rigor of ML models in SCRM, and there is limited longitudinal analysis of risk pattern evolution across economic cycles [6].",
+    "refNo": 6,
+    "title": "Forecasting and planning during a pandemic: COVID-19 growth rates, supply chain disruptions, and governmental decisions",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Additionally, regional bias is evident, with underrepresentation of supply chain risks in low- and middle-income economies in bibliometric datasets [7].",
+    "refNo": 7,
+    "title": "Machine learning and deep learning",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "The absence of standardized taxonomies for classifying ML techniques in SCRM literature complicates comparative synthesis, suggesting a need for ontological frameworks to improve meta-analytic consistency [8].",
+    "refNo": 8,
+    "title": "A global supply chain risk management framework: An application of text-mining to identify region-specific supply chain risks",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Future bibliometric efforts should prioritize mapping citation cascades between technical ML papers and managerial SCRM frameworks to bridge the theory-practice divide [9].",
+    "refNo": 9,
+    "title": "Extracting supply chain maps from news articles using deep neural networks",
+    "marker_text": "[9]"
+  }
+]

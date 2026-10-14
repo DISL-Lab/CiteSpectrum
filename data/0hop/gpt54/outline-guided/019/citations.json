@@ -1,0 +1,1382 @@
+[
+  {
+    "sentence": "Functional near-infrared spectroscopy (fNIRS) is particularly valuable for post-stroke rehabilitation assessment because it measures cortical oxy-/deoxyhemoglobin changes with portable, silent, and motion-tolerant hardware, enabling repeated bedside monitoring during ecologically valid tasks such as reaching, grasping, gait, and upper-limb training in seated or standing positions ref [1], ref [2], ref [5], ref [6].",
+    "refNo": 1,
+    "title": "Functional near-infrared spectroscopy (fNIRS) for assessing cerebral cortex function during human behavior in natural/social situations: A concise review",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Functional near-infrared spectroscopy (fNIRS) is particularly valuable for post-stroke rehabilitation assessment because it measures cortical oxy-/deoxyhemoglobin changes with portable, silent, and motion-tolerant hardware, enabling repeated bedside monitoring during ecologically valid tasks such as reaching, grasping, gait, and upper-limb training in seated or standing positions ref [1], ref [2], ref [5], ref [6].",
+    "refNo": 2,
+    "title": "Review of functional near-infrared spectroscopy in neurorehabilitation",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Functional near-infrared spectroscopy (fNIRS) is particularly valuable for post-stroke rehabilitation assessment because it measures cortical oxy-/deoxyhemoglobin changes with portable, silent, and motion-tolerant hardware, enabling repeated bedside monitoring during ecologically valid tasks such as reaching, grasping, gait, and upper-limb training in seated or standing positions ref [1], ref [2], ref [5], ref [6].",
+    "refNo": 5,
+    "title": "A review on functional near-infrared spectroscopy and application in stroke rehabilitation",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Functional near-infrared spectroscopy (fNIRS) is particularly valuable for post-stroke rehabilitation assessment because it measures cortical oxy-/deoxyhemoglobin changes with portable, silent, and motion-tolerant hardware, enabling repeated bedside monitoring during ecologically valid tasks such as reaching, grasping, gait, and upper-limb training in seated or standing positions ref [1], ref [2], ref [5], ref [6].",
+    "refNo": 6,
+    "title": "Imaging brain function with functional nearinfrared spectroscopy in unconstrained environments",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Compared with fMRI or PET, its major advantage is not anatomical precision but the capacity to capture rehabilitation-related hemodynamics during naturalistic behavior and over longitudinal recovery windows ref [1], ref [2], ref [6].",
+    "refNo": 1,
+    "title": "Functional near-infrared spectroscopy (fNIRS) for assessing cerebral cortex function during human behavior in natural/social situations: A concise review",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Compared with fMRI or PET, its major advantage is not anatomical precision but the capacity to capture rehabilitation-related hemodynamics during naturalistic behavior and over longitudinal recovery windows ref [1], ref [2], ref [6].",
+    "refNo": 2,
+    "title": "Review of functional near-infrared spectroscopy in neurorehabilitation",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Compared with fMRI or PET, its major advantage is not anatomical precision but the capacity to capture rehabilitation-related hemodynamics during naturalistic behavior and over longitudinal recovery windows ref [1], ref [2], ref [6].",
+    "refNo": 6,
+    "title": "Imaging brain function with functional nearinfrared spectroscopy in unconstrained environments",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Longitudinal monitoring early after stroke shows that paretic upper-extremity movements are initially associated with more bilateral sensorimotor recruitment, followed by a progressive shift toward ipsilesional lateralization as motor function improves ref [4].",
+    "refNo": 4,
+    "title": "Time course of sensorimotor cortex reorganization during upper extremity task accompanying motor recovery early after stroke: An fNIRS study",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "During active rehabilitation, limb-linkage training elicits asymmetric motor-cortical activation with altered effective connectivity, including enhanced influences toward contralesional prefrontal regions, suggesting compensatory recruitment of cognitive-control resources during demanding motor practice ref [3].",
+    "refNo": 3,
+    "title": "Limb linkage rehabilitation training-related changes in cortical activation and effective connectivity after stroke: A functional near-infrared spectroscopy study",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Broader neurorehabilitation reviews similarly indicate that fNIRS can track cortical changes across upper-limb therapy, gait, balance, and motor learning, and may provide surrogate markers of recovery or treatment response ref [2], ref [5].",
+    "refNo": 2,
+    "title": "Review of functional near-infrared spectroscopy in neurorehabilitation",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Broader neurorehabilitation reviews similarly indicate that fNIRS can track cortical changes across upper-limb therapy, gait, balance, and motor learning, and may provide surrogate markers of recovery or treatment response ref [2], ref [5].",
+    "refNo": 5,
+    "title": "A review on functional near-infrared spectroscopy and application in stroke rehabilitation",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "These strengths should be interpreted alongside important limitations. fNIRS is largely restricted to superficial cortex, is vulnerable to scalp hemodynamics, probe-placement variability, and motion artifacts, and often benefits from short-separation regression, physiological monitoring, and multimodal integration with EEG or MRI for better spatial and mechanistic interpretation ref [1], ref [5], ref [6].",
+    "refNo": 1,
+    "title": "Functional near-infrared spectroscopy (fNIRS) for assessing cerebral cortex function during human behavior in natural/social situations: A concise review",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "These strengths should be interpreted alongside important limitations. fNIRS is largely restricted to superficial cortex, is vulnerable to scalp hemodynamics, probe-placement variability, and motion artifacts, and often benefits from short-separation regression, physiological monitoring, and multimodal integration with EEG or MRI for better spatial and mechanistic interpretation ref [1], ref [5], ref [6].",
+    "refNo": 5,
+    "title": "A review on functional near-infrared spectroscopy and application in stroke rehabilitation",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "These strengths should be interpreted alongside important limitations. fNIRS is largely restricted to superficial cortex, is vulnerable to scalp hemodynamics, probe-placement variability, and motion artifacts, and often benefits from short-separation regression, physiological monitoring, and multimodal integration with EEG or MRI for better spatial and mechanistic interpretation ref [1], ref [5], ref [6].",
+    "refNo": 6,
+    "title": "Imaging brain function with functional nearinfrared spectroscopy in unconstrained environments",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Even so, its ability to follow patients repeatedly during unconstrained rehabilitation makes fNIRS one of the most practical neuroimaging tools for monitoring post-stroke motor recovery in real-world therapeutic contexts ref [2], ref [6].",
+    "refNo": 2,
+    "title": "Review of functional near-infrared spectroscopy in neurorehabilitation",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Even so, its ability to follow patients repeatedly during unconstrained rehabilitation makes fNIRS one of the most practical neuroimaging tools for monitoring post-stroke motor recovery in real-world therapeutic contexts ref [2], ref [6].",
+    "refNo": 6,
+    "title": "Imaging brain function with functional nearinfrared spectroscopy in unconstrained environments",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Reviews of the field emphasize its value for tracking recovery-related changes in oscillations, connectivity, and source-level network reorganization, particularly within sensorimotor and perilesional cortex ref [7].",
+    "refNo": 7,
+    "title": "Magnetoencephalography in stroke recovery and rehabilitation",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "In rehabilitation studies, movement-related beta and gamma rhythms have emerged as the most consistent MEG markers of altered cortical excitability and motor-system reorganization after stroke ref [11], ref [12].",
+    "refNo": 11,
+    "title": "Alterations in spontaneous brain oscillations during stroke recovery",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "In rehabilitation studies, movement-related beta and gamma rhythms have emerged as the most consistent MEG markers of altered cortical excitability and motor-system reorganization after stroke ref [11], ref [12].",
+    "refNo": 12,
+    "title": "MEG-based detection and localization of perilesional dysfunction in chronic stroke",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "During affected-hand movement, stroke patients show reduced movement-related beta desynchronization in ipsilesional M1 compared with controls, and smaller beta suppression is linked to greater motor impairment, suggesting deficient task-related release from the resting sensorimotor state ref [12].",
+    "refNo": 12,
+    "title": "MEG-based detection and localization of perilesional dysfunction in chronic stroke",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Longitudinal and intervention work further indicates that these oscillatory signatures are plastic: after intensive task-oriented therapy, post-movement beta synchronization decreases in bilateral precentral cortex and supplementary motor areas, while movement-onset gamma synchronization is reduced in affected M1, with both measures correlating with behavioral improvement ref [11].",
+    "refNo": 11,
+    "title": "Alterations in spontaneous brain oscillations during stroke recovery",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "In subacute stroke, observing and simultaneously executing normal hand actions produces stronger M1 beta suppression than observation alone or execution while viewing the affected hand, supporting the use of externally modeled actions to engage residual motor networks ref [9].",
+    "refNo": 9,
+    "title": "Oscillatory MEG motor activity reflects therapy-related plasticity in stroke patients",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Resting-state MEG adds complementary information: spontaneous oscillations may shift during recovery, with enhanced temporo-parietal ~10 Hz activity in the affected hemisphere during follow-up, whereas abnormal low-frequency magnetic activity near 1 Hz localizes to perilesional cortex, is associated with larger lesions, and may persist in patients with poorer outcome ref [7].",
+    "refNo": 7,
+    "title": "Magnetoencephalography in stroke recovery and rehabilitation",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Source-space analyses also demonstrate increased delta/theta and reduced beta power, together with lower multiscale entropy, in structurally spared perilesional tissue, indicating that MEG can delineate \"functionally lesioned\" cortex as a potential target for neuromodulation and individualized rehabilitation planning ref [8].",
+    "refNo": 8,
+    "title": "Modulation of motor cortical activities by action observation and execution in patients with stroke: An MEG study",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Accordingly, recent studies have used wavelet or Fourier transforms to derive band-limited representations and then trained machine-learning classifiers to separate stroke from control subjects or stratify post-stroke severity groups ref [16], ref [17], ref [7], ref [9].",
+    "refNo": 16,
+    "title": "Detection of EEG signal post-stroke using FFT and convolutional neural network",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Accordingly, recent studies have used wavelet or Fourier transforms to derive band-limited representations and then trained machine-learning classifiers to separate stroke from control subjects or stratify post-stroke severity groups ref [16], ref [17], ref [7], ref [9].",
+    "refNo": 17,
+    "title": "Multivariate EEG signal using PCA and CNN in post-stroke classification",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Accordingly, recent studies have used wavelet or Fourier transforms to derive band-limited representations and then trained machine-learning classifiers to separate stroke from control subjects or stratify post-stroke severity groups ref [16], ref [17], ref [7], ref [9].",
+    "refNo": 7,
+    "title": "Magnetoencephalography in stroke recovery and rehabilitation",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Accordingly, recent studies have used wavelet or Fourier transforms to derive band-limited representations and then trained machine-learning classifiers to separate stroke from control subjects or stratify post-stroke severity groups ref [16], ref [17], ref [7], ref [9].",
+    "refNo": 9,
+    "title": "Oscillatory MEG motor activity reflects therapy-related plasticity in stroke patients",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "A k-NN model using relative power ratios from delta, theta, alpha, and beta bands differentiated acute ischemic stroke severity groups with 85% test accuracy, illustrating the continued utility of interpretable frequency-domain features ref [17].",
+    "refNo": 17,
+    "title": "Multivariate EEG signal using PCA and CNN in post-stroke classification",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Related FFT-based approaches coupled with convolutional neural networks achieved about 90% test accuracy for post-stroke EEG detection, suggesting that deep models can exploit frequency representations without extensive manual feature engineering ref [7].",
+    "refNo": 7,
+    "title": "Magnetoencephalography in stroke recovery and rehabilitation",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Wavelet-based preprocessing may be especially advantageous because EEG is strongly nonstationary; in one study, wavelet features combined with CNN improved post-stroke identification performance over more conventional spectral handling ref [16].",
+    "refNo": 16,
+    "title": "Detection of EEG signal post-stroke using FFT and convolutional neural network",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "A PCA-CNN framework using wavelet-derived delta, theta, alpha, and mu components reported 93.33% accuracy with 45 principal components, outperforming the same architecture without PCA and highlighting the importance of compact multivariate representations ref [9].",
+    "refNo": 9,
+    "title": "Oscillatory MEG motor activity reflects therapy-related plasticity in stroke patients",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Deep belief networks trained on slow cortical potentials have also been explored for stroke-related brain activity classification, indicating that hierarchical models can capture latent structure beyond shallow classifiers ref [6].",
+    "refNo": 6,
+    "title": "Imaging brain function with functional nearinfrared spectroscopy in unconstrained environments",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Collectively, these studies suggest that future progress will depend less on any single classifier than on robust preprocessing, artifact control, dimensionality reduction, and validation on larger, clinically heterogeneous datasets ref [16], ref [6], ref [9].",
+    "refNo": 16,
+    "title": "Detection of EEG signal post-stroke using FFT and convolutional neural network",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Collectively, these studies suggest that future progress will depend less on any single classifier than on robust preprocessing, artifact control, dimensionality reduction, and validation on larger, clinically heterogeneous datasets ref [16], ref [6], ref [9].",
+    "refNo": 6,
+    "title": "Imaging brain function with functional nearinfrared spectroscopy in unconstrained environments",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Collectively, these studies suggest that future progress will depend less on any single classifier than on robust preprocessing, artifact control, dimensionality reduction, and validation on larger, clinically heterogeneous datasets ref [16], ref [6], ref [9].",
+    "refNo": 9,
+    "title": "Oscillatory MEG motor activity reflects therapy-related plasticity in stroke patients",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Across ischemic conditions, characteristic slowing with increased delta/theta activity, attenuation of alpha/beta rhythms, and interhemispheric asymmetry track reductions in cerebral perfusion and metabolism, supporting the physiological basis of quantitative EEG (qEEG) markers for ischemia detection ref [18], ref [19], ref [20].",
+    "refNo": 18,
+    "title": "Utility of EEG measures of brain function in patients with acute stroke",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Across ischemic conditions, characteristic slowing with increased delta/theta activity, attenuation of alpha/beta rhythms, and interhemispheric asymmetry track reductions in cerebral perfusion and metabolism, supporting the physiological basis of quantitative EEG (qEEG) markers for ischemia detection ref [18], ref [19], ref [20].",
+    "refNo": 19,
+    "title": "Quantitative EEG for the detection of brain ischemia",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Across ischemic conditions, characteristic slowing with increased delta/theta activity, attenuation of alpha/beta rhythms, and interhemispheric asymmetry track reductions in cerebral perfusion and metabolism, supporting the physiological basis of quantitative EEG (qEEG) markers for ischemia detection ref [18], ref [19], ref [20].",
+    "refNo": 20,
+    "title": "Electroencephalography (EEG) for detecting acute ischemic stroke",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Dense-array and whole-brain modeling further suggest that multichannel EEG features can capture neurological deficit severity beyond traditional single-lead metrics, with delta and beta power showing strong associations with NIHSS in acute ischemic stroke ref [18].",
+    "refNo": 18,
+    "title": "Utility of EEG measures of brain function in patients with acute stroke",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Both the original and revised BSI distinguish stroke-related hemispheric imbalance from healthy patterns and correlate with impairment severity and short-term outcome ref [23], ref [8].",
+    "refNo": 23,
+    "title": "Brain symmetry index in healthy and stroke patients for assessment and prognosis",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Both the original and revised BSI distinguish stroke-related hemispheric imbalance from healthy patterns and correlate with impairment severity and short-term outcome ref [23], ref [8].",
+    "refNo": 8,
+    "title": "Modulation of motor cortical activities by action observation and execution in patients with stroke: An MEG study",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Studies of acute ischemic stroke report that higher rBSI is associated with lower Barthel Index, higher modified Rankin Scale scores, and worse neurological status, supporting its use as an early prognostic indicator ref [23].",
+    "refNo": 23,
+    "title": "Brain symmetry index in healthy and stroke patients for assessment and prognosis",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "More broadly, qEEG measures such as DAR, DTABR, relative band-power ratios, spectral edge frequencies, and mean frequency have shown relationships with infarct burden, NIHSS, and functional outcome in acute and subacute stroke ref [19], ref [20].",
+    "refNo": 19,
+    "title": "Quantitative EEG for the detection of brain ischemia",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "More broadly, qEEG measures such as DAR, DTABR, relative band-power ratios, spectral edge frequencies, and mean frequency have shown relationships with infarct burden, NIHSS, and functional outcome in acute and subacute stroke ref [19], ref [20].",
+    "refNo": 20,
+    "title": "Electroencephalography (EEG) for detecting acute ischemic stroke",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Conventional signal-processing pipelines using spectral power, DAR/DTABR, and BSI have been coupled with machine-learning models such as extreme learning machines to classify acute ischemic stroke severity, while more recent 1D-CNN approaches learn discriminative patterns directly from PSD representations and achieve high reported accuracy for normal, mild, moderate, and severe stroke categories ref [9], ref [10].",
+    "refNo": 9,
+    "title": "Oscillatory MEG motor activity reflects therapy-related plasticity in stroke patients",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Conventional signal-processing pipelines using spectral power, DAR/DTABR, and BSI have been coupled with machine-learning models such as extreme learning machines to classify acute ischemic stroke severity, while more recent 1D-CNN approaches learn discriminative patterns directly from PSD representations and achieve high reported accuracy for normal, mild, moderate, and severe stroke categories ref [9], ref [10].",
+    "refNo": 10,
+    "title": "Do movement-related beta oscillations change after stroke?",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "In rehabilitation contexts, qEEG also shows value for recovery assessment: in chronic stroke, elevated slow-to-fast power ratios predict poorer upper-limb gains after robot-assisted therapy, suggesting that baseline cortical slowing may index limited neuroplastic reserve ref [21].",
+    "refNo": 21,
+    "title": "Quantitative EEG for predicting upper limb motor recovery in chronic stroke robot-assisted rehabilitation",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Overall, EEG complements structural imaging by linking detection, prognosis, and recovery potential within a single scalable modality ref [18], ref [21], ref [8].",
+    "refNo": 18,
+    "title": "Utility of EEG measures of brain function in patients with acute stroke",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Overall, EEG complements structural imaging by linking detection, prognosis, and recovery potential within a single scalable modality ref [18], ref [21], ref [8].",
+    "refNo": 21,
+    "title": "Quantitative EEG for predicting upper limb motor recovery in chronic stroke robot-assisted rehabilitation",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Overall, EEG complements structural imaging by linking detection, prognosis, and recovery potential within a single scalable modality ref [18], ref [21], ref [8].",
+    "refNo": 8,
+    "title": "Modulation of motor cortical activities by action observation and execution in patients with stroke: An MEG study",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "In the first days after stroke, longitudinal fMRI revealed that recovery-related increases can emerge in ipsilesional and contralesional M1, premotor cortex, and SMA, with contralesional recruitment being especially prominent in more severely impaired patients ref [25].",
+    "refNo": 25,
+    "title": "The role of the contralesional motor cortex for motor recovery in the early days after stroke assessed with longitudinal FMRI",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "By contrast, patients with milder deficits often show activation patterns closer to healthy controls ref [25], and hemispheric activation balance in M1 remains tightly linked to motor deficit across longitudinal follow-up ref [11].",
+    "refNo": 25,
+    "title": "The role of the contralesional motor cortex for motor recovery in the early days after stroke assessed with longitudinal FMRI",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "By contrast, patients with milder deficits often show activation patterns closer to healthy controls ref [25], and hemispheric activation balance in M1 remains tightly linked to motor deficit across longitudinal follow-up ref [11].",
+    "refNo": 11,
+    "title": "Alterations in spontaneous brain oscillations during stroke recovery",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Acute reductions in interhemispheric motor connectivity are detectable within 24–48 h and are associated with hemiparesis severity ref [30], while stronger acute motor-network connectivity predicts better outcome in ischemic stroke ref [9].",
+    "refNo": 30,
+    "title": "Cerebral motor functional connectivity at the acute stage: An outcome predictor of ischemic stroke",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "Acute reductions in interhemispheric motor connectivity are detectable within 24–48 h and are associated with hemiparesis severity ref [30], while stronger acute motor-network connectivity predicts better outcome in ischemic stroke ref [9].",
+    "refNo": 9,
+    "title": "Oscillatory MEG motor activity reflects therapy-related plasticity in stroke patients",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Longitudinal studies further indicate that connectivity between ipsilesional and contralesional M1 becomes most asymmetric around the first month and then partially normalizes with recovery, whereas early preservation of connectivity with contralesional thalamus, SMA, and middle frontal gyrus is associated with better 6-month motor improvement ref [31].",
+    "refNo": 31,
+    "title": "The relationship between motor deficit and primary motor cortex hemispheric activation balance after stroke: Longitudinal fMRI study",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "More recent acute-stage work also suggests that weakened interhemispheric coupling, particularly between ipsilesional M1 and contralesional PMd, independently predicts unfavorable outcome ref [9].",
+    "refNo": 9,
+    "title": "Oscillatory MEG motor activity reflects therapy-related plasticity in stroke patients",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Resting-state Granger-causality studies reported abnormal influences between bilateral M1 and premotor-parietal-cerebellar regions, with more severe hand dysfunction associated with weaker causal interactions involving contralesional cerebellum and superior parietal cortex ref [14]. fMRI has also been used prognostically in the hyperacute phase, although adding early task fMRI to initial impairment yields only modest incremental value in severely affected patients ref [26].",
+    "refNo": 14,
+    "title": "Brainwave classification for acute ischemic stroke group level using k-NN technique",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Resting-state Granger-causality studies reported abnormal influences between bilateral M1 and premotor-parietal-cerebellar regions, with more severe hand dysfunction associated with weaker causal interactions involving contralesional cerebellum and superior parietal cortex ref [14]. fMRI has also been used prognostically in the hyperacute phase, although adding early task fMRI to initial impairment yields only modest incremental value in severely affected patients ref [26].",
+    "refNo": 26,
+    "title": "Prediction of motor recovery using initial impairment and fMRI 48 h poststroke",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "Intervention studies nonetheless show that rehabilitation can reshape activation balance: after constraint-induced movement therapy, improvement is accompanied by greater contralateral SM1 engagement and ipsilateral cerebellar recruitment ref [27].",
+    "refNo": 27,
+    "title": "Changes in the brain activation balance in motorrelated areas after constraint-induced movement therapy; a longitudinal fMRI study",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "For example, BCI-guided robot-hand training was associated with increased resting-state connectivity between ipsilesional M1 and contralesional BA6, while EEG-derived directed information flow from premotor/SMA regions to ipsilesional M1 showed parallel changes that correlated with Fugl-Meyer gains, supporting cross-modal convergence on interhemispheric motor network rebalancing ref [33].",
+    "refNo": 33,
+    "title": "BCI training effects on chronic stroke correlate with functional reorganization in motor-related regions: A concurrent EEG and fMRI study",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "Related robotic-hand work further showed that reduced EEG interhemispheric asymmetry and increased fMRI interhemispheric connectivity covaried with motor improvement, suggesting that multimodal markers may capture complementary aspects of recovery-related normalization ref [34].",
+    "refNo": 34,
+    "title": "Changes in electroencephalography complexity and functional magnetic resonance imaging connectivity following robotic hand training in chronic stroke",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "A pilot bimodal EEG-fMRI neurofeedback study proposed a multi-target motor imagery paradigm that progressively shifted training emphasis toward ipsilesional M1 while still leveraging SMA engagement, demonstrating the feasibility of combined feedback in chronic stroke ref [35].",
+    "refNo": 35,
+    "title": "A multi-target motor imagery training using bimodal EEG-fMRI neurofeedback: A pilot study in chronic stroke patients",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "Importantly, successful upregulation of ipsilesional motor areas and clinical improvement were observed mainly in patients with preserved corticospinal tract integrity, highlighting that multimodal neurofeedback efficacy is constrained by residual structural reserve ref [35].",
+    "refNo": 35,
+    "title": "A multi-target motor imagery training using bimodal EEG-fMRI neurofeedback: A pilot study in chronic stroke patients",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "This aligns with broader BCI-neurorehabilitation literature showing that connectivity changes after feedback-based therapy are associated with behavioral gains ref [33].",
+    "refNo": 33,
+    "title": "BCI training effects on chronic stroke correlate with functional reorganization in motor-related regions: A concurrent EEG and fMRI study",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "As a readout, EEG contributes temporal sensitivity to oscillatory desynchronization, complexity, and directed coupling, whereas fMRI localizes reorganization across distributed motor regions ref [33], ref [34].",
+    "refNo": 33,
+    "title": "BCI training effects on chronic stroke correlate with functional reorganization in motor-related regions: A concurrent EEG and fMRI study",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "As a readout, EEG contributes temporal sensitivity to oscillatory desynchronization, complexity, and directed coupling, whereas fMRI localizes reorganization across distributed motor regions ref [33], ref [34].",
+    "refNo": 34,
+    "title": "Changes in electroencephalography complexity and functional magnetic resonance imaging connectivity following robotic hand training in chronic stroke",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "As guidance, bimodal neurofeedback may improve target specificity compared with unimodal approaches by jointly constraining where and when self-regulation occurs ref [35].",
+    "refNo": 35,
+    "title": "A multi-target motor imagery training using bimodal EEG-fMRI neurofeedback: A pilot study in chronic stroke patients",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "Although current evidence remains limited by small samples and heterogeneous lesions, these early studies support multimodal biomarkers as promising tools for stratifying patients, monitoring plasticity, and optimizing individualized neurofeedback-based motor rehabilitation ref [33], ref [34], ref [35].",
+    "refNo": 33,
+    "title": "BCI training effects on chronic stroke correlate with functional reorganization in motor-related regions: A concurrent EEG and fMRI study",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "Although current evidence remains limited by small samples and heterogeneous lesions, these early studies support multimodal biomarkers as promising tools for stratifying patients, monitoring plasticity, and optimizing individualized neurofeedback-based motor rehabilitation ref [33], ref [34], ref [35].",
+    "refNo": 34,
+    "title": "Changes in electroencephalography complexity and functional magnetic resonance imaging connectivity following robotic hand training in chronic stroke",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "Although current evidence remains limited by small samples and heterogeneous lesions, these early studies support multimodal biomarkers as promising tools for stratifying patients, monitoring plasticity, and optimizing individualized neurofeedback-based motor rehabilitation ref [33], ref [34], ref [35].",
+    "refNo": 35,
+    "title": "A multi-target motor imagery training using bimodal EEG-fMRI neurofeedback: A pilot study in chronic stroke patients",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "Methodological reviews have emphasized that simultaneous acquisition is uniquely valuable because it preserves the same behavioral state while enabling EEG-informed fMRI and fMRI-informed EEG analyses, despite persistent challenges from gradient and ballistocardiographic artifacts and unresolved questions about optimal fusion pipelines ref [36], ref [5], ref [6].",
+    "refNo": 36,
+    "title": "Simultaneous EEG-fMRI for functional neurological assessment",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "Methodological reviews have emphasized that simultaneous acquisition is uniquely valuable because it preserves the same behavioral state while enabling EEG-informed fMRI and fMRI-informed EEG analyses, despite persistent challenges from gradient and ballistocardiographic artifacts and unresolved questions about optimal fusion pipelines ref [36], ref [5], ref [6].",
+    "refNo": 5,
+    "title": "A review on functional near-infrared spectroscopy and application in stroke rehabilitation",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Methodological reviews have emphasized that simultaneous acquisition is uniquely valuable because it preserves the same behavioral state while enabling EEG-informed fMRI and fMRI-informed EEG analyses, despite persistent challenges from gradient and ballistocardiographic artifacts and unresolved questions about optimal fusion pipelines ref [36], ref [5], ref [6].",
+    "refNo": 6,
+    "title": "Imaging brain function with functional nearinfrared spectroscopy in unconstrained environments",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Pericentral BOLD fluctuations track spontaneous alpha- and beta-band SMR power, with partial spatial dissociation between more posterior alpha-linked and more anterior beta-linked sensorimotor territories ref [37].",
+    "refNo": 37,
+    "title": "Resting-state fluctuations of EEG sensorimotor rhythm reflect BOLD activities in the pericentral areas: A simultaneous EEG-fMRI study",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "Related work likewise showed that mu/SMR amplitude is coupled to BOLD activity across sensorimotor, cingulo-insular, and associated control regions, supporting the view that resting oscillations index network-level excitability rather than isolated local generators ref [7], ref [8].",
+    "refNo": 7,
+    "title": "Magnetoencephalography in stroke recovery and rehabilitation",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Related work likewise showed that mu/SMR amplitude is coupled to BOLD activity across sensorimotor, cingulo-insular, and associated control regions, supporting the view that resting oscillations index network-level excitability rather than isolated local generators ref [7], ref [8].",
+    "refNo": 8,
+    "title": "Modulation of motor cortical activities by action observation and execution in patients with stroke: An MEG study",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Multimodal functional network connectivity models extract EEG and fMRI components separately, estimate directed interactions within each modality, and then align networks across modalities to build an integrated graph of common and modality-specific functional systems ref [38].",
+    "refNo": 38,
+    "title": "Multimodal functional network connectivity: An EEG-fMRI fusion in network space",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Complementarily, fMRI functional networks can be used as empirical priors for EEG source imaging, improving source reconstruction and enabling selection of the fMRI networks most supported by the EEG data ref [39].",
+    "refNo": 39,
+    "title": "fMRI functional networks for EEG source imaging",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "These network-fusion strategies are promising for stroke because they could dissociate preserved from compensatory circuits, identify modality-convergent motor subnetworks, and provide individualized targets for neurofeedback or stimulation-guided rehabilitation ref [38], ref [39].",
+    "refNo": 38,
+    "title": "Multimodal functional network connectivity: An EEG-fMRI fusion in network space",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "These network-fusion strategies are promising for stroke because they could dissociate preserved from compensatory circuits, identify modality-convergent motor subnetworks, and provide individualized targets for neurofeedback or stimulation-guided rehabilitation ref [38], ref [39].",
+    "refNo": 39,
+    "title": "fMRI functional networks for EEG source imaging",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "Concurrent EEG-fNIRS systems are increasingly attractive in stroke rehabilitation because they combine EEG’s millisecond-scale sensitivity to oscillatory dynamics with fNIRS-based access to cortical hemodynamics in a portable, movement-tolerant format suitable for bedside and therapy-room deployment ref [40], ref [5], ref [6].",
+    "refNo": 40,
+    "title": "Wearable, integrated EEG-fNIRS technologies: A review",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "Concurrent EEG-fNIRS systems are increasingly attractive in stroke rehabilitation because they combine EEG’s millisecond-scale sensitivity to oscillatory dynamics with fNIRS-based access to cortical hemodynamics in a portable, movement-tolerant format suitable for bedside and therapy-room deployment ref [40], ref [5], ref [6].",
+    "refNo": 5,
+    "title": "A review on functional near-infrared spectroscopy and application in stroke rehabilitation",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Concurrent EEG-fNIRS systems are increasingly attractive in stroke rehabilitation because they combine EEG’s millisecond-scale sensitivity to oscillatory dynamics with fNIRS-based access to cortical hemodynamics in a portable, movement-tolerant format suitable for bedside and therapy-room deployment ref [40], ref [5], ref [6].",
+    "refNo": 6,
+    "title": "Imaging brain function with functional nearinfrared spectroscopy in unconstrained environments",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Compared with fMRI-centered multimodal paradigms, this configuration is better aligned with repeated monitoring during naturalistic motor practice, including sitting, grasping, and gait-related tasks that are common in rehabilitation workflows ref [40], ref [7], ref [8].",
+    "refNo": 40,
+    "title": "Wearable, integrated EEG-fNIRS technologies: A review",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "Compared with fMRI-centered multimodal paradigms, this configuration is better aligned with repeated monitoring during naturalistic motor practice, including sitting, grasping, and gait-related tasks that are common in rehabilitation workflows ref [40], ref [7], ref [8].",
+    "refNo": 7,
+    "title": "Magnetoencephalography in stroke recovery and rehabilitation",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Compared with fMRI-centered multimodal paradigms, this configuration is better aligned with repeated monitoring during naturalistic motor practice, including sitting, grasping, and gait-related tasks that are common in rehabilitation workflows ref [40], ref [7], ref [8].",
+    "refNo": 8,
+    "title": "Modulation of motor cortical activities by action observation and execution in patients with stroke: An MEG study",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Early stroke-specific feasibility work showed that simultaneous EEG-fNIRS can distinguish patients from healthy controls through complementary interhemispheric markers derived from EEG entropy and HbO lateralization during hand grasping, suggesting sensitivity to abnormal hemispheric balance after subcortical stroke ref [4].",
+    "refNo": 4,
+    "title": "Time course of sensorimotor cortex reorganization during upper extremity task accompanying motor recovery early after stroke: An fNIRS study",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Extending this concept, an exploratory longitudinal study used fNIRS-informed EEG source imaging during hand clenching and reported reduced ipsilesional somatosensory activity in stroke, while increases in ipsilesional premotor strength and interhemispheric M1 connectivity tracked 4-week motor improvement; moreover, baseline premotor and SMA-M1 measures showed potential for outcome prediction ref [42].",
+    "refNo": 42,
+    "title": "The feasibility of utilizing EEG-fNIRS to characterize the cortical activation difference between healthy subjects and post-stroke patients",
+    "marker_text": "[42]"
+  },
+  {
+    "sentence": "From a translational perspective, wearable integrated EEG-fNIRS platforms now enable more compact caps, synchronized acquisition, and improved ecological validity, which may facilitate longitudinal phenotyping, neurofeedback, and home-based rehabilitation monitoring ref [40], ref [9], ref [10].",
+    "refNo": 40,
+    "title": "Wearable, integrated EEG-fNIRS technologies: A review",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "From a translational perspective, wearable integrated EEG-fNIRS platforms now enable more compact caps, synchronized acquisition, and improved ecological validity, which may facilitate longitudinal phenotyping, neurofeedback, and home-based rehabilitation monitoring ref [40], ref [9], ref [10].",
+    "refNo": 9,
+    "title": "Oscillatory MEG motor activity reflects therapy-related plasticity in stroke patients",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "From a translational perspective, wearable integrated EEG-fNIRS platforms now enable more compact caps, synchronized acquisition, and improved ecological validity, which may facilitate longitudinal phenotyping, neurofeedback, and home-based rehabilitation monitoring ref [40], ref [9], ref [10].",
+    "refNo": 10,
+    "title": "Do movement-related beta oscillations change after stroke?",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Nevertheless, important constraints remain, including limited depth sensitivity of fNIRS, susceptibility to extracerebral and motion artifacts, heterogeneous optode-electrode layouts, and the need for larger validation cohorts and standardized multimodal biomarkers in stroke populations ref [40], ref [41], ref [42].",
+    "refNo": 40,
+    "title": "Wearable, integrated EEG-fNIRS technologies: A review",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "Nevertheless, important constraints remain, including limited depth sensitivity of fNIRS, susceptibility to extracerebral and motion artifacts, heterogeneous optode-electrode layouts, and the need for larger validation cohorts and standardized multimodal biomarkers in stroke populations ref [40], ref [41], ref [42].",
+    "refNo": 41,
+    "title": "Multimodal neuroimaging using concurrent EEG/fNIRS for poststroke recovery assessment: An exploratory study",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "Nevertheless, important constraints remain, including limited depth sensitivity of fNIRS, susceptibility to extracerebral and motion artifacts, heterogeneous optode-electrode layouts, and the need for larger validation cohorts and standardized multimodal biomarkers in stroke populations ref [40], ref [41], ref [42].",
+    "refNo": 42,
+    "title": "The feasibility of utilizing EEG-fNIRS to characterize the cortical activation difference between healthy subjects and post-stroke patients",
+    "marker_text": "[42]"
+  },
+  {
+    "sentence": "A comprehensive review of multimodal neuroimaging computing in neuropsychiatric disorders emphasizes that MRI, PET, EEG, and MEG offer complementary spatial, temporal, and mechanistic information, and that clinically meaningful integration depends on robust preprocessing, feature extraction, fusion, and machine-learning pipelines rather than simple side-by-side interpretation ref [43].",
+    "refNo": 43,
+    "title": "Multimodal neuroimaging computing: A review of the applications in neuropsychiatric disorders",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "Although much of the broader multimodal literature comes from epilepsy, schizophrenia, dementia, and other neuropsychiatric conditions, several recurring themes are transferable to post-stroke motor rehabilitation: multimodal fusion can improve biomarker sensitivity, distinguish latent network subtypes, and support individualized prognosis and therapy selection ref [43].",
+    "refNo": 43,
+    "title": "Multimodal neuroimaging computing: A review of the applications in neuropsychiatric disorders",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "The same review also highlights a key translational lesson for rehabilitation studies: multimodal datasets are most informative when they are explicitly linked to clinical phenotypes and longitudinal trajectories, rather than treated as purely descriptive imaging collections ref [43].",
+    "refNo": 43,
+    "title": "Multimodal neuroimaging computing: A review of the applications in neuropsychiatric disorders",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "A complementary review focused on transcranial electrical stimulation and EEG/fNIRS features across brain diseases further broadens the neurorehabilitation context by summarizing how stimulation parameters, electrophysiological markers, and hemodynamic responses can be jointly optimized for closed-loop intervention design ref [44].",
+    "refNo": 44,
+    "title": "Systemic review on Transcranial electrical stimulation parameters and EEG/fNIRS features for brain diseases",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "For stroke research, this literature supports the emerging view that multimodal monitoring is not only diagnostic but interventional: EEG can index fast cortical-state changes, fNIRS can track portable vascular responses, and combined readouts may help titrate stimulation intensity, timing, and target selection during training ref [44].",
+    "refNo": 44,
+    "title": "Systemic review on Transcranial electrical stimulation parameters and EEG/fNIRS features for brain diseases",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "Together, these broader reviews argue that future stroke rehabilitation platforms should move toward standardized multimodal biomarkers, cross-modal validation, and adaptive stimulation-imaging frameworks that are generalizable beyond any single disorder class ref [43], ref [44].",
+    "refNo": 43,
+    "title": "Multimodal neuroimaging computing: A review of the applications in neuropsychiatric disorders",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "Together, these broader reviews argue that future stroke rehabilitation platforms should move toward standardized multimodal biomarkers, cross-modal validation, and adaptive stimulation-imaging frameworks that are generalizable beyond any single disorder class ref [43], ref [44].",
+    "refNo": 44,
+    "title": "Systemic review on Transcranial electrical stimulation parameters and EEG/fNIRS features for brain diseases",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "In stroke, beta-band CMC is typically reduced in the acute stage and then strengthens with recovery, consistent with progressive re-establishment or rerouting of effective corticospinal communication ref [46].",
+    "refNo": 46,
+    "title": "Changes in the location of cortico-muscular coherence following stroke",
+    "marker_text": "[46]"
+  },
+  {
+    "sentence": "Longitudinal and cross-sectional studies further show that recovery is often accompanied not only by changes in CMC magnitude, but also by spatial redistribution of coherent sources beyond canonical contralateral M1, including bilateral and posterior sensorimotor territories ref [46], ref [47].",
+    "refNo": 46,
+    "title": "Changes in the location of cortico-muscular coherence following stroke",
+    "marker_text": "[46]"
+  },
+  {
+    "sentence": "Longitudinal and cross-sectional studies further show that recovery is often accompanied not only by changes in CMC magnitude, but also by spatial redistribution of coherent sources beyond canonical contralateral M1, including bilateral and posterior sensorimotor territories ref [46], ref [47].",
+    "refNo": 47,
+    "title": "Unveiling neural coupling within the sensorimotor system: Directionality and nonlinearity",
+    "marker_text": "[47]"
+  },
+  {
+    "sentence": "In severely affected chronic stroke with hand paralysis, intervention-related gains after brain-robot training were associated with increased beta-band CMC in distributed premotor regions, especially ipsilesional premotor cortex, suggesting that premotor-muscular coupling can serve as a compensatory substrate and a candidate therapeutic target ref [50].",
+    "refNo": 50,
+    "title": "Contributions of descending and ascending pathways to corticomuscular coherence in humans",
+    "marker_text": "[50]"
+  },
+  {
+    "sentence": "Such findings complement earlier reports that contralesional or non-primary motor coherence is not merely epiphenomenal, but may support residual motor output in selected patients ref [47], ref [50].",
+    "refNo": 47,
+    "title": "Unveiling neural coupling within the sensorimotor system: Directionality and nonlinearity",
+    "marker_text": "[47]"
+  },
+  {
+    "sentence": "Such findings complement earlier reports that contralesional or non-primary motor coherence is not merely epiphenomenal, but may support residual motor output in selected patients ref [47], ref [50].",
+    "refNo": 50,
+    "title": "Contributions of descending and ascending pathways to corticomuscular coherence in humans",
+    "marker_text": "[50]"
+  },
+  {
+    "sentence": "Work on sensorimotor coupling has shown that both descending motor commands and ascending somatosensory feedback contribute to CMC, and that directed coherence yields more physiologically plausible transmission delays than standard phase-based estimates ref [9].",
+    "refNo": 9,
+    "title": "Oscillatory MEG motor activity reflects therapy-related plasticity in stroke patients",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Broader frameworks further argue that stroke-relevant coupling should be characterized in terms of directionality and nonlinearity, since cross-frequency interactions and closed-loop sensory feedback are missed by conventional CMC ref [48].",
+    "refNo": 48,
+    "title": "Plasticity of premotor cortico-muscular coherence in severely impaired stroke patients with hand paralysis",
+    "marker_text": "[48]"
+  },
+  {
+    "sentence": "Information-theoretic approaches such as transfer spectral entropy extend this logic by resolving band-limited directional interactions, refining beta sub-band and gamma-band asymmetries in EEG-EMG coupling that may be useful for post-stroke biomarker development ref [8].",
+    "refNo": 8,
+    "title": "Modulation of motor cortical activities by action observation and execution in patients with stroke: An MEG study",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Its rationale is grounded in the observation that motor recovery is shaped not only by corticospinal tract integrity, but also by post-stroke reorganization within distributed motor networks and by an imbalance of interhemispheric inhibition, in which the contralesional hemisphere may excessively suppress the lesioned motor cortex ref [51], ref [52], ref [53].",
+    "refNo": 51,
+    "title": "Non-invasive brain stimulation to enhance post-stroke recovery",
+    "marker_text": "[51]"
+  },
+  {
+    "sentence": "Its rationale is grounded in the observation that motor recovery is shaped not only by corticospinal tract integrity, but also by post-stroke reorganization within distributed motor networks and by an imbalance of interhemispheric inhibition, in which the contralesional hemisphere may excessively suppress the lesioned motor cortex ref [51], ref [52], ref [53].",
+    "refNo": 52,
+    "title": "Stroke rehabilitation using noninvasive cortical stimulation: Motor deficit",
+    "marker_text": "[52]"
+  },
+  {
+    "sentence": "Its rationale is grounded in the observation that motor recovery is shaped not only by corticospinal tract integrity, but also by post-stroke reorganization within distributed motor networks and by an imbalance of interhemispheric inhibition, in which the contralesional hemisphere may excessively suppress the lesioned motor cortex ref [51], ref [52], ref [53].",
+    "refNo": 53,
+    "title": "Systematic review of parameters of stimulation, clinical trial design characteristics, and motor outcomes in non-invasive brain stimulation in stroke",
+    "marker_text": "[53]"
+  },
+  {
+    "sentence": "Within this framework, NIBS seeks either to facilitate residual excitability in the ipsilesional motor system or to damp maladaptive hyperexcitability in homologous contralesional regions ref [51], ref [53].",
+    "refNo": 51,
+    "title": "Non-invasive brain stimulation to enhance post-stroke recovery",
+    "marker_text": "[51]"
+  },
+  {
+    "sentence": "Within this framework, NIBS seeks either to facilitate residual excitability in the ipsilesional motor system or to damp maladaptive hyperexcitability in homologous contralesional regions ref [51], ref [53].",
+    "refNo": 53,
+    "title": "Systematic review of parameters of stimulation, clinical trial design characteristics, and motor outcomes in non-invasive brain stimulation in stroke",
+    "marker_text": "[53]"
+  },
+  {
+    "sentence": "The two dominant clinical modalities are repetitive transcranial magnetic stimulation (rTMS), which induces frequency-dependent excitatory or inhibitory after-effects, and transcranial direct current stimulation (tDCS), which modulates membrane polarization in a polarity-dependent manner ref [51], ref [52].",
+    "refNo": 51,
+    "title": "Non-invasive brain stimulation to enhance post-stroke recovery",
+    "marker_text": "[51]"
+  },
+  {
+    "sentence": "The two dominant clinical modalities are repetitive transcranial magnetic stimulation (rTMS), which induces frequency-dependent excitatory or inhibitory after-effects, and transcranial direct current stimulation (tDCS), which modulates membrane polarization in a polarity-dependent manner ref [51], ref [52].",
+    "refNo": 52,
+    "title": "Stroke rehabilitation using noninvasive cortical stimulation: Motor deficit",
+    "marker_text": "[52]"
+  },
+  {
+    "sentence": "Across stroke studies, these approaches have been applied most often to upper-limb paresis, typically targeting primary motor cortex in chronic or subacute stages, although acute-phase interventions have also been explored ref [53], ref [4].",
+    "refNo": 53,
+    "title": "Systematic review of parameters of stimulation, clinical trial design characteristics, and motor outcomes in non-invasive brain stimulation in stroke",
+    "marker_text": "[53]"
+  },
+  {
+    "sentence": "Across stroke studies, these approaches have been applied most often to upper-limb paresis, typically targeting primary motor cortex in chronic or subacute stages, although acute-phase interventions have also been explored ref [53], ref [4].",
+    "refNo": 4,
+    "title": "Time course of sensorimotor cortex reorganization during upper extremity task accompanying motor recovery early after stroke: An fNIRS study",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Importantly, NIBS effects are not purely local: stimulation alters connectivity in premotor, supplementary motor, thalamic, and other remote regions, reinforcing the view that stroke rehabilitation should be understood at the network level rather than as a single-site intervention ref [52].",
+    "refNo": 52,
+    "title": "Stroke rehabilitation using noninvasive cortical stimulation: Motor deficit",
+    "marker_text": "[52]"
+  },
+  {
+    "sentence": "Systematic reviews indicate modest but generally positive motor effects, tempered by substantial variability in lesion location, chronicity, baseline impairment, stimulation parameters, sham design, concomitant therapy, and outcome measures ref [4], ref [51].",
+    "refNo": 4,
+    "title": "Time course of sensorimotor cortex reorganization during upper extremity task accompanying motor recovery early after stroke: An fNIRS study",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Systematic reviews indicate modest but generally positive motor effects, tempered by substantial variability in lesion location, chronicity, baseline impairment, stimulation parameters, sham design, concomitant therapy, and outcome measures ref [4], ref [51].",
+    "refNo": 51,
+    "title": "Non-invasive brain stimulation to enhance post-stroke recovery",
+    "marker_text": "[51]"
+  },
+  {
+    "sentence": "Evidence also suggests that response may differ between cortical and subcortical strokes and between acute and chronic phases, underscoring the need for patient stratification and protocol optimization ref [51], ref [53], ref [4].",
+    "refNo": 51,
+    "title": "Non-invasive brain stimulation to enhance post-stroke recovery",
+    "marker_text": "[51]"
+  },
+  {
+    "sentence": "Evidence also suggests that response may differ between cortical and subcortical strokes and between acute and chronic phases, underscoring the need for patient stratification and protocol optimization ref [51], ref [53], ref [4].",
+    "refNo": 53,
+    "title": "Systematic review of parameters of stimulation, clinical trial design characteristics, and motor outcomes in non-invasive brain stimulation in stroke",
+    "marker_text": "[53]"
+  },
+  {
+    "sentence": "Evidence also suggests that response may differ between cortical and subcortical strokes and between acute and chronic phases, underscoring the need for patient stratification and protocol optimization ref [51], ref [53], ref [4].",
+    "refNo": 4,
+    "title": "Time course of sensorimotor cortex reorganization during upper extremity task accompanying motor recovery early after stroke: An fNIRS study",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Two canonical approaches predominate: low-frequency stimulation (usually 1 Hz) over contralesional M1 to suppress maladaptive transcallosal inhibition, and high-frequency stimulation (typically 3–10 Hz, sometimes higher) over ipsilesional M1 to facilitate excitability and promote motor output ref [54], ref [55].",
+    "refNo": 54,
+    "title": "Repetitive transcranial magnetic stimulation in stroke rehabilitation: Review of the current evidence and pitfalls",
+    "marker_text": "[54]"
+  },
+  {
+    "sentence": "Two canonical approaches predominate: low-frequency stimulation (usually 1 Hz) over contralesional M1 to suppress maladaptive transcallosal inhibition, and high-frequency stimulation (typically 3–10 Hz, sometimes higher) over ipsilesional M1 to facilitate excitability and promote motor output ref [54], ref [55].",
+    "refNo": 55,
+    "title": "Repetitive transcranial magnetic stimulation of motor cortex after stroke: A focused review",
+    "marker_text": "[55]"
+  },
+  {
+    "sentence": "Focused reviews emphasize that stimulation intensity is usually scaled to resting motor threshold, treatment courses range from single-session paradigms to 5–10 daily sessions, and safety is generally acceptable when standard guidelines are followed ref [54], ref [55].",
+    "refNo": 54,
+    "title": "Repetitive transcranial magnetic stimulation in stroke rehabilitation: Review of the current evidence and pitfalls",
+    "marker_text": "[54]"
+  },
+  {
+    "sentence": "Focused reviews emphasize that stimulation intensity is usually scaled to resting motor threshold, treatment courses range from single-session paradigms to 5–10 daily sessions, and safety is generally acceptable when standard guidelines are followed ref [54], ref [55].",
+    "refNo": 55,
+    "title": "Repetitive transcranial magnetic stimulation of motor cortex after stroke: A focused review",
+    "marker_text": "[55]"
+  },
+  {
+    "sentence": "Meta-analyses report modest overall benefits of rTMS on upper-limb motor outcomes, with somewhat stronger effects for hand function and dexterity, and a recurrent signal favoring contralesional low-frequency stimulation, particularly in subcortical stroke and earlier phases of recovery ref [59], ref [60].",
+    "refNo": 59,
+    "title": "Repetitive transcranial magnetic stimulation for improving function after stroke",
+    "marker_text": "[59]"
+  },
+  {
+    "sentence": "Meta-analyses report modest overall benefits of rTMS on upper-limb motor outcomes, with somewhat stronger effects for hand function and dexterity, and a recurrent signal favoring contralesional low-frequency stimulation, particularly in subcortical stroke and earlier phases of recovery ref [59], ref [60].",
+    "refNo": 60,
+    "title": "Repetitive transcranial magnetic stimulation at 1Hz and 5Hz produces sustained improvement in motor function and disability after ischaemic stroke",
+    "marker_text": "[60]"
+  },
+  {
+    "sentence": "However, the Cochrane review found insufficient evidence to support routine use, largely because of small samples, variable endpoints, and protocol inconsistency ref [9].",
+    "refNo": 9,
+    "title": "Oscillatory MEG motor activity reflects therapy-related plasticity in stroke patients",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "These caveats are echoed in broader evidence syntheses that note conflicting effects on activities of daily living and limited certainty for long-term disability reduction ref [54], ref [9].",
+    "refNo": 54,
+    "title": "Repetitive transcranial magnetic stimulation in stroke rehabilitation: Review of the current evidence and pitfalls",
+    "marker_text": "[54]"
+  },
+  {
+    "sentence": "These caveats are echoed in broader evidence syntheses that note conflicting effects on activities of daily living and limited certainty for long-term disability reduction ref [54], ref [9].",
+    "refNo": 9,
+    "title": "Oscillatory MEG motor activity reflects therapy-related plasticity in stroke patients",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "In early stroke, both ipsilesional 10-Hz and contralesional 1-Hz stimulation improved Fugl-Meyer scores relative to sham, while producing opposite but theoretically coherent neurophysiological and fMRI changes in ipsilesional versus contralesional motor networks ref [57].",
+    "refNo": 57,
+    "title": "Effects of repetitive transcranial magnetic stimulation on motor functions in patients with stroke: A meta-analysis",
+    "marker_text": "[57]"
+  },
+  {
+    "sentence": "Sustained gains have also been reported after either 1-Hz or 5-Hz protocols in ischemic stroke ref [10].",
+    "refNo": 10,
+    "title": "Do movement-related beta oscillations change after stroke?",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Moreover, bilateral coupling of inhibitory contralesional and facilitatory ipsilesional stimulation may outperform single-mode stimulation, suggesting that sequential rebalancing and excitation could enhance recovery in selected patients ref [13].",
+    "refNo": 13,
+    "title": "Identification of post-stroke EEG signal using wavelet and convolutional neural networks",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Overall, current evidence supports rTMS as a promising adjunct rather than a standardized standalone therapy ref [54], ref [55], ref [9].",
+    "refNo": 54,
+    "title": "Repetitive transcranial magnetic stimulation in stroke rehabilitation: Review of the current evidence and pitfalls",
+    "marker_text": "[54]"
+  },
+  {
+    "sentence": "Overall, current evidence supports rTMS as a promising adjunct rather than a standardized standalone therapy ref [54], ref [55], ref [9].",
+    "refNo": 55,
+    "title": "Repetitive transcranial magnetic stimulation of motor cortex after stroke: A focused review",
+    "marker_text": "[55]"
+  },
+  {
+    "sentence": "Overall, current evidence supports rTMS as a promising adjunct rather than a standardized standalone therapy ref [54], ref [55], ref [9].",
+    "refNo": 9,
+    "title": "Oscillatory MEG motor activity reflects therapy-related plasticity in stroke patients",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "In motor cortex, anodal stimulation generally increases excitability whereas cathodal stimulation decreases it; importantly, after-effects can outlast the stimulation period and are linked not only to membrane polarization but also to NMDA-receptor-dependent plasticity, GABAergic disinhibition, and neuromodulatory influences relevant to motor learning and consolidation ref [6].",
+    "refNo": 6,
+    "title": "Imaging brain function with functional nearinfrared spectroscopy in unconstrained environments",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "In stroke rehabilitation, this physiology is usually interpreted through the lens of post-stroke interhemispheric imbalance, with stimulation aimed at either facilitating the ipsilesional motor cortex, suppressing contralesional overinhibition, or engaging both hemispheres simultaneously ref [62], ref [12].",
+    "refNo": 62,
+    "title": "Review of transcranial direct current stimulation in poststroke recovery",
+    "marker_text": "[62]"
+  },
+  {
+    "sentence": "In stroke rehabilitation, this physiology is usually interpreted through the lens of post-stroke interhemispheric imbalance, with stimulation aimed at either facilitating the ipsilesional motor cortex, suppressing contralesional overinhibition, or engaging both hemispheres simultaneously ref [62], ref [12].",
+    "refNo": 12,
+    "title": "MEG-based detection and localization of perilesional dysfunction in chronic stroke",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Therapeutically, tDCS is attractive because it is portable, inexpensive, easy to combine with task practice, and generally well tolerated under standard protocols, with adverse effects usually limited to transient tingling, itching, or mild headache ref [62], ref [6].",
+    "refNo": 62,
+    "title": "Review of transcranial direct current stimulation in poststroke recovery",
+    "marker_text": "[62]"
+  },
+  {
+    "sentence": "Therapeutically, tDCS is attractive because it is portable, inexpensive, easy to combine with task practice, and generally well tolerated under standard protocols, with adverse effects usually limited to transient tingling, itching, or mild headache ref [62], ref [6].",
+    "refNo": 6,
+    "title": "Imaging brain function with functional nearinfrared spectroscopy in unconstrained environments",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Electrode montage is a central determinant of efficacy: anodal ipsilesional, cathodal contralesional, and bihemispheric montages have each shown short-term gains in hand motor performance, whereas extracephalic reference placements appear less consistent in stroke cohorts ref [11].",
+    "refNo": 11,
+    "title": "Alterations in spontaneous brain oscillations during stroke recovery",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Small mechanistic and proof-of-concept studies further suggest that pairing stimulation with occupational therapy, constraint-induced movement therapy, robotic training, or peripheral stimulation may amplify training-related plasticity, especially in chronic stroke and in patients with residual corticospinal reserve ref [12], ref [11].",
+    "refNo": 12,
+    "title": "MEG-based detection and localization of perilesional dysfunction in chronic stroke",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Small mechanistic and proof-of-concept studies further suggest that pairing stimulation with occupational therapy, constraint-induced movement therapy, robotic training, or peripheral stimulation may amplify training-related plasticity, especially in chronic stroke and in patients with residual corticospinal reserve ref [12], ref [11].",
+    "refNo": 11,
+    "title": "Alterations in spontaneous brain oscillations during stroke recovery",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Systematic reviews indicate that pooled effects on motor outcomes are modest and often nonsignificant when all protocols and patient groups are combined, but benefits become more apparent in chronic stroke and milder-to-moderate impairment, highlighting substantial dependence on lesion characteristics, chronicity, dose, and concurrent therapy ref [10], ref [62].",
+    "refNo": 10,
+    "title": "Do movement-related beta oscillations change after stroke?",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Systematic reviews indicate that pooled effects on motor outcomes are modest and often nonsignificant when all protocols and patient groups are combined, but benefits become more apparent in chronic stroke and milder-to-moderate impairment, highlighting substantial dependence on lesion characteristics, chronicity, dose, and concurrent therapy ref [10], ref [62].",
+    "refNo": 62,
+    "title": "Review of transcranial direct current stimulation in poststroke recovery",
+    "marker_text": "[62]"
+  },
+  {
+    "sentence": "More recent overviews similarly emphasize heterogeneity in stimulation intensity, timing relative to practice, session number, and outcome measures as major barriers to translation ref [12].",
+    "refNo": 12,
+    "title": "MEG-based detection and localization of perilesional dysfunction in chronic stroke",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Thus, current consensus positions tDCS not as a standalone restorative therapy, but as a plasticity-priming adjunct whose clinical value will likely depend on individualized montage selection and integration with structured motor rehabilitation ref [10], ref [6], ref [12].",
+    "refNo": 10,
+    "title": "Do movement-related beta oscillations change after stroke?",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Thus, current consensus positions tDCS not as a standalone restorative therapy, but as a plasticity-priming adjunct whose clinical value will likely depend on individualized montage selection and integration with structured motor rehabilitation ref [10], ref [6], ref [12].",
+    "refNo": 6,
+    "title": "Imaging brain function with functional nearinfrared spectroscopy in unconstrained environments",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Thus, current consensus positions tDCS not as a standalone restorative therapy, but as a plasticity-priming adjunct whose clinical value will likely depend on individualized montage selection and integration with structured motor rehabilitation ref [10], ref [6], ref [12].",
+    "refNo": 12,
+    "title": "MEG-based detection and localization of perilesional dysfunction in chronic stroke",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "For lower-limb recovery, tDCS has been examined as an adjunct to gait-oriented training, with a systematic review and meta-analysis suggesting modest benefits for mobility and lower-limb strength, while effects on walking speed, endurance, and balance remain less consistent, underscoring the importance of outcome selection and patient stratification ref [67].",
+    "refNo": 67,
+    "title": "Effects of transcranial direct current stimulation on walking ability after stroke: A systematic review and meta-analysis",
+    "marker_text": "[67]"
+  },
+  {
+    "sentence": "Pilot studies combining tDCS with robot-assisted gait training or task-related locomotor therapy similarly indicate that stimulation may be most useful when paired with active, repetitive practice rather than delivered in isolation ref [4], ref [5].",
+    "refNo": 4,
+    "title": "Time course of sensorimotor cortex reorganization during upper extremity task accompanying motor recovery early after stroke: An fNIRS study",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Pilot studies combining tDCS with robot-assisted gait training or task-related locomotor therapy similarly indicate that stimulation may be most useful when paired with active, repetitive practice rather than delivered in isolation ref [4], ref [5].",
+    "refNo": 5,
+    "title": "A review on functional near-infrared spectroscopy and application in stroke rehabilitation",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "In healthy participants, simultaneous high-frequency rTMS over one M1 with contralateral anodal tDCS enhanced motor-evoked potentials and dexterity more than sham conditions, supporting the idea that interhemispheric modulation and homeostatic plasticity can be exploited in a coordinated manner ref [68].",
+    "refNo": 68,
+    "title": "Interhemispheric modulation of dual-mode, noninvasive brain stimulation on motor function",
+    "marker_text": "[68]"
+  },
+  {
+    "sentence": "Although direct stroke evidence remains limited, this framework is mechanistically attractive for tailoring excitatory and inhibitory influences according to lesion side, recovery stage, and residual corticospinal integrity ref [6], ref [7].",
+    "refNo": 6,
+    "title": "Imaging brain function with functional nearinfrared spectroscopy in unconstrained environments",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Although direct stroke evidence remains limited, this framework is mechanistically attractive for tailoring excitatory and inhibitory influences according to lesion side, recovery stage, and residual corticospinal integrity ref [6], ref [7].",
+    "refNo": 7,
+    "title": "Magnetoencephalography in stroke recovery and rehabilitation",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "In subacute stroke, combined low-frequency rTMS and action observation improved distal hand performance and grip strength within the active-treatment group, while remaining safe and feasible, suggesting that stimulation may amplify mirror-neuron and motor-learning processes during observation-based practice ref [69].",
+    "refNo": 69,
+    "title": "Effects and safety of combined rTMS and action observation for recovery of function in the upper extremities in stroke patients: A randomized controlled trial",
+    "marker_text": "[69]"
+  },
+  {
+    "sentence": "Comparable logic underpins combinations with task-oriented therapy, strengthening exercise, robotic training, or brain-computer/virtual-reality interfaces, which seek to align neuromodulation with Hebbian, context-dependent plasticity rather than relying on stimulation alone ref [8], ref [9], ref [10].",
+    "refNo": 8,
+    "title": "Modulation of motor cortical activities by action observation and execution in patients with stroke: An MEG study",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Comparable logic underpins combinations with task-oriented therapy, strengthening exercise, robotic training, or brain-computer/virtual-reality interfaces, which seek to align neuromodulation with Hebbian, context-dependent plasticity rather than relying on stimulation alone ref [8], ref [9], ref [10].",
+    "refNo": 9,
+    "title": "Oscillatory MEG motor activity reflects therapy-related plasticity in stroke patients",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Comparable logic underpins combinations with task-oriented therapy, strengthening exercise, robotic training, or brain-computer/virtual-reality interfaces, which seek to align neuromodulation with Hebbian, context-dependent plasticity rather than relying on stimulation alone ref [8], ref [9], ref [10].",
+    "refNo": 10,
+    "title": "Do movement-related beta oscillations change after stroke?",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Overall, multimodal approaches appear promising, but their superiority over well-designed unimodal protocols has not yet been established consistently in adequately powered trials ref [11], ref [12].",
+    "refNo": 11,
+    "title": "Alterations in spontaneous brain oscillations during stroke recovery",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Overall, multimodal approaches appear promising, but their superiority over well-designed unimodal protocols has not yet been established consistently in adequately powered trials ref [11], ref [12].",
+    "refNo": 12,
+    "title": "MEG-based detection and localization of perilesional dysfunction in chronic stroke",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "In major depressive disorder, rTMS has matured from an experimental intervention into an evidence-based therapy, with protocol refinement around stimulation frequency, intensity, coil design, and target localization illustrating the importance of standardization and mechanistic targeting rather than assuming a single universal protocol ref [70].",
+    "refNo": 70,
+    "title": "An update on repetitive transcranial magnetic stimulation for the treatment of major depressive disorder",
+    "marker_text": "[70]"
+  },
+  {
+    "sentence": "First, stimulation effects depend on distributed networks rather than the local cortical site alone; depression studies emphasize how functional connectivity and neuronavigated targeting can improve engagement of relevant circuits, a concept directly applicable to post-stroke sensorimotor network modulation ref [70].",
+    "refNo": 70,
+    "title": "An update on repetitive transcranial magnetic stimulation for the treatment of major depressive disorder",
+    "marker_text": "[70]"
+  },
+  {
+    "sentence": "Second, newer paradigms such as theta-burst stimulation highlight how treatment duration can be shortened without necessarily sacrificing efficacy, which is especially relevant for rehabilitation settings where session burden and resource constraints limit scalability ref [70].",
+    "refNo": 70,
+    "title": "An update on repetitive transcranial magnetic stimulation for the treatment of major depressive disorder",
+    "marker_text": "[70]"
+  },
+  {
+    "sentence": "Third, maintenance, retreatment, and dose-scheduling questions remain incompletely resolved across disorders, underscoring the need for stroke trials to move beyond short-term impairment outcomes toward durability and real-world participation endpoints ref [70].",
+    "refNo": 70,
+    "title": "An update on repetitive transcranial magnetic stimulation for the treatment of major depressive disorder",
+    "marker_text": "[70]"
+  },
+  {
+    "sentence": "In depression, inter-individual variability has motivated interest in imaging-guided targeting, electrophysiological biomarkers, and combined TMS-EEG approaches to predict and monitor response ref [70].",
+    "refNo": 70,
+    "title": "An update on repetitive transcranial magnetic stimulation for the treatment of major depressive disorder",
+    "marker_text": "[70]"
+  },
+  {
+    "sentence": "Thus, the broader brain-stimulation literature does not provide direct motor-recovery evidence, but it offers an important roadmap for protocol optimization, biomarker-guided stratification, and implementation science in neurorehabilitation ref [70].",
+    "refNo": 70,
+    "title": "An update on repetitive transcranial magnetic stimulation for the treatment of major depressive disorder",
+    "marker_text": "[70]"
+  },
+  {
+    "sentence": "Rather than stimulating canonical motor targets uniformly, combined TMS/tDCS with fMRI, EEG, DTI, or MRS can identify residual network capacity, interhemispheric imbalance, and structural constraints that shape responsiveness to stimulation ref [71], ref [72].",
+    "refNo": 71,
+    "title": "Exploration and modulation of brain network interactions with noninvasive brain stimulation in combination with neuroimaging",
+    "marker_text": "[71]"
+  },
+  {
+    "sentence": "Rather than stimulating canonical motor targets uniformly, combined TMS/tDCS with fMRI, EEG, DTI, or MRS can identify residual network capacity, interhemispheric imbalance, and structural constraints that shape responsiveness to stimulation ref [71], ref [72].",
+    "refNo": 72,
+    "title": "A review of transcranial magnetic stimulation and multimodal neuroimaging to characterize post-stroke neuroplasticity",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "In stroke, this approach is especially valuable because lesion location, corticospinal tract integrity, and callosal microstructure strongly influence whether ipsilesional facilitation, contralesional inhibition, or alternative higher-order targets are most appropriate ref [72].",
+    "refNo": 72,
+    "title": "A review of transcranial magnetic stimulation and multimodal neuroimaging to characterize post-stroke neuroplasticity",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "Concurrent or sequential TMS-fMRI, TMS-EEG, and PET studies show that noninvasive stimulation modulates distributed cortical-subcortical systems beyond the coil or electrode, enabling causal tests of effective connectivity and compensation mechanisms after stroke ref [71], ref [72].",
+    "refNo": 71,
+    "title": "Exploration and modulation of brain network interactions with noninvasive brain stimulation in combination with neuroimaging",
+    "marker_text": "[71]"
+  },
+  {
+    "sentence": "Concurrent or sequential TMS-fMRI, TMS-EEG, and PET studies show that noninvasive stimulation modulates distributed cortical-subcortical systems beyond the coil or electrode, enabling causal tests of effective connectivity and compensation mechanisms after stroke ref [71], ref [72].",
+    "refNo": 72,
+    "title": "A review of transcranial magnetic stimulation and multimodal neuroimaging to characterize post-stroke neuroplasticity",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "Resting-state and task-based measures can therefore be used not only to localize targets, but also to verify whether stimulation normalizes maladaptive motor-network interactions or recruits supportive premotor-parietal pathways ref [71], ref [72].",
+    "refNo": 71,
+    "title": "Exploration and modulation of brain network interactions with noninvasive brain stimulation in combination with neuroimaging",
+    "marker_text": "[71]"
+  },
+  {
+    "sentence": "Resting-state and task-based measures can therefore be used not only to localize targets, but also to verify whether stimulation normalizes maladaptive motor-network interactions or recruits supportive premotor-parietal pathways ref [71], ref [72].",
+    "refNo": 72,
+    "title": "A review of transcranial magnetic stimulation and multimodal neuroimaging to characterize post-stroke neuroplasticity",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "Simultaneous high-definition tDCS-EEG demonstrates that stimulation induces acute and persistent changes in broadband cortical synchronization, including altered event-related desynchronization/synchronization over sensorimotor regions, indicating that electrophysiological signatures can serve as mechanistic readouts of dose and polarity effects ref [73].",
+    "refNo": 73,
+    "title": "High-definition transcranial direct current stimulation induces both acute and persistent changes in broadband cortical synchronization: A simultaneous tDCS-EEG study",
+    "marker_text": "[73]"
+  },
+  {
+    "sentence": "In parallel, multimodal frameworks integrating TMS with structural and functional imaging have been proposed to stratify patients and optimize protocol selection, supporting a shift from one-size-fits-all stimulation toward biomarker-informed, adaptive neuromodulation in post-stroke motor recovery ref [72].",
+    "refNo": 72,
+    "title": "A review of transcranial magnetic stimulation and multimodal neuroimaging to characterize post-stroke neuroplasticity",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "The recent closed-loop cortico-muscular-cortical network framework is particularly relevant because it integrates EEG-EEG, EEG-EMG, and EMG-EMG coupling into a directional graph model, showing that low-frequency rTMS can strengthen interhemispheric motor information exchange while reducing maladaptive cortex-muscle coupling during movement after stroke ref [2].",
+    "refNo": 2,
+    "title": "Review of functional near-infrared spectroscopy in neurorehabilitation",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Prior work showed that corticomuscular coherence is disrupted after stroke and changes with recovery, with shifts in the spatial locus and strength of coupling reflecting reorganization of descending motor control ref [13], ref [16], ref [49].",
+    "refNo": 13,
+    "title": "Identification of post-stroke EEG signal using wavelet and convolutional neural networks",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Prior work showed that corticomuscular coherence is disrupted after stroke and changes with recovery, with shifts in the spatial locus and strength of coupling reflecting reorganization of descending motor control ref [13], ref [16], ref [49].",
+    "refNo": 16,
+    "title": "Detection of EEG signal post-stroke using FFT and convolutional neural network",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Prior work showed that corticomuscular coherence is disrupted after stroke and changes with recovery, with shifts in the spatial locus and strength of coupling reflecting reorganization of descending motor control ref [13], ref [16], ref [49].",
+    "refNo": 49,
+    "title": "Transfer spectral entropy and application to functional corticomuscular coupling",
+    "marker_text": "[49]"
+  },
+  {
+    "sentence": "Studies on ascending and descending pathway contributions, as well as nonlinear and directional sensorimotor coupling, further support the idea that effective rehabilitation models should distinguish efferent from afferent information flow rather than treating connectivity as symmetric ref [14], ref [71], ref [70].",
+    "refNo": 14,
+    "title": "Brainwave classification for acute ischemic stroke group level using k-NN technique",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Studies on ascending and descending pathway contributions, as well as nonlinear and directional sensorimotor coupling, further support the idea that effective rehabilitation models should distinguish efferent from afferent information flow rather than treating connectivity as symmetric ref [14], ref [71], ref [70].",
+    "refNo": 71,
+    "title": "Exploration and modulation of brain network interactions with noninvasive brain stimulation in combination with neuroimaging",
+    "marker_text": "[71]"
+  },
+  {
+    "sentence": "Studies on ascending and descending pathway contributions, as well as nonlinear and directional sensorimotor coupling, further support the idea that effective rehabilitation models should distinguish efferent from afferent information flow rather than treating connectivity as symmetric ref [14], ref [71], ref [70].",
+    "refNo": 70,
+    "title": "An update on repetitive transcranial magnetic stimulation for the treatment of major depressive disorder",
+    "marker_text": "[70]"
+  },
+  {
+    "sentence": "Graph analyses of post-stroke motor networks likewise indicate that recovery is associated with dynamic reorganization of network topology, motivating stimulation strategies that are adapted to evolving network states ref [36], ref [37].",
+    "refNo": 36,
+    "title": "Simultaneous EEG-fMRI for functional neurological assessment",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "Graph analyses of post-stroke motor networks likewise indicate that recovery is associated with dynamic reorganization of network topology, motivating stimulation strategies that are adapted to evolving network states ref [36], ref [37].",
+    "refNo": 37,
+    "title": "Resting-state fluctuations of EEG sensorimotor rhythm reflect BOLD activities in the pericentral areas: A simultaneous EEG-fMRI study",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "Simultaneous EEG-fMRI and multimodal fusion studies have shown that network states can be inferred across complementary spatial and temporal scales, while source-informed EEG frameworks help constrain functionally meaningful stimulation nodes ref [57], ref [29], ref [42], ref [60].",
+    "refNo": 57,
+    "title": "Effects of repetitive transcranial magnetic stimulation on motor functions in patients with stroke: A meta-analysis",
+    "marker_text": "[57]"
+  },
+  {
+    "sentence": "Simultaneous EEG-fMRI and multimodal fusion studies have shown that network states can be inferred across complementary spatial and temporal scales, while source-informed EEG frameworks help constrain functionally meaningful stimulation nodes ref [57], ref [29], ref [42], ref [60].",
+    "refNo": 29,
+    "title": "Longitudinal changes of resting-state functional connectivity during motor recovery after stroke",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Simultaneous EEG-fMRI and multimodal fusion studies have shown that network states can be inferred across complementary spatial and temporal scales, while source-informed EEG frameworks help constrain functionally meaningful stimulation nodes ref [57], ref [29], ref [42], ref [60].",
+    "refNo": 42,
+    "title": "The feasibility of utilizing EEG-fNIRS to characterize the cortical activation difference between healthy subjects and post-stroke patients",
+    "marker_text": "[42]"
+  },
+  {
+    "sentence": "Simultaneous EEG-fMRI and multimodal fusion studies have shown that network states can be inferred across complementary spatial and temporal scales, while source-informed EEG frameworks help constrain functionally meaningful stimulation nodes ref [57], ref [29], ref [42], ref [60].",
+    "refNo": 60,
+    "title": "Repetitive transcranial magnetic stimulation at 1Hz and 5Hz produces sustained improvement in motor function and disability after ischaemic stroke",
+    "marker_text": "[60]"
+  },
+  {
+    "sentence": "Early examples include augmented reality-based, EMG-triggered FES for ankle training, which improved paretic muscle activation and strength beyond FES alone in chronic stroke, illustrating how enriched sensory feedback can potentiate stimulation-assisted practice ref [75].",
+    "refNo": 75,
+    "title": "Use of augmented reality-based training with EMG-triggered functional electric stimulation in stroke rehabilitation",
+    "marker_text": "[75]"
+  },
+  {
+    "sentence": "Iterative learning control frameworks for robot-assisted upper-limb rehabilitation have shown that FES can be titrated across repeated reaching trials to provide only the assistance needed, thereby preserving voluntary effort while improving tracking accuracy and reducing impairment over treatment sessions ref [76].",
+    "refNo": 76,
+    "title": "Iterative learning control in health care: Electrical stimulation and robotic-assisted upper-limb stroke rehabilitation",
+    "marker_text": "[76]"
+  },
+  {
+    "sentence": "Related clinical work combining robot-assisted arm therapy with transcranial direct current stimulation (tDCS) suggests that gains are not uniform across patients: in an exploratory study, bilateral tDCS added to robotic training did not produce a simple overall group advantage, but its effect was modified by stroke duration and lesion type, with more favorable responses in chronic and subcortical stroke ref [77].",
+    "refNo": 77,
+    "title": "tDCS and robotics on upper limb stroke rehabilitation: Effect modification by stroke duration and type of stroke",
+    "marker_text": "[77]"
+  },
+  {
+    "sentence": "The key challenge is not merely combining modalities, but coordinating them so that stimulation timing, task difficulty, and assistance level jointly maximize active participation and use-dependent plasticity ref [76], ref [77].",
+    "refNo": 76,
+    "title": "Iterative learning control in health care: Electrical stimulation and robotic-assisted upper-limb stroke rehabilitation",
+    "marker_text": "[76]"
+  },
+  {
+    "sentence": "The key challenge is not merely combining modalities, but coordinating them so that stimulation timing, task difficulty, and assistance level jointly maximize active participation and use-dependent plasticity ref [76], ref [77].",
+    "refNo": 77,
+    "title": "tDCS and robotics on upper limb stroke rehabilitation: Effect modification by stroke duration and type of stroke",
+    "marker_text": "[77]"
+  },
+  {
+    "sentence": "In visual rehabilitation, a pilot study combining anodal tDCS over lesioned occipital cortex with vision restoration training in subacute stroke reported excellent tolerability and larger gains in perimetric sensitivity than standard compensatory training, supporting the feasibility of pairing neuromodulation with task-specific sensory retraining early after injury [1].",
+    "refNo": 1,
+    "title": "Functional near-infrared spectroscopy (fNIRS) for assessing cerebral cortex function during human behavior in natural/social situations: A concise review",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Earlier comparative case studies in chronic hemianopia similarly suggested that tDCS can potentiate visual field training, consistent with a residual-network model of recovery rather than a purely compensatory mechanism [3,4,5].",
+    "refNo": 3,
+    "title": "Limb linkage rehabilitation training-related changes in cortical activation and effective connectivity after stroke: A functional near-infrared spectroscopy study",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Earlier comparative case studies in chronic hemianopia similarly suggested that tDCS can potentiate visual field training, consistent with a residual-network model of recovery rather than a purely compensatory mechanism [3,4,5].",
+    "refNo": 4,
+    "title": "Time course of sensorimotor cortex reorganization during upper extremity task accompanying motor recovery early after stroke: An fNIRS study",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Earlier comparative case studies in chronic hemianopia similarly suggested that tDCS can potentiate visual field training, consistent with a residual-network model of recovery rather than a purely compensatory mechanism [3,4,5].",
+    "refNo": 5,
+    "title": "A review on functional near-infrared spectroscopy and application in stroke rehabilitation",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "High-frequency M1 rTMS produced modest but sustained analgesic effects in a subset of patients, and responsiveness correlated with preservation of the ipsilesional superior thalamocortical tract on diffusion imaging and with reduced pain-network activity on fMRI, including secondary somatosensory, insular, prefrontal, putaminal, and cerebellar regions [2].",
+    "refNo": 2,
+    "title": "Review of functional near-infrared spectroscopy in neurorehabilitation",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "These findings align with earlier work showing that analgesic benefit from motor-cortex stimulation depends on pain origin and somatotopic targeting, and that tract integrity may constrain the propagation of stimulation effects across thalamocortical and sensorimotor circuits [6,7,8].",
+    "refNo": 6,
+    "title": "Imaging brain function with functional nearinfrared spectroscopy in unconstrained environments",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "These findings align with earlier work showing that analgesic benefit from motor-cortex stimulation depends on pain origin and somatotopic targeting, and that tract integrity may constrain the propagation of stimulation effects across thalamocortical and sensorimotor circuits [6,7,8].",
+    "refNo": 7,
+    "title": "Magnetoencephalography in stroke recovery and rehabilitation",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "These findings align with earlier work showing that analgesic benefit from motor-cortex stimulation depends on pain origin and somatotopic targeting, and that tract integrity may constrain the propagation of stimulation effects across thalamocortical and sensorimotor circuits [6,7,8].",
+    "refNo": 8,
+    "title": "Modulation of motor cortical activities by action observation and execution in patients with stroke: An MEG study",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Clinically, these data argue for a more selective deployment of noninvasive stimulation in sensory and pain rehabilitation: stimulation should be coupled to active perceptual training when residual sensory representations are present, and guided by structural or functional markers of network preservation when treating central pain [1,2].",
+    "refNo": 1,
+    "title": "Functional near-infrared spectroscopy (fNIRS) for assessing cerebral cortex function during human behavior in natural/social situations: A concise review",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Clinically, these data argue for a more selective deployment of noninvasive stimulation in sensory and pain rehabilitation: stimulation should be coupled to active perceptual training when residual sensory representations are present, and guided by structural or functional markers of network preservation when treating central pain [1,2].",
+    "refNo": 2,
+    "title": "Review of functional near-infrared spectroscopy in neurorehabilitation",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Future trials should therefore move beyond generic efficacy designs toward biomarker-stratified protocols, multimodal outcomes, and longer follow-up, while also accounting for affective state, which appears to modulate analgesic responsiveness after stroke [2,9,10].",
+    "refNo": 2,
+    "title": "Review of functional near-infrared spectroscopy in neurorehabilitation",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Future trials should therefore move beyond generic efficacy designs toward biomarker-stratified protocols, multimodal outcomes, and longer follow-up, while also accounting for affective state, which appears to modulate analgesic responsiveness after stroke [2,9,10].",
+    "refNo": 9,
+    "title": "Oscillatory MEG motor activity reflects therapy-related plasticity in stroke patients",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Future trials should therefore move beyond generic efficacy designs toward biomarker-stratified protocols, multimodal outcomes, and longer follow-up, while also accounting for affective state, which appears to modulate analgesic responsiveness after stroke [2,9,10].",
+    "refNo": 10,
+    "title": "Do movement-related beta oscillations change after stroke?",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "A first overview figure can map how fMRI, EEG, fNIRS, and MEG capture complementary signatures of post-stroke motor reorganization, from large-scale network connectivity to oscillatory and hemodynamic task responses ref [72], ref [2], ref [7], ref [18].",
+    "refNo": 72,
+    "title": "A review of transcranial magnetic stimulation and multimodal neuroimaging to characterize post-stroke neuroplasticity",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "A first overview figure can map how fMRI, EEG, fNIRS, and MEG capture complementary signatures of post-stroke motor reorganization, from large-scale network connectivity to oscillatory and hemodynamic task responses ref [72], ref [2], ref [7], ref [18].",
+    "refNo": 2,
+    "title": "Review of functional near-infrared spectroscopy in neurorehabilitation",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "A first overview figure can map how fMRI, EEG, fNIRS, and MEG capture complementary signatures of post-stroke motor reorganization, from large-scale network connectivity to oscillatory and hemodynamic task responses ref [72], ref [2], ref [7], ref [18].",
+    "refNo": 7,
+    "title": "Magnetoencephalography in stroke recovery and rehabilitation",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "A first overview figure can map how fMRI, EEG, fNIRS, and MEG capture complementary signatures of post-stroke motor reorganization, from large-scale network connectivity to oscillatory and hemodynamic task responses ref [72], ref [2], ref [7], ref [18].",
+    "refNo": 18,
+    "title": "Utility of EEG measures of brain function in patients with acute stroke",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "A second figure can summarize stimulation paradigms—rTMS, tDCS, and multimodal stimulation-imaging combinations—by hemisphere targeted, excitation/inhibition principle, and expected mechanisms such as interhemispheric rebalance or ipsilesional facilitation ref [51], ref [62], ref [54].",
+    "refNo": 51,
+    "title": "Non-invasive brain stimulation to enhance post-stroke recovery",
+    "marker_text": "[51]"
+  },
+  {
+    "sentence": "A second figure can summarize stimulation paradigms—rTMS, tDCS, and multimodal stimulation-imaging combinations—by hemisphere targeted, excitation/inhibition principle, and expected mechanisms such as interhemispheric rebalance or ipsilesional facilitation ref [51], ref [62], ref [54].",
+    "refNo": 62,
+    "title": "Review of transcranial direct current stimulation in poststroke recovery",
+    "marker_text": "[62]"
+  },
+  {
+    "sentence": "A second figure can summarize stimulation paradigms—rTMS, tDCS, and multimodal stimulation-imaging combinations—by hemisphere targeted, excitation/inhibition principle, and expected mechanisms such as interhemispheric rebalance or ipsilesional facilitation ref [51], ref [62], ref [54].",
+    "refNo": 54,
+    "title": "Repetitive transcranial magnetic stimulation in stroke rehabilitation: Review of the current evidence and pitfalls",
+    "marker_text": "[54]"
+  },
+  {
+    "sentence": "A compact study table should therefore report cohort features, imaging/stimulation protocol, motor task, primary endpoints, and main neural findings, enabling readers to compare prognostic imaging studies with intervention studies in a common format ref [26], ref [28], ref [53].",
+    "refNo": 26,
+    "title": "Prediction of motor recovery using initial impairment and fMRI 48 h poststroke",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "A compact study table should therefore report cohort features, imaging/stimulation protocol, motor task, primary endpoints, and main neural findings, enabling readers to compare prognostic imaging studies with intervention studies in a common format ref [26], ref [28], ref [53].",
+    "refNo": 28,
+    "title": "Longitudinal evaluation of resting-state FMRI after acute stroke with hemiparesis",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "A compact study table should therefore report cohort features, imaging/stimulation protocol, motor task, primary endpoints, and main neural findings, enabling readers to compare prognostic imaging studies with intervention studies in a common format ref [26], ref [28], ref [53].",
+    "refNo": 53,
+    "title": "Systematic review of parameters of stimulation, clinical trial design characteristics, and motor outcomes in non-invasive brain stimulation in stroke",
+    "marker_text": "[53]"
+  },
+  {
+    "sentence": "Separate tables are also useful for concurrent or hybrid approaches, including EEG-fMRI, EEG-fNIRS, and neuroimaging-guided stimulation, where acquisition feasibility and interpretability are central to translational value ref [41], ref [71].",
+    "refNo": 41,
+    "title": "Multimodal neuroimaging using concurrent EEG/fNIRS for poststroke recovery assessment: An exploratory study",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "Separate tables are also useful for concurrent or hybrid approaches, including EEG-fMRI, EEG-fNIRS, and neuroimaging-guided stimulation, where acquisition feasibility and interpretability are central to translational value ref [41], ref [71].",
+    "refNo": 71,
+    "title": "Exploration and modulation of brain network interactions with noninvasive brain stimulation in combination with neuroimaging",
+    "marker_text": "[71]"
+  },
+  {
+    "sentence": "Such presentation helps clarify where evidence is strongest—e.g., network-level fMRI and electrophysiological markers for recovery tracking, and noninvasive stimulation protocols with meta-analytic support for upper-limb outcomes—while also revealing gaps in standardization and multimodal validation ref [72], ref [51], ref [54], ref [53].",
+    "refNo": 72,
+    "title": "A review of transcranial magnetic stimulation and multimodal neuroimaging to characterize post-stroke neuroplasticity",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "Such presentation helps clarify where evidence is strongest—e.g., network-level fMRI and electrophysiological markers for recovery tracking, and noninvasive stimulation protocols with meta-analytic support for upper-limb outcomes—while also revealing gaps in standardization and multimodal validation ref [72], ref [51], ref [54], ref [53].",
+    "refNo": 51,
+    "title": "Non-invasive brain stimulation to enhance post-stroke recovery",
+    "marker_text": "[51]"
+  },
+  {
+    "sentence": "Such presentation helps clarify where evidence is strongest—e.g., network-level fMRI and electrophysiological markers for recovery tracking, and noninvasive stimulation protocols with meta-analytic support for upper-limb outcomes—while also revealing gaps in standardization and multimodal validation ref [72], ref [51], ref [54], ref [53].",
+    "refNo": 54,
+    "title": "Repetitive transcranial magnetic stimulation in stroke rehabilitation: Review of the current evidence and pitfalls",
+    "marker_text": "[54]"
+  },
+  {
+    "sentence": "Such presentation helps clarify where evidence is strongest—e.g., network-level fMRI and electrophysiological markers for recovery tracking, and noninvasive stimulation protocols with meta-analytic support for upper-limb outcomes—while also revealing gaps in standardization and multimodal validation ref [72], ref [51], ref [54], ref [53].",
+    "refNo": 53,
+    "title": "Systematic review of parameters of stimulation, clinical trial design characteristics, and motor outcomes in non-invasive brain stimulation in stroke",
+    "marker_text": "[53]"
+  }
+]

@@ -1,0 +1,369 @@
+[
+  {
+    "sentence": "In rats with N-nitrosodiethylamine-induced hepatocarcinogenesis, oral administration of dieckol (10, 20, and 40 mg/kg) significantly reduced serum liver marker enzymes (AST, ALT, ALP, GGT, LDH), α-fetoprotein, total bilirubin, and oxidative stress markers (TBARS, HP, PCC, CD), indicating potent chemopreventive effects against liver cancer (ref [3]).",
+    "refNo": 3,
+    "title": "Protective effects of dieckol on N-nitrosodiethylamine induced hepatocarcinogenesis in rats",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "In human hepatocellular carcinoma Hep3B cells, dieckol isolated from Ecklonia stolonifera induced apoptosis in a dose-dependent manner by activating caspases-3, -7, -8, and -9, increasing cytochrome c release, and upregulating truncated Bid and Bim, thereby triggering both death receptor and mitochondrial apoptotic pathways (ref [4]).",
+    "refNo": 4,
+    "title": "Dieckol, isolated from Ecklonia stolonifera, induces apoptosis in human hepatocellular carcinoma Hep3B cells",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Furthermore, a sulfated polysaccharide from Ecklonia cava inhibited the growth of colon cancer CT26 cells by inducing apoptosis through caspase-9 and PARP activation, while modulating Bax/Bcl-2 expression (ref [5]).",
+    "refNo": 5,
+    "title": "A sulfated polysaccharide of Ecklonia cava inhibits the growth of colon cancer cells by inducing apoptosis",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "In tacrine-treated HepG2 cells, eckol and 2-phloroeckol—phlorotannins isolated from Ecklonia stolonifera—exhibited hepatoprotective effects by suppressing Fas-mediated cell-death proteins (tBid, caspase-3, PARP) and inhibiting cytochrome c release, despite other phlorotannins lacking similar activity (ref [10]).",
+    "refNo": 10,
+    "title": "Acidic oligosaccharide sugar chain, a marine-derived acidic oligosaccharide, inhibits the cytotoxicity and aggregation of amyloid beta protein",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "The a-glucosidase inhibitory property of EM and its isolated compounds PG, dibenzo [1,4] dioxine-2,4,7,9-tetraol, and eckol exceeded that of the positive control, suggesting their potency as oral anti-diabetic drugs or functional food ingredients, with a promising role in the formulation of medicines and nutritional supplements (Rengasamy et al. 2013).",
+    "refNo": 1,
+    "title": "Inhibitory effect of extracts from the brown alga, Ecklonia stolonifera, on enzymes responsible for allergic reactions and degranulation in RBL-2H3 cells",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "The a-glucosidase inhibitory property of EM and its isolated compounds PG, dibenzo [1,4] dioxine-2,4,7,9-tetraol, and eckol exceeded that of the positive control, suggesting their potency as oral anti-diabetic drugs or functional food ingredients, with a promising role in the formulation of medicines and nutritional supplements (Rengasamy et al. 2013).",
+    "refNo": 4,
+    "title": "Dieckol, isolated from Ecklonia stolonifera, induces apoptosis in human hepatocellular carcinoma Hep3B cells",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Phlorotannin-rich Ecklonia cava reduces the production of beta-amyloid by modulating alpha- and gamma-secretase expression and activity, suggesting a direct neuroprotective mechanism against Alzheimer’s disease pathology ref [8].",
+    "refNo": 8,
+    "title": "Dieckol, an edible seaweed polyphenol, retards rotenone-induced neurotoxicity and a-synuclein aggregation in human dopaminergic neuronal cells",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Dieckol, an edible seaweed polyphenol, retards rotenone-induced neurotoxicity and α-synuclein aggregation in human dopaminergic neuronal cells, highlighting its potential in Parkinson’s disease intervention ref [10].",
+    "refNo": 10,
+    "title": "Acidic oligosaccharide sugar chain, a marine-derived acidic oligosaccharide, inhibits the cytotoxicity and aggregation of amyloid beta protein",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Dieckol attenuates microglia-mediated neuronal cell death via ERK, Akt and NADPH oxidase-mediated pathways, indicating its role in suppressing neuroinflammation ref [11].",
+    "refNo": 11,
+    "title": "Acetylcholinesterase inhibitory activity of phlorotannins isolated from the brown alga, Ecklonia maxima (Osbeck) Papenfuss",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Acidic oligosaccharide sugar chain, a marine-derived acidic oligosaccharide, inhibits the cytotoxicity and aggregation of amyloid beta protein, offering another avenue for Alzheimer’s disease therapeutics ref [12].",
+    "refNo": 12,
+    "title": "Phloroglucinol attenuates the cognitive deficits of the 5xfad mouse model of Alzheimer's disease",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Phloroglucinol attenuates the cognitive deficits of the 5XFAD mouse model of Alzheimer’s disease, demonstrating in vivo efficacy in a transgenic model ref [12].",
+    "refNo": 12,
+    "title": "Phloroglucinol attenuates the cognitive deficits of the 5xfad mouse model of Alzheimer's disease",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Acetylcholinesterase inhibitory activity of phlorotannins isolated from the brown alga, Ecklonia maxima (Osbeck) Papenfuss, further supports the potential of these compounds to enhance cholinergic function in neurodegenerative disorders ref [7].",
+    "refNo": 7,
+    "title": "Phlorotannin-rich Ecklonia cava reduces the production of betaamyloid by modulating alpha-and gamma-secretase expression and activity",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "In an in vivo study in a zebrafish model, the dieckol-treated group scavenged intracellular ROS and prevented lipid peroxidation and ethanol-induced cell death in embryos (ref [19]).",
+    "refNo": 19,
+    "title": "Phloroglucinol (PG) purified from Ecklonia cava attenuates radiation-induced apoptosis in blood lymphocytes and splenocytes",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "A high dose of dieckol suppressed hypersensitive reactions, offering another target molecule for the prevention or treatment of mast cell-dependent allergic diseases (ref [15]).",
+    "refNo": 15,
+    "title": "Fucodiphlorethol G purified from Ecklonia cava suppresses ultraviolet B radiationinduced oxidative stress and cellular damage",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "It increased the viability of splenocytes without cytotoxicity and significantly enhanced the proliferation of splenocytes by limiting the increment of sub-G(1) DNA contents via the inhibition of ROS production in 2 Gy-irradiated splenocytes.",
+    "refNo": 1,
+    "title": "Inhibitory effect of extracts from the brown alga, Ecklonia stolonifera, on enzymes responsible for allergic reactions and degranulation in RBL-2H3 cells",
+    "marker_text": "(1)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "PG further augmented antiapoptotic molecules such as Bcl-2 and Bcl-X(S/L) (ref [20], ref [9]).",
+    "refNo": 20,
+    "title": "Phloroglucinol protects small intestines of mice from ionizing radiation by regulating apoptosis-related molecules: a comparative immunohistochemical study",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "PG further augmented antiapoptotic molecules such as Bcl-2 and Bcl-X(S/L) (ref [20], ref [9]).",
+    "refNo": 9,
+    "title": "Dieckol attenuates microglia-mediated neuronal cell death via ERK, Akt and NADPH oxidase-mediated pathways",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Eckol enhanced heme oxygenase-1 expression through activation of the Nrf2/JNK pathway in HepG2 cells, suppressing intracellular ROS and increasing glutathione levels (ref [16]).",
+    "refNo": 16,
+    "title": "Eckol enhances heme oxygenase-1 expression through activation of Nrf2/JNK pathway in HepG2 cells",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "The ethanol extract of Ecklonia cava attenuated hydrogen peroxide-induced oxidative stress in C2C12 myoblasts by upregulating Nrf2-mediated HO-1 and NQO-1 expression via MAPK pathway activation (ref [14]).",
+    "refNo": 14,
+    "title": "The cytoprotective effects of ethanol extract of Ecklonia cava against oxidative stress are associated with upregulation of Nrf2-mediated HO-1 and NQO-1 expression through activation of the MAPK pathway",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Fucodiphlorethol G purified from Ecklonia cava attenuated UVB-induced oxidative damage in human keratinocytes by scavenging ROS and reducing 8-isoprostane generation and DNA fragmentation (ref [15]).",
+    "refNo": 15,
+    "title": "Fucodiphlorethol G purified from Ecklonia cava suppresses ultraviolet B radiationinduced oxidative stress and cellular damage",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Inhibitory phlorotannins including eckol and dieckol from Ecklonia stolonifera significantly suppressed total ROS generation in kidney homogenate at 25 µg/mL (ref [17]).",
+    "refNo": 17,
+    "title": "Inhibitory phlorotannins from the edible brown alga Ecklonia stolonifera on total reactive oxygen species (ROS) generation",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Additionally, microwave-assisted enzymatic extraction of Ecklonia radiata yielded extracts with significantly higher total phlorotannin content and antioxidant activity (FRAP and ORAC) compared to conventional methods, highlighting the potential of optimized extraction for functional applications (ref [13]).",
+    "refNo": 13,
+    "title": "Improved antioxidant activities of brown seaweed Ecklonia radiata extracts prepared by microwave-assisted enzymatic extraction",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "EM exhibited potent activity against AChE, as did its isolated compounds PG, dibenzo [1,4] dioxine-2,4,7,9-tetraol, and eckol, highlighting its potential as a functional food ingredient for the management of neurodegenerative disorders (Kannan et al. 2013).",
+    "refNo": 1,
+    "title": "Inhibitory effect of extracts from the brown alga, Ecklonia stolonifera, on enzymes responsible for allergic reactions and degranulation in RBL-2H3 cells",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "EM exhibited potent activity against AChE, as did its isolated compounds PG, dibenzo [1,4] dioxine-2,4,7,9-tetraol, and eckol, highlighting its potential as a functional food ingredient for the management of neurodegenerative disorders (Kannan et al. 2013).",
+    "refNo": 4,
+    "title": "Dieckol, isolated from Ecklonia stolonifera, induces apoptosis in human hepatocellular carcinoma Hep3B cells",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Undoubtedly, Ecklonia species and their active metabolites are potential candidates for drug development, as shown by their plethora of activities against various diseases ref [24], ref [1], ref [17], ref [6], ref [7], ref [2], ref [15], ref [19], ref [12], ref [20], ref [18], ref [3], ref [27], ref [25].",
+    "refNo": 24,
+    "title": "Protein tyrosine phosphatase 1B and a-glucosidase inhibitory phlorotannins from edible brown algae, Ecklonia stolonifera and Eisenia bicyclis",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Undoubtedly, Ecklonia species and their active metabolites are potential candidates for drug development, as shown by their plethora of activities against various diseases ref [24], ref [1], ref [17], ref [6], ref [7], ref [2], ref [15], ref [19], ref [12], ref [20], ref [18], ref [3], ref [27], ref [25].",
+    "refNo": 1,
+    "title": "Inhibitory effect of extracts from the brown alga, Ecklonia stolonifera, on enzymes responsible for allergic reactions and degranulation in RBL-2H3 cells",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Undoubtedly, Ecklonia species and their active metabolites are potential candidates for drug development, as shown by their plethora of activities against various diseases ref [24], ref [1], ref [17], ref [6], ref [7], ref [2], ref [15], ref [19], ref [12], ref [20], ref [18], ref [3], ref [27], ref [25].",
+    "refNo": 17,
+    "title": "Inhibitory phlorotannins from the edible brown alga Ecklonia stolonifera on total reactive oxygen species (ROS) generation",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Undoubtedly, Ecklonia species and their active metabolites are potential candidates for drug development, as shown by their plethora of activities against various diseases ref [24], ref [1], ref [17], ref [6], ref [7], ref [2], ref [15], ref [19], ref [12], ref [20], ref [18], ref [3], ref [27], ref [25].",
+    "refNo": 6,
+    "title": "Isolation and identification of phlorotannins from Ecklonia stolonifera with antioxidant and hepatoprotective properties in tacrine-treated HepG2 cells",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Undoubtedly, Ecklonia species and their active metabolites are potential candidates for drug development, as shown by their plethora of activities against various diseases ref [24], ref [1], ref [17], ref [6], ref [7], ref [2], ref [15], ref [19], ref [12], ref [20], ref [18], ref [3], ref [27], ref [25].",
+    "refNo": 7,
+    "title": "Phlorotannin-rich Ecklonia cava reduces the production of betaamyloid by modulating alpha-and gamma-secretase expression and activity",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Undoubtedly, Ecklonia species and their active metabolites are potential candidates for drug development, as shown by their plethora of activities against various diseases ref [24], ref [1], ref [17], ref [6], ref [7], ref [2], ref [15], ref [19], ref [12], ref [20], ref [18], ref [3], ref [27], ref [25].",
+    "refNo": 2,
+    "title": "Protective effect of brown alga phlorotannins against hyper-inflammatory responses in lipopolysaccharide-induced sepsis models",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Undoubtedly, Ecklonia species and their active metabolites are potential candidates for drug development, as shown by their plethora of activities against various diseases ref [24], ref [1], ref [17], ref [6], ref [7], ref [2], ref [15], ref [19], ref [12], ref [20], ref [18], ref [3], ref [27], ref [25].",
+    "refNo": 15,
+    "title": "Fucodiphlorethol G purified from Ecklonia cava suppresses ultraviolet B radiationinduced oxidative stress and cellular damage",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Undoubtedly, Ecklonia species and their active metabolites are potential candidates for drug development, as shown by their plethora of activities against various diseases ref [24], ref [1], ref [17], ref [6], ref [7], ref [2], ref [15], ref [19], ref [12], ref [20], ref [18], ref [3], ref [27], ref [25].",
+    "refNo": 19,
+    "title": "Phloroglucinol (PG) purified from Ecklonia cava attenuates radiation-induced apoptosis in blood lymphocytes and splenocytes",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Undoubtedly, Ecklonia species and their active metabolites are potential candidates for drug development, as shown by their plethora of activities against various diseases ref [24], ref [1], ref [17], ref [6], ref [7], ref [2], ref [15], ref [19], ref [12], ref [20], ref [18], ref [3], ref [27], ref [25].",
+    "refNo": 12,
+    "title": "Phloroglucinol attenuates the cognitive deficits of the 5xfad mouse model of Alzheimer's disease",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Undoubtedly, Ecklonia species and their active metabolites are potential candidates for drug development, as shown by their plethora of activities against various diseases ref [24], ref [1], ref [17], ref [6], ref [7], ref [2], ref [15], ref [19], ref [12], ref [20], ref [18], ref [3], ref [27], ref [25].",
+    "refNo": 20,
+    "title": "Phloroglucinol protects small intestines of mice from ionizing radiation by regulating apoptosis-related molecules: a comparative immunohistochemical study",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Undoubtedly, Ecklonia species and their active metabolites are potential candidates for drug development, as shown by their plethora of activities against various diseases ref [24], ref [1], ref [17], ref [6], ref [7], ref [2], ref [15], ref [19], ref [12], ref [20], ref [18], ref [3], ref [27], ref [25].",
+    "refNo": 18,
+    "title": "Protective effect of dieckol isolated from Ecklonia cava against ethanol caused damage in vitro and in zebrafish model",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Undoubtedly, Ecklonia species and their active metabolites are potential candidates for drug development, as shown by their plethora of activities against various diseases ref [24], ref [1], ref [17], ref [6], ref [7], ref [2], ref [15], ref [19], ref [12], ref [20], ref [18], ref [3], ref [27], ref [25].",
+    "refNo": 3,
+    "title": "Protective effects of dieckol on N-nitrosodiethylamine induced hepatocarcinogenesis in rats",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Undoubtedly, Ecklonia species and their active metabolites are potential candidates for drug development, as shown by their plethora of activities against various diseases ref [24], ref [1], ref [17], ref [6], ref [7], ref [2], ref [15], ref [19], ref [12], ref [20], ref [18], ref [3], ref [27], ref [25].",
+    "refNo": 27,
+    "title": "Brown Alga Ecklonia cava polyphenol extract ameliorates hepatic lipogenesis, oxidative stress, and inflammation by activation of AMPK and SIRT1 in high-fat diet-induced obese mice",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "Undoubtedly, Ecklonia species and their active metabolites are potential candidates for drug development, as shown by their plethora of activities against various diseases ref [24], ref [1], ref [17], ref [6], ref [7], ref [2], ref [15], ref [19], ref [12], ref [20], ref [18], ref [3], ref [27], ref [25].",
+    "refNo": 25,
+    "title": "Fucosterol, isolated from Ecklonia stolonifera, inhibits adipogenesis through modulation of FoxO1 pathway in 3T3-L1 adipocytes",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Our review provides current information on the biological and pharmacological potential of this genus, which could be further used for the development of nutraceuticals ref [13], ref [26].",
+    "refNo": 13,
+    "title": "Improved antioxidant activities of brown seaweed Ecklonia radiata extracts prepared by microwave-assisted enzymatic extraction",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Our review provides current information on the biological and pharmacological potential of this genus, which could be further used for the development of nutraceuticals ref [13], ref [26].",
+    "refNo": 26,
+    "title": "Enzyme-treated Ecklonia cava extract inhibits adipogenesis through the downregulation of C/EBPa in 3T3-L1 adipocytes",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "Therefore, we recommend rapid screening and isolation to develop novel functional ingredients from Ecklonia species ref [11], ref [10].",
+    "refNo": 11,
+    "title": "Acetylcholinesterase inhibitory activity of phlorotannins isolated from the brown alga, Ecklonia maxima (Osbeck) Papenfuss",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Therefore, we recommend rapid screening and isolation to develop novel functional ingredients from Ecklonia species ref [11], ref [10].",
+    "refNo": 10,
+    "title": "Acidic oligosaccharide sugar chain, a marine-derived acidic oligosaccharide, inhibits the cytotoxicity and aggregation of amyloid beta protein",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "It is an important resource of the marine ecosystem, containing active metabolites with probable nutraceuticals that are rich sources of novel bioactive secondary metabolites and harbor diverse classes of health-promoting molecules, including essential dietary fiber, fatty acids, essential amino acids, and vitamins A, B, C, and E ref [28].",
+    "refNo": 28,
+    "title": "Chemical structures and bioactivities of sulfated polysaccharides from marine algae",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Taxonomic classification divides seaweed into three major classes based more on their pigments and coloration than their genetics: Rhodophyceae (red algae), Phaeophyceae (brown algae), and Chlorophyceae (green algae, also known as macroalgae) ref [28].",
+    "refNo": 28,
+    "title": "Chemical structures and bioactivities of sulfated polysaccharides from marine algae",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Brown algae have been used for thousands of years, but only in modern times have they been recognized to contain bioactive substances such as polysaccharides, lipids, and polyphenols, with various pharmacological properties ref [28].",
+    "refNo": 28,
+    "title": "Chemical structures and bioactivities of sulfated polysaccharides from marine algae",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "It is an important resource of the marine ecosystem, containing active metabolites with probable nutraceuticals that are rich sources of novel bioactive secondary metabolites and harbor diverse classes of health-promoting molecules, including essential dietary fiber, fatty acids, essential amino acids, and vitamins A, B, C, and E ref [29].",
+    "refNo": 29,
+    "title": "Protective effect of the edible brown alga Ecklonia stolonifera on doxorubicininduced hepatotoxicity in primary rat hepatocytes",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Taxonomic classification divides seaweed into three major classes based more on their pigments and coloration than their genetics: Rhodophyceae (red algae), Phaeophyceae (brown algae), and Chlorophyceae (green algae, also known as macroalgae) ref [29].",
+    "refNo": 29,
+    "title": "Protective effect of the edible brown alga Ecklonia stolonifera on doxorubicininduced hepatotoxicity in primary rat hepatocytes",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Brown algae have been used for thousands of years, but only in modern times have they been recognized to contain bioactive substances such as polysaccharides, lipids, and polyphenols, with various pharmacological properties ref [29].",
+    "refNo": 29,
+    "title": "Protective effect of the edible brown alga Ecklonia stolonifera on doxorubicininduced hepatotoxicity in primary rat hepatocytes",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "There are nine species: Ecklonia biruncinata, Ecklonia brevipes, Ecklonia cava (EC), Ecklonia fastigiata, Ecklonia kurome (EK), Ecklonia maxima (EM), Ecklonia muratii, Ecklonia radiate (ER), and Ecklonia stolonifera (ES) ref [29].",
+    "refNo": 29,
+    "title": "Protective effect of the edible brown alga Ecklonia stolonifera on doxorubicininduced hepatotoxicity in primary rat hepatocytes",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "EC is also used as an herbal remedy in the form of an extract called Seanol, a polyphenolic extract, and Ventol, a phlorotannin-rich natural agent with two major constituents, phlorotannins and sterols ref [29].",
+    "refNo": 29,
+    "title": "Protective effect of the edible brown alga Ecklonia stolonifera on doxorubicininduced hepatotoxicity in primary rat hepatocytes",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Ecklonia species are known to exhibit antioxidant ref [29], anti-inflammatory, antibacterial, anti-diabetic ref [29], anticancer ref [29], anti-photoaging ref [29], anti-HIV ref [29], anti-hypertensive ref [29], hepatoprotective ref [29], and anti-allergic activities ref [29].",
+    "refNo": 29,
+    "title": "Protective effect of the edible brown alga Ecklonia stolonifera on doxorubicininduced hepatotoxicity in primary rat hepatocytes",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Ecklonia species are known to exhibit antioxidant ref [29], anti-inflammatory, antibacterial, anti-diabetic ref [29], anticancer ref [29], anti-photoaging ref [29], anti-HIV ref [29], anti-hypertensive ref [29], hepatoprotective ref [29], and anti-allergic activities ref [29].",
+    "refNo": 29,
+    "title": "Protective effect of the edible brown alga Ecklonia stolonifera on doxorubicininduced hepatotoxicity in primary rat hepatocytes",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Ecklonia species are known to exhibit antioxidant ref [29], anti-inflammatory, antibacterial, anti-diabetic ref [29], anticancer ref [29], anti-photoaging ref [29], anti-HIV ref [29], anti-hypertensive ref [29], hepatoprotective ref [29], and anti-allergic activities ref [29].",
+    "refNo": 29,
+    "title": "Protective effect of the edible brown alga Ecklonia stolonifera on doxorubicininduced hepatotoxicity in primary rat hepatocytes",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Ecklonia species are known to exhibit antioxidant ref [29], anti-inflammatory, antibacterial, anti-diabetic ref [29], anticancer ref [29], anti-photoaging ref [29], anti-HIV ref [29], anti-hypertensive ref [29], hepatoprotective ref [29], and anti-allergic activities ref [29].",
+    "refNo": 29,
+    "title": "Protective effect of the edible brown alga Ecklonia stolonifera on doxorubicininduced hepatotoxicity in primary rat hepatocytes",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Ecklonia species are known to exhibit antioxidant ref [29], anti-inflammatory, antibacterial, anti-diabetic ref [29], anticancer ref [29], anti-photoaging ref [29], anti-HIV ref [29], anti-hypertensive ref [29], hepatoprotective ref [29], and anti-allergic activities ref [29].",
+    "refNo": 29,
+    "title": "Protective effect of the edible brown alga Ecklonia stolonifera on doxorubicininduced hepatotoxicity in primary rat hepatocytes",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Ecklonia species are known to exhibit antioxidant ref [29], anti-inflammatory, antibacterial, anti-diabetic ref [29], anticancer ref [29], anti-photoaging ref [29], anti-HIV ref [29], anti-hypertensive ref [29], hepatoprotective ref [29], and anti-allergic activities ref [29].",
+    "refNo": 29,
+    "title": "Protective effect of the edible brown alga Ecklonia stolonifera on doxorubicininduced hepatotoxicity in primary rat hepatocytes",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Ecklonia species are known to exhibit antioxidant ref [29], anti-inflammatory, antibacterial, anti-diabetic ref [29], anticancer ref [29], anti-photoaging ref [29], anti-HIV ref [29], anti-hypertensive ref [29], hepatoprotective ref [29], and anti-allergic activities ref [29].",
+    "refNo": 29,
+    "title": "Protective effect of the edible brown alga Ecklonia stolonifera on doxorubicininduced hepatotoxicity in primary rat hepatocytes",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Ecklonia species are known to exhibit antioxidant ref [29], anti-inflammatory, antibacterial, anti-diabetic ref [29], anticancer ref [29], anti-photoaging ref [29], anti-HIV ref [29], anti-hypertensive ref [29], hepatoprotective ref [29], and anti-allergic activities ref [29].",
+    "refNo": 29,
+    "title": "Protective effect of the edible brown alga Ecklonia stolonifera on doxorubicininduced hepatotoxicity in primary rat hepatocytes",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Plenty of information regarding the pharmacological activities of terrestrial plants is available; however, such information is limited for marine species ref [29].",
+    "refNo": 29,
+    "title": "Protective effect of the edible brown alga Ecklonia stolonifera on doxorubicininduced hepatotoxicity in primary rat hepatocytes",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "A handful of excellent studies are available regarding the pharmacological activities of Ecklonia ref [29].",
+    "refNo": 29,
+    "title": "Protective effect of the edible brown alga Ecklonia stolonifera on doxorubicininduced hepatotoxicity in primary rat hepatocytes",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "The water-soluble polyphenols found in land-based plants have a half-life of about 30 min, and their antioxidant powers decrease very quickly ref [29].",
+    "refNo": 29,
+    "title": "Protective effect of the edible brown alga Ecklonia stolonifera on doxorubicininduced hepatotoxicity in primary rat hepatocytes",
+    "marker_text": "[29]"
+  }
+]

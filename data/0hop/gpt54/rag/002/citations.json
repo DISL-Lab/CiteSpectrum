@@ -1,0 +1,644 @@
+[
+  {
+    "sentence": "By contrast, work on complex organismal integration and functional modeling often depends on understanding species-specific and cross-species physiology at the level of coordinated systems, as illustrated by computational and experimental efforts to compare human and animal movement and neuromuscular control ref [8].",
+    "refNo": 8,
+    "title": "Animal models of human prostate cancer: the consensus report of the New York meeting of the Mouse Models of Human Cancers Consortium Prostate Pathology Committee.",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Human cognition is frequently treated as morally distinctive, yet accounts of the evolutionary and developmental history of human thinking emphasize continuity as well as difference across species ref [6].",
+    "refNo": 6,
+    "title": "Functional Coupling of Human Microphysiology Systems: Intestine, Liver, Kidney Proximal Tubule, Blood-Brain Barrier and Skeletal Muscle",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Similarly, empirical work on human-animal interaction highlights biologically grounded interspecies relationships rather than a simple human/animal divide ref [17].",
+    "refNo": 17,
+    "title": "The Microbiome and Human Biology.",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Animal systems remain indispensable for studying organism-level development, physiology, and disease processes that cannot be fully captured in vitro, particularly when questions concern cell migration, tissue integration, immune interactions, or developmental timing ref [23].",
+    "refNo": 23,
+    "title": "An investigation of human-animal interactions and empathy as related to pet preference, ownership, attachment, and attitudes in children",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "The ethical significance of these aims depends partly on recognizing that the experimental value of chimeras arises from the same strengths that make animal models broadly valuable—whole-organism complexity, developmental context, and systemic integration ref [23].",
+    "refNo": 23,
+    "title": "An investigation of human-animal interactions and empathy as related to pet preference, ownership, attachment, and attitudes in children",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Clarifying this dual role—as both an extension of established animal-model methodology and a potentially transformative research platform—is essential for evaluating later ethical arguments ref [23].",
+    "refNo": 23,
+    "title": "An investigation of human-animal interactions and empathy as related to pet preference, ownership, attachment, and attitudes in children",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "The integration of organoid biology with microphysiological systems has enabled more complex tissue architectures and multicellular interactions, as illustrated by retina-on-a-chip platforms that combine organoid-derived structures with controlled chip environments to approximate layered human tissue organization ref [15].",
+    "refNo": 15,
+    "title": "Wolves outperform dogs in following human social cues",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Accordingly, ethical assessment should not collapse these approaches into a single category: organoid-chip models function less as conceptual equivalents to chimeras than as adjacent or sometimes substitutive methodologies whose availability may nonetheless affect proportionality and necessity judgments in chimera research ref [15].",
+    "refNo": 15,
+    "title": "Wolves outperform dogs in following human social cues",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Conventional animal disease models remain central in biomedicine, including genetically engineered mouse models for neurodegeneration and cancer, but their translational limitations are well recognized because pathology is often induced in nonhuman biological backgrounds rather than arising in human cells or tissues ref [13], ref [16].",
+    "refNo": 13,
+    "title": "A comparative analysis of animals' understanding of the human pointing gesture",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Conventional animal disease models remain central in biomedicine, including genetically engineered mouse models for neurodegeneration and cancer, but their translational limitations are well recognized because pathology is often induced in nonhuman biological backgrounds rather than arising in human cells or tissues ref [13], ref [16].",
+    "refNo": 16,
+    "title": "Relationships between human-animal interactions and productivity of commercial dairy cows.",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Human stem cell-derived colonoids can model pathogen-induced epithelial injury in a fully human tissue context, while linked microphysiology systems attempt to reproduce functional interactions among intestine, liver, kidney, blood-brain barrier, and muscle without creating interspecies organisms ref [17], ref [10].",
+    "refNo": 17,
+    "title": "The Microbiome and Human Biology.",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Human stem cell-derived colonoids can model pathogen-induced epithelial injury in a fully human tissue context, while linked microphysiology systems attempt to reproduce functional interactions among intestine, liver, kidney, blood-brain barrier, and muscle without creating interspecies organisms ref [17], ref [10].",
+    "refNo": 10,
+    "title": "Host Species Restriction of Middle East Respiratory Syndrome Coronavirus through Its Receptor, Dipeptidyl Peptidase 4",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Questions involving systemic development, host-environment interactions, and species-specific barriers to infection may require whole-organism contexts; for example, host restriction of MERS coronavirus depends on interspecies differences in the DPP4 receptor ref [19].",
+    "refNo": 19,
+    "title": "Ubiquitination-Deficient Mutations in Human Piwi Cause Male Infertility by Impairing Histone-to-Protamine Exchange during Spermiogenesis.",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Evidence from rodent phenotyping shows that outcomes can vary substantially across laboratories because of strain background, housing, handling, experimental design, and analytic choices, making replicability a central scientific concern rather than a merely technical one ref [7].",
+    "refNo": 7,
+    "title": "Genetic mouse models of brain ageing and Alzheimer's disease.",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "The ethical balance between potential benefit and animal use is therefore partly empirical: highly invasive or morally controversial chimera experiments are harder to justify when anticipated knowledge gains remain uncertain because of broader reproducibility problems in preclinical research ref [7].",
+    "refNo": 7,
+    "title": "Genetic mouse models of brain ageing and Alzheimer's disease.",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Rather, claims that chimeras will close gaps between animal models and human biology must be assessed against the quality controls, reporting standards, and replication practices required to make such models genuinely informative for biomedicine ref [7].",
+    "refNo": 7,
+    "title": "Genetic mouse models of brain ageing and Alzheimer's disease.",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Comparative work on the evolution of human cognition supports the idea that humanness is best understood as a cluster of graded psychological and cooperative capacities rather than a metaphysically sharp essence, thereby weakening purely boundary-based objections ref [6].",
+    "refNo": 6,
+    "title": "Functional Coupling of Human Microphysiology Systems: Intestine, Liver, Kidney Proximal Tubule, Blood-Brain Barrier and Skeletal Muscle",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "In this sense, debates over dignity in chimera research often turn on a deeper disagreement between species exceptionalism and a more gradualist account of moral status grounded in cognitive and relational capacities ref [6].",
+    "refNo": 6,
+    "title": "Functional Coupling of Human Microphysiology Systems: Intestine, Liver, Kidney Proximal Tubule, Blood-Brain Barrier and Skeletal Muscle",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Comparative work on animal emotion and affective systems supports the view that many nonhuman animals possess forms of sentience, affective experience, and motivational life that are morally salient independently of their taxonomic classification ref [8].",
+    "refNo": 8,
+    "title": "Animal models of human prostate cancer: the consensus report of the New York meeting of the Mouse Models of Human Cancers Consortium Prostate Pathology Committee.",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Evidence that nonhuman animals can interpret human communicative cues, including the pointing gesture, suggests continuity rather than an absolute divide between human and animal social cognition ref [16].",
+    "refNo": 16,
+    "title": "Relationships between human-animal interactions and productivity of commercial dairy cows.",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Instead, morally relevant concern is better directed toward whether chimeric animals might acquire enhanced cognitive or socio-affective traits that would warrant revised standards of welfare or even partial reconsideration of their moral standing ref [8] ref [16].",
+    "refNo": 8,
+    "title": "Animal models of human prostate cancer: the consensus report of the New York meeting of the Mouse Models of Human Cancers Consortium Prostate Pathology Committee.",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Instead, morally relevant concern is better directed toward whether chimeric animals might acquire enhanced cognitive or socio-affective traits that would warrant revised standards of welfare or even partial reconsideration of their moral standing ref [8] ref [16].",
+    "refNo": 16,
+    "title": "Relationships between human-animal interactions and productivity of commercial dairy cows.",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Defenses of animal models in biomedical research stress that cross-species experimentation already relies on substantial biological and functional overlap between humans and other animals ref [23].",
+    "refNo": 23,
+    "title": "An investigation of human-animal interactions and empathy as related to pet preference, ownership, attachment, and attitudes in children",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Accordingly, the strongest ethical position is neither simple prohibition on the basis of species mixing nor unqualified permissibility; rather, it requires case-by-case assessment of how particular chimeric modifications may alter welfare interests, cognitive capacities, and the social meaning attributed to human-animal boundary transgression ref [23] ref [8].",
+    "refNo": 23,
+    "title": "An investigation of human-animal interactions and empathy as related to pet preference, ownership, attachment, and attitudes in children",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Accordingly, the strongest ethical position is neither simple prohibition on the basis of species mixing nor unqualified permissibility; rather, it requires case-by-case assessment of how particular chimeric modifications may alter welfare interests, cognitive capacities, and the social meaning attributed to human-animal boundary transgression ref [23] ref [8].",
+    "refNo": 8,
+    "title": "Animal models of human prostate cancer: the consensus report of the New York meeting of the Mouse Models of Human Cancers Consortium Prostate Pathology Committee.",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "The relevance of such capacities is reinforced by work on pain mechanisms, which shows that traits central to welfare assessment are biologically distributed rather than uniquely human ref [6].",
+    "refNo": 6,
+    "title": "Functional Coupling of Human Microphysiology Systems: Intestine, Liver, Kidney Proximal Tubule, Blood-Brain Barrier and Skeletal Muscle",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Likewise, comparative cognition findings indicating sophisticated responsiveness to human social cues in nonhuman animals complicate any simple equation between humanness and morally significant cognition ref [16].",
+    "refNo": 16,
+    "title": "Relationships between human-animal interactions and productivity of commercial dairy cows.",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Evidence from human-animal interaction research further supports a gradient view of moral considerability, insofar as animals’ social responsiveness and relational engagement are treated as ethically salient in practice, not merely instrumentally relevant to husbandry ref [14].",
+    "refNo": 14,
+    "title": "Pain genetics: past, present and future.",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "In parallel, broader biological work on the microbiome emphasizes that even the category of the human organism is already materially composite and interdependent, weakening appeals to purity or fixed species essence as a basis for dignity claims ref [8].",
+    "refNo": 8,
+    "title": "Animal models of human prostate cancer: the consensus report of the New York meeting of the Mouse Models of Human Cancers Consortium Prostate Pathology Committee.",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "This framework shifts ethical assessment from policing species boundaries to evaluating empirically grounded traits and the corresponding obligations owed to the resulting beings ref [6], ref [8].",
+    "refNo": 6,
+    "title": "Functional Coupling of Human Microphysiology Systems: Intestine, Liver, Kidney Proximal Tubule, Blood-Brain Barrier and Skeletal Muscle",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "This framework shifts ethical assessment from policing species boundaries to evaluating empirically grounded traits and the corresponding obligations owed to the resulting beings ref [6], ref [8].",
+    "refNo": 8,
+    "title": "Animal models of human prostate cancer: the consensus report of the New York meeting of the Mouse Models of Human Cancers Consortium Prostate Pathology Committee.",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Research on glutamatergic dysfunction in human cognitive disorders illustrates why neural organization, rather than species membership alone, is often treated as normatively significant in these discussions ref [22].",
+    "refNo": 22,
+    "title": "Maladaptive Plasticity for Motor Recovery after Stroke: Mechanisms and Approaches",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Evidence of conserved receptor systems across species, such as estrogenic interactions observed in both human and rainbow trout receptors, underscores that some biologically important functions already traverse species lines ref [20].",
+    "refNo": 20,
+    "title": "Glutamate synapses in human cognitive disorders.",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Similarly, studies of gut–brain interactions in both human and animal models suggest that mechanisms often invoked as distinctively human may rest on shared physiological substrates ref [6].",
+    "refNo": 6,
+    "title": "Functional Coupling of Human Microphysiology Systems: Intestine, Liver, Kidney Proximal Tubule, Blood-Brain Barrier and Skeletal Muscle",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Work on human Piwi mutations affecting spermiogenesis highlights the moral sensitivity attached to human germline processes ref [21], while discussions of maladaptive plasticity after stroke show how comparatively modest biological changes can have substantial effects on function and person-relevant capacities ref [8].",
+    "refNo": 21,
+    "title": "Probiotic Lactobacillus casei strain Shirota relieves stress‐associated symptoms by modulating the gut–brain interaction in human and animal models",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Work on human Piwi mutations affecting spermiogenesis highlights the moral sensitivity attached to human germline processes ref [21], while discussions of maladaptive plasticity after stroke show how comparatively modest biological changes can have substantial effects on function and person-relevant capacities ref [8].",
+    "refNo": 8,
+    "title": "Animal models of human prostate cancer: the consensus report of the New York meeting of the Mouse Models of Human Cancers Consortium Prostate Pathology Committee.",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Evidence that empathy and attitudes toward animals vary with children’s pet preferences, ownership, and attachment suggests that moral concern for animals is at least partly mediated by social familiarity and emotionally salient human–animal relationships rather than by stable, species-wide metaphysical principles ref [5].",
+    "refNo": 5,
+    "title": "Merging organoid and organ-on-a-chip technology to generate complex multi-layer tissue models in a human retina-on-a-chip platform",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "At the same time, such findings do not eliminate concern, since expanding human-like traits in research animals could predictably intensify obligations of care by increasing perceived kinship and vulnerability ref [5].",
+    "refNo": 5,
+    "title": "Merging organoid and organ-on-a-chip technology to generate complex multi-layer tissue models in a human retina-on-a-chip platform",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Psychological evidence about empathy and attachment helps explain why boundary-crossing is often experienced as morally troubling, while also suggesting that these intuitions should not be treated as decisive without further normative argument ref [5].",
+    "refNo": 5,
+    "title": "Merging organoid and organ-on-a-chip technology to generate complex multi-layer tissue models in a human retina-on-a-chip platform",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Stress is especially important here because sustained or repeated stress exposure can alter neurodevelopment, behavior, and cognition across the lifespan, potentially generating harms that extend beyond transient discomfort ref [24].",
+    "refNo": 24,
+    "title": "Effects of stress throughout the lifespan on the brain, behaviour and cognition",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Chronic pain is not merely prolonged nociception but a complex condition involving altered physiological and behavioral states, making it difficult to detect and easy to underestimate in nonhuman subjects ref [11].",
+    "refNo": 11,
+    "title": "Reproducibility and replicability of rodent phenotyping in preclinical studies",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Related inflammatory pathways, including interleukin-1beta signaling, are implicated in pain and inflammation, underscoring that invasive procedures or graft-related complications may produce biologically significant suffering even when overt signs are limited ref [16].",
+    "refNo": 16,
+    "title": "Relationships between human-animal interactions and productivity of commercial dairy cows.",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Evidence that human disturbance can shift wildlife toward increased nocturnality illustrates how anthropogenic environments can reshape activity patterns in ways relevant to stress and behavioral integrity ref [9].",
+    "refNo": 9,
+    "title": "Enterohemorrhagic Escherichia coli Reduces Mucus and Intermicrovillar Bridges in Human Stem Cell-Derived Colonoids",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Work in affective neuroscience supports the view that many animals possess conserved emotional systems relevant to pain, fear, distress, and social attachment, which strengthens the ethical case for treating behavioral and physiological signs of suffering as morally significant rather than merely instrumental endpoints ref [8].",
+    "refNo": 8,
+    "title": "Animal models of human prostate cancer: the consensus report of the New York meeting of the Mouse Models of Human Cancers Consortium Prostate Pathology Committee.",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Comparative studies of animals’ understanding of human pointing gestures indicate that some nonhuman species can already track human social cues to a meaningful degree ref [16].",
+    "refNo": 16,
+    "title": "Relationships between human-animal interactions and productivity of commercial dairy cows.",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "At the same time, defenders of animal-based research argue that animal models remain indispensable in many areas of biology and medicine, which is often extended to justify chimera studies when no comparably informative alternative exists ref [23].",
+    "refNo": 23,
+    "title": "An investigation of human-animal interactions and empathy as related to pet preference, ownership, attachment, and attitudes in children",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Yet even within such a framework, evidence from livestock systems shows that human–animal interactions themselves can substantially affect stress, fear, and welfare outcomes ref [12].",
+    "refNo": 12,
+    "title": "Affective Neuroscience: The Foundations of Human and Animal Emotions",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Work on pain genetics shows that nociception is shaped by complex molecular pathways rather than by a single uniform mechanism, implying that genetic or cellular humanization could modify pain sensitivity or analgesic response in experimentally significant ways ref [6].",
+    "refNo": 6,
+    "title": "Functional Coupling of Human Microphysiology Systems: Intestine, Liver, Kidney Proximal Tubule, Blood-Brain Barrier and Skeletal Muscle",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Evidence on gene–environment interaction in psychological traits indicates that behavioral and affective outcomes emerge from dynamic interplay between biological endowment and developmental context, making it hazardous to infer welfare impact from genotype alone ref [14].",
+    "refNo": 14,
+    "title": "Pain genetics: past, present and future.",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Likewise, studies of prefrontal cortex maturation emphasize the prolonged, plastic, and experience-dependent development of neural systems implicated in higher cognition, impulse control, and social behavior ref [19].",
+    "refNo": 19,
+    "title": "Ubiquitination-Deficient Mutations in Human Piwi Cause Male Infertility by Impairing Histone-to-Protamine Exchange during Spermiogenesis.",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Evidence that human contact can measurably reduce cortisol in shelter dogs illustrates that welfare is responsive to social environment and that stress mitigation may require species- and context-sensitive enrichment rather than minimal survival conditions ref [22].",
+    "refNo": 22,
+    "title": "Maladaptive Plasticity for Motor Recovery after Stroke: Mechanisms and Approaches",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "For chimeric animals with potentially altered sensory, cognitive, or social capacities, ethical review should therefore incorporate enhanced behavioral surveillance, conservative endpoints, and readiness to revise housing and handling protocols when signs of atypical suffering emerge ref [6]; ref [22].",
+    "refNo": 6,
+    "title": "Functional Coupling of Human Microphysiology Systems: Intestine, Liver, Kidney Proximal Tubule, Blood-Brain Barrier and Skeletal Muscle",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "For chimeric animals with potentially altered sensory, cognitive, or social capacities, ethical review should therefore incorporate enhanced behavioral surveillance, conservative endpoints, and readiness to revise housing and handling protocols when signs of atypical suffering emerge ref [6]; ref [22].",
+    "refNo": 22,
+    "title": "Maladaptive Plasticity for Motor Recovery after Stroke: Mechanisms and Approaches",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Evidence from laboratory rat studies shows that light, noise, cage cleaning, and in-house transport can all induce stress and disrupt welfare-relevant physiological and behavioral states, underscoring that routine background conditions are ethically significant rather than negligible ref [18].",
+    "refNo": 18,
+    "title": "Estrogen-like activity of perfluoroalkyl acids in vivo and interaction with human and rainbow trout estrogen receptors in vitro.",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Human-altered environments often affect animals in multimodal ways, with interacting visual, acoustic, and other sensory disturbances shaping perception, vigilance, and performance ref [21].",
+    "refNo": 21,
+    "title": "Probiotic Lactobacillus casei strain Shirota relieves stress‐associated symptoms by modulating the gut–brain interaction in human and animal models",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "In parallel, research on the visitor effect in zoos demonstrates that merely being exposed to human presence can measurably influence animal behavior and stress, although the magnitude and direction of these effects vary by species and context ref [9].",
+    "refNo": 9,
+    "title": "Enterohemorrhagic Escherichia coli Reduces Mucus and Intermicrovillar Bridges in Human Stem Cell-Derived Colonoids",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "It should include species- and phenotype-sensitive monitoring of stress responses, careful management of noise, light, transport, and cleaning routines, and attention to whether humanized traits create new vulnerabilities to stimulation, confinement, or observation ref [18], ref [21], ref [9].",
+    "refNo": 18,
+    "title": "Estrogen-like activity of perfluoroalkyl acids in vivo and interaction with human and rainbow trout estrogen receptors in vitro.",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "It should include species- and phenotype-sensitive monitoring of stress responses, careful management of noise, light, transport, and cleaning routines, and attention to whether humanized traits create new vulnerabilities to stimulation, confinement, or observation ref [18], ref [21], ref [9].",
+    "refNo": 21,
+    "title": "Probiotic Lactobacillus casei strain Shirota relieves stress‐associated symptoms by modulating the gut–brain interaction in human and animal models",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "It should include species- and phenotype-sensitive monitoring of stress responses, careful management of noise, light, transport, and cleaning routines, and attention to whether humanized traits create new vulnerabilities to stimulation, confinement, or observation ref [18], ref [21], ref [9].",
+    "refNo": 9,
+    "title": "Enterohemorrhagic Escherichia coli Reduces Mucus and Intermicrovillar Bridges in Human Stem Cell-Derived Colonoids",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Standard laboratory indicators are often calibrated for conventional strains and species, yet even ordinary rodent phenotyping shows substantial reproducibility and replicability problems across sites, implying that distress, altered behavior, or cognitive change may be misread when animals fall outside established baselines ref [7].",
+    "refNo": 7,
+    "title": "Genetic mouse models of brain ageing and Alzheimer's disease.",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Studies of livestock show that the quality of human-animal interactions is closely associated with stress responses during handling, indicating that welfare harms are not limited to invasive procedures but also arise from routine contact and management practices ref [19].",
+    "refNo": 19,
+    "title": "Ubiquitination-Deficient Mutations in Human Piwi Cause Male Infertility by Impairing Histone-to-Protamine Exchange during Spermiogenesis.",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Related literature on animal-assisted intervention likewise emphasizes that cross-species interaction can generate both benefits and risks, underscoring that human presence is ethically ambivalent rather than uniformly benign ref [23].",
+    "refNo": 23,
+    "title": "An investigation of human-animal interactions and empathy as related to pet preference, ownership, attachment, and attitudes in children",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Research on empathy and attitudes toward animals suggests that perceived closeness to humans can shape the strength of protective concern people extend to nonhuman beings ref [5].",
+    "refNo": 5,
+    "title": "Merging organoid and organ-on-a-chip technology to generate complex multi-layer tissue models in a human retina-on-a-chip platform",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Accordingly, one influential line of argument holds that as uncertainty about psychologically significant humanization increases, so too do obligations to refine procedures, restrict endpoints, and justify continued use under more demanding welfare standards ref [5], ref [7].",
+    "refNo": 5,
+    "title": "Merging organoid and organ-on-a-chip technology to generate complex multi-layer tissue models in a human retina-on-a-chip platform",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Accordingly, one influential line of argument holds that as uncertainty about psychologically significant humanization increases, so too do obligations to refine procedures, restrict endpoints, and justify continued use under more demanding welfare standards ref [5], ref [7].",
+    "refNo": 7,
+    "title": "Genetic mouse models of brain ageing and Alzheimer's disease.",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Evidence from developmental biology and physiology underscores that prenatal conditions can have durable effects on neural and bodily organization, including stress responsivity, cognition, and epigenetic patterning, suggesting that later-stage chimeras cannot be assessed solely by reference to early embryonic cell proportions ref [24], ref [42].",
+    "refNo": 24,
+    "title": "Effects of stress throughout the lifespan on the brain, behaviour and cognition",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Evidence from developmental biology and physiology underscores that prenatal conditions can have durable effects on neural and bodily organization, including stress responsivity, cognition, and epigenetic patterning, suggesting that later-stage chimeras cannot be assessed solely by reference to early embryonic cell proportions ref [24], ref [42].",
+    "refNo": 42,
+    "title": "Oxidative stress and cardiovascular injury: Part II: animal and human studies.",
+    "marker_text": "[42]"
+  },
+  {
+    "sentence": "Work on heparan sulphate proteoglycans highlights how molecular regulators can shape multiple aspects of mammalian physiology, making targeted developmental control ethically less predictable than simple tissue replacement models imply ref [40].",
+    "refNo": 40,
+    "title": "Diet–microbiota interactions as moderators of human metabolism",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "Likewise, research on emotionally salient memory consolidation and lifelong stress effects illustrates how small alterations in neural development may have disproportionate behavioral significance ref [37], ref [24].",
+    "refNo": 37,
+    "title": "DNA methylation differences after exposure to prenatal famine are common and timing- and sex-specific.",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "Likewise, research on emotionally salient memory consolidation and lifelong stress effects illustrates how small alterations in neural development may have disproportionate behavioral significance ref [37], ref [24].",
+    "refNo": 24,
+    "title": "Effects of stress throughout the lifespan on the brain, behaviour and cognition",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Host–microbiota interactions, infectious susceptibility, and cardiovascular injury pathways all show that phenotype emerges from complex cross-system interactions rather than from isolated organ identity alone ref [39], ref [10], ref [12].",
+    "refNo": 39,
+    "title": "The amygdala modulates the consolidation of memories of emotionally arousing experiences.",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "Host–microbiota interactions, infectious susceptibility, and cardiovascular injury pathways all show that phenotype emerges from complex cross-system interactions rather than from isolated organ identity alone ref [39], ref [10], ref [12].",
+    "refNo": 10,
+    "title": "Host Species Restriction of Middle East Respiratory Syndrome Coronavirus through Its Receptor, Dipeptidyl Peptidase 4",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Host–microbiota interactions, infectious susceptibility, and cardiovascular injury pathways all show that phenotype emerges from complex cross-system interactions rather than from isolated organ identity alone ref [39], ref [10], ref [12].",
+    "refNo": 12,
+    "title": "Affective Neuroscience: The Foundations of Human and Animal Emotions",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Arguments in favor typically stress that animal systems remain indispensable for studying complex developmental processes that cannot yet be modeled adequately in vitro, especially when the goal is eventual organ generation or translational insight for human disease ref [23].",
+    "refNo": 23,
+    "title": "An investigation of human-animal interactions and empathy as related to pet preference, ownership, attachment, and attitudes in children",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Ethical review therefore commonly turns on proportionality: whether the hoped-for knowledge or therapeutic benefit is weighty enough to warrant additional developmental progression in an animal host ref [23].",
+    "refNo": 23,
+    "title": "An investigation of human-animal interactions and empathy as related to pet preference, ownership, attachment, and attitudes in children",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "The stronger the claim that animal models are essential for medically important advances, the stronger the accompanying responsibility to specify limits that prevent reproductive misuse, unnecessary developmental extension, or ethically opaque movement from laboratory proof of concept to human therapeutic use ref [23].",
+    "refNo": 23,
+    "title": "An investigation of human-animal interactions and empathy as related to pet preference, ownership, attachment, and attitudes in children",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Work on developmental checkpoints highlights how early gene-regulatory pausing can redirect lineage commitment in ways that are difficult to predict across species boundaries, strengthening arguments for staged oversight and scientifically justified stopping points rather than open-ended embryo development ref [11].",
+    "refNo": 11,
+    "title": "Reproducibility and replicability of rodent phenotyping in preclinical studies",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "This concern is amplified when protocols aim to generate transplantable tissues, because signaling pathways implicated in fibrosis and tissue remodeling may alter both efficacy and welfare outcomes in host animals ref [12].",
+    "refNo": 12,
+    "title": "Affective Neuroscience: The Foundations of Human and Animal Emotions",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Reviews of host–microbiome relations emphasize that organismal function is not reducible to a single engineered organ or lineage, but emerges from multi-level interactions among tissues, immunity, and microbial ecologies ref [8].",
+    "refNo": 8,
+    "title": "Animal models of human prostate cancer: the consensus report of the New York meeting of the Mouse Models of Human Cancers Consortium Prostate Pathology Committee.",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Related discussion of microorganism–microplastic interactions in animal and human health illustrates how clinically relevant phenotypes can be shaped by environmental and microbial cofactors that are hard to model prospectively ref [46].",
+    "refNo": 46,
+    "title": "Immunomodulation by helminth parasites: defining mechanisms and mediators.",
+    "marker_text": "[46]"
+  },
+  {
+    "sentence": "Immunological complexity remains a major barrier: mechanisms of immunomodulation described in helminth research show how profound, context-sensitive immune effects can be, underscoring the risk of overconfident claims about tolerance, rejection, or long-term compatibility in chimeric tissues ref [7].",
+    "refNo": 7,
+    "title": "Genetic mouse models of brain ageing and Alzheimer's disease.",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Research on animal stress and human-mediated environmental effects shows that animal welfare can be significantly altered by social exposure, handling, and observation contexts, indicating that translational chimera protocols cannot treat housing and husbandry as ethically secondary variables ref [9].",
+    "refNo": 9,
+    "title": "Enterohemorrhagic Escherichia coli Reduces Mucus and Intermicrovillar Bridges in Human Stem Cell-Derived Colonoids",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "The broader animal-welfare literature suggests that human presence and environmental disturbance can change behavior and stress profiles in captive animals, sometimes in subtle but cumulative ways ref [9].",
+    "refNo": 9,
+    "title": "Enterohemorrhagic Escherichia coli Reduces Mucus and Intermicrovillar Bridges in Human Stem Cell-Derived Colonoids",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "On this view, translational permissibility depends not only on what tissues are produced, but also on whether the developmental and procurement pathway can be justified under robust, context-sensitive standards of animal welfare ref [9].",
+    "refNo": 9,
+    "title": "Enterohemorrhagic Escherichia coli Reduces Mucus and Intermicrovillar Bridges in Human Stem Cell-Derived Colonoids",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Work on cross-species interactions in protein misfolding illustrates how pathogenic processes can be modified by heterologous biological environments, raising caution about unforeseen long-term effects in transplanted chimeric tissues ref [47].",
+    "refNo": 47,
+    "title": "Cross-Seeding of Misfolded Proteins: Implications for Etiology and Pathogenesis of Protein Misfolding Diseases",
+    "marker_text": "[47]"
+  },
+  {
+    "sentence": "Similarly, research on co-infections and multiparasitism underscores that mixed biological systems can generate emergent host-pathogen dynamics not captured by single-agent models ref [8].",
+    "refNo": 8,
+    "title": "Animal models of human prostate cancer: the consensus report of the New York meeting of the Mouse Models of Human Cancers Consortium Prostate Pathology Committee.",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Early-life host-microbial interactions are known to shape durable immune homeostasis, suggesting that tissues produced in xenogeneic gestational or developmental settings may carry clinically relevant but poorly characterized immunological signatures ref [10].",
+    "refNo": 10,
+    "title": "Host Species Restriction of Middle East Respiratory Syndrome Coronavirus through Its Receptor, Dipeptidyl Peptidase 4",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Relatedly, studies of pesticide mixtures in human and animal models show that combined exposures often produce effects not inferable from isolated components, reinforcing the general ethical lesson that complex biological integration can amplify uncertainty during translation ref [49].",
+    "refNo": 49,
+    "title": "Discovery and development of pyrotinib: A novel irreversible EGFR/HER2 dual tyrosine kinase inhibitor with favorable safety profiles for the treatment of breast cancer",
+    "marker_text": "[49]"
+  },
+  {
+    "sentence": "At the same time, translational urgency is often justified by unmet clinical need, as seen broadly in drug development efforts that emphasize favorable safety profiles while advancing innovative therapies ref [50].",
+    "refNo": 50,
+    "title": "The importance of multiparasitism: examining the consequences of co-infections for human and animal health",
+    "marker_text": "[50]"
+  },
+  {
+    "sentence": "A minimal starting point is the widely accepted research-governance principle that animal models remain important for studying complex physiological processes that cannot yet be fully reproduced in vitro or in silico; this consideration is frequently invoked to support permitting chimera studies under controlled conditions rather than adopting blanket prohibitions ref [23].",
+    "refNo": 23,
+    "title": "An investigation of human-animal interactions and empathy as related to pet preference, ownership, attachment, and attitudes in children",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "In practice, this supports tiered review systems in which projects involving neural contribution, reproductive tissues, or development beyond sensitive stages trigger heightened scrutiny, whereas less ethically fraught applications may proceed through ordinary animal-research review pathways ref [23].",
+    "refNo": 23,
+    "title": "An investigation of human-animal interactions and empathy as related to pet preference, ownership, attachment, and attitudes in children",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Accordingly, a defensible governance framework combines scientific necessity, procedural transparency, and opportunities for public input, while avoiding the false dichotomy between uncritical permissiveness and categorical bans ref [23].",
+    "refNo": 23,
+    "title": "An investigation of human-animal interactions and empathy as related to pet preference, ownership, attachment, and attitudes in children",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Evidence that human social cues are differentially perceived across species, as illustrated in comparative work on wolves and dogs, underscores that interspecies interaction is cognitively and behaviorally complex rather than symbolically uniform ref [15].",
+    "refNo": 15,
+    "title": "Wolves outperform dogs in following human social cues",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Research on human–animal interactions in dairy production shows that the quality of human engagement with animals has measurable welfare and productivity consequences, reinforcing that societal judgment often links permissibility to the perceived character of stewardship rather than to outcomes alone ref [16].",
+    "refNo": 16,
+    "title": "Relationships between human-animal interactions and productivity of commercial dairy cows.",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Similarly, studies of environmental disturbance demonstrate that animal behavior can mediate system-level effects under changing conditions, suggesting that governance should not assume linear or easily predictable consequences when novel biological combinations are created ref [52].",
+    "refNo": 52,
+    "title": "Animal behaviour shapes the ecological effects of ocean acidification and warming: moving from individual to community‐level responses",
+    "marker_text": "[52]"
+  },
+  {
+    "sentence": "Work on affective touch in human–robot interaction shows that perceived intention, embodiment, and relational expectation influence moral response to hybrid or quasi-social entities ref [9].",
+    "refNo": 9,
+    "title": "Enterohemorrhagic Escherichia coli Reduces Mucus and Intermicrovillar Bridges in Human Stem Cell-Derived Colonoids",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Likewise, scholarship on microplastics and gut microbiota highlights how concern about human and animal health becomes amplified when interventions are seen as diffuse, cross-species, and difficult to contain ref [53].",
+    "refNo": 53,
+    "title": "The Role of Affective Touch in Human-Robot Interaction: Human Intent and Expectations in Touching the Haptic Creature",
+    "marker_text": "[53]"
+  },
+  {
+    "sentence": "Evidence from laboratory settings shows that seemingly routine environmental factors—light, noise, cage cleaning, and in-house transport—can substantially affect stress and welfare in rats, indicating that institutional review must account for cumulative and background burdens, not merely experimental interventions in a narrow sense [47].",
+    "refNo": 47,
+    "title": "Cross-Seeding of Misfolded Proteins: Implications for Etiology and Pathogenesis of Protein Misfolding Diseases",
+    "marker_text": "[47]"
+  },
+  {
+    "sentence": "Work on the visitor effect in zoos illustrates that human presence and observation can alter animal welfare in ways that are context-dependent and ethically salient [9].",
+    "refNo": 9,
+    "title": "Enterohemorrhagic Escherichia coli Reduces Mucus and Intermicrovillar Bridges in Human Stem Cell-Derived Colonoids",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "In chimera research, this supports calls for oversight bodies to incorporate behavioral monitoring, species-specific expertise, and precaution when human-derived traits could modify cognitive, sensory, or social needs [9], [47].",
+    "refNo": 9,
+    "title": "Enterohemorrhagic Escherichia coli Reduces Mucus and Intermicrovillar Bridges in Human Stem Cell-Derived Colonoids",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "In chimera research, this supports calls for oversight bodies to incorporate behavioral monitoring, species-specific expertise, and precaution when human-derived traits could modify cognitive, sensory, or social needs [9], [47].",
+    "refNo": 47,
+    "title": "Cross-Seeding of Misfolded Proteins: Implications for Etiology and Pathogenesis of Protein Misfolding Diseases",
+    "marker_text": "[47]"
+  },
+  {
+    "sentence": "Such an approach links legitimacy to transparency about animal care conditions and to the capacity of oversight systems to respond adaptively when standard welfare assumptions prove inadequate [47], [9].",
+    "refNo": 47,
+    "title": "Cross-Seeding of Misfolded Proteins: Implications for Etiology and Pathogenesis of Protein Misfolding Diseases",
+    "marker_text": "[47]"
+  },
+  {
+    "sentence": "Such an approach links legitimacy to transparency about animal care conditions and to the capacity of oversight systems to respond adaptively when standard welfare assumptions prove inadequate [47], [9].",
+    "refNo": 9,
+    "title": "Enterohemorrhagic Escherichia coli Reduces Mucus and Intermicrovillar Bridges in Human Stem Cell-Derived Colonoids",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Evidence from children indicates that pet preference, ownership, attachment, and empathy are associated with more differentiated attitudes toward animals, suggesting that stakeholder judgments about chimera research are likely filtered through prior affective and relational experience rather than through risk–benefit reasoning alone ref [5].",
+    "refNo": 5,
+    "title": "Merging organoid and organ-on-a-chip technology to generate complex multi-layer tissue models in a human retina-on-a-chip platform",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Research on livestock handling shows that the quality of human–animal interaction can measurably affect animal stress, underscoring that ethical evaluation must include not only end points such as pain or survival, but also day-to-day husbandry, handling, and environmental management ref [19].",
+    "refNo": 19,
+    "title": "Ubiquitination-Deficient Mutations in Human Piwi Cause Male Infertility by Impairing Histone-to-Protamine Exchange during Spermiogenesis.",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Public deliberation is especially important where regulatory decisions concern animals that evoke strong attachment or empathy, because social acceptance may depend as much on perceived respect, care, and accountability as on scientific promise ref [5]; similarly, credible oversight requires attention to how human treatment conditions shape animal welfare in practice ref [19].",
+    "refNo": 5,
+    "title": "Merging organoid and organ-on-a-chip technology to generate complex multi-layer tissue models in a human retina-on-a-chip platform",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Public deliberation is especially important where regulatory decisions concern animals that evoke strong attachment or empathy, because social acceptance may depend as much on perceived respect, care, and accountability as on scientific promise ref [5]; similarly, credible oversight requires attention to how human treatment conditions shape animal welfare in practice ref [19].",
+    "refNo": 19,
+    "title": "Ubiquitination-Deficient Mutations in Human Piwi Cause Male Infertility by Impairing Histone-to-Protamine Exchange during Spermiogenesis.",
+    "marker_text": "[19]"
+  }
+]

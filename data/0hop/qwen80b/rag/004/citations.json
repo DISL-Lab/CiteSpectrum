@@ -1,0 +1,410 @@
+[
+  {
+    "sentence": "Behavioral science theories emphasize that effective health interventions must account for how individuals perceive and weigh temporal trade-offs, rather than assuming rational, long-term planning ref [12].",
+    "refNo": 12,
+    "title": "Are current health behavioral change models helpful in guiding prevention of weight gain efforts?",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Similarly, the design of health behavior interventions requires explicit integration of psychological mechanisms like discounting to bridge the gap between knowledge and action ref [21].",
+    "refNo": 21,
+    "title": "Clustering of health-related behaviors, health outcomes and demographics in Dutch adolescents: a cross-sectional study",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Research has shown that many health-related choices—such as smoking, overeating, or sedentary behavior—are driven by automatic cognitive biases rather than reasoned evaluation of long-term consequences, suggesting that temporal discounting may be amplified or even triggered by nonconscious mechanisms ref [14].",
+    "refNo": 14,
+    "title": "Recommendations for Prevention of Childhood Obesity",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Furthermore, theories emphasizing motivational determinants, such as self-determination theory, offer complementary insights by explaining how the perceived autonomy and intrinsic value of health behaviors can modulate sensitivity to delayed outcomes ref [30].",
+    "refNo": 30,
+    "title": "Single-Case Experimental Designs to Evaluate Novel Technology-Based Health Interventions",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "Health psychology frameworks emphasize that understanding such delays requires examining the psychological pathways linking behavior to health outcomes, including how individuals perceive, weigh, and respond to future risks ref [33].",
+    "refNo": 33,
+    "title": "Gamification: What It Is and Why It Matters to Digital Health Behavior Change Developers",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "Temporal discounting must be considered alongside other behavioral determinants, such as environmental cues, social norms, and self-regulatory capacity, to fully account for patterns of unhealthy behavior ref [30].",
+    "refNo": 30,
+    "title": "Single-Case Experimental Designs to Evaluate Novel Technology-Based Health Interventions",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "For instance, web-based health interventions reveal that perceived social support and confidence in one’s ability to enact healthy behaviors significantly influence adherence to long-term goals, even when immediate temptations are present ref [19].",
+    "refNo": 19,
+    "title": "Diet and Physical Activity in Childhood Cancer Survivors: A Review of the Literature",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Moreover, the structural and contextual determinants of health—such as socioeconomic disadvantage and limited access to healthy options—can amplify the salience of immediate rewards, making delayed benefits appear less attainable or relevant ref [13].",
+    "refNo": 13,
+    "title": "Public health strategies for preventing and controlling overweight and obesity in school and worksite settings: a report on recommendations of the Task Force on Community Preventive Services.",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "The social ecology framework posits that individual behaviors, including those driven by present bias, are influenced by layered systems ranging from interpersonal networks to institutional policies ref [9].",
+    "refNo": 9,
+    "title": "Social Ecology and Behavioral Medicine: Implications for Training, Practice, and Policy",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "The transition from wishing to willing—captured in the concept of implementation intentions—demonstrates how specific planning can counteract impulsive tendencies by pre-committing to future-oriented actions ref [38].",
+    "refNo": 38,
+    "title": "Using engineering control principles to inform the design of adaptive interventions: a conceptual introduction.",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Notably, socioeconomic gradients in smoking prevalence may be partially mediated by differential temporal discounting, as lower socioeconomic status correlates with both higher discount rates and greater smoking prevalence ref [16].",
+    "refNo": 16,
+    "title": "A Site-Specific Literature Review of Policy and Environmental Interventions That Promote Physical Activity and Nutrition for Cardiovascular Health: What Works?",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "However, the extent to which discounting is a malleable trait versus a stable individual difference remains under investigation, limiting the generalizability of such approaches ref [41].",
+    "refNo": 41,
+    "title": "Persuasive System Design Does Matter: A Systematic Review of Adherence to Web-Based Interventions",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "Evidence from the Task Force on Community Preventive Services highlights that multicomponent interventions in school and worksite settings—such as improving nutrition environments and increasing opportunities for physical activity—can mitigate the impact of temporal discounting by altering choice architecture ref [16].",
+    "refNo": 16,
+    "title": "A Site-Specific Literature Review of Policy and Environmental Interventions That Promote Physical Activity and Nutrition for Cardiovascular Health: What Works?",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Similarly, research on childhood obesity underscores that parental influence and environmental structuring are critical in shaping long-term health trajectories, suggesting that reducing the immediacy of unhealthy rewards can counteract discounting tendencies ref [25].",
+    "refNo": 25,
+    "title": "A strategy for optimizing and evaluating behavioral interventions",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "For instance, a randomized trial of a computer-delivered sexual risk reduction intervention among at-risk populations found significant increases in preventive behaviors, suggesting that altering the perceived immediacy of consequences can modulate risk-taking, consistent with temporal discounting mechanisms ref [43].",
+    "refNo": 43,
+    "title": "Effectiveness of a motivational interviewing intervention on weight loss, physical activity and cardiovascular disease risk factors: a randomised controlled trial with a 12-month post-intervention follow-up",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "Similarly, research among African American women in primary care settings revealed that brief HIV/STD prevention interventions, which incorporated motivational and cognitive restructuring elements, led to measurable reductions in STD rates and risky sexual behavior, potentially by counteracting the bias toward immediate gratification ref [23].",
+    "refNo": 23,
+    "title": "Improving the reporting quality of nonrandomized evaluations of behavioral and public health interventions: the TREND statement.",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "In childhood cancer survivors, suboptimal diet and physical activity patterns persist despite heightened health risks, potentially reflecting heightened discounting of future health benefits in favor of short-term comfort or social conformity ref [29].",
+    "refNo": 29,
+    "title": "Methodological Issues in Research on Web-Based Behavioral Interventions",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Similarly, among adult cancer survivors, psychosocial stressors and altered self-perception following diagnosis may amplify present-oriented decision-making, undermining sustained health behavior change ref [17].",
+    "refNo": 17,
+    "title": "Effects on sexual risk behavior and STD rate of brief HIV/STD prevention interventions for African American women in primary care settings.",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Furthermore, clustering analyses in adolescents reveal that unhealthy behaviors—such as poor diet, sedentary behavior, and substance use—co-occur with demographic and psychosocial risk factors, suggesting that discounting may operate as a transdiagnostic mechanism underlying behavioral syndromes ref [41].",
+    "refNo": 41,
+    "title": "Persuasive System Design Does Matter: A Systematic Review of Adherence to Web-Based Interventions",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "The PRISMA Statement provides a comprehensive framework for reporting systematic reviews and meta-analyses of health care interventions, including clear guidelines on study selection, data extraction, and synthesis methods—critical for accurately assessing the evidence linking discounting rates to behaviors such as smoking, poor diet, and physical inactivity ref [22].",
+    "refNo": 22,
+    "title": "The PRISMA Statement for Reporting Systematic Reviews and Meta-Analyses of Studies That Evaluate Health Care Interventions: Explanation and Elaboration",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Additionally, many studies examining temporal discounting in behavioral contexts employ nonrandomized designs or observational protocols, necessitating the use of the TREND statement to improve the quality of reporting in such evaluations ref [9].",
+    "refNo": 9,
+    "title": "Social Ecology and Behavioral Medicine: Implications for Training, Practice, and Policy",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Many studies assume that discounting rates directly reflect motivational processes driving behavior, yet this assumption may be confounded by unmeasured cognitive, emotional, or contextual factors. ref [34].",
+    "refNo": 34,
+    "title": "A foundation for the study of behavior change support systems",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "Furthermore, the design of behavioral interventions informed by discounting models must be evaluated not only for efficacy but for theoretical coherence. ref [32].",
+    "refNo": 32,
+    "title": "Health behavior models in the age of mobile interventions: are our theories up to the task?",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "Many interventions targeting health behaviors—such as smoking cessation, dietary change, or medication adherence—rely on self-report or indirect proxies that may misrepresent actual behavioral consistency over time. ref [44].",
+    "refNo": 44,
+    "title": "Theory and Model Use in Social Marketing Health Interventions",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "Furthermore, the heterogeneity in how health behaviors are operationalized across studies complicates meta-analytic synthesis. ref [25].",
+    "refNo": 25,
+    "title": "A strategy for optimizing and evaluating behavioral interventions",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Web-based and technology-mediated interventions introduce unique methodological challenges, including participant attrition, self-report bias, and lack of standardization in behavioral outcome measures, which can confound the interpretation of discounting parameters ref [29].",
+    "refNo": 29,
+    "title": "Methodological Issues in Research on Web-Based Behavioral Interventions",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Furthermore, the application of health behavior theories to multi-behavior interventions—such as those targeting diet, physical activity, and substance use simultaneously—requires careful alignment between theoretical constructs and operationalized measures of temporal discounting ref [12].",
+    "refNo": 12,
+    "title": "Are current health behavioral change models helpful in guiding prevention of weight gain efforts?",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Single-case experimental designs offer a promising alternative for isolating individual-level temporal discounting effects in real-world settings, particularly when evaluating novel technology-based interventions ref [44].",
+    "refNo": 44,
+    "title": "Theory and Model Use in Social Marketing Health Interventions",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "The continuous evaluation of evolving behavioral intervention technologies (ref [5]) underscores the need for longitudinal and iterative assessment frameworks that capture how discounting parameters may shift in response to feedback loops, personalization, and environmental context.",
+    "refNo": 5,
+    "title": "Health Psychology: the Search for Pathways between Behavior and Health.",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Furthermore, the clustering of health-related behaviors and their demographic correlates (ref [41]) highlights the importance of controlling for behavioral syndromes and confounding covariates in meta-analyses.",
+    "refNo": 41,
+    "title": "Persuasive System Design Does Matter: A Systematic Review of Adherence to Web-Based Interventions",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "As highlighted in recent critiques, many health behavior models fail to account for the iterative, trial-and-error nature of decision-making under uncertainty, limiting their utility in designing effective interventions ref [24].",
+    "refNo": 24,
+    "title": "Misleading tests of health behavior theories",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Similarly, the translation of behavioral science theory into practice often overlooks how reinforcement learning mechanisms underpin the persistence of maladaptive habits, even when individuals report awareness of long-term risks ref [29].",
+    "refNo": 29,
+    "title": "Methodological Issues in Research on Web-Based Behavioral Interventions",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "This aligns with evidence that nonconscious processes—such as implicit associations and environmental cues—shape health decisions independently of explicit valuation, undermining rational discounting models ref [14].",
+    "refNo": 14,
+    "title": "Recommendations for Prevention of Childhood Obesity",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Furthermore, digital health interventions that leverage gamification can recalibrate reward prediction by making delayed health outcomes more immediately salient through feedback loops and point systems, effectively reshaping the agent’s state-action-reward mapping ref [18].",
+    "refNo": 18,
+    "title": "A brief individualized computer-delivered sexual risk reduction intervention increases HIV/AIDS preventive behavior.",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Interventions grounded in behavior change support systems must therefore account for how digital interfaces alter the representational structure of health-related decisions, not just their temporal weighting ref [19].",
+    "refNo": 19,
+    "title": "Diet and Physical Activity in Childhood Cancer Survivors: A Review of the Literature",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Interventions grounded in SDT, such as those promoting physical activity through autonomy-supportive counseling, have been shown to sustain behavior change by reshaping the reward structure of health decisions ref [25].",
+    "refNo": 25,
+    "title": "A strategy for optimizing and evaluating behavioral interventions",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Moreover, the interplay between biological, behavioral, and societal influences—highlighted in Health and Behavior, the Interplay of Biological, Behavioral and Societal Influences—suggests that RL agents operating in high-stress or resource-scarce environments may develop maladaptive policies that prioritize immediate relief over delayed health gains, even when cognitive capacity for future planning is intact ref [38].",
+    "refNo": 38,
+    "title": "Using engineering control principles to inform the design of adaptive interventions: a conceptual introduction.",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "For instance, an internet-delivered, computer-tailored lifestyle intervention demonstrated that providing individualized projections of future health outcomes significantly improved adherence to targets for fat intake, physical activity, and smoking cessation, suggesting that enriched state modeling can mitigate temporal discounting biases ref [42].",
+    "refNo": 42,
+    "title": "Computer-tailored health interventions delivered over the Web: review and analysis of key components.",
+    "marker_text": "[42]"
+  },
+  {
+    "sentence": "Similarly, empathic virtual agents that simulate future self-consequences through narrative and affective feedback have been shown to increase motivation for behavior change by making delayed outcomes more salient and personally relevant ref [5].",
+    "refNo": 5,
+    "title": "Health Psychology: the Search for Pathways between Behavior and Health.",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Engineering control principles offer a formal framework to model these dynamics as feedback-regulated systems, enabling interventions that adjust in real time based on user state and outcome predictions ref [23].",
+    "refNo": 23,
+    "title": "Improving the reporting quality of nonrandomized evaluations of behavioral and public health interventions: the TREND statement.",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Digital health technologies further amplify this need for adaptivity, as mobile eHealth tools continuously collect behavioral data that can inform online learning of individual reward structures ref [36].",
+    "refNo": 36,
+    "title": "I Can Help You Change! An Empathic Virtual Agent Delivers Behavior Change Health Interventions",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "By integrating continuous evaluation mechanisms, these systems can recalibrate reward estimates and delay sensitivities in response to user engagement patterns, effectively personalizing the temporal discounting profile over time ref [5].",
+    "refNo": 5,
+    "title": "Health Psychology: the Search for Pathways between Behavior and Health.",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "While individuals with high discount rates may undervalue future health outcomes, interventions that successfully alter behavioral intentions can still drive behavior change, even among those exhibiting steep discounting. ref [4].",
+    "refNo": 4,
+    "title": "Self-determination theory: its application to health behavior and complementarity with motivational interviewing",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Furthermore, the design of digital health interventions must account for how persuasive system features—such as feedback loops, personalization, and social support—can compensate for or mitigate the effects of temporal discounting. ref [18].",
+    "refNo": 18,
+    "title": "A brief individualized computer-delivered sexual risk reduction intervention increases HIV/AIDS preventive behavior.",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Computer-tailored systems, for instance, can mitigate excessive discounting by providing personalized, immediate feedback that revalues future health outcomes, thereby aligning short-term actions with long-term goals ref [12].",
+    "refNo": 12,
+    "title": "Are current health behavioral change models helpful in guiding prevention of weight gain efforts?",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Furthermore, the integration of gamification elements—such as points, badges, and progress tracking—can transform delayed rewards into salient, emotionally engaging experiences, making future-oriented behavior more attractive ref [18].",
+    "refNo": 18,
+    "title": "A brief individualized computer-delivered sexual risk reduction intervention increases HIV/AIDS preventive behavior.",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "When combined with self-determination theory principles, such as autonomy and competence support, these technologies foster intrinsic motivation, which may reduce reliance on impulsive decision-making driven by steep discounting ref [30].",
+    "refNo": 30,
+    "title": "Single-Case Experimental Designs to Evaluate Novel Technology-Based Health Interventions",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "Evidence from SDT-based interventions in physical activity demonstrates that supporting autonomous motivation leads to longer-term adherence, even among individuals with high temporal discounting tendencies ref [12].",
+    "refNo": 12,
+    "title": "Are current health behavioral change models helpful in guiding prevention of weight gain efforts?",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Similarly, motivational interviewing, which emphasizes collaborative exploration of values and ambivalence, has been shown to reduce discounting-related resistance by enhancing self-efficacy and perceived control, as evidenced by sustained improvements in weight loss and cardiovascular risk factors over 12 months ref [42].",
+    "refNo": 42,
+    "title": "Computer-tailored health interventions delivered over the Web: review and analysis of key components.",
+    "marker_text": "[42]"
+  },
+  {
+    "sentence": "Empathic virtual agents, for instance, can mitigate the effects of steep discounting by enhancing perceived immediacy of health rewards through personalized, emotionally resonant feedback, thereby bridging the gap between delayed benefits and present behavior ref [5].",
+    "refNo": 5,
+    "title": "Health Psychology: the Search for Pathways between Behavior and Health.",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Similarly, computer-tailored interventions that leverage social cognitive constructs—such as self-efficacy, outcome expectations, and self-regulation—can compensate for discounting biases by restructuring the perceived value of long-term health outcomes within the user’s motivational framework ref [19].",
+    "refNo": 19,
+    "title": "Diet and Physical Activity in Childhood Cancer Survivors: A Review of the Literature",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "The efficacy of such interventions is further contingent on methodological rigor in digital delivery, including adaptive tailoring and sustained engagement, which are often underaddressed in web-based trials ref [29].",
+    "refNo": 29,
+    "title": "Methodological Issues in Research on Web-Based Behavioral Interventions",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Social marketing models that frame health behaviors as socially embedded and identity-affirming may also reduce discounting by aligning immediate actions with long-term self-concept, offering a complementary pathway beyond pure temporal valuation ref [32].",
+    "refNo": 32,
+    "title": "Health behavior models in the age of mobile interventions: are our theories up to the task?",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "The social ecology framework posits that health behaviors are shaped by nested systems—from interpersonal networks to policy structures—suggesting that discounting may reflect adaptive responses to environmental instability rather than a fixed trait ref [9].",
+    "refNo": 9,
+    "title": "Social Ecology and Behavioral Medicine: Implications for Training, Practice, and Policy",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "This perspective calls for interventions that modify contextual cues and reinforce long-term rewards through structural support, such as community-based programs that co-design incentives with participants to align immediate and delayed outcomes ref [25].",
+    "refNo": 25,
+    "title": "A strategy for optimizing and evaluating behavioral interventions",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Furthermore, adaptive intervention technologies informed by engineering control principles can dynamically adjust feedback loops based on real-time behavioral data, thereby compensating for individual variability in discounting rates ref [23].",
+    "refNo": 23,
+    "title": "Improving the reporting quality of nonrandomized evaluations of behavioral and public health interventions: the TREND statement.",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "A meta-synthesis of behavior change interventions further supports that multi-level, context-sensitive designs yield more sustainable effects than those targeting discounting in isolation ref [20].",
+    "refNo": 20,
+    "title": "Health behavior changes after a cancer diagnosis: What do we know and where do we go from here?",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "To address this, future research must explicitly anchor temporal discounting within validated behavioral science theories that guide intervention design, such as those emphasizing self-regulation, goal setting, and environmental affordances. ref [21].",
+    "refNo": 21,
+    "title": "Clustering of health-related behaviors, health outcomes and demographics in Dutch adolescents: a cross-sectional study",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "and ref [24] both highlight the need for theory-driven adaptation of behavioral models to evolving contexts, including digital and mobile health platforms.",
+    "refNo": 24,
+    "title": "Misleading tests of health behavior theories",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "To address this, future work should adopt frameworks that treat interventions as dynamic systems capable of learning from user feedback, as proposed in the foundation for behavior change support systems ref [17] and the strategy for optimizing and evaluating behavioral interventions ref [19].",
+    "refNo": 17,
+    "title": "Effects on sexual risk behavior and STD rate of brief HIV/STD prevention interventions for African American women in primary care settings.",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "To address this, future work should adopt frameworks that treat interventions as dynamic systems capable of learning from user feedback, as proposed in the foundation for behavior change support systems ref [17] and the strategy for optimizing and evaluating behavioral interventions ref [19].",
+    "refNo": 19,
+    "title": "Diet and Physical Activity in Childhood Cancer Survivors: A Review of the Literature",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "The measurement of adherence itself is frequently oversimplified, failing to capture the dynamic, context-dependent nature of decision-making over time. ref [44].",
+    "refNo": 44,
+    "title": "Theory and Model Use in Social Marketing Health Interventions",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "Furthermore, interventions designed to reduce discounting often neglect structural and systemic determinants that shape long-term behavioral options. ref [31].",
+    "refNo": 31,
+    "title": "Continuous evaluation of evolving behavioral intervention technologies.",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "The diffusion of effective behavioral interventions project provides a valuable framework for systematic implementation, highlighting the importance of fidelity, adaptation, and sustainability in real-world settings—key considerations when scaling discounting-informed interventions ref [25].",
+    "refNo": 25,
+    "title": "A strategy for optimizing and evaluating behavioral interventions",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Moreover, automated interventions using conversational agents offer promising avenues for delivering personalized, time-sensitive nudges that account for individual discounting rates, yet their theoretical grounding in behavioral economics remains underdeveloped ref [27].",
+    "refNo": 27,
+    "title": "A Review of Multiple Health Behavior Change Interventions for Primary Prevention",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "Single-case experimental designs can enhance internal validity in evaluating these technology-mediated interventions, particularly in heterogeneous populations where discounting patterns vary by socioeconomic context ref [44].",
+    "refNo": 44,
+    "title": "Theory and Model Use in Social Marketing Health Interventions",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "The perspectives of agency directors on implementing evidence-based practices reveal systemic barriers—such as staff turnover, funding instability, and lack of training—that often undermine even the most sophisticated behavioral models ref [31].",
+    "refNo": 31,
+    "title": "Continuous evaluation of evolving behavioral intervention technologies.",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "Behavioral science can advance digital health by embedding dynamic feedback loops and personalization algorithms grounded in real-time behavioral data, rather than static, one-size-fits-all protocols ref [26].",
+    "refNo": 26,
+    "title": "Measuring adherence to behavioral and medical interventions.",
+    "marker_text": "[26]"
+  }
+]

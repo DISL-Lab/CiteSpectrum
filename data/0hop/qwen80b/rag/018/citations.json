@@ -1,0 +1,548 @@
+[
+  {
+    "sentence": "Despite the promise of model-driven innovation, the success of deep learning systems in clinical settings is heavily contingent on data quality and curation practices, as highlighted by the concept of 'data cascades'—where errors propagate through preprocessing, annotation, and labeling pipelines, ultimately undermining model performance ref [3].",
+    "refNo": 3,
+    "title": "Radiomics and artificial intelligence in lung cancer screening",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Furthermore, the integration of deep learning into diagnostic workflows, particularly in oncology, has been driven by its capacity to enhance early detection and precision, as evidenced in applications for breast and lung cancer screening ref [37], ref [39].",
+    "refNo": 37,
+    "title": "Autonomous Detection and Classification of PI-RADS Lesions in an MRI Screening Population Incorporating Multicenter-Labeled Deep Learning and Biparametric Imaging: Proof of Concept",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "Furthermore, the integration of deep learning into diagnostic workflows, particularly in oncology, has been driven by its capacity to enhance early detection and precision, as evidenced in applications for breast and lung cancer screening ref [37], ref [39].",
+    "refNo": 39,
+    "title": "Artificial intelligence is a promising prospect for the detection of prostate cancer extracapsular extension with mpMRI: a two-center comparative study",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "In breast cancer imaging, for instance, CNNs have been successfully applied to mammograms and ultrasound scans to improve diagnostic accuracy, with recent work highlighting both performance gains and persistent challenges in generalizability across diverse populations ref [22].",
+    "refNo": 22,
+    "title": "Artificial intelligence for breast cancer screening: Opportunity or hype?",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Similarly, in prostate cancer diagnosis via multiparametric MRI, deep learning models are being integrated into clinical workflows to enhance precision in lesion localization and risk stratification, as outlined in the ESUR/ESUI position paper ref [43].",
+    "refNo": 43,
+    "title": "Artificial Intelligence Technology in Cancer Imaging: Clinical Challenges for Detection of Lung and Breast Cancer",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "In breast imaging, convolutional neural networks (CNNs) have demonstrated robust performance in identifying malignant lesions from mammograms and ultrasound scans, with recent studies highlighting their potential to reduce false positives and improve radiologist workflow efficiency ref [7].",
+    "refNo": 7,
+    "title": "Artificial intelligence for the early detection of colorectal cancer: A comprehensive review of its advantages and misconceptions",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Similarly, in colorectal cancer screening, deep learning systems have been deployed to detect polyps and early-stage tumors in colonoscopy videos, achieving diagnostic accuracy comparable to expert endoscopists while addressing inter-observer variability ref [16].",
+    "refNo": 16,
+    "title": "Multimodal imaging for detection and segmentation of Barrett’s esophagus-related neoplasia using artificial intelligence",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "In prostate MRI, CNNs and hybrid architectures have enabled precise localization of clinically significant tumors, aiding in biopsy guidance and risk stratification ref [17].",
+    "refNo": 17,
+    "title": "Stand-Alone Artificial Intelligence for Breast Cancer Detection in Mammography: Comparison With 101 Radiologists.",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Meanwhile, automated lung cancer detection systems based on deep CNNs have shown high sensitivity in identifying nodules in low-dose CT scans, contributing to earlier intervention and improved survival rates ref [33].",
+    "refNo": 33,
+    "title": "An independent assessment of an artificial intelligence system for prostate cancer detection shows strong diagnostic accuracy",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "In prostate cancer, AI-driven analysis of multiparametric MRI has demonstrated promising performance in tumor localization and risk stratification, though challenges remain in standardizing acquisition protocols and ensuring generalizability across institutions ref [13].",
+    "refNo": 13,
+    "title": "Tumor microenvironment and the role of artificial intelligence in breast cancer detection and prognosis.",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Similarly, in gastrointestinal cancers, endoscopic imaging has become a primary modality for AI-assisted screening, with deep neural networks achieving diagnostic accuracy comparable to expert endoscopists in detecting gastric and colorectal lesions ref [24].",
+    "refNo": 24,
+    "title": "Artificial intelligence (AI) real-time detection vs. routine colonoscopy for colorectal neoplasia: a meta-analysis and trial sequential analysis",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "The application of deep learning extends to skin cancer, where high-resolution dermoscopic images are analyzed to distinguish benign nevi from malignant melanomas, with recent studies highlighting the potential for AI to reduce diagnostic delays and improve accessibility in underserved regions ref [20].",
+    "refNo": 20,
+    "title": "Improved Cancer Detection Using Artificial Intelligence: a Retrospective Evaluation of Missed Cancers on Mammography",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "In breast cancer, deep learning models are beginning to incorporate histopathological, radiomic, and genomic inputs to capture the biological complexity of tumors, enabling more personalized risk assessment ref [29].",
+    "refNo": 29,
+    "title": "Deep Learning in Skin Lesion Analysis Towards Cancer Detection",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Techniques such as denoising autoencoders and generative adversarial networks have been successfully applied to restore diagnostic quality in ultra-low-dose CT scans, enabling accurate lung nodule detection without compromising patient safety. ref [30].",
+    "refNo": 30,
+    "title": "Artificial intelligence-assisted endoscopic detection of esophageal neoplasia in early stage: The next step?",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "Similarly, domain adaptation methods have emerged to mitigate scanner- and protocol-induced variations in histopathological imaging, where model performance often degrades across institutions. ref [23].",
+    "refNo": 23,
+    "title": "Automatic colonic polyp detection using integration of modified deep residual convolutional neural network and ensemble learning approaches",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Beyond single-modality applications, multimodal deep learning frameworks are gaining traction in complex diagnostic tasks, such as the detection of Barrett’s esophagus-related neoplasia, where endoscopic, chromoendoscopic, and confocal laser data are fused to improve segmentation and classification accuracy. ref [35].",
+    "refNo": 35,
+    "title": "Whole-Slide Image Focus Quality: Automatic Assessment and Impact on AI Cancer Detection",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "A retrospective evaluation of missed cancers on mammograms revealed that AI systems can identify lesions previously overlooked by radiologists, improving sensitivity without compromising specificity ref [14].",
+    "refNo": 14,
+    "title": "Ultra-Low Dose Chest CT with Denoising for Lung Nodule Detection.",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Furthermore, large-scale comparative studies have shown that standalone AI models can outperform individual radiologists in mammographic screening, achieving higher area-under-the-curve metrics and more consistent performance across diverse populations ref [38].",
+    "refNo": 38,
+    "title": "Evaluation of deep learning‐based artificial intelligence techniques for breast cancer detection on mammograms: Results from a retrospective study using a BreastScreen Victoria dataset",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Reinforcement learning has been applied to personalize screening intervals based on individual risk profiles, potentially increasing cost-effectiveness and early detection rates while minimizing unnecessary procedures ref [13].",
+    "refNo": 13,
+    "title": "Tumor microenvironment and the role of artificial intelligence in breast cancer detection and prognosis.",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "As highlighted in recent reviews, while the technical promise is substantial, successful deployment requires robust validation in real-world clinical workflows and transparent reporting of performance metrics ref [12].",
+    "refNo": 12,
+    "title": "Application of artificial intelligence-driven endoscopic screening and diagnosis of gastric cancer",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "In gastric cancer, AI systems have demonstrated high sensitivity in identifying early mucosal abnormalities, with one study showing that AI-assisted endoscopy improves diagnostic accuracy comparable to expert endoscopists, reducing missed lesions during screening ref [28].",
+    "refNo": 28,
+    "title": "Diagnostic accuracy of a novel artificial intelligence system for adenoma detection in daily practice: a prospective nonrandomized comparative study",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Similarly, for esophageal cancer, a systematic review and meta-analysis confirmed that AI-assisted detection of esophageal neoplasms on endoscopic images achieves pooled sensitivity and specificity exceeding 90%, outperforming conventional visual inspection in real-time settings ref [5].",
+    "refNo": 5,
+    "title": "ESUR/ESUI position paper: developing artificial intelligence for precision diagnosis of prostate cancer using magnetic resonance imaging",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "These systems are increasingly integrated into clinical workflows to support real-time decision-making, with recent work extending AI applications to intraprocedural colorectal cancer detection and characterization during both colonoscopy and laparoscopy, enabling immediate lesion classification and margin assessment ref [32].",
+    "refNo": 32,
+    "title": "Independent real‐world application of a clinical‐grade automated prostate cancer detection system",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "Beyond detection, AI models are being validated for adenoma characterization in daily practice, with a prospective nonrandomized study demonstrating that a novel AI system significantly increases adenoma detection rates compared to standard endoscopy, highlighting its potential to reduce interval cancers ref [34].",
+    "refNo": 34,
+    "title": "NuCLS: A scalable crowdsourcing approach and dataset for nucleus classification and segmentation in breast cancer",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "Ref [6] presents a comprehensive review of deep learning architectures applied to dermoscopic and clinical skin images, highlighting their potential to reduce diagnostic delays and improve screening accessibility in resource-limited settings.",
+    "refNo": 6,
+    "title": "AI-enhanced breast imaging: Where are we and where are we heading?",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Similarly, in gastrointestinal endoscopy, AI-driven systems are being deployed for real-time detection of precancerous lesions, with ref [10] evaluating the efficacy of artificial intelligence in identifying early-stage esophageal neoplasia during routine endoscopy, showing significant improvements in sensitivity and inter-observer agreement.",
+    "refNo": 10,
+    "title": "Artificial Intelligence (AI) for Automated Cancer Detection on Prostate MRI: Opportunities and Ongoing Challenges, From the AJR Special Series on AI Applications.",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "The application of AI in colorectal imaging has also advanced, with ref [41] demonstrating that real-time AI-assisted colonoscopy significantly increases adenoma detection rates compared to standard procedures, particularly for subtle or flat lesions often missed by human observers.",
+    "refNo": 41,
+    "title": "Performance of an AI based CAD system in solid lung nodule detection on chest phantom radiographs compared to radiology residents and fellow radiologists",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "For instance, independent assessments of AI systems for prostate cancer detection revealed substantial performance variability when applied to external cohorts, underscoring the gap between retrospective benchmarks and real-world clinical utility ref [31] ref [42].",
+    "refNo": 31,
+    "title": "AI based colorectal disease detection using real-time screening colonoscopy",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "For instance, independent assessments of AI systems for prostate cancer detection revealed substantial performance variability when applied to external cohorts, underscoring the gap between retrospective benchmarks and real-world clinical utility ref [31] ref [42].",
+    "refNo": 42,
+    "title": "AI-aided detection of malignant lesions in mammography screening – evaluation of a program in clinical practice",
+    "marker_text": "[42]"
+  },
+  {
+    "sentence": "The NuCLS dataset addresses this by introducing a scalable crowdsourcing framework that standardizes nucleus annotation across diverse breast cancer histology slides, thereby improving reproducibility and reducing annotation noise ref [4].",
+    "refNo": 4,
+    "title": "Medical image based breast cancer diagnosis: State of the art and future directions",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Similarly, in whole-slide imaging, focus quality—often overlooked in training pipelines—can significantly alter feature extraction and subsequent AI performance; automated assessment of focus quality has been shown to mitigate performance drops caused by out-of-focus regions, highlighting the need for preprocessing rigor ref [11].",
+    "refNo": 11,
+    "title": "Can skin cancer diagnosis be transformed by AI?",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "As emphasized in the ESUR/ESUI position paper, the absence of harmonized annotation guidelines for prostate MRI interpretation impedes the development of robust, generalizable AI systems, even when models achieve high retrospective accuracy ref [43].",
+    "refNo": 43,
+    "title": "Artificial Intelligence Technology in Cancer Imaging: Clinical Challenges for Detection of Lung and Breast Cancer",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "This issue is particularly evident in chest radiography, where a retrospective clinical validation study demonstrated that an AI system for lung cancer detection achieved markedly reduced sensitivity when tested on multi-vendor X-ray images from diverse institutions, highlighting the fragility of model performance under domain shift ref [37].",
+    "refNo": 37,
+    "title": "Autonomous Detection and Classification of PI-RADS Lesions in an MRI Screening Population Incorporating Multicenter-Labeled Deep Learning and Biparametric Imaging: Proof of Concept",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "Similarly, in prostate MRI, while multicenter studies have shown promise in AI-based lesion detection, performance variability persists due to differences in acquisition parameters and protocol standardization ref [14].",
+    "refNo": 14,
+    "title": "Ultra-Low Dose Chest CT with Denoising for Lung Nodule Detection.",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "The reliance on single-institution datasets further exacerbates this challenge, as seen in the evaluation of a deep learning system for breast cancer detection on mammograms from BreastScreen Victoria, which, despite strong internal performance, has not been prospectively validated across diverse populations or imaging platforms ref [44].",
+    "refNo": 44,
+    "title": "[Pathological diagnosis of lung cancer based on deep transfer learning].",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "This issue is starkly illustrated in mammography, where an AI system demonstrated the ability to detect cancers missed on digital mammography but subsequently identified on digital breast tomosynthesis, highlighting how subtle imaging variations can undermine model robustness ref [38].",
+    "refNo": 38,
+    "title": "Evaluation of deep learning‐based artificial intelligence techniques for breast cancer detection on mammograms: Results from a retrospective study using a BreastScreen Victoria dataset",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Similarly, in lung nodule detection, an AI-based CAD system showed variable performance when tested on chest phantom radiographs compared to human radiologists, underscoring the sensitivity of deep learning models to image acquisition artifacts and domain shifts ref [43].",
+    "refNo": 43,
+    "title": "Artificial Intelligence Technology in Cancer Imaging: Clinical Challenges for Detection of Lung and Breast Cancer",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "The need for multi-center validation is evident in studies such as those evaluating AI for prostate cancer extracapsular extension, where performance varied across institutions despite standardized protocols, emphasizing the necessity of cross-site generalization testing ref [10].",
+    "refNo": 10,
+    "title": "Artificial Intelligence (AI) for Automated Cancer Detection on Prostate MRI: Opportunities and Ongoing Challenges, From the AJR Special Series on AI Applications.",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "For instance, ref [23] demonstrates that domain adaptation techniques are essential for robust mitosis detection across multi-scanner breast cancer histopathology images, highlighting that models trained on one scanner’s data often fail to generalize to others without explicit adaptation.",
+    "refNo": 23,
+    "title": "Automatic colonic polyp detection using integration of modified deep residual convolutional neural network and ensemble learning approaches",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Similarly, ref [34] reports that while AI-aided mammography systems show high performance in controlled retrospective studies, their real-world deployment in population-based screening programs reveals significant drops in specificity and positive predictive value due to unaccounted domain variations.",
+    "refNo": 34,
+    "title": "NuCLS: A scalable crowdsourcing approach and dataset for nucleus classification and segmentation in breast cancer",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "Further evidence comes from ref [7], which identifies inconsistent imaging standards across lung and breast cancer screening sites as a primary reason for the gap between research performance and clinical adoption.",
+    "refNo": 7,
+    "title": "Artificial intelligence for the early detection of colorectal cancer: A comprehensive review of its advantages and misconceptions",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Ref [39] reinforces this by showing that deep transfer learning for lung cancer diagnosis requires careful fine-tuning on site-specific pathological data to maintain diagnostic fidelity.",
+    "refNo": 39,
+    "title": "Artificial intelligence is a promising prospect for the detection of prostate cancer extracapsular extension with mpMRI: a two-center comparative study",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "As highlighted in ref [46], the field often prioritizes model design over data curation, leading to 'data cascades' that compromise generalizability and clinical utility—particularly in high-stakes domains like breast cancer screening.",
+    "refNo": 46,
+    "title": "AI-based Strategies to Reduce Workload in Breast Cancer Screening with Mammography and Tomosynthesis: A Retrospective Evaluation.",
+    "marker_text": "[46]"
+  },
+  {
+    "sentence": "Ref [21] demonstrates that AI-based triaging of screening mammograms reduces radiologist workload by up to 44% while maintaining cancer detection rates, positioning AI as a collaborative partner rather than a replacement.",
+    "refNo": 21,
+    "title": "AI outperforms radiologists in mammographic screening",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Similarly, ref [29] illustrates how AI strategies in mammography and tomosynthesis can prioritize high-risk cases, enabling radiologists to focus on complex interpretations.",
+    "refNo": 29,
+    "title": "Deep Learning in Skin Lesion Analysis Towards Cancer Detection",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "For instance, a hybrid AI-assistive model for TBS classification of cervical cytology smears significantly reduced interpretation time while maintaining high concordance with expert pathologists, enabling scalable screening in resource-limited settings ref [5].",
+    "refNo": 5,
+    "title": "ESUR/ESUI position paper: developing artificial intelligence for precision diagnosis of prostate cancer using magnetic resonance imaging",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Similarly, AI-assisted colonoscopy has been prospectively validated in a randomized cohort study, showing a 14% increase in adenoma detection rate compared to standard colonoscopy, with the system acting as a real-time second reader to mitigate human oversight ref [24].",
+    "refNo": 24,
+    "title": "Artificial intelligence (AI) real-time detection vs. routine colonoscopy for colorectal neoplasia: a meta-analysis and trial sequential analysis",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "In mammography, retrospective evaluations of AI systems have revealed their capacity to identify cancers previously missed by radiologists, reinforcing their role as safety nets in screening programs ref [14].",
+    "refNo": 14,
+    "title": "Ultra-Low Dose Chest CT with Denoising for Lung Nodule Detection.",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Stand-alone AI systems, while technically proficient, raise concerns about accountability and adaptability in heterogeneous clinical environments, suggesting that hybrid architectures remain the most viable path forward for sustainable deployment ref [41].",
+    "refNo": 41,
+    "title": "Performance of an AI based CAD system in solid lung nodule detection on chest phantom radiographs compared to radiology residents and fellow radiologists",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "For instance, ref [8] presents a multicenter, multireader evaluation showing that an AI-based attention mapping system significantly improved prostate cancer detection rates without increasing false positives, underscoring the value of interpretable AI in guiding human decision-making.",
+    "refNo": 8,
+    "title": "Artificial Intelligence in Magnetic Resonance Imaging-based Prostate Cancer Diagnosis: Where Do We Stand in 2021?",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Similarly, ref [11] reveals that AI-assisted reading of CT scans in lung cancer screening enhances nodule detectability among radiologists, particularly for small or subtle nodules, thereby reducing inter-reader variability and improving diagnostic consistency.",
+    "refNo": 11,
+    "title": "Can skin cancer diagnosis be transformed by AI?",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Beyond detection, AI systems are being designed to provide contextually relevant outputs that mirror clinical reasoning. ref [21].",
+    "refNo": 21,
+    "title": "AI outperforms radiologists in mammographic screening",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "In endoscopic settings, intraprocedural AI systems have demonstrated real-time capabilities to detect and characterize colorectal lesions during colonoscopy, enhancing both efficiency and diagnostic consistency without disrupting the endoscopist’s workflow ref [32].",
+    "refNo": 32,
+    "title": "Independent real‐world application of a clinical‐grade automated prostate cancer detection system",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "Similarly, AI-driven systems for mammography have been engineered to flag cancers missed on digital mammography but later identified via digital breast tomosynthesis, positioning AI as a second-reader assistant that complements radiological judgment rather than replacing it ref [38].",
+    "refNo": 38,
+    "title": "Evaluation of deep learning‐based artificial intelligence techniques for breast cancer detection on mammograms: Results from a retrospective study using a BreastScreen Victoria dataset",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Moreover, the interpretability of such models is critical for trust and adoption; methods that visualize decision-making pathways—such as attention maps or heatmaps—have been applied in breast cancer diagnosis to highlight regions influencing AI predictions, thereby facilitating clinician validation and learning ref [40].",
+    "refNo": 40,
+    "title": "Artificial Intelligence Detection of Missed Cancers at Digital Mammography That Were Detected at Digital Breast Tomosynthesis.",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "Ref [2] provides compelling evidence that when AI labels screening mammograms as likely normal with high confidence, single reading achieves comparable cancer detection rates to traditional double reading, significantly reducing interpretative burden.",
+    "refNo": 2,
+    "title": "CAD and AI for breast cancer - Recent Development and Challenges.",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Ref [12] and ref [41] highlight that real-time AI assistance during colonoscopy not only improves adenoma detection but also supports workflow optimization by minimizing procedural time and increasing diagnostic consistency.",
+    "refNo": 12,
+    "title": "Application of artificial intelligence-driven endoscopic screening and diagnosis of gastric cancer",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Ref [12] and ref [41] highlight that real-time AI assistance during colonoscopy not only improves adenoma detection but also supports workflow optimization by minimizing procedural time and increasing diagnostic consistency.",
+    "refNo": 41,
+    "title": "Performance of an AI based CAD system in solid lung nodule detection on chest phantom radiographs compared to radiology residents and fellow radiologists",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "Moreover, AI systems that actively mitigate false positives—such as those described in ref [37]—enhance clinician trust and adoption by reducing cognitive load associated with non-pathological alerts.",
+    "refNo": 37,
+    "title": "Autonomous Detection and Classification of PI-RADS Lesions in an MRI Screening Population Incorporating Multicenter-Labeled Deep Learning and Biparametric Imaging: Proof of Concept",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "When combined with context-aware decision support, such as in skin cancer diagnosis (ref [27]), AI can facilitate a collaborative model where human expertise refines algorithmic outputs, ensuring clinical relevance and safety.",
+    "refNo": 27,
+    "title": "Intraprocedural Artificial Intelligence for Colorectal Cancer Detection and Characterisation in Endoscopy and Laparoscopy",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "For instance, ref [4] demonstrated that a real-time AI detection system significantly increased polyp and adenoma detection rates during colonoscopy in a prospective randomized study, directly linking algorithmic performance to improved diagnostic yield.",
+    "refNo": 4,
+    "title": "Medical image based breast cancer diagnosis: State of the art and future directions",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Similarly, ref [26] reported in the CADeT-CS Trial that deep learning computer-aided detection reduced adenoma miss rates in a multi-center U.",
+    "refNo": 26,
+    "title": "Accuracy of artificial intelligence‐assisted detection of esophageal cancer and neoplasms on endoscopic images: A systematic review and meta‐analysis",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "As highlighted in ref [59], the persistent focus on model development over data curation and clinical context often leads to 'data cascades' that undermine real-world reliability, even for technically sophisticated systems.",
+    "refNo": 59,
+    "title": "DEEP LEARNING COMPUTER-AIDED POLYP DETECTION REDUCES ADENOMA MISS RATE: A U.S. MULTI-CENTER RANDOMIZED TANDEM COLONOSCOPY STUDY (CADeT-CS Trial).",
+    "marker_text": "[59]"
+  },
+  {
+    "sentence": "For instance, a prospective randomized cohort study of AI-assisted colonoscopy showed a statistically significant increase in adenoma detection rates, providing one of the stronger clinical evidence pillars for real-world deployment ref [24].",
+    "refNo": 24,
+    "title": "Artificial intelligence (AI) real-time detection vs. routine colonoscopy for colorectal neoplasia: a meta-analysis and trial sequential analysis",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Similarly, a systematic review and meta-analysis of AI for colorectal polyp detection confirmed its diagnostic accuracy is comparable to expert endoscopists, yet highlighted substantial heterogeneity in study design and reporting standards that complicate regulatory approval ref [34].",
+    "refNo": 34,
+    "title": "NuCLS: A scalable crowdsourcing approach and dataset for nucleus classification and segmentation in breast cancer",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "Recent analyses question whether current performance metrics adequately reflect clinical utility, cautioning against premature scaling without rigorous prospective evaluation ref [12].",
+    "refNo": 12,
+    "title": "Application of artificial intelligence-driven endoscopic screening and diagnosis of gastric cancer",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "The challenges are further compounded in anatomical pathology, where workflow integration, tissue preparation variability, and regulatory ambiguity create unique barriers to deployment ref [28].",
+    "refNo": 28,
+    "title": "Diagnostic accuracy of a novel artificial intelligence system for adenoma detection in daily practice: a prospective nonrandomized comparative study",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "For instance, a multicenter, multi-reader evaluation of an AI-based attention mapping system for prostate cancer detection on multiparametric MRI demonstrated improved diagnostic confidence among radiologists but did not significantly alter cancer detection rates, highlighting the gap between technical performance and clinical impact ref [8].",
+    "refNo": 8,
+    "title": "Artificial Intelligence in Magnetic Resonance Imaging-based Prostate Cancer Diagnosis: Where Do We Stand in 2021?",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Similarly, a retrospective validation of an AI system for lung cancer detection on multi-vendor chest radiographs showed robust sensitivity across institutions, yet its real-world integration was hampered by workflow incompatibilities and lack of clinician trust, underscoring the importance of human-AI collaboration over automation ref [37].",
+    "refNo": 37,
+    "title": "Autonomous Detection and Classification of PI-RADS Lesions in an MRI Screening Population Incorporating Multicenter-Labeled Deep Learning and Biparametric Imaging: Proof of Concept",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "For instance, AI systems trained predominantly on data from majority populations may underperform in underrepresented groups, such as American Indians and Alaska Natives, who experience disproportionately higher cancer mortality rates despite lower incidence in some cancers ref [21].",
+    "refNo": 21,
+    "title": "AI outperforms radiologists in mammographic screening",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Furthermore, the adoption of AI in mobile health applications for skin cancer screening reveals that user preferences and digital literacy vary significantly among younger, tech-savvy populations, raising questions about generalizability and adherence in broader clinical settings ref [37].",
+    "refNo": 37,
+    "title": "Autonomous Detection and Classification of PI-RADS Lesions in an MRI Screening Population Incorporating Multicenter-Labeled Deep Learning and Biparametric Imaging: Proof of Concept",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "Recent work on interpretability methods in breast cancer diagnosis demonstrates how attention maps and saliency visualizations can enhance transparency, enabling radiologists to validate AI decisions and integrate them into clinical workflows ref [40].",
+    "refNo": 40,
+    "title": "Artificial Intelligence Detection of Missed Cancers at Digital Mammography That Were Detected at Digital Breast Tomosynthesis.",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "For instance, a clinical implementation study demonstrated that mammography exams labeled as likely normal by AI permitted a shift from double to single reading, maintaining cancer detection rates while significantly improving efficiency ref [64].",
+    "refNo": 64,
+    "title": "\"Feasibility test and application of AI in healthcare\"—with special emphasis in clinical, pharmacovigilance, and regulatory practices",
+    "marker_text": "[64]"
+  },
+  {
+    "sentence": "Similarly, in colonoscopy, AI systems designed to mitigate false-positive findings have enhanced endoscopist confidence and reduced unnecessary biopsies, contributing to more sustainable clinical adoption ref [37].",
+    "refNo": 37,
+    "title": "Autonomous Detection and Classification of PI-RADS Lesions in an MRI Screening Population Incorporating Multicenter-Labeled Deep Learning and Biparametric Imaging: Proof of Concept",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "A comprehensive assessment of AI in healthcare highlights the necessity of integrating clinical, pharmacovigilance, and regulatory frameworks early in development to ensure ongoing safety and accountability in operational environments ref [20].",
+    "refNo": 20,
+    "title": "Improved Cancer Detection Using Artificial Intelligence: a Retrospective Evaluation of Missed Cancers on Mammography",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "As highlighted in ref [66], the pervasive bias toward model development over data curation—termed 'data cascades'—leads to compounding errors in training datasets, particularly in high-stakes clinical domains.",
+    "refNo": 66,
+    "title": "Morphological and molecular breast cancer profiling through explainable machine learning",
+    "marker_text": "[66]"
+  },
+  {
+    "sentence": "Concurrently, the integration of secure, decentralized data-sharing frameworks, such as blockchain-enhanced systems (ref [30]), offers a promising pathway to enable multi-institutional collaboration while preserving patient privacy and regulatory compliance.",
+    "refNo": 30,
+    "title": "Artificial intelligence-assisted endoscopic detection of esophageal neoplasia in early stage: The next step?",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "Furthermore, the convergence of radiomics with explainable AI is poised to transform early cancer detection by linking imaging phenotypes to underlying molecular profiles, as demonstrated in breast cancer profiling (ref [34]) and lung cancer screening (ref [39], ref [43]).",
+    "refNo": 34,
+    "title": "NuCLS: A scalable crowdsourcing approach and dataset for nucleus classification and segmentation in breast cancer",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "Furthermore, the convergence of radiomics with explainable AI is poised to transform early cancer detection by linking imaging phenotypes to underlying molecular profiles, as demonstrated in breast cancer profiling (ref [34]) and lung cancer screening (ref [39], ref [43]).",
+    "refNo": 39,
+    "title": "Artificial intelligence is a promising prospect for the detection of prostate cancer extracapsular extension with mpMRI: a two-center comparative study",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "Furthermore, the convergence of radiomics with explainable AI is poised to transform early cancer detection by linking imaging phenotypes to underlying molecular profiles, as demonstrated in breast cancer profiling (ref [34]) and lung cancer screening (ref [39], ref [43]).",
+    "refNo": 43,
+    "title": "Artificial Intelligence Technology in Cancer Imaging: Clinical Challenges for Detection of Lung and Breast Cancer",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "For instance, ref [27] illustrates how radiomics and pathomics synergize to tailor breast cancer treatments by correlating imaging signatures with genomic profiles, enabling patient-specific therapeutic stratification.",
+    "refNo": 27,
+    "title": "Intraprocedural Artificial Intelligence for Colorectal Cancer Detection and Characterisation in Endoscopy and Laparoscopy",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "Similarly, ref [30] presents a groundbreaking approach in bladder cancer, where deep learning models directly infer FGFR3 mutational status from routine H&E-stained histology slides, potentially obviating the need for invasive molecular testing in preselection.",
+    "refNo": 30,
+    "title": "Artificial intelligence-assisted endoscopic detection of esophageal neoplasia in early stage: The next step?",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "However, the clinical translation of such multimodal systems demands rigorous validation across diverse populations and imaging protocols. ref [28].",
+    "refNo": 28,
+    "title": "Diagnostic accuracy of a novel artificial intelligence system for adenoma detection in daily practice: a prospective nonrandomized comparative study",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Ref [40] demonstrates how radiogenomic signatures derived from deep neural networks correlate with survival and treatment efficacy, offering a pathway to tailor therapy without invasive biopsies.",
+    "refNo": 40,
+    "title": "Artificial Intelligence Detection of Missed Cancers at Digital Mammography That Were Detected at Digital Breast Tomosynthesis.",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "Similarly, in breast cancer, AI-driven analysis of tumor nuclear morphology has been shown to predict neoadjuvant chemotherapy response with high accuracy, as evidenced by ref [43], which leverages convolutional architectures to extract nuclear feature patterns from histopathology slides that align with molecular subtypes.",
+    "refNo": 43,
+    "title": "Artificial Intelligence Technology in Cancer Imaging: Clinical Challenges for Detection of Lung and Breast Cancer",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "Ref [19] systematically reviews AI techniques applicable to electronic health records and clinical notes, highlighting their potential to identify subtle, longitudinal risk signals preceding imaging abnormalities.",
+    "refNo": 19,
+    "title": "Optimizing risk-based breast cancer screening policies with reinforcement learning",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Recent work demonstrates how AI-powered predictive models, trained on multimodal clinical and imaging data, can identify subtle biomarkers of disease progression long before clinical symptoms manifest, particularly in conditions such as diabetes, cardiovascular disease, and neurodegenerative disorders ref [35].",
+    "refNo": 35,
+    "title": "Whole-Slide Image Focus Quality: Automatic Assessment and Impact on AI Cancer Detection",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "Concurrently, advances in multimodal imaging are expanding the scope of AI-driven diagnostics beyond single-modality analysis, with lung cancer detection benefiting significantly from fused CT, PET, and radiomic signatures that capture both structural and metabolic tumor characteristics ref [42].",
+    "refNo": 42,
+    "title": "AI-aided detection of malignant lesions in mammography screening – evaluation of a program in clinical practice",
+    "marker_text": "[42]"
+  },
+  {
+    "sentence": "The feasibility of deploying AI in healthcare settings has been demonstrated in contexts spanning clinical decision support, adverse event monitoring, and regulatory reporting, underscoring the need for structured pathways that bridge technical innovation with institutional workflows ref [20].",
+    "refNo": 20,
+    "title": "Improved Cancer Detection Using Artificial Intelligence: a Retrospective Evaluation of Missed Cancers on Mammography",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "For instance, the synergy between nanogenomics and AI offers unprecedented potential for stratifying breast cancer subtypes and predicting therapeutic response directly from imaging phenotypes, thereby transforming screening into a prognostic tool ref [42].",
+    "refNo": 42,
+    "title": "AI-aided detection of malignant lesions in mammography screening – evaluation of a program in clinical practice",
+    "marker_text": "[42]"
+  },
+  {
+    "sentence": "Similarly, multimodal AI systems for Barrett’s esophagus neoplasia detection demonstrate how combining endoscopic, histologic, and molecular data can enhance diagnostic specificity and reduce inter-observer variability ref [35].",
+    "refNo": 35,
+    "title": "Whole-Slide Image Focus Quality: Automatic Assessment and Impact on AI Cancer Detection",
+    "marker_text": "[35]"
+  }
+]

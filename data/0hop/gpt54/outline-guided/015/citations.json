@@ -1,0 +1,830 @@
+[
+  {
+    "sentence": "Consistent with foundational scoping frameworks, the objective was to map the extent, nature, and conceptual organization of the field, identify knowledge gaps, and clarify how simulation studies have been used to interpret atrial electrical heterogeneity rather than to estimate pooled effects ref [1], ref [2].",
+    "refNo": 1,
+    "title": "Scoping studies: towards a methodological framework",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Consistent with foundational scoping frameworks, the objective was to map the extent, nature, and conceptual organization of the field, identify knowledge gaps, and clarify how simulation studies have been used to interpret atrial electrical heterogeneity rather than to estimate pooled effects ref [1], ref [2].",
+    "refNo": 2,
+    "title": "Guidance for conducting systematic scoping reviews",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Methodologically, we followed the iterative logic established for scoping studies, in which question refinement, search development, study selection, and data charting proceed recursively as familiarity with the evidence base increases ref [1], ref [2].",
+    "refNo": 1,
+    "title": "Scoping studies: towards a methodological framework",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Methodologically, we followed the iterative logic established for scoping studies, in which question refinement, search development, study selection, and data charting proceed recursively as familiarity with the evidence base increases ref [1], ref [2].",
+    "refNo": 2,
+    "title": "Guidance for conducting systematic scoping reviews",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "In keeping with scoping guidance, broad eligibility criteria were used to capture mechanistic simulation papers, image-based atrial models, electrophysiological modeling studies, and translational studies linking simulated atrial activation to surface ECG observables ref [2].",
+    "refNo": 2,
+    "title": "Guidance for conducting systematic scoping reviews",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Searches should therefore be understood as comprehensive rather than effect-oriented, with emphasis on mapping published evidence and tracing conceptual linkages across modeling, signal analysis, and clinical interpretation ref [1], ref [2].",
+    "refNo": 1,
+    "title": "Scoping studies: towards a methodological framework",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Searches should therefore be understood as comprehensive rather than effect-oriented, with emphasis on mapping published evidence and tracing conceptual linkages across modeling, signal analysis, and clinical interpretation ref [1], ref [2].",
+    "refNo": 2,
+    "title": "Guidance for conducting systematic scoping reviews",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Results are reported descriptively and thematically, reflecting scoping-review practice in which formal risk-of-bias assessment and quantitative synthesis are typically not the primary aims ref [1], ref [2].",
+    "refNo": 1,
+    "title": "Scoping studies: towards a methodological framework",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Results are reported descriptively and thematically, reflecting scoping-review practice in which formal risk-of-bias assessment and quantitative synthesis are typically not the primary aims ref [1], ref [2].",
+    "refNo": 2,
+    "title": "Guidance for conducting systematic scoping reviews",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Contemporary reviews emphasize that duration alone is an incomplete surrogate: morphology, polarity, terminal force, and lead-dependent patterning can reveal local conduction disturbances even when global prolongation is modest ref [4].",
+    "refNo": 4,
+    "title": "P-wave morphology: underlying mechanisms and clinical implications",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "This distinction is central for AF-oriented phenotyping, particularly in patients with paroxysmal disease or limited structural remodeling ref [4].",
+    "refNo": 4,
+    "title": "P-wave morphology: underlying mechanisms and clinical implications",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Martínez et al. showed that increased beat-to-beat variability in P-wave arc length and area during the hours preceding paroxysmal AF improves discrimination between healthy rhythm, remote pre-AF segments, and ECGs recorded close to AF onset, supporting the concept of progressive conduction instability before arrhythmia initiation ref [3].",
+    "refNo": 3,
+    "title": "Morphological variability of the P-wave for premature envision of paroxysmal atrial fibrillation events",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Consistently, Censi et al. quantified cross-correlation-, amplitude-, and warping-based P-wave variability indices after cardioversion and found markedly greater variability in AF patients than in controls, with cross-correlation showing particularly high diagnostic performance ref [5].",
+    "refNo": 5,
+    "title": "P-wave variability and atrial fibrillation",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Reduction in P-wave duration after pulmonary vein isolation has been associated with successful lesion delivery and freedom from AF recurrence, suggesting that the terminal P-wave may partly reflect activation of pulmonary-vein sleeves and that post-ablation shortening can serve as a noninvasive procedural marker ref [6].",
+    "refNo": 6,
+    "title": "Reduction of P-wave duration and successful pulmonary vein isolation in patients with atrial fibrillation",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Accordingly, AF phenotyping for this review is organized around three signal layers: static morphology, beat-to-beat variability, and intervention-induced remodeling, each linking surface ECG observations to underlying atrial conduction mechanisms ref [4], ref [6].",
+    "refNo": 4,
+    "title": "P-wave morphology: underlying mechanisms and clinical implications",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Accordingly, AF phenotyping for this review is organized around three signal layers: static morphology, beat-to-beat variability, and intervention-induced remodeling, each linking surface ECG observations to underlying atrial conduction mechanisms ref [4], ref [6].",
+    "refNo": 6,
+    "title": "Reduction of P-wave duration and successful pulmonary vein isolation in patients with atrial fibrillation",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Early morphologically realistic studies showed that discrete atrial structures—such as the crista terminalis, vena caval orifices, and coronary sinus musculature—shape reentry pathways and rotor anchoring, thereby clarifying why similar triggers may yield different macroscopic activation patterns in different substrates ref [12].",
+    "refNo": 12,
+    "title": "Slow conduction in the border zones of patchy fibrosis stabilizes the drivers for atrial fibrillation: insights from multi-scale human atrial modeling",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Species-specific platforms further established how regional ionic heterogeneity and conduction anisotropy create conditions for conduction block and rapid atrial arrhythmias, first in canine atria and later in sheep models that explicitly examined pulmonary-vein-driven AF initiation and maintenance ref [11], ref [8].",
+    "refNo": 11,
+    "title": "Personalization of atrial anatomy and electrophysiology as a basis for clinical modeling of radio-frequency ablation of atrial fibrillation",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Species-specific platforms further established how regional ionic heterogeneity and conduction anisotropy create conditions for conduction block and rapid atrial arrhythmias, first in canine atria and later in sheep models that explicitly examined pulmonary-vein-driven AF initiation and maintenance ref [11], ref [8].",
+    "refNo": 8,
+    "title": "Electrophysiological models for the heterogeneous canine atria: computational platform for studying rapid atrial arrhythmias",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Reviews of virtual ablation studies emphasize that simulations are most informative when they explain why a lesion set succeeds or fails in a given substrate, rather than merely reproducing procedural endpoints ref [7].",
+    "refNo": 7,
+    "title": "Lessons from computer simulations of ablation of atrial fibrillation",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Patient-specific workflows now combine imaging-derived anatomy, rule-based or mapped fiber orientation, electrophysiological personalization, and lesion representation to simulate radio-frequency ablation and to interpret post-procedural conduction gaps ref [10].",
+    "refNo": 10,
+    "title": "A novel computational sheep atria model for the study of atrial fibrillation",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "These frameworks have also shown that fibrosis distribution can determine where rotors stabilize, with slow conduction in patchy border zones promoting localized drivers and suggesting imaging-informed ablation targets ref [12].",
+    "refNo": 12,
+    "title": "Slow conduction in the border zones of patchy fibrosis stabilizes the drivers for atrial fibrillation: insights from multi-scale human atrial modeling",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Three-dimensional virtual human atria demonstrated that AF-induced ionic remodeling abbreviates action potential duration non-uniformly, amplifies vulnerability at key junctions such as CT/PM and PV/LA, and stabilizes faster reentrant activity ref [17].",
+    "refNo": 17,
+    "title": "Atrial fibrillation: mechanisms, therapeutics, and future directions",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Multiscale fibrosis models further indicate that myocyte-fibroblast coupling and reduced tissue conductivity can shift rotor dynamics from meandering wavelets to substrate-locked drivers in patient-specific fibrotic regions ref [12].",
+    "refNo": 12,
+    "title": "Slow conduction in the border zones of patchy fibrosis stabilizes the drivers for atrial fibrillation: insights from multi-scale human atrial modeling",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "For the present review topic, these advances are highly relevant: they provide the mechanistic bridge from beat-to-beat atrial conduction variability during sinus rhythm to latent AF substrates that may already perturb activation pathways and, ultimately, P-wave morphology before overt arrhythmia emerges ref [10], ref [17].",
+    "refNo": 10,
+    "title": "A novel computational sheep atria model for the study of atrial fibrillation",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "For the present review topic, these advances are highly relevant: they provide the mechanistic bridge from beat-to-beat atrial conduction variability during sinus rhythm to latent AF substrates that may already perturb activation pathways and, ultimately, P-wave morphology before overt arrhythmia emerges ref [10], ref [17].",
+    "refNo": 17,
+    "title": "Atrial fibrillation: mechanisms, therapeutics, and future directions",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Atrial fibrillation (AF) is the most prevalent sustained arrhythmia and a major cause of stroke, heart failure, hospitalization, and excess mortality, with lifetime risk rising markedly with age and comorbidity burden such as hypertension, valvular disease, obesity, diabetes, and sleep apnoea ref [14], ref [15], ref [16], ref [17].",
+    "refNo": 14,
+    "title": "The clinical profile and pathophysiology of atrial fibrillation: relationships among clinical features, epidemiology, and mechanisms",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Atrial fibrillation (AF) is the most prevalent sustained arrhythmia and a major cause of stroke, heart failure, hospitalization, and excess mortality, with lifetime risk rising markedly with age and comorbidity burden such as hypertension, valvular disease, obesity, diabetes, and sleep apnoea ref [14], ref [15], ref [16], ref [17].",
+    "refNo": 15,
+    "title": "2016 ESC Guidelines for the management of atrial fibrillation developed in collaboration with EACTS",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Atrial fibrillation (AF) is the most prevalent sustained arrhythmia and a major cause of stroke, heart failure, hospitalization, and excess mortality, with lifetime risk rising markedly with age and comorbidity burden such as hypertension, valvular disease, obesity, diabetes, and sleep apnoea ref [14], ref [15], ref [16], ref [17].",
+    "refNo": 16,
+    "title": "Atrial fibrillation: classification, pathophysiology, mechanisms and drug treatment",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Atrial fibrillation (AF) is the most prevalent sustained arrhythmia and a major cause of stroke, heart failure, hospitalization, and excess mortality, with lifetime risk rising markedly with age and comorbidity burden such as hypertension, valvular disease, obesity, diabetes, and sleep apnoea ref [14], ref [15], ref [16], ref [17].",
+    "refNo": 17,
+    "title": "Atrial fibrillation: mechanisms, therapeutics, and future directions",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Clinically, AF is classified as paroxysmal, persistent, or permanent, but these temporal patterns also reflect progressive substrate remodeling rather than merely episode duration ref [15], ref [16].",
+    "refNo": 15,
+    "title": "2016 ESC Guidelines for the management of atrial fibrillation developed in collaboration with EACTS",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Clinically, AF is classified as paroxysmal, persistent, or permanent, but these temporal patterns also reflect progressive substrate remodeling rather than merely episode duration ref [15], ref [16].",
+    "refNo": 16,
+    "title": "Atrial fibrillation: classification, pathophysiology, mechanisms and drug treatment",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "The seminal observation that ectopic beats from the pulmonary veins can spontaneously initiate AF established focal firing as a key initiator, especially in paroxysmal disease ref [10].",
+    "refNo": 10,
+    "title": "A novel computational sheep atria model for the study of atrial fibrillation",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Sustained AF then depends on re-entry promoted by shortened refractoriness, conduction heterogeneity, fibrosis, and autonomic imbalance; these concepts are synthesized in major pathophysiological reviews ref [14], ref [16], ref [18].",
+    "refNo": 14,
+    "title": "The clinical profile and pathophysiology of atrial fibrillation: relationships among clinical features, epidemiology, and mechanisms",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Sustained AF then depends on re-entry promoted by shortened refractoriness, conduction heterogeneity, fibrosis, and autonomic imbalance; these concepts are synthesized in major pathophysiological reviews ref [14], ref [16], ref [18].",
+    "refNo": 16,
+    "title": "Atrial fibrillation: classification, pathophysiology, mechanisms and drug treatment",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Sustained AF then depends on re-entry promoted by shortened refractoriness, conduction heterogeneity, fibrosis, and autonomic imbalance; these concepts are synthesized in major pathophysiological reviews ref [14], ref [16], ref [18].",
+    "refNo": 18,
+    "title": "Atrial fibrillation begets atrial fibrillation?: a study in awake chronically instrumented goats",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Experimental work further showed that “AF begets AF,” whereby rapid atrial activation induces electrical remodeling that stabilizes the arrhythmia and favors progression from intermittent to sustained forms ref [21].",
+    "refNo": 21,
+    "title": "Cellular and molecular mechanisms of atrial arrhythmogenesis in patients with paroxysmal atrial fibrillation",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Left atrial enlargement has long been linked to AF risk ref [11], and contemporary evidence emphasizes structural, calcium-handling, and molecular abnormalities even in paroxysmal AF patients in sinus rhythm ref [13], ref [18].",
+    "refNo": 11,
+    "title": "Personalization of atrial anatomy and electrophysiology as a basis for clinical modeling of radio-frequency ablation of atrial fibrillation",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Left atrial enlargement has long been linked to AF risk ref [11], and contemporary evidence emphasizes structural, calcium-handling, and molecular abnormalities even in paroxysmal AF patients in sinus rhythm ref [13], ref [18].",
+    "refNo": 13,
+    "title": "Pro-arrhythmogenic effects of atrial fibrillation-induced electrical remodelling: insights from the three-dimensional virtual human atria",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Left atrial enlargement has long been linked to AF risk ref [11], and contemporary evidence emphasizes structural, calcium-handling, and molecular abnormalities even in paroxysmal AF patients in sinus rhythm ref [13], ref [18].",
+    "refNo": 18,
+    "title": "Atrial fibrillation begets atrial fibrillation?: a study in awake chronically instrumented goats",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Accordingly, sinus-rhythm atrial signals should be interpreted as markers of an underlying arrhythmogenic milieu rather than as purely normal electrical activity ref [14], ref [15], ref [17].",
+    "refNo": 14,
+    "title": "The clinical profile and pathophysiology of atrial fibrillation: relationships among clinical features, epidemiology, and mechanisms",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Accordingly, sinus-rhythm atrial signals should be interpreted as markers of an underlying arrhythmogenic milieu rather than as purely normal electrical activity ref [14], ref [15], ref [17].",
+    "refNo": 15,
+    "title": "2016 ESC Guidelines for the management of atrial fibrillation developed in collaboration with EACTS",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Accordingly, sinus-rhythm atrial signals should be interpreted as markers of an underlying arrhythmogenic milieu rather than as purely normal electrical activity ref [14], ref [15], ref [17].",
+    "refNo": 17,
+    "title": "Atrial fibrillation: mechanisms, therapeutics, and future directions",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Early MRI-derived human atrial models demonstrated that realistic chamber size and obstacle placement already shape wave break, reentry, and activation pathways, even when anisotropy is simplified ref [23], ref [17].",
+    "refNo": 23,
+    "title": "Study of atrial arrhythmias in a computer model based on magnetic resonance images of human atria",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Early MRI-derived human atrial models demonstrated that realistic chamber size and obstacle placement already shape wave break, reentry, and activation pathways, even when anisotropy is simplified ref [23], ref [17].",
+    "refNo": 17,
+    "title": "Atrial fibrillation: mechanisms, therapeutics, and future directions",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Subsequent whole-atrium reconstructions incorporated fiber orientation and torso coupling, enabling more faithful simulation of activation timing and the link between atrial sources and body-surface signals ref [12], ref [19].",
+    "refNo": 12,
+    "title": "Slow conduction in the border zones of patchy fibrosis stabilizes the drivers for atrial fibrillation: insights from multi-scale human atrial modeling",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Subsequent whole-atrium reconstructions incorporated fiber orientation and torso coupling, enabling more faithful simulation of activation timing and the link between atrial sources and body-surface signals ref [12], ref [19].",
+    "refNo": 19,
+    "title": "Spontaneous initiation of atrial fibrillation by ectopic beats originating in the pulmonary veins",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Fiber-informed human atrial models showed that regional bundle organization governs electrogram morphology and arrhythmic activation patterns ref [12].",
+    "refNo": 12,
+    "title": "Slow conduction in the border zones of patchy fibrosis stabilizes the drivers for atrial fibrillation: insights from multi-scale human atrial modeling",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Bilayer formulations further captured endo-epicardial dissociation, abrupt transmural fiber changes in the left atrium, and the discrete role of crista terminalis and pectinate muscles while remaining computationally tractable for long simulations ref [14].",
+    "refNo": 14,
+    "title": "The clinical profile and pathophysiology of atrial fibrillation: relationships among clinical features, epidemiology, and mechanisms",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Structure-specific reconstructions of the right atrial appendage and image-based sheep atria similarly emphasized that fine-scale bundle geometry and local myofiber organization critically modulate conduction, local activation delay, and vulnerability to reentry ref [16], ref [17], ref [22].",
+    "refNo": 16,
+    "title": "Atrial fibrillation: classification, pathophysiology, mechanisms and drug treatment",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Structure-specific reconstructions of the right atrial appendage and image-based sheep atria similarly emphasized that fine-scale bundle geometry and local myofiber organization critically modulate conduction, local activation delay, and vulnerability to reentry ref [16], ref [17], ref [22].",
+    "refNo": 17,
+    "title": "Atrial fibrillation: mechanisms, therapeutics, and future directions",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Structure-specific reconstructions of the right atrial appendage and image-based sheep atria similarly emphasized that fine-scale bundle geometry and local myofiber organization critically modulate conduction, local activation delay, and vulnerability to reentry ref [16], ref [17], ref [22].",
+    "refNo": 22,
+    "title": "Myocardial architecture and patient variability in clinical patterns of atrial fibrillation",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "A three-dimensional right atrial model including sinoatrial and atrioventricular nodes reproduced classical nodal behaviors and highlighted how anatomical pathways, block zones, and anisotropy constrain propagation ref [11].",
+    "refNo": 11,
+    "title": "Personalization of atrial anatomy and electrophysiology as a basis for clinical modeling of radio-frequency ablation of atrial fibrillation",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "More recent detailed human atria–torso frameworks quantified how only selected atrial regions dominate the body-surface P-wave, reinforcing that beat-to-beat P-wave morphology during sinus rhythm depends not only on cellular electrophysiology but also on individualized atrial geometry, fiber architecture, wall layering, and interatrial connections ref [19].",
+    "refNo": 19,
+    "title": "Spontaneous initiation of atrial fibrillation by ectopic beats originating in the pulmonary veins",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Foundational models by Nygren et al. and Courtemanche et al. established the basic human atrial AP framework and clarified how Ito/Isus/IKur, IKr, IKs, IK1, and ICaL interact to shape the marked heterogeneity of atrial repolarization and rate adaptation during sinus rhythm ref [33], ref [36].",
+    "refNo": 33,
+    "title": "Benchmarking electrophysiological models of human atrial myocytes",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "Foundational models by Nygren et al. and Courtemanche et al. established the basic human atrial AP framework and clarified how Ito/Isus/IKur, IKr, IKs, IK1, and ICaL interact to shape the marked heterogeneity of atrial repolarization and rate adaptation during sinus rhythm ref [33], ref [36].",
+    "refNo": 36,
+    "title": "Human atrial action potential and Ca 2+ model: Sinus rhythm and chronic atrial fibrillation",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "These baseline formulations remain influential because they linked ionic current balance directly to AP morphology, refractoriness, and restitution properties relevant for atrial conduction and P-wave genesis ref [33], ref [36].",
+    "refNo": 33,
+    "title": "Benchmarking electrophysiological models of human atrial myocytes",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "These baseline formulations remain influential because they linked ionic current balance directly to AP morphology, refractoriness, and restitution properties relevant for atrial conduction and P-wave genesis ref [33], ref [36].",
+    "refNo": 36,
+    "title": "Human atrial action potential and Ca 2+ model: Sinus rhythm and chronic atrial fibrillation",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "Koivumäki et al. introduced spatially detailed SR release and uptake to reproduce the atrial-specific biphasic Ca2+ transient, delayed centripetal Ca2+ propagation, and the strong coupling between junctional Ca2+ release, NCX, and AP duration ref [30].",
+    "refNo": 30,
+    "title": "Impact of sarcoplasmic reticulum calcium release on calcium dynamics and action potential morphology in human atrial myocytes: A computational study",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "Grandi et al. further integrated human atrial AP and Ca2+ dynamics in sinus rhythm and chronic AF, highlighting how altered ICaL, IK1, IKs, INCX, SERCA, and SR leak reshape both repolarization and Ca2+ homeostasis under remodeling ref [37].",
+    "refNo": 37,
+    "title": "Ionic targets for drug therapy and atrial fibrillation-induced electrical remodeling: Insights from a mathematical model",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "Maleckar et al. refined repolarizing K+ current formulations and rate dependence, whereas newer formulations explicitly account for variable T-tubule organization to interrogate structure–function coupling in AF-prone atrial cells ref [36], ref [35].",
+    "refNo": 36,
+    "title": "Human atrial action potential and Ca 2+ model: Sinus rhythm and chronic atrial fibrillation",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "Maleckar et al. refined repolarizing K+ current formulations and rate dependence, whereas newer formulations explicitly account for variable T-tubule organization to interrogate structure–function coupling in AF-prone atrial cells ref [36], ref [35].",
+    "refNo": 35,
+    "title": "Ionic mechanisms underlying human atrial action potential properties: insights from a mathematical model",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "Benchmarking work has shown substantial divergence across published human atrial models in AP shape, long-term stability, alternans propensity, restitution, and tissue-level rotor behavior, underscoring the need to match model choice to the scientific question ref [34].",
+    "refNo": 34,
+    "title": "A new model of the human atrial myocyte with variable T-tubule organization for the study of atrial fibrillation",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "Likewise, patient-specific fitting studies demonstrated that both detailed and reduced-order atrial myocyte models can be tuned to reproduce individualized AP morphology and restitution, suggesting a practical route toward personalized multiscale simulations of sinus-rhythm substrates in AF patients ref [31].",
+    "refNo": 31,
+    "title": "Comparison of detailed and simplified models of human atrial myocytes to recapitulate patient specific properties",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "Finally, in silico drug studies of AF-induced electrical remodeling identified atrial-selective targets such as IKur/Isus and highlighted how baseline ionic state determines whether a given intervention prolongs refractoriness or merely reshapes plateau voltage ref [15].",
+    "refNo": 15,
+    "title": "2016 ESC Guidelines for the management of atrial fibrillation developed in collaboration with EACTS",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "For a scoping review focused on beat-to-beat P-wave variability during sinus rhythm, these cellular models are indispensable because they define the ionic determinants of atrial excitability, recovery, and source–sink behavior that ultimately propagate upward to tissue activation timing and surface ECG morphology ref [31], ref [34], ref [37].",
+    "refNo": 31,
+    "title": "Comparison of detailed and simplified models of human atrial myocytes to recapitulate patient specific properties",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "For a scoping review focused on beat-to-beat P-wave variability during sinus rhythm, these cellular models are indispensable because they define the ionic determinants of atrial excitability, recovery, and source–sink behavior that ultimately propagate upward to tissue activation timing and surface ECG morphology ref [31], ref [34], ref [37].",
+    "refNo": 34,
+    "title": "A new model of the human atrial myocyte with variable T-tubule organization for the study of atrial fibrillation",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "For a scoping review focused on beat-to-beat P-wave variability during sinus rhythm, these cellular models are indispensable because they define the ionic determinants of atrial excitability, recovery, and source–sink behavior that ultimately propagate upward to tissue activation timing and surface ECG morphology ref [31], ref [34], ref [37].",
+    "refNo": 37,
+    "title": "Ionic targets for drug therapy and atrial fibrillation-induced electrical remodeling: Insights from a mathematical model",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "Simulation studies show that rotor and focal-source detection is highly sensitive to electrode configuration and sampling density: multi-electrode layouts alter apparent driver localization, and clinically relevant basket-like sparsity can introduce false phase singularities or miss meandering cores altogether ref [39], ref [41], ref [12].",
+    "refNo": 39,
+    "title": "Spatial resolution requirements for accurate identification of drivers of atrial fibrillation",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "Simulation studies show that rotor and focal-source detection is highly sensitive to electrode configuration and sampling density: multi-electrode layouts alter apparent driver localization, and clinically relevant basket-like sparsity can introduce false phase singularities or miss meandering cores altogether ref [39], ref [41], ref [12].",
+    "refNo": 41,
+    "title": "Effect of the electrograms density in detecting and ablating the tip of the rotor during chronic atrial fibrillation: An in silico study",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "Simulation studies show that rotor and focal-source detection is highly sensitive to electrode configuration and sampling density: multi-electrode layouts alter apparent driver localization, and clinically relevant basket-like sparsity can introduce false phase singularities or miss meandering cores altogether ref [39], ref [41], ref [12].",
+    "refNo": 12,
+    "title": "Slow conduction in the border zones of patchy fibrosis stabilizes the drivers for atrial fibrillation: insights from multi-scale human atrial modeling",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "These effects are compounded by signal modality, since unipolar and bipolar electrograms, interpolation, and preprocessing each reshape the inferred phase landscape and may transform relatively simple potential maps into apparently rotational patterns ref [41], ref [12].",
+    "refNo": 41,
+    "title": "Effect of the electrograms density in detecting and ablating the tip of the rotor during chronic atrial fibrillation: An in silico study",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "These effects are compounded by signal modality, since unipolar and bipolar electrograms, interpolation, and preprocessing each reshape the inferred phase landscape and may transform relatively simple potential maps into apparently rotational patterns ref [41], ref [12].",
+    "refNo": 12,
+    "title": "Slow conduction in the border zones of patchy fibrosis stabilizes the drivers for atrial fibrillation: insights from multi-scale human atrial modeling",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Complementary entropy-based approaches likewise demonstrate that rotor-tip localization degrades as electrogram density decreases, with practical accuracy dropping once spacing exceeds roughly catheter-scale limits ref [45].",
+    "refNo": 45,
+    "title": "Impact of varying ablation patterns in a simulation model of persistent atrial fibrillation",
+    "marker_text": "[45]"
+  },
+  {
+    "sentence": "Catheter-navigation algorithms derived from simulated electrogram timing and first-activated bipoles can iteratively localize both rotor and focal sources without global panoramic coverage, illustrating how model-based signal features may support targeted mapping strategies ref [43].",
+    "refNo": 43,
+    "title": "Study on the trustability of phase mapping methods to represent atrial potentials in atrial fibrillation",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "Localized lesions may terminate AF by creating excitable gaps vulnerable to invading waves, by dislodging anchored reentry, or by connecting rotor cores to anatomical obstacles; conversely, incomplete or poorly placed lesions can stabilize organized atrial tachycardia ref [18], ref [20].",
+    "refNo": 18,
+    "title": "Atrial fibrillation begets atrial fibrillation?: a study in awake chronically instrumented goats",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Localized lesions may terminate AF by creating excitable gaps vulnerable to invading waves, by dislodging anchored reentry, or by connecting rotor cores to anatomical obstacles; conversely, incomplete or poorly placed lesions can stabilize organized atrial tachycardia ref [18], ref [20].",
+    "refNo": 20,
+    "title": "Relation between echocardiographically determined left atrial size and atrial fibrillation",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Model-guided comparisons of lesion sets further suggest that conventional PVI-plus-lines strategies may fail when drivers are extra-PV, whereas phase-singularity-guided circles, perforated circles, lines, or crosses placed over high-density driver regions can be more effective in specific substrates ref [9], ref [18], ref [20].",
+    "refNo": 9,
+    "title": "Reentry in a morphologically realistic atrial model",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Model-guided comparisons of lesion sets further suggest that conventional PVI-plus-lines strategies may fail when drivers are extra-PV, whereas phase-singularity-guided circles, perforated circles, lines, or crosses placed over high-density driver regions can be more effective in specific substrates ref [9], ref [18], ref [20].",
+    "refNo": 18,
+    "title": "Atrial fibrillation begets atrial fibrillation?: a study in awake chronically instrumented goats",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Model-guided comparisons of lesion sets further suggest that conventional PVI-plus-lines strategies may fail when drivers are extra-PV, whereas phase-singularity-guided circles, perforated circles, lines, or crosses placed over high-density driver regions can be more effective in specific substrates ref [9], ref [18], ref [20].",
+    "refNo": 20,
+    "title": "Relation between echocardiographically determined left atrial size and atrial fibrillation",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "More aggressive streamline-based lesion sets may terminate persistent AF in simulation, but at the cost of greater tissue burden ref [9].",
+    "refNo": 9,
+    "title": "Reentry in a morphologically realistic atrial model",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Overall, in silico studies emphasize that electrogram interpretation and ablation success are inseparable from mapping resolution, signal processing assumptions, and lesion design, all of which are highly relevant when relating simulated AF drivers to beat-to-beat atrial activation and ultimately to surface P-wave variability during sinus rhythm ref [39], ref [41], ref [9], ref [12].",
+    "refNo": 39,
+    "title": "Spatial resolution requirements for accurate identification of drivers of atrial fibrillation",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "Overall, in silico studies emphasize that electrogram interpretation and ablation success are inseparable from mapping resolution, signal processing assumptions, and lesion design, all of which are highly relevant when relating simulated AF drivers to beat-to-beat atrial activation and ultimately to surface P-wave variability during sinus rhythm ref [39], ref [41], ref [9], ref [12].",
+    "refNo": 41,
+    "title": "Effect of the electrograms density in detecting and ablating the tip of the rotor during chronic atrial fibrillation: An in silico study",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "Overall, in silico studies emphasize that electrogram interpretation and ablation success are inseparable from mapping resolution, signal processing assumptions, and lesion design, all of which are highly relevant when relating simulated AF drivers to beat-to-beat atrial activation and ultimately to surface P-wave variability during sinus rhythm ref [39], ref [41], ref [9], ref [12].",
+    "refNo": 9,
+    "title": "Reentry in a morphologically realistic atrial model",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Overall, in silico studies emphasize that electrogram interpretation and ablation success are inseparable from mapping resolution, signal processing assumptions, and lesion design, all of which are highly relevant when relating simulated AF drivers to beat-to-beat atrial activation and ultimately to surface P-wave variability during sinus rhythm ref [39], ref [41], ref [9], ref [12].",
+    "refNo": 12,
+    "title": "Slow conduction in the border zones of patchy fibrosis stabilizes the drivers for atrial fibrillation: insights from multi-scale human atrial modeling",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Simplified cellular automata as well as biophysical atrial models reproduce stochastic onset and spontaneous termination, showing that fibrosis burden, pulmonary-vein bursting, and restitution steepness interact nonlinearly rather than monotonically to determine AF probability ref [46].",
+    "refNo": 46,
+    "title": "Mechanisms of stochastic onset and termination of atrial fibrillation studied with a cellular automaton model",
+    "marker_text": "[46]"
+  },
+  {
+    "sentence": "Complementary clinical-computational work further identified steep repolarization restitution and reduced activation latency as convergent proarrhythmic pathways for AF initiation under adrenergic stimulation or rapid pacing, whereas adenosine shortened APD without facilitating AF because activation latency remained limiting ref [52].",
+    "refNo": 52,
+    "title": "Inducibility of human atrial fibrillation in an in silico model reflecting local acetylcholine distribution and concentration",
+    "marker_text": "[52]"
+  },
+  {
+    "sentence": "Pharmacological remodeling induced by chronic β-blocker therapy prolongs APD and ERP, suppresses alternans, reduces maximum capture rate, and shortens re-entry lifespan in multiscale human atrial simulations, supporting an anti-fibrillatory effect beyond acute autonomic blockade ref [51].",
+    "refNo": 51,
+    "title": "Mechanisms of atrial fibrillation termination by rapidly unbinding Na + channel blockers: Insights from mathematical models and experimental correlates",
+    "marker_text": "[51]"
+  },
+  {
+    "sentence": "At the same time, transcriptional remodeling is increasingly modeled: reduced PITX2 expression depolarizes atrial resting membrane potential and enhances the efficacy of sodium-channel blockers by increasing post-repolarization refractoriness, thereby offering a mechanistic basis for genotype-informed antiarrhythmic selection ref [11].",
+    "refNo": 11,
+    "title": "Personalization of atrial anatomy and electrophysiology as a basis for clinical modeling of radio-frequency ablation of atrial fibrillation",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Local parasympathetic heterogeneity is likewise important, because spatially distributed acetylcholine increases AF inducibility, while ganglionated plexi stimulation can generate pulmonary-vein triggers and local re-entry, linking autonomic remodeling to beat-to-beat atrial instability ref [19], ref [20].",
+    "refNo": 19,
+    "title": "Spontaneous initiation of atrial fibrillation by ectopic beats originating in the pulmonary veins",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Local parasympathetic heterogeneity is likewise important, because spatially distributed acetylcholine increases AF inducibility, while ganglionated plexi stimulation can generate pulmonary-vein triggers and local re-entry, linking autonomic remodeling to beat-to-beat atrial instability ref [19], ref [20].",
+    "refNo": 20,
+    "title": "Relation between echocardiographically determined left atrial size and atrial fibrillation",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Chloroquine terminates rotors more readily in paroxysmal than chronic AF substrates, implying reduced efficacy after electrical remodeling ref [12].",
+    "refNo": 12,
+    "title": "Slow conduction in the border zones of patchy fibrosis stabilizes the drivers for atrial fibrillation: insights from multi-scale human atrial modeling",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Rapidly unbinding Na-channel blockers terminate AF by reducing source current, enlarging rotor meander, and suppressing secondary wavebreaks rather than by simple wavelength prolongation ref [17].",
+    "refNo": 17,
+    "title": "Atrial fibrillation: mechanisms, therapeutics, and future directions",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Together, these studies indicate that AF behavior in sinus rhythm and under provocation depends not only on structural substrate, but also on remodeling state, autonomic tone, and drug- and genotype-dependent ionic context ref [51], ref [52], ref [11], ref [17].",
+    "refNo": 51,
+    "title": "Mechanisms of atrial fibrillation termination by rapidly unbinding Na + channel blockers: Insights from mathematical models and experimental correlates",
+    "marker_text": "[51]"
+  },
+  {
+    "sentence": "Together, these studies indicate that AF behavior in sinus rhythm and under provocation depends not only on structural substrate, but also on remodeling state, autonomic tone, and drug- and genotype-dependent ionic context ref [51], ref [52], ref [11], ref [17].",
+    "refNo": 52,
+    "title": "Inducibility of human atrial fibrillation in an in silico model reflecting local acetylcholine distribution and concentration",
+    "marker_text": "[52]"
+  },
+  {
+    "sentence": "Together, these studies indicate that AF behavior in sinus rhythm and under provocation depends not only on structural substrate, but also on remodeling state, autonomic tone, and drug- and genotype-dependent ionic context ref [51], ref [52], ref [11], ref [17].",
+    "refNo": 11,
+    "title": "Personalization of atrial anatomy and electrophysiology as a basis for clinical modeling of radio-frequency ablation of atrial fibrillation",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Together, these studies indicate that AF behavior in sinus rhythm and under provocation depends not only on structural substrate, but also on remodeling state, autonomic tone, and drug- and genotype-dependent ionic context ref [51], ref [52], ref [11], ref [17].",
+    "refNo": 17,
+    "title": "Atrial fibrillation: mechanisms, therapeutics, and future directions",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "P-wave morphology during sinus rhythm emerges from the interaction of three principal determinants: the site of impulse initiation in the right atrial pacemaker complex, the route and timing of interatrial conduction, and atrial geometry/remodeling that shapes activation vectors and completion time of depolarization ref [4].",
+    "refNo": 4,
+    "title": "P-wave morphology: underlying mechanisms and clinical implications",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Contemporary anatomical and physiological data further indicate that the sinoatrial node is not a point source but an extended, heterogeneous pacemaker region with superior–inferior variability and paranodal extensions, providing a structural basis for wandering pacemaker behavior and spontaneous P-wave changes even in otherwise normal rhythm ref [55].",
+    "refNo": 55,
+    "title": "The anatomy and physiology of the sinoatrial node-A contemporary review",
+    "marker_text": "[55]"
+  },
+  {
+    "sentence": "When excitation originates more superiorly or anteriorly, activation more often reaches the left atrium through Bachmann’s bundle; more inferior or mid-septal origins favor posterior or inferior interatrial connections, thereby changing the left atrial breakthrough site and the polarity or magnitude of terminal deflections, especially in lead V1 ref [4], ref [54].",
+    "refNo": 4,
+    "title": "P-wave morphology: underlying mechanisms and clinical implications",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "When excitation originates more superiorly or anteriorly, activation more often reaches the left atrium through Bachmann’s bundle; more inferior or mid-septal origins favor posterior or inferior interatrial connections, thereby changing the left atrial breakthrough site and the polarity or magnitude of terminal deflections, especially in lead V1 ref [4], ref [54].",
+    "refNo": 54,
+    "title": "Influence of the earliest right atrial activation site and its proximity to interatrial connections on P-wave morphology",
+    "marker_text": "[54]"
+  },
+  {
+    "sentence": "In personalized in silico atrial models, adjacent earliest activation sites produced up to a two-fold change in P-wave terminal force, independent of left atrial size, underscoring that abnormal terminal negativity cannot be interpreted purely as a surrogate of chamber enlargement ref [54].",
+    "refNo": 54,
+    "title": "Influence of the earliest right atrial activation site and its proximity to interatrial connections on P-wave morphology",
+    "marker_text": "[54]"
+  },
+  {
+    "sentence": "Structural remodeling, particularly fibrosis affecting thin posterior interatrial fibers, can suppress posterior breakthroughs and shift left atrial activation toward Bachmann-dominant pathways, accentuating biphasic or more negative terminal components without requiring marked global P-wave prolongation ref [4].",
+    "refNo": 4,
+    "title": "P-wave morphology: underlying mechanisms and clinical implications",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Thus, mechanistic interpretation of P-wave morphology should integrate pacemaker shift, interatrial connection integrity, and atrial structural substrate rather than rely on duration or terminal force alone ref [4], ref [54], ref [55].",
+    "refNo": 4,
+    "title": "P-wave morphology: underlying mechanisms and clinical implications",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Thus, mechanistic interpretation of P-wave morphology should integrate pacemaker shift, interatrial connection integrity, and atrial structural substrate rather than rely on duration or terminal force alone ref [4], ref [54], ref [55].",
+    "refNo": 54,
+    "title": "Influence of the earliest right atrial activation site and its proximity to interatrial connections on P-wave morphology",
+    "marker_text": "[54]"
+  },
+  {
+    "sentence": "Thus, mechanistic interpretation of P-wave morphology should integrate pacemaker shift, interatrial connection integrity, and atrial structural substrate rather than rely on duration or terminal force alone ref [4], ref [54], ref [55].",
+    "refNo": 55,
+    "title": "The anatomy and physiology of the sinoatrial node-A contemporary review",
+    "marker_text": "[55]"
+  },
+  {
+    "sentence": "Early clinical pipelines demonstrated that personalization of atrial geometry, rule-based fibers, interatrial connections, and conduction velocity could reproduce measured P-wave duration, left-atrial activation timing, and body-surface ECG features, thereby establishing a mechanistic bridge between sinus-rhythm observables and individualized atrial substrate characterization ref [11].",
+    "refNo": 11,
+    "title": "Personalization of atrial anatomy and electrophysiology as a basis for clinical modeling of radio-frequency ablation of atrial fibrillation",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Such frameworks are especially relevant for AF patients in sinus rhythm, where beat-to-beat or subject-specific P-wave variation may reflect hidden heterogeneity in conduction pathways, remodeling state, and scar distribution rather than simple measurement noise ref [11].",
+    "refNo": 11,
+    "title": "Personalization of atrial anatomy and electrophysiology as a basis for clinical modeling of radio-frequency ablation of atrial fibrillation",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Editorial syntheses and cohort studies have argued that bi-atrial models reconstructed from each patient’s anatomy and fibrosis pattern can localize re-entrant driver–prone regions, test virtual lesion sets, and iteratively reveal emergent post-ablation substrates before the procedure is performed ref [3].",
+    "refNo": 3,
+    "title": "Morphological variability of the P-wave for premature envision of paroxysmal atrial fibrillation events",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "In this context, computational inference becomes predictive when model outputs are compared against clinical mapping or recurrence patterns, and personalized when inferred targets depend on the individual spatial organization of fibrosis rather than on generic lesion templates ref [3].",
+    "refNo": 3,
+    "title": "Morphological variability of the P-wave for premature envision of paroxysmal atrial fibrillation events",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "These developments also underscore a practical message for ECG-oriented research: noninvasive P-wave descriptors, when combined with imaging-informed digital twins, may provide priors for substrate inference and for selecting which patients are most likely to benefit from further invasive mapping or tailored ablation planning ref [11], ref [3].",
+    "refNo": 11,
+    "title": "Personalization of atrial anatomy and electrophysiology as a basis for clinical modeling of radio-frequency ablation of atrial fibrillation",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "These developments also underscore a practical message for ECG-oriented research: noninvasive P-wave descriptors, when combined with imaging-informed digital twins, may provide priors for substrate inference and for selecting which patients are most likely to benefit from further invasive mapping or tailored ablation planning ref [11], ref [3].",
+    "refNo": 3,
+    "title": "Morphological variability of the P-wave for premature envision of paroxysmal atrial fibrillation events",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Current opinion therefore emphasizes modular personalization pipelines, multi-source validation, and clinically compatible turnaround times rather than fully autonomous decision support ref [3].",
+    "refNo": 3,
+    "title": "Morphological variability of the P-wave for premature envision of paroxysmal atrial fibrillation events",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "For the present review topic, the key implication is that sinus-rhythm P-wave morphology should increasingly be viewed not only as a descriptive biomarker, but as an input to Bayesian or mechanistic inference frameworks that estimate patient-specific atrial properties and prospectively test intervention scenarios in silico ref [11], ref [3].",
+    "refNo": 11,
+    "title": "Personalization of atrial anatomy and electrophysiology as a basis for clinical modeling of radio-frequency ablation of atrial fibrillation",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "For the present review topic, the key implication is that sinus-rhythm P-wave morphology should increasingly be viewed not only as a descriptive biomarker, but as an input to Bayesian or mechanistic inference frameworks that estimate patient-specific atrial properties and prospectively test intervention scenarios in silico ref [11], ref [3].",
+    "refNo": 3,
+    "title": "Morphological variability of the P-wave for premature envision of paroxysmal atrial fibrillation events",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "In electrocardiography, the forward problem is mathematically well posed yet not fully “solved” in practice, because realistic torso anatomy, inhomogeneous conductivities, and measurement-registration errors still materially affect body-surface potentials ref [2].",
+    "refNo": 2,
+    "title": "Guidance for conducting systematic scoping reviews",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "For atrial applications, multi-scale frameworks that couple detailed atrial activation to torso conduction have therefore become essential for interpreting how beat-to-beat shifts in sinus activation, interatrial conduction, or regional atrial substrate remodeling are expressed as changes in P-wave amplitude, polarity, and duration ref [3].",
+    "refNo": 3,
+    "title": "Morphological variability of the P-wave for premature envision of paroxysmal atrial fibrillation events",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "A key advance has been the construction of anatomically and electrophysiologically detailed atria–torso models that embed preferential bundles, regional ionic heterogeneity, and fiber architecture within realistic volume conductors ref [3].",
+    "refNo": 3,
+    "title": "Morphological variability of the P-wave for premature envision of paroxysmal atrial fibrillation events",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "These models show that P-wave morphology is jointly determined by intra-atrial activation sequence and by filtering through the torso, with anisotropy and organ-specific conductivities modulating both duration and waveform shape ref [3].",
+    "refNo": 3,
+    "title": "Morphological variability of the P-wave for premature envision of paroxysmal atrial fibrillation events",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Importantly, explicit forward validation studies have demonstrated that homogeneous torso models can preserve gross map correlations yet still mislocalize extrema and distort the spatial gradients of body-surface potentials; inclusion of lungs, skeletal muscle anisotropy, and subcutaneous fat reduces, but does not abolish, these discrepancies ref [2].",
+    "refNo": 2,
+    "title": "Guidance for conducting systematic scoping reviews",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "For sinus-rhythm studies in AF populations, forward simulations are therefore valuable not only for reproducing canonical atrial ECG signatures, but also for decomposing which atrial regions dominate specific phases of the P-wave and for identifying body-surface locations with the highest sensitivity to atrial activity ref [3].",
+    "refNo": 3,
+    "title": "Morphological variability of the P-wave for premature envision of paroxysmal atrial fibrillation events",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Such models support virtual experiments that are difficult or impossible in vivo, including isolation of region-specific contributions, comparison of isotropic versus anisotropic propagation, and testing how modest changes in conduction or source location could generate beat-to-beat P-wave variability ref [3].",
+    "refNo": 3,
+    "title": "Morphological variability of the P-wave for premature envision of paroxysmal atrial fibrillation events",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "At the same time, the lessons from forward-model validation caution against overinterpreting surface morphology without accounting for uncertainties in torso properties and source-to-surface transfer, especially when these simulations are later used as the basis for inverse or inference pipelines ref [2].",
+    "refNo": 2,
+    "title": "Guidance for conducting systematic scoping reviews",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Early biophysical simulations showed that surface ECG spectra reflect underlying atrial firing-rate organization, but also that reliance on a single dominant frequency (DF) or a single lead can mask multi-source dynamics; full multilead spectral structure better captures AF complexity and transitions between competing drivers ref [57].",
+    "refNo": 57,
+    "title": "The mean firing rate of atrial fibrillation as estimated from the ECG evaluation using a biophysical model",
+    "marker_text": "[57]"
+  },
+  {
+    "sentence": "In combined simulation–patient studies, noninvasive estimation of epicardial high-frequency regions reproduced left-to-right and right-to-left atrial DF gradients with substantially lower error in the frequency domain than in voltage or phase, supporting the view that inverse solutions preserve dominant spectral content more robustly than instantaneous activation patterns ref [59].",
+    "refNo": 59,
+    "title": "Noninvasive identification of atrial fibrillation drivers: Simulation and patient data evaluation",
+    "marker_text": "[59]"
+  },
+  {
+    "sentence": "Related clinical-computational analyses further indicated that body-surface and inverse mapping can localize putative AF drivers or rotor-containing regions, but that spatial smoothing, regularization, and noise can simplify or distort phase maps even when driver-related frequency signatures remain detectable ref [4].",
+    "refNo": 4,
+    "title": "P-wave morphology: underlying mechanisms and clinical implications",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "In practice, frequency-based descriptors appear more stable for source localization than morphology-based instantaneous maps during AF ref [57], ref [59], while mechanistic validation against simulations and intracardiac recordings remains essential before translating inferred driver maps into individualized procedural guidance ref [4].",
+    "refNo": 57,
+    "title": "The mean firing rate of atrial fibrillation as estimated from the ECG evaluation using a biophysical model",
+    "marker_text": "[57]"
+  },
+  {
+    "sentence": "In practice, frequency-based descriptors appear more stable for source localization than morphology-based instantaneous maps during AF ref [57], ref [59], while mechanistic validation against simulations and intracardiac recordings remains essential before translating inferred driver maps into individualized procedural guidance ref [4].",
+    "refNo": 59,
+    "title": "Noninvasive identification of atrial fibrillation drivers: Simulation and patient data evaluation",
+    "marker_text": "[59]"
+  },
+  {
+    "sentence": "In practice, frequency-based descriptors appear more stable for source localization than morphology-based instantaneous maps during AF ref [57], ref [59], while mechanistic validation against simulations and intracardiac recordings remains essential before translating inferred driver maps into individualized procedural guidance ref [4].",
+    "refNo": 4,
+    "title": "P-wave morphology: underlying mechanisms and clinical implications",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Clinical studies of pulmonary vein isolation (PVI) consistently suggest that successful elimination of pulmonary vein-left atrial conduction is often accompanied by shortening of P-wave duration, whereas absent shortening, or even prolongation, is more common when reconnection and arrhythmia recurrence occur ref [6].",
+    "refNo": 6,
+    "title": "Reduction of P-wave duration and successful pulmonary vein isolation in patients with atrial fibrillation",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "In the seminal study by Ogawa et al., maximal and filtered P-wave duration decreased significantly only in patients without recurrence, supporting the concept that acute post-ablation P-wave shortening reflects effective electrical exclusion of late-activating pulmonary vein sleeve tissue ref [6].",
+    "refNo": 6,
+    "title": "Reduction of P-wave duration and successful pulmonary vein isolation in patients with atrial fibrillation",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "In computer models, PVI may slightly prolong biatrial activation because conduction is redirected around ablation lines, yet still shorten P-wave duration in selected precordial leads by eliminating low-amplitude terminal components arising from the pulmonary vein region ref [60].",
+    "refNo": 60,
+    "title": "Changes in P-wave morphology after pulmonary vein isolation: insights from computer simulations",
+    "marker_text": "[60]"
+  },
+  {
+    "sentence": "The same study further showed that the magnitude and direction of apparent remodeling depend on ablation geometry, the extent of isolated atrial tissue, added roof lines, and the detection method used for P-wave offset, helping explain why clinical reports sometimes disagree on whether P-wave duration shortens or lengthens after ablation ref [60].",
+    "refNo": 60,
+    "title": "Changes in P-wave morphology after pulmonary vein isolation: insights from computer simulations",
+    "marker_text": "[60]"
+  },
+  {
+    "sentence": "First, P-wave remodeling should be interpreted as a lead-specific and method-dependent signature of altered atrial source distribution, not merely as a surrogate of global conduction slowing or acceleration ref [6], ref [60].",
+    "refNo": 6,
+    "title": "Reduction of P-wave duration and successful pulmonary vein isolation in patients with atrial fibrillation",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "First, P-wave remodeling should be interpreted as a lead-specific and method-dependent signature of altered atrial source distribution, not merely as a surrogate of global conduction slowing or acceleration ref [6], ref [60].",
+    "refNo": 60,
+    "title": "Changes in P-wave morphology after pulmonary vein isolation: insights from computer simulations",
+    "marker_text": "[60]"
+  },
+  {
+    "sentence": "Second, simulation-guided analysis suggests that persistent or reversing post-ablation changes, especially in leads such as V3, V4, and posterior leads, may help identify pulmonary vein reconnection and stratify likelihood of recurrence during follow-up ref [60].",
+    "refNo": 60,
+    "title": "Changes in P-wave morphology after pulmonary vein isolation: insights from computer simulations",
+    "marker_text": "[60]"
+  },
+  {
+    "sentence": "Accordingly, within sinus rhythm ECG analysis, post-ablation P-wave remodeling represents a promising bridge between procedural lesion assessment and personalized noninvasive monitoring of ablation response ref [6], ref [60].",
+    "refNo": 6,
+    "title": "Reduction of P-wave duration and successful pulmonary vein isolation in patients with atrial fibrillation",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Accordingly, within sinus rhythm ECG analysis, post-ablation P-wave remodeling represents a promising bridge between procedural lesion assessment and personalized noninvasive monitoring of ablation response ref [6], ref [60].",
+    "refNo": 60,
+    "title": "Changes in P-wave morphology after pulmonary vein isolation: insights from computer simulations",
+    "marker_text": "[60]"
+  }
+]

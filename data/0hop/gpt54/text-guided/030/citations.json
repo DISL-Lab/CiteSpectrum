@@ -1,0 +1,1166 @@
+[
+  {
+    "sentence": "Epidemiological studies estimate that more than 250,000 new cases of central nervous system (CNS) tumors worldwide are expected every year with variable incidence rates (ref [1] and http://www.cancer.gov/types/brain/hp/adult-brain-treatmentpdq).",
+    "refNo": 1,
+    "title": "Radiotherapy plus concomitant and adjuvant temozolomide for glioblastoma",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "According to the current classification ref [2], approximately 38% of these tumors are at high grade (WHO III, anaplastic astrocytoma or AA and WHO IV, glioblastoma or GB) and hence are virtually lethal.",
+    "refNo": 2,
+    "title": "Comprehensive genomic characterization defines human glioblastoma genes and core pathways",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Given the extremely limited success of the standard treatment in prolonging survival in GB patients ref [1], considerable efforts were undertaken to develop targeted therapies that could significantly improve the outcome of these patients ref [2,4].",
+    "refNo": 1,
+    "title": "Radiotherapy plus concomitant and adjuvant temozolomide for glioblastoma",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Given the extremely limited success of the standard treatment in prolonging survival in GB patients ref [1], considerable efforts were undertaken to develop targeted therapies that could significantly improve the outcome of these patients ref [2,4].",
+    "refNo": 2,
+    "title": "Comprehensive genomic characterization defines human glioblastoma genes and core pathways",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Given the extremely limited success of the standard treatment in prolonging survival in GB patients ref [1], considerable efforts were undertaken to develop targeted therapies that could significantly improve the outcome of these patients ref [2,4].",
+    "refNo": 4,
+    "title": "DINGO: differential network analysis in genomics",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "In this respect, epigenetics and epigenetic modulators have become a preferred field of investigation because of their influence in many aspects of cancer ref [3,5-10].",
+    "refNo": 3,
+    "title": "MGMT gene silencing and benefit from temozolomide in glioblastoma",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "In this respect, epigenetics and epigenetic modulators have become a preferred field of investigation because of their influence in many aspects of cancer ref [3,5-10].",
+    "refNo": 5,
+    "title": "Genome-wide small noncoding RNA profiling of pediatric high-grade gliomas reveals deregulation of several miRNAs, identifies downregulation of snoRNA cluster HBII-52 and delineates H3F3A and TP53 mutant-specific miRNAs and snoRNAs",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "In this respect, epigenetics and epigenetic modulators have become a preferred field of investigation because of their influence in many aspects of cancer ref [3,5-10].",
+    "refNo": 10,
+    "title": "Polycomb protein EZH2 regulates tumor invasion via the transcriptional repression of the metastasis suppressor RKIP in breast and prostate cancer",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Transcriptional profiling has delineated four major molecular subtypes of glioblastoma that could be better characterized by mutational, copy number variation, and methylation analyses [7][8][9].",
+    "refNo": 7,
+    "title": "MicroRNA-29 family reverts aberrant methylation in lung cancer by targeting DNA methyltransferases 3A and 3B",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Transcriptional profiling has delineated four major molecular subtypes of glioblastoma that could be better characterized by mutational, copy number variation, and methylation analyses [7][8][9].",
+    "refNo": 8,
+    "title": "MicroRNA-29b induces global DNA hypomethylation and tumor suppressor gene reexpression in acute myeloid leukemia by targeting directly DNMT3A and 3B and indirectly DNMT1",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Transcriptional profiling has delineated four major molecular subtypes of glioblastoma that could be better characterized by mutational, copy number variation, and methylation analyses [7][8][9].",
+    "refNo": 9,
+    "title": "miR-148 targets human DNMT3b protein coding region",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "One of the first evidences of the primary role of epigenetic mechanisms in GB was the discovery of the effect of the inactivation by methylation of the MGMT gene on the sensitivity to the alkylating agent temozolomide (TMZ), a therapy-response theme that is consistent with the broader relevance of chromatin regulators and epigenetic modifiers in glioma biology and treatment resistance (ref [11], ref [12], ref [13], ref [15], ref [17]).",
+    "refNo": 11,
+    "title": "The histone demethylase KDM5A is a key factor for the resistance to temozolomide in glioblastoma",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "One of the first evidences of the primary role of epigenetic mechanisms in GB was the discovery of the effect of the inactivation by methylation of the MGMT gene on the sensitivity to the alkylating agent temozolomide (TMZ), a therapy-response theme that is consistent with the broader relevance of chromatin regulators and epigenetic modifiers in glioma biology and treatment resistance (ref [11], ref [12], ref [13], ref [15], ref [17]).",
+    "refNo": 12,
+    "title": "KDM1 is a novel therapeutic target for the treatment of gliomas",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "One of the first evidences of the primary role of epigenetic mechanisms in GB was the discovery of the effect of the inactivation by methylation of the MGMT gene on the sensitivity to the alkylating agent temozolomide (TMZ), a therapy-response theme that is consistent with the broader relevance of chromatin regulators and epigenetic modifiers in glioma biology and treatment resistance (ref [11], ref [12], ref [13], ref [15], ref [17]).",
+    "refNo": 13,
+    "title": "Small molecules targeting histone demethylase genes (KDMs) inhibit growth of temozolomide-resistant glioblastoma cells",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "One of the first evidences of the primary role of epigenetic mechanisms in GB was the discovery of the effect of the inactivation by methylation of the MGMT gene on the sensitivity to the alkylating agent temozolomide (TMZ), a therapy-response theme that is consistent with the broader relevance of chromatin regulators and epigenetic modifiers in glioma biology and treatment resistance (ref [11], ref [12], ref [13], ref [15], ref [17]).",
+    "refNo": 15,
+    "title": "EZH2 protects glioma stem cells from radiation-induced cell death in a MELK/ FOXM1-dependent manner",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "One of the first evidences of the primary role of epigenetic mechanisms in GB was the discovery of the effect of the inactivation by methylation of the MGMT gene on the sensitivity to the alkylating agent temozolomide (TMZ), a therapy-response theme that is consistent with the broader relevance of chromatin regulators and epigenetic modifiers in glioma biology and treatment resistance (ref [11], ref [12], ref [13], ref [15], ref [17]).",
+    "refNo": 17,
+    "title": "Gene expression mapping of histone deacetylases and co-factors, and correlation with survival time and 1H-HRMAS metabolomic profile in human gliomas",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "In two seminal papers published in 2005 [10,11], Stupp et al. and Hegi et al. established that the inactivation of the MGMT gene by DNA methylation in the tumor is associated with better survival in GB patients treated with TMZ and radiotherapy compared to the patients with unmethylated MGMT.",
+    "refNo": 10,
+    "title": "Polycomb protein EZH2 regulates tumor invasion via the transcriptional repression of the metastasis suppressor RKIP in breast and prostate cancer",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "In two seminal papers published in 2005 [10,11], Stupp et al. and Hegi et al. established that the inactivation of the MGMT gene by DNA methylation in the tumor is associated with better survival in GB patients treated with TMZ and radiotherapy compared to the patients with unmethylated MGMT.",
+    "refNo": 11,
+    "title": "The histone demethylase KDM5A is a key factor for the resistance to temozolomide in glioblastoma",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Hypermethylation of MGMT occurs also in primary GB; however, it is a characteristic feature of secondary glioblastoma and is the \"iceberg tip\" of a more extensive alteration of the DNA methylation status known as \"CpG island methylator phenotype\" or CIMP, within a wider epigenetic context in which histone deacetylases, histone demethylases, and Polycomb-associated regulators have all been implicated in glioma classification, progression, and therapy response (ref [11], ref [12], ref [13], ref [14], ref [15], ref [16], ref [17]).",
+    "refNo": 11,
+    "title": "The histone demethylase KDM5A is a key factor for the resistance to temozolomide in glioblastoma",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Hypermethylation of MGMT occurs also in primary GB; however, it is a characteristic feature of secondary glioblastoma and is the \"iceberg tip\" of a more extensive alteration of the DNA methylation status known as \"CpG island methylator phenotype\" or CIMP, within a wider epigenetic context in which histone deacetylases, histone demethylases, and Polycomb-associated regulators have all been implicated in glioma classification, progression, and therapy response (ref [11], ref [12], ref [13], ref [14], ref [15], ref [16], ref [17]).",
+    "refNo": 12,
+    "title": "KDM1 is a novel therapeutic target for the treatment of gliomas",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Hypermethylation of MGMT occurs also in primary GB; however, it is a characteristic feature of secondary glioblastoma and is the \"iceberg tip\" of a more extensive alteration of the DNA methylation status known as \"CpG island methylator phenotype\" or CIMP, within a wider epigenetic context in which histone deacetylases, histone demethylases, and Polycomb-associated regulators have all been implicated in glioma classification, progression, and therapy response (ref [11], ref [12], ref [13], ref [14], ref [15], ref [16], ref [17]).",
+    "refNo": 13,
+    "title": "Small molecules targeting histone demethylase genes (KDMs) inhibit growth of temozolomide-resistant glioblastoma cells",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Hypermethylation of MGMT occurs also in primary GB; however, it is a characteristic feature of secondary glioblastoma and is the \"iceberg tip\" of a more extensive alteration of the DNA methylation status known as \"CpG island methylator phenotype\" or CIMP, within a wider epigenetic context in which histone deacetylases, histone demethylases, and Polycomb-associated regulators have all been implicated in glioma classification, progression, and therapy response (ref [11], ref [12], ref [13], ref [14], ref [15], ref [16], ref [17]).",
+    "refNo": 14,
+    "title": "Clinical significance of polycomb gene expression in brain tumors",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Hypermethylation of MGMT occurs also in primary GB; however, it is a characteristic feature of secondary glioblastoma and is the \"iceberg tip\" of a more extensive alteration of the DNA methylation status known as \"CpG island methylator phenotype\" or CIMP, within a wider epigenetic context in which histone deacetylases, histone demethylases, and Polycomb-associated regulators have all been implicated in glioma classification, progression, and therapy response (ref [11], ref [12], ref [13], ref [14], ref [15], ref [16], ref [17]).",
+    "refNo": 15,
+    "title": "EZH2 protects glioma stem cells from radiation-induced cell death in a MELK/ FOXM1-dependent manner",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Hypermethylation of MGMT occurs also in primary GB; however, it is a characteristic feature of secondary glioblastoma and is the \"iceberg tip\" of a more extensive alteration of the DNA methylation status known as \"CpG island methylator phenotype\" or CIMP, within a wider epigenetic context in which histone deacetylases, histone demethylases, and Polycomb-associated regulators have all been implicated in glioma classification, progression, and therapy response (ref [11], ref [12], ref [13], ref [14], ref [15], ref [16], ref [17]).",
+    "refNo": 16,
+    "title": "Prolonged Ezh2 depletion in glioblastoma causes a robust switch in cell fate resulting in tumor progression",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Hypermethylation of MGMT occurs also in primary GB; however, it is a characteristic feature of secondary glioblastoma and is the \"iceberg tip\" of a more extensive alteration of the DNA methylation status known as \"CpG island methylator phenotype\" or CIMP, within a wider epigenetic context in which histone deacetylases, histone demethylases, and Polycomb-associated regulators have all been implicated in glioma classification, progression, and therapy response (ref [11], ref [12], ref [13], ref [14], ref [15], ref [16], ref [17]).",
+    "refNo": 17,
+    "title": "Gene expression mapping of histone deacetylases and co-factors, and correlation with survival time and 1H-HRMAS metabolomic profile in human gliomas",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Intriguingly, miRNA can also be subjected to epigenetic control through DNA methylation and histone modifications ref [18] thus establishing a complex interplay capable of interfering, directly or indirectly, with multiple pathways in extraordinary complex networks that have been partially explored in several tumors including glioblastoma ref [19] ref [20] ref [21] ref [22] ref [23] ref [24] ref [25].",
+    "refNo": 18,
+    "title": "Genetics and epigenetics -nature's pen-and-pencil set",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Intriguingly, miRNA can also be subjected to epigenetic control through DNA methylation and histone modifications ref [18] thus establishing a complex interplay capable of interfering, directly or indirectly, with multiple pathways in extraordinary complex networks that have been partially explored in several tumors including glioblastoma ref [19] ref [20] ref [21] ref [22] ref [23] ref [24] ref [25].",
+    "refNo": 19,
+    "title": "CpG island methylator phenotype in colorectal cancer",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Intriguingly, miRNA can also be subjected to epigenetic control through DNA methylation and histone modifications ref [18] thus establishing a complex interplay capable of interfering, directly or indirectly, with multiple pathways in extraordinary complex networks that have been partially explored in several tumors including glioblastoma ref [19] ref [20] ref [21] ref [22] ref [23] ref [24] ref [25].",
+    "refNo": 20,
+    "title": "The emergence of pan-cancer CIMP and its elusive interpretation",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Intriguingly, miRNA can also be subjected to epigenetic control through DNA methylation and histone modifications ref [18] thus establishing a complex interplay capable of interfering, directly or indirectly, with multiple pathways in extraordinary complex networks that have been partially explored in several tumors including glioblastoma ref [19] ref [20] ref [21] ref [22] ref [23] ref [24] ref [25].",
+    "refNo": 21,
+    "title": "A CpG island methylator phenotype in acute myeloid leukemia independent of IDH mutations and associated with a favorable outcome",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Intriguingly, miRNA can also be subjected to epigenetic control through DNA methylation and histone modifications ref [18] thus establishing a complex interplay capable of interfering, directly or indirectly, with multiple pathways in extraordinary complex networks that have been partially explored in several tumors including glioblastoma ref [19] ref [20] ref [21] ref [22] ref [23] ref [24] ref [25].",
+    "refNo": 22,
+    "title": "Breast cancer methylomes establish an epigenomic foundation for metastasis",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Intriguingly, miRNA can also be subjected to epigenetic control through DNA methylation and histone modifications ref [18] thus establishing a complex interplay capable of interfering, directly or indirectly, with multiple pathways in extraordinary complex networks that have been partially explored in several tumors including glioblastoma ref [19] ref [20] ref [21] ref [22] ref [23] ref [24] ref [25].",
+    "refNo": 23,
+    "title": "CpG island methylator phenotype is a strong determinant of poor prognosis in neuroblastomas",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Intriguingly, miRNA can also be subjected to epigenetic control through DNA methylation and histone modifications ref [18] thus establishing a complex interplay capable of interfering, directly or indirectly, with multiple pathways in extraordinary complex networks that have been partially explored in several tumors including glioblastoma ref [19] ref [20] ref [21] ref [22] ref [23] ref [24] ref [25].",
+    "refNo": 24,
+    "title": "Clinical potentials of methylator phenotype in stage 4 high-risk neuroblastoma: an open challenge",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Intriguingly, miRNA can also be subjected to epigenetic control through DNA methylation and histone modifications ref [18] thus establishing a complex interplay capable of interfering, directly or indirectly, with multiple pathways in extraordinary complex networks that have been partially explored in several tumors including glioblastoma ref [19] ref [20] ref [21] ref [22] ref [23] ref [24] ref [25].",
+    "refNo": 25,
+    "title": "CpG island methylator phenotype predicts progression of malignant melanoma",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "In particular, targeting of DNMT3a and DNMT3b by miRNA-29, miRNA-29a, and miRNA-148 was observed, and it is generally believed that this interaction may contribute to the general hypomethylation seen in cancer ref [18] ref [20] ref [22].",
+    "refNo": 18,
+    "title": "Genetics and epigenetics -nature's pen-and-pencil set",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "In particular, targeting of DNMT3a and DNMT3b by miRNA-29, miRNA-29a, and miRNA-148 was observed, and it is generally believed that this interaction may contribute to the general hypomethylation seen in cancer ref [18] ref [20] ref [22].",
+    "refNo": 20,
+    "title": "The emergence of pan-cancer CIMP and its elusive interpretation",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "In particular, targeting of DNMT3a and DNMT3b by miRNA-29, miRNA-29a, and miRNA-148 was observed, and it is generally believed that this interaction may contribute to the general hypomethylation seen in cancer ref [18] ref [20] ref [22].",
+    "refNo": 22,
+    "title": "Breast cancer methylomes establish an epigenomic foundation for metastasis",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Intriguingly, miRNA can also be subjected to epigenetic control through DNA methylation and histone modifications, thus establishing a complex interplay capable of interfering, directly or indirectly, with multiple pathways in extraordinary complex networks that have been partially explored in several tumors including glioblastoma (ref [31], ref [32], ref [33], ref [34]).",
+    "refNo": 31,
+    "title": "MicroRNA-137 is downregulated in glioblastoma and inhibits the stemness of glioma stem cells by targeting RTVP-1",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "Intriguingly, miRNA can also be subjected to epigenetic control through DNA methylation and histone modifications, thus establishing a complex interplay capable of interfering, directly or indirectly, with multiple pathways in extraordinary complex networks that have been partially explored in several tumors including glioblastoma (ref [31], ref [32], ref [33], ref [34]).",
+    "refNo": 32,
+    "title": "Prognostic relevance of miRNA-155 methylation in anaplastic glioma",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "Intriguingly, miRNA can also be subjected to epigenetic control through DNA methylation and histone modifications, thus establishing a complex interplay capable of interfering, directly or indirectly, with multiple pathways in extraordinary complex networks that have been partially explored in several tumors including glioblastoma (ref [31], ref [32], ref [33], ref [34]).",
+    "refNo": 33,
+    "title": "Tumor suppressor miR-181c attenuates proliferation, invasion, and self-renewal abilities in glioblastoma",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "Intriguingly, miRNA can also be subjected to epigenetic control through DNA methylation and histone modifications, thus establishing a complex interplay capable of interfering, directly or indirectly, with multiple pathways in extraordinary complex networks that have been partially explored in several tumors including glioblastoma (ref [31], ref [32], ref [33], ref [34]).",
+    "refNo": 34,
+    "title": "Epigenetic silencing of miR-181c by DNA methylation in glioblastoma cell lines",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "In glioblastoma, and other tumors, EZH2 is overexpressed and acts as an oncogene with multiple mode of actions including cell invasion utilizing largely tumorspecific mechanisms, cell cycle progression, maintenance of cell stemness (ref [31]), and, last but not least, the development of drug resistance and inhibition of apoptosis.",
+    "refNo": 31,
+    "title": "MicroRNA-137 is downregulated in glioblastoma and inhibits the stemness of glioma stem cells by targeting RTVP-1",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "HDAC4 is targeted by miR-1 and miR-155 (ref [27], ref [28]); in contrast with the HDAC expression data, exogenously expressed miR-1 that putatively should interfere with HDAC4 acts as a tumor suppressor gene prolonging survival in an animal model (ref [27]).",
+    "refNo": 27,
+    "title": "Extracellular vesicles modulate the glioblastoma microenvironment via a tumor suppression signaling network directed by miR-1",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "HDAC4 is targeted by miR-1 and miR-155 (ref [27], ref [28]); in contrast with the HDAC expression data, exogenously expressed miR-1 that putatively should interfere with HDAC4 acts as a tumor suppressor gene prolonging survival in an animal model (ref [27]).",
+    "refNo": 28,
+    "title": "Blocking MIR155HG/miR-155 axis inhibits mesenchymal transition in glioma",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "HDAC4 is targeted by miR-1 and miR-155 (ref [27], ref [28]); in contrast with the HDAC expression data, exogenously expressed miR-1 that putatively should interfere with HDAC4 acts as a tumor suppressor gene prolonging survival in an animal model (ref [27]).",
+    "refNo": 27,
+    "title": "Extracellular vesicles modulate the glioblastoma microenvironment via a tumor suppression signaling network directed by miR-1",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "On the contrary, the expression of miR-155 in glioma is prevalent in high-grade tumors with a worse prognosis (ref [28], ref [32]).",
+    "refNo": 28,
+    "title": "Blocking MIR155HG/miR-155 axis inhibits mesenchymal transition in glioma",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "On the contrary, the expression of miR-155 in glioma is prevalent in high-grade tumors with a worse prognosis (ref [28], ref [32]).",
+    "refNo": 32,
+    "title": "Prognostic relevance of miRNA-155 methylation in anaplastic glioma",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "To the best of our knowledge, the systematic analysis of miRNA silenced by DNA methylation in glioma has not yet been performed; nevertheless, several examples of miRNA silenced by DNA methylation in GB have been described along with the functional effects of their reexpression. miR-211 targets MMP9, activates the caspase-9/caspase-gene, and reduces proliferation and migration of GB cells targeting CTGF and NEDD9 (ref [29], ref [30]). miR-137 is epigenetically inactivated in many cancers, and its expression is diminished in GB and in glioma stem cells.",
+    "refNo": 29,
+    "title": "MicroRNA-145 is downregulated in glial tumors and regulates glioma cell migration by targeting connective tissue growth factor",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "To the best of our knowledge, the systematic analysis of miRNA silenced by DNA methylation in glioma has not yet been performed; nevertheless, several examples of miRNA silenced by DNA methylation in GB have been described along with the functional effects of their reexpression. miR-211 targets MMP9, activates the caspase-9/caspase-gene, and reduces proliferation and migration of GB cells targeting CTGF and NEDD9 (ref [29], ref [30]). miR-137 is epigenetically inactivated in many cancers, and its expression is diminished in GB and in glioma stem cells.",
+    "refNo": 30,
+    "title": "NEDD9, a novel target of miR-145, increases the invasiveness of glioblastoma",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "Reexpression of miR-137, hypermethylated in GB tumor samples, promotes neural differentiation and decreases the expression of stem cell markers (Oct4, SOX2, and Nanog) (ref [31]).",
+    "refNo": 31,
+    "title": "MicroRNA-137 is downregulated in glioblastoma and inhibits the stemness of glioma stem cells by targeting RTVP-1",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "Furthermore, miR-137 is also an inhibitor of EZH2 (ref [31]).",
+    "refNo": 31,
+    "title": "MicroRNA-137 is downregulated in glioblastoma and inhibits the stemness of glioma stem cells by targeting RTVP-1",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "However, upon validation in different patient series and in multivariate models, only miR-155 remained of prognostic value independently from other indicators like histology, MGMT methylation, and IDH1/IDH2 mutation (ref [32]).",
+    "refNo": 32,
+    "title": "Prognostic relevance of miRNA-155 methylation in anaplastic glioma",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "Therefore, miR-155 can be considered both as an oncomiR in GBM with multiple biological roles including the activation of the NFkB pathway (ref [28], ref [32]).",
+    "refNo": 28,
+    "title": "Blocking MIR155HG/miR-155 axis inhibits mesenchymal transition in glioma",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Therefore, miR-155 can be considered both as an oncomiR in GBM with multiple biological roles including the activation of the NFkB pathway (ref [28], ref [32]).",
+    "refNo": 32,
+    "title": "Prognostic relevance of miRNA-155 methylation in anaplastic glioma",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "On the other hand, miR-155 could act also on the immune cell compartment by downmodulating the immune checkpoint molecule CTLA-4 exerting the function of a tumor suppressor miRNA. miR-181c, another example of miRNA downregulated by epigenetic mechanisms in glioblastoma, targets the NOTCH2 pathway and is important in self-renewal, proliferation, and invasion of GB cells (ref [33], ref [34]).",
+    "refNo": 33,
+    "title": "Tumor suppressor miR-181c attenuates proliferation, invasion, and self-renewal abilities in glioblastoma",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "On the other hand, miR-155 could act also on the immune cell compartment by downmodulating the immune checkpoint molecule CTLA-4 exerting the function of a tumor suppressor miRNA. miR-181c, another example of miRNA downregulated by epigenetic mechanisms in glioblastoma, targets the NOTCH2 pathway and is important in self-renewal, proliferation, and invasion of GB cells (ref [33], ref [34]).",
+    "refNo": 34,
+    "title": "Epigenetic silencing of miR-181c by DNA methylation in glioblastoma cell lines",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "This miRNA was sorted out by chromatin immunoprecipitation/sequencing screening as a region containing H3K4me3 and H3K27ac marks partially overlapping with a CpG-rich region close to miR-181c that is hypermethylated in GB (ref [34]).",
+    "refNo": 34,
+    "title": "Epigenetic silencing of miR-181c by DNA methylation in glioblastoma cell lines",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "Each of these miRNA can modulate the expression of several mRNAs, and each mRNA can be modulated by several miRNA generating an extraordinary complex regulatory network ref [42], ref [43], ref [45], ref [46].",
+    "refNo": 42,
+    "title": "A microRNA expression signature of human solid tumors defines cancer gene targets",
+    "marker_text": "[42]"
+  },
+  {
+    "sentence": "Each of these miRNA can modulate the expression of several mRNAs, and each mRNA can be modulated by several miRNA generating an extraordinary complex regulatory network ref [42], ref [43], ref [45], ref [46].",
+    "refNo": 43,
+    "title": "The miR-17~92 cluster collaborates with the Sonic Hedgehog pathway in medulloblastoma",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "Each of these miRNA can modulate the expression of several mRNAs, and each mRNA can be modulated by several miRNA generating an extraordinary complex regulatory network ref [42], ref [43], ref [45], ref [46].",
+    "refNo": 45,
+    "title": "Genomic and epigenetic alterations deregulate microRNA expression in human epithelial ovarian cancer",
+    "marker_text": "[45]"
+  },
+  {
+    "sentence": "Each of these miRNA can modulate the expression of several mRNAs, and each mRNA can be modulated by several miRNA generating an extraordinary complex regulatory network ref [42], ref [43], ref [45], ref [46].",
+    "refNo": 46,
+    "title": "miR-28-5p promotes chromosomal instability in VHL-associated cancers by inhibiting Mad2 translation",
+    "marker_text": "[46]"
+  },
+  {
+    "sentence": "In a literature survey of miRNA deregulated in GB, it was found that the majority of them (n = 253) were overexpressed compared to normal brain tissue, 95 were downmodulated, and conflicting results were reported for 17 of them [29].",
+    "refNo": 29,
+    "title": "MicroRNA-145 is downregulated in glial tumors and regulates glioma cell migration by targeting connective tissue growth factor",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "The genes targeted by deregulated microRNAs in GB are involved in many pathways including cell proliferation, resistance to apoptosis, autophagy, invasion and metastasis, angiogenesis, and drug resistance ref [35], ref [36], ref [37], ref [38], ref [40], ref [44], ref [47], ref [48], ref [18].",
+    "refNo": 35,
+    "title": "MicroRNA-21 knockdown disrupts glioma growth in vivo and displays synergistic cytotoxicity with neural precursor cell delivered S-TRAIL in human gliomas",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "The genes targeted by deregulated microRNAs in GB are involved in many pathways including cell proliferation, resistance to apoptosis, autophagy, invasion and metastasis, angiogenesis, and drug resistance ref [35], ref [36], ref [37], ref [38], ref [40], ref [44], ref [47], ref [48], ref [18].",
+    "refNo": 36,
+    "title": "Downregulation of miR-221/ 222 sensitizes glioma cells to temozolomide by regulating apoptosis independently of p53 status",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "The genes targeted by deregulated microRNAs in GB are involved in many pathways including cell proliferation, resistance to apoptosis, autophagy, invasion and metastasis, angiogenesis, and drug resistance ref [35], ref [36], ref [37], ref [38], ref [40], ref [44], ref [47], ref [48], ref [18].",
+    "refNo": 37,
+    "title": "Silencing of microRNA-21 confers radio-sensitivity through inhibition of the PI3K/AKT pathway and enhancing autophagy in malignant glioma cell lines",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "The genes targeted by deregulated microRNAs in GB are involved in many pathways including cell proliferation, resistance to apoptosis, autophagy, invasion and metastasis, angiogenesis, and drug resistance ref [35], ref [36], ref [37], ref [38], ref [40], ref [44], ref [47], ref [48], ref [18].",
+    "refNo": 38,
+    "title": "microRNA-17 regulates the expression of ATG7 and modulates the autophagy process, improving the sensitivity to temozolomide and low-dose ionizing radiation treatments in human glioblastoma cells",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "The genes targeted by deregulated microRNAs in GB are involved in many pathways including cell proliferation, resistance to apoptosis, autophagy, invasion and metastasis, angiogenesis, and drug resistance ref [35], ref [36], ref [37], ref [38], ref [40], ref [44], ref [47], ref [48], ref [18].",
+    "refNo": 40,
+    "title": "MicroRNA-21 regulates expression of the PTEN tumor suppressor gene in human hepatocellular cancer",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "The genes targeted by deregulated microRNAs in GB are involved in many pathways including cell proliferation, resistance to apoptosis, autophagy, invasion and metastasis, angiogenesis, and drug resistance ref [35], ref [36], ref [37], ref [38], ref [40], ref [44], ref [47], ref [48], ref [18].",
+    "refNo": 44,
+    "title": "Identification by realtime PCR of 13 mature microRNAs differentially expressed in colorectal cancer and non-tumoral tissues",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "The genes targeted by deregulated microRNAs in GB are involved in many pathways including cell proliferation, resistance to apoptosis, autophagy, invasion and metastasis, angiogenesis, and drug resistance ref [35], ref [36], ref [37], ref [38], ref [40], ref [44], ref [47], ref [48], ref [18].",
+    "refNo": 47,
+    "title": "miR-214-mediated downregulation of RNF8 induces chromosomal instability in ovarian cancer cells",
+    "marker_text": "[47]"
+  },
+  {
+    "sentence": "The genes targeted by deregulated microRNAs in GB are involved in many pathways including cell proliferation, resistance to apoptosis, autophagy, invasion and metastasis, angiogenesis, and drug resistance ref [35], ref [36], ref [37], ref [38], ref [40], ref [44], ref [47], ref [48], ref [18].",
+    "refNo": 48,
+    "title": "Differential expression and clinical significance of three inflammation-related microRNAs in gangliogliomas",
+    "marker_text": "[48]"
+  },
+  {
+    "sentence": "The genes targeted by deregulated microRNAs in GB are involved in many pathways including cell proliferation, resistance to apoptosis, autophagy, invasion and metastasis, angiogenesis, and drug resistance ref [35], ref [36], ref [37], ref [38], ref [40], ref [44], ref [47], ref [48], ref [18].",
+    "refNo": 18,
+    "title": "Genetics and epigenetics -nature's pen-and-pencil set",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Since microRNAs have multiple targets in different tissues, they may have oncogenic (oncomiR) or antioncogenic effects depending upon the biological context ref [39], ref [40], ref [42], ref [43], ref [44], ref [46], ref [17].",
+    "refNo": 39,
+    "title": "MicroRNA let-7a down-regulates MYC and reverts MYC-induced growth in Burkitt lymphoma cells",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "Since microRNAs have multiple targets in different tissues, they may have oncogenic (oncomiR) or antioncogenic effects depending upon the biological context ref [39], ref [40], ref [42], ref [43], ref [44], ref [46], ref [17].",
+    "refNo": 40,
+    "title": "MicroRNA-21 regulates expression of the PTEN tumor suppressor gene in human hepatocellular cancer",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "Since microRNAs have multiple targets in different tissues, they may have oncogenic (oncomiR) or antioncogenic effects depending upon the biological context ref [39], ref [40], ref [42], ref [43], ref [44], ref [46], ref [17].",
+    "refNo": 42,
+    "title": "A microRNA expression signature of human solid tumors defines cancer gene targets",
+    "marker_text": "[42]"
+  },
+  {
+    "sentence": "Since microRNAs have multiple targets in different tissues, they may have oncogenic (oncomiR) or antioncogenic effects depending upon the biological context ref [39], ref [40], ref [42], ref [43], ref [44], ref [46], ref [17].",
+    "refNo": 43,
+    "title": "The miR-17~92 cluster collaborates with the Sonic Hedgehog pathway in medulloblastoma",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "Since microRNAs have multiple targets in different tissues, they may have oncogenic (oncomiR) or antioncogenic effects depending upon the biological context ref [39], ref [40], ref [42], ref [43], ref [44], ref [46], ref [17].",
+    "refNo": 44,
+    "title": "Identification by realtime PCR of 13 mature microRNAs differentially expressed in colorectal cancer and non-tumoral tissues",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "Since microRNAs have multiple targets in different tissues, they may have oncogenic (oncomiR) or antioncogenic effects depending upon the biological context ref [39], ref [40], ref [42], ref [43], ref [44], ref [46], ref [17].",
+    "refNo": 46,
+    "title": "miR-28-5p promotes chromosomal instability in VHL-associated cancers by inhibiting Mad2 translation",
+    "marker_text": "[46]"
+  },
+  {
+    "sentence": "Since microRNAs have multiple targets in different tissues, they may have oncogenic (oncomiR) or antioncogenic effects depending upon the biological context ref [39], ref [40], ref [42], ref [43], ref [44], ref [46], ref [17].",
+    "refNo": 17,
+    "title": "Gene expression mapping of histone deacetylases and co-factors, and correlation with survival time and 1H-HRMAS metabolomic profile in human gliomas",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Targeting the immune checkpoint gene PD1, its ligand PDL1, and other genes like CTLA-4 has raised considerable attention in the recent years because of the dramatic antitumor effect exerted by antibodies against these molecules particularly in tumors with limited therapeutic options like lung cancer and melanoma (reviewed in [72,73]; ref [50]).",
+    "refNo": 72,
+    "title": "Regulation of p27Kip1 by miRNA 221/222 in glioblastoma",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "Targeting the immune checkpoint gene PD1, its ligand PDL1, and other genes like CTLA-4 has raised considerable attention in the recent years because of the dramatic antitumor effect exerted by antibodies against these molecules particularly in tumors with limited therapeutic options like lung cancer and melanoma (reviewed in [72,73]; ref [50]).",
+    "refNo": 73,
+    "title": "MiR-221 and miR-222 target PUMA to induce cell survival in glioblastoma",
+    "marker_text": "[73]"
+  },
+  {
+    "sentence": "Targeting the immune checkpoint gene PD1, its ligand PDL1, and other genes like CTLA-4 has raised considerable attention in the recent years because of the dramatic antitumor effect exerted by antibodies against these molecules particularly in tumors with limited therapeutic options like lung cancer and melanoma (reviewed in [72,73]; ref [50]).",
+    "refNo": 50,
+    "title": "Noncoding RNAs and immune checkpoints-clinical implications as cancer therapeutics",
+    "marker_text": "[50]"
+  },
+  {
+    "sentence": "In this respect, glioblastoma is not an exception and GB escapes T-cell killing by activating immune checkpoints ref [50], ref [51].",
+    "refNo": 50,
+    "title": "Noncoding RNAs and immune checkpoints-clinical implications as cancer therapeutics",
+    "marker_text": "[50]"
+  },
+  {
+    "sentence": "In this respect, glioblastoma is not an exception and GB escapes T-cell killing by activating immune checkpoints ref [50], ref [51].",
+    "refNo": 51,
+    "title": "The brain tumor microenvironment",
+    "marker_text": "[51]"
+  },
+  {
+    "sentence": "In an experimental model of glioma, the blockade of three immune checkpoints (IDO, CTLA-4, and PD1) significantly increased the survival of tumor-bearing mice ref [51].",
+    "refNo": 51,
+    "title": "The brain tumor microenvironment",
+    "marker_text": "[51]"
+  },
+  {
+    "sentence": "However, these findings might not be generally applicable because of the extreme heterogeneity of this tumor and the absence of solid predictive biomarkers of sensitivity to immune checkpoints inhibitors ref [51].",
+    "refNo": 51,
+    "title": "The brain tumor microenvironment",
+    "marker_text": "[51]"
+  },
+  {
+    "sentence": "Immune checkpoints can be modulated by microRNAs ref [50], ref [52], ref [53], and Figure 1 summarizes some of the interaction of the complex network between miRNA, genes, and immune checkpoints ref [50].",
+    "refNo": 50,
+    "title": "Noncoding RNAs and immune checkpoints-clinical implications as cancer therapeutics",
+    "marker_text": "[50]"
+  },
+  {
+    "sentence": "Immune checkpoints can be modulated by microRNAs ref [50], ref [52], ref [53], and Figure 1 summarizes some of the interaction of the complex network between miRNA, genes, and immune checkpoints ref [50].",
+    "refNo": 52,
+    "title": "Mutator activity induced by microRNA-155 (miR-155) links inflammation and cancer",
+    "marker_text": "[52]"
+  },
+  {
+    "sentence": "Immune checkpoints can be modulated by microRNAs ref [50], ref [52], ref [53], and Figure 1 summarizes some of the interaction of the complex network between miRNA, genes, and immune checkpoints ref [50].",
+    "refNo": 53,
+    "title": "MicroRNA-146a: a key regulator of astrocyte-mediated inflammatory response",
+    "marker_text": "[53]"
+  },
+  {
+    "sentence": "Immune checkpoints can be modulated by microRNAs ref [50], ref [52], ref [53], and Figure 1 summarizes some of the interaction of the complex network between miRNA, genes, and immune checkpoints ref [50].",
+    "refNo": 50,
+    "title": "Noncoding RNAs and immune checkpoints-clinical implications as cancer therapeutics",
+    "marker_text": "[50]"
+  },
+  {
+    "sentence": "Several miRNAs are involved in EMT or in general into the mechanisms of invasion; they include miR-21, miR-146, miR-10b, and miR-7 that target directly or indirectly metalloproteinase inhibitors, adhesion molecules, and other genes involved in metastasis and cell invasion ref [54], ref [55].",
+    "refNo": 54,
+    "title": "Prediction of associations between microRNAs and gene expression in glioma biology",
+    "marker_text": "[54]"
+  },
+  {
+    "sentence": "Several miRNAs are involved in EMT or in general into the mechanisms of invasion; they include miR-21, miR-146, miR-10b, and miR-7 that target directly or indirectly metalloproteinase inhibitors, adhesion molecules, and other genes involved in metastasis and cell invasion ref [54], ref [55].",
+    "refNo": 55,
+    "title": "Gliomas display a microRNA expression profile reminiscent of neural precursor cells",
+    "marker_text": "[55]"
+  },
+  {
+    "sentence": "GB is a highly vascularized tumor, and this feature likely contributes to the invasive and proliferative capacity of the tumor and to the shielding of GB cells behind the BBB ref [56].",
+    "refNo": 56,
+    "title": "Integrated genomic analysis of survival outliers in glioblastoma",
+    "marker_text": "[56]"
+  },
+  {
+    "sentence": "A set of miRNA (miR-296, miR-125b, and others) can directly or indirectly fine-tune angiogenic factors and promote neoangiogenesis in GB ref [54], ref [56].",
+    "refNo": 54,
+    "title": "Prediction of associations between microRNAs and gene expression in glioma biology",
+    "marker_text": "[54]"
+  },
+  {
+    "sentence": "A set of miRNA (miR-296, miR-125b, and others) can directly or indirectly fine-tune angiogenic factors and promote neoangiogenesis in GB ref [54], ref [56].",
+    "refNo": 56,
+    "title": "Integrated genomic analysis of survival outliers in glioblastoma",
+    "marker_text": "[56]"
+  },
+  {
+    "sentence": "In GB, angiogenesis can be stimulated also by other mechanisms like hypoxia through the targeting of HIF3A by miR-210-3p that results in the overexpression of VEGF ref [54].",
+    "refNo": 54,
+    "title": "Prediction of associations between microRNAs and gene expression in glioma biology",
+    "marker_text": "[54]"
+  },
+  {
+    "sentence": "Interference with VEGF is not the only angiogenic mechanisms exerted by miRNA in glioma; indeed, neovascularization can be promoted by miR-93 that targets integrin-β8 involved in cell-cell and cell-matrix interactions ref [54].",
+    "refNo": 54,
+    "title": "Prediction of associations between microRNAs and gene expression in glioma biology",
+    "marker_text": "[54]"
+  },
+  {
+    "sentence": "The transport mechanisms of miRNA across the BBB is still debated and could involve extracellular vesicles (EV) like exosomes that could serve as a communication tool in nonpathologic situations or between tumor cells and their environment and trigger cell proliferation ref [54], ref [55].",
+    "refNo": 54,
+    "title": "Prediction of associations between microRNAs and gene expression in glioma biology",
+    "marker_text": "[54]"
+  },
+  {
+    "sentence": "The transport mechanisms of miRNA across the BBB is still debated and could involve extracellular vesicles (EV) like exosomes that could serve as a communication tool in nonpathologic situations or between tumor cells and their environment and trigger cell proliferation ref [54], ref [55].",
+    "refNo": 55,
+    "title": "Gliomas display a microRNA expression profile reminiscent of neural precursor cells",
+    "marker_text": "[55]"
+  },
+  {
+    "sentence": "Within the broader context of glioblastoma heterogeneity and treatment failure, miRNA deregulation is also linked to genomic instability and tumor-initiating capacity ref [57], ref [58].",
+    "refNo": 57,
+    "title": "Chromosomal instability affects the tumorigenicity of glioblastoma tumorinitiating cells",
+    "marker_text": "[57]"
+  },
+  {
+    "sentence": "Within the broader context of glioblastoma heterogeneity and treatment failure, miRNA deregulation is also linked to genomic instability and tumor-initiating capacity ref [57], ref [58].",
+    "refNo": 58,
+    "title": "Sustained expression of miR-26a promotes chromosomal instability and tumorigenesis through regulation of CHFR",
+    "marker_text": "[58]"
+  },
+  {
+    "sentence": "Gliomas display a microRNA expression profile reminiscent of neural precursor cells, supporting the idea that altered miRNA programs contribute to cellular plasticity and heterogeneous tumor states ref [55].",
+    "refNo": 55,
+    "title": "Gliomas display a microRNA expression profile reminiscent of neural precursor cells",
+    "marker_text": "[55]"
+  },
+  {
+    "sentence": "Integrated genomic analysis of survival outliers in glioblastoma further supports the relevance of molecular heterogeneity in shaping disease behavior and therapeutic response ref [56].",
+    "refNo": 56,
+    "title": "Integrated genomic analysis of survival outliers in glioblastoma",
+    "marker_text": "[56]"
+  },
+  {
+    "sentence": "In particular, sustained expression of miR-26a promotes chromosomal instability and tumorigenesis through regulation of CHFR ref [58].",
+    "refNo": 58,
+    "title": "Sustained expression of miR-26a promotes chromosomal instability and tumorigenesis through regulation of CHFR",
+    "marker_text": "[58]"
+  },
+  {
+    "sentence": "Chromosomal instability also affects the tumorigenicity of glioblastoma tumor-initiating cells, linking genome maintenance defects with aggressive phenotypes and intratumoral diversity ref [57].",
+    "refNo": 57,
+    "title": "Chromosomal instability affects the tumorigenicity of glioblastoma tumorinitiating cells",
+    "marker_text": "[57]"
+  },
+  {
+    "sentence": "Prediction-based analyses of associations between microRNAs and gene expression in glioma biology additionally support widespread miRNA-mediated regulation of pathways relevant to invasion, angiogenesis, and heterogeneous progression ref [54].",
+    "refNo": 54,
+    "title": "Prediction of associations between microRNAs and gene expression in glioma biology",
+    "marker_text": "[54]"
+  },
+  {
+    "sentence": "A prototype of this group of miRNA is miR-7 whose transfection in GBM cells leads to decreased invasiveness and increased apoptosis fulfilling the basic requirements of a tumor suppressor ref [59].",
+    "refNo": 59,
+    "title": "A systematic review of microRNA in glioblastoma multiforme: micromodulators in the mesenchymal mode of migration and invasion",
+    "marker_text": "[59]"
+  },
+  {
+    "sentence": "Historically, miR-21 was the first oncogenic miRNA to be identified and can target a set of oncosuppressor genes including PTEN and the metalloproteinase inhibitor TIMP3 which is involved in extracellular matrix remodeling, tumor infiltration, and angiogenesis ref [61].",
+    "refNo": 61,
+    "title": "MicroRNA 21 promotes glioma invasion by targeting matrix metalloproteinase regulators",
+    "marker_text": "[61]"
+  },
+  {
+    "sentence": "Thus, miR-21 targets an entire network of tumor suppressor genes and its inhibition by complementary oligonucleotides blocks GB cell growth in vitro and in vivo ref [61].",
+    "refNo": 61,
+    "title": "MicroRNA 21 promotes glioma invasion by targeting matrix metalloproteinase regulators",
+    "marker_text": "[61]"
+  },
+  {
+    "sentence": "Oncogenic antiapoptotic miRNAs like mir-21, miR-221/mir-222, and miR-335 are overexpressed in glioblastoma and interfere with the p53/Bcl-2/ PUMA and TGF-β signaling (miR-21/miR-221/miR-222) or with the potential tumor suppressor DAAM1 (miR-335) ref [60].",
+    "refNo": 60,
+    "title": "Targeting oncogenic miR-335 inhibits growth and invasion of malignant astrocytoma cells",
+    "marker_text": "[60]"
+  },
+  {
+    "sentence": "Several miRNAs are involved in EMT or in general into the mechanisms of invasion; they include miR-21, miR-146, miR-10b, and miR-7 that target directly or indirectly metalloproteinase inhibitors, adhesion molecules, and other genes involved in metastasis and cell invasion ref [59], ref [61], ref [62].",
+    "refNo": 59,
+    "title": "A systematic review of microRNA in glioblastoma multiforme: micromodulators in the mesenchymal mode of migration and invasion",
+    "marker_text": "[59]"
+  },
+  {
+    "sentence": "Several miRNAs are involved in EMT or in general into the mechanisms of invasion; they include miR-21, miR-146, miR-10b, and miR-7 that target directly or indirectly metalloproteinase inhibitors, adhesion molecules, and other genes involved in metastasis and cell invasion ref [59], ref [61], ref [62].",
+    "refNo": 61,
+    "title": "MicroRNA 21 promotes glioma invasion by targeting matrix metalloproteinase regulators",
+    "marker_text": "[61]"
+  },
+  {
+    "sentence": "Several miRNAs are involved in EMT or in general into the mechanisms of invasion; they include miR-21, miR-146, miR-10b, and miR-7 that target directly or indirectly metalloproteinase inhibitors, adhesion molecules, and other genes involved in metastasis and cell invasion ref [59], ref [61], ref [62].",
+    "refNo": 62,
+    "title": "Micro-RNA-10b pleiotropically regulates invasion, angiogenicity and apoptosis of tumor cells resembling mesenchymal subtype of glioblastoma multiforme",
+    "marker_text": "[62]"
+  },
+  {
+    "sentence": "A set of miRNA (miR-296, miR-125b, and others) can directly or indirectly fine-tune angiogenic factors and promote neoangiogenesis in GB ref [59], ref [62].",
+    "refNo": 59,
+    "title": "A systematic review of microRNA in glioblastoma multiforme: micromodulators in the mesenchymal mode of migration and invasion",
+    "marker_text": "[59]"
+  },
+  {
+    "sentence": "A set of miRNA (miR-296, miR-125b, and others) can directly or indirectly fine-tune angiogenic factors and promote neoangiogenesis in GB ref [59], ref [62].",
+    "refNo": 62,
+    "title": "Micro-RNA-10b pleiotropically regulates invasion, angiogenicity and apoptosis of tumor cells resembling mesenchymal subtype of glioblastoma multiforme",
+    "marker_text": "[62]"
+  },
+  {
+    "sentence": "In GB, angiogenesis can be stimulated also by other mechanisms like hypoxia through the targeting of HIF3A by miR-210-3p that results in the overexpression of VEGF ref [63].",
+    "refNo": 63,
+    "title": "Hypoxic signature of microRNAs in glioblastoma: insights from small RNA deep sequencing",
+    "marker_text": "[63]"
+  },
+  {
+    "sentence": "Interference with VEGF is not the only angiogenic mechanisms exerted by miRNA in glioma; indeed, neovascularization can be promoted by miR-93 that targets integrin-β8 involved in cell-cell and cell-matrix interactions ref [59].",
+    "refNo": 59,
+    "title": "A systematic review of microRNA in glioblastoma multiforme: micromodulators in the mesenchymal mode of migration and invasion",
+    "marker_text": "[59]"
+  },
+  {
+    "sentence": "The transport mechanisms of miRNA across the BBB is still debated and could involve extracellular vesicles (EV) like exosomes that could serve as a communication tool in nonpathologic situations or between tumor cells and their environment and trigger cell proliferation ref [64].",
+    "refNo": 64,
+    "title": "Competitive interactions of cancer cells and normal cells via secretory microRNAs",
+    "marker_text": "[64]"
+  },
+  {
+    "sentence": "When the functionality of miR-34a is restored, this miRNA acts as a tumor suppressor gene reducing cell proliferation and invasion ref [66].",
+    "refNo": 66,
+    "title": "Downregulation of CCND1 and CDK6 by miR-34a induces cell cycle arrest",
+    "marker_text": "[66]"
+  },
+  {
+    "sentence": "MiR-124 and miR-137 are two microRNA significantly downregulated in high-grade gliomas and in vitro can induce phenotypic changes, growth arrest, and differentiation in glioma stem cells and thus can be considered oncosuppressive miRNA ref [67].",
+    "refNo": 67,
+    "title": "miR-124 and miR-137 inhibit proliferation of glioblastoma multiforme cells and induce differentiation of brain tumor stem cells",
+    "marker_text": "[67]"
+  },
+  {
+    "sentence": "A prototype of this group of miRNA is miR-7 whose transfection in GBM cells leads to decreased invasiveness and increased apoptosis fulfilling the basic requirements of a tumor suppressor ref [68], ref [69].",
+    "refNo": 68,
+    "title": "Regulation of epidermal growth factor receptor signaling by plasmid-based microRNA-7 inhibits human malignant gliomas growth and metastasis in vivo",
+    "marker_text": "[68]"
+  },
+  {
+    "sentence": "A prototype of this group of miRNA is miR-7 whose transfection in GBM cells leads to decreased invasiveness and increased apoptosis fulfilling the basic requirements of a tumor suppressor ref [68], ref [69].",
+    "refNo": 69,
+    "title": "microRNA-7 inhibits the epidermal growth factor receptor and the Akt pathway and is down-regulated in glioblastoma",
+    "marker_text": "[69]"
+  },
+  {
+    "sentence": "Historically, miR-21 was the first oncogenic miRNA to be identified and can target a set of oncosuppressor genes including PTEN and the metalloproteinase inhibitor TIMP3 which is involved in extracellular matrix remodeling, tumor infiltration, and angiogenesis ref [70], ref [71].",
+    "refNo": 70,
+    "title": "MicroRNA-21 is an antiapoptotic factor in human glioblastoma cells",
+    "marker_text": "[70]"
+  },
+  {
+    "sentence": "Historically, miR-21 was the first oncogenic miRNA to be identified and can target a set of oncosuppressor genes including PTEN and the metalloproteinase inhibitor TIMP3 which is involved in extracellular matrix remodeling, tumor infiltration, and angiogenesis ref [70], ref [71].",
+    "refNo": 71,
+    "title": "Micro-RNA-21 targets a network of key tumor-suppressive pathways in glioblastoma cells",
+    "marker_text": "[71]"
+  },
+  {
+    "sentence": "Thus, miR-21 targets an entire network of tumor suppressor genes and its inhibition by complementary oligonucleotides blocks GB cell growth in vitro and in vivo ref [71].",
+    "refNo": 71,
+    "title": "Micro-RNA-21 targets a network of key tumor-suppressive pathways in glioblastoma cells",
+    "marker_text": "[71]"
+  },
+  {
+    "sentence": "On the contrary, the oncogenic properties of miR-221and miR-222, overexpressed in a variety of tumors including GB, have several oncogenic functions including the inactivation of the cell cycle suppressors p27 and p57 ref [72].",
+    "refNo": 72,
+    "title": "Regulation of p27Kip1 by miRNA 221/222 in glioblastoma",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "Oncogenic antiapoptotic miRNAs like mir-21, miR-221/mir-222 are overexpressed in glioblastoma and interfere with the p53/Bcl-2/ PUMA and TGF-β signaling ref [70], ref [73].",
+    "refNo": 70,
+    "title": "MicroRNA-21 is an antiapoptotic factor in human glioblastoma cells",
+    "marker_text": "[70]"
+  },
+  {
+    "sentence": "Oncogenic antiapoptotic miRNAs like mir-21, miR-221/mir-222 are overexpressed in glioblastoma and interfere with the p53/Bcl-2/ PUMA and TGF-β signaling ref [70], ref [73].",
+    "refNo": 73,
+    "title": "MiR-221 and miR-222 target PUMA to induce cell survival in glioblastoma",
+    "marker_text": "[73]"
+  },
+  {
+    "sentence": "Conversely, proapoptotic oncosuppressive miRNAs like miR-218 are downmodulated in GB ref [74].",
+    "refNo": 74,
+    "title": "MiR-218 sensitizes glioma cells to apoptosis and inhibits tumorigenicity by regulating ECOPmediated suppression of NF-κB activity",
+    "marker_text": "[74]"
+  },
+  {
+    "sentence": "Interestingly, downmodulation of miR-221/miR-222 restores the p53 pathway, activates apoptosis, and sensitizes GB cells to TMZ ref [73].",
+    "refNo": 73,
+    "title": "MiR-221 and miR-222 target PUMA to induce cell survival in glioblastoma",
+    "marker_text": "[73]"
+  },
+  {
+    "sentence": "In addition to its antiapoptotic effect, miR-21 inhibits autophagy, and downregulation of this miRNA increases the sensitivity of GB cells to TMZ and radiation expanding the cell population undergoing apoptosis ref [70], ref [71].",
+    "refNo": 70,
+    "title": "MicroRNA-21 is an antiapoptotic factor in human glioblastoma cells",
+    "marker_text": "[70]"
+  },
+  {
+    "sentence": "In addition to its antiapoptotic effect, miR-21 inhibits autophagy, and downregulation of this miRNA increases the sensitivity of GB cells to TMZ and radiation expanding the cell population undergoing apoptosis ref [70], ref [71].",
+    "refNo": 71,
+    "title": "Micro-RNA-21 targets a network of key tumor-suppressive pathways in glioblastoma cells",
+    "marker_text": "[71]"
+  },
+  {
+    "sentence": "Inhibits GB cell proliferation targeting EZH2, AKT1, MMP2, CCND1, Parp-1, and Bcl-2 ref [65].",
+    "refNo": 65,
+    "title": "miR-708 acts as a tumor suppressor in human glioblastoma cells",
+    "marker_text": "[65]"
+  },
+  {
+    "sentence": "Several miRNAs are involved in EMT or in general into the mechanisms of invasion; they include miR-21 and miR-7 that target directly or indirectly metalloproteinase inhibitors, adhesion molecules, and other genes involved in metastasis and cell invasion ref [68], ref [69], ref [71].",
+    "refNo": 68,
+    "title": "Regulation of epidermal growth factor receptor signaling by plasmid-based microRNA-7 inhibits human malignant gliomas growth and metastasis in vivo",
+    "marker_text": "[68]"
+  },
+  {
+    "sentence": "Several miRNAs are involved in EMT or in general into the mechanisms of invasion; they include miR-21 and miR-7 that target directly or indirectly metalloproteinase inhibitors, adhesion molecules, and other genes involved in metastasis and cell invasion ref [68], ref [69], ref [71].",
+    "refNo": 69,
+    "title": "microRNA-7 inhibits the epidermal growth factor receptor and the Akt pathway and is down-regulated in glioblastoma",
+    "marker_text": "[69]"
+  },
+  {
+    "sentence": "Several miRNAs are involved in EMT or in general into the mechanisms of invasion; they include miR-21 and miR-7 that target directly or indirectly metalloproteinase inhibitors, adhesion molecules, and other genes involved in metastasis and cell invasion ref [68], ref [69], ref [71].",
+    "refNo": 71,
+    "title": "Micro-RNA-21 targets a network of key tumor-suppressive pathways in glioblastoma cells",
+    "marker_text": "[71]"
+  },
+  {
+    "sentence": "Circulating nucleic acids and circulating tumor cells [ref [80], ref [81], ref [82]] are extensively exploited as tumor markers to predict outcome and to monitor the response to therapy [ref [75], ref [76], ref [77], ref [78], ref [79]].",
+    "refNo": 80,
+    "title": "Circulating tumor DNA as biomarkers for cancer detection",
+    "marker_text": "[80]"
+  },
+  {
+    "sentence": "Circulating nucleic acids and circulating tumor cells [ref [80], ref [81], ref [82]] are extensively exploited as tumor markers to predict outcome and to monitor the response to therapy [ref [75], ref [76], ref [77], ref [78], ref [79]].",
+    "refNo": 81,
+    "title": "Application of single-cell technology in cancer research",
+    "marker_text": "[81]"
+  },
+  {
+    "sentence": "Circulating nucleic acids and circulating tumor cells [ref [80], ref [81], ref [82]] are extensively exploited as tumor markers to predict outcome and to monitor the response to therapy [ref [75], ref [76], ref [77], ref [78], ref [79]].",
+    "refNo": 82,
+    "title": "Detection of IDH1 mutation in the plasma of patients with glioma",
+    "marker_text": "[82]"
+  },
+  {
+    "sentence": "Circulating nucleic acids and circulating tumor cells [ref [80], ref [81], ref [82]] are extensively exploited as tumor markers to predict outcome and to monitor the response to therapy [ref [75], ref [76], ref [77], ref [78], ref [79]].",
+    "refNo": 75,
+    "title": "Chip-based analysis of exosomal mRNA mediating drug resistance in glioblastoma",
+    "marker_text": "[75]"
+  },
+  {
+    "sentence": "Circulating nucleic acids and circulating tumor cells [ref [80], ref [81], ref [82]] are extensively exploited as tumor markers to predict outcome and to monitor the response to therapy [ref [75], ref [76], ref [77], ref [78], ref [79]].",
+    "refNo": 76,
+    "title": "Exosomes isolated from plasma of glioma patients enrolled in a vaccination trial reflect antitumor immune activity and might predict survival",
+    "marker_text": "[76]"
+  },
+  {
+    "sentence": "Circulating nucleic acids and circulating tumor cells [ref [80], ref [81], ref [82]] are extensively exploited as tumor markers to predict outcome and to monitor the response to therapy [ref [75], ref [76], ref [77], ref [78], ref [79]].",
+    "refNo": 77,
+    "title": "A restricted signature of serum miRNAs distinguishes glioblastoma from lower grade gliomas",
+    "marker_text": "[77]"
+  },
+  {
+    "sentence": "Circulating nucleic acids and circulating tumor cells [ref [80], ref [81], ref [82]] are extensively exploited as tumor markers to predict outcome and to monitor the response to therapy [ref [75], ref [76], ref [77], ref [78], ref [79]].",
+    "refNo": 78,
+    "title": "Plasma specific miRNAs as predictive biomarkers for diagnosis and prognosis of glioma",
+    "marker_text": "[78]"
+  },
+  {
+    "sentence": "Circulating nucleic acids and circulating tumor cells [ref [80], ref [81], ref [82]] are extensively exploited as tumor markers to predict outcome and to monitor the response to therapy [ref [75], ref [76], ref [77], ref [78], ref [79]].",
+    "refNo": 79,
+    "title": "Serum microRNA profiling in patients with glioblastoma: a survival analysis",
+    "marker_text": "[79]"
+  },
+  {
+    "sentence": "Importantly, in GB, response to therapy often results in enhancement of the captation of the contrast medium that can be disguised as progression (\"pseudoprogression\") challenging the imaging assessment of the disease [ref [84], ref [85], ref [15], ref [18]].",
+    "refNo": 84,
+    "title": "Phase III trial of carmustine and cisplatin compared with carmustine alone and standard radiation therapy or accelerated radiation therapy in patients with glioblastoma multiforme: North Central Cancer Treatment Group 93-72-52 and Southwest Oncology Group 9503 Trials",
+    "marker_text": "[84]"
+  },
+  {
+    "sentence": "Importantly, in GB, response to therapy often results in enhancement of the captation of the contrast medium that can be disguised as progression (\"pseudoprogression\") challenging the imaging assessment of the disease [ref [84], ref [85], ref [15], ref [18]].",
+    "refNo": 85,
+    "title": "First-line chemotherapy with cisplatin plus fractionated temozolomide in recurrent glioblastoma multiforme: a phase II study of the Gruppo Italiano Cooperativo di Neuro-Oncologia",
+    "marker_text": "[85]"
+  },
+  {
+    "sentence": "Importantly, in GB, response to therapy often results in enhancement of the captation of the contrast medium that can be disguised as progression (\"pseudoprogression\") challenging the imaging assessment of the disease [ref [84], ref [85], ref [15], ref [18]].",
+    "refNo": 15,
+    "title": "EZH2 protects glioma stem cells from radiation-induced cell death in a MELK/ FOXM1-dependent manner",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Importantly, in GB, response to therapy often results in enhancement of the captation of the contrast medium that can be disguised as progression (\"pseudoprogression\") challenging the imaging assessment of the disease [ref [84], ref [85], ref [15], ref [18]].",
+    "refNo": 18,
+    "title": "Genetics and epigenetics -nature's pen-and-pencil set",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "The distinction between true progression and pseudoprogression is a diagnostic need required for optimizing patient's care [ref [76], ref [78], ref [79], ref [82], ref [83]].",
+    "refNo": 76,
+    "title": "Exosomes isolated from plasma of glioma patients enrolled in a vaccination trial reflect antitumor immune activity and might predict survival",
+    "marker_text": "[76]"
+  },
+  {
+    "sentence": "The distinction between true progression and pseudoprogression is a diagnostic need required for optimizing patient's care [ref [76], ref [78], ref [79], ref [82], ref [83]].",
+    "refNo": 78,
+    "title": "Plasma specific miRNAs as predictive biomarkers for diagnosis and prognosis of glioma",
+    "marker_text": "[78]"
+  },
+  {
+    "sentence": "The distinction between true progression and pseudoprogression is a diagnostic need required for optimizing patient's care [ref [76], ref [78], ref [79], ref [82], ref [83]].",
+    "refNo": 79,
+    "title": "Serum microRNA profiling in patients with glioblastoma: a survival analysis",
+    "marker_text": "[79]"
+  },
+  {
+    "sentence": "The distinction between true progression and pseudoprogression is a diagnostic need required for optimizing patient's care [ref [76], ref [78], ref [79], ref [82], ref [83]].",
+    "refNo": 82,
+    "title": "Detection of IDH1 mutation in the plasma of patients with glioma",
+    "marker_text": "[82]"
+  },
+  {
+    "sentence": "The distinction between true progression and pseudoprogression is a diagnostic need required for optimizing patient's care [ref [76], ref [78], ref [79], ref [82], ref [83]].",
+    "refNo": 83,
+    "title": "2-hydroxyglutarate concentration in serum from patients with gliomas does not correlate with IDH1/2 mutation status or tumor size",
+    "marker_text": "[83]"
+  },
+  {
+    "sentence": "In this respect, the relation between miRNA and chemo-and radiotherapy has been extensively exploited to search for new possible therapeutic targets or to predict and improve the response to treatment ref [88], ref [89], ref [90], ref [91], ref [92], ref [93], ref [62], ref [94].",
+    "refNo": 88,
+    "title": "RNA nanoparticle-based targeted therapy for glioblastoma through inhibition of oncogenic miR-21",
+    "marker_text": "[88]"
+  },
+  {
+    "sentence": "In this respect, the relation between miRNA and chemo-and radiotherapy has been extensively exploited to search for new possible therapeutic targets or to predict and improve the response to treatment ref [88], ref [89], ref [90], ref [91], ref [92], ref [93], ref [62], ref [94].",
+    "refNo": 89,
+    "title": "Nanoparticle-delivered antisense microRNA-21 enhances the effects of temozolomide on glioblastoma cells",
+    "marker_text": "[89]"
+  },
+  {
+    "sentence": "In this respect, the relation between miRNA and chemo-and radiotherapy has been extensively exploited to search for new possible therapeutic targets or to predict and improve the response to treatment ref [88], ref [89], ref [90], ref [91], ref [92], ref [93], ref [62], ref [94].",
+    "refNo": 90,
+    "title": "Combined delivery of temozolomide and anti-miR221 PNA using mesoporous silica nanoparticles induces apoptosis in resistant glioma cells",
+    "marker_text": "[90]"
+  },
+  {
+    "sentence": "In this respect, the relation between miRNA and chemo-and radiotherapy has been extensively exploited to search for new possible therapeutic targets or to predict and improve the response to treatment ref [88], ref [89], ref [90], ref [91], ref [92], ref [93], ref [62], ref [94].",
+    "refNo": 91,
+    "title": "Therapeutic potential of targeting microRNA-10b in established intracranial glioblastoma: first steps toward the clinic",
+    "marker_text": "[91]"
+  },
+  {
+    "sentence": "In this respect, the relation between miRNA and chemo-and radiotherapy has been extensively exploited to search for new possible therapeutic targets or to predict and improve the response to treatment ref [88], ref [89], ref [90], ref [91], ref [92], ref [93], ref [62], ref [94].",
+    "refNo": 92,
+    "title": "MicroRNA sponges: progress and possibilities",
+    "marker_text": "[92]"
+  },
+  {
+    "sentence": "In this respect, the relation between miRNA and chemo-and radiotherapy has been extensively exploited to search for new possible therapeutic targets or to predict and improve the response to treatment ref [88], ref [89], ref [90], ref [91], ref [92], ref [93], ref [62], ref [94].",
+    "refNo": 93,
+    "title": "A lentivirus-mediated miR-23b sponge diminishes the malignant phenotype of glioma cells in vitro and in vivo",
+    "marker_text": "[93]"
+  },
+  {
+    "sentence": "In this respect, the relation between miRNA and chemo-and radiotherapy has been extensively exploited to search for new possible therapeutic targets or to predict and improve the response to treatment ref [88], ref [89], ref [90], ref [91], ref [92], ref [93], ref [62], ref [94].",
+    "refNo": 62,
+    "title": "Micro-RNA-10b pleiotropically regulates invasion, angiogenicity and apoptosis of tumor cells resembling mesenchymal subtype of glioblastoma multiforme",
+    "marker_text": "[62]"
+  },
+  {
+    "sentence": "In this respect, the relation between miRNA and chemo-and radiotherapy has been extensively exploited to search for new possible therapeutic targets or to predict and improve the response to treatment ref [88], ref [89], ref [90], ref [91], ref [92], ref [93], ref [62], ref [94].",
+    "refNo": 94,
+    "title": "Influence of surfactants, polymer and doxorubicin loading on the anti-tumour effect of poly(-butyl cyanoacrylate) nanoparticles in a rat glioma model",
+    "marker_text": "[94]"
+  },
+  {
+    "sentence": "The development of multiomics strategies has led to impressive advancements of the knowledge on the mechanisms behind cell transformation and has opened the possibility of selectively targeting cancer cells in many types of tumors including GB ref [99], ref [100], ref [97], ref [98], ref [101], ref [102], ref [95], ref [96], ref [49].",
+    "refNo": 99,
+    "title": "Recent advances in brain tumor-targeted nano-drug delivery systems",
+    "marker_text": "[99]"
+  },
+  {
+    "sentence": "The development of multiomics strategies has led to impressive advancements of the knowledge on the mechanisms behind cell transformation and has opened the possibility of selectively targeting cancer cells in many types of tumors including GB ref [99], ref [100], ref [97], ref [98], ref [101], ref [102], ref [95], ref [96], ref [49].",
+    "refNo": 100,
+    "title": "Polymeric nanoparticles for the drug delivery to the central nervous system",
+    "marker_text": "[100]"
+  },
+  {
+    "sentence": "The development of multiomics strategies has led to impressive advancements of the knowledge on the mechanisms behind cell transformation and has opened the possibility of selectively targeting cancer cells in many types of tumors including GB ref [99], ref [100], ref [97], ref [98], ref [101], ref [102], ref [95], ref [96], ref [49].",
+    "refNo": 97,
+    "title": "Clinical development of liposome-based drugs: formulation, characterization, and therapeutic efficacy",
+    "marker_text": "[97]"
+  },
+  {
+    "sentence": "The development of multiomics strategies has led to impressive advancements of the knowledge on the mechanisms behind cell transformation and has opened the possibility of selectively targeting cancer cells in many types of tumors including GB ref [99], ref [100], ref [97], ref [98], ref [101], ref [102], ref [95], ref [96], ref [49].",
+    "refNo": 98,
+    "title": "High intratumoural accumulation of stealth liposomal doxorubicin (Caelyx) in glioblastomas and in metastatic brain tumours",
+    "marker_text": "[98]"
+  },
+  {
+    "sentence": "The development of multiomics strategies has led to impressive advancements of the knowledge on the mechanisms behind cell transformation and has opened the possibility of selectively targeting cancer cells in many types of tumors including GB ref [99], ref [100], ref [97], ref [98], ref [101], ref [102], ref [95], ref [96], ref [49].",
+    "refNo": 101,
+    "title": "Use of genetically engineered bone marrow-derived mesenchymal stem cells for glioma gene therapy",
+    "marker_text": "[101]"
+  },
+  {
+    "sentence": "The development of multiomics strategies has led to impressive advancements of the knowledge on the mechanisms behind cell transformation and has opened the possibility of selectively targeting cancer cells in many types of tumors including GB ref [99], ref [100], ref [97], ref [98], ref [101], ref [102], ref [95], ref [96], ref [49].",
+    "refNo": 102,
+    "title": "Mesenchymal stem cells deliver exogenous miRNAs to neural cells and induce their differentiation and glutamate transporter expression",
+    "marker_text": "[102]"
+  },
+  {
+    "sentence": "The development of multiomics strategies has led to impressive advancements of the knowledge on the mechanisms behind cell transformation and has opened the possibility of selectively targeting cancer cells in many types of tumors including GB ref [99], ref [100], ref [97], ref [98], ref [101], ref [102], ref [95], ref [96], ref [49].",
+    "refNo": 95,
+    "title": "Emerging roles of extracellular vesicles in the adaptive response of tumour cells to microenvironmental stress",
+    "marker_text": "[95]"
+  },
+  {
+    "sentence": "The development of multiomics strategies has led to impressive advancements of the knowledge on the mechanisms behind cell transformation and has opened the possibility of selectively targeting cancer cells in many types of tumors including GB ref [99], ref [100], ref [97], ref [98], ref [101], ref [102], ref [95], ref [96], ref [49].",
+    "refNo": 96,
+    "title": "Quantitative analysis of tissue distribution of the B16BL6-derived exosomes using a streptavidin-lactadherin fusion protein and iodine-125-labeled biotin derivative after intravenous injection in mice",
+    "marker_text": "[96]"
+  },
+  {
+    "sentence": "The development of multiomics strategies has led to impressive advancements of the knowledge on the mechanisms behind cell transformation and has opened the possibility of selectively targeting cancer cells in many types of tumors including GB ref [99], ref [100], ref [97], ref [98], ref [101], ref [102], ref [95], ref [96], ref [49].",
+    "refNo": 49,
+    "title": "Microvessel organization and structure in experimental brain tumors: microvessel populations with distinctive structural and functional properties",
+    "marker_text": "[49]"
+  },
+  {
+    "sentence": "Earlier preclinical studies showed that cisplatin could increase the efficacy of TMZ by decreasing the activity of MGMT ref [103] but several clinical trials have tested the activity of cisplatin in GB patients with limited success.",
+    "refNo": 103,
+    "title": "Attenuation of O 6-methylguanine-DNA methyltransferase activity and mRNA levels by cisplatin and temozolomide in Jurkat cells",
+    "marker_text": "[103]"
+  },
+  {
+    "sentence": "Many biological pathways underlie the resistance to cisplatin and platinum derivatives ref [104], and several miRNAs contribute to the reduction of platinum sensitivity.",
+    "refNo": 104,
+    "title": "Cisplatin resistance: a cellular self-defense mechanism resulting from multiple epigenetic and genetic changes",
+    "marker_text": "[104]"
+  },
+  {
+    "sentence": "Let-7b seems to be involved in cisplatin resistance affecting the cyclin D1 pathway ref [105], and miR-873, which targets Bcl-2, is downregulated in a time-dependent manner by cisplatin and, if overexpressed, increases apoptosis in cisplatin-resistant GB cells ref [106].",
+    "refNo": 105,
+    "title": "Let-7b expression determines response to chemotherapy through the regulation of cyclin D1 in glioblastoma",
+    "marker_text": "[105]"
+  },
+  {
+    "sentence": "Let-7b seems to be involved in cisplatin resistance affecting the cyclin D1 pathway ref [105], and miR-873, which targets Bcl-2, is downregulated in a time-dependent manner by cisplatin and, if overexpressed, increases apoptosis in cisplatin-resistant GB cells ref [106].",
+    "refNo": 106,
+    "title": "MiR-873 acts as a novel sensitizer of glioma cells to cisplatin by targeting Bcl-2",
+    "marker_text": "[106]"
+  },
+  {
+    "sentence": "Indeed, miR-21 has antiapoptotic activity in glioblastoma cells ref [70] and treatment of GB cells with TMZ results in miR-21 overexpression while its inhibition with specific anti-miR-21 results in high apoptotic levels upon treatment with TMZ ref [70].",
+    "refNo": 70,
+    "title": "MicroRNA-21 is an antiapoptotic factor in human glioblastoma cells",
+    "marker_text": "[70]"
+  },
+  {
+    "sentence": "Indeed, miR-21 has antiapoptotic activity in glioblastoma cells ref [70] and treatment of GB cells with TMZ results in miR-21 overexpression while its inhibition with specific anti-miR-21 results in high apoptotic levels upon treatment with TMZ ref [70].",
+    "refNo": 70,
+    "title": "MicroRNA-21 is an antiapoptotic factor in human glioblastoma cells",
+    "marker_text": "[70]"
+  },
+  {
+    "sentence": "AEG-1 is directly targeted by miR-136 that, when exogenously overexpressed, increases the cytotoxic activity of TMZ ref [107].",
+    "refNo": 107,
+    "title": "MiR-136 modulates glioma cell sensitivity to temozolomide by targeting astrocyte elevated gene-1",
+    "marker_text": "[107]"
+  },
+  {
+    "sentence": "For example, miR-139 inhibits the expression of the antiapoptotic gene Mcl-1, a member of the Bcl-2 family, and sensitizes GB cells to the effect of TMZ ref [108].",
+    "refNo": 108,
+    "title": "MiR-139 inhibits Mcl-1 expression and potentiates TMZ-induced apoptosis in glioma",
+    "marker_text": "[108]"
+  },
+  {
+    "sentence": "The overexpression of miR-143 sensitizes GB cells to apoptosis induced by TMZ and inhibits invasion and proliferation, and this effect has been attributed to the direct targeting of N-RAS and, indirectly, to the dephosphorylation of AKT and to the downmodulation of HIF and VEGF as a result of N-RAS inhibition ref [109].",
+    "refNo": 109,
+    "title": "MiR-143 acts as a tumor suppressor by targeting N-RAS and enhances temozolomideinduced apoptosis in glioma",
+    "marker_text": "[109]"
+  },
+  {
+    "sentence": "Interestingly, forced expression of miR-29c, which is downmodulated in glioblastoma, sensitizes cells to TMZ ref [110].",
+    "refNo": 110,
+    "title": "miR-29c contribute to glioma cells temozolomide sensitivity by targeting O6-methylguanine-DNA methyltransferases indirectely",
+    "marker_text": "[110]"
+  },
+  {
+    "sentence": "MicroRNAs are epigenetic regulatory molecules that possessing multiple targets have a profound impact on cell physiology and pathology ref [111], ref [112], ref [113].",
+    "refNo": 111,
+    "title": "MicroRNA genes are frequently located at fragile sites and genomic regions involved in cancers",
+    "marker_text": "[111]"
+  },
+  {
+    "sentence": "MicroRNAs are epigenetic regulatory molecules that possessing multiple targets have a profound impact on cell physiology and pathology ref [111], ref [112], ref [113].",
+    "refNo": 112,
+    "title": "MicroRNAs: genomics, biogenesis, mechanism, and function",
+    "marker_text": "[112]"
+  },
+  {
+    "sentence": "MicroRNAs are epigenetic regulatory molecules that possessing multiple targets have a profound impact on cell physiology and pathology ref [111], ref [112], ref [113].",
+    "refNo": 113,
+    "title": "MicroRNA signatures in human cancers",
+    "marker_text": "[113]"
+  },
+  {
+    "sentence": "MicroRNAs are players of the \"epigenetic orchestra\" that fine-tune the coordinate transcription of the genetic information ref [114], ref [115].",
+    "refNo": 114,
+    "title": "The role of microRNAs in human cancer",
+    "marker_text": "[114]"
+  },
+  {
+    "sentence": "MicroRNAs are players of the \"epigenetic orchestra\" that fine-tune the coordinate transcription of the genetic information ref [114], ref [115].",
+    "refNo": 115,
+    "title": "MicroRNAs in the pathogenesis of cancer",
+    "marker_text": "[115]"
+  },
+  {
+    "sentence": "It is quite clear that control exerted by miRNA is extraordinary complex, that indeed a single miRNA can bind many genes, and that each gene can be recognized by many miRNAs in an extremely complex direct and indirect regulatory circuitry ref [116], ref [117], ref [118].",
+    "refNo": 116,
+    "title": "A census of human microRNA targets",
+    "marker_text": "[116]"
+  },
+  {
+    "sentence": "It is quite clear that control exerted by miRNA is extraordinary complex, that indeed a single miRNA can bind many genes, and that each gene can be recognized by many miRNAs in an extremely complex direct and indirect regulatory circuitry ref [116], ref [117], ref [118].",
+    "refNo": 117,
+    "title": "Combinatorial microRNA target predictions",
+    "marker_text": "[117]"
+  },
+  {
+    "sentence": "It is quite clear that control exerted by miRNA is extraordinary complex, that indeed a single miRNA can bind many genes, and that each gene can be recognized by many miRNAs in an extremely complex direct and indirect regulatory circuitry ref [116], ref [117], ref [118].",
+    "refNo": 118,
+    "title": "Principles of microRNA-target recognition",
+    "marker_text": "[118]"
+  },
+  {
+    "sentence": "Obviously, mastering this network could have dramatic effects on cell behavior ref [119], ref [120].",
+    "refNo": 119,
+    "title": "MicroRNAs: small RNAs with a big role in gene regulation",
+    "marker_text": "[119]"
+  },
+  {
+    "sentence": "Obviously, mastering this network could have dramatic effects on cell behavior ref [119], ref [120].",
+    "refNo": 120,
+    "title": "The widespread regulation of microRNA biogenesis, function and decay",
+    "marker_text": "[120]"
+  },
+  {
+    "sentence": "Therefore, it is not surprising that although our knowledge of the complex effects and interactions between miRNA and genome is still incomplete, the potential implications of miRNA for the diagnosis and prognosis, for the patients' stratification and for their personalized therapy, were not overlooked ref [121], ref [122], ref [123], ref [124].",
+    "refNo": 121,
+    "title": "MicroRNA profiling in cancer diagnosis and prognosis",
+    "marker_text": "[121]"
+  },
+  {
+    "sentence": "Therefore, it is not surprising that although our knowledge of the complex effects and interactions between miRNA and genome is still incomplete, the potential implications of miRNA for the diagnosis and prognosis, for the patients' stratification and for their personalized therapy, were not overlooked ref [121], ref [122], ref [123], ref [124].",
+    "refNo": 122,
+    "title": "Circulating microRNAs as stable blood-based markers for cancer detection",
+    "marker_text": "[122]"
+  },
+  {
+    "sentence": "Therefore, it is not surprising that although our knowledge of the complex effects and interactions between miRNA and genome is still incomplete, the potential implications of miRNA for the diagnosis and prognosis, for the patients' stratification and for their personalized therapy, were not overlooked ref [121], ref [122], ref [123], ref [124].",
+    "refNo": 123,
+    "title": "MicroRNAs as novel biomarkers and therapeutic targets in human cancer",
+    "marker_text": "[123]"
+  },
+  {
+    "sentence": "Therefore, it is not surprising that although our knowledge of the complex effects and interactions between miRNA and genome is still incomplete, the potential implications of miRNA for the diagnosis and prognosis, for the patients' stratification and for their personalized therapy, were not overlooked ref [121], ref [122], ref [123], ref [124].",
+    "refNo": 124,
+    "title": "Clinical applications of microRNAs in cancer",
+    "marker_text": "[124]"
+  },
+  {
+    "sentence": "However, in order to translate the impressive basic knowledge so far gained on miRNA onto the clinical practice, several issues urgently need to be addressed ref [125].",
+    "refNo": 125,
+    "title": "Therapeutic opportunities and challenges of microRNA modulation in cancer",
+    "marker_text": "[125]"
+  },
+  {
+    "sentence": "Besides the technicisms of delivery and targeting, the major problem remains that of understanding the miRNA effects not anymore at the level of single miRNA-target interaction, but utilizing a \"holistic\" approach to fully appreciate the balance between miRNA and target genes of opposite functions ref [126].",
+    "refNo": 126,
+    "title": "Network-based analysis of microRNA-target interactions in cancer systems biology",
+    "marker_text": "[126]"
+  }
+]

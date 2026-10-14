@@ -1,0 +1,422 @@
+[
+  {
+    "sentence": "In vitro models of CRC established using intestinal cells and CRC cells are frequently employed for obtaining rapidly growing cellular models of CRC and for facilitating experimental control ref [1], ref [2].",
+    "refNo": 1,
+    "title": "Modeling mouse and human development using organoid cultures",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "In vitro models of CRC established using intestinal cells and CRC cells are frequently employed for obtaining rapidly growing cellular models of CRC and for facilitating experimental control ref [1], ref [2].",
+    "refNo": 2,
+    "title": "Organogenesis in a dish: Modeling development and disease using organoid technologies",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "In vitro models of CRC can simultaneously generate several populations of homogeneous cells ref [1], ref [2].",
+    "refNo": 1,
+    "title": "Modeling mouse and human development using organoid cultures",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "In vitro models of CRC can simultaneously generate several populations of homogeneous cells ref [1], ref [2].",
+    "refNo": 2,
+    "title": "Organogenesis in a dish: Modeling development and disease using organoid technologies",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Specific cellular targets of macroscopic systems can be conveniently studied using these models by analyzing the experimental results ref [1], ref [2].",
+    "refNo": 1,
+    "title": "Modeling mouse and human development using organoid cultures",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Specific cellular targets of macroscopic systems can be conveniently studied using these models by analyzing the experimental results ref [1], ref [2].",
+    "refNo": 2,
+    "title": "Organogenesis in a dish: Modeling development and disease using organoid technologies",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "The establishment of models using the corresponding tumor cells is crucial for investigating the mechanism underlying the development of CRC and discovery of anti-CRC drugs ref [1], ref [2].",
+    "refNo": 1,
+    "title": "Modeling mouse and human development using organoid cultures",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "The establishment of models using the corresponding tumor cells is crucial for investigating the mechanism underlying the development of CRC and discovery of anti-CRC drugs ref [1], ref [2].",
+    "refNo": 2,
+    "title": "Organogenesis in a dish: Modeling development and disease using organoid technologies",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "The applications of different cellular models of CRC according to the different molecular mechanisms underlying tumor formation, including epithelial-mesenchymal transition (EMT), apoptosis, invasion, metastasis, chromosome instability (CIN), and immune escape, are summarized in Table 1 and Figure 4 ref [1], ref [2]. (2021) Groll et al. (2021) Sus scrofa (Pig) The anatomical structure of the small intestine is similar to that of humans.",
+    "refNo": 1,
+    "title": "Modeling mouse and human development using organoid cultures",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "The applications of different cellular models of CRC according to the different molecular mechanisms underlying tumor formation, including epithelial-mesenchymal transition (EMT), apoptosis, invasion, metastasis, chromosome instability (CIN), and immune escape, are summarized in Table 1 and Figure 4 ref [1], ref [2]. (2021) Groll et al. (2021) Sus scrofa (Pig) The anatomical structure of the small intestine is similar to that of humans.",
+    "refNo": 2,
+    "title": "Organogenesis in a dish: Modeling development and disease using organoid technologies",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "The progression and accumulation of mutations in CRC can be monitored by colonoscopy screening ref [2], ref [3].",
+    "refNo": 2,
+    "title": "Organogenesis in a dish: Modeling development and disease using organoid technologies",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "The progression and accumulation of mutations in CRC can be monitored by colonoscopy screening ref [2], ref [3].",
+    "refNo": 3,
+    "title": "A retrospective study of the prevalence and classification of intestinal neoplasia in zebrafish (Danio rerio)",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "CRC cell lines are in vitro tumor models with different origins and types, and serve as fundamental tools for investigating the biomarkers of drug sensitivity, resistance, and toxicity ref [4], ref [6].",
+    "refNo": 4,
+    "title": "From in vitro experiments to in vivo and clinical studies; pros and cons",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "CRC cell lines are in vitro tumor models with different origins and types, and serve as fundamental tools for investigating the biomarkers of drug sensitivity, resistance, and toxicity ref [4], ref [6].",
+    "refNo": 6,
+    "title": "History of cell culture",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "CRC cell lines are established by isolating CRC cells from patients or animals with CRC followed by culture on artificial media ref [5], ref [6].",
+    "refNo": 5,
+    "title": "The growth in vitro of single isolated tissue cells",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "CRC cell lines are established by isolating CRC cells from patients or animals with CRC followed by culture on artificial media ref [5], ref [6].",
+    "refNo": 6,
+    "title": "History of cell culture",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "The appropriate cell lines are selected based on the type of cancer or gene expression levels, according to the aims of the study ref [4].",
+    "refNo": 4,
+    "title": "From in vitro experiments to in vivo and clinical studies; pros and cons",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "SW620, Caco-2, RKO, SW480, HT8, HT29, HT116, LoVo, and LS174 T cell lines are currently widely used in basic research studies on CRC ref [4], ref [6].",
+    "refNo": 4,
+    "title": "From in vitro experiments to in vivo and clinical studies; pros and cons",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "SW620, Caco-2, RKO, SW480, HT8, HT29, HT116, LoVo, and LS174 T cell lines are currently widely used in basic research studies on CRC ref [4], ref [6].",
+    "refNo": 6,
+    "title": "History of cell culture",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Owing to the limitations of 2D cellular models of CRC, researchers are committed towards exploiting novel and physiologically representative models of CRC ref [8], ref [11].",
+    "refNo": 8,
+    "title": "Three-dimensional spheroid model in tumor biology",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Owing to the limitations of 2D cellular models of CRC, researchers are committed towards exploiting novel and physiologically representative models of CRC ref [8], ref [11].",
+    "refNo": 11,
+    "title": "In vitro three-dimensional (3D) models in cancer research: An update",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "In vitro 3D culture models, including spheroids and organoids, are therefore used for overcoming the limitations of 2D cellular models ref [7], ref [8], ref [11].",
+    "refNo": 7,
+    "title": "3D tumor models and their use for the testing of immunotherapies",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "In vitro 3D culture models, including spheroids and organoids, are therefore used for overcoming the limitations of 2D cellular models ref [7], ref [8], ref [11].",
+    "refNo": 8,
+    "title": "Three-dimensional spheroid model in tumor biology",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "In vitro 3D culture models, including spheroids and organoids, are therefore used for overcoming the limitations of 2D cellular models ref [7], ref [8], ref [11].",
+    "refNo": 11,
+    "title": "In vitro three-dimensional (3D) models in cancer research: An update",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Spheroids comprise a mixture of single-cell or multicellular systems, while organoids are generally formed of specific stem cells or ancestral cells from organs ref [8], ref [11].",
+    "refNo": 8,
+    "title": "Three-dimensional spheroid model in tumor biology",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Spheroids comprise a mixture of single-cell or multicellular systems, while organoids are generally formed of specific stem cells or ancestral cells from organs ref [8], ref [11].",
+    "refNo": 11,
+    "title": "In vitro three-dimensional (3D) models in cancer research: An update",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Spheroids and organoids are superior at mimicking tumor cell heterogeneity and the complex interactions among different cells ref [7], ref [8], ref [11].",
+    "refNo": 7,
+    "title": "3D tumor models and their use for the testing of immunotherapies",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Spheroids and organoids are superior at mimicking tumor cell heterogeneity and the complex interactions among different cells ref [7], ref [8], ref [11].",
+    "refNo": 8,
+    "title": "Three-dimensional spheroid model in tumor biology",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Spheroids and organoids are superior at mimicking tumor cell heterogeneity and the complex interactions among different cells ref [7], ref [8], ref [11].",
+    "refNo": 11,
+    "title": "In vitro three-dimensional (3D) models in cancer research: An update",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "MCTS models are similar to solid tumors in terms of the growth kinetics, metabolic rate, and resistance to chemotherapy and radiotherapy in vivo ref [8], ref [10], ref [11], and have been employed for screening and evaluating the efficacy of drugs ref [7], ref [8], ref [10], ref [11].",
+    "refNo": 8,
+    "title": "Three-dimensional spheroid model in tumor biology",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "MCTS models are similar to solid tumors in terms of the growth kinetics, metabolic rate, and resistance to chemotherapy and radiotherapy in vivo ref [8], ref [10], ref [11], and have been employed for screening and evaluating the efficacy of drugs ref [7], ref [8], ref [10], ref [11].",
+    "refNo": 10,
+    "title": "Rapid generation of single-tumor spheroids for high-throughput cell function and toxicity analysis",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "MCTS models are similar to solid tumors in terms of the growth kinetics, metabolic rate, and resistance to chemotherapy and radiotherapy in vivo ref [8], ref [10], ref [11], and have been employed for screening and evaluating the efficacy of drugs ref [7], ref [8], ref [10], ref [11].",
+    "refNo": 11,
+    "title": "In vitro three-dimensional (3D) models in cancer research: An update",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "MCTS models are similar to solid tumors in terms of the growth kinetics, metabolic rate, and resistance to chemotherapy and radiotherapy in vivo ref [8], ref [10], ref [11], and have been employed for screening and evaluating the efficacy of drugs ref [7], ref [8], ref [10], ref [11].",
+    "refNo": 7,
+    "title": "3D tumor models and their use for the testing of immunotherapies",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "MCTS models are similar to solid tumors in terms of the growth kinetics, metabolic rate, and resistance to chemotherapy and radiotherapy in vivo ref [8], ref [10], ref [11], and have been employed for screening and evaluating the efficacy of drugs ref [7], ref [8], ref [10], ref [11].",
+    "refNo": 8,
+    "title": "Three-dimensional spheroid model in tumor biology",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "MCTS models are similar to solid tumors in terms of the growth kinetics, metabolic rate, and resistance to chemotherapy and radiotherapy in vivo ref [8], ref [10], ref [11], and have been employed for screening and evaluating the efficacy of drugs ref [7], ref [8], ref [10], ref [11].",
+    "refNo": 10,
+    "title": "Rapid generation of single-tumor spheroids for high-throughput cell function and toxicity analysis",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "MCTS models are similar to solid tumors in terms of the growth kinetics, metabolic rate, and resistance to chemotherapy and radiotherapy in vivo ref [8], ref [10], ref [11], and have been employed for screening and evaluating the efficacy of drugs ref [7], ref [8], ref [10], ref [11].",
+    "refNo": 11,
+    "title": "In vitro three-dimensional (3D) models in cancer research: An update",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "However, the variability of MCTS models makes it difficult to obtain repeatable and stable experimental data, which affects the use of these models in tumor research ref [8], ref [11].",
+    "refNo": 8,
+    "title": "Three-dimensional spheroid model in tumor biology",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "However, the variability of MCTS models makes it difficult to obtain repeatable and stable experimental data, which affects the use of these models in tumor research ref [8], ref [11].",
+    "refNo": 11,
+    "title": "In vitro three-dimensional (3D) models in cancer research: An update",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "However, organoids are relatively complex three-dimensional (3D) culture models that are frequently used in CRC research ref [17].",
+    "refNo": 17,
+    "title": "Hallmarks of cancer-the new testament",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Induction of EMT via interleukin-6 (IL-6), TNF-α, and other inflammatory factors ref [14], ref [15], ref [16] SW480, SW620, and Caco-2 Rokavec et al. (2014).",
+    "refNo": 14,
+    "title": "SOX2 promotes chemoresistance, cancer stem cells properties, and epithelial-mesenchymal transition by βcatenin and Beclin1/autophagy signaling in colorectal cancer",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Induction of EMT via interleukin-6 (IL-6), TNF-α, and other inflammatory factors ref [14], ref [15], ref [16] SW480, SW620, and Caco-2 Rokavec et al. (2014).",
+    "refNo": 15,
+    "title": "Syndecan-2 in colorectal cancer plays oncogenic role via epithelial-mesenchymal transition and MAPK pathway",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Induction of EMT via interleukin-6 (IL-6), TNF-α, and other inflammatory factors ref [14], ref [15], ref [16] SW480, SW620, and Caco-2 Rokavec et al. (2014).",
+    "refNo": 16,
+    "title": "CSN8 is a key regulator in hypoxiainduced epithelial-mesenchymal transition and dormancy of colorectal cancer cells",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Induction of EMT via the overexpression of cryopyrin-associated periodic syndromes 1 (CAPS1), nuclear factor of activated T-cells ref [14], ref [15], ref [16].",
+    "refNo": 14,
+    "title": "SOX2 promotes chemoresistance, cancer stem cells properties, and epithelial-mesenchymal transition by βcatenin and Beclin1/autophagy signaling in colorectal cancer",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Induction of EMT via the overexpression of cryopyrin-associated periodic syndromes 1 (CAPS1), nuclear factor of activated T-cells ref [14], ref [15], ref [16].",
+    "refNo": 15,
+    "title": "Syndecan-2 in colorectal cancer plays oncogenic role via epithelial-mesenchymal transition and MAPK pathway",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Induction of EMT via the overexpression of cryopyrin-associated periodic syndromes 1 (CAPS1), nuclear factor of activated T-cells ref [14], ref [15], ref [16].",
+    "refNo": 16,
+    "title": "CSN8 is a key regulator in hypoxiainduced epithelial-mesenchymal transition and dormancy of colorectal cancer cells",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Requires multiple administration, low specificity ref [18] Reddy and Mori (1981) Reddy (1998) CIN Rygaard and poulsen (1969) Lehmann et al. (2017) Frontiers in Pharmacology frontiersin.org human CRC tumors in human intestinal stem cell medium (HISC), and the phenotype and genotype of the PDOs have been reported to be highly similar to those of the original tumor ref [20].",
+    "refNo": 18,
+    "title": "Effect of dietary wheat bran and dehydrated citrus fiber on 3,2'-dimethyl-4-aminobiphenyl-induced intestinal carcinogenesis in F344 rats",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Requires multiple administration, low specificity ref [18] Reddy and Mori (1981) Reddy (1998) CIN Rygaard and poulsen (1969) Lehmann et al. (2017) Frontiers in Pharmacology frontiersin.org human CRC tumors in human intestinal stem cell medium (HISC), and the phenotype and genotype of the PDOs have been reported to be highly similar to those of the original tumor ref [20].",
+    "refNo": 20,
+    "title": "Patient-derived organoids model treatment response of metastatic gastrointestinal cancers",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Organoids are typically used for investigating the mechanism underlying the development of CRC, screening anti-CRC drugs, and determining the efficacy and mechanism of action of drugs ref [19] ref [20].",
+    "refNo": 19,
+    "title": "Human tissues in a dish: The research and ethical implications of organoid technology",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Organoids are typically used for investigating the mechanism underlying the development of CRC, screening anti-CRC drugs, and determining the efficacy and mechanism of action of drugs ref [19] ref [20].",
+    "refNo": 20,
+    "title": "Patient-derived organoids model treatment response of metastatic gastrointestinal cancers",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "First, the current methods for organoid culture lack the technological means for maintaining the blood vessels, immune system, and peripheral nervous system of tumor cells, and organoids lacking these characteristics cannot be used in CRC research ref [19].",
+    "refNo": 19,
+    "title": "Human tissues in a dish: The research and ethical implications of organoid technology",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Second, as PDO models lack the cellular and acellular components of the TME of the original tumor, they cannot equivalently represent the in vivo environment of the tumor ref [19] ref [20].",
+    "refNo": 19,
+    "title": "Human tissues in a dish: The research and ethical implications of organoid technology",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Second, as PDO models lack the cellular and acellular components of the TME of the original tumor, they cannot equivalently represent the in vivo environment of the tumor ref [19] ref [20].",
+    "refNo": 20,
+    "title": "Patient-derived organoids model treatment response of metastatic gastrointestinal cancers",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Third, there are no specific media for culturing organoids to date ref [19].",
+    "refNo": 19,
+    "title": "Human tissues in a dish: The research and ethical implications of organoid technology",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Furthermore, it is unclear whether organoids can represent the overall heterogeneity of the tumor and all cell types in the tumor ref [19].",
+    "refNo": 19,
+    "title": "Human tissues in a dish: The research and ethical implications of organoid technology",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Organoids can be applied to relevant studies by optimizing the culture conditions for maintaining the expression of genes related to microsatellite instability, B-Raf proto-oncogene, serine/threonine kinase (BRAF) mutations, poor differentiation, or mucinous phenotypes related to CRC ref [20].",
+    "refNo": 20,
+    "title": "Patient-derived organoids model treatment response of metastatic gastrointestinal cancers",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "The application of organoids to CRC research can be improved by employing the co-culture model of organoids in which immune cells and mesenchymal cells are co-cultured for simulating the in vivo TME ref [19].",
+    "refNo": 19,
+    "title": "Human tissues in a dish: The research and ethical implications of organoid technology",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "The carcinogenesis of CRC is affected by several contributing factors, including dietary patterns and tumor heterogeneity ref [21].",
+    "refNo": 21,
+    "title": "Dietary patterns and risk of colorectal cancer: Analysis by tumor location and molecular subtypes",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Murine models of CRC can therefore be used as effective tools for studying the mechanism underlying the pathogenesis of CRC and determining novel strategies for the prevention and treatment of CRC ref [22].",
+    "refNo": 22,
+    "title": "Somatic mutations of APC gene in carcinomas from hereditary non-polyposis colorectal cancer patients",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Application of CRC cellular models ref [23].",
+    "refNo": 23,
+    "title": "Oncogenic K-ras promotes early carcinogenesis in the mouse proximal colon",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Chemically induced CRC animal models ref [24].",
+    "refNo": 24,
+    "title": "A new colon and mammary carcinogen in cooked food, 2-amino-1-methyl-6-phenylimidazo[4,5-b] pyridine (PhIP)",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Understanding the inherent advantages and limitations of the different models of CRC, and the appropriate application of these models in drug development and studies on the mechanism of tumor occurrence and development are important in CRC research ref [25], ref [26].",
+    "refNo": 25,
+    "title": "A multi-site metastasis-on-a-chip microphysiological system for assessing metastatic preference of cancer cells",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Understanding the inherent advantages and limitations of the different models of CRC, and the appropriate application of these models in drug development and studies on the mechanism of tumor occurrence and development are important in CRC research ref [25], ref [26].",
+    "refNo": 26,
+    "title": "Development of a primary human small intestine-on-achip using biopsy-derived organoids",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "Animal models of CRC have been widely used for studying the complexity of CRC ref [23].",
+    "refNo": 23,
+    "title": "Oncogenic K-ras promotes early carcinogenesis in the mouse proximal colon",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "There are primarily two types of animal models, namely, in situ models and the cell and tissue transplantation models of CRC ref [23].",
+    "refNo": 23,
+    "title": "Oncogenic K-ras promotes early carcinogenesis in the mouse proximal colon",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Owing to the relatively simple modeling approach of human tumor xenotransplantation, this model is presently widely used for studying the efficacy of anti-CRC drugs ref [30].",
+    "refNo": 30,
+    "title": "Akt inhibition improves irinotecan treatment and prevents cell emergence by switching the senescence response to apoptosis",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "The effects of CRC xenotransplantation can be closely related to clinical activity via the rational application of these models ref [30].",
+    "refNo": 30,
+    "title": "Akt inhibition improves irinotecan treatment and prevents cell emergence by switching the senescence response to apoptosis",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "For instance, genetically engineered murine models have been used for studying the progression of tissue-specific molecular changes in CRC by determining the effect of specific molecular targets ref [23].",
+    "refNo": 23,
+    "title": "Oncogenic K-ras promotes early carcinogenesis in the mouse proximal colon",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "The CRC model with TCM syndrome is an artificial disease and syndrome experimental animal model created by simulating and replicating characteristics of human disease prototype according to TCM theory ref [28].",
+    "refNo": 28,
+    "title": "Establishment of a mouse model of cancer cachexia with spleen deficiency syndrome and the effects of atractylenolide I",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "An animal model combining with CRC and TCM syndromes might be useful to mimic the clinical characteristics of CRC patients with TCM syndrome ref [28].",
+    "refNo": 28,
+    "title": "Establishment of a mouse model of cancer cachexia with spleen deficiency syndrome and the effects of atractylenolide I",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Mouse is the commonly used to the models mentioned above ref [28], however, it is increasingly accepted that the use of larger animal models, especially dogs and pigs, can provide deeper insights in cancer research.",
+    "refNo": 28,
+    "title": "Establishment of a mouse model of cancer cachexia with spleen deficiency syndrome and the effects of atractylenolide I",
+    "marker_text": "[28]"
+  }
+]

@@ -1,0 +1,1376 @@
+[
+  {
+    "sentence": "Pooled analyses of measured anthropometry show a sustained rise in body-mass index (BMI) across most world regions since the late twentieth century, with particularly steep increases in many low- and middle-income settings, even where undernutrition persists alongside excess adiposity ref [1], ref [2], ref [3].",
+    "refNo": 1,
+    "title": "Worldwide trends in body-mass index, underweight, overweight, and obesity from 1975 to 2016: a pooled analysis of 2416 population-based measurement studies in 128.9 million children, adolescents, and adults",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Pooled analyses of measured anthropometry show a sustained rise in body-mass index (BMI) across most world regions since the late twentieth century, with particularly steep increases in many low- and middle-income settings, even where undernutrition persists alongside excess adiposity ref [1], ref [2], ref [3].",
+    "refNo": 2,
+    "title": "World Cancer Research Fund international: continuous update project-systematic literature review and meta-analysis of observational cohort studies on physical activity, sedentary behavior, adiposity, and weight change and breast cancer risk",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Pooled analyses of measured anthropometry show a sustained rise in body-mass index (BMI) across most world regions since the late twentieth century, with particularly steep increases in many low- and middle-income settings, even where undernutrition persists alongside excess adiposity ref [1], ref [2], ref [3].",
+    "refNo": 3,
+    "title": "Adiposity and cancer at major anatomical sites: umbrella review of the literature",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "This worldwide shift reflects profound changes in food systems, urbanization, sedentary occupations, and the commercial availability of energy-dense diets, producing a true double burden of malnutrition rather than a simple replacement of underweight by obesity ref [1], ref [4], ref [5].",
+    "refNo": 1,
+    "title": "Worldwide trends in body-mass index, underweight, overweight, and obesity from 1975 to 2016: a pooled analysis of 2416 population-based measurement studies in 128.9 million children, adolescents, and adults",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "This worldwide shift reflects profound changes in food systems, urbanization, sedentary occupations, and the commercial availability of energy-dense diets, producing a true double burden of malnutrition rather than a simple replacement of underweight by obesity ref [1], ref [4], ref [5].",
+    "refNo": 4,
+    "title": "The impact of obesity on breast cancer diagnosis and treatment",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "This worldwide shift reflects profound changes in food systems, urbanization, sedentary occupations, and the commercial availability of energy-dense diets, producing a true double burden of malnutrition rather than a simple replacement of underweight by obesity ref [1], ref [4], ref [5].",
+    "refNo": 5,
+    "title": "Effect of chemotherapy and aromatase inhibitors in the adjuvant treatment of breast cancer on glucose and insulin metabolism-a systematic review",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Global cancer surveillance consistently identifies breast cancer as the most commonly diagnosed cancer in women worldwide, and obesity is increasingly recognized as an important modifiable determinant of both cancer burden and survivorship needs ref [6], ref [7], ref [8].",
+    "refNo": 6,
+    "title": "Bias in meta-analysis detected by a simple, graphical test",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Global cancer surveillance consistently identifies breast cancer as the most commonly diagnosed cancer in women worldwide, and obesity is increasingly recognized as an important modifiable determinant of both cancer burden and survivorship needs ref [6], ref [7], ref [8].",
+    "refNo": 7,
+    "title": "Outlier and influence diagnostics for meta-analysis",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Global cancer surveillance consistently identifies breast cancer as the most commonly diagnosed cancer in women worldwide, and obesity is increasingly recognized as an important modifiable determinant of both cancer burden and survivorship needs ref [6], ref [7], ref [8].",
+    "refNo": 8,
+    "title": "Extending DerSimonian and Laird's methodology to perform multivariate random effects metaanalyses",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "The association is strongest for postmenopausal breast cancer, for which higher BMI and adult weight gain are linked to increased incidence in large pooled and prospective studies ref [9], ref [10], ref [11], ref [12].",
+    "refNo": 9,
+    "title": "Meta-analysis for linear and nonlinear dose-response relations: examples, an evaluation of approximations, and software",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "The association is strongest for postmenopausal breast cancer, for which higher BMI and adult weight gain are linked to increased incidence in large pooled and prospective studies ref [9], ref [10], ref [11], ref [12].",
+    "refNo": 10,
+    "title": "Does obesity compromise survival in women with breast cancer?",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "The association is strongest for postmenopausal breast cancer, for which higher BMI and adult weight gain are linked to increased incidence in large pooled and prospective studies ref [9], ref [10], ref [11], ref [12].",
+    "refNo": 11,
+    "title": "Obesity and the outcome of young breast cancer patients in the UK: the POSH study",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "The association is strongest for postmenopausal breast cancer, for which higher BMI and adult weight gain are linked to increased incidence in large pooled and prospective studies ref [9], ref [10], ref [11], ref [12].",
+    "refNo": 12,
+    "title": "Effect of obesity on prognosis after early-stage breast cancer",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "In premenopausal disease, associations are more heterogeneous, but obesity remains clinically important because it shapes comorbidity, tumor detection, treatment delivery, and later outcomes ref [11], ref [13], ref [14].",
+    "refNo": 11,
+    "title": "Obesity and the outcome of young breast cancer patients in the UK: the POSH study",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "In premenopausal disease, associations are more heterogeneous, but obesity remains clinically important because it shapes comorbidity, tumor detection, treatment delivery, and later outcomes ref [11], ref [13], ref [14].",
+    "refNo": 13,
+    "title": "Obesity and outcomes in premenopausal and postmenopausal breast cancer",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "In premenopausal disease, associations are more heterogeneous, but obesity remains clinically important because it shapes comorbidity, tumor detection, treatment delivery, and later outcomes ref [11], ref [13], ref [14].",
+    "refNo": 14,
+    "title": "Impact of obesity on Clinicopathologic characteristics and disease prognosis in pre-and postmenopausal breast cancer patients: a retrospective institutional study",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Biological pathways connecting obesity to breast carcinogenesis include higher circulating estrogens after menopause, hyperinsulinemia, insulin-like growth factor signaling, chronic low-grade inflammation, and adipokine dysregulation ref [15], ref [16], ref [17], ref [18].",
+    "refNo": 15,
+    "title": "Effects of obesity on presentation of breast cancer, lymph node metastasis and patient survival: a retrospective review",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Biological pathways connecting obesity to breast carcinogenesis include higher circulating estrogens after menopause, hyperinsulinemia, insulin-like growth factor signaling, chronic low-grade inflammation, and adipokine dysregulation ref [15], ref [16], ref [17], ref [18].",
+    "refNo": 16,
+    "title": "Obesity and breast cancer outcomes in chemotherapy patients in New Zealand: a population-based cohort study",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Biological pathways connecting obesity to breast carcinogenesis include higher circulating estrogens after menopause, hyperinsulinemia, insulin-like growth factor signaling, chronic low-grade inflammation, and adipokine dysregulation ref [15], ref [16], ref [17], ref [18].",
+    "refNo": 17,
+    "title": "Higher rate of severe toxicities in obese patients receiving dose-dense (dd) chemotherapy according to unadjusted body surface area: results of the prospectively randomized GAIN study",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Biological pathways connecting obesity to breast carcinogenesis include higher circulating estrogens after menopause, hyperinsulinemia, insulin-like growth factor signaling, chronic low-grade inflammation, and adipokine dysregulation ref [15], ref [16], ref [17], ref [18].",
+    "refNo": 18,
+    "title": "The influence of obesity on results of AT (doxorubicin plus docetaxel) neoadjuvant chemotherapy In locally advanced breast cancer patients",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "These mechanisms also provide the rationale for studying postdiagnosis body fatness and weight change as prognostic factors, particularly as more women are living longer after breast cancer diagnosis in settings where obesity prevalence remains high ref [7], ref [19], ref [20], ref [21].",
+    "refNo": 7,
+    "title": "Outlier and influence diagnostics for meta-analysis",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "These mechanisms also provide the rationale for studying postdiagnosis body fatness and weight change as prognostic factors, particularly as more women are living longer after breast cancer diagnosis in settings where obesity prevalence remains high ref [7], ref [19], ref [20], ref [21].",
+    "refNo": 19,
+    "title": "Impact of body mass index on the efficacy of endocrine therapy in premenopausal patients with breast cancer: an analysis of the prospective ABCSG-12 trial",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "These mechanisms also provide the rationale for studying postdiagnosis body fatness and weight change as prognostic factors, particularly as more women are living longer after breast cancer diagnosis in settings where obesity prevalence remains high ref [7], ref [19], ref [20], ref [21].",
+    "refNo": 20,
+    "title": "A multicenter study of the impact of Body mass index (BMI) on the incidence of pathologic complete response (pCR) among Saudi patients with locally advanced breast cancer (LABC) post neoadjuvant chemotherapy (NAC)",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "These mechanisms also provide the rationale for studying postdiagnosis body fatness and weight change as prognostic factors, particularly as more women are living longer after breast cancer diagnosis in settings where obesity prevalence remains high ref [7], ref [19], ref [20], ref [21].",
+    "refNo": 21,
+    "title": "Weight change during chemotherapy changes the prognosis in non metastatic breast cancer for the worse",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "The WCRF Continuous Update Project, synthesizing 126 cohort studies, concluded that higher physical activity is associated with lower risk of both premenopausal and postmenopausal breast cancer, whereas greater adult adiposity and weight gain increase risk primarily after menopause; in contrast, higher early-adult BMI shows an inverse association with risk before and after menopause ref [2].",
+    "refNo": 2,
+    "title": "World Cancer Research Fund international: continuous update project-systematic literature review and meta-analysis of observational cohort studies on physical activity, sedentary behavior, adiposity, and weight change and breast cancer risk",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "The postmenopausal association appears especially robust for hormone receptor-positive disease and is weaker among current users of menopausal hormone therapy, supporting an estrogen-mediated mechanism in which adipose tissue becomes a major source of aromatization after menopause ref [2].",
+    "refNo": 2,
+    "title": "World Cancer Research Fund international: continuous update project-systematic literature review and meta-analysis of observational cohort studies on physical activity, sedentary behavior, adiposity, and weight change and breast cancer risk",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Measures of central adiposity, including waist circumference and waist-to-hip ratio, also show positive associations with postmenopausal breast cancer, although attenuation after BMI adjustment suggests overlap between total and abdominal fatness rather than wholly independent effects ref [2].",
+    "refNo": 2,
+    "title": "World Cancer Research Fund international: continuous update project-systematic literature review and meta-analysis of observational cohort studies on physical activity, sedentary behavior, adiposity, and weight change and breast cancer risk",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Umbrella-level evidence further classifies the association of adult weight gain with postmenopausal breast cancer in never-users of hormone replacement therapy as among the strongest adiposity-cancer relationships across major cancer sites ref [3].",
+    "refNo": 3,
+    "title": "Adiposity and cancer at major anatomical sites: umbrella review of the literature",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Conversely, sedentary behavior may confer additional risk, with prolonged sitting associated with higher postmenopausal breast cancer incidence in the WCRF review ref [2].",
+    "refNo": 2,
+    "title": "World Cancer Research Fund international: continuous update project-systematic literature review and meta-analysis of observational cohort studies on physical activity, sedentary behavior, adiposity, and weight change and breast cancer risk",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Compared with normal-weight women, those with obesity are less likely to adhere to mammographic screening, report more pain and embarrassment during screening, and may therefore present with larger or more advanced tumors despite similar mammographic sensitivity across body-size groups ref [4], ref [3], ref [4], ref [2].",
+    "refNo": 4,
+    "title": "The impact of obesity on breast cancer diagnosis and treatment",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Compared with normal-weight women, those with obesity are less likely to adhere to mammographic screening, report more pain and embarrassment during screening, and may therefore present with larger or more advanced tumors despite similar mammographic sensitivity across body-size groups ref [4], ref [3], ref [4], ref [2].",
+    "refNo": 3,
+    "title": "Adiposity and cancer at major anatomical sites: umbrella review of the literature",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Compared with normal-weight women, those with obesity are less likely to adhere to mammographic screening, report more pain and embarrassment during screening, and may therefore present with larger or more advanced tumors despite similar mammographic sensitivity across body-size groups ref [4], ref [3], ref [4], ref [2].",
+    "refNo": 4,
+    "title": "The impact of obesity on breast cancer diagnosis and treatment",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Compared with normal-weight women, those with obesity are less likely to adhere to mammographic screening, report more pain and embarrassment during screening, and may therefore present with larger or more advanced tumors despite similar mammographic sensitivity across body-size groups ref [4], ref [3], ref [4], ref [2].",
+    "refNo": 2,
+    "title": "World Cancer Research Fund international: continuous update project-systematic literature review and meta-analysis of observational cohort studies on physical activity, sedentary behavior, adiposity, and weight change and breast cancer risk",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "These diagnostic delays intersect with socioeconomic disadvantage and weight stigma, which can further reduce engagement with preventive and oncologic care ref [5], ref [6], ref [7].",
+    "refNo": 5,
+    "title": "Effect of chemotherapy and aromatase inhibitors in the adjuvant treatment of breast cancer on glucose and insulin metabolism-a systematic review",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "These diagnostic delays intersect with socioeconomic disadvantage and weight stigma, which can further reduce engagement with preventive and oncologic care ref [5], ref [6], ref [7].",
+    "refNo": 6,
+    "title": "Bias in meta-analysis detected by a simple, graphical test",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "These diagnostic delays intersect with socioeconomic disadvantage and weight stigma, which can further reduce engagement with preventive and oncologic care ref [5], ref [6], ref [7].",
+    "refNo": 7,
+    "title": "Outlier and influence diagnostics for meta-analysis",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "During local treatment, obesity is consistently associated with higher perioperative risk, including anesthesia-related difficulty, wound complications after mastectomy, and lower sentinel lymph node identification rates ref [2], ref [8], ref [9], ref [10].",
+    "refNo": 2,
+    "title": "World Cancer Research Fund international: continuous update project-systematic literature review and meta-analysis of observational cohort studies on physical activity, sedentary behavior, adiposity, and weight change and breast cancer risk",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "During local treatment, obesity is consistently associated with higher perioperative risk, including anesthesia-related difficulty, wound complications after mastectomy, and lower sentinel lymph node identification rates ref [2], ref [8], ref [9], ref [10].",
+    "refNo": 8,
+    "title": "Extending DerSimonian and Laird's methodology to perform multivariate random effects metaanalyses",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "During local treatment, obesity is consistently associated with higher perioperative risk, including anesthesia-related difficulty, wound complications after mastectomy, and lower sentinel lymph node identification rates ref [2], ref [8], ref [9], ref [10].",
+    "refNo": 9,
+    "title": "Meta-analysis for linear and nonlinear dose-response relations: examples, an evaluation of approximations, and software",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "During local treatment, obesity is consistently associated with higher perioperative risk, including anesthesia-related difficulty, wound complications after mastectomy, and lower sentinel lymph node identification rates ref [2], ref [8], ref [9], ref [10].",
+    "refNo": 10,
+    "title": "Does obesity compromise survival in women with breast cancer?",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Obese patients are also more likely to experience poorer cosmetic outcomes after breast-conserving therapy and substantially higher complication and reoperation rates after reconstruction ref [11], ref [12], ref [13], ref [14].",
+    "refNo": 11,
+    "title": "Obesity and the outcome of young breast cancer patients in the UK: the POSH study",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Obese patients are also more likely to experience poorer cosmetic outcomes after breast-conserving therapy and substantially higher complication and reoperation rates after reconstruction ref [11], ref [12], ref [13], ref [14].",
+    "refNo": 12,
+    "title": "Effect of obesity on prognosis after early-stage breast cancer",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Obese patients are also more likely to experience poorer cosmetic outcomes after breast-conserving therapy and substantially higher complication and reoperation rates after reconstruction ref [11], ref [12], ref [13], ref [14].",
+    "refNo": 13,
+    "title": "Obesity and outcomes in premenopausal and postmenopausal breast cancer",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Obese patients are also more likely to experience poorer cosmetic outcomes after breast-conserving therapy and substantially higher complication and reoperation rates after reconstruction ref [11], ref [12], ref [13], ref [14].",
+    "refNo": 14,
+    "title": "Impact of obesity on Clinicopathologic characteristics and disease prognosis in pre-and postmenopausal breast cancer patients: a retrospective institutional study",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "In radiotherapy, larger body habitus and breast volume can worsen dose inhomogeneity and acute skin toxicity, while obesity also increases the risk of treatment-related lymphedema ref [15], ref [16], ref [17].",
+    "refNo": 15,
+    "title": "Effects of obesity on presentation of breast cancer, lymph node metastasis and patient survival: a retrospective review",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "In radiotherapy, larger body habitus and breast volume can worsen dose inhomogeneity and acute skin toxicity, while obesity also increases the risk of treatment-related lymphedema ref [15], ref [16], ref [17].",
+    "refNo": 16,
+    "title": "Obesity and breast cancer outcomes in chemotherapy patients in New Zealand: a population-based cohort study",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "In radiotherapy, larger body habitus and breast volume can worsen dose inhomogeneity and acute skin toxicity, while obesity also increases the risk of treatment-related lymphedema ref [15], ref [16], ref [17].",
+    "refNo": 17,
+    "title": "Higher rate of severe toxicities in obese patients receiving dose-dense (dd) chemotherapy according to unadjusted body surface area: results of the prospectively randomized GAIN study",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Prognostically, obesity is linked to inferior disease-free, breast cancer-specific, and overall survival, even when standard local and systemic therapies are delivered ref [18], ref [19], ref [2].",
+    "refNo": 18,
+    "title": "The influence of obesity on results of AT (doxorubicin plus docetaxel) neoadjuvant chemotherapy In locally advanced breast cancer patients",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Prognostically, obesity is linked to inferior disease-free, breast cancer-specific, and overall survival, even when standard local and systemic therapies are delivered ref [18], ref [19], ref [2].",
+    "refNo": 19,
+    "title": "Impact of body mass index on the efficacy of endocrine therapy in premenopausal patients with breast cancer: an analysis of the prospective ABCSG-12 trial",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Prognostically, obesity is linked to inferior disease-free, breast cancer-specific, and overall survival, even when standard local and systemic therapies are delivered ref [18], ref [19], ref [2].",
+    "refNo": 2,
+    "title": "World Cancer Research Fund international: continuous update project-systematic literature review and meta-analysis of observational cohort studies on physical activity, sedentary behavior, adiposity, and weight change and breast cancer risk",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Chemotherapy underdosing has historically contributed to concern, prompting guideline recommendations to use full weight-based dosing in obese adults ref [20], ref [21].",
+    "refNo": 20,
+    "title": "A multicenter study of the impact of Body mass index (BMI) on the incidence of pathologic complete response (pCR) among Saudi patients with locally advanced breast cancer (LABC) post neoadjuvant chemotherapy (NAC)",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Chemotherapy underdosing has historically contributed to concern, prompting guideline recommendations to use full weight-based dosing in obese adults ref [20], ref [21].",
+    "refNo": 21,
+    "title": "Weight change during chemotherapy changes the prognosis in non metastatic breast cancer for the worse",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Yet adverse outcomes persist beyond dosing alone: cohort and trial data suggest reduced benefit from adjuvant therapy, including poorer outcomes with endocrine treatment in heavier women and possible attenuation of aromatase inhibitor efficacy relative to tamoxifen ref [19], ref [22], ref [23].",
+    "refNo": 19,
+    "title": "Impact of body mass index on the efficacy of endocrine therapy in premenopausal patients with breast cancer: an analysis of the prospective ABCSG-12 trial",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Yet adverse outcomes persist beyond dosing alone: cohort and trial data suggest reduced benefit from adjuvant therapy, including poorer outcomes with endocrine treatment in heavier women and possible attenuation of aromatase inhibitor efficacy relative to tamoxifen ref [19], ref [22], ref [23].",
+    "refNo": 22,
+    "title": "The LISA randomized trial of a weight loss intervention in postmenopausal breast cancer",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Yet adverse outcomes persist beyond dosing alone: cohort and trial data suggest reduced benefit from adjuvant therapy, including poorer outcomes with endocrine treatment in heavier women and possible attenuation of aromatase inhibitor efficacy relative to tamoxifen ref [19], ref [22], ref [23].",
+    "refNo": 23,
+    "title": "Risk factors for second primary tumours in breast cancer survivors",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "A systematic review of adjuvant chemotherapy and aromatase inhibitors found a consistent overall pattern of rising fasting glucose, insulin, and insulin resistance indices, although the underlying studies were small and methodologically heterogeneous ref [5].",
+    "refNo": 5,
+    "title": "Effect of chemotherapy and aromatase inhibitors in the adjuvant treatment of breast cancer on glucose and insulin metabolism-a systematic review",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Prospective and retrospective cohorts similarly report increases in metabolic syndrome components, HbA1c, insulin, or HOMA-IR during or after adjuvant treatment, supporting the view that therapy may accelerate pre-existing metabolic vulnerability in survivors ref [2], ref [3], ref [4], ref [5], ref [6].",
+    "refNo": 2,
+    "title": "World Cancer Research Fund international: continuous update project-systematic literature review and meta-analysis of observational cohort studies on physical activity, sedentary behavior, adiposity, and weight change and breast cancer risk",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Prospective and retrospective cohorts similarly report increases in metabolic syndrome components, HbA1c, insulin, or HOMA-IR during or after adjuvant treatment, supporting the view that therapy may accelerate pre-existing metabolic vulnerability in survivors ref [2], ref [3], ref [4], ref [5], ref [6].",
+    "refNo": 3,
+    "title": "Adiposity and cancer at major anatomical sites: umbrella review of the literature",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Prospective and retrospective cohorts similarly report increases in metabolic syndrome components, HbA1c, insulin, or HOMA-IR during or after adjuvant treatment, supporting the view that therapy may accelerate pre-existing metabolic vulnerability in survivors ref [2], ref [3], ref [4], ref [5], ref [6].",
+    "refNo": 4,
+    "title": "The impact of obesity on breast cancer diagnosis and treatment",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Prospective and retrospective cohorts similarly report increases in metabolic syndrome components, HbA1c, insulin, or HOMA-IR during or after adjuvant treatment, supporting the view that therapy may accelerate pre-existing metabolic vulnerability in survivors ref [2], ref [3], ref [4], ref [5], ref [6].",
+    "refNo": 5,
+    "title": "Effect of chemotherapy and aromatase inhibitors in the adjuvant treatment of breast cancer on glucose and insulin metabolism-a systematic review",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Prospective and retrospective cohorts similarly report increases in metabolic syndrome components, HbA1c, insulin, or HOMA-IR during or after adjuvant treatment, supporting the view that therapy may accelerate pre-existing metabolic vulnerability in survivors ref [2], ref [3], ref [4], ref [5], ref [6].",
+    "refNo": 6,
+    "title": "Bias in meta-analysis detected by a simple, graphical test",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Classic studies linked adjuvant chemotherapy to weight gain and reduced resting energy expenditure, while later work showed that treatment-related weight change often reflects increased fat mass with loss of lean tissue rather than simple overall weight accrual ref [7], ref [8], ref [9].",
+    "refNo": 7,
+    "title": "Outlier and influence diagnostics for meta-analysis",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Classic studies linked adjuvant chemotherapy to weight gain and reduced resting energy expenditure, while later work showed that treatment-related weight change often reflects increased fat mass with loss of lean tissue rather than simple overall weight accrual ref [7], ref [8], ref [9].",
+    "refNo": 8,
+    "title": "Extending DerSimonian and Laird's methodology to perform multivariate random effects metaanalyses",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Classic studies linked adjuvant chemotherapy to weight gain and reduced resting energy expenditure, while later work showed that treatment-related weight change often reflects increased fat mass with loss of lean tissue rather than simple overall weight accrual ref [7], ref [8], ref [9].",
+    "refNo": 9,
+    "title": "Meta-analysis for linear and nonlinear dose-response relations: examples, an evaluation of approximations, and software",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Contemporary reviews emphasize sarcopenic obesity, fatigue, reduced physical activity, altered appetite, glucocorticoid exposure, and inflammatory signaling as plausible drivers of insulin resistance during treatment ref [10], ref [11].",
+    "refNo": 10,
+    "title": "Does obesity compromise survival in women with breast cancer?",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Contemporary reviews emphasize sarcopenic obesity, fatigue, reduced physical activity, altered appetite, glucocorticoid exposure, and inflammatory signaling as plausible drivers of insulin resistance during treatment ref [10], ref [11].",
+    "refNo": 11,
+    "title": "Obesity and the outcome of young breast cancer patients in the UK: the POSH study",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Observational evidence also suggests that metabolic disruption may persist, with breast cancer survivors showing elevated risks of incident diabetes after chemotherapy or endocrine therapy in some cohorts ref [12], ref [13].",
+    "refNo": 12,
+    "title": "Effect of obesity on prognosis after early-stage breast cancer",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Observational evidence also suggests that metabolic disruption may persist, with breast cancer survivors showing elevated risks of incident diabetes after chemotherapy or endocrine therapy in some cohorts ref [12], ref [13].",
+    "refNo": 13,
+    "title": "Obesity and outcomes in premenopausal and postmenopausal breast cancer",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Aromatase inhibitors, through profound estrogen deprivation, have been associated with less favorable lipid and cardiovascular profiles than tamoxifen, whereas tamoxifen may differentially affect adiposity and hepatic fat distribution ref [14], ref [15], ref [16].",
+    "refNo": 14,
+    "title": "Impact of obesity on Clinicopathologic characteristics and disease prognosis in pre-and postmenopausal breast cancer patients: a retrospective institutional study",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Aromatase inhibitors, through profound estrogen deprivation, have been associated with less favorable lipid and cardiovascular profiles than tamoxifen, whereas tamoxifen may differentially affect adiposity and hepatic fat distribution ref [14], ref [15], ref [16].",
+    "refNo": 15,
+    "title": "Effects of obesity on presentation of breast cancer, lymph node metastasis and patient survival: a retrospective review",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Aromatase inhibitors, through profound estrogen deprivation, have been associated with less favorable lipid and cardiovascular profiles than tamoxifen, whereas tamoxifen may differentially affect adiposity and hepatic fat distribution ref [14], ref [15], ref [16].",
+    "refNo": 16,
+    "title": "Obesity and breast cancer outcomes in chemotherapy patients in New Zealand: a population-based cohort study",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Emerging data further indicate that aromatase inhibitor exposure may modify adipokines and body composition, and genetic susceptibility may shape these responses ref [17], ref [18].",
+    "refNo": 17,
+    "title": "Higher rate of severe toxicities in obese patients receiving dose-dense (dd) chemotherapy according to unadjusted body surface area: results of the prospectively randomized GAIN study",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Emerging data further indicate that aromatase inhibitor exposure may modify adipokines and body composition, and genetic susceptibility may shape these responses ref [17], ref [18].",
+    "refNo": 18,
+    "title": "The influence of obesity on results of AT (doxorubicin plus docetaxel) neoadjuvant chemotherapy In locally advanced breast cancer patients",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Collectively, these findings frame postdiagnosis adiposity and weight change not merely as behavioral sequelae of treatment, but as biologically entangled consequences of breast cancer therapy with potential relevance for recurrence, cardiovascular disease, and long-term survival ref [5], ref [10], ref [19].",
+    "refNo": 5,
+    "title": "Effect of chemotherapy and aromatase inhibitors in the adjuvant treatment of breast cancer on glucose and insulin metabolism-a systematic review",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Collectively, these findings frame postdiagnosis adiposity and weight change not merely as behavioral sequelae of treatment, but as biologically entangled consequences of breast cancer therapy with potential relevance for recurrence, cardiovascular disease, and long-term survival ref [5], ref [10], ref [19].",
+    "refNo": 10,
+    "title": "Does obesity compromise survival in women with breast cancer?",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Collectively, these findings frame postdiagnosis adiposity and weight change not merely as behavioral sequelae of treatment, but as biologically entangled consequences of breast cancer therapy with potential relevance for recurrence, cardiovascular disease, and long-term survival ref [5], ref [10], ref [19].",
+    "refNo": 19,
+    "title": "Impact of body mass index on the efficacy of endocrine therapy in premenopausal patients with breast cancer: an analysis of the prospective ABCSG-12 trial",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "In this setting, inverse-variance random-effects models derived from the DerSimonian-Laird framework remain common, although their limitations under substantial heterogeneity and small numbers of studies are well recognized; extensions to multivariate random-effects meta-analysis are especially relevant when multiple correlated prognostic endpoints or adiposity metrics are synthesized jointly ref [8].",
+    "refNo": 8,
+    "title": "Extending DerSimonian and Laird's methodology to perform multivariate random effects metaanalyses",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Two-stage generalized least-squares trend estimation and flexible nonlinear meta-analysis using restricted cubic splines provide a principled way to reconstruct study-specific slopes from published category-specific risk estimates while accounting for within-study covariance among log-risk estimates ref [9].",
+    "refNo": 9,
+    "title": "Meta-analysis for linear and nonlinear dose-response relations: examples, an evaluation of approximations, and software",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "These methods are preferable to naive trend models that assume independence across categories, which can bias standard errors and heterogeneity tests ref [9].",
+    "refNo": 9,
+    "title": "Meta-analysis for linear and nonlinear dose-response relations: examples, an evaluation of approximations, and software",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Small-study effects are commonly explored with funnel plots and Egger-type regression tests, but asymmetry must be interpreted cautiously because it may reflect true heterogeneity, selective reporting, exposure misclassification, or sparse-study artifacts rather than publication bias alone ref [6].",
+    "refNo": 6,
+    "title": "Bias in meta-analysis detected by a simple, graphical test",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Leave-one-out analyses, studentized deleted residuals, Cook's distance, DFBETAS, and covariance-ratio diagnostics are useful for identifying influential cohorts or outlying contrasts, particularly when a few large studies dominate pooled hazard ratios ref [7].",
+    "refNo": 7,
+    "title": "Outlier and influence diagnostics for meta-analysis",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "These methodological safeguards are essential when interpreting associations between postdiagnosis BMI, weight change, and breast cancer outcomes, where modest relative risks can be highly sensitive to modeling assumptions and study quality ref [6], ref [7], ref [8], ref [9].",
+    "refNo": 6,
+    "title": "Bias in meta-analysis detected by a simple, graphical test",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "These methodological safeguards are essential when interpreting associations between postdiagnosis BMI, weight change, and breast cancer outcomes, where modest relative risks can be highly sensitive to modeling assumptions and study quality ref [6], ref [7], ref [8], ref [9].",
+    "refNo": 7,
+    "title": "Outlier and influence diagnostics for meta-analysis",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "These methodological safeguards are essential when interpreting associations between postdiagnosis BMI, weight change, and breast cancer outcomes, where modest relative risks can be highly sensitive to modeling assumptions and study quality ref [6], ref [7], ref [8], ref [9].",
+    "refNo": 8,
+    "title": "Extending DerSimonian and Laird's methodology to perform multivariate random effects metaanalyses",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "These methodological safeguards are essential when interpreting associations between postdiagnosis BMI, weight change, and breast cancer outcomes, where modest relative risks can be highly sensitive to modeling assumptions and study quality ref [6], ref [7], ref [8], ref [9].",
+    "refNo": 9,
+    "title": "Meta-analysis for linear and nonlinear dose-response relations: examples, an evaluation of approximations, and software",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Several cohorts reported that obese patients present with larger tumors, greater nodal involvement, and other adverse clinicopathologic features, which may partly mediate inferior outcomes ref [11], ref [14], ref [8], ref [12], ref [13].",
+    "refNo": 11,
+    "title": "Obesity and the outcome of young breast cancer patients in the UK: the POSH study",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Several cohorts reported that obese patients present with larger tumors, greater nodal involvement, and other adverse clinicopathologic features, which may partly mediate inferior outcomes ref [11], ref [14], ref [8], ref [12], ref [13].",
+    "refNo": 14,
+    "title": "Impact of obesity on Clinicopathologic characteristics and disease prognosis in pre-and postmenopausal breast cancer patients: a retrospective institutional study",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Several cohorts reported that obese patients present with larger tumors, greater nodal involvement, and other adverse clinicopathologic features, which may partly mediate inferior outcomes ref [11], ref [14], ref [8], ref [12], ref [13].",
+    "refNo": 8,
+    "title": "Extending DerSimonian and Laird's methodology to perform multivariate random effects metaanalyses",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Several cohorts reported that obese patients present with larger tumors, greater nodal involvement, and other adverse clinicopathologic features, which may partly mediate inferior outcomes ref [11], ref [14], ref [8], ref [12], ref [13].",
+    "refNo": 12,
+    "title": "Effect of obesity on prognosis after early-stage breast cancer",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Several cohorts reported that obese patients present with larger tumors, greater nodal involvement, and other adverse clinicopathologic features, which may partly mediate inferior outcomes ref [11], ref [14], ref [8], ref [12], ref [13].",
+    "refNo": 13,
+    "title": "Obesity and outcomes in premenopausal and postmenopausal breast cancer",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "In the large Danish early-stage cohort, obesity independently predicted distant metastasis and breast cancer death after adjustment, with little effect on locoregional recurrence, and the adverse association became more evident beyond 5-10 years of follow-up ref [14].",
+    "refNo": 14,
+    "title": "Impact of obesity on Clinicopathologic characteristics and disease prognosis in pre-and postmenopausal breast cancer patients: a retrospective institutional study",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "In the UK POSH cohort, obesity at diagnosis was associated with larger tumors, more node-positive and grade 3 disease, more triple-negative tumors, and worse distant disease-free interval and overall survival; adjusted effects were strongest in ER-positive disease ref [11].",
+    "refNo": 11,
+    "title": "Obesity and the outcome of young breast cancer patients in the UK: the POSH study",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Earlier Australian data similarly found obesity independently associated with recurrence and all-cause mortality, including among premenopausal women ref [8].",
+    "refNo": 8,
+    "title": "Extending DerSimonian and Laird's methodology to perform multivariate random effects metaanalyses",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "By contrast, some institutional or regional series observed worse presentation but null or weak survival associations, underscoring heterogeneity related to sample size, BMI ascertainment, and residual confounding ref [10], ref [13], ref [15].",
+    "refNo": 10,
+    "title": "Does obesity compromise survival in women with breast cancer?",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "By contrast, some institutional or regional series observed worse presentation but null or weak survival associations, underscoring heterogeneity related to sample size, BMI ascertainment, and residual confounding ref [10], ref [13], ref [15].",
+    "refNo": 13,
+    "title": "Obesity and outcomes in premenopausal and postmenopausal breast cancer",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "By contrast, some institutional or regional series observed worse presentation but null or weak survival associations, underscoring heterogeneity related to sample size, BMI ascertainment, and residual confounding ref [10], ref [13], ref [15].",
+    "refNo": 15,
+    "title": "Effects of obesity on presentation of breast cancer, lymph node metastasis and patient survival: a retrospective review",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "A Jordanian institutional study linked obesity to higher grade, worse composite prognostic scores, and roughly two-fold higher odds of recurrence, particularly in postmenopausal patients ref [12].",
+    "refNo": 12,
+    "title": "Effect of obesity on prognosis after early-stage breast cancer",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Conversely, a New Zealand population-based cohort of chemotherapy-treated patients found no clear association of postdiagnosis BMI with breast cancer-specific or overall mortality after multivariable adjustment ref [15].",
+    "refNo": 15,
+    "title": "Effects of obesity on presentation of breast cancer, lymph node metastasis and patient survival: a retrospective review",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Taken together, the observational literature supports obesity as a marker—and in many cohorts an independent correlate—of poorer prognosis, while emphasizing effect modification by menopausal status, ER biology, timing of BMI assessment, and treatment delivery ref [11], ref [14], ref [8], ref [15].",
+    "refNo": 11,
+    "title": "Obesity and the outcome of young breast cancer patients in the UK: the POSH study",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Taken together, the observational literature supports obesity as a marker—and in many cohorts an independent correlate—of poorer prognosis, while emphasizing effect modification by menopausal status, ER biology, timing of BMI assessment, and treatment delivery ref [11], ref [14], ref [8], ref [15].",
+    "refNo": 14,
+    "title": "Impact of obesity on Clinicopathologic characteristics and disease prognosis in pre-and postmenopausal breast cancer patients: a retrospective institutional study",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Taken together, the observational literature supports obesity as a marker—and in many cohorts an independent correlate—of poorer prognosis, while emphasizing effect modification by menopausal status, ER biology, timing of BMI assessment, and treatment delivery ref [11], ref [14], ref [8], ref [15].",
+    "refNo": 8,
+    "title": "Extending DerSimonian and Laird's methodology to perform multivariate random effects metaanalyses",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Taken together, the observational literature supports obesity as a marker—and in many cohorts an independent correlate—of poorer prognosis, while emphasizing effect modification by menopausal status, ER biology, timing of BMI assessment, and treatment delivery ref [11], ref [14], ref [8], ref [15].",
+    "refNo": 15,
+    "title": "Effects of obesity on presentation of breast cancer, lymph node metastasis and patient survival: a retrospective review",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "In a retrospective series of locally advanced breast cancer treated with doxorubicin-docetaxel, obesity was associated with a lower likelihood of achieving a broader pathological response endpoint (pCR1) and with shorter overall survival, although estimates were imprecise because of limited sample size ref [18].",
+    "refNo": 18,
+    "title": "The influence of obesity on results of AT (doxorubicin plus docetaxel) neoadjuvant chemotherapy In locally advanced breast cancer patients",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Similar signals were reported in a Saudi multicenter cohort, in which overweight/obesity was the only independent factor inversely associated with pathologic complete response after anthracycline-taxane neoadjuvant therapy ref [5].",
+    "refNo": 5,
+    "title": "Effect of chemotherapy and aromatase inhibitors in the adjuvant treatment of breast cancer on glucose and insulin metabolism-a systematic review",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Together, these studies support the view that excess adiposity may reduce chemosensitivity or reflect treatment-related undertreatment and altered pharmacokinetics in the neoadjuvant setting ref [18], ref [5].",
+    "refNo": 18,
+    "title": "The influence of obesity on results of AT (doxorubicin plus docetaxel) neoadjuvant chemotherapy In locally advanced breast cancer patients",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Together, these studies support the view that excess adiposity may reduce chemosensitivity or reflect treatment-related undertreatment and altered pharmacokinetics in the neoadjuvant setting ref [18], ref [5].",
+    "refNo": 5,
+    "title": "Effect of chemotherapy and aromatase inhibitors in the adjuvant treatment of breast cancer on glucose and insulin metabolism-a systematic review",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "In the prospective ABCSG-12 analysis, body mass index modified outcomes among premenopausal women receiving ovarian suppression: overweight/obese patients treated with anastrozole plus goserelin had higher risks of recurrence and death than normal-weight patients, whereas BMI had little prognostic impact in the tamoxifen arm ref [19].",
+    "refNo": 19,
+    "title": "Impact of body mass index on the efficacy of endocrine therapy in premenopausal patients with breast cancer: an analysis of the prospective ABCSG-12 trial",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "These findings are consistent with the hypothesis that greater aromatase substrate availability, or incomplete ovarian suppression in heavier patients, may attenuate aromatase-inhibitor efficacy ref [19].",
+    "refNo": 19,
+    "title": "Impact of body mass index on the efficacy of endocrine therapy in premenopausal patients with breast cancer: an analysis of the prospective ABCSG-12 trial",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "In the randomized GAIN study, obese patients receiving dose-dense chemotherapy according to actual body surface area had higher rates of febrile neutropenia, grade 3/4 thrombocytopenia, and thromboembolic events than obese patients treated with adjusted dosing, yet disease-free and overall survival were not improved by full dosing ref [17].",
+    "refNo": 17,
+    "title": "Higher rate of severe toxicities in obese patients receiving dose-dense (dd) chemotherapy according to unadjusted body surface area: results of the prospectively randomized GAIN study",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "This observation is notable because it contrasts with the broader ASCO principle of full weight-based dosing in most curative settings, suggesting that highly dose-dense regimens may require more nuanced consideration than standard schedules ref [17].",
+    "refNo": 17,
+    "title": "Higher rate of severe toxicities in obese patients receiving dose-dense (dd) chemotherapy according to unadjusted body surface area: results of the prospectively randomized GAIN study",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "In a long-term French cohort treated with anthracycline-based chemotherapy, weight change exceeding 5% in either direction during treatment was associated with poorer disease-free and overall survival, with multivariable relative risks of 2.28 for recurrence and 2.11 for death versus weight stability ref [21].",
+    "refNo": 21,
+    "title": "Weight change during chemotherapy changes the prognosis in non metastatic breast cancer for the worse",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "This study is notable because it examined both gain and loss as potentially adverse departures from metabolic stability rather than focusing only on weight gain ref [21].",
+    "refNo": 21,
+    "title": "Weight change during chemotherapy changes the prognosis in non metastatic breast cancer for the worse",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Weight loss during therapy may partly reflect occult disease burden, treatment intolerance, sarcopenia, or systemic inflammation rather than a modifiable exposure per se, while weight gain may capture reduced activity, corticosteroid exposure, menopause, and unfavorable body-composition change despite modest scale-weight shifts ref [21].",
+    "refNo": 21,
+    "title": "Weight change during chemotherapy changes the prognosis in non metastatic breast cancer for the worse",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "The LISA randomized trial tested a 2-year telephone-based diet and physical-activity program in postmenopausal hormone receptor-positive patients on letrozole and achieved greater weight loss than education alone at 6 to 24 months, but the between-arm difference was not sustained long term ref [22].",
+    "refNo": 22,
+    "title": "The LISA randomized trial of a weight loss intervention in postmenopausal breast cancer",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Because accrual stopped early, the trial was underpowered for prognosis; nevertheless, disease-free survival numerically favored intervention (HR 0.71, 95% CI 0.41-1.24), while overall survival showed no clear effect ref [22].",
+    "refNo": 22,
+    "title": "The LISA randomized trial of a weight loss intervention in postmenopausal breast cancer",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "In a nested case–control study of breast cancer survivors, obesity emerged as one of the strongest predictors of second primary tumours, alongside smoking, hypertension, family history of non-breast cancer, and longer survival time, whereas treatment variables were comparatively weaker predictors overall ref [2].",
+    "refNo": 2,
+    "title": "World Cancer Research Fund international: continuous update project-systematic literature review and meta-analysis of observational cohort studies on physical activity, sedentary behavior, adiposity, and weight change and breast cancer risk",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "This observation is consistent with broader survivorship epidemiology showing elevated incidence of second malignancies after breast cancer and the contribution of both shared host factors and prior therapy exposures ref [3], ref [4], ref [5].",
+    "refNo": 3,
+    "title": "Adiposity and cancer at major anatomical sites: umbrella review of the literature",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "This observation is consistent with broader survivorship epidemiology showing elevated incidence of second malignancies after breast cancer and the contribution of both shared host factors and prior therapy exposures ref [3], ref [4], ref [5].",
+    "refNo": 4,
+    "title": "The impact of obesity on breast cancer diagnosis and treatment",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "This observation is consistent with broader survivorship epidemiology showing elevated incidence of second malignancies after breast cancer and the contribution of both shared host factors and prior therapy exposures ref [3], ref [4], ref [5].",
+    "refNo": 5,
+    "title": "Effect of chemotherapy and aromatase inhibitors in the adjuvant treatment of breast cancer on glucose and insulin metabolism-a systematic review",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Gynecologic malignancies, particularly endometrial cancer, have been linked to tamoxifen exposure, while radiotherapy and selected chemotherapy regimens have been associated with later risks of lung cancer, sarcoma, and hematologic neoplasms, often with long latency ref [6], ref [7], ref [8], ref [9].",
+    "refNo": 6,
+    "title": "Bias in meta-analysis detected by a simple, graphical test",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Gynecologic malignancies, particularly endometrial cancer, have been linked to tamoxifen exposure, while radiotherapy and selected chemotherapy regimens have been associated with later risks of lung cancer, sarcoma, and hematologic neoplasms, often with long latency ref [6], ref [7], ref [8], ref [9].",
+    "refNo": 7,
+    "title": "Outlier and influence diagnostics for meta-analysis",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Gynecologic malignancies, particularly endometrial cancer, have been linked to tamoxifen exposure, while radiotherapy and selected chemotherapy regimens have been associated with later risks of lung cancer, sarcoma, and hematologic neoplasms, often with long latency ref [6], ref [7], ref [8], ref [9].",
+    "refNo": 8,
+    "title": "Extending DerSimonian and Laird's methodology to perform multivariate random effects metaanalyses",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Gynecologic malignancies, particularly endometrial cancer, have been linked to tamoxifen exposure, while radiotherapy and selected chemotherapy regimens have been associated with later risks of lung cancer, sarcoma, and hematologic neoplasms, often with long latency ref [6], ref [7], ref [8], ref [9].",
+    "refNo": 9,
+    "title": "Meta-analysis for linear and nonlinear dose-response relations: examples, an evaluation of approximations, and software",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "At the same time, registry-based studies suggest that lifestyle-related factors such as excess adiposity and smoking may rival or exceed treatment effects in some settings, reinforcing the importance of long-term risk-factor management in survivorship care ref [2], ref [10].",
+    "refNo": 2,
+    "title": "World Cancer Research Fund international: continuous update project-systematic literature review and meta-analysis of observational cohort studies on physical activity, sedentary behavior, adiposity, and weight change and breast cancer risk",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "At the same time, registry-based studies suggest that lifestyle-related factors such as excess adiposity and smoking may rival or exceed treatment effects in some settings, reinforcing the importance of long-term risk-factor management in survivorship care ref [2], ref [10].",
+    "refNo": 10,
+    "title": "Does obesity compromise survival in women with breast cancer?",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Special clinical contexts also include hereditary susceptibility and younger survivors, in whom family history and germline predisposition may shape both prognosis and risk of additional primaries ref [11], ref [12].",
+    "refNo": 11,
+    "title": "Obesity and the outcome of young breast cancer patients in the UK: the POSH study",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Special clinical contexts also include hereditary susceptibility and younger survivors, in whom family history and germline predisposition may shape both prognosis and risk of additional primaries ref [11], ref [12].",
+    "refNo": 12,
+    "title": "Effect of obesity on prognosis after early-stage breast cancer",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Overall, these data extend the prognosis discussion beyond recurrence and breast-cancer-specific mortality: postdiagnosis body fatness may influence not only breast cancer outcomes but also competing and subsequent cancer events, supporting integrated surveillance, cardiometabolic prevention, smoking cessation, and weight management within survivorship programs ref [2], ref [13].",
+    "refNo": 2,
+    "title": "World Cancer Research Fund international: continuous update project-systematic literature review and meta-analysis of observational cohort studies on physical activity, sedentary behavior, adiposity, and weight change and breast cancer risk",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Overall, these data extend the prognosis discussion beyond recurrence and breast-cancer-specific mortality: postdiagnosis body fatness may influence not only breast cancer outcomes but also competing and subsequent cancer events, supporting integrated surveillance, cardiometabolic prevention, smoking cessation, and weight management within survivorship programs ref [2], ref [13].",
+    "refNo": 13,
+    "title": "Obesity and outcomes in premenopausal and postmenopausal breast cancer",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "S. cohorts ref [5].",
+    "refNo": 5,
+    "title": "Effect of chemotherapy and aromatase inhibitors in the adjuvant treatment of breast cancer on glucose and insulin metabolism-a systematic review",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Similar conclusions emerged from the Chicago multiethnic cohort, where longitudinal BMI trajectories showed a nonlinear association with survival, with BMI loss >0.5 kg/m2/year strongly associated with overall, breast cancer-specific, and disease-free mortality, and BMI gain showing a smaller but still unfavorable association ref [27].",
+    "refNo": 27,
+    "title": "Postdiagnosis change in bodyweight and survival after breast cancer diagnosis",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "In the Long Island cohort, women who lost >5% of prediagnosis weight had markedly elevated all-cause and breast cancer-specific mortality, while gain >10% was also associated with worse survival ref [4].",
+    "refNo": 4,
+    "title": "The impact of obesity on breast cancer diagnosis and treatment",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "S. and Shanghai cohorts ref [5].",
+    "refNo": 5,
+    "title": "Effect of chemotherapy and aromatase inhibitors in the adjuvant treatment of breast cancer on glucose and insulin metabolism-a systematic review",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "The Chicago study further suggested that substantial weight loss often began well before death, raising the possibility that at least part of the observed association reflects occult disease progression, cachexia, or worsening comorbidity rather than a purely causal effect of weight loss itself ref [27].",
+    "refNo": 27,
+    "title": "Postdiagnosis change in bodyweight and survival after breast cancer diagnosis",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "Overall, the literature supports a cautious interpretation: post-diagnosis weight loss is reproducibly associated with worse prognosis, whereas the evidence for weight gain is weaker and more heterogeneous, tending to emerge for larger gains or in specific subgroups ref [4], ref [5], ref [27].",
+    "refNo": 4,
+    "title": "The impact of obesity on breast cancer diagnosis and treatment",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Overall, the literature supports a cautious interpretation: post-diagnosis weight loss is reproducibly associated with worse prognosis, whereas the evidence for weight gain is weaker and more heterogeneous, tending to emerge for larger gains or in specific subgroups ref [4], ref [5], ref [27].",
+    "refNo": 5,
+    "title": "Effect of chemotherapy and aromatase inhibitors in the adjuvant treatment of breast cancer on glucose and insulin metabolism-a systematic review",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Overall, the literature supports a cautious interpretation: post-diagnosis weight loss is reproducibly associated with worse prognosis, whereas the evidence for weight gain is weaker and more heterogeneous, tending to emerge for larger gains or in specific subgroups ref [4], ref [5], ref [27].",
+    "refNo": 27,
+    "title": "Postdiagnosis change in bodyweight and survival after breast cancer diagnosis",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "Accordingly, while prevention of excessive gain remains reasonable, involuntary weight loss after diagnosis should be regarded as a potential clinical warning sign warranting evaluation for recurrence, treatment toxicity, sarcopenia, or comorbidity burden ref [27], ref [5].",
+    "refNo": 27,
+    "title": "Postdiagnosis change in bodyweight and survival after breast cancer diagnosis",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "Accordingly, while prevention of excessive gain remains reasonable, involuntary weight loss after diagnosis should be regarded as a potential clinical warning sign warranting evaluation for recurrence, treatment toxicity, sarcopenia, or comorbidity burden ref [27], ref [5].",
+    "refNo": 5,
+    "title": "Effect of chemotherapy and aromatase inhibitors in the adjuvant treatment of breast cancer on glucose and insulin metabolism-a systematic review",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "In the adjuvant setting, a large retrospective cohort of 1,998 women receiving third-generation chemotherapy found that weight change during treatment was common in both directions and was largely transient, with many patients trending back toward baseline by 1 year after chemotherapy; importantly, chemotherapy-related BMI gain was not clearly associated with overall survival or distant recurrence, although a modest association with locoregional recurrence was reported [1].",
+    "refNo": 1,
+    "title": "Worldwide trends in body-mass index, underweight, overweight, and obesity from 1975 to 2016: a pooled analysis of 2416 population-based measurement studies in 128.9 million children, adolescents, and adults",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "In Chinese patients with operable stage II–III disease, BMI increased modestly during neoadjuvant chemotherapy, and a gain >2 kg/m2 was independently associated with poorer disease-free survival and overall survival, while showing no relation to pathologic complete response [2].",
+    "refNo": 2,
+    "title": "World Cancer Research Fund international: continuous update project-systematic literature review and meta-analysis of observational cohort studies on physical activity, sedentary behavior, adiposity, and weight change and breast cancer risk",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "By contrast, in a larger MD Anderson cohort of locally advanced breast cancer, BMI increase during neoadjuvant treatment was not an independent predictor of recurrence-free or overall survival overall, and subgroup analyses even suggested higher pathologic complete response rates among normal-weight/underweight or postmenopausal women with increasing BMI [3].",
+    "refNo": 3,
+    "title": "Adiposity and cancer at major anatomical sites: umbrella review of the literature",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "These conflicting findings likely reflect differences in disease stage, treatment duration, menopausal composition, follow-up, and definitions of weight change [1-3].",
+    "refNo": 1,
+    "title": "Worldwide trends in body-mass index, underweight, overweight, and obesity from 1975 to 2016: a pooled analysis of 2416 population-based measurement studies in 128.9 million children, adolescents, and adults",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "These conflicting findings likely reflect differences in disease stage, treatment duration, menopausal composition, follow-up, and definitions of weight change [1-3].",
+    "refNo": 3,
+    "title": "Adiposity and cancer at major anatomical sites: umbrella review of the literature",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Short-term gains during adjuvant chemotherapy may be transient and of limited prognostic relevance, whereas larger gains during neoadjuvant treatment in some cohorts appear to mark worse subsequent outcomes [1,2].",
+    "refNo": 1,
+    "title": "Worldwide trends in body-mass index, underweight, overweight, and obesity from 1975 to 2016: a pooled analysis of 2416 population-based measurement studies in 128.9 million children, adolescents, and adults",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Short-term gains during adjuvant chemotherapy may be transient and of limited prognostic relevance, whereas larger gains during neoadjuvant treatment in some cohorts appear to mark worse subsequent outcomes [1,2].",
+    "refNo": 2,
+    "title": "World Cancer Research Fund international: continuous update project-systematic literature review and meta-analysis of observational cohort studies on physical activity, sedentary behavior, adiposity, and weight change and breast cancer risk",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "The inconsistency across studies underscores the need for standardized exposure definitions, repeated body-composition assessment beyond BMI alone, and analyses that distinguish intentional from treatment-related weight change [1-3].",
+    "refNo": 1,
+    "title": "Worldwide trends in body-mass index, underweight, overweight, and obesity from 1975 to 2016: a pooled analysis of 2416 population-based measurement studies in 128.9 million children, adolescents, and adults",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "The inconsistency across studies underscores the need for standardized exposure definitions, repeated body-composition assessment beyond BMI alone, and analyses that distinguish intentional from treatment-related weight change [1-3].",
+    "refNo": 3,
+    "title": "Adiposity and cancer at major anatomical sites: umbrella review of the literature",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Large registry and trial-based analyses consistently report worse overall survival, and often worse distant recurrence, among women with obesity at diagnosis, even after adjustment for stage and treatment factors ref [32], ref [8], ref [12], ref [13].",
+    "refNo": 32,
+    "title": "Obesity at diagnosis is associated with inferior outcomes in hormone receptor-positive operable breast cancer",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "Large registry and trial-based analyses consistently report worse overall survival, and often worse distant recurrence, among women with obesity at diagnosis, even after adjustment for stage and treatment factors ref [32], ref [8], ref [12], ref [13].",
+    "refNo": 8,
+    "title": "Extending DerSimonian and Laird's methodology to perform multivariate random effects metaanalyses",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Large registry and trial-based analyses consistently report worse overall survival, and often worse distant recurrence, among women with obesity at diagnosis, even after adjustment for stage and treatment factors ref [32], ref [8], ref [12], ref [13].",
+    "refNo": 12,
+    "title": "Effect of obesity on prognosis after early-stage breast cancer",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Large registry and trial-based analyses consistently report worse overall survival, and often worse distant recurrence, among women with obesity at diagnosis, even after adjustment for stage and treatment factors ref [32], ref [8], ref [12], ref [13].",
+    "refNo": 13,
+    "title": "Obesity and outcomes in premenopausal and postmenopausal breast cancer",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Notably, the Danish Breast Cancer Cooperative Group analysis found obesity to be independently associated with a higher risk of distant metastasis and breast-cancer death, while not materially affecting locoregional recurrence, suggesting that adiposity may be more closely linked to systemic progression than to local failure ref [32].",
+    "refNo": 32,
+    "title": "Obesity at diagnosis is associated with inferior outcomes in hormone receptor-positive operable breast cancer",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "In operable disease, obesity appears especially detrimental in hormone receptor-positive/HER2-negative tumors, where ECOG analyses showed significantly inferior disease-free, overall, and breast cancer-specific survival, whereas analogous associations were not evident in triple-negative or HER2-positive subsets ref [33].",
+    "refNo": 33,
+    "title": "The obesity paradox in early and advanced HER2 positive breast cancer: pooled analysis of clinical trial data",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "Earlier International Breast Cancer Study Group data likewise suggested a stronger adverse effect on overall survival than on disease-free survival, particularly among pre/perimenopausal women treated with chemotherapy alone ref [8].",
+    "refNo": 8,
+    "title": "Extending DerSimonian and Laird's methodology to perform multivariate random effects metaanalyses",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "By contrast, pooled analyses in anthracycline/taxane-treated populations indicate that the risk may concentrate at the upper extreme of BMI, with severe obesity rather than modest obesity driving recurrence and mortality, and with less clear variation by pathological subtype ref [12], ref [13].",
+    "refNo": 12,
+    "title": "Effect of obesity on prognosis after early-stage breast cancer",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "By contrast, pooled analyses in anthracycline/taxane-treated populations indicate that the risk may concentrate at the upper extreme of BMI, with severe obesity rather than modest obesity driving recurrence and mortality, and with less clear variation by pathological subtype ref [12], ref [13].",
+    "refNo": 13,
+    "title": "Obesity and outcomes in premenopausal and postmenopausal breast cancer",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "In HER2-positive early disease, contemporary pooled trial data also support worse survival with overweight and obesity ref [35].",
+    "refNo": 35,
+    "title": "Body mass index and prognosis of metastatic breast cancer patients receiving first-line chemotherapy",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "In one pooled cohort of patients receiving first-line chemotherapy for metastatic breast cancer, BMI was not independently associated with progression-free or overall survival ref [10].",
+    "refNo": 10,
+    "title": "Does obesity compromise survival in women with breast cancer?",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "However, more recent pooled analyses restricted to HER2-positive advanced disease reported the opposite pattern, with overweight and obesity associated with improved progression-free and overall survival, an observation framed as an 'obesity paradox' ref [35].",
+    "refNo": 35,
+    "title": "Body mass index and prognosis of metastatic breast cancer patients receiving first-line chemotherapy",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "Taken together, the literature supports adiposity as an adverse prognostic marker in early breast cancer—especially for distant outcomes and in endocrine-responsive disease—while in metastatic disease its prognostic meaning appears context-dependent and may vary by subtype, treatment line, and host reserve ref [32], ref [33], ref [35], ref [10].",
+    "refNo": 32,
+    "title": "Obesity at diagnosis is associated with inferior outcomes in hormone receptor-positive operable breast cancer",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "Taken together, the literature supports adiposity as an adverse prognostic marker in early breast cancer—especially for distant outcomes and in endocrine-responsive disease—while in metastatic disease its prognostic meaning appears context-dependent and may vary by subtype, treatment line, and host reserve ref [32], ref [33], ref [35], ref [10].",
+    "refNo": 33,
+    "title": "The obesity paradox in early and advanced HER2 positive breast cancer: pooled analysis of clinical trial data",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "Taken together, the literature supports adiposity as an adverse prognostic marker in early breast cancer—especially for distant outcomes and in endocrine-responsive disease—while in metastatic disease its prognostic meaning appears context-dependent and may vary by subtype, treatment line, and host reserve ref [32], ref [33], ref [35], ref [10].",
+    "refNo": 35,
+    "title": "Body mass index and prognosis of metastatic breast cancer patients receiving first-line chemotherapy",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "Taken together, the literature supports adiposity as an adverse prognostic marker in early breast cancer—especially for distant outcomes and in endocrine-responsive disease—while in metastatic disease its prognostic meaning appears context-dependent and may vary by subtype, treatment line, and host reserve ref [32], ref [33], ref [35], ref [10].",
+    "refNo": 10,
+    "title": "Does obesity compromise survival in women with breast cancer?",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "In premenopausal hormone receptor–positive disease, the ABCSG-12 analysis suggested that overweight women receiving goserelin plus anastrozole had higher risks of recurrence and death than normal-weight women, whereas this pattern was not seen with tamoxifen, raising concern that aromatase inhibition and/or ovarian suppression may be less complete in women with greater adiposity ref [19].",
+    "refNo": 19,
+    "title": "Impact of body mass index on the efficacy of endocrine therapy in premenopausal patients with breast cancer: an analysis of the prospective ABCSG-12 trial",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "In postmenopausal disease, the ATAC exploratory analysis similarly reported that recurrence rates remained lower with anastrozole than tamoxifen overall, but the relative advantage appeared greater in leaner women, consistent with the hypothesis that excess adipose aromatase activity could attenuate AI efficacy ref [7].",
+    "refNo": 7,
+    "title": "Outlier and influence diagnostics for meta-analysis",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "In NSABP B-14, obesity was not associated with diminished tamoxifen benefit for recurrence or breast cancer mortality in node-negative ER-positive disease, although obesity increased contralateral breast cancer, other second cancers, and all-cause mortality ref [40].",
+    "refNo": 40,
+    "title": "Obesity and risk of recurrence or death after adjuvant endocrine therapy with letrozole or tamoxifen in the breast international group 1-98 trial",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "Likewise, in BIG 1-98, baseline BMI showed no significant treatment-by-BMI interaction for letrozole versus tamoxifen; letrozole retained superiority across BMI strata, suggesting that the more potent estrogen suppression achieved by letrozole may overcome the attenuation proposed for anastrozole ref [41].",
+    "refNo": 41,
+    "title": "Effect of body mass index on recurrences in tamoxifen and anastrozole treated women: an exploratory analysis from the ATAC trial",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "Taken together, these data argue against a simple class effect and instead support drug-specific differences in pharmacodynamic reserve ref [41], ref [7].",
+    "refNo": 41,
+    "title": "Effect of body mass index on recurrences in tamoxifen and anastrozole treated women: an exploratory analysis from the ATAC trial",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "Taken together, these data argue against a simple class effect and instead support drug-specific differences in pharmacodynamic reserve ref [41], ref [7].",
+    "refNo": 7,
+    "title": "Outlier and influence diagnostics for meta-analysis",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "A reanalysis of BIG 2-98 found that increasing BMI was associated with worse disease-free and overall survival specifically in the docetaxel-containing arms, but not in non-docetaxel comparators, and that this pattern persisted after restriction to patients receiving adequate relative dose intensity ref [38].",
+    "refNo": 38,
+    "title": "Differential benefit of adjuvant docetaxel-based chemotherapy in patients with early breast cancer according to baseline Body mass index",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Overall, the literature suggests that obesity is not merely a prognostic host factor; in selected settings it may alter the therapeutic index of systemic treatment, particularly endocrine therapy choice and possibly taxane-based chemotherapy ref [38], ref [19], ref [41].",
+    "refNo": 38,
+    "title": "Differential benefit of adjuvant docetaxel-based chemotherapy in patients with early breast cancer according to baseline Body mass index",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Overall, the literature suggests that obesity is not merely a prognostic host factor; in selected settings it may alter the therapeutic index of systemic treatment, particularly endocrine therapy choice and possibly taxane-based chemotherapy ref [38], ref [19], ref [41].",
+    "refNo": 19,
+    "title": "Impact of body mass index on the efficacy of endocrine therapy in premenopausal patients with breast cancer: an analysis of the prospective ABCSG-12 trial",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Overall, the literature suggests that obesity is not merely a prognostic host factor; in selected settings it may alter the therapeutic index of systemic treatment, particularly endocrine therapy choice and possibly taxane-based chemotherapy ref [38], ref [19], ref [41].",
+    "refNo": 41,
+    "title": "Effect of body mass index on recurrences in tamoxifen and anastrozole treated women: an exploratory analysis from the ATAC trial",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "Earlier adjuvant data suggested that obese women dosed according to actual body weight did not experience excess early hematologic or nonhematologic toxicity compared with non-obese women, while empiric dose reductions were associated with worse failure-free survival, supporting full weight-based dosing for conventional regimens ref [42].",
+    "refNo": 42,
+    "title": "Relationship between toxicity and obesity in women receiving adjuvant chemotherapy for breast cancer: results from cancer and leukemia group B study 8541",
+    "marker_text": "[42]"
+  },
+  {
+    "sentence": "In the dose-dense adjuvant GAIN trial, obese patients treated according to unadjusted body surface area had higher rates of febrile neutropenia, grade 3/4 thrombocytopenia, and thromboembolic events than obese patients whose dosing was adjusted, without clear differences in DFS or OS ref [17].",
+    "refNo": 17,
+    "title": "Higher rate of severe toxicities in obese patients receiving dose-dense (dd) chemotherapy according to unadjusted body surface area: results of the prospectively randomized GAIN study",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Thus, while arbitrary underdosing may compromise efficacy in standard schedules ref [42], highly dose-dense or intensified regimens may require greater nuance, particularly when obesity coexists with thrombotic risk, altered pharmacokinetics, or treatment-related metabolic vulnerability.",
+    "refNo": 42,
+    "title": "Relationship between toxicity and obesity in women receiving adjuvant chemotherapy for breast cancer: results from cancer and leukemia group B study 8541",
+    "marker_text": "[42]"
+  },
+  {
+    "sentence": "A meta-analysis of chemotherapy-era studies estimated a mean weight gain of about 2.7 kg during treatment, with larger gains in older CMF-based series and smaller but still meaningful increases in more contemporary regimens ref [43].",
+    "refNo": 43,
+    "title": "Weight change during chemotherapy in breast cancer patients: a meta-analysis",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "Observational cohorts further suggest that weight stability after diagnosis is associated with the most favorable outcomes, whereas large postdiagnosis weight loss is consistently linked to higher mortality and substantial weight gain may also be adverse in some groups ref [28].",
+    "refNo": 28,
+    "title": "Weight change and survival after breast cancer in the after breast cancer pooling project",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Collectively, these findings argue that body weight during treatment should be monitored not merely as a lifestyle variable, but as an integrated marker of dosing adequacy, toxicity burden, comorbidity, and host resilience ref [17], ref [28], ref [43].",
+    "refNo": 17,
+    "title": "Higher rate of severe toxicities in obese patients receiving dose-dense (dd) chemotherapy according to unadjusted body surface area: results of the prospectively randomized GAIN study",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Collectively, these findings argue that body weight during treatment should be monitored not merely as a lifestyle variable, but as an integrated marker of dosing adequacy, toxicity burden, comorbidity, and host resilience ref [17], ref [28], ref [43].",
+    "refNo": 28,
+    "title": "Weight change and survival after breast cancer in the after breast cancer pooling project",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Collectively, these findings argue that body weight during treatment should be monitored not merely as a lifestyle variable, but as an integrated marker of dosing adequacy, toxicity burden, comorbidity, and host resilience ref [17], ref [28], ref [43].",
+    "refNo": 43,
+    "title": "Weight change during chemotherapy in breast cancer patients: a meta-analysis",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "Hyperinsulinemia, dysglycemia, altered adipokines, chronic low-grade inflammation, and increased peripheral sex-steroid availability converge on canonical oncogenic pathways, including PI3K/Akt/mTOR, MAPK, and JAK/STAT, thereby promoting proliferation, survival, and dissemination of residual disease ref [45], ref [46], ref [4].",
+    "refNo": 45,
+    "title": "The cellular and molecular mechanisms by which insulin influences breast cancer risk and progression",
+    "marker_text": "[45]"
+  },
+  {
+    "sentence": "Hyperinsulinemia, dysglycemia, altered adipokines, chronic low-grade inflammation, and increased peripheral sex-steroid availability converge on canonical oncogenic pathways, including PI3K/Akt/mTOR, MAPK, and JAK/STAT, thereby promoting proliferation, survival, and dissemination of residual disease ref [45], ref [46], ref [4].",
+    "refNo": 46,
+    "title": "Signals from the adipose microenvironment and the obesity-cancer link-a systematic review",
+    "marker_text": "[46]"
+  },
+  {
+    "sentence": "Hyperinsulinemia, dysglycemia, altered adipokines, chronic low-grade inflammation, and increased peripheral sex-steroid availability converge on canonical oncogenic pathways, including PI3K/Akt/mTOR, MAPK, and JAK/STAT, thereby promoting proliferation, survival, and dissemination of residual disease ref [45], ref [46], ref [4].",
+    "refNo": 4,
+    "title": "The impact of obesity on breast cancer diagnosis and treatment",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "In breast tumors, insulin receptor and IGF-axis signaling are widely expressed and have been linked to poorer outcomes, supporting a biologically coherent explanation for the survival gradients observed across BMI strata ref [45], ref [4].",
+    "refNo": 45,
+    "title": "The cellular and molecular mechanisms by which insulin influences breast cancer risk and progression",
+    "marker_text": "[45]"
+  },
+  {
+    "sentence": "In breast tumors, insulin receptor and IGF-axis signaling are widely expressed and have been linked to poorer outcomes, supporting a biologically coherent explanation for the survival gradients observed across BMI strata ref [45], ref [4].",
+    "refNo": 4,
+    "title": "The impact of obesity on breast cancer diagnosis and treatment",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Obese mammary fat is characterized by adipocyte hypertrophy, hypoxia, macrophage-rich crown-like structures, NF-kB activation, and secretion of IL-6, TNF-alpha, CCL2, leptin, and VEGF, alongside reduced adiponectin ref [46], ref [5].",
+    "refNo": 46,
+    "title": "Signals from the adipose microenvironment and the obesity-cancer link-a systematic review",
+    "marker_text": "[46]"
+  },
+  {
+    "sentence": "Obese mammary fat is characterized by adipocyte hypertrophy, hypoxia, macrophage-rich crown-like structures, NF-kB activation, and secretion of IL-6, TNF-alpha, CCL2, leptin, and VEGF, alongside reduced adiponectin ref [46], ref [5].",
+    "refNo": 5,
+    "title": "Effect of chemotherapy and aromatase inhibitors in the adjuvant treatment of breast cancer on glucose and insulin metabolism-a systematic review",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "This milieu can enhance aromatase activity, increase estrogen bioavailability, recruit myeloid cells, stimulate angiogenesis, and foster epithelial-mesenchymal transition and cancer stem-like phenotypes ref [46], ref [5].",
+    "refNo": 46,
+    "title": "Signals from the adipose microenvironment and the obesity-cancer link-a systematic review",
+    "marker_text": "[46]"
+  },
+  {
+    "sentence": "This milieu can enhance aromatase activity, increase estrogen bioavailability, recruit myeloid cells, stimulate angiogenesis, and foster epithelial-mesenchymal transition and cancer stem-like phenotypes ref [46], ref [5].",
+    "refNo": 5,
+    "title": "Effect of chemotherapy and aromatase inhibitors in the adjuvant treatment of breast cancer on glucose and insulin metabolism-a systematic review",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Human translational studies also suggest depot-specific and peritumoral adipose signaling, with breast white adipose inflammation and adipose-tumor crosstalk associated with more aggressive local biology ref [46], ref [5].",
+    "refNo": 46,
+    "title": "Signals from the adipose microenvironment and the obesity-cancer link-a systematic review",
+    "marker_text": "[46]"
+  },
+  {
+    "sentence": "Human translational studies also suggest depot-specific and peritumoral adipose signaling, with breast white adipose inflammation and adipose-tumor crosstalk associated with more aggressive local biology ref [46], ref [5].",
+    "refNo": 5,
+    "title": "Effect of chemotherapy and aromatase inhibitors in the adjuvant treatment of breast cancer on glucose and insulin metabolism-a systematic review",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Insulin, leptin, inflammatory cytokines, and stromal remodeling may also support metastatic competence and therapeutic resistance across subtypes ref [45], ref [46], ref [4], ref [5].",
+    "refNo": 45,
+    "title": "The cellular and molecular mechanisms by which insulin influences breast cancer risk and progression",
+    "marker_text": "[45]"
+  },
+  {
+    "sentence": "Insulin, leptin, inflammatory cytokines, and stromal remodeling may also support metastatic competence and therapeutic resistance across subtypes ref [45], ref [46], ref [4], ref [5].",
+    "refNo": 46,
+    "title": "Signals from the adipose microenvironment and the obesity-cancer link-a systematic review",
+    "marker_text": "[46]"
+  },
+  {
+    "sentence": "Insulin, leptin, inflammatory cytokines, and stromal remodeling may also support metastatic competence and therapeutic resistance across subtypes ref [45], ref [46], ref [4], ref [5].",
+    "refNo": 4,
+    "title": "The impact of obesity on breast cancer diagnosis and treatment",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Insulin, leptin, inflammatory cytokines, and stromal remodeling may also support metastatic competence and therapeutic resistance across subtypes ref [45], ref [46], ref [4], ref [5].",
+    "refNo": 5,
+    "title": "Effect of chemotherapy and aromatase inhibitors in the adjuvant treatment of breast cancer on glucose and insulin metabolism-a systematic review",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "A translational implication is that body size should increasingly be interpreted together with metabolic health and tumor-microenvironment markers, because these may better identify the biologic subgroup most likely to benefit from weight loss, exercise, metformin, or anti-inflammatory interventions after diagnosis ref [45], ref [46].",
+    "refNo": 45,
+    "title": "The cellular and molecular mechanisms by which insulin influences breast cancer risk and progression",
+    "marker_text": "[45]"
+  },
+  {
+    "sentence": "A translational implication is that body size should increasingly be interpreted together with metabolic health and tumor-microenvironment markers, because these may better identify the biologic subgroup most likely to benefit from weight loss, exercise, metformin, or anti-inflammatory interventions after diagnosis ref [45], ref [46].",
+    "refNo": 46,
+    "title": "Signals from the adipose microenvironment and the obesity-cancer link-a systematic review",
+    "marker_text": "[46]"
+  },
+  {
+    "sentence": "BMI remains the dominant metric because of feasibility, but it is an imperfect surrogate for adiposity, fat distribution, sarcopenia, and the metabolic milieu most relevant to prognosis; waist measures add information, yet are less standardized across studies and populations ref [48].",
+    "refNo": 48,
+    "title": "Challenges and opportunities in measuring cancer recurrence in the United States",
+    "marker_text": "[48]"
+  },
+  {
+    "sentence": "Recent syntheses also show that associations differ by timing of ascertainment, outcome selected, and subtype-specific reporting, underscoring how easily pooled estimates can mix biologically distinct questions ref [8].",
+    "refNo": 8,
+    "title": "Extending DerSimonian and Laird's methodology to perform multivariate random effects metaanalyses",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "The STEEP framework was proposed precisely to standardize these endpoints and improve cross-trial comparability and meta-analysis ref [4].",
+    "refNo": 4,
+    "title": "The impact of obesity on breast cancer diagnosis and treatment",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Outside trials, however, recurrence is poorly captured in routine data systems; registry-based surveillance generally lacks recurrence fields, and claims-based algorithms show only moderate validity, creating substantial potential for misclassification in real-world prognostic studies ref [5].",
+    "refNo": 5,
+    "title": "Effect of chemotherapy and aromatase inhibitors in the adjuvant treatment of breast cancer on glucose and insulin metabolism-a systematic review",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Future studies should incorporate repeated, preferably measured anthropometry; central adiposity and body-composition phenotypes; prespecified lag analyses to reduce reverse causation from occult disease or treatment-related wasting; and systematic reporting by stage, menopausal status, receptor subtype, and treatment intensity ref [48], ref [8].",
+    "refNo": 48,
+    "title": "Challenges and opportunities in measuring cancer recurrence in the United States",
+    "marker_text": "[48]"
+  },
+  {
+    "sentence": "Future studies should incorporate repeated, preferably measured anthropometry; central adiposity and body-composition phenotypes; prespecified lag analyses to reduce reverse causation from occult disease or treatment-related wasting; and systematic reporting by stage, menopausal status, receptor subtype, and treatment intensity ref [48], ref [8].",
+    "refNo": 8,
+    "title": "Extending DerSimonian and Laird's methodology to perform multivariate random effects metaanalyses",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Equally important is harmonized endpoint collection anchored to STEEP principles and better linkage of registries, pathology, electronic records, and treatment data so recurrence can be ascertained reliably in population settings ref [4], ref [5].",
+    "refNo": 4,
+    "title": "The impact of obesity on breast cancer diagnosis and treatment",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Equally important is harmonized endpoint collection anchored to STEEP principles and better linkage of registries, pathology, electronic records, and treatment data so recurrence can be ascertained reliably in population settings ref [4], ref [5].",
+    "refNo": 5,
+    "title": "Effect of chemotherapy and aromatase inhibitors in the adjuvant treatment of breast cancer on glucose and insulin metabolism-a systematic review",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Transparency is particularly important where outcome definitions vary across cohorts and trials, where recurrence ascertainment can be incomplete, and where treatment dosing, endocrine exposure, and subtype distributions may confound associations between postdiagnosis adiposity and prognosis [1, 2, 3, 4, 5, 6, 7].",
+    "refNo": 1,
+    "title": "Worldwide trends in body-mass index, underweight, overweight, and obesity from 1975 to 2016: a pooled analysis of 2416 population-based measurement studies in 128.9 million children, adolescents, and adults",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Transparency is particularly important where outcome definitions vary across cohorts and trials, where recurrence ascertainment can be incomplete, and where treatment dosing, endocrine exposure, and subtype distributions may confound associations between postdiagnosis adiposity and prognosis [1, 2, 3, 4, 5, 6, 7].",
+    "refNo": 2,
+    "title": "World Cancer Research Fund international: continuous update project-systematic literature review and meta-analysis of observational cohort studies on physical activity, sedentary behavior, adiposity, and weight change and breast cancer risk",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Transparency is particularly important where outcome definitions vary across cohorts and trials, where recurrence ascertainment can be incomplete, and where treatment dosing, endocrine exposure, and subtype distributions may confound associations between postdiagnosis adiposity and prognosis [1, 2, 3, 4, 5, 6, 7].",
+    "refNo": 3,
+    "title": "Adiposity and cancer at major anatomical sites: umbrella review of the literature",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Transparency is particularly important where outcome definitions vary across cohorts and trials, where recurrence ascertainment can be incomplete, and where treatment dosing, endocrine exposure, and subtype distributions may confound associations between postdiagnosis adiposity and prognosis [1, 2, 3, 4, 5, 6, 7].",
+    "refNo": 4,
+    "title": "The impact of obesity on breast cancer diagnosis and treatment",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Transparency is particularly important where outcome definitions vary across cohorts and trials, where recurrence ascertainment can be incomplete, and where treatment dosing, endocrine exposure, and subtype distributions may confound associations between postdiagnosis adiposity and prognosis [1, 2, 3, 4, 5, 6, 7].",
+    "refNo": 5,
+    "title": "Effect of chemotherapy and aromatase inhibitors in the adjuvant treatment of breast cancer on glucose and insulin metabolism-a systematic review",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Transparency is particularly important where outcome definitions vary across cohorts and trials, where recurrence ascertainment can be incomplete, and where treatment dosing, endocrine exposure, and subtype distributions may confound associations between postdiagnosis adiposity and prognosis [1, 2, 3, 4, 5, 6, 7].",
+    "refNo": 6,
+    "title": "Bias in meta-analysis detected by a simple, graphical test",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Transparency is particularly important where outcome definitions vary across cohorts and trials, where recurrence ascertainment can be incomplete, and where treatment dosing, endocrine exposure, and subtype distributions may confound associations between postdiagnosis adiposity and prognosis [1, 2, 3, 4, 5, 6, 7].",
+    "refNo": 7,
+    "title": "Outlier and influence diagnostics for meta-analysis",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Supplementary information should therefore provide the full search strategies, eligibility decisions, risk-of-bias assessments, outcome harmonization rules, and all analytic specifications, including dose–response modeling, multivariate random-effects methods, publication-bias assessment, and influence diagnostics [8, 9, 10, 11].",
+    "refNo": 8,
+    "title": "Extending DerSimonian and Laird's methodology to perform multivariate random effects metaanalyses",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Supplementary information should therefore provide the full search strategies, eligibility decisions, risk-of-bias assessments, outcome harmonization rules, and all analytic specifications, including dose–response modeling, multivariate random-effects methods, publication-bias assessment, and influence diagnostics [8, 9, 10, 11].",
+    "refNo": 9,
+    "title": "Meta-analysis for linear and nonlinear dose-response relations: examples, an evaluation of approximations, and software",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Supplementary information should therefore provide the full search strategies, eligibility decisions, risk-of-bias assessments, outcome harmonization rules, and all analytic specifications, including dose–response modeling, multivariate random-effects methods, publication-bias assessment, and influence diagnostics [8, 9, 10, 11].",
+    "refNo": 10,
+    "title": "Does obesity compromise survival in women with breast cancer?",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Supplementary information should therefore provide the full search strategies, eligibility decisions, risk-of-bias assessments, outcome harmonization rules, and all analytic specifications, including dose–response modeling, multivariate random-effects methods, publication-bias assessment, and influence diagnostics [8, 9, 10, 11].",
+    "refNo": 11,
+    "title": "Obesity and the outcome of young breast cancer patients in the UK: the POSH study",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Given known heterogeneity by menopausal status, tumor subtype, treatment modality, and timing/pattern of weight change, appendices should also report subgroup definitions and sensitivity analyses in detail, rather than only summary pooled estimates [12, 13, 14, 15, 16, 17].",
+    "refNo": 12,
+    "title": "Effect of obesity on prognosis after early-stage breast cancer",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Given known heterogeneity by menopausal status, tumor subtype, treatment modality, and timing/pattern of weight change, appendices should also report subgroup definitions and sensitivity analyses in detail, rather than only summary pooled estimates [12, 13, 14, 15, 16, 17].",
+    "refNo": 13,
+    "title": "Obesity and outcomes in premenopausal and postmenopausal breast cancer",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Given known heterogeneity by menopausal status, tumor subtype, treatment modality, and timing/pattern of weight change, appendices should also report subgroup definitions and sensitivity analyses in detail, rather than only summary pooled estimates [12, 13, 14, 15, 16, 17].",
+    "refNo": 14,
+    "title": "Impact of obesity on Clinicopathologic characteristics and disease prognosis in pre-and postmenopausal breast cancer patients: a retrospective institutional study",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Given known heterogeneity by menopausal status, tumor subtype, treatment modality, and timing/pattern of weight change, appendices should also report subgroup definitions and sensitivity analyses in detail, rather than only summary pooled estimates [12, 13, 14, 15, 16, 17].",
+    "refNo": 15,
+    "title": "Effects of obesity on presentation of breast cancer, lymph node metastasis and patient survival: a retrospective review",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Given known heterogeneity by menopausal status, tumor subtype, treatment modality, and timing/pattern of weight change, appendices should also report subgroup definitions and sensitivity analyses in detail, rather than only summary pooled estimates [12, 13, 14, 15, 16, 17].",
+    "refNo": 16,
+    "title": "Obesity and breast cancer outcomes in chemotherapy patients in New Zealand: a population-based cohort study",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Given known heterogeneity by menopausal status, tumor subtype, treatment modality, and timing/pattern of weight change, appendices should also report subgroup definitions and sensitivity analyses in detail, rather than only summary pooled estimates [12, 13, 14, 15, 16, 17].",
+    "refNo": 17,
+    "title": "Higher rate of severe toxicities in obese patients receiving dose-dense (dd) chemotherapy according to unadjusted body surface area: results of the prospectively randomized GAIN study",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Where available, protocols for interventions and survivorship cohorts can contextualize observational findings and support reproducibility and evidence updating within the CUP framework [18, 19, 20, 21, 22].",
+    "refNo": 18,
+    "title": "The influence of obesity on results of AT (doxorubicin plus docetaxel) neoadjuvant chemotherapy In locally advanced breast cancer patients",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Where available, protocols for interventions and survivorship cohorts can contextualize observational findings and support reproducibility and evidence updating within the CUP framework [18, 19, 20, 21, 22].",
+    "refNo": 19,
+    "title": "Impact of body mass index on the efficacy of endocrine therapy in premenopausal patients with breast cancer: an analysis of the prospective ABCSG-12 trial",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Where available, protocols for interventions and survivorship cohorts can contextualize observational findings and support reproducibility and evidence updating within the CUP framework [18, 19, 20, 21, 22].",
+    "refNo": 20,
+    "title": "A multicenter study of the impact of Body mass index (BMI) on the incidence of pathologic complete response (pCR) among Saudi patients with locally advanced breast cancer (LABC) post neoadjuvant chemotherapy (NAC)",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Where available, protocols for interventions and survivorship cohorts can contextualize observational findings and support reproducibility and evidence updating within the CUP framework [18, 19, 20, 21, 22].",
+    "refNo": 21,
+    "title": "Weight change during chemotherapy changes the prognosis in non metastatic breast cancer for the worse",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Where available, protocols for interventions and survivorship cohorts can contextualize observational findings and support reproducibility and evidence updating within the CUP framework [18, 19, 20, 21, 22].",
+    "refNo": 22,
+    "title": "The LISA randomized trial of a weight loss intervention in postmenopausal breast cancer",
+    "marker_text": "[22]"
+  }
+]

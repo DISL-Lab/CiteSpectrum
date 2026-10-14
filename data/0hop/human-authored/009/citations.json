@@ -1,0 +1,878 @@
+[
+  {
+    "sentence": "Stroke is one of the leading reasons for long-term disabilities in adults and is responsible for large and increasing healthcosts in the United States, projecting to more than double from $36.7 billion in 2015 to $94.3 billion in 2035 (Benjamin et al., 2018).",
+    "refNo": 12,
+    "title": "Heart disease and stroke statistics-2018 update: A report from the",
+    "marker_text": "(Benjamin et al., 2018)"
+  },
+  {
+    "sentence": "Visuospatial neglect adversely affects rehabilitation outcome of other stroke symptoms (Buxbaum et al., 2004) and significantly impairs Activities of Daily Living (ADL: Di Monaco et al., 2011).",
+    "refNo": 24,
+    "title": "",
+    "marker_text": "(Buxbaum et al., 2004)"
+  },
+  {
+    "sentence": "Visuospatial neglect adversely affects rehabilitation outcome of other stroke symptoms (Buxbaum et al., 2004) and significantly impairs Activities of Daily Living (ADL: Di Monaco et al., 2011).",
+    "refNo": 44,
+    "title": "Severity of unilateral spatial neglect is an independent predictor of functional outcome after acute inpatient rehabilitation in individuals with right hemispheric stroke",
+    "marker_text": "(ADL: Di Monaco et al., 2011)"
+  },
+  {
+    "sentence": "The overall recovery pattern is slower and more attenuated (Katz, Hartman-Maeir, Ring, & Soroker, 1999), and the length of stay in inpatient rehabilitation is longer than in stroke patients without visuospatial neglect (Gillen, Tennen, & McKee, 2005).",
+    "refNo": 83,
+    "title": "Functional disability and rehabilitation outcome in right hemisphere damaged patients with and without unilateral spatial neglect",
+    "marker_text": "(Katz, Hartman-Maeir, Ring, & Soroker, 1999)"
+  },
+  {
+    "sentence": "The overall recovery pattern is slower and more attenuated (Katz, Hartman-Maeir, Ring, & Soroker, 1999), and the length of stay in inpatient rehabilitation is longer than in stroke patients without visuospatial neglect (Gillen, Tennen, & McKee, 2005).",
+    "refNo": 62,
+    "title": "Unilateral spatial neglect: Relation to rehabilitation outcomes in patients with right hemisphere stroke",
+    "marker_text": "(Gillen, Tennen, & McKee, 2005)"
+  },
+  {
+    "sentence": "Moreover, visuospatial neglect may have an impact on discharge destination, that is, home versus care facility (Chen, Hreha, Kong, & Barrett, 2015;Wee & Hopman, 2005).",
+    "refNo": 34,
+    "title": "Impact of spatial neglect on stroke rehabilitation: Evidence from the setting of an inpatient rehabilitation facility",
+    "marker_text": "(Chen, Hreha, Kong, & Barrett, 2015)"
+  },
+  {
+    "sentence": "Moreover, visuospatial neglect may have an impact on discharge destination, that is, home versus care facility (Chen, Hreha, Kong, & Barrett, 2015;Wee & Hopman, 2005).",
+    "refNo": 166,
+    "title": "Stroke impairment predictors of discharge function, length of stay, and discharge destination in stroke rehabilitation",
+    "marker_text": "(Wee & Hopman, 2005)"
+  },
+  {
+    "sentence": "Spontaneous recovery from visuospatial neglect-symptoms occurs in the first months after stroke, however, in approximately 40% of patients symptoms persist (Nijboer, Kollen, & Kwakkel, 2013).",
+    "refNo": 116,
+    "title": "Time course of visuospatial neglect early after stroke: A longitudinal cohort study",
+    "marker_text": "(Nijboer, Kollen, & Kwakkel, 2013)"
+  },
+  {
+    "sentence": "Though visuospatial neglect-symptoms are more prevalent after right-hemispheric stroke, ranging from 33% to 82%, occurrence is nevertheless high after left-hemispheric stroke, ranging from 20% to 67% (Bowen, McKenna, & Tallis, 1999), justifying specific consideration in diagnostics and rehabilitation programs for patients with left brain damage stroke also (Beis et al., 2004).",
+    "refNo": 19,
+    "title": "Reasons for variability in the reported rate of occurrence of unilateral spatial neglect after stroke. Stroke; a",
+    "marker_text": "(Bowen, McKenna, & Tallis, 1999)"
+  },
+  {
+    "sentence": "Though visuospatial neglect-symptoms are more prevalent after right-hemispheric stroke, ranging from 33% to 82%, occurrence is nevertheless high after left-hemispheric stroke, ranging from 20% to 67% (Bowen, McKenna, & Tallis, 1999), justifying specific consideration in diagnostics and rehabilitation programs for patients with left brain damage stroke also (Beis et al., 2004).",
+    "refNo": 11,
+    "title": "Right spatial neglect after left hemisphere stroke: Qualitative and quantitative study",
+    "marker_text": "(Beis et al., 2004)"
+  },
+  {
+    "sentence": "Considering that in general, left-hemispheric stroke is more easily recognized (Portegies et al., 2015), presumably due to more evident symptoms like aphasia, the overall presence of visuospatial neglectsymptoms is likely underestimated.",
+    "refNo": 127,
+    "title": "Left-sided strokes are more often recognized than right-sided strokes: The Rotterdam study",
+    "marker_text": "(Portegies et al., 2015)"
+  },
+  {
+    "sentence": "Notably, reported prevalence rates also depend on the sensitivity of the diagnostic tools used (Bowen et al., 1999).",
+    "refNo": 132,
+    "title": "Frequency, risk factors, anatomy, and course of unilateral neglect in an acute stroke cohort",
+    "marker_text": "(Bowen et al., 1999)"
+  },
+  {
+    "sentence": "Nevertheless, the higher prevalence as well as the possibly more severe and persistent character of visuospatial neglect after right-side brain damage (Ringman, Saver, Woolson, Clarke, & Adams, 2004) is explained by several theories of visual attention.",
+    "refNo": 132,
+    "title": "Frequency, risk factors, anatomy, and course of unilateral neglect in an acute stroke cohort",
+    "marker_text": "(Ringman, Saver, Woolson, Clarke, & Adams, 2004)"
+  },
+  {
+    "sentence": "Some authors combine said classifications and describe for example, extrapersonal neglect in terms of visual or auditory (i.e., sensory) deficits and personal neglect in terms of somatosensory deficits (Thiebaut de Schotten et al., 2014).",
+    "refNo": 153,
+    "title": "Damage to white matter pathways in subacute and chronic spatial neglect: A group study and 2 singlecase studies with complete virtual \"in vivo\" tractography dissection",
+    "marker_text": "(Thiebaut de Schotten et al., 2014)"
+  },
+  {
+    "sentence": "Sensory neglect is described as a selective unawareness of sensory (visual, auditory, tactile, and olfactory) stimuli (Rode, Pagliari, Huchon, Rossetti, & Pisella, 2017).",
+    "refNo": 133,
+    "title": "Semiology of neglect: An update",
+    "marker_text": "(Rode, Pagliari, Huchon, Rossetti, & Pisella, 2017)"
+  },
+  {
+    "sentence": "Motor neglect is characterized by reduced spontaneous use or a complete nonuse of contralesional limbs towards or within the contralesional hemi-space in the absence of hemiplegia, increased muscle tone, or pyramidal signs (Sampanis & Riddoch, 2013).",
+    "refNo": 139,
+    "title": "Motor neglect and future directions for research",
+    "marker_text": "(Sampanis & Riddoch, 2013)"
+  },
+  {
+    "sentence": "Motor neglect can occur independently of visuospatial neglect (Punt, Riddoch, & Humphreys, 2005) and includes symptoms of pseudohemiparesis or limb akinesia (hemiparetic symptomatology despite an intact corticospinal tract), directional akinesia, or hypokinesia (reduced head, arm, or eye movements toward contralesional space), hypometria (reduced amplitude in movement in the affected space, e.g., directional hypometria of the eyes shows itself in multiple small saccades before reaching a target), or motor impersistence (inability to sustain a movement or posture in the affected space).",
+    "refNo": 129,
+    "title": "Bimanual coordination and perceptual grouping in a patient with motor neglect",
+    "marker_text": "(Punt, Riddoch, & Humphreys, 2005)"
+  },
+  {
+    "sentence": "Though all of these symptoms are summarized under the term \"motor neglect\" according to their appearance, they are tightly associated with attention functions, that is, patients are able to perform regular movements when asked to do so (Garbarini, Piedimonte, Dotta, Pia, & Berti, 2013).",
+    "refNo": 57,
+    "title": "Dissociations and similarities in motor intention and motor awareness: The case of anosognosia for hemiplegia and motor neglect",
+    "marker_text": "(Garbarini, Piedimonte, Dotta, Pia, & Berti, 2013)"
+  },
+  {
+    "sentence": "While representational neglect in combination with visuospatial neglect is not uncommon (Cecilia Guariglia, Palermo, Piccardi, Iaria, & Incoccia, 2013), it may also occur solely in imagined space.",
+    "refNo": 64,
+    "title": "Neglecting the left side of a City Square but not the left side of its clock: Prevalence and characteristics of representational neglect",
+    "marker_text": "(Cecilia Guariglia, Palermo, Piccardi, Iaria, & Incoccia, 2013)"
+  },
+  {
+    "sentence": "The lesions of patients with \"pure\" representational neglect are inconsistent and include the right frontal lobe (Guariglia, Padovani, Pantano, & Pizzamiglio, 1993), the right thalamus (Ortigue et al., 2001), and the right parietal lobe (Beschin, Cocchini, Della Sala, & Logie, 1997), suggesting the involvement of widespread networks and white matter tracts (Boccia et al., 2018).",
+    "refNo": 63,
+    "title": "Unilateral neglect restricted to visual imagery",
+    "marker_text": "(Guariglia, Padovani, Pantano, & Pizzamiglio, 1993)"
+  },
+  {
+    "sentence": "The lesions of patients with \"pure\" representational neglect are inconsistent and include the right frontal lobe (Guariglia, Padovani, Pantano, & Pizzamiglio, 1993), the right thalamus (Ortigue et al., 2001), and the right parietal lobe (Beschin, Cocchini, Della Sala, & Logie, 1997), suggesting the involvement of widespread networks and white matter tracts (Boccia et al., 2018).",
+    "refNo": 122,
+    "title": "Pure representational neglect after right thalamic lesion",
+    "marker_text": "(Ortigue et al., 2001)"
+  },
+  {
+    "sentence": "The lesions of patients with \"pure\" representational neglect are inconsistent and include the right frontal lobe (Guariglia, Padovani, Pantano, & Pizzamiglio, 1993), the right thalamus (Ortigue et al., 2001), and the right parietal lobe (Beschin, Cocchini, Della Sala, & Logie, 1997), suggesting the involvement of widespread networks and white matter tracts (Boccia et al., 2018).",
+    "refNo": 13,
+    "title": "What the eyes perceive, the brain ignores: A case of pure unilateral representational neglect",
+    "marker_text": "(Beschin, Cocchini, Della Sala, & Logie, 1997)"
+  },
+  {
+    "sentence": "The lesions of patients with \"pure\" representational neglect are inconsistent and include the right frontal lobe (Guariglia, Padovani, Pantano, & Pizzamiglio, 1993), the right thalamus (Ortigue et al., 2001), and the right parietal lobe (Beschin, Cocchini, Della Sala, & Logie, 1997), suggesting the involvement of widespread networks and white matter tracts (Boccia et al., 2018).",
+    "refNo": 18,
+    "title": "The way to \"left\" Piazza del Popolo: Damage to white matter tracts in representational neglect for places",
+    "marker_text": "(Boccia et al., 2018)"
+  },
+  {
+    "sentence": "However, \"pure\" representational neglect is rather rare, maybe because it is not tested for, or because imagined space contains less attention-capturing elements (Bartolomeo, Bachoud-Lévi, Azouvi, & Chokron, 2005).",
+    "refNo": 7,
+    "title": "Time to imagine space: A chronometric exploration of representational neglect",
+    "marker_text": "(Bartolomeo, Bachoud-Lévi, Azouvi, & Chokron, 2005)"
+  },
+  {
+    "sentence": "As there is evidence for number-space associations in humans (Dehaene, Bossini, & Giraux, 1993), biases regarding the spatial representation of numbers along a mental number line may be expected in visuospatial neglect.",
+    "refNo": 43,
+    "title": "The mental representation of parity and number magnitude",
+    "marker_text": "(Dehaene, Bossini, & Giraux, 1993)"
+  },
+  {
+    "sentence": "For instance, deficits were found in responding to smaller numbers (Patrik Vuilleumier, Ortigue, & Brugger, 2004) and in the bisection of aurally presented number lines in patients with visuospatial neglect (Zorzi, Priftis, Meneghello, Marenzi, & Umiltà, 2006;Zorzi et al., 2012).",
+    "refNo": 178,
+    "title": "The spatial representation of numerical and non-numerical sequences: Evidence from neglect",
+    "marker_text": "(Patrik Vuilleumier, Ortigue, & Brugger, 2004)"
+  },
+  {
+    "sentence": "For instance, deficits were found in responding to smaller numbers (Patrik Vuilleumier, Ortigue, & Brugger, 2004) and in the bisection of aurally presented number lines in patients with visuospatial neglect (Zorzi, Priftis, Meneghello, Marenzi, & Umiltà, 2006;Zorzi et al., 2012).",
+    "refNo": 177,
+    "title": "Neglect impairs explicit processing of the mental number line",
+    "marker_text": "(Zorzi et al., 2012)"
+  },
+  {
+    "sentence": "However, the latter finding is the matter of a controversial debate, as double dissociations between a bias in the bisection of number intervals and physical lines were observed (van Dijck, Gevers, Lafosse, Doricchi, & Fias, 2011).",
+    "refNo": 159,
+    "title": "Non-spatial neglect for the mental number line",
+    "marker_text": "(van Dijck, Gevers, Lafosse, Doricchi, & Fias, 2011)"
+  },
+  {
+    "sentence": "It is still not unequivocally clear how number lines are mentally represented, in both healthy adults and patients with visuospatial neglect (Mihulowicz, Klein, Nuerk, Willmes, & Karnath, 2015).",
+    "refNo": 111,
+    "title": "Spatial displacement of numbers on a vertical number line in spatial neglect",
+    "marker_text": "(Mihulowicz, Klein, Nuerk, Willmes, & Karnath, 2015)"
+  },
+  {
+    "sentence": "A recent study found prevalence rates for single-domain neglect ranging from 11% (only extrapersonal) to 22% (only peripersonal: Spaccavento, Cellamare, Falcone, Loverre, & Nardulli, 2017).",
+    "refNo": 145,
+    "title": "Effect of subtypes of neglect on functional outcome in stroke patients",
+    "marker_text": "(only peripersonal: Spaccavento, Cellamare, Falcone, Loverre, & Nardulli, 2017)"
+  },
+  {
+    "sentence": "Noteably, the term \"extrapersonal\" is sometimes applied to visual and auditory (and theoretically olfactory) sensations, whereas the term \"personal\" would only refer to somatosensory and therefore haptic or proprioceptive information (Thiebaut de Schotten et al., 2014).",
+    "refNo": 153,
+    "title": "Damage to white matter pathways in subacute and chronic spatial neglect: A group study and 2 singlecase studies with complete virtual \"in vivo\" tractography dissection",
+    "marker_text": "(Thiebaut de Schotten et al., 2014)"
+  },
+  {
+    "sentence": "Evidence to date disagrees on whether egocentric and allocentric neglect are dissociated (Hillis et al., 2005) or correlated (Rorden et al., 2012), which can probably best be accounted for by the use of different diagnostic batteries.",
+    "refNo": 70,
+    "title": "Anatomy of spatial attention: Insights from perfusion imaging and hemispatial neglect in acute stroke",
+    "marker_text": "(Hillis et al., 2005)"
+  },
+  {
+    "sentence": "Evidence to date disagrees on whether egocentric and allocentric neglect are dissociated (Hillis et al., 2005) or correlated (Rorden et al., 2012), which can probably best be accounted for by the use of different diagnostic batteries.",
+    "refNo": 134,
+    "title": "Allocentric neglect strongly associated with egocentric neglect",
+    "marker_text": "(Rorden et al., 2012)"
+  },
+  {
+    "sentence": "Note, that in homonymous hemianopia the defect strictly follows the midline, whereas visuospatial neglect is characterized by a gradual fading towards the contralesional space (Behrmann, Watt, Black, & Barton, 1997;Butler, Eskes, & Vandorpe, 2004).",
+    "refNo": 10,
+    "title": "Impaired visual search in patients with unilateral neglect: An oculographic analysis",
+    "marker_text": "(Behrmann, Watt, Black, & Barton, 1997)"
+  },
+  {
+    "sentence": "Note, that in homonymous hemianopia the defect strictly follows the midline, whereas visuospatial neglect is characterized by a gradual fading towards the contralesional space (Behrmann, Watt, Black, & Barton, 1997;Butler, Eskes, & Vandorpe, 2004).",
+    "refNo": 23,
+    "title": "Gradients of detection in neglect: Comparison of peripersonal and extrapersonal space",
+    "marker_text": "(Butler, Eskes, & Vandorpe, 2004)"
+  },
+  {
+    "sentence": "Extinction is a relatively frequent consequence of unilateral brain damage and occurs in 24% of patients with right hemispheric lesions (Becker & Karnath, 2007), with a slightly higher prevalence following middle compared to posterior cerebal artery stroke (Chechlacz, Rotshtein, Demeyere, Bickerton, & Humphreys, 2014).",
+    "refNo": 9,
+    "title": "Incidence of visual extinction after left versus right hemisphere stroke",
+    "marker_text": "(Becker & Karnath, 2007)"
+  },
+  {
+    "sentence": "Extinction is a relatively frequent consequence of unilateral brain damage and occurs in 24% of patients with right hemispheric lesions (Becker & Karnath, 2007), with a slightly higher prevalence following middle compared to posterior cerebal artery stroke (Chechlacz, Rotshtein, Demeyere, Bickerton, & Humphreys, 2014).",
+    "refNo": 32,
+    "title": "The frequency and severity of extinction af ter stroke affecting different vascular territories",
+    "marker_text": "(Chechlacz, Rotshtein, Demeyere, Bickerton, & Humphreys, 2014)"
+  },
+  {
+    "sentence": "It can be defined as \"an inability to process or attend to the more contralesionally located stimulus when two stimuli are simultaneously presented (visual extinction), or when two actions have to be performed with both hands simultaneously (motor extinction)\" (Kerkhoff, 2001).",
+    "refNo": 84,
+    "title": "Spatial hemineglect in humans",
+    "marker_text": "(Kerkhoff, 2001)"
+  },
+  {
+    "sentence": "Extinction can occur in a single modality but can also have crossmodal effects (e.g., concomitant tactile and visual stimuli: Mattingley, Driver, Beschin, & Robertson, 1997).",
+    "refNo": 105,
+    "title": "Attentional competition between modalities",
+    "marker_text": "(e.g., concomitant tactile and visual stimuli: Mattingley, Driver, Beschin, & Robertson, 1997)"
+  },
+  {
+    "sentence": "Furthermore, typical clinical features of visuospatial neglect such as ipsilesional head and gaze orientation are absent in extinction (de Haan, Karnath, & Driver, 2012).",
+    "refNo": 42,
+    "title": "Mechanisms and anatomy of unilateral extinction after brain injury",
+    "marker_text": "(de Haan, Karnath, & Driver, 2012)"
+  },
+  {
+    "sentence": "Adapted from (Kerkhoff & Schindler, 1997) and (Ting et al., 2011) VEP Visually evoked potential.",
+    "refNo": 85,
+    "title": "Hemi-neglect versus hemianopia. Differential diagnosis",
+    "marker_text": "(Kerkhoff & Schindler, 1997)"
+  },
+  {
+    "sentence": "Adapted from (Kerkhoff & Schindler, 1997) and (Ting et al., 2011) VEP Visually evoked potential.",
+    "refNo": 155,
+    "title": "Visual neglect following stroke: Current concepts and future focus",
+    "marker_text": "(Ting et al., 2011)"
+  },
+  {
+    "sentence": "Heilman, Schwartz, & Watson, 1978) and significantly increased reaction times to ipsilesional auditory stimuli (Samuelsson, Elisabeth Hjelmquist, Jensen, Ekholm, & Blomstrand, 1998) suggest a distinct non-spatial impairment of arousal and alertness in patients with visuospatial neglect.",
+    "refNo": 66,
+    "title": "Hypoarousal in patients with the neglect syndrome and emotional indifference",
+    "marker_text": "(Samuelsson, Elisabeth Hjelmquist, Jensen, Ekholm, & Blomstrand, 1998)"
+  },
+  {
+    "sentence": "Arousal and alertness could moreover be increased by exerting time pressure, which improved visuospatial neglect symptoms (George, Mercer, Walker, & Manly, 2008).",
+    "refNo": 140,
+    "title": "Nonlateralized attentional deficits: An important component behind persisting visuospatial neglect?",
+    "marker_text": "(George, Mercer, Walker, & Manly, 2008)"
+  },
+  {
+    "sentence": "The role of arousal or alertness in visuospatial neglect is furthermore supported by the finding that visuospatial neglect symptoms re-occur after administration of the sedative midazolam (Lazar et al., 2002).",
+    "refNo": 58,
+    "title": "A demonstration of endogenous modulation of unilateral spatial neglect: The impact of apparent time-pressure on spatial bias",
+    "marker_text": "(Lazar et al., 2002)"
+  },
+  {
+    "sentence": "Similar associations and modulatory influences have been reported for sustained attention (Malhotra, Coulthard, & Husain, 2009) and selective attention (Husain, Shapiro, Martin, & Kennard, 1997).",
+    "refNo": 97,
+    "title": "Reemergence of stroke deficits with midazolam challenge",
+    "marker_text": "(Malhotra, Coulthard, & Husain, 2009)"
+  },
+  {
+    "sentence": "Similar associations and modulatory influences have been reported for sustained attention (Malhotra, Coulthard, & Husain, 2009) and selective attention (Husain, Shapiro, Martin, & Kennard, 1997).",
+    "refNo": 103,
+    "title": "Role of right posterior parietal cortex in maintaining attention to spatial locations over time",
+    "marker_text": "(Husain, Shapiro, Martin, & Kennard, 1997)"
+  },
+  {
+    "sentence": "Anatomical evidence for the strong association between visuospatial neglect and non-spatial attention deficits is provided by a number of studies showing bidirectional effects of spatial-attention networks and the ascending reticular activating system (for a review, see Boukrina & Barrett, 2017).",
+    "refNo": 119,
+    "title": "Disruption of the ascending arousal system and cortical attention networks in post-stroke delirium and spatial neglect",
+    "marker_text": "(for a review, see Boukrina & Barrett, 2017)"
+  },
+  {
+    "sentence": "In addition to missing targets on the contralesional side, patients sometimes also fail to cancel targets on the ipsilesional side (Danckert & Ferber, 2006), which can be interpreted as an inefficient search strategy.",
+    "refNo": 41,
+    "title": "Revisiting unilateral neglect",
+    "marker_text": "(Danckert & Ferber, 2006)"
+  },
+  {
+    "sentence": "More suggestive of an executive deficit is the so-called \"revisiting\" behavior, where patients repeatedly cancel out the same target (Husain & Rorden, 2003).",
+    "refNo": 74,
+    "title": "Non-spatially lateralized mechanisms in hemispatial neglect",
+    "marker_text": "(Husain & Rorden, 2003)"
+  },
+  {
+    "sentence": "In the context of a primarily visuospatial neglect-related impairment these symptoms may be regarded as a space-related executive dysfunction or an impairment in spatial working-memory (Striemer, Ferber, & Danckert, 2013).",
+    "refNo": 149,
+    "title": "Spatial working memory deficits represent a core challenge for rehabilitating neglect",
+    "marker_text": "(Striemer, Ferber, & Danckert, 2013)"
+  },
+  {
+    "sentence": "Anosognosia can be defined as a lack of awareness of deficits or illness (McGlynn & Schacter, 1989).",
+    "refNo": 106,
+    "title": "Unawareness of deficits in neuropsychological syndromes",
+    "marker_text": "(McGlynn & Schacter, 1989)"
+  },
+  {
+    "sentence": "Anosognosia poses a substantial problem in rehabilitation efforts (Adair et al., 1995), and is a predictor of deficits in ADL after stroke (Vossel, Weiss, Eschenbeck, & Fink, 2013).",
+    "refNo": 1,
+    "title": "Anosognosia for hemiplegia: Test of the personal neglect hypothesis",
+    "marker_text": "(Adair et al., 1995)"
+  },
+  {
+    "sentence": "Anosognosia poses a substantial problem in rehabilitation efforts (Adair et al., 1995), and is a predictor of deficits in ADL after stroke (Vossel, Weiss, Eschenbeck, & Fink, 2013).",
+    "refNo": 161,
+    "title": "",
+    "marker_text": "(Vossel, Weiss, Eschenbeck, & Fink, 2013)"
+  },
+  {
+    "sentence": "Being present in about 10% of acute stroke patients (Starkstein, Jorge, & Robinson, 2010), it is mainly associated with unilateral right-sided lesions, specifically lesions in deep white matter structures and the basal ganglia, which are also involved in executive functions.",
+    "refNo": 148,
+    "title": "The frequency, clinical correlates, and mechanism of anosognosia after stroke",
+    "marker_text": "(Starkstein, Jorge, & Robinson, 2010)"
+  },
+  {
+    "sentence": "Unawareness may also be regarded as an extreme dysfunction of Theory of Mind for the Self (Besharati et al., 2016).",
+    "refNo": 14,
+    "title": "Mentalizing the body: Spatial and social cognition in anosognosia for hemiplegia",
+    "marker_text": "(Besharati et al., 2016)"
+  },
+  {
+    "sentence": "Explanatory theories of anosognosia after stroke include psychodynamic approaches, statedependent learning, the presence of a confusional state, failure of sensory feedback, and others (for a review, see Heilman, 2014).",
+    "refNo": 68,
+    "title": "Possible mechanisms of anosognosia of hemiplegia",
+    "marker_text": "(for a review, see Heilman, 2014)"
+  },
+  {
+    "sentence": "Awareness of deficits usually improves with time, however, patients might continue to trivialize the extent and the sequelae of impairments, a state referred to as \"anosodiaphoria\" (Critchley, 1957).",
+    "refNo": 39,
+    "title": "",
+    "marker_text": "(Critchley, 1957)"
+  },
+  {
+    "sentence": "Though it is difficult to distinguish between these models on a behavioural level, some of them are mutually compatible (Sack, 2010).",
+    "refNo": 138,
+    "title": "Using non-invasive brain interference as a tool for mimicking spatial neglect in healthy volunteers",
+    "marker_text": "(Sack, 2010)"
+  },
+  {
+    "sentence": "Arguably, the most influential theory within this context is the attentionshifting model proposed by Posner, Walker, Friedrich, and Rafal (1984), which postulates that covert attention shifts (i.e., without muscular involvement) depend on three internal mental operations: (1) disengagement of attention from a current stimulus, (2) shift of attention to the new target, and (3) engagement of the new target.",
+    "refNo": 2,
+    "title": "Benefit of multiple sessions of perilesional repetitive transcranial magnetic stimulation for an effective rehabilitation of visuospatial function",
+    "marker_text": "(1)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Arguably, the most influential theory within this context is the attentionshifting model proposed by Posner, Walker, Friedrich, and Rafal (1984), which postulates that covert attention shifts (i.e., without muscular involvement) depend on three internal mental operations: (1) disengagement of attention from a current stimulus, (2) shift of attention to the new target, and (3) engagement of the new target.",
+    "refNo": 3,
+    "title": "Visual neglect in posterior cortical atrophy",
+    "marker_text": "(2)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Arguably, the most influential theory within this context is the attentionshifting model proposed by Posner, Walker, Friedrich, and Rafal (1984), which postulates that covert attention shifts (i.e., without muscular involvement) depend on three internal mental operations: (1) disengagement of attention from a current stimulus, (2) shift of attention to the new target, and (3) engagement of the new target.",
+    "refNo": 4,
+    "title": "Transcranial alternating current stimulation (tACS)",
+    "marker_text": "(3)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Crick, 1984) or the \"activity-distribution\" model (LaBerge, Carlson, Williams, & Bunney, 1997) offer more or less tangible explanations for the phenomenon of visuospatial neglect.",
+    "refNo": 38,
+    "title": "Function of the thalamic reticular complex: The searchlight hypothesis",
+    "marker_text": "(LaBerge, Carlson, Williams, & Bunney, 1997)"
+  },
+  {
+    "sentence": "Notably, patients can nonetheless perform movements in all directions without any directionspecific disturbances, if movements are performed \"topdown\" (Karnath, 2015).",
+    "refNo": 128,
+    "title": "Effects of parietal injury on covert orienting of attention",
+    "marker_text": "(Karnath, 2015)"
+  },
+  {
+    "sentence": "The predominance of visuospatial neglect after right-hemisphere lesions is in accordance with the \"attention hypothesis\" (Kinsbourne, 1970;Posner et al., 1984), which postulates an asymmetrical distribution of brain activity when orienting attention.",
+    "refNo": 88,
+    "title": "A model for the mechanism of unilateral neglect of space",
+    "marker_text": "(Kinsbourne, 1970)"
+  },
+  {
+    "sentence": "The predominance of visuospatial neglect after right-hemisphere lesions is in accordance with the \"attention hypothesis\" (Kinsbourne, 1970;Posner et al., 1984), which postulates an asymmetrical distribution of brain activity when orienting attention.",
+    "refNo": 89,
+    "title": "",
+    "marker_text": "(Posner et al., 1984)"
+  },
+  {
+    "sentence": "Vuilleumier and colleagues observed visuospatial neglect symptoms in a patient after a (first) right-hemispheric stroke (affecting the angular gyrus), which then remitted after a (second) left-hemispheric stroke (affecting the frontal eye field: P Vuilleumier, Hester, Assal, & Regli, 1996).",
+    "refNo": 90,
+    "title": "",
+    "marker_text": "(affecting the frontal eye field: P Vuilleumier, Hester, Assal, & Regli, 1996)"
+  },
+  {
+    "sentence": "In rare cases, visuospatial neglect can be caused by trauma (McKenna, Cooke, Fleming, Jefferson, & Ogden, 2006), neurodegenerative disease (Andrade et al., 2010), or neoplasia (Yoon & Pirris, 2013), but in the vast majority of patients it is caused by middleor less frequently -posterior cerebral artery stroke.",
+    "refNo": 107,
+    "title": "The incidence of visual perceptual impairment in patients with severe traumatic brain injury",
+    "marker_text": "(McKenna, Cooke, Fleming, Jefferson, & Ogden, 2006)"
+  },
+  {
+    "sentence": "In rare cases, visuospatial neglect can be caused by trauma (McKenna, Cooke, Fleming, Jefferson, & Ogden, 2006), neurodegenerative disease (Andrade et al., 2010), or neoplasia (Yoon & Pirris, 2013), but in the vast majority of patients it is caused by middleor less frequently -posterior cerebral artery stroke.",
+    "refNo": 3,
+    "title": "Visual neglect in posterior cortical atrophy",
+    "marker_text": "(Andrade et al., 2010)"
+  },
+  {
+    "sentence": "In rare cases, visuospatial neglect can be caused by trauma (McKenna, Cooke, Fleming, Jefferson, & Ogden, 2006), neurodegenerative disease (Andrade et al., 2010), or neoplasia (Yoon & Pirris, 2013), but in the vast majority of patients it is caused by middleor less frequently -posterior cerebral artery stroke.",
+    "refNo": 175,
+    "title": "Tumor haze caused a missed shave: Facial shaving hemineglect",
+    "marker_text": "(Yoon & Pirris, 2013)"
+  },
+  {
+    "sentence": "Visuospatial neglect after stroke, like motor and language deficits (Corbetta et al., 2015), not only arises from cortical lesions, but via disconnection of widespread networks, leading to diaschisis and resulting in cortical hypoperfusion and changes in interhemispheric balance.",
+    "refNo": 35,
+    "title": "Common behavioral clusters and subcortical anatomy in stroke",
+    "marker_text": "(Corbetta et al., 2015)"
+  },
+  {
+    "sentence": "Regarding cortical lesions, visuospatial neglect is traditionally interpreted as a parietal sign (Vallar & Perani, 1986).",
+    "refNo": 157,
+    "title": "The anatomy of unilateral neglect after right-hemisphere stroke lesions. A clinical/CT-scan correlation study in man",
+    "marker_text": "(Vallar & Perani, 1986)"
+  },
+  {
+    "sentence": "Husain & Kennard, 1996) and subcortical gray matter nuclei (Karnath, Himmelbach, & Rorden, 2002) damage has been acknowledged.",
+    "refNo": 72,
+    "title": "Visual neglect associated with frontal lobe infarction",
+    "marker_text": "(Karnath, Himmelbach, & Rorden, 2002)"
+  },
+  {
+    "sentence": "Clinical evidence as well as results from neuroimaging studies point to various critical cortical regions like the temporo-parietal junction (Leibovitch et al., 1998;Vallar & Perani, 1986), the angular (Hillis et al., 2005) and supramarginal gyri (Doricchi & Tomaiuolo, 2003) and the posterior parietal (Azouvi et al., 2002), the superior temporal (H.",
+    "refNo": 78,
+    "title": "The subcortical anatomy of human spatial neglect: Putamen, caudate nucleus and pulvinar",
+    "marker_text": "(Leibovitch et al., 1998)"
+  },
+  {
+    "sentence": "Clinical evidence as well as results from neuroimaging studies point to various critical cortical regions like the temporo-parietal junction (Leibovitch et al., 1998;Vallar & Perani, 1986), the angular (Hillis et al., 2005) and supramarginal gyri (Doricchi & Tomaiuolo, 2003) and the posterior parietal (Azouvi et al., 2002), the superior temporal (H.",
+    "refNo": 98,
+    "title": "Brain-behavior correlations in hemispatial neglect using CT and SPECT: The Sunnybrook stroke study",
+    "marker_text": "(Vallar & Perani, 1986)"
+  },
+  {
+    "sentence": "Clinical evidence as well as results from neuroimaging studies point to various critical cortical regions like the temporo-parietal junction (Leibovitch et al., 1998;Vallar & Perani, 1986), the angular (Hillis et al., 2005) and supramarginal gyri (Doricchi & Tomaiuolo, 2003) and the posterior parietal (Azouvi et al., 2002), the superior temporal (H.",
+    "refNo": 70,
+    "title": "Anatomy of spatial attention: Insights from perfusion imaging and hemispatial neglect in acute stroke",
+    "marker_text": "(Hillis et al., 2005)"
+  },
+  {
+    "sentence": "Clinical evidence as well as results from neuroimaging studies point to various critical cortical regions like the temporo-parietal junction (Leibovitch et al., 1998;Vallar & Perani, 1986), the angular (Hillis et al., 2005) and supramarginal gyri (Doricchi & Tomaiuolo, 2003) and the posterior parietal (Azouvi et al., 2002), the superior temporal (H.",
+    "refNo": 46,
+    "title": "The anatomy of neglect without hemianopia: A key role for parietal-frontal disconnection?",
+    "marker_text": "(Doricchi & Tomaiuolo, 2003)"
+  },
+  {
+    "sentence": "Clinical evidence as well as results from neuroimaging studies point to various critical cortical regions like the temporo-parietal junction (Leibovitch et al., 1998;Vallar & Perani, 1986), the angular (Hillis et al., 2005) and supramarginal gyri (Doricchi & Tomaiuolo, 2003) and the posterior parietal (Azouvi et al., 2002), the superior temporal (H.",
+    "refNo": 5,
+    "title": "Sensitivity of clinical and behavioural tests of spatial neglect after right hemisphere stroke",
+    "marker_text": "(Azouvi et al., 2002)"
+  },
+  {
+    "sentence": "Karnath, Ferber, & Himmelbach, 2001) and the ventrolateral frontal cortex (Rengachary, He, Shulman, & Corbetta, 2011).",
+    "refNo": 77,
+    "title": "Spatial awareness is a function of the temporal not the posterior parietal lobe",
+    "marker_text": "(Rengachary, He, Shulman, & Corbetta, 2011)"
+  },
+  {
+    "sentence": "Recent functional imaging studies in healthy volunteers and visuospatial neglect-patients suggest that spatial cognition and attention are subserved by different spatio-temporal interactions within a widespread fronto-parietal network along the above-mentioned temporo-parietal and frontal cortical nodes (Doricchi, Thiebaut de Schotten, Tomaiuolo, & Bartolomeo, 2008;Sack, 2010;Thiebaut de Schotten et al., 2014).",
+    "refNo": 45,
+    "title": "White matter (dis)connections and gray matter (dys)functions in visual neglect: Gaining insights into the brain networks of spatial awareness",
+    "marker_text": "(Doricchi, Thiebaut de Schotten, Tomaiuolo, & Bartolomeo, 2008)"
+  },
+  {
+    "sentence": "Recent functional imaging studies in healthy volunteers and visuospatial neglect-patients suggest that spatial cognition and attention are subserved by different spatio-temporal interactions within a widespread fronto-parietal network along the above-mentioned temporo-parietal and frontal cortical nodes (Doricchi, Thiebaut de Schotten, Tomaiuolo, & Bartolomeo, 2008;Sack, 2010;Thiebaut de Schotten et al., 2014).",
+    "refNo": 138,
+    "title": "Using non-invasive brain interference as a tool for mimicking spatial neglect in healthy volunteers",
+    "marker_text": "(Sack, 2010)"
+  },
+  {
+    "sentence": "Recent functional imaging studies in healthy volunteers and visuospatial neglect-patients suggest that spatial cognition and attention are subserved by different spatio-temporal interactions within a widespread fronto-parietal network along the above-mentioned temporo-parietal and frontal cortical nodes (Doricchi, Thiebaut de Schotten, Tomaiuolo, & Bartolomeo, 2008;Sack, 2010;Thiebaut de Schotten et al., 2014).",
+    "refNo": 153,
+    "title": "Damage to white matter pathways in subacute and chronic spatial neglect: A group study and 2 singlecase studies with complete virtual \"in vivo\" tractography dissection",
+    "marker_text": "(Thiebaut de Schotten et al., 2014)"
+  },
+  {
+    "sentence": "Functional-anatomical network models stress the importance of white-matter disconnections and provide new momentum for the pioneering work of Geschwind, who interpreted visuospatial neglect as a disconnection-syndrome (Geschwind, 1965a, b).",
+    "refNo": 81,
+    "title": "Damage to white matter fiber tracts in acute spatial neglect",
+    "marker_text": "(Geschwind, 1965a, b)"
+  },
+  {
+    "sentence": "Important intrahemispheric white matter tracts in visuospatial neglect include the superior longitudinal fasciculus, the arcuate fasciculus, and the inferior and superior occipitofrontal fasciculi (Karnath, Rorden, & Ticini, 2009;Thiebaut de Schotten et al., 2014).",
+    "refNo": 153,
+    "title": "Damage to white matter pathways in subacute and chronic spatial neglect: A group study and 2 singlecase studies with complete virtual \"in vivo\" tractography dissection",
+    "marker_text": "(Karnath, Rorden, & Ticini, 2009)"
+  },
+  {
+    "sentence": "Important intrahemispheric white matter tracts in visuospatial neglect include the superior longitudinal fasciculus, the arcuate fasciculus, and the inferior and superior occipitofrontal fasciculi (Karnath, Rorden, & Ticini, 2009;Thiebaut de Schotten et al., 2014).",
+    "refNo": 56,
+    "title": "Visual neglect in the monkey. Representation and disconnection",
+    "marker_text": "(Thiebaut de Schotten et al., 2014)"
+  },
+  {
+    "sentence": "Animals (Gaffan & Hornak, 1997) and stroke patients (Tomaiuolo et al., 2010) have shown severe signs of visuospatial neglect after selective damage to the splenium of the corpus callosum.",
+    "refNo": 156,
+    "title": "Selective visual neglect in right brain damaged patients with splenial interhemispheric disconnection",
+    "marker_text": "(Gaffan & Hornak, 1997)"
+  },
+  {
+    "sentence": "Animals (Gaffan & Hornak, 1997) and stroke patients (Tomaiuolo et al., 2010) have shown severe signs of visuospatial neglect after selective damage to the splenium of the corpus callosum.",
+    "refNo": 156,
+    "title": "Selective visual neglect in right brain damaged patients with splenial interhemispheric disconnection",
+    "marker_text": "(Tomaiuolo et al., 2010)"
+  },
+  {
+    "sentence": "Additionally, it has to be pointed out that a purely disconnective account of visuospatial neglect may not be sufficient (Doricchi et al., 2008).",
+    "refNo": 45,
+    "title": "White matter (dis)connections and gray matter (dys)functions in visual neglect: Gaining insights into the brain networks of spatial awareness",
+    "marker_text": "(Doricchi et al., 2008)"
+  },
+  {
+    "sentence": "In recent years, meta-analytic approaches using activationlikelihood-estimations shed further light on the link between lesion patterns and subtpyes of visuospatial neglect (Chechlacz, Rotshtein, & Humphreys, 2012) and performance on visuospatial neglect tests (Molenberghs, Sale, & Mattingley, 2012), but the neuroanatomical basis of the heterogenitiy of visuospatial neglect remains a matter of uncertainty.",
+    "refNo": 160,
+    "title": "Neuroanatomy of hemispatial neglect and its functional components: A study using voxel-based lesion-symptom mapping",
+    "marker_text": "(Chechlacz, Rotshtein, & Humphreys, 2012)"
+  },
+  {
+    "sentence": "In recent years, meta-analytic approaches using activationlikelihood-estimations shed further light on the link between lesion patterns and subtpyes of visuospatial neglect (Chechlacz, Rotshtein, & Humphreys, 2012) and performance on visuospatial neglect tests (Molenberghs, Sale, & Mattingley, 2012), but the neuroanatomical basis of the heterogenitiy of visuospatial neglect remains a matter of uncertainty.",
+    "refNo": 46,
+    "title": "The anatomy of neglect without hemianopia: A key role for parietal-frontal disconnection?",
+    "marker_text": "(Molenberghs, Sale, & Mattingley, 2012)"
+  },
+  {
+    "sentence": "It is to note, that the superior temporal resolution of electroencephalography (EEG) seems to be a promising tool to further elucidate functional relations of anatomically relevant regions in visuospatial neglect (Fellrath, Mottaz, Schnider, Guggisberg, & Ptak, 2016;Yordanova et al., 2017).",
+    "refNo": 50,
+    "title": "Theta-band functional connectivity in the dorsal fronto",
+    "marker_text": "(Fellrath, Mottaz, Schnider, Guggisberg, & Ptak, 2016)"
+  },
+  {
+    "sentence": "It is to note, that the superior temporal resolution of electroencephalography (EEG) seems to be a promising tool to further elucidate functional relations of anatomically relevant regions in visuospatial neglect (Fellrath, Mottaz, Schnider, Guggisberg, & Ptak, 2016;Yordanova et al., 2017).",
+    "refNo": 176,
+    "title": "Synchronization of fronto-parietal beta and theta networks as a signature of visual awareness in neglect",
+    "marker_text": "(Yordanova et al., 2017)"
+  },
+  {
+    "sentence": "In the US (Winstein et al., 2016), the UK (Intercollegiate Stroke Working Party, 2012), and Germany (H.-O.",
+    "refNo": 169,
+    "title": "Guidelines for adult stroke rehabilitation and recovery: A guideline for healthcare professionals from the American Heart Association/American Stroke Association",
+    "marker_text": "(Winstein et al., 2016)"
+  },
+  {
+    "sentence": "In the US (Winstein et al., 2016), the UK (Intercollegiate Stroke Working Party, 2012), and Germany (H.-O.",
+    "refNo": 82,
+    "title": "",
+    "marker_text": "(Intercollegiate Stroke Working Party, 2012)"
+  },
+  {
+    "sentence": "Systematic screening is crucial for planning rehabilitative efforts and can significantly improve rehabilitation outcome in visuospatial neglect patients (Edwards et al., 2006).",
+    "refNo": 47,
+    "title": "Screening patients with stroke for rehabilitation needs: Validation of the post-stroke rehabilitation guidelines",
+    "marker_text": "(Edwards et al., 2006)"
+  },
+  {
+    "sentence": "For example, a visuospatial neglect test battery, such as the Behavioural Inattention Test (BIT, Wilson et al., 1987), integrates a number of tests that should be complemented with assessments of ADL.",
+    "refNo": 168,
+    "title": "",
+    "marker_text": "(BIT, Wilson et al., 1987)"
+  },
+  {
+    "sentence": "In many patients, performance on neglect tests is highly inconsistent over time (Hamilton, Coslett, Buxbaum, Whyte, & Ferraro, 2008), probably reflecting fluctuations in basic attentional functions like arousal and alertness.",
+    "refNo": 65,
+    "title": "Inconsistency of performance on neglect subtype tests following acute right hemisphere stroke",
+    "marker_text": "(Hamilton, Coslett, Buxbaum, Whyte, & Ferraro, 2008)"
+  },
+  {
+    "sentence": "Endogenous plasticity after stroke leads to sub-acute recovery in approximately two thirds of patients only (Karnath, Rennig, Johannsen, & Rorden, 2011), leaving a substantial proportion of patients with chronic visuospatial neglect, that is associated with reduced independence and lasting disability (Jehkonen, Laihosalo, & Kettunen, 2006).",
+    "refNo": 80,
+    "title": "The anatomy underlying acute versus chronic spatial neglect: A longitudinal study",
+    "marker_text": "(Karnath, Rennig, Johannsen, & Rorden, 2011)"
+  },
+  {
+    "sentence": "Endogenous plasticity after stroke leads to sub-acute recovery in approximately two thirds of patients only (Karnath, Rennig, Johannsen, & Rorden, 2011), leaving a substantial proportion of patients with chronic visuospatial neglect, that is associated with reduced independence and lasting disability (Jehkonen, Laihosalo, & Kettunen, 2006).",
+    "refNo": 76,
+    "title": "Impact of neglect on functional outcome after stroke: A review of methodological issues and recent research findings",
+    "marker_text": "(Jehkonen, Laihosalo, & Kettunen, 2006)"
+  },
+  {
+    "sentence": "Rehabilitation techniques aim to retrain functions (restitution), utilize remaining intact brain structures (compensation), or adapt to impairments by using external devices or modifications (substitution: see Table 3) and can be categorized into top-down or bottom-up approaches (Parton, Malhotra, & Husain, 2004).",
+    "refNo": 124,
+    "title": "Hemispatial neglect",
+    "marker_text": "(Parton, Malhotra, & Husain, 2004)"
+  },
+  {
+    "sentence": "A Cochrane review (Bowen et al. 2013) investigating the effects of various cognitive rehabilitation interventions in 23 randomized controlled trials concluded that there is insufficient evidence to adequately evaluate the effect of cognitive rehabilitation on functional ability or even standardized visuospatial neglect assesment.",
+    "refNo": 20,
+    "title": "",
+    "marker_text": "(Bowen et al. 2013)"
+  },
+  {
+    "sentence": "In animals, visuospatial neglect can be induced by unilateral interruption of the dopaminergic system and subsequent administration of dopamine agonists can reduce visuospatial neglect (Corwin et al., 1986).",
+    "refNo": 37,
+    "title": "Apomorphine has a therapeutic effect on neglect produced by unilateral dorsomedial prefrontal cortex lesions in rats",
+    "marker_text": "(Corwin et al., 1986)"
+  },
+  {
+    "sentence": "In humans, an improvement of visuospatial neglect symptoms was reported with dopamine agonists (Fleet, Valenstein, Watson, & Heilman, 1987;Mukand et al., 2001).",
+    "refNo": 52,
+    "title": "",
+    "marker_text": "(Fleet, Valenstein, Watson, & Heilman, 1987)"
+  },
+  {
+    "sentence": "In humans, an improvement of visuospatial neglect symptoms was reported with dopamine agonists (Fleet, Valenstein, Watson, & Heilman, 1987;Mukand et al., 2001).",
+    "refNo": 114,
+    "title": "Dopaminergic therapy with carbidopa L-dopa for left neglect after stroke: A case series",
+    "marker_text": "(Mukand et al., 2001)"
+  },
+  {
+    "sentence": "Other pharmacological approaches include noradrenergic agents (Malhotra, Parton, Greenwood, & Husain, 2006) and pro-cholinergic drugs (Thiel, Zilles, & Fink, 2005).",
+    "refNo": 102,
+    "title": "Noradrenergic modulation of space exploration in visual neglect",
+    "marker_text": "(Malhotra, Parton, Greenwood, & Husain, 2006)"
+  },
+  {
+    "sentence": "Other pharmacological approaches include noradrenergic agents (Malhotra, Parton, Greenwood, & Husain, 2006) and pro-cholinergic drugs (Thiel, Zilles, & Fink, 2005).",
+    "refNo": 154,
+    "title": "Nicotine modulates reorienting of visuospatial attention and neural activity in human parietal cortex",
+    "marker_text": "(Thiel, Zilles, & Fink, 2005)"
+  },
+  {
+    "sentence": "To date, no valid conclusions can be drawn and pharmacological treatment is usually not part of the rehabilitative strategy (van der Kemp, Dorresteijn, Ten Brink, Nijboer, & Visser-Meily, 2017).",
+    "refNo": 158,
+    "title": "Pharmacological treatment of visuospatial neglect: A systematic review",
+    "marker_text": "(van der Kemp, Dorresteijn, Ten Brink, Nijboer, & Visser-Meily, 2017)"
+  },
+  {
+    "sentence": "The improvement of therapeutic means furthermore critically Good sensitivity (Marsh & Kersel, 1993).",
+    "refNo": 104,
+    "title": "Screening tests for visual neglect following stroke",
+    "marker_text": "(Marsh & Kersel, 1993)"
+  },
+  {
+    "sentence": "Good retest reliability (Facchin, Beschin, Pisano, & Reverberi, 2016).",
+    "refNo": 49,
+    "title": "Normative data for distal line bisection and baking tray task",
+    "marker_text": "(Facchin, Beschin, Pisano, & Reverberi, 2016)"
+  },
+  {
+    "sentence": "The most commonly used forms of noninvasive brain stimulation are transcranial magnetic stimulation (TMS) and transcranial direct current stimulation (tDCS), which are safe and can be applied in a wide range of patients with neurological and psychiatric disorders (Bikson et al., 2016;Rossi et al., 2009).",
+    "refNo": 15,
+    "title": "Safety of transcranial direct current stimulation: Evidence based update",
+    "marker_text": "(Bikson et al., 2016)"
+  },
+  {
+    "sentence": "The most commonly used forms of noninvasive brain stimulation are transcranial magnetic stimulation (TMS) and transcranial direct current stimulation (tDCS), which are safe and can be applied in a wide range of patients with neurological and psychiatric disorders (Bikson et al., 2016;Rossi et al., 2009).",
+    "refNo": 135,
+    "title": "Safety, ethical considerations, and application guidelines for the use of transcranial magnetic stimulation in clinical practice and research",
+    "marker_text": "(Rossi et al., 2009)"
+  },
+  {
+    "sentence": "In stroke patients, noninvasive brain stimulation is used to modulate motor (Hummel et al., 2005) and non-motor symptoms (Elsner, Kugler, Pohl, & Mehrholz, 2016), including visuospatial neglect (Müri et al., 2013).",
+    "refNo": 71,
+    "title": "Effects of non-invasive cortical stimulation on skilled motor function in chronic stroke",
+    "marker_text": "(Hummel et al., 2005)"
+  },
+  {
+    "sentence": "In stroke patients, noninvasive brain stimulation is used to modulate motor (Hummel et al., 2005) and non-motor symptoms (Elsner, Kugler, Pohl, & Mehrholz, 2016), including visuospatial neglect (Müri et al., 2013).",
+    "refNo": 48,
+    "title": "Transcranial direct current stimulation (tDCS) for improving activities of daily living, and physical and cognitive functioning, in people after stroke",
+    "marker_text": "(Elsner, Kugler, Pohl, & Mehrholz, 2016)"
+  },
+  {
+    "sentence": "Using anodal and cathodal stimulation over the left or right PPC in separate sessions, Sparing and colleagues could enhance or impair the detection of a target Fig. 2 Interhemispheric rivalry model and noninvasive brain stimulation: a Balanced allocation of attention: In healthy subjects, allocation of attention towards both hemi-spaces is balanced by mutual transcallosal inhibition.",
+    "refNo": 3,
+    "title": "Visual neglect in posterior cortical atrophy",
+    "marker_text": "2",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Similarly, single pulse TMS (believed to disturb cortical processing) over the right PPC induced a significant rightward bias in a line-length judgment task (Fierro et al., 2006).",
+    "refNo": 51,
+    "title": "Paired pulse TMS over the right posterior parietal cortex modulates visuospatial perception",
+    "marker_text": "(Fierro et al., 2006)"
+  },
+  {
+    "sentence": "In another study, unilateral single pulse TMS over the left and right PPC impaired detection of contralaterally presented visual stimuli (Dambeck et al., 2006).",
+    "refNo": 40,
+    "title": "Interhemispheric imbalance during visuospatial attention investigated by unilateral and bilateral TMS over human parietal cortices",
+    "marker_text": "(Dambeck et al., 2006)"
+  },
+  {
+    "sentence": "In a subsequent cTBS-experiment, they were able to reverse visuospatial neglect-like behavior by stimulating over the left PPC (Dario Cazzoli, Wurtz, Müri, Hess, & Nyffeler, 2009). tDCS studies provide additional support for the interhemispheric rivalry model.",
+    "refNo": 118,
+    "title": "Neglect-like visual exploration behaviour after theta burst transcranial magnetic stimulation of the right posterior parietal cortex",
+    "marker_text": "(Dario Cazzoli, Wurtz, Müri, Hess, & Nyffeler, 2009)"
+  },
+  {
+    "sentence": "Indeed, visuospatial neglect-like difficulties in symmetry judgement (Giglia et al., 2011), visuospatial localization (Wright & Krekelberg, 2013), and perceived position (Wright & Krekelberg, 2014) could be observed.",
+    "refNo": 28,
+    "title": "Interhemispheric balance of overt attention: A theta burst stimulation study",
+    "marker_text": "(Giglia et al., 2011)"
+  },
+  {
+    "sentence": "Indeed, visuospatial neglect-like difficulties in symmetry judgement (Giglia et al., 2011), visuospatial localization (Wright & Krekelberg, 2013), and perceived position (Wright & Krekelberg, 2014) could be observed.",
+    "refNo": 61,
+    "title": "Neglect-like effects induced by tDCS modulation of posterior parietal cortices in healthy subjects",
+    "marker_text": "(Wright & Krekelberg, 2013)"
+  },
+  {
+    "sentence": "Indeed, visuospatial neglect-like difficulties in symmetry judgement (Giglia et al., 2011), visuospatial localization (Wright & Krekelberg, 2013), and perceived position (Wright & Krekelberg, 2014) could be observed.",
+    "refNo": 170,
+    "title": "Transcranial direct current stimulation over posterior parietal cortex alters perceived position",
+    "marker_text": "(Wright & Krekelberg, 2014)"
+  },
+  {
+    "sentence": "Brain Stimulation (e.g., low-frequency TMS over the left hyperactive hemisphere) can attenuate interhemispheric dysbalance and ameliorate visuospatial neglect presented contralaterally (with respect to the tDCS site; Sparing et al., 2009).",
+    "refNo": 171,
+    "title": "Transcranial direct current stimulation over posterior parietal cortex modulates visuospatial localization",
+    "marker_text": "(Sparing et al., 2009)"
+  },
+  {
+    "sentence": "In a subsequent experiment, the same group revealed large scale intraand interhemispheric changes in functional connectivity after low-frequency rTMS (Battelli, Grossman, & Plow, 2017), which not only provides further support for the interhemispheric rivalry model, but also for frontoparietal networkmodels outlined above.",
+    "refNo": 125,
+    "title": "The compensatory dynamic of interhemispheric interactions in visuospatial attention revealed using rTMS and fMRI",
+    "marker_text": "(Battelli, Grossman, & Plow, 2017)"
+  },
+  {
+    "sentence": "Age affects the lateralization of task-related activity in healthy subjects (Cabeza, 2002) and further issues arise when stroke patients are stimulated, as lesions affect current distribution in the brain (Wagner et al., 2007).",
+    "refNo": 25,
+    "title": "Hemispheric asymmetry reduction in older adults: The HAROLD model",
+    "marker_text": "(Cabeza, 2002)"
+  },
+  {
+    "sentence": "Age affects the lateralization of task-related activity in healthy subjects (Cabeza, 2002) and further issues arise when stroke patients are stimulated, as lesions affect current distribution in the brain (Wagner et al., 2007).",
+    "refNo": 165,
+    "title": "Transcranial direct current stimulation: A computer-based human model study",
+    "marker_text": "(Wagner et al., 2007)"
+  },
+  {
+    "sentence": "To evaluate the efficiacy of noninvasive brain stimulation in post-stroke visuospatial neglect, we conducted a systematic review adhering to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (Moher et al., 2015).",
+    "refNo": 112,
+    "title": "Preferred reporting items for systematic review and meta-analysis protocols (PRISMA-P) 2015 statement",
+    "marker_text": "(Moher et al., 2015)"
+  },
+  {
+    "sentence": "In total, 25 studies (12 randomized controlled trials, two case studies) published between September 1999 and April 2019 were included in the systematic review (Fig. 3 and Table 4).",
+    "refNo": 4,
+    "title": "Transcranial alternating current stimulation (tACS)",
+    "marker_text": "3",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Five more recent studies applied cTBS over the contralesional PPC and only two studies applied stimulation over contralesional prefrontal areas, one using iTBS (Cao et al., 2016) and one using single pulse-TMS (Oliveri et al., 1999).",
+    "refNo": 26,
+    "title": "Intermittent θ burst stimulation modulates resting-state functional connectivity in the attention network and promotes behavioral recovery in patients with visual spatial neglect",
+    "marker_text": "(Cao et al., 2016)"
+  },
+  {
+    "sentence": "Five more recent studies applied cTBS over the contralesional PPC and only two studies applied stimulation over contralesional prefrontal areas, one using iTBS (Cao et al., 2016) and one using single pulse-TMS (Oliveri et al., 1999).",
+    "refNo": 120,
+    "title": "Left frontal transcranial magnetic stimulation reduces contralesional extinction in patients with unilateral right brain damage",
+    "marker_text": "(Oliveri et al., 1999)"
+  },
+  {
+    "sentence": "In a Fig. 3 Flow-chart of the systematic review following PRISMA guidelines (Moher et al., 2015).",
+    "refNo": 4,
+    "title": "Transcranial alternating current stimulation (tACS)",
+    "marker_text": "3",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "In a Fig. 3 Flow-chart of the systematic review following PRISMA guidelines (Moher et al., 2015).",
+    "refNo": 30,
+    "title": "The effects of repetitive transcranial magnetic stimulation on unilateral neglect of acute stroke patients: A randomised controlled trial",
+    "marker_text": "(Moher et al., 2015)"
+  },
+  {
+    "sentence": "Twenty five studies fulfilled eligibility criteria and were included in the review Table 4 Clinical trials and case studies assessing effects of noninvasive brain stimulation on symptoms of visuospatial neglect Design subsequent study, the same group showed substantive improvements in ADL after application of 8 trains of cTBS over 2 days, which persisted for 3 weeks after the end of treatment (Cazzoli et al., 2012).",
+    "refNo": 86,
+    "title": "Effect of highand low-frequency repetitive transcranial magnetic stimulation on visuospatial neglect in patients with acute stroke: A double-blind, sham-controlled trial",
+    "marker_text": "(Cazzoli et al., 2012)"
+  },
+  {
+    "sentence": "However, stimulation was carried out over the left DLPFC (and not the PPC), a key brain region involved in top-down attentional control (Silton et al., 2010).",
+    "refNo": 144,
+    "title": "Lowfrequency transcranial magnetic stimulation for visual spatial neglect: A pilot study",
+    "marker_text": "(Silton et al., 2010)"
+  },
+  {
+    "sentence": "Noninvasive brain stimulation studies usually recruit patients in the sub-acute stage (less than 6 months post stroke), as cortical reorganization and neurological recovery mainly takes place in the first few months after stroke (Kwakkel, Kollen, & Lindeman, 2004).",
+    "refNo": 21,
+    "title": "Treatment of visuospatial neglect with biparietal tDCS and cognitive training: A single-case study",
+    "marker_text": "(Kwakkel, Kollen, & Lindeman, 2004)"
+  },
+  {
+    "sentence": "Except for one study that investigated exclusively chronic stroke patients (Smit et al., 2015), all reviewed studies reported improvements in at least one outcome measure, and none reported deterioration.",
+    "refNo": 143,
+    "title": "Transcranial direct current stimulation to the parietal cortex in hemispatial neglect: A feasibility study",
+    "marker_text": "(Smit et al., 2015)"
+  },
+  {
+    "sentence": "To date, only two studies applied noninvasive brain stimulation over the frontal cortex (Cao et al., 2016;Oliveri et al., 1999), both with positive results.",
+    "refNo": 26,
+    "title": "Intermittent θ burst stimulation modulates resting-state functional connectivity in the attention network and promotes behavioral recovery in patients with visual spatial neglect",
+    "marker_text": "(Cao et al., 2016)"
+  },
+  {
+    "sentence": "To date, only two studies applied noninvasive brain stimulation over the frontal cortex (Cao et al., 2016;Oliveri et al., 1999), both with positive results.",
+    "refNo": 120,
+    "title": "Left frontal transcranial magnetic stimulation reduces contralesional extinction in patients with unilateral right brain damage",
+    "marker_text": "(Oliveri et al., 1999)"
+  },
+  {
+    "sentence": "A higher number of trains lead to a non-linear increase of life-time during which functional effects were still significant (Cazzoli et al., 2012).",
+    "refNo": 173,
+    "title": "Comparison of different stimulation parameters of repetitive transcranial magnetic stimulation for unilateral spatial neglect in stroke patients",
+    "marker_text": "(Cazzoli et al., 2012)"
+  },
+  {
+    "sentence": "Only one study evaluated anodal versus cathodal tDCS (Yi et al., 2016), no differences between stimulation groups were observed.",
+    "refNo": 27,
+    "title": "Theta burst stimulation reduces disability during the activities of daily living in spatial neglect",
+    "marker_text": "(Yi et al., 2016)"
+  },
+  {
+    "sentence": "One study compared dual tDCS to anodal tDCS (Sunwoo et al., 2013; dual tDCS showed a stronger effect on line bisection performance).",
+    "refNo": 174,
+    "title": "The effect of transcranial direct current stimulation on neglect syndrome in stroke patients",
+    "marker_text": "(Sunwoo et al., 2013)"
+  },
+  {
+    "sentence": "Both techniques are believed to interact with cortical oscillations and synchronization (Antal & Paulus, 2013), which are known to be altered in visuospatial neglect (Rastelli et al., 2013).",
+    "refNo": 150,
+    "title": "Effects of dual transcranial direct current stimulation on post-stroke unilateral visuospatial neglect",
+    "marker_text": "(Antal & Paulus, 2013)"
+  },
+  {
+    "sentence": "Both techniques are believed to interact with cortical oscillations and synchronization (Antal & Paulus, 2013), which are known to be altered in visuospatial neglect (Rastelli et al., 2013).",
+    "refNo": 4,
+    "title": "Transcranial alternating current stimulation (tACS)",
+    "marker_text": "(Rastelli et al., 2013)"
+  },
+  {
+    "sentence": "With regard to treatment with noninvasive brain stimulation, however, variability in responsiveness is an emerging issue in the field of neuromodulation in general (López-Alonso, Cheeran, Río-Rodríguez, & Fernández-Del-Olmo, 2014) and stroke research in particular (Wiethoff, Hamada, & Rothwell, 2014).",
+    "refNo": 167,
+    "title": "Variability in response to transcranial direct current stimulation of the motor cortex",
+    "marker_text": "(López-Alonso, Cheeran, Río-Rodríguez, & Fernández-Del-Olmo, 2014)"
+  },
+  {
+    "sentence": "With regard to treatment with noninvasive brain stimulation, however, variability in responsiveness is an emerging issue in the field of neuromodulation in general (López-Alonso, Cheeran, Río-Rodríguez, & Fernández-Del-Olmo, 2014) and stroke research in particular (Wiethoff, Hamada, & Rothwell, 2014).",
+    "refNo": 50,
+    "title": "Theta-band functional connectivity in the dorsal fronto",
+    "marker_text": "(Wiethoff, Hamada, & Rothwell, 2014)"
+  },
+  {
+    "sentence": "As MRI-methods are both cost and time intense, EEG, which has recently been described as a helpful tool to study the integrity of network functionality in visuospatial neglect (Fellrath et al., 2016;Yordanova et al., 2017), could prove a useful method in investigating individual network disruptions in patients with visuospatial neglect, which could then serve as a basis for stimulation setups that target entire networks.",
+    "refNo": 176,
+    "title": "Synchronization of fronto-parietal beta and theta networks as a signature of visual awareness in neglect",
+    "marker_text": "(Fellrath et al., 2016)"
+  },
+  {
+    "sentence": "As MRI-methods are both cost and time intense, EEG, which has recently been described as a helpful tool to study the integrity of network functionality in visuospatial neglect (Fellrath et al., 2016;Yordanova et al., 2017), could prove a useful method in investigating individual network disruptions in patients with visuospatial neglect, which could then serve as a basis for stimulation setups that target entire networks.",
+    "refNo": 176,
+    "title": "Synchronization of fronto-parietal beta and theta networks as a signature of visual awareness in neglect",
+    "marker_text": "(Yordanova et al., 2017)"
+  }
+]

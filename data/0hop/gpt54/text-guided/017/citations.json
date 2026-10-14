@@ -1,0 +1,800 @@
+[
+  {
+    "sentence": "The search strategy was developed in consultation with the library team at the University, as well as expert opinion within the research team, which consisted of a range of expert researchers and clinicians [29] (ref [1], ref [2], ref [3]).",
+    "refNo": 29,
+    "title": "BRIEF REPORT: screening items to identify patients with limited health literacy skills",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "The search strategy was developed in consultation with the library team at the University, as well as expert opinion within the research team, which consisted of a range of expert researchers and clinicians [29] (ref [1], ref [2], ref [3]).",
+    "refNo": 1,
+    "title": "Scoping studies: towards a methodological framework",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "The search strategy was developed in consultation with the library team at the University, as well as expert opinion within the research team, which consisted of a range of expert researchers and clinicians [29] (ref [1], ref [2], ref [3]).",
+    "refNo": 2,
+    "title": "PRISMA extension for scoping reviews (PRISMA-ScR): checklist and explanation",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "The search strategy was developed in consultation with the library team at the University, as well as expert opinion within the research team, which consisted of a range of expert researchers and clinicians [29] (ref [1], ref [2], ref [3]).",
+    "refNo": 3,
+    "title": "Scoping studies: advancing the methodology",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Data extraction included determinants of HL (age, gender, race, and education level) ref [5], study design, and was done by adopting a framework analysis approach.",
+    "refNo": 5,
+    "title": "Determinants of health literacy and health behavior regarding infectious respiratory diseases: a pathway model",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "These categories were then mapped against the Core Outcome Set for Clinical Trials in Non-Specific Low Back Pain ref [4], namely 'physical functioning', 'pain intensity', 'healthrelated quality of life' and 'number of deaths'.",
+    "refNo": 4,
+    "title": "Core outcome domains for clinical trials in non-specific low back pain",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "This was done using the classification proposed by Nutbeam, namely functional, communicative and critical HL ref [6].",
+    "refNo": 6,
+    "title": "Health literacy as a public health goal: a challenge for contemporary health education and communication strategies into the 21st century",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "The components of this classification have a graded order of complexity, functional HL being the most basic, and critical HL being the most advanced ref [6].",
+    "refNo": 6,
+    "title": "Health literacy as a public health goal: a challenge for contemporary health education and communication strategies into the 21st century",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Critical HL comprises the use of even more advanced cognitive and social skills to exert great control over life events and situations ref [7].",
+    "refNo": 7,
+    "title": "Understanding critical health literacy: a concept analysis",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "An example of operationalising critical HL is organising social advocacy health promotion within communities, to enable and empower individuals to 'judge, sift and use' health information in the context of their own lives and social worlds ref [8].",
+    "refNo": 8,
+    "title": "Community-based initiatives improving critical health literacy: a systematic review and meta-synthesis of qualitative evidence",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Both 2010 and 2011 papers by Briggs et al. [10,41] were included and recorded as separate studies, as each publication studied different HL measures ref [9].",
+    "refNo": 10,
+    "title": "Individuals with chronic low back pain have greater difficulty in engaging in positive lifestyle behaviours than those without back pain: an assessment of health literacy",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Both 2010 and 2011 papers by Briggs et al. [10,41] were included and recorded as separate studies, as each publication studied different HL measures ref [9].",
+    "refNo": 41,
+    "title": "",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "Both 2010 and 2011 papers by Briggs et al. [10,41] were included and recorded as separate studies, as each publication studied different HL measures ref [9].",
+    "refNo": 9,
+    "title": "Health literacy and beliefs among a community cohort with and without chronic low back pain",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Most HL measures assessed functional HL, while the number that evaluated communicative and critical HL were fewer than half (Table 4) ref [11], ref [12], ref [13].",
+    "refNo": 11,
+    "title": "Health literacy screening instruments for eHealth applications: a systematic review",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Most HL measures assessed functional HL, while the number that evaluated communicative and critical HL were fewer than half (Table 4) ref [11], ref [12], ref [13].",
+    "refNo": 12,
+    "title": "Health literacy instrument in family medicine: the 'newest vital sign' ease of use and correlates",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Most HL measures assessed functional HL, while the number that evaluated communicative and critical HL were fewer than half (Table 4) ref [11], ref [12], ref [13].",
+    "refNo": 13,
+    "title": "Health education literacy in patients with chronic musculoskeletal diseases: development of a new questionnaire and sociodemographic predictors",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Four studies gathered data on patient knowledge and beliefs [15][16][17]25], utilising five different health outcome measures.",
+    "refNo": 15,
+    "title": "Pain awareness and medication knowledge: a health literacy evaluation",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Four studies gathered data on patient knowledge and beliefs [15][16][17]25], utilising five different health outcome measures.",
+    "refNo": 16,
+    "title": "Limited health knowledge as a reason for non-use of four common complementary health practices",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Four studies gathered data on patient knowledge and beliefs [15][16][17]25], utilising five different health outcome measures.",
+    "refNo": 17,
+    "title": "The impact of inadequate health literacy on patient satisfaction, healthcare utilization, and expenditures among older adults",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Briggs et al. [10,41] used the Back Pain Beliefs Questionnaire, which consists of 14 questions exploring beliefs regarding issues such as the management and prognosis of back trouble.",
+    "refNo": 10,
+    "title": "Individuals with chronic low back pain have greater difficulty in engaging in positive lifestyle behaviours than those without back pain: an assessment of health literacy",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Briggs et al. [10,41] used the Back Pain Beliefs Questionnaire, which consists of 14 questions exploring beliefs regarding issues such as the management and prognosis of back trouble.",
+    "refNo": 41,
+    "title": "",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "They also conducted telephone interviews to understand participant's beliefs regarding the aetiology and course of their LBP, with qualitative analysis approaches aligning with ref [14].",
+    "refNo": 14,
+    "title": "Using the framework method for the analysis of qualitative data in multi-disciplinary health research",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "MacLeod et al. [54] used the Modified Consumer Assessment of Healthcare Providers and Systems survey to assess patient dissatisfaction in areas such as general healthcare and doctors.",
+    "refNo": 54,
+    "title": "",
+    "marker_text": "[54]"
+  },
+  {
+    "sentence": "Farin, Ullrich and Nagl [11] used a singleitem measure-\"How would you rate your health?\" to evaluate participant beliefs on their health status.",
+    "refNo": 11,
+    "title": "Health literacy screening instruments for eHealth applications: a systematic review",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Finally, Devraj, Herndon and Griffin [12] developed a 12-item survey based on pre-existing pain guidelines and literature to assess the pain awareness and medication knowledge of their participants, in line with broader health education literacy measurement approaches ref [13].",
+    "refNo": 12,
+    "title": "Health literacy instrument in family medicine: the 'newest vital sign' ease of use and correlates",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Finally, Devraj, Herndon and Griffin [12] developed a 12-item survey based on pre-existing pain guidelines and literature to assess the pain awareness and medication knowledge of their participants, in line with broader health education literacy measurement approaches ref [13].",
+    "refNo": 13,
+    "title": "Health education literacy in patients with chronic musculoskeletal diseases: development of a new questionnaire and sociodemographic predictors",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Five overarching categories summarising the studied LBP health outcomes were identified via framework method analysis [35,36]: Four studies involved data on resource utilisation ref [17].",
+    "refNo": 35,
+    "title": "Core outcome measurement instruments for clinical trials in nonspecific low back pain",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "Five overarching categories summarising the studied LBP health outcomes were identified via framework method analysis [35,36]: Four studies involved data on resource utilisation ref [17].",
+    "refNo": 36,
+    "title": "The views of older people and carers on participation in clinical trials: the PREDICT Study",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "Five overarching categories summarising the studied LBP health outcomes were identified via framework method analysis [35,36]: Four studies involved data on resource utilisation ref [17].",
+    "refNo": 17,
+    "title": "The impact of inadequate health literacy on patient satisfaction, healthcare utilization, and expenditures among older adults",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "A wide variety of resources were studied, and we broadly grouped these outcomes (Table 5) into utilisation of medications ref [15], utilisation of healthcare appointments (e.g. lumbar spine treatment, physiotherapy) ref [2,3], and healthcare costs (e.g. expenditure, workdays missed) ref [3,4].",
+    "refNo": 15,
+    "title": "Pain awareness and medication knowledge: a health literacy evaluation",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "A wide variety of resources were studied, and we broadly grouped these outcomes (Table 5) into utilisation of medications ref [15], utilisation of healthcare appointments (e.g. lumbar spine treatment, physiotherapy) ref [2,3], and healthcare costs (e.g. expenditure, workdays missed) ref [3,4].",
+    "refNo": 2,
+    "title": "PRISMA extension for scoping reviews (PRISMA-ScR): checklist and explanation",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "A wide variety of resources were studied, and we broadly grouped these outcomes (Table 5) into utilisation of medications ref [15], utilisation of healthcare appointments (e.g. lumbar spine treatment, physiotherapy) ref [2,3], and healthcare costs (e.g. expenditure, workdays missed) ref [3,4].",
+    "refNo": 3,
+    "title": "Scoping studies: advancing the methodology",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "A wide variety of resources were studied, and we broadly grouped these outcomes (Table 5) into utilisation of medications ref [15], utilisation of healthcare appointments (e.g. lumbar spine treatment, physiotherapy) ref [2,3], and healthcare costs (e.g. expenditure, workdays missed) ref [3,4].",
+    "refNo": 3,
+    "title": "Scoping studies: advancing the methodology",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "A wide variety of resources were studied, and we broadly grouped these outcomes (Table 5) into utilisation of medications ref [15], utilisation of healthcare appointments (e.g. lumbar spine treatment, physiotherapy) ref [2,3], and healthcare costs (e.g. expenditure, workdays missed) ref [3,4].",
+    "refNo": 4,
+    "title": "Core outcome domains for clinical trials in non-specific low back pain",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Seven studies involved data on pain [10,12,20,41,47,48,51], using eight different measures (Table 5) (Table 5).",
+    "refNo": 10,
+    "title": "Individuals with chronic low back pain have greater difficulty in engaging in positive lifestyle behaviours than those without back pain: an assessment of health literacy",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Seven studies involved data on pain [10,12,20,41,47,48,51], using eight different measures (Table 5) (Table 5).",
+    "refNo": 12,
+    "title": "Health literacy instrument in family medicine: the 'newest vital sign' ease of use and correlates",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Seven studies involved data on pain [10,12,20,41,47,48,51], using eight different measures (Table 5) (Table 5).",
+    "refNo": 20,
+    "title": "The short-form McGill pain questionnaire",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Seven studies involved data on pain [10,12,20,41,47,48,51], using eight different measures (Table 5) (Table 5).",
+    "refNo": 41,
+    "title": "",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "Seven studies involved data on pain [10,12,20,41,47,48,51], using eight different measures (Table 5) (Table 5).",
+    "refNo": 47,
+    "title": "",
+    "marker_text": "[47]"
+  },
+  {
+    "sentence": "Seven studies involved data on pain [10,12,20,41,47,48,51], using eight different measures (Table 5) (Table 5).",
+    "refNo": 48,
+    "title": "",
+    "marker_text": "[48]"
+  },
+  {
+    "sentence": "Seven studies involved data on pain [10,12,20,41,47,48,51], using eight different measures (Table 5) (Table 5).",
+    "refNo": 51,
+    "title": "",
+    "marker_text": "[51]"
+  },
+  {
+    "sentence": "Pain intensity was also quantified as a sub-component of the Chronic Pain Grading [51], the Short-form McGill Pain Questionnaire [20], the Oswestry Disability Index (ODI) [10,41,47,48], and the Euro-QOL5D [47].",
+    "refNo": 51,
+    "title": "",
+    "marker_text": "[51]"
+  },
+  {
+    "sentence": "Pain intensity was also quantified as a sub-component of the Chronic Pain Grading [51], the Short-form McGill Pain Questionnaire [20], the Oswestry Disability Index (ODI) [10,41,47,48], and the Euro-QOL5D [47].",
+    "refNo": 20,
+    "title": "The short-form McGill pain questionnaire",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Pain intensity was also quantified as a sub-component of the Chronic Pain Grading [51], the Short-form McGill Pain Questionnaire [20], the Oswestry Disability Index (ODI) [10,41,47,48], and the Euro-QOL5D [47].",
+    "refNo": 10,
+    "title": "Individuals with chronic low back pain have greater difficulty in engaging in positive lifestyle behaviours than those without back pain: an assessment of health literacy",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Pain intensity was also quantified as a sub-component of the Chronic Pain Grading [51], the Short-form McGill Pain Questionnaire [20], the Oswestry Disability Index (ODI) [10,41,47,48], and the Euro-QOL5D [47].",
+    "refNo": 41,
+    "title": "",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "Pain intensity was also quantified as a sub-component of the Chronic Pain Grading [51], the Short-form McGill Pain Questionnaire [20], the Oswestry Disability Index (ODI) [10,41,47,48], and the Euro-QOL5D [47].",
+    "refNo": 47,
+    "title": "",
+    "marker_text": "[47]"
+  },
+  {
+    "sentence": "Pain intensity was also quantified as a sub-component of the Chronic Pain Grading [51], the Short-form McGill Pain Questionnaire [20], the Oswestry Disability Index (ODI) [10,41,47,48], and the Euro-QOL5D [47].",
+    "refNo": 48,
+    "title": "",
+    "marker_text": "[48]"
+  },
+  {
+    "sentence": "Pain intensity was also quantified as a sub-component of the Chronic Pain Grading [51], the Short-form McGill Pain Questionnaire [20], the Oswestry Disability Index (ODI) [10,41,47,48], and the Euro-QOL5D [47].",
+    "refNo": 47,
+    "title": "",
+    "marker_text": "[47]"
+  },
+  {
+    "sentence": "In addition, the Short-form McGill Pain Questionnaire assesses the nature of pain ref [20], while other studies looked at pain duration and frequency [10,20].",
+    "refNo": 20,
+    "title": "The short-form McGill pain questionnaire",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "In addition, the Short-form McGill Pain Questionnaire assesses the nature of pain ref [20], while other studies looked at pain duration and frequency [10,20].",
+    "refNo": 10,
+    "title": "Individuals with chronic low back pain have greater difficulty in engaging in positive lifestyle behaviours than those without back pain: an assessment of health literacy",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "In addition, the Short-form McGill Pain Questionnaire assesses the nature of pain ref [20], while other studies looked at pain duration and frequency [10,20].",
+    "refNo": 20,
+    "title": "The short-form McGill pain questionnaire",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Of these, 14 (28%) were deemed to be directly related to those in the COS but were limited to two outcomes \"pain intensity' and \"physical functioning\" ref [4] ( Table 6).",
+    "refNo": 4,
+    "title": "Core outcome domains for clinical trials in non-specific low back pain",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "The Pain Numerical Rating Scale, Pain Visual Analogue Scale, and Shortform McGill Pain Questionnaire directly addressed the core outcome of \"pain intensity\" ref [20], ref [4], while the ODI, Euro-QOL5D, Chronic Pain Grading Scale, and questions on intrusion of daily and recreational activities [10,41] directly addressed the outcome \"physical functioning\" ref [4].",
+    "refNo": 20,
+    "title": "The short-form McGill pain questionnaire",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "The Pain Numerical Rating Scale, Pain Visual Analogue Scale, and Shortform McGill Pain Questionnaire directly addressed the core outcome of \"pain intensity\" ref [20], ref [4], while the ODI, Euro-QOL5D, Chronic Pain Grading Scale, and questions on intrusion of daily and recreational activities [10,41] directly addressed the outcome \"physical functioning\" ref [4].",
+    "refNo": 4,
+    "title": "Core outcome domains for clinical trials in non-specific low back pain",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "The Pain Numerical Rating Scale, Pain Visual Analogue Scale, and Shortform McGill Pain Questionnaire directly addressed the core outcome of \"pain intensity\" ref [20], ref [4], while the ODI, Euro-QOL5D, Chronic Pain Grading Scale, and questions on intrusion of daily and recreational activities [10,41] directly addressed the outcome \"physical functioning\" ref [4].",
+    "refNo": 10,
+    "title": "Individuals with chronic low back pain have greater difficulty in engaging in positive lifestyle behaviours than those without back pain: an assessment of health literacy",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "The Pain Numerical Rating Scale, Pain Visual Analogue Scale, and Shortform McGill Pain Questionnaire directly addressed the core outcome of \"pain intensity\" ref [20], ref [4], while the ODI, Euro-QOL5D, Chronic Pain Grading Scale, and questions on intrusion of daily and recreational activities [10,41] directly addressed the outcome \"physical functioning\" ref [4].",
+    "refNo": 41,
+    "title": "",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "The Pain Numerical Rating Scale, Pain Visual Analogue Scale, and Shortform McGill Pain Questionnaire directly addressed the core outcome of \"pain intensity\" ref [20], ref [4], while the ODI, Euro-QOL5D, Chronic Pain Grading Scale, and questions on intrusion of daily and recreational activities [10,41] directly addressed the outcome \"physical functioning\" ref [4].",
+    "refNo": 4,
+    "title": "Core outcome domains for clinical trials in non-specific low back pain",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "This was because three of the five overarching categories of health outcomes (behaviour, knowledge and beliefs, and resource utilisation) were found to be assessments of the \"impact on physical, psychological and social domains of health\"-i.e. the COS' definition of \"health-related quality of life\" ref [4].",
+    "refNo": 4,
+    "title": "Core outcome domains for clinical trials in non-specific low back pain",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Related constructs such as beliefs and attitudes are also commonly assessed in low back pain research using instruments such as the FABQ and attitude/belief measures ref [21], ref [22], while broader low back pain knowledge has been measured with tools such as the LKQ ref [19].",
+    "refNo": 21,
+    "title": "A Fear-Avoidance Beliefs Questionnaire (FABQ) and the role of fear-avoidance beliefs in chronic low back pain and disability",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Related constructs such as beliefs and attitudes are also commonly assessed in low back pain research using instruments such as the FABQ and attitude/belief measures ref [21], ref [22], while broader low back pain knowledge has been measured with tools such as the LKQ ref [19].",
+    "refNo": 22,
+    "title": "Do attitudes and beliefs influence work loss due to low back trouble",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Related constructs such as beliefs and attitudes are also commonly assessed in low back pain research using instruments such as the FABQ and attitude/belief measures ref [21], ref [22], while broader low back pain knowledge has been measured with tools such as the LKQ ref [19].",
+    "refNo": 19,
+    "title": "The development and validation of a low back pain knowledge questionnaire-LKQ",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Five studies involved data on disability ref [9] ref [10] ref [24] ref [25]. [ [1,3] supplemented the ODI with an assessment of disability by asking participants on the amount of intrusion one faces in daily and recreational activities.",
+    "refNo": 9,
+    "title": "Health literacy and beliefs among a community cohort with and without chronic low back pain",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Five studies involved data on disability ref [9] ref [10] ref [24] ref [25]. [ [1,3] supplemented the ODI with an assessment of disability by asking participants on the amount of intrusion one faces in daily and recreational activities.",
+    "refNo": 10,
+    "title": "Individuals with chronic low back pain have greater difficulty in engaging in positive lifestyle behaviours than those without back pain: an assessment of health literacy",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Five studies involved data on disability ref [9] ref [10] ref [24] ref [25]. [ [1,3] supplemented the ODI with an assessment of disability by asking participants on the amount of intrusion one faces in daily and recreational activities.",
+    "refNo": 24,
+    "title": "Health literacy and fear avoidance beliefs among women with chronic low back pain",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Five studies involved data on disability ref [9] ref [10] ref [24] ref [25]. [ [1,3] supplemented the ODI with an assessment of disability by asking participants on the amount of intrusion one faces in daily and recreational activities.",
+    "refNo": 25,
+    "title": "Health literacy and patient empowerment: separating con-joined twins in the context of chronic low back pain",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Five studies involved data on disability ref [9] ref [10] ref [24] ref [25]. [ [1,3] supplemented the ODI with an assessment of disability by asking participants on the amount of intrusion one faces in daily and recreational activities.",
+    "refNo": 1,
+    "title": "Scoping studies: towards a methodological framework",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Five studies involved data on disability ref [9] ref [10] ref [24] ref [25]. [ [1,3] supplemented the ODI with an assessment of disability by asking participants on the amount of intrusion one faces in daily and recreational activities.",
+    "refNo": 3,
+    "title": "Scoping studies: advancing the methodology",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Lastly, the Chronic Pain Grading Scale also asks about functionality using questions such as \"In the past 3 months, how much has this pain interfered with your daily activities (e.g. getting dressed, doing shopping)\" ref [23].",
+    "refNo": 23,
+    "title": "Health literacy, pain intensity and pain perception in patients with chronic pain",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Five studies collected data on patient behaviours [10,41,48,51,53], involving five forms of health outcome measures ( Table 5).",
+    "refNo": 10,
+    "title": "Individuals with chronic low back pain have greater difficulty in engaging in positive lifestyle behaviours than those without back pain: an assessment of health literacy",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Five studies collected data on patient behaviours [10,41,48,51,53], involving five forms of health outcome measures ( Table 5).",
+    "refNo": 41,
+    "title": "",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "Five studies collected data on patient behaviours [10,41,48,51,53], involving five forms of health outcome measures ( Table 5).",
+    "refNo": 48,
+    "title": "",
+    "marker_text": "[48]"
+  },
+  {
+    "sentence": "Five studies collected data on patient behaviours [10,41,48,51,53], involving five forms of health outcome measures ( Table 5).",
+    "refNo": 51,
+    "title": "",
+    "marker_text": "[51]"
+  },
+  {
+    "sentence": "Five studies collected data on patient behaviours [10,41,48,51,53], involving five forms of health outcome measures ( Table 5).",
+    "refNo": 53,
+    "title": "",
+    "marker_text": "[53]"
+  },
+  {
+    "sentence": "The Fear Avoidance Beliefs Questionnaire was most commonly used [10,41,48], and asks participants how much they think areas of physical activity and work would affect their LBP [60].",
+    "refNo": 10,
+    "title": "Individuals with chronic low back pain have greater difficulty in engaging in positive lifestyle behaviours than those without back pain: an assessment of health literacy",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "The Fear Avoidance Beliefs Questionnaire was most commonly used [10,41,48], and asks participants how much they think areas of physical activity and work would affect their LBP [60].",
+    "refNo": 41,
+    "title": "",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "The Fear Avoidance Beliefs Questionnaire was most commonly used [10,41,48], and asks participants how much they think areas of physical activity and work would affect their LBP [60].",
+    "refNo": 48,
+    "title": "",
+    "marker_text": "[48]"
+  },
+  {
+    "sentence": "The Fear Avoidance Beliefs Questionnaire was most commonly used [10,41,48], and asks participants how much they think areas of physical activity and work would affect their LBP [60].",
+    "refNo": 60,
+    "title": "",
+    "marker_text": "[60]"
+  },
+  {
+    "sentence": "Briggs et al. [10,41] assessed pain catastrophizing with the Coping Skills Questionnaire.",
+    "refNo": 10,
+    "title": "Individuals with chronic low back pain have greater difficulty in engaging in positive lifestyle behaviours than those without back pain: an assessment of health literacy",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Briggs et al. [10,41] assessed pain catastrophizing with the Coping Skills Questionnaire.",
+    "refNo": 41,
+    "title": "",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "Camerini and Schulz [51] assessed patient empowerment and involvement with two scales, the Psychological Empowerment Scale and Modified Patients' Perceived Involvement in Care Scale respectively.",
+    "refNo": 51,
+    "title": "",
+    "marker_text": "[51]"
+  },
+  {
+    "sentence": "Burke, Nahin and Stussman [53] studied the association between HL and health behaviours such as physical activity level and smoking status, within broader conceptualizations of health literacy measurement and screening ref [26], ref [27], ref [28], ref [29], ref [30], ref [31].",
+    "refNo": 53,
+    "title": "",
+    "marker_text": "[53]"
+  },
+  {
+    "sentence": "Burke, Nahin and Stussman [53] studied the association between HL and health behaviours such as physical activity level and smoking status, within broader conceptualizations of health literacy measurement and screening ref [26], ref [27], ref [28], ref [29], ref [30], ref [31].",
+    "refNo": 26,
+    "title": "The meaning and the measure of health literacy",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "Burke, Nahin and Stussman [53] studied the association between HL and health behaviours such as physical activity level and smoking status, within broader conceptualizations of health literacy measurement and screening ref [26], ref [27], ref [28], ref [29], ref [30], ref [31].",
+    "refNo": 27,
+    "title": "The Health Literacy Management Scale (HeLMS): a measure of an individual's capacity to seek, understand and use health information within the healthcare setting",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "Burke, Nahin and Stussman [53] studied the association between HL and health behaviours such as physical activity level and smoking status, within broader conceptualizations of health literacy measurement and screening ref [26], ref [27], ref [28], ref [29], ref [30], ref [31].",
+    "refNo": 28,
+    "title": "Quick assessment of literacy in primary care: the newest vital sign",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Burke, Nahin and Stussman [53] studied the association between HL and health behaviours such as physical activity level and smoking status, within broader conceptualizations of health literacy measurement and screening ref [26], ref [27], ref [28], ref [29], ref [30], ref [31].",
+    "refNo": 29,
+    "title": "BRIEF REPORT: screening items to identify patients with limited health literacy skills",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Burke, Nahin and Stussman [53] studied the association between HL and health behaviours such as physical activity level and smoking status, within broader conceptualizations of health literacy measurement and screening ref [26], ref [27], ref [28], ref [29], ref [30], ref [31].",
+    "refNo": 30,
+    "title": "Health literacy assessment using talking touchscreen technology (Health LiTT): a new item response theory-based measure of health literacy",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "Burke, Nahin and Stussman [53] studied the association between HL and health behaviours such as physical activity level and smoking status, within broader conceptualizations of health literacy measurement and screening ref [26], ref [27], ref [28], ref [29], ref [30], ref [31].",
+    "refNo": 31,
+    "title": "Health literacy: what is it and why is it important to measure?",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "Out of six studies analysing the relation between HL and levels of pain and disability [10,12,20,41,47,48], only two found a significant association, particularly in the area of pain intensity [20,47].",
+    "refNo": 10,
+    "title": "Individuals with chronic low back pain have greater difficulty in engaging in positive lifestyle behaviours than those without back pain: an assessment of health literacy",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Out of six studies analysing the relation between HL and levels of pain and disability [10,12,20,41,47,48], only two found a significant association, particularly in the area of pain intensity [20,47].",
+    "refNo": 12,
+    "title": "Health literacy instrument in family medicine: the 'newest vital sign' ease of use and correlates",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Out of six studies analysing the relation between HL and levels of pain and disability [10,12,20,41,47,48], only two found a significant association, particularly in the area of pain intensity [20,47].",
+    "refNo": 20,
+    "title": "The short-form McGill pain questionnaire",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Out of six studies analysing the relation between HL and levels of pain and disability [10,12,20,41,47,48], only two found a significant association, particularly in the area of pain intensity [20,47].",
+    "refNo": 41,
+    "title": "",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "Out of six studies analysing the relation between HL and levels of pain and disability [10,12,20,41,47,48], only two found a significant association, particularly in the area of pain intensity [20,47].",
+    "refNo": 47,
+    "title": "",
+    "marker_text": "[47]"
+  },
+  {
+    "sentence": "Out of six studies analysing the relation between HL and levels of pain and disability [10,12,20,41,47,48], only two found a significant association, particularly in the area of pain intensity [20,47].",
+    "refNo": 48,
+    "title": "",
+    "marker_text": "[48]"
+  },
+  {
+    "sentence": "Out of six studies analysing the relation between HL and levels of pain and disability [10,12,20,41,47,48], only two found a significant association, particularly in the area of pain intensity [20,47].",
+    "refNo": 20,
+    "title": "The short-form McGill pain questionnaire",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Out of six studies analysing the relation between HL and levels of pain and disability [10,12,20,41,47,48], only two found a significant association, particularly in the area of pain intensity [20,47].",
+    "refNo": 47,
+    "title": "",
+    "marker_text": "[47]"
+  },
+  {
+    "sentence": "On behavioural impact, HL had no significant associations with fear avoidance [10,41], pain catastrophising [10,41], and psychological empowerment [51].",
+    "refNo": 10,
+    "title": "Individuals with chronic low back pain have greater difficulty in engaging in positive lifestyle behaviours than those without back pain: an assessment of health literacy",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "On behavioural impact, HL had no significant associations with fear avoidance [10,41], pain catastrophising [10,41], and psychological empowerment [51].",
+    "refNo": 41,
+    "title": "",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "On behavioural impact, HL had no significant associations with fear avoidance [10,41], pain catastrophising [10,41], and psychological empowerment [51].",
+    "refNo": 10,
+    "title": "Individuals with chronic low back pain have greater difficulty in engaging in positive lifestyle behaviours than those without back pain: an assessment of health literacy",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "On behavioural impact, HL had no significant associations with fear avoidance [10,41], pain catastrophising [10,41], and psychological empowerment [51].",
+    "refNo": 41,
+    "title": "",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "On behavioural impact, HL had no significant associations with fear avoidance [10,41], pain catastrophising [10,41], and psychological empowerment [51].",
+    "refNo": 51,
+    "title": "",
+    "marker_text": "[51]"
+  },
+  {
+    "sentence": "However, patients with low HL scores were found to have a less active lifestyle [53].",
+    "refNo": 53,
+    "title": "",
+    "marker_text": "[53]"
+  },
+  {
+    "sentence": "Considering patient knowledge and beliefs, those with lower HL scores had more difficulty identifying types and sources of treatment for LBP [12] and were more dissatisfied with their care [54] ref [32].",
+    "refNo": 12,
+    "title": "Health literacy instrument in family medicine: the 'newest vital sign' ease of use and correlates",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Considering patient knowledge and beliefs, those with lower HL scores had more difficulty identifying types and sources of treatment for LBP [12] and were more dissatisfied with their care [54] ref [32].",
+    "refNo": 54,
+    "title": "",
+    "marker_text": "[54]"
+  },
+  {
+    "sentence": "Considering patient knowledge and beliefs, those with lower HL scores had more difficulty identifying types and sources of treatment for LBP [12] and were more dissatisfied with their care [54] ref [32].",
+    "refNo": 32,
+    "title": "Health literacy: concept analysis",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "However, no significant association was found between HL and beliefs about one's future with LBP [10,41].",
+    "refNo": 10,
+    "title": "Individuals with chronic low back pain have greater difficulty in engaging in positive lifestyle behaviours than those without back pain: an assessment of health literacy",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "However, no significant association was found between HL and beliefs about one's future with LBP [10,41].",
+    "refNo": 41,
+    "title": "",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "Regarding resource utilisation, it appears that low HL scores were associated with higher utilisation of curative or symptomatic treatment (e.g. emergency room visits), and lower utilisation of preventive medicine (e.g. flu vaccinations) [54] ref [32].",
+    "refNo": 54,
+    "title": "",
+    "marker_text": "[54]"
+  },
+  {
+    "sentence": "Regarding resource utilisation, it appears that low HL scores were associated with higher utilisation of curative or symptomatic treatment (e.g. emergency room visits), and lower utilisation of preventive medicine (e.g. flu vaccinations) [54] ref [32].",
+    "refNo": 32,
+    "title": "Health literacy: concept analysis",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "It is of utmost importance that future research takes these findings into account in curbing the limitations of future research ref [6] ref [5].",
+    "refNo": 6,
+    "title": "Health literacy as a public health goal: a challenge for contemporary health education and communication strategies into the 21st century",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "It is of utmost importance that future research takes these findings into account in curbing the limitations of future research ref [6] ref [5].",
+    "refNo": 5,
+    "title": "Determinants of health literacy and health behavior regarding infectious respiratory diseases: a pathway model",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "We will now discuss our results in the context of the three objectives and the implications for evidence and future research i.e. (1) The health literacy measures currently employed for low back pain and the aspects of health literacy they include ref [9], ref [6]; (2) The low back pain health outcomes included in such work ref [10], ref [25]; (3) The extent to which these health outcomes reflect the Core Outcome Set for Clinical Trials in Non-Specific Low Back Pain.",
+    "refNo": 9,
+    "title": "Health literacy and beliefs among a community cohort with and without chronic low back pain",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "We will now discuss our results in the context of the three objectives and the implications for evidence and future research i.e. (1) The health literacy measures currently employed for low back pain and the aspects of health literacy they include ref [9], ref [6]; (2) The low back pain health outcomes included in such work ref [10], ref [25]; (3) The extent to which these health outcomes reflect the Core Outcome Set for Clinical Trials in Non-Specific Low Back Pain.",
+    "refNo": 6,
+    "title": "Health literacy as a public health goal: a challenge for contemporary health education and communication strategies into the 21st century",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "We will now discuss our results in the context of the three objectives and the implications for evidence and future research i.e. (1) The health literacy measures currently employed for low back pain and the aspects of health literacy they include ref [9], ref [6]; (2) The low back pain health outcomes included in such work ref [10], ref [25]; (3) The extent to which these health outcomes reflect the Core Outcome Set for Clinical Trials in Non-Specific Low Back Pain.",
+    "refNo": 10,
+    "title": "Individuals with chronic low back pain have greater difficulty in engaging in positive lifestyle behaviours than those without back pain: an assessment of health literacy",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "We will now discuss our results in the context of the three objectives and the implications for evidence and future research i.e. (1) The health literacy measures currently employed for low back pain and the aspects of health literacy they include ref [9], ref [6]; (2) The low back pain health outcomes included in such work ref [10], ref [25]; (3) The extent to which these health outcomes reflect the Core Outcome Set for Clinical Trials in Non-Specific Low Back Pain.",
+    "refNo": 25,
+    "title": "Health literacy and patient empowerment: separating con-joined twins in the context of chronic low back pain",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "By including studies on all forms of LBP health outcomes associated with HL, this review was able to build on the work of Edward et al. ref [9], ref [24], ref [25].",
+    "refNo": 9,
+    "title": "Health literacy and beliefs among a community cohort with and without chronic low back pain",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "By including studies on all forms of LBP health outcomes associated with HL, this review was able to build on the work of Edward et al. ref [9], ref [24], ref [25].",
+    "refNo": 24,
+    "title": "Health literacy and fear avoidance beliefs among women with chronic low back pain",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "By including studies on all forms of LBP health outcomes associated with HL, this review was able to build on the work of Edward et al. ref [9], ref [24], ref [25].",
+    "refNo": 25,
+    "title": "Health literacy and patient empowerment: separating con-joined twins in the context of chronic low back pain",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "This hampered the comparison of results across studies and the development of a comprehensive evidence-base despite the development of the COS [22] and core outcome measurement instrument recommendations for nonspecific LBP trials ref [5].",
+    "refNo": 22,
+    "title": "Do attitudes and beliefs influence work loss due to low back trouble",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "This hampered the comparison of results across studies and the development of a comprehensive evidence-base despite the development of the COS [22] and core outcome measurement instrument recommendations for nonspecific LBP trials ref [5].",
+    "refNo": 5,
+    "title": "Determinants of health literacy and health behavior regarding infectious respiratory diseases: a pathway model",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Despite expanding the search and using a more open search criteria, this study only included seven studies in addition to those in the systematic review by Edward et al. [27].",
+    "refNo": 27,
+    "title": "The Health Literacy Management Scale (HeLMS): a measure of an individual's capacity to seek, understand and use health information within the healthcare setting",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "Most health outcomes evaluated by the included studies did not seek to directly satisfy the Core Outcome Set for Clinical Trials in Non-Specific LBP ref [33].",
+    "refNo": 33,
+    "title": "Risk factors and disability associated with low back pain in older adults in low-and middle-income countries. Results from the WHO Study on Global AGEing and Adult Health (SAGE)",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "To allow for comparison across findings and the development of a rigorous evidence base, future work should seek to address the Core Outcome Set for Clinical Trials in Non-Specific LBP ref [33] and associated core outcome measurement instruments ref [5].",
+    "refNo": 33,
+    "title": "Risk factors and disability associated with low back pain in older adults in low-and middle-income countries. Results from the WHO Study on Global AGEing and Adult Health (SAGE)",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "To allow for comparison across findings and the development of a rigorous evidence base, future work should seek to address the Core Outcome Set for Clinical Trials in Non-Specific LBP ref [33] and associated core outcome measurement instruments ref [5].",
+    "refNo": 5,
+    "title": "Determinants of health literacy and health behavior regarding infectious respiratory diseases: a pathway model",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Furthermore, research thus far has focused on a narrow range of populations and there is an urgent need to broaden the evidence-base to include those where LBP morbidity is high, but data is lacking ref [3, 4].",
+    "refNo": 3,
+    "title": "Scoping studies: advancing the methodology",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Furthermore, research thus far has focused on a narrow range of populations and there is an urgent need to broaden the evidence-base to include those where LBP morbidity is high, but data is lacking ref [3, 4].",
+    "refNo": 4,
+    "title": "Core outcome domains for clinical trials in non-specific low back pain",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "As noted above, this is especially so in LMICs ref [3, 4].",
+    "refNo": 3,
+    "title": "Scoping studies: advancing the methodology",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "As noted above, this is especially so in LMICs ref [3, 4].",
+    "refNo": 4,
+    "title": "Core outcome domains for clinical trials in non-specific low back pain",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "This suggests a divergence of opinions on what is deemed as a key health outcome for people with LBP ref [3], ref [37].",
+    "refNo": 3,
+    "title": "Scoping studies: advancing the methodology",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "This suggests a divergence of opinions on what is deemed as a key health outcome for people with LBP ref [3], ref [37].",
+    "refNo": 37,
+    "title": "The impact of patient involvement in research: a case study of the planning, conduct and dissemination of a clinical, controlled trial",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "This is concerning given that development of the COS incorporated a comprehensive range of views via a Delphi process with patients, care providers and researchers, a review by panellists who had published extensively on LBP, and by a four-continent International Steering Committee ref [39], ref [7], ref [8], ref [36].",
+    "refNo": 39,
+    "title": "Perspectives on public involvement in health research from Singapore: the potential of a supported group model of involvement",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "This is concerning given that development of the COS incorporated a comprehensive range of views via a Delphi process with patients, care providers and researchers, a review by panellists who had published extensively on LBP, and by a four-continent International Steering Committee ref [39], ref [7], ref [8], ref [36].",
+    "refNo": 7,
+    "title": "Understanding critical health literacy: a concept analysis",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "This is concerning given that development of the COS incorporated a comprehensive range of views via a Delphi process with patients, care providers and researchers, a review by panellists who had published extensively on LBP, and by a four-continent International Steering Committee ref [39], ref [7], ref [8], ref [36].",
+    "refNo": 8,
+    "title": "Community-based initiatives improving critical health literacy: a systematic review and meta-synthesis of qualitative evidence",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "This is concerning given that development of the COS incorporated a comprehensive range of views via a Delphi process with patients, care providers and researchers, a review by panellists who had published extensively on LBP, and by a four-continent International Steering Committee ref [39], ref [7], ref [8], ref [36].",
+    "refNo": 36,
+    "title": "The views of older people and carers on participation in clinical trials: the PREDICT Study",
+    "marker_text": "[36]"
+  }
+]

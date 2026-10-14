@@ -1,0 +1,1286 @@
+[
+  {
+    "sentence": "This distinction is important for biomedical interpretation because their effects arise from pleiotropic exposure patterns, mixture effects, and structure-dependent bioactivity rather than from essentiality in the nutritional sense ref [33].",
+    "refNo": 33,
+    "title": "Drug discovery in the age of systems biology: the rise of computational approaches for data integration.",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "Natural products occupy broad and densely populated regions of chemical space characterized by high stereochemical complexity, scaffold diversity, varied oxidation states, and rich functional-group content, properties that help explain the wide range of biological targets associated with plant-derived compounds ref [33].",
+    "refNo": 33,
+    "title": "Drug discovery in the age of systems biology: the rise of computational approaches for data integration.",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "Such multidimensional classification is preferable to purely food-based labeling because structurally related compounds may occur across many botanical sources and exhibit overlapping yet non-identical biomedical profiles ref [33].",
+    "refNo": 33,
+    "title": "Drug discovery in the age of systems biology: the rise of computational approaches for data integration.",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "Accordingly, this review treats phytonutrients as a structure-informed and source-aware category: one that links natural product diversity in plants to recurrent human exposure through foods and functional ingredients, thereby providing the conceptual basis for subsequent discussion of mechanisms and health effects ref [33].",
+    "refNo": 33,
+    "title": "Drug discovery in the age of systems biology: the rise of computational approaches for data integration.",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "Contemporary computational pharmacology reinforces the importance of structure-centered categorization, as chemogenomic and machine-learning frameworks infer compound behavior primarily from molecular descriptors, similarity patterns, and target interaction profiles rather than from dietary labels alone ref [2], ref [6], ref [9].",
+    "refNo": 2,
+    "title": "Identifying drug-target interactions based on graph convolutional network and deep neural network",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Contemporary computational pharmacology reinforces the importance of structure-centered categorization, as chemogenomic and machine-learning frameworks infer compound behavior primarily from molecular descriptors, similarity patterns, and target interaction profiles rather than from dietary labels alone ref [2], ref [6], ref [9].",
+    "refNo": 6,
+    "title": "Computational prediction of drug-target interactions using chemogenomic approaches: an empirical survey",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Contemporary computational pharmacology reinforces the importance of structure-centered categorization, as chemogenomic and machine-learning frameworks infer compound behavior primarily from molecular descriptors, similarity patterns, and target interaction profiles rather than from dietary labels alone ref [2], ref [6], ref [9].",
+    "refNo": 9,
+    "title": "Machine Learning for Drug-Target Interaction Prediction",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Studies on covalent inhibitor design underscore how specific reactive warheads and steric environments govern target engagement, while homology-modeling and binding free-energy approaches further show that subtle differences in molecular architecture can translate into distinct binding modes and potencies ref [3], ref [5], ref [7].",
+    "refNo": 3,
+    "title": "Homology modeling in drug discovery: Overview, current applications, and future perspectives",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Studies on covalent inhibitor design underscore how specific reactive warheads and steric environments govern target engagement, while homology-modeling and binding free-energy approaches further show that subtle differences in molecular architecture can translate into distinct binding modes and potencies ref [3], ref [5], ref [7].",
+    "refNo": 5,
+    "title": "Covalent inhibitors design and discovery.",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Studies on covalent inhibitor design underscore how specific reactive warheads and steric environments govern target engagement, while homology-modeling and binding free-energy approaches further show that subtle differences in molecular architecture can translate into distinct binding modes and potencies ref [3], ref [5], ref [7].",
+    "refNo": 7,
+    "title": "Large-Scale Assessment of Binding Free Energy Calculations in Active Drug Discovery Projects",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Delivery-related considerations, such as solid-state behavior and matrix effects, can strongly influence apparent activity, particularly for poorly soluble lipophilic phytochemicals ref [8].",
+    "refNo": 8,
+    "title": "Amorphous Solid Dispersions: Utilization and Challenges in Drug Discovery and Development.",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "More broadly, computational association methods that connect compounds, targets, and disease phenotypes highlight why source-based grouping should be interpreted together with chemical classification when evaluating the translational significance of dietary phytonutrients ref [4], ref [6].",
+    "refNo": 4,
+    "title": "Predicting drug-disease associations by using similarity constrained matrix factorization",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "More broadly, computational association methods that connect compounds, targets, and disease phenotypes highlight why source-based grouping should be interpreted together with chemical classification when evaluating the translational significance of dietary phytonutrients ref [4], ref [6].",
+    "refNo": 6,
+    "title": "Computational prediction of drug-target interactions using chemogenomic approaches: an empirical survey",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Computational analyses of natural products emphasize that structural diversity, stereochemical richness, and scaffold complexity are defining features of plant-derived molecules and are central to modern efforts to systematize them for discovery and translational research ref [17].",
+    "refNo": 17,
+    "title": "Computational polypharmacology: a new paradigm for drug discovery",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "It also clarifies that dietary relevance depends not only on abundance in foods but also on extractability, stability during processing, and the presence of structurally related metabolites that may share targets or transformation pathways in vivo ref [17].",
+    "refNo": 17,
+    "title": "Computational polypharmacology: a new paradigm for drug discovery",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "For a comprehensive review of phytonutrient effects, this approach is valuable because it links dietary exposure to chemoinformatic descriptors, target prediction, and prioritization of bioactive candidates, thereby strengthening the conceptual basis for comparing heterogeneous phytochemical classes within a unified survey framework ref [17].",
+    "refNo": 17,
+    "title": "Computational polypharmacology: a new paradigm for drug discovery",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "This systems-oriented perspective is especially relevant because many phytochemicals exhibit pleiotropic and multi-target behavior rather than single-enzyme specificity, a property conceptually aligned with computational polypharmacology and chemogenomic frameworks developed in drug discovery ref [15], ref [17].",
+    "refNo": 15,
+    "title": "Drug–target interaction prediction via chemogenomic space: learning-based methods",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "This systems-oriented perspective is especially relevant because many phytochemicals exhibit pleiotropic and multi-target behavior rather than single-enzyme specificity, a property conceptually aligned with computational polypharmacology and chemogenomic frameworks developed in drug discovery ref [15], ref [17].",
+    "refNo": 17,
+    "title": "Computational polypharmacology: a new paradigm for drug discovery",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Learning-based chemogenomic models, active learning strategies, and molecular electrostatic potential analyses illustrate how subtle differences in conformation and surface chemistry can separate closely related small molecules into distinct bioactivity clusters ref [16], ref [18].",
+    "refNo": 16,
+    "title": "Accurate conformation‐dependent molecular electrostatic potentials for high‐throughput in silico drug discovery",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Learning-based chemogenomic models, active learning strategies, and molecular electrostatic potential analyses illustrate how subtle differences in conformation and surface chemistry can separate closely related small molecules into distinct bioactivity clusters ref [16], ref [18].",
+    "refNo": 18,
+    "title": "Active learning for computational chemogenomics.",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Pharmacokinetic modeling is therefore important when interpreting food sources, since matrix effects and metabolism can modulate effective exposure to bioactive phytochemicals ref [11].",
+    "refNo": 11,
+    "title": "Genetic programming for computational pharmacokinetics in drug discovery and development",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "At a broader translational level, similarity-based repositioning methods and comparative machine-learning pipelines underscore the value of integrating chemical, phenotypic, and target-level information when prioritizing compounds for biological interpretation ref [12], ref [13].",
+    "refNo": 12,
+    "title": "A new method for computational drug repositioning using drug pairwise similarity",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "At a broader translational level, similarity-based repositioning methods and comparative machine-learning pipelines underscore the value of integrating chemical, phenotypic, and target-level information when prioritizing compounds for biological interpretation ref [12], ref [13].",
+    "refNo": 13,
+    "title": "Comparing and Validating Machine Learning Models for Mycobacterium tuberculosis Drug Discovery.",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "High-throughput phenotyping also highlights the need for standardized, portable frameworks to connect dietary exposure with measurable physiological signatures ref [14].",
+    "refNo": 14,
+    "title": "Clinical phenotyping in selected national networks: demonstrating the need for high-throughput, portable, and computational methods",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "In this sense, motifs such as phenolic hydroxylation, methoxylation, glycosylation, prenylation, lactone rings, and nitrogen-containing heterocycles provide a chemically grounded framework for organizing dietary phytochemicals across fruits, vegetables, legumes, herbs, spices, and specialized functional ingredients [10].",
+    "refNo": 10,
+    "title": "Informatics and Computational Methods in Natural Product Drug Discovery: A Review and Perspectives",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Applied to nutrition, the same logic clarifies why food sources often contain clusters of related metabolites rather than isolated compounds, and why culinary plants can simultaneously deliver multiple phytonutrient classes with overlapping or complementary biological potential [12].",
+    "refNo": 12,
+    "title": "A new method for computational drug repositioning using drug pairwise similarity",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Such a structure-informed classification strengthens subsequent interpretation of biomedical effects by linking food sources to phytochemical repertoires and by highlighting that health relevance often emerges from mixtures of related substructures rather than single compounds alone [10], [12].",
+    "refNo": 10,
+    "title": "Informatics and Computational Methods in Natural Product Drug Discovery: A Review and Perspectives",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Such a structure-informed classification strengthens subsequent interpretation of biomedical effects by linking food sources to phytochemical repertoires and by highlighting that health relevance often emerges from mixtures of related substructures rather than single compounds alone [10], [12].",
+    "refNo": 12,
+    "title": "A new method for computational drug repositioning using drug pairwise similarity",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Chemical biology frameworks for mechanism-of-action analysis therefore emphasize complementary strategies such as affinity-based capture, phenotypic profiling, genetic perturbation, and orthogonal biochemical validation to distinguish primary targets from downstream consequences ref [11], ref [35].",
+    "refNo": 11,
+    "title": "Genetic programming for computational pharmacokinetics in drug discovery and development",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Chemical biology frameworks for mechanism-of-action analysis therefore emphasize complementary strategies such as affinity-based capture, phenotypic profiling, genetic perturbation, and orthogonal biochemical validation to distinguish primary targets from downstream consequences ref [11], ref [35].",
+    "refNo": 35,
+    "title": "Computational methods for drug design and discovery: focus on China",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "Analyses of natural-product chemical space further show that scaffold diversity and physicochemical complexity can expand target coverage beyond that of many synthetic libraries, providing a mechanistic basis for pleiotropic biological responses observed with diverse phytochemical classes ref [33], ref [11].",
+    "refNo": 33,
+    "title": "Drug discovery in the age of systems biology: the rise of computational approaches for data integration.",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "Analyses of natural-product chemical space further show that scaffold diversity and physicochemical complexity can expand target coverage beyond that of many synthetic libraries, providing a mechanistic basis for pleiotropic biological responses observed with diverse phytochemical classes ref [33], ref [11].",
+    "refNo": 11,
+    "title": "Genetic programming for computational pharmacokinetics in drug discovery and development",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "In silico pharmacology integrates ligand similarity, chemogenomic inference, network models, and target prediction to prioritize candidate protein interactions before experimental testing, whereas broader computational pipelines support mechanism annotation across multitarget systems ref [29], ref [35].",
+    "refNo": 29,
+    "title": "Network-based drug discovery by integrating systems biology and computational technologies",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "In silico pharmacology integrates ligand similarity, chemogenomic inference, network models, and target prediction to prioritize candidate protein interactions before experimental testing, whereas broader computational pipelines support mechanism annotation across multitarget systems ref [29], ref [35].",
+    "refNo": 35,
+    "title": "Computational methods for drug design and discovery: focus on China",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "For phytonutrients, these approaches are particularly valuable for anticipating polypharmacology, off-target liabilities, and synergistic pathway modulation, thereby improving mechanistic interpretation of how structurally related phytochemicals can produce overlapping yet non-identical biological effects ref [29], ref [33], ref [11].",
+    "refNo": 29,
+    "title": "Network-based drug discovery by integrating systems biology and computational technologies",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "For phytonutrients, these approaches are particularly valuable for anticipating polypharmacology, off-target liabilities, and synergistic pathway modulation, thereby improving mechanistic interpretation of how structurally related phytochemicals can produce overlapping yet non-identical biological effects ref [29], ref [33], ref [11].",
+    "refNo": 33,
+    "title": "Drug discovery in the age of systems biology: the rise of computational approaches for data integration.",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "For phytonutrients, these approaches are particularly valuable for anticipating polypharmacology, off-target liabilities, and synergistic pathway modulation, thereby improving mechanistic interpretation of how structurally related phytochemicals can produce overlapping yet non-identical biological effects ref [29], ref [33], ref [11].",
+    "refNo": 11,
+    "title": "Genetic programming for computational pharmacokinetics in drug discovery and development",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Solute carrier (SLC) transporters shape cellular uptake of structurally diverse small molecules and can therefore influence intracellular exposure, tissue selectivity, and competition with endogenous metabolites or xenobiotics ref [26].",
+    "refNo": 26,
+    "title": "Computational methods and tools to predict cytochrome P450 metabolism for drug discovery",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "In parallel, cytochrome P450-mediated biotransformation may either inactivate parent compounds or generate metabolites with altered redox, signaling, or receptor-binding properties, making metabolism a central determinant of both efficacy and context-dependent response ref [36].",
+    "refNo": 36,
+    "title": "The future of crystallography in drug discovery",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "Many phytonutrients display moderate affinity across multiple proteins rather than highly selective single-target behavior, a pattern consistent with broader principles of molecular promiscuity in drug discovery ref [37].",
+    "refNo": 37,
+    "title": "Application of computational methods for anticancer drug discovery, design, and optimization",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "Such polypharmacology can be beneficial when coordinated modulation of inflammatory, metabolic, and stress-response nodes is desirable, but it also complicates mechanistic attribution because observed phenotypes may emerge from convergent weak interactions rather than one dominant target ref [29], ref [37].",
+    "refNo": 29,
+    "title": "Network-based drug discovery by integrating systems biology and computational technologies",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Such polypharmacology can be beneficial when coordinated modulation of inflammatory, metabolic, and stress-response nodes is desirable, but it also complicates mechanistic attribution because observed phenotypes may emerge from convergent weak interactions rather than one dominant target ref [29], ref [37].",
+    "refNo": 37,
+    "title": "Application of computational methods for anticancer drug discovery, design, and optimization",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "Systems-level modeling is therefore valuable for integrating transporter activity, metabolism, and network propagation when mapping phytochemical effects onto biological pathways ref [29].",
+    "refNo": 29,
+    "title": "Network-based drug discovery by integrating systems biology and computational technologies",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "If a phytonutrient alters pharmacokinetic handling through transporters or CYP enzymes, or modifies the same downstream pathway as a therapeutic agent, the final outcome may be additive, synergistic, or antagonistic ref [26], ref [36], ref [40].",
+    "refNo": 26,
+    "title": "Computational methods and tools to predict cytochrome P450 metabolism for drug discovery",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "If a phytonutrient alters pharmacokinetic handling through transporters or CYP enzymes, or modifies the same downstream pathway as a therapeutic agent, the final outcome may be additive, synergistic, or antagonistic ref [26], ref [36], ref [40].",
+    "refNo": 36,
+    "title": "The future of crystallography in drug discovery",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "If a phytonutrient alters pharmacokinetic handling through transporters or CYP enzymes, or modifies the same downstream pathway as a therapeutic agent, the final outcome may be additive, synergistic, or antagonistic ref [26], ref [36], ref [40].",
+    "refNo": 40,
+    "title": "Cogena, a novel tool for co-expressed gene-set enrichment analysis, applied to drug repositioning and drug mode of action discovery",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "Pharmacodynamic interactions are especially relevant for pathways with threshold behavior, such as oxidative stress responses, vascular tone, or inflammatory signaling, where small shifts in pathway activity can produce disproportionate biological effects ref [40].",
+    "refNo": 40,
+    "title": "Cogena, a novel tool for co-expressed gene-set enrichment analysis, applied to drug repositioning and drug mode of action discovery",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "Network-based and data-integration approaches indicate that small molecules derived from natural products can modulate interconnected signaling modules, including redox regulation, inflammatory cascades, stress adaptation, and metabolic control, thereby producing context-dependent outcomes across tissues and disease states ref [21], ref [39].",
+    "refNo": 21,
+    "title": "Target identification and mechanism of action in chemical biology and drug discovery.",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Network-based and data-integration approaches indicate that small molecules derived from natural products can modulate interconnected signaling modules, including redox regulation, inflammatory cascades, stress adaptation, and metabolic control, thereby producing context-dependent outcomes across tissues and disease states ref [21], ref [39].",
+    "refNo": 39,
+    "title": "Advanced Systems Biology Methods in Drug Discovery and Translational Biomedicine",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "Reviews of natural-product informatics emphasize the value of chemoinformatics, molecular docking, systems pharmacology, and multi-omics integration for linking phytochemical structure to probable protein targets and downstream phenotypes ref [17].",
+    "refNo": 17,
+    "title": "Computational polypharmacology: a new paradigm for drug discovery",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Reverse-docking methods further support mechanism discovery by screening one compound against many candidate proteins, which is especially relevant for promiscuous or multitarget phytonutrients whose anti-inflammatory or cytoprotective actions may arise from coordinated engagement of several enzymes and receptors ref [26].",
+    "refNo": 26,
+    "title": "Computational methods and tools to predict cytochrome P450 metabolism for drug discovery",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "For example, structure-guided analyses of TLR4-targeting therapeutics illustrate how computational modeling can resolve interactions with a central innate-immune receptor governing NF-kB-driven inflammatory signaling, a pathway frequently implicated in the action of plant-derived anti-inflammatory compounds ref [35].",
+    "refNo": 35,
+    "title": "Computational methods for drug design and discovery: focus on China",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "At the same time, mechanistic interpretation must incorporate biotransformation, because metabolic conversion can activate, inactivate, or redirect phytochemical signaling; drug-metabolism frameworks therefore remain essential for understanding exposure, metabolite formation, and toxicity liabilities in preclinical evaluation ref [31].",
+    "refNo": 31,
+    "title": "Drug Metabolism in Preclinical Drug Development: A Survey of the Discovery Process, Toxicology, and Computational Tools.",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "Together, systems biology and computational pharmacology provide a mechanistic bridge between phytochemical chemistry and biological pathway modulation ref [17], ref [21], ref [39].",
+    "refNo": 17,
+    "title": "Computational polypharmacology: a new paradigm for drug discovery",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Together, systems biology and computational pharmacology provide a mechanistic bridge between phytochemical chemistry and biological pathway modulation ref [17], ref [21], ref [39].",
+    "refNo": 21,
+    "title": "Target identification and mechanism of action in chemical biology and drug discovery.",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Together, systems biology and computational pharmacology provide a mechanistic bridge between phytochemical chemistry and biological pathway modulation ref [17], ref [21], ref [39].",
+    "refNo": 39,
+    "title": "Advanced Systems Biology Methods in Drug Discovery and Translational Biomedicine",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "In this context, learning-based target prediction, chemogenomic space analysis, and computational polypharmacology help explain why one phytonutrient can simultaneously influence redox enzymes, inflammatory mediators, and metabolic regulators ref [15], ref [17], ref [35].",
+    "refNo": 15,
+    "title": "Drug–target interaction prediction via chemogenomic space: learning-based methods",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "In this context, learning-based target prediction, chemogenomic space analysis, and computational polypharmacology help explain why one phytonutrient can simultaneously influence redox enzymes, inflammatory mediators, and metabolic regulators ref [15], ref [17], ref [35].",
+    "refNo": 17,
+    "title": "Computational polypharmacology: a new paradigm for drug discovery",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "In this context, learning-based target prediction, chemogenomic space analysis, and computational polypharmacology help explain why one phytonutrient can simultaneously influence redox enzymes, inflammatory mediators, and metabolic regulators ref [15], ref [17], ref [35].",
+    "refNo": 35,
+    "title": "Computational methods for drug design and discovery: focus on China",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "Similarity-based repositioning and machine-learning validation studies illustrate how compound class, molecular descriptors, and training set composition affect inferred mechanism and predicted efficacy, an issue directly relevant to heterogeneous phytochemical scaffolds ref [12], ref [13], ref [36], ref [12].",
+    "refNo": 12,
+    "title": "A new method for computational drug repositioning using drug pairwise similarity",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Similarity-based repositioning and machine-learning validation studies illustrate how compound class, molecular descriptors, and training set composition affect inferred mechanism and predicted efficacy, an issue directly relevant to heterogeneous phytochemical scaffolds ref [12], ref [13], ref [36], ref [12].",
+    "refNo": 13,
+    "title": "Comparing and Validating Machine Learning Models for Mycobacterium tuberculosis Drug Discovery.",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Similarity-based repositioning and machine-learning validation studies illustrate how compound class, molecular descriptors, and training set composition affect inferred mechanism and predicted efficacy, an issue directly relevant to heterogeneous phytochemical scaffolds ref [12], ref [13], ref [36], ref [12].",
+    "refNo": 36,
+    "title": "The future of crystallography in drug discovery",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "Similarity-based repositioning and machine-learning validation studies illustrate how compound class, molecular descriptors, and training set composition affect inferred mechanism and predicted efficacy, an issue directly relevant to heterogeneous phytochemical scaffolds ref [12], ref [13], ref [36], ref [12].",
+    "refNo": 12,
+    "title": "A new method for computational drug repositioning using drug pairwise similarity",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Structural biology further strengthens mechanistic interpretation by linking ligand conformation and electrostatic properties to binding selectivity, while crystallographic methods remain central for resolving target pockets and allosteric sites involved in pathway regulation ref [16], ref [37].",
+    "refNo": 16,
+    "title": "Accurate conformation‐dependent molecular electrostatic potentials for high‐throughput in silico drug discovery",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Structural biology further strengthens mechanistic interpretation by linking ligand conformation and electrostatic properties to binding selectivity, while crystallographic methods remain central for resolving target pockets and allosteric sites involved in pathway regulation ref [16], ref [37].",
+    "refNo": 37,
+    "title": "Application of computational methods for anticancer drug discovery, design, and optimization",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "At a systems level, computational pharmacokinetics and high-throughput clinical phenotyping are important because the biological effects of phytonutrients depend not only on intrinsic target affinity, but also on exposure, biotransformation, tissue distribution, and patient-specific phenotypes ref [11], ref [14].",
+    "refNo": 11,
+    "title": "Genetic programming for computational pharmacokinetics in drug discovery and development",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "At a systems level, computational pharmacokinetics and high-throughput clinical phenotyping are important because the biological effects of phytonutrients depend not only on intrinsic target affinity, but also on exposure, biotransformation, tissue distribution, and patient-specific phenotypes ref [11], ref [14].",
+    "refNo": 14,
+    "title": "Clinical phenotyping in selected national networks: demonstrating the need for high-throughput, portable, and computational methods",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Together, these approaches support a more integrated view in which phytonutrient activity emerges from dynamic interactions among molecular structure, target networks, and host variability, thereby refining mechanistic hypotheses for both preventive nutrition and phytochemical-based therapeutic development ref [35], ref [12].",
+    "refNo": 35,
+    "title": "Computational methods for drug design and discovery: focus on China",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "Together, these approaches support a more integrated view in which phytonutrient activity emerges from dynamic interactions among molecular structure, target networks, and host variability, thereby refining mechanistic hypotheses for both preventive nutrition and phytochemical-based therapeutic development ref [35], ref [12].",
+    "refNo": 12,
+    "title": "A new method for computational drug repositioning using drug pairwise similarity",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Computational polypharmacology provides a useful framework for mapping these multi-target interactions and for relating chemical features of plant-derived molecules to pathway-level phenotypes, thereby helping to explain both synergistic benefits and off-target liabilities ref [13], ref [33], ref [39].",
+    "refNo": 13,
+    "title": "Comparing and Validating Machine Learning Models for Mycobacterium tuberculosis Drug Discovery.",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Computational polypharmacology provides a useful framework for mapping these multi-target interactions and for relating chemical features of plant-derived molecules to pathway-level phenotypes, thereby helping to explain both synergistic benefits and off-target liabilities ref [13], ref [33], ref [39].",
+    "refNo": 33,
+    "title": "Drug discovery in the age of systems biology: the rise of computational approaches for data integration.",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "Computational polypharmacology provides a useful framework for mapping these multi-target interactions and for relating chemical features of plant-derived molecules to pathway-level phenotypes, thereby helping to explain both synergistic benefits and off-target liabilities ref [13], ref [33], ref [39].",
+    "refNo": 39,
+    "title": "Advanced Systems Biology Methods in Drug Discovery and Translational Biomedicine",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "Advanced systems biology methods integrate transcriptomic, proteomic, and interaction-network data to infer how compounds reshape biological states rather than isolated targets, which is well suited to complex botanical mixtures and structurally promiscuous phytochemicals ref [21].",
+    "refNo": 21,
+    "title": "Target identification and mechanism of action in chemical biology and drug discovery.",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Co-expressed gene-set enrichment approaches further enable extraction of mode-of-action signatures from expression data, allowing investigators to connect phytonutrient-induced transcriptional programs with specific biological pathways and candidate therapeutic contexts ref [23].",
+    "refNo": 23,
+    "title": "Computational approaches in target identification and drug discovery",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Structure-based computational chemical biology can prioritize plausible protein partners, while polypharmacology platforms can compare compound-proteome interaction profiles across diseases and phenotypes ref [39], ref [33].",
+    "refNo": 39,
+    "title": "Advanced Systems Biology Methods in Drug Discovery and Translational Biomedicine",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "Structure-based computational chemical biology can prioritize plausible protein partners, while polypharmacology platforms can compare compound-proteome interaction profiles across diseases and phenotypes ref [39], ref [33].",
+    "refNo": 33,
+    "title": "Drug discovery in the age of systems biology: the rise of computational approaches for data integration.",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "Together, these approaches support a more predictive framework for phytonutrient research, in which beneficial activity is understood as network reprogramming across interconnected pathways rather than as simple one-target pharmacology ref [13], ref [21], ref [23].",
+    "refNo": 13,
+    "title": "Comparing and Validating Machine Learning Models for Mycobacterium tuberculosis Drug Discovery.",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Together, these approaches support a more predictive framework for phytonutrient research, in which beneficial activity is understood as network reprogramming across interconnected pathways rather than as simple one-target pharmacology ref [13], ref [21], ref [23].",
+    "refNo": 21,
+    "title": "Target identification and mechanism of action in chemical biology and drug discovery.",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Together, these approaches support a more predictive framework for phytonutrient research, in which beneficial activity is understood as network reprogramming across interconnected pathways rather than as simple one-target pharmacology ref [13], ref [21], ref [23].",
+    "refNo": 23,
+    "title": "Computational approaches in target identification and drug discovery",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "In practice, docking, virtual screening, and broader computer-aided drug discovery pipelines are used to prioritize phytochemicals for experimental testing against enzymes, receptors, and signaling proteins implicated in chronic disease biology ref [44], ref [47], ref [48], ref [49].",
+    "refNo": 44,
+    "title": "Docking and scoring in virtual screening for drug discovery: methods and applications",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "In practice, docking, virtual screening, and broader computer-aided drug discovery pipelines are used to prioritize phytochemicals for experimental testing against enzymes, receptors, and signaling proteins implicated in chronic disease biology ref [44], ref [47], ref [48], ref [49].",
+    "refNo": 47,
+    "title": "Molecular Docking and Structure-Based Drug Design Strategies",
+    "marker_text": "[47]"
+  },
+  {
+    "sentence": "In practice, docking, virtual screening, and broader computer-aided drug discovery pipelines are used to prioritize phytochemicals for experimental testing against enzymes, receptors, and signaling proteins implicated in chronic disease biology ref [44], ref [47], ref [48], ref [49].",
+    "refNo": 48,
+    "title": "Computational Methods in Drug Discovery",
+    "marker_text": "[48]"
+  },
+  {
+    "sentence": "In practice, docking, virtual screening, and broader computer-aided drug discovery pipelines are used to prioritize phytochemicals for experimental testing against enzymes, receptors, and signaling proteins implicated in chronic disease biology ref [44], ref [47], ref [48], ref [49].",
+    "refNo": 49,
+    "title": "The Many Roles of Computation in Drug Discovery",
+    "marker_text": "[49]"
+  },
+  {
+    "sentence": "Tools such as SwissADME and related physicochemical descriptors, including iLOGP-based lipophilicity estimation, support early assessment of oral bioavailability, membrane permeation, and medicinal-chemistry feasibility for small phytochemicals ref [43], ref [12].",
+    "refNo": 43,
+    "title": "SwissADME: a free web tool to evaluate pharmacokinetics, drug-likeness and medicinal chemistry friendliness of small molecules",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "Tools such as SwissADME and related physicochemical descriptors, including iLOGP-based lipophilicity estimation, support early assessment of oral bioavailability, membrane permeation, and medicinal-chemistry feasibility for small phytochemicals ref [43], ref [12].",
+    "refNo": 12,
+    "title": "A new method for computational drug repositioning using drug pairwise similarity",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Complementarily, molecular dynamics workflows and parameterization platforms such as SwissParam enable more realistic modeling of ligand–target stability and conformational behavior, which is particularly useful for polyphenols, terpenoids, and other flexible natural products ref [45], ref [51].",
+    "refNo": 45,
+    "title": "SwissParam: A fast force field generation tool for small organic molecules",
+    "marker_text": "[45]"
+  },
+  {
+    "sentence": "Complementarily, molecular dynamics workflows and parameterization platforms such as SwissParam enable more realistic modeling of ligand–target stability and conformational behavior, which is particularly useful for polyphenols, terpenoids, and other flexible natural products ref [45], ref [51].",
+    "refNo": 51,
+    "title": "Role of Molecular Dynamics and Related Methods in Drug Discovery.",
+    "marker_text": "[51]"
+  },
+  {
+    "sentence": "Computational analyses developed for SARS-CoV-2 target mapping and inhibitor discovery show how phytochemical candidates may be screened against viral proteins or host inflammatory pathways, while machine-learning models such as DeepDTA extend this logic by predicting quantitative drug–target binding affinities at scale ref [46], ref [50].",
+    "refNo": 46,
+    "title": "Analysis of therapeutic targets for SARS-CoV-2 and discovery of potential drugs by computational methods",
+    "marker_text": "[46]"
+  },
+  {
+    "sentence": "Computational analyses developed for SARS-CoV-2 target mapping and inhibitor discovery show how phytochemical candidates may be screened against viral proteins or host inflammatory pathways, while machine-learning models such as DeepDTA extend this logic by predicting quantitative drug–target binding affinities at scale ref [46], ref [50].",
+    "refNo": 50,
+    "title": "DeepDTA: deep drug–target binding affinity prediction",
+    "marker_text": "[50]"
+  },
+  {
+    "sentence": "Although these methods do not substitute for mechanistic or clinical evidence, they strengthen hypothesis generation, target prioritization, and translational interpretation of phytonutrient effects across major physiological systems ref [52].",
+    "refNo": 52,
+    "title": "iLOGP: A Simple, Robust, and Efficient Description of n-Octanol/Water Partition Coefficient for Drug Design Using the GB/SA Approach",
+    "marker_text": "[52]"
+  },
+  {
+    "sentence": "Drug–target interaction models based on graph convolutional networks, broader machine-learning pipelines, and chemogenomic surveys now enable prioritization of likely protein targets for complex natural products and their analogues, helping to map anti-inflammatory, antiproliferative, and host-directed activities relevant to chronic disease biology ref [2], ref [55], ref [3].",
+    "refNo": 2,
+    "title": "Identifying drug-target interactions based on graph convolutional network and deep neural network",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Drug–target interaction models based on graph convolutional networks, broader machine-learning pipelines, and chemogenomic surveys now enable prioritization of likely protein targets for complex natural products and their analogues, helping to map anti-inflammatory, antiproliferative, and host-directed activities relevant to chronic disease biology ref [2], ref [55], ref [3].",
+    "refNo": 55,
+    "title": "Structural elucidation of SARS-CoV-2 vital proteins: Computational methods reveal potential drug candidates against main protease, Nsp12 polymerase and Nsp13 helicase",
+    "marker_text": "[55]"
+  },
+  {
+    "sentence": "Drug–target interaction models based on graph convolutional networks, broader machine-learning pipelines, and chemogenomic surveys now enable prioritization of likely protein targets for complex natural products and their analogues, helping to map anti-inflammatory, antiproliferative, and host-directed activities relevant to chronic disease biology ref [2], ref [55], ref [3].",
+    "refNo": 3,
+    "title": "Homology modeling in drug discovery: Overview, current applications, and future perspectives",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "For oncology-focused applications, computational anticancer discovery strategies support the identification of phytochemical scaffolds that may regulate kinases, transcriptional programs, and apoptosis-related proteins, thereby refining hypotheses for adjunctive or preventive use ref [56].",
+    "refNo": 56,
+    "title": "Computational drug repositioning using low-rank matrix approximation and randomized algorithms",
+    "marker_text": "[56]"
+  },
+  {
+    "sentence": "Structure-based methods further expand this translational bridge: homology modeling is valuable when experimental target structures are incomplete, while covalent inhibitor design offers a route to optimize electrophilic natural-product motifs for durable target engagement ref [9], ref [53].",
+    "refNo": 9,
+    "title": "Machine Learning for Drug-Target Interaction Prediction",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Structure-based methods further expand this translational bridge: homology modeling is valuable when experimental target structures are incomplete, while covalent inhibitor design offers a route to optimize electrophilic natural-product motifs for durable target engagement ref [9], ref [53].",
+    "refNo": 53,
+    "title": "Discovering Anti-Cancer Drugs via Computational Methods",
+    "marker_text": "[53]"
+  },
+  {
+    "sentence": "In parallel, active-learning workflows can reduce screening burden by iteratively selecting the most informative compounds, an important advantage when surveying chemically diverse plant metabolites ref [12].",
+    "refNo": 12,
+    "title": "A new method for computational drug repositioning using drug pairwise similarity",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "In infectious-disease settings, computational structural elucidation of SARS-CoV-2 proteins has illustrated how natural-product-like molecules can be screened against main protease, polymerase, and helicase targets, providing a model for rapidly assessing phytonutrient-derived candidates during emerging outbreaks ref [4].",
+    "refNo": 4,
+    "title": "Predicting drug-disease associations by using similarity constrained matrix factorization",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Beyond direct targeting, drug-disease association prediction and computational repositioning frameworks may reveal new therapeutic contexts for known phytochemicals, including combinations or reformulations suited to inflammatory, metabolic, or neoplastic disorders ref [6], ref [11].",
+    "refNo": 6,
+    "title": "Computational prediction of drug-target interactions using chemogenomic approaches: an empirical survey",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Beyond direct targeting, drug-disease association prediction and computational repositioning frameworks may reveal new therapeutic contexts for known phytochemicals, including combinations or reformulations suited to inflammatory, metabolic, or neoplastic disorders ref [6], ref [11].",
+    "refNo": 11,
+    "title": "Genetic programming for computational pharmacokinetics in drug discovery and development",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Informatics pipelines for natural product research help prioritize bioactive phytochemicals, map target networks, and relate multi-component botanical matrices to pathways relevant to tumor initiation, immune dysregulation, and tissue injury, thereby strengthening mechanistic interpretation of observed biomedical effects ref [17].",
+    "refNo": 17,
+    "title": "Computational polypharmacology: a new paradigm for drug discovery",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "In oncology-oriented settings, bioinformatics and computer-aided screening have been used to identify phytochemical candidates acting on proliferation, apoptosis, angiogenesis, and metastatic signaling axes, supporting the view that many phytonutrients exert pleiotropic rather than single-target effects ref [30].",
+    "refNo": 30,
+    "title": "Using reverse docking for target identification and its applications for drug discovery",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "Reverse docking is especially relevant for explaining these broad actions, because it enables hypothesis generation for previously unrecognized protein targets of plant-derived compounds and can reveal convergence on kinases, nuclear receptors, and redox-sensitive enzymes implicated in cancer risk modification and adjunctive therapy ref [26].",
+    "refNo": 26,
+    "title": "Computational methods and tools to predict cytochrome P450 metabolism for drug discovery",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "Such target-deconvolution strategies are valuable when preclinical efficacy is evident but the dominant molecular mediator remains uncertain ref [17], ref [26], ref [30].",
+    "refNo": 17,
+    "title": "Computational polypharmacology: a new paradigm for drug discovery",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Such target-deconvolution strategies are valuable when preclinical efficacy is evident but the dominant molecular mediator remains uncertain ref [17], ref [26], ref [30].",
+    "refNo": 26,
+    "title": "Computational methods and tools to predict cytochrome P450 metabolism for drug discovery",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "Such target-deconvolution strategies are valuable when preclinical efficacy is evident but the dominant molecular mediator remains uncertain ref [17], ref [26], ref [30].",
+    "refNo": 30,
+    "title": "Using reverse docking for target identification and its applications for drug discovery",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "Computational studies centered on TLR4 illustrate how structurally diverse small molecules, including natural-product-inspired scaffolds, may modulate innate immune activation and downstream NF-kB-driven cytokine programs, which are central to cardiometabolic, neurodegenerative, and chronic inflammatory disorders ref [35].",
+    "refNo": 35,
+    "title": "Computational methods for drug design and discovery: focus on China",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "More broadly, natural product informatics supports a network-pharmacology perspective in which phytonutrients may simultaneously influence inflammatory receptors, oxidative-stress pathways, and compensatory survival signaling, helping explain their potential utility in prevention and as adjuncts rather than stand-alone curative agents ref [17], ref [30], ref [35].",
+    "refNo": 17,
+    "title": "Computational polypharmacology: a new paradigm for drug discovery",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "More broadly, natural product informatics supports a network-pharmacology perspective in which phytonutrients may simultaneously influence inflammatory receptors, oxidative-stress pathways, and compensatory survival signaling, helping explain their potential utility in prevention and as adjuncts rather than stand-alone curative agents ref [17], ref [30], ref [35].",
+    "refNo": 30,
+    "title": "Using reverse docking for target identification and its applications for drug discovery",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "More broadly, natural product informatics supports a network-pharmacology perspective in which phytonutrients may simultaneously influence inflammatory receptors, oxidative-stress pathways, and compensatory survival signaling, helping explain their potential utility in prevention and as adjuncts rather than stand-alone curative agents ref [17], ref [30], ref [35].",
+    "refNo": 35,
+    "title": "Computational methods for drug design and discovery: focus on China",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "Bioinformatics pipelines now integrate omics profiles, pathway annotations, and phenotype-linked datasets to prioritize phytochemicals with system-level relevance, thereby helping distinguish broadly cytoprotective agents from context-specific therapeutic candidates ref [11], ref [13].",
+    "refNo": 11,
+    "title": "Genetic programming for computational pharmacokinetics in drug discovery and development",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Bioinformatics pipelines now integrate omics profiles, pathway annotations, and phenotype-linked datasets to prioritize phytochemicals with system-level relevance, thereby helping distinguish broadly cytoprotective agents from context-specific therapeutic candidates ref [11], ref [13].",
+    "refNo": 13,
+    "title": "Comparing and Validating Machine Learning Models for Mycobacterium tuberculosis Drug Discovery.",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Structural methods further strengthen this process by enabling target-guided hypothesis generation for natural compounds whose pleiotropic actions span inflammation, redox signaling, metabolism, and cell-fate regulation ref [11].",
+    "refNo": 11,
+    "title": "Genetic programming for computational pharmacokinetics in drug discovery and development",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Computational design, docking, optimization, and systems-level analyses support the identification of phytochemical scaffolds that may influence proliferation, apoptosis, angiogenesis, and therapy resistance, while also clarifying structure-activity relationships relevant to medicinal refinement ref [12], ref [15].",
+    "refNo": 12,
+    "title": "A new method for computational drug repositioning using drug pairwise similarity",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Computational design, docking, optimization, and systems-level analyses support the identification of phytochemical scaffolds that may influence proliferation, apoptosis, angiogenesis, and therapy resistance, while also clarifying structure-activity relationships relevant to medicinal refinement ref [12], ref [15].",
+    "refNo": 15,
+    "title": "Drug–target interaction prediction via chemogenomic space: learning-based methods",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Active-learning strategies and chemogenomic models further improve screening efficiency in large, chemically heterogeneous libraries, an advantage that is especially pertinent for natural product-inspired discovery where experimentally testing all candidates is impractical ref [12], ref [17].",
+    "refNo": 12,
+    "title": "A new method for computational drug repositioning using drug pairwise similarity",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Active-learning strategies and chemogenomic models further improve screening efficiency in large, chemically heterogeneous libraries, an advantage that is especially pertinent for natural product-inspired discovery where experimentally testing all candidates is impractical ref [12], ref [17].",
+    "refNo": 17,
+    "title": "Computational polypharmacology: a new paradigm for drug discovery",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Similarity-based repositioning can reveal disease indications or target neighborhoods not apparent from traditional ethnopharmacological use, whereas pharmacokinetic modeling helps anticipate exposure, metabolism, and dose limitations that often constrain clinical efficacy despite strong preclinical signals ref [35], ref [34].",
+    "refNo": 35,
+    "title": "Computational methods for drug design and discovery: focus on China",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "Similarity-based repositioning can reveal disease indications or target neighborhoods not apparent from traditional ethnopharmacological use, whereas pharmacokinetic modeling helps anticipate exposure, metabolism, and dose limitations that often constrain clinical efficacy despite strong preclinical signals ref [35], ref [34].",
+    "refNo": 34,
+    "title": "Bioinformatics in translational drug discovery",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "Machine-learning validation studies in anti-infective discovery illustrate the broader principle that robust model comparison and external validation are essential before inferring therapeutic relevance from computational predictions alone ref [36].",
+    "refNo": 36,
+    "title": "The future of crystallography in drug discovery",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "Knowledge-graph-based repurposing and big-data pipelines help map compound–target–disease relationships, enabling prioritization of phytonutrients for cardiometabolic, inflammatory, neurodegenerative, and oncologic indications while accommodating multi-target pharmacology that is typical of plant-derived molecules ref [59], ref [60].",
+    "refNo": 59,
+    "title": "Knowledge-driven drug repurposing using a comprehensive drug knowledge graph",
+    "marker_text": "[59]"
+  },
+  {
+    "sentence": "Knowledge-graph-based repurposing and big-data pipelines help map compound–target–disease relationships, enabling prioritization of phytonutrients for cardiometabolic, inflammatory, neurodegenerative, and oncologic indications while accommodating multi-target pharmacology that is typical of plant-derived molecules ref [59], ref [60].",
+    "refNo": 60,
+    "title": "Use of big data in drug development for precision medicine: an update",
+    "marker_text": "[60]"
+  },
+  {
+    "sentence": "In parallel, emerging informatics methods for natural product discovery broaden access to structurally diverse phytochemical scaffolds relevant to unresolved disease mechanisms ref [12].",
+    "refNo": 12,
+    "title": "A new method for computational drug repositioning using drug pairwise similarity",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Molecular simulation of binding kinetics and explicit treatment of protein flexibility improve understanding of residence time, selectivity, and context-dependent target engagement, issues that are especially important for weak-to-moderate affinity phytochemicals acting on signaling proteins and enzymes ref [58], ref [11].",
+    "refNo": 58,
+    "title": "Recent progress in molecular simulation methods for drug binding kinetics.",
+    "marker_text": "[58]"
+  },
+  {
+    "sentence": "Molecular simulation of binding kinetics and explicit treatment of protein flexibility improve understanding of residence time, selectivity, and context-dependent target engagement, issues that are especially important for weak-to-moderate affinity phytochemicals acting on signaling proteins and enzymes ref [58], ref [11].",
+    "refNo": 11,
+    "title": "Genetic programming for computational pharmacokinetics in drug discovery and development",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Related computational strategies for targeting protein–protein interactions are also pertinent, since many proposed biomedical effects of phytonutrients involve modulation of transcriptional, inflammatory, or apoptotic complexes rather than single catalytic pockets ref [63].",
+    "refNo": 63,
+    "title": "Computational drug design targeting protein-protein interactions.",
+    "marker_text": "[63]"
+  },
+  {
+    "sentence": "For cancer-focused applications, machine-learning discrimination of anticancer peptides illustrates how sequence- and evolution-informed models can expand the broader natural-product-inspired therapeutic space ref [62].",
+    "refNo": 62,
+    "title": "Intelligent computational method for discrimination of anticancer peptides by incorporating sequential and evolutionary profiles information",
+    "marker_text": "[62]"
+  },
+  {
+    "sentence": "Structural-alert analysis can identify chemotypes associated with toxicity or assay interference, while in vitro screening for reactive metabolites helps evaluate bioactivation risk before advancing phytochemical leads toward clinical translation ref [61], ref [64].",
+    "refNo": 61,
+    "title": "Computational approaches to identify structural alerts and their applications in environmental toxicology and drug discovery.",
+    "marker_text": "[61]"
+  },
+  {
+    "sentence": "Structural-alert analysis can identify chemotypes associated with toxicity or assay interference, while in vitro screening for reactive metabolites helps evaluate bioactivation risk before advancing phytochemical leads toward clinical translation ref [61], ref [64].",
+    "refNo": 64,
+    "title": "In vitro screening techniques for reactive metabolites for minimizing bioactivation potential in drug discovery.",
+    "marker_text": "[64]"
+  },
+  {
+    "sentence": "Moreover, awareness of inductive bias in ligand-based modeling is crucial, because overstated predictive performance can distort claims about disease relevance or therapeutic breadth ref [65].",
+    "refNo": 65,
+    "title": "Effects of inductive bias on computational evaluations of ligand-based modeling and on drug discovery",
+    "marker_text": "[65]"
+  },
+  {
+    "sentence": "Drug-likeness frameworks provide a useful, if imperfect, starting point for anticipating oral behavior of phytochemicals, particularly when comparing aglycones, glycosides, and highly oxygenated polyphenols that frequently deviate from classical small-molecule space ref [21], ref [43].",
+    "refNo": 21,
+    "title": "Target identification and mechanism of action in chemical biology and drug discovery.",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Drug-likeness frameworks provide a useful, if imperfect, starting point for anticipating oral behavior of phytochemicals, particularly when comparing aglycones, glycosides, and highly oxygenated polyphenols that frequently deviate from classical small-molecule space ref [21], ref [43].",
+    "refNo": 43,
+    "title": "SwissADME: a free web tool to evaluate pharmacokinetics, drug-likeness and medicinal chemistry friendliness of small molecules",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "Computational estimation of logP/logD, including approaches such as iLOGP, can help rationalize why some phytochemicals are poorly absorbed despite strong target engagement in cell-free assays, whereas others achieve better exposure but potentially broader off-target distribution ref [12], ref [43].",
+    "refNo": 12,
+    "title": "A new method for computational drug repositioning using drug pairwise similarity",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Computational estimation of logP/logD, including approaches such as iLOGP, can help rationalize why some phytochemicals are poorly absorbed despite strong target engagement in cell-free assays, whereas others achieve better exposure but potentially broader off-target distribution ref [12], ref [43].",
+    "refNo": 43,
+    "title": "SwissADME: a free web tool to evaluate pharmacokinetics, drug-likeness and medicinal chemistry friendliness of small molecules",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "Such in silico profiling is valuable for prioritizing formulations, prodrug strategies, or analog design before costly experimental studies, although predictions remain sensitive to ionization state and structural complexity common in natural products ref [29].",
+    "refNo": 29,
+    "title": "Network-based drug discovery by integrating systems biology and computational technologies",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Predictive metabolism workflows are therefore important for anticipating rapid phase I/II conversion, low parent-compound exposure, and formation of active or inactive metabolites that can dominate observed biological effects ref [25].",
+    "refNo": 25,
+    "title": "Computational systems biology in drug discovery and development: methods and applications.",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "More broadly, in silico pharmacology can integrate ADME-relevant properties with target-level hypotheses to identify compounds likely to fail because of exposure constraints rather than lack of intrinsic efficacy ref [29].",
+    "refNo": 29,
+    "title": "Network-based drug discovery by integrating systems biology and computational technologies",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Consequently, computational pharmacokinetic and drug-likeness tools should be viewed as triage instruments that inform, but do not replace, experimental studies of absorption, biotransformation, and safety in translational phytonutrient research ref [43], ref [25].",
+    "refNo": 43,
+    "title": "SwissADME: a free web tool to evaluate pharmacokinetics, drug-likeness and medicinal chemistry friendliness of small molecules",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "Consequently, computational pharmacokinetic and drug-likeness tools should be viewed as triage instruments that inform, but do not replace, experimental studies of absorption, biotransformation, and safety in translational phytonutrient research ref [43], ref [25].",
+    "refNo": 25,
+    "title": "Computational systems biology in drug discovery and development: methods and applications.",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Predictive ADME simulation is therefore valuable for estimating whether candidate phytochemicals are likely to reach relevant plasma or tissue exposures before costly in vivo or clinical testing ref [17].",
+    "refNo": 17,
+    "title": "Computational polypharmacology: a new paradigm for drug discovery",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Computational approaches for predicting absorption and permeability further help identify liabilities associated with solubility-limited uptake, intestinal barrier crossing, and formulation dependence, all of which are especially relevant for structurally complex natural products ref [28].",
+    "refNo": 28,
+    "title": "Pharmacodynamic Drug–Drug Interactions",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "SLC transporters can determine intestinal uptake, hepatic distribution, renal handling, and tissue penetration, thereby making exposure highly context dependent rather than a simple function of passive diffusion ref [26].",
+    "refNo": 26,
+    "title": "Computational methods and tools to predict cytochrome P450 metabolism for drug discovery",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "In parallel, metabolic fate strongly shapes bioavailability and safety, since rapid phase I oxidation or bioactivation can lower parent-compound exposure or generate reactive intermediates; computational CYP450 prediction tools are increasingly used to anticipate such liabilities and prioritize compounds with more favorable metabolic profiles ref [36].",
+    "refNo": 36,
+    "title": "The future of crystallography in drug discovery",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "Amorphous solid dispersions are widely explored to improve dissolution and apparent bioavailability of poorly soluble molecules, but they introduce practical challenges related to physical stability, manufacturability, and reproducibility of exposure ref [7].",
+    "refNo": 7,
+    "title": "Large-Scale Assessment of Binding Free Energy Calculations in Active Drug Discovery Projects",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Even when pharmacokinetic delivery is improved, translational success remains constrained by interaction risk: phytochemicals may alter the effects of concomitant therapies through pharmacodynamic as well as exposure-related mechanisms, complicating efficacy and safety assessment in polypharmacy settings ref [40].",
+    "refNo": 40,
+    "title": "Cogena, a novel tool for co-expressed gene-set enrichment analysis, applied to drug repositioning and drug mode of action discovery",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "Together, these considerations underscore that clinically meaningful benefit depends not only on intrinsic bioactivity, but also on deliverable exposure, transporter and enzyme interactions, and formulation robustness ref [17], ref [28].",
+    "refNo": 17,
+    "title": "Computational polypharmacology: a new paradigm for drug discovery",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Together, these considerations underscore that clinically meaningful benefit depends not only on intrinsic bioactivity, but also on deliverable exposure, transporter and enzyme interactions, and formulation robustness ref [17], ref [28].",
+    "refNo": 28,
+    "title": "Pharmacodynamic Drug–Drug Interactions",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Beyond equilibrium affinity, target engagement depends on binding kinetics and residence time, which can prolong or attenuate pharmacological effects even when systemic exposure is modest or fluctuating; thus, kinetic selectivity may partly explain discordance between nominal plasma levels and biological response ref [10].",
+    "refNo": 10,
+    "title": "Informatics and Computational Methods in Natural Product Drug Discovery: A Review and Perspectives",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Many plant-derived polyphenols, carotenoids, and terpenoids are lipophilic or sparingly soluble, making solubility a primary determinant of absorption, variability, and dose proportionality; experimental and computational solubility assessment is therefore central to estimating realistic exposure and guiding formulation optimization ref [32].",
+    "refNo": 32,
+    "title": "TLR4-Targeting Therapeutics: Structural Basis and Computer-Aided Drug Discovery Approaches",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "In practice, inadequate solubility can lead to underexposure despite high oral doses, while food effects and excipient selection may substantially alter absorption profiles ref [32].",
+    "refNo": 32,
+    "title": "TLR4-Targeting Therapeutics: Structural Basis and Computer-Aided Drug Discovery Approaches",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "Preclinical metabolism studies emphasize phase I/II biotransformation, reactive metabolite risk, species differences, and the use of computational tools to anticipate clearance and toxicology liabilities before clinical translation ref [31].",
+    "refNo": 31,
+    "title": "Drug Metabolism in Preclinical Drug Development: A Survey of the Discovery Process, Toxicology, and Computational Tools.",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "Accordingly, translation from cell-based assays to human benefit requires integrating solubility, kinetic target engagement, and metabolism-informed safety assessment rather than relying on nominal administered dose alone ref [10], ref [31], ref [32].",
+    "refNo": 10,
+    "title": "Informatics and Computational Methods in Natural Product Drug Discovery: A Review and Perspectives",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Accordingly, translation from cell-based assays to human benefit requires integrating solubility, kinetic target engagement, and metabolism-informed safety assessment rather than relying on nominal administered dose alone ref [10], ref [31], ref [32].",
+    "refNo": 31,
+    "title": "Drug Metabolism in Preclinical Drug Development: A Survey of the Discovery Process, Toxicology, and Computational Tools.",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "Accordingly, translation from cell-based assays to human benefit requires integrating solubility, kinetic target engagement, and metabolism-informed safety assessment rather than relying on nominal administered dose alone ref [10], ref [31], ref [32].",
+    "refNo": 32,
+    "title": "TLR4-Targeting Therapeutics: Structural Basis and Computer-Aided Drug Discovery Approaches",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "Early triage using druggability and drug-likeness frameworks can help distinguish compounds that are intrinsically constrained by poor permeability, excessive polarity, or unstable exposure profiles from those that are more formulation-responsive ref [22].",
+    "refNo": 22,
+    "title": "In silico pharmacology for drug discovery: applications to targets and beyond",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "In this context, polar surface area is especially informative because it strongly influences passive membrane transport, oral absorption, and tissue penetration, thereby shaping whether a phytochemical can reach pharmacologically relevant concentrations in vivo ref [29].",
+    "refNo": 29,
+    "title": "Network-based drug discovery by integrating systems biology and computational technologies",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Beyond cytochrome-dependent pathways, aldehyde oxidase can produce rapid clearance, species differences, and unexpected metabolites that undermine extrapolation from preclinical systems to humans ref [37].",
+    "refNo": 37,
+    "title": "Application of computational methods for anticancer drug discovery, design, and optimization",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "For complex natural-product-like scaffolds, these liabilities may not be obvious from bioactivity screening alone, reinforcing the need to integrate metabolism-aware design with translational bioinformatics workflows that connect chemical structure, omics context, and human-response data ref [9].",
+    "refNo": 9,
+    "title": "Machine Learning for Drug-Target Interaction Prediction",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Computational side-effect inference and broader drug-response prediction platforms provide useful models for anticipating toxicity patterns, responder heterogeneity, and context-specific efficacy before costly clinical testing ref [21], ref [39].",
+    "refNo": 21,
+    "title": "Target identification and mechanism of action in chemical biology and drug discovery.",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Computational side-effect inference and broader drug-response prediction platforms provide useful models for anticipating toxicity patterns, responder heterogeneity, and context-specific efficacy before costly clinical testing ref [21], ref [39].",
+    "refNo": 39,
+    "title": "Advanced Systems Biology Methods in Drug Discovery and Translational Biomedicine",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "Collectively, these approaches do not eliminate the pharmacokinetic barriers of phytonutrients, but they can sharpen candidate selection, identify exposure-safety tradeoffs, and make translational studies more realistic and mechanism informed ref [22], ref [9].",
+    "refNo": 22,
+    "title": "In silico pharmacology for drug discovery: applications to targets and beyond",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Collectively, these approaches do not eliminate the pharmacokinetic barriers of phytonutrients, but they can sharpen candidate selection, identify exposure-safety tradeoffs, and make translational studies more realistic and mechanism informed ref [22], ref [9].",
+    "refNo": 9,
+    "title": "Machine Learning for Drug-Target Interaction Prediction",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "In particular, structural-alert frameworks are useful for identifying substructures that may drive off-target toxicity or instability, although these tools must be interpreted cautiously because alert-based models can overpredict hazard when context, dose, and metabolism are not incorporated ref [78], ref [25].",
+    "refNo": 78,
+    "title": "Troubleshooting computational methods in drug discovery.",
+    "marker_text": "[78]"
+  },
+  {
+    "sentence": "In particular, structural-alert frameworks are useful for identifying substructures that may drive off-target toxicity or instability, although these tools must be interpreted cautiously because alert-based models can overpredict hazard when context, dose, and metabolism are not incorporated ref [78], ref [25].",
+    "refNo": 25,
+    "title": "Computational systems biology in drug discovery and development: methods and applications.",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Such assays are valuable for prioritizing compounds and formulations with lower bioactivation potential, but their translational value depends on integrating metabolic competence, exposure duration, and clinically realistic concentration ranges ref [7], ref [25].",
+    "refNo": 7,
+    "title": "Large-Scale Assessment of Binding Free Energy Calculations in Active Drug Discovery Projects",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Such assays are valuable for prioritizing compounds and formulations with lower bioactivation potential, but their translational value depends on integrating metabolic competence, exposure duration, and clinically realistic concentration ranges ref [7], ref [25].",
+    "refNo": 25,
+    "title": "Computational systems biology in drug discovery and development: methods and applications.",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Even so, model uncertainty, data heterogeneity, and limited experimental validation remain important barriers, underscoring that computational prioritization should guide rather than replace rigorous pharmacokinetic and safety studies ref [21], ref [25], ref [78].",
+    "refNo": 21,
+    "title": "Target identification and mechanism of action in chemical biology and drug discovery.",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Even so, model uncertainty, data heterogeneity, and limited experimental validation remain important barriers, underscoring that computational prioritization should guide rather than replace rigorous pharmacokinetic and safety studies ref [21], ref [25], ref [78].",
+    "refNo": 25,
+    "title": "Computational systems biology in drug discovery and development: methods and applications.",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Even so, model uncertainty, data heterogeneity, and limited experimental validation remain important barriers, underscoring that computational prioritization should guide rather than replace rigorous pharmacokinetic and safety studies ref [21], ref [25], ref [78].",
+    "refNo": 78,
+    "title": "Troubleshooting computational methods in drug discovery.",
+    "marker_text": "[78]"
+  },
+  {
+    "sentence": "Foundational work on drug-likeness prediction and broader computational screening frameworks provides a practical basis for triaging phytochemicals whose size, polarity, lipophilicity, or structural complexity may limit oral utility despite potent in vitro effects ref [21], ref [22].",
+    "refNo": 21,
+    "title": "Target identification and mechanism of action in chemical biology and drug discovery.",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Foundational work on drug-likeness prediction and broader computational screening frameworks provides a practical basis for triaging phytochemicals whose size, polarity, lipophilicity, or structural complexity may limit oral utility despite potent in vitro effects ref [21], ref [22].",
+    "refNo": 22,
+    "title": "In silico pharmacology for drug discovery: applications to targets and beyond",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Tools such as SwissADME make this filtering operational by rapidly estimating absorption-related descriptors, medicinal chemistry friendliness, and lead-likeness for large natural-product-derived libraries ref [43].",
+    "refNo": 43,
+    "title": "SwissADME: a free web tool to evaluate pharmacokinetics, drug-likeness and medicinal chemistry friendliness of small molecules",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "Mapping that space can help distinguish scaffolds with tractable optimization potential from compounds more suitable as dietary biomarkers or formulation-dependent agents ref [33].",
+    "refNo": 33,
+    "title": "Drug discovery in the age of systems biology: the rise of computational approaches for data integration.",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "Computational target-identification strategies and in silico pharmacology further strengthen evidence integration by linking pleiotropic phytochemical activities to plausible human target networks, thereby clarifying whether observed anti-inflammatory, antioxidant, or metabolic effects reflect specific mechanisms or diffuse promiscuity ref [35], ref [29].",
+    "refNo": 35,
+    "title": "Computational methods for drug design and discovery: focus on China",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "Computational target-identification strategies and in silico pharmacology further strengthen evidence integration by linking pleiotropic phytochemical activities to plausible human target networks, thereby clarifying whether observed anti-inflammatory, antioxidant, or metabolic effects reflect specific mechanisms or diffuse promiscuity ref [35], ref [29].",
+    "refNo": 29,
+    "title": "Network-based drug discovery by integrating systems biology and computational technologies",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Machine-learning methods can extend this process by prioritizing compounds, targets, and multi-omic response patterns in increasingly complex datasets ref [36].",
+    "refNo": 36,
+    "title": "The future of crystallography in drug discovery",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "Predictive frameworks for biotransformation are particularly relevant because many phytonutrients are extensively modified before reaching systemic circulation, and metabolites may drive both efficacy and toxicity ref [25].",
+    "refNo": 25,
+    "title": "Computational systems biology in drug discovery and development: methods and applications.",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Accordingly, computationally informed prioritization should be used not to replace experimental validation, but to focus pharmacokinetic studies, biomarker selection, and formulation design on the most clinically plausible candidates ref [22], ref [25].",
+    "refNo": 22,
+    "title": "In silico pharmacology for drug discovery: applications to targets and beyond",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Accordingly, computationally informed prioritization should be used not to replace experimental validation, but to focus pharmacokinetic studies, biomarker selection, and formulation design on the most clinically plausible candidates ref [22], ref [25].",
+    "refNo": 25,
+    "title": "Computational systems biology in drug discovery and development: methods and applications.",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Predictive ADME simulation and computational absorption/permeability modeling therefore offer a practical framework for prioritizing compounds, estimating oral exposure, and identifying liabilities before costly clinical testing ref [17], ref [28].",
+    "refNo": 17,
+    "title": "Computational polypharmacology: a new paradigm for drug discovery",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Predictive ADME simulation and computational absorption/permeability modeling therefore offer a practical framework for prioritizing compounds, estimating oral exposure, and identifying liabilities before costly clinical testing ref [17], ref [28].",
+    "refNo": 28,
+    "title": "Pharmacodynamic Drug–Drug Interactions",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "In silico prediction of cytochrome P450 metabolism can help identify likely metabolic pathways, inter-individual variability, and potential interaction risks, all of which are critical when phytonutrients are used alongside conventional drugs ref [36].",
+    "refNo": 36,
+    "title": "The future of crystallography in drug discovery",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "At the same time, formulation strategies such as amorphous solid dispersions can enhance apparent solubility and bioavailability, although physical stability, manufacturability, and scale-up remain important challenges ref [7].",
+    "refNo": 7,
+    "title": "Large-Scale Assessment of Binding Free Energy Calculations in Active Drug Discovery Projects",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Natural language processing applied to electronic health records can support computational phenotyping, treatment-response stratification, and detection of safety or efficacy signals in populations consuming phytonutrient-rich diets or supplements ref [32].",
+    "refNo": 32,
+    "title": "TLR4-Targeting Therapeutics: Structural Basis and Computer-Aided Drug Discovery Approaches",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "However, these opportunities will have translational value only if workflows are transparent and reproducible; reproducible computational drug-discovery practices are thus directly relevant to phytonutrient research, where heterogeneous datasets and flexible analytical pipelines can otherwise undermine confidence in findings ref [39].",
+    "refNo": 39,
+    "title": "Advanced Systems Biology Methods in Drug Discovery and Translational Biomedicine",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "Network-based and data-integration frameworks can connect phytochemical structures with protein targets, signaling modules, and disease phenotypes, helping to explain why related compounds may show context-dependent preventive or therapeutic effects across inflammation, metabolism, and cancer pathways [21, 39].",
+    "refNo": 21,
+    "title": "Target identification and mechanism of action in chemical biology and drug discovery.",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Network-based and data-integration frameworks can connect phytochemical structures with protein targets, signaling modules, and disease phenotypes, helping to explain why related compounds may show context-dependent preventive or therapeutic effects across inflammation, metabolism, and cancer pathways [21, 39].",
+    "refNo": 39,
+    "title": "Advanced Systems Biology Methods in Drug Discovery and Translational Biomedicine",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "In this setting, computational natural-product informatics is especially valuable for organizing heterogeneous evidence and prioritizing compounds, mixtures, and mechanistic hypotheses for experimental validation [17].",
+    "refNo": 17,
+    "title": "Computational polypharmacology: a new paradigm for drug discovery",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Reverse docking and related in silico approaches can generate candidate target profiles for bioactive phytochemicals, while structure-guided studies of pathways such as TLR4 illustrate how computational screening can be linked to inflammation-relevant therapeutic hypotheses [26, 35].",
+    "refNo": 26,
+    "title": "Computational methods and tools to predict cytochrome P450 metabolism for drug discovery",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "Reverse docking and related in silico approaches can generate candidate target profiles for bioactive phytochemicals, while structure-guided studies of pathways such as TLR4 illustrate how computational screening can be linked to inflammation-relevant therapeutic hypotheses [26, 35].",
+    "refNo": 35,
+    "title": "Computational methods for drug design and discovery: focus on China",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "However, best-practice principles from computer-aided drug discovery emphasize that computational predictions must be followed by orthogonal biochemical, cellular, and phenotypic confirmation to reduce false positives and overinterpretation [40].",
+    "refNo": 40,
+    "title": "Cogena, a novel tool for co-expressed gene-set enrichment analysis, applied to drug repositioning and drug mode of action discovery",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "Because many phytonutrients exhibit low bioavailability, extensive biotransformation, and potential metabolite-mediated activity, early incorporation of metabolism, toxicology, and exposure modeling is necessary to identify clinically relevant chemical species rather than only parent compounds [31].",
+    "refNo": 31,
+    "title": "Drug Metabolism in Preclinical Drug Development: A Survey of the Discovery Process, Toxicology, and Computational Tools.",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "More broadly, multi-omic network models that incorporate host metabolism, microbiome transformation, and polypharmacology may enable biomarker-guided stratification and more personalized phytonutrient interventions [21, 39].",
+    "refNo": 21,
+    "title": "Target identification and mechanism of action in chemical biology and drug discovery.",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "More broadly, multi-omic network models that incorporate host metabolism, microbiome transformation, and polypharmacology may enable biomarker-guided stratification and more personalized phytonutrient interventions [21, 39].",
+    "refNo": 39,
+    "title": "Advanced Systems Biology Methods in Drug Discovery and Translational Biomedicine",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "Translational bioinformatics can connect omics signatures, pathway perturbations, and disease phenotypes to generate mechanistic hypotheses for phytochemical action, while newer machine-learning frameworks improve compound ranking across large chemical and biological spaces ref [9], ref [13].",
+    "refNo": 9,
+    "title": "Machine Learning for Drug-Target Interaction Prediction",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Translational bioinformatics can connect omics signatures, pathway perturbations, and disease phenotypes to generate mechanistic hypotheses for phytochemical action, while newer machine-learning frameworks improve compound ranking across large chemical and biological spaces ref [9], ref [13].",
+    "refNo": 13,
+    "title": "Comparing and Validating Machine Learning Models for Mycobacterium tuberculosis Drug Discovery.",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "For complex botanical constituents, such tools are particularly valuable because they can accommodate polypharmacology, heterogeneous target classes, and incomplete experimental annotation ref [36].",
+    "refNo": 36,
+    "title": "The future of crystallography in drug discovery",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "Frameworks such as DeepCPI and related target-interaction models can help distinguish plausible bioactive phytochemicals from abundant but pharmacologically weak constituents, thereby refining downstream validation pipelines ref [18], ref [36].",
+    "refNo": 18,
+    "title": "Active learning for computational chemogenomics.",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Frameworks such as DeepCPI and related target-interaction models can help distinguish plausible bioactive phytochemicals from abundant but pharmacologically weak constituents, thereby refining downstream validation pipelines ref [18], ref [36].",
+    "refNo": 36,
+    "title": "The future of crystallography in drug discovery",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "At the same time, druggability and drug-likeness assessment remains essential, since many promising phytochemicals face limitations in stability, permeability, and developability; predictive biomodelling can therefore inform formulation design, semisynthetic optimization, or selection of enriched metabolite derivatives for translation ref [22].",
+    "refNo": 22,
+    "title": "In silico pharmacology for drug discovery: applications to targets and beyond",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Experience from rapid computational screening and repurposing efforts in COVID-19 illustrates both the utility and the pitfalls of virtual prioritization, emphasizing the need for orthogonal biological validation and linkage to clinical evidence ref [23].",
+    "refNo": 23,
+    "title": "Computational approaches in target identification and drug discovery",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "More broadly, systematic assessments of drug-response prediction show that model performance depends strongly on data quality, feature selection, and external validation strategy ref [39].",
+    "refNo": 39,
+    "title": "Advanced Systems Biology Methods in Drug Discovery and Translational Biomedicine",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "For phytonutrients, this argues for prospective, multimodal datasets combining dietary exposure, metabolomics, host genomics, and clinical outcomes, enabling AI-guided precision nutrition strategies that move beyond population-average associations toward individualized preventive and therapeutic use ref [13], ref [39].",
+    "refNo": 13,
+    "title": "Comparing and Validating Machine Learning Models for Mycobacterium tuberculosis Drug Discovery.",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "For phytonutrients, this argues for prospective, multimodal datasets combining dietary exposure, metabolomics, host genomics, and clinical outcomes, enabling AI-guided precision nutrition strategies that move beyond population-average associations toward individualized preventive and therapeutic use ref [13], ref [39].",
+    "refNo": 39,
+    "title": "Advanced Systems Biology Methods in Drug Discovery and Translational Biomedicine",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "Big-data pipelines can link dietary exposure, molecular phenotypes, and patient stratification, thereby moving the field beyond average treatment effects toward subgroup-specific benefit and risk estimation ref [38].",
+    "refNo": 38,
+    "title": "An up-to-date overview of computational polypharmacology in modern drug discovery",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "In parallel, systems-biology approaches provide a mechanistic scaffold for connecting phytonutrient targets with disease modules, pathway crosstalk, and host-response networks, which is essential for prioritizing candidates with translational plausibility ref [14], ref [21].",
+    "refNo": 14,
+    "title": "Clinical phenotyping in selected national networks: demonstrating the need for high-throughput, portable, and computational methods",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "In parallel, systems-biology approaches provide a mechanistic scaffold for connecting phytonutrient targets with disease modules, pathway crosstalk, and host-response networks, which is essential for prioritizing candidates with translational plausibility ref [14], ref [21].",
+    "refNo": 21,
+    "title": "Target identification and mechanism of action in chemical biology and drug discovery.",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Network and multitarget frameworks can identify convergent target constellations, predict synergistic or antagonistic interactions, and help distinguish desirable pleiotropy from off-target liability ref [13], ref [33].",
+    "refNo": 13,
+    "title": "Comparing and Validating Machine Learning Models for Mycobacterium tuberculosis Drug Discovery.",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Network and multitarget frameworks can identify convergent target constellations, predict synergistic or antagonistic interactions, and help distinguish desirable pleiotropy from off-target liability ref [13], ref [33].",
+    "refNo": 33,
+    "title": "Drug discovery in the age of systems biology: the rise of computational approaches for data integration.",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "Transcriptome-based tools such as co-expressed gene-set enrichment analysis may further support mechanism-of-action inference, biomarker discovery, and rational repositioning of phytochemicals or phytochemical-rich formulations across disease indications ref [23].",
+    "refNo": 23,
+    "title": "Computational approaches in target identification and drug discovery",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Emerging informatics methods can expand searchable natural-product space, refine chemotype prioritization, and uncover underexplored bioactive scaffolds ref [12].",
+    "refNo": 12,
+    "title": "A new method for computational drug repositioning using drug pairwise similarity",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Complementary structure- and function-oriented computational chemical biology can then evaluate target engagement, binding hypotheses, and modulation profiles before costly in vivo studies ref [39].",
+    "refNo": 39,
+    "title": "Advanced Systems Biology Methods in Drug Discovery and Translational Biomedicine",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "For clinical implementation, these in silico advances should be embedded in reproducible workflows that prospectively define responder biomarkers, optimize combination strategies, and support adaptive trial designs for personalized phytonutrient interventions ref [38], ref [21].",
+    "refNo": 38,
+    "title": "An up-to-date overview of computational polypharmacology in modern drug discovery",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "For clinical implementation, these in silico advances should be embedded in reproducible workflows that prospectively define responder biomarkers, optimize combination strategies, and support adaptive trial designs for personalized phytonutrient interventions ref [38], ref [21].",
+    "refNo": 21,
+    "title": "Target identification and mechanism of action in chemical biology and drug discovery.",
+    "marker_text": "[21]"
+  }
+]

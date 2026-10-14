@@ -1,0 +1,920 @@
+[
+  {
+    "sentence": "The conceptual origins of P2X receptors lie in purinergic signaling, first framed by the distinction between P1 and P2 receptors and later refined into ionotropic P2X versus metabotropic P2Y families as pharmacological and functional evidence accumulated ref [1].",
+    "refNo": 1,
+    "title": "Nomenclature and classification of purinoceptors",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "This reclassification was crucial because rapid ATP-evoked depolarizations in neurons and smooth muscle were difficult to reconcile with G-protein-coupled mechanisms alone, implying the existence of a ligand-gated cation channel activated by extracellular ATP ref [1].",
+    "refNo": 1,
+    "title": "Nomenclature and classification of purinoceptors",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "P2X3 was identified as a neuronal ATP-gated channel enriched in sensory pathways, while independent cloning efforts from rat brain revealed P2X4 as an ATP-activated ionotropic receptor with widespread CNS expression and an unusual pharmacological profile ref [2], ref [4], ref [6].",
+    "refNo": 2,
+    "title": "A P2X purinoceptor cDNA conferring a novel pharmacological profile",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "P2X3 was identified as a neuronal ATP-gated channel enriched in sensory pathways, while independent cloning efforts from rat brain revealed P2X4 as an ATP-activated ionotropic receptor with widespread CNS expression and an unusual pharmacological profile ref [2], ref [4], ref [6].",
+    "refNo": 4,
+    "title": "P2X 4 : An ATP-activated ionotropic receptor cloned from rat brain",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "P2X3 was identified as a neuronal ATP-gated channel enriched in sensory pathways, while independent cloning efforts from rat brain revealed P2X4 as an ATP-activated ionotropic receptor with widespread CNS expression and an unusual pharmacological profile ref [2], ref [4], ref [6].",
+    "refNo": 6,
+    "title": "Cloning and tissue distribution of a novel P2X receptor from rat brain",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Notably, P2X4 was reported to be largely insensitive to classical antagonists such as suramin and PPADS, demonstrating early that native ATP responses could not be cleanly interpreted using then-current pharmacological criteria ref [2], ref [3], ref [4].",
+    "refNo": 2,
+    "title": "A P2X purinoceptor cDNA conferring a novel pharmacological profile",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Notably, P2X4 was reported to be largely insensitive to classical antagonists such as suramin and PPADS, demonstrating early that native ATP responses could not be cleanly interpreted using then-current pharmacological criteria ref [2], ref [3], ref [4].",
+    "refNo": 3,
+    "title": "An antagonist-insensitive P2X receptor expressed in epithelia and brain",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Notably, P2X4 was reported to be largely insensitive to classical antagonists such as suramin and PPADS, demonstrating early that native ATP responses could not be cleanly interpreted using then-current pharmacological criteria ref [2], ref [3], ref [4].",
+    "refNo": 4,
+    "title": "P2X 4 : An ATP-activated ionotropic receptor cloned from rat brain",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Parallel reports described broad P2X4 expression in brain and epithelia, strong neuronal labeling in hippocampus, cerebellum, and brainstem, and the emergence of further subunits such as P2X6 with overlapping CNS distribution ref [3], ref [4], ref [7].",
+    "refNo": 3,
+    "title": "An antagonist-insensitive P2X receptor expressed in epithelia and brain",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Parallel reports described broad P2X4 expression in brain and epithelia, strong neuronal labeling in hippocampus, cerebellum, and brainstem, and the emergence of further subunits such as P2X6 with overlapping CNS distribution ref [3], ref [4], ref [7].",
+    "refNo": 4,
+    "title": "P2X 4 : An ATP-activated ionotropic receptor cloned from rat brain",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Parallel reports described broad P2X4 expression in brain and epithelia, strong neuronal labeling in hippocampus, cerebellum, and brainstem, and the emergence of further subunits such as P2X6 with overlapping CNS distribution ref [3], ref [4], ref [7].",
+    "refNo": 7,
+    "title": "Extracellular ATP: effects, sources and fate",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Together, these early cloning studies transformed P2X receptors from a debated pharmacological category into a structurally coherent ion channel family, setting the stage for later mutagenesis, multimerization, and structure-function analyses central to this survey ref [1], ref [2], ref [3], ref [6], ref [7].",
+    "refNo": 1,
+    "title": "Nomenclature and classification of purinoceptors",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Together, these early cloning studies transformed P2X receptors from a debated pharmacological category into a structurally coherent ion channel family, setting the stage for later mutagenesis, multimerization, and structure-function analyses central to this survey ref [1], ref [2], ref [3], ref [6], ref [7].",
+    "refNo": 2,
+    "title": "A P2X purinoceptor cDNA conferring a novel pharmacological profile",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Together, these early cloning studies transformed P2X receptors from a debated pharmacological category into a structurally coherent ion channel family, setting the stage for later mutagenesis, multimerization, and structure-function analyses central to this survey ref [1], ref [2], ref [3], ref [6], ref [7].",
+    "refNo": 3,
+    "title": "An antagonist-insensitive P2X receptor expressed in epithelia and brain",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Together, these early cloning studies transformed P2X receptors from a debated pharmacological category into a structurally coherent ion channel family, setting the stage for later mutagenesis, multimerization, and structure-function analyses central to this survey ref [1], ref [2], ref [3], ref [6], ref [7].",
+    "refNo": 6,
+    "title": "Cloning and tissue distribution of a novel P2X receptor from rat brain",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Together, these early cloning studies transformed P2X receptors from a debated pharmacological category into a structurally coherent ion channel family, setting the stage for later mutagenesis, multimerization, and structure-function analyses central to this survey ref [1], ref [2], ref [3], ref [6], ref [7].",
+    "refNo": 7,
+    "title": "Extracellular ATP: effects, sources and fate",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "It is released from nerve terminals, activated platelets, immune cells, epithelia, endothelium, and injured or stressed tissues, and its concentration is tightly shaped by ectonucleotidases that rapidly convert ATP to ADP, AMP, and adenosine ref [7], ref [9].",
+    "refNo": 7,
+    "title": "Extracellular ATP: effects, sources and fate",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "It is released from nerve terminals, activated platelets, immune cells, epithelia, endothelium, and injured or stressed tissues, and its concentration is tightly shaped by ectonucleotidases that rapidly convert ATP to ADP, AMP, and adenosine ref [7], ref [9].",
+    "refNo": 9,
+    "title": "Signaling at purinergic P2X receptors",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Within this highly dynamic extracellular milieu, P2X receptors transduce ATP into depolarization and Ca2+ entry, thereby coupling tissue stress or activity to rapid cellular responses ref [8], ref [9].",
+    "refNo": 8,
+    "title": "Molecular and functional properties of P2X receptors--recent progress and persisting challenges",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Within this highly dynamic extracellular milieu, P2X receptors transduce ATP into depolarization and Ca2+ entry, thereby coupling tissue stress or activity to rapid cellular responses ref [8], ref [9].",
+    "refNo": 9,
+    "title": "Signaling at purinergic P2X receptors",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Physiologically, P2X signaling contributes to fast synaptic transmission and neuromodulation, sensory transduction including nociception, autonomic and enteric reflexes, and smooth-muscle contraction in the vas deferens, urinary bladder, and vasculature ref [8], ref [9].",
+    "refNo": 8,
+    "title": "Molecular and functional properties of P2X receptors--recent progress and persisting challenges",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Physiologically, P2X signaling contributes to fast synaptic transmission and neuromodulation, sensory transduction including nociception, autonomic and enteric reflexes, and smooth-muscle contraction in the vas deferens, urinary bladder, and vasculature ref [8], ref [9].",
+    "refNo": 9,
+    "title": "Signaling at purinergic P2X receptors",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "ATP released from epithelia and endothelia also links mechanical or inflammatory stimuli to afferent activity and vascular regulation, whereas in immune cells ATP functions as a danger-associated signal that promotes cytokine release, inflammasome activation, and host-defense programs, with P2X7 occupying a particularly prominent position ref [7], ref [9], ref [7].",
+    "refNo": 7,
+    "title": "Extracellular ATP: effects, sources and fate",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "ATP released from epithelia and endothelia also links mechanical or inflammatory stimuli to afferent activity and vascular regulation, whereas in immune cells ATP functions as a danger-associated signal that promotes cytokine release, inflammasome activation, and host-defense programs, with P2X7 occupying a particularly prominent position ref [7], ref [9], ref [7].",
+    "refNo": 9,
+    "title": "Signaling at purinergic P2X receptors",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "ATP released from epithelia and endothelia also links mechanical or inflammatory stimuli to afferent activity and vascular regulation, whereas in immune cells ATP functions as a danger-associated signal that promotes cytokine release, inflammasome activation, and host-defense programs, with P2X7 occupying a particularly prominent position ref [7], ref [9], ref [7].",
+    "refNo": 7,
+    "title": "Extracellular ATP: effects, sources and fate",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "P2X3 and P2X7 signaling are strongly implicated in chronic pain and inflammation, helping explain their prominence as therapeutic targets ref [11], ref [7].",
+    "refNo": 11,
+    "title": "Physiological roles and potential therapeutic applications of the P2X7 receptor in inflammation and pain",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "P2X3 and P2X7 signaling are strongly implicated in chronic pain and inflammation, helping explain their prominence as therapeutic targets ref [11], ref [7].",
+    "refNo": 7,
+    "title": "Extracellular ATP: effects, sources and fate",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "More broadly, purinergic signaling shapes the tumor microenvironment: extracellular ATP can act as a proinflammatory cue and growth regulator, while its degradation to adenosine may shift responses toward immunosuppression, illustrating how ATP availability and receptor context jointly determine outcome in cancer and other chronic diseases ref [11], ref [8].",
+    "refNo": 11,
+    "title": "Physiological roles and potential therapeutic applications of the P2X7 receptor in inflammation and pain",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "More broadly, purinergic signaling shapes the tumor microenvironment: extracellular ATP can act as a proinflammatory cue and growth regulator, while its degradation to adenosine may shift responses toward immunosuppression, illustrating how ATP availability and receptor context jointly determine outcome in cancer and other chronic diseases ref [11], ref [8].",
+    "refNo": 8,
+    "title": "Molecular and functional properties of P2X receptors--recent progress and persisting challenges",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Structural understanding of P2X receptors was transformed by the crystal structure of zebrafish P2X4 in the apo, closed state, which established the family as trimeric channels with a chalice-like architecture, two transmembrane helices per subunit, and a large disulfide-rich extracellular domain organized into intersubunit ATP-binding clefts ref [14].",
+    "refNo": 14,
+    "title": "Crystal structure of the ATP-gated P2X(4) ion channel in the closed state",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "This structure also localized the closed gate to the outer half of TM2 and highlighted prominent lateral fenestrations linking extracellular solution to the vestibule above the pore ref [14].",
+    "refNo": 14,
+    "title": "Crystal structure of the ATP-gated P2X(4) ion channel in the closed state",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Accessibility mapping and electron microscopy in P2X1 revealed large agonist-evoked movements of the head, dorsal fin, and adjacent intersubunit interfaces, consistent with closure of the binding cleft and transmission of force toward the transmembrane domain ref [17].",
+    "refNo": 17,
+    "title": "Pore-opening mechanism in trimeric P2X receptor channels",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "In P2X2, mutagenesis and double-mutant cycle analysis further identified a state-dependent Glu167-Arg290 interaction in the closed receptor that switches to Arg290-ATP coordination in the open, ATP-bound state, providing a concrete electrostatic mechanism for coupling ligand binding to pore opening ref [15].",
+    "refNo": 15,
+    "title": "Salt bridge switching from Arg290/Glu167 to Arg290/ATP promotes the closed-to-open transition of the P2X2 receptor",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Instead, ATP appears to drive outward expansion of the outer gate region together with narrowing of the inner pore, consistent with TM2 straightening during the closed-to-open transition ref [18].",
+    "refNo": 18,
+    "title": "Ion access pathway to the transmembrane pore in P2X receptor channels",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Work on TM2 polar residues in P2X2 had already implicated positions such as Asn333, Thr336, Thr339, Ser340, and Asp349 in spontaneous gating, conductance, and rectification, foreshadowing their central role in pore architecture ref [8].",
+    "refNo": 8,
+    "title": "Molecular and functional properties of P2X receptors--recent progress and persisting challenges",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Complementary studies of ion access favored lateral portals over the long central axis as the principal route to the pore, both from electrostatic considerations and direct accessibility measurements ref [19], ref [20].",
+    "refNo": 19,
+    "title": "Preferential use of unobstructed lateral portals as the access route to the pore of human ATP-gated ion channels (P2X receptors)",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Complementary studies of ion access favored lateral portals over the long central axis as the principal route to the pore, both from electrostatic considerations and direct accessibility measurements ref [19], ref [20].",
+    "refNo": 20,
+    "title": "Polar residues in the second transmembrane domain of the rat P2X2 receptor that affect spontaneous gating, unitary conductance, and rectification",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "In a broader structural context, P2X receptors thus occupy a distinct branch of trimeric ligand-gated channels, separate from tetrameric glutamate receptors and pentameric Cys-loop receptors, with gating driven by unusually direct intersubunit coupling between extracellular binding clefts and a short TM2-defined gate ref [14], ref [18].",
+    "refNo": 14,
+    "title": "Crystal structure of the ATP-gated P2X(4) ion channel in the closed state",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "In a broader structural context, P2X receptors thus occupy a distinct branch of trimeric ligand-gated channels, separate from tetrameric glutamate receptors and pentameric Cys-loop receptors, with gating driven by unusually direct intersubunit coupling between extracellular binding clefts and a short TM2-defined gate ref [14], ref [18].",
+    "refNo": 18,
+    "title": "Ion access pathway to the transmembrane pore in P2X receptor channels",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Before P2X structures were available, stoichiometry and pore organization in other channels had already established several canonical solutions for ion conduction: tetrameric K+ channels such as KirBac1.1, heterotetrameric ENaC/DEG-family channels, and oligomeric mechanosensitive pores including MscL ref [22], ref [21], ref [26], ref [7].",
+    "refNo": 22,
+    "title": "Crystal structure of the potassium channel KirBac1.1 in the closed state",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Before P2X structures were available, stoichiometry and pore organization in other channels had already established several canonical solutions for ion conduction: tetrameric K+ channels such as KirBac1.1, heterotetrameric ENaC/DEG-family channels, and oligomeric mechanosensitive pores including MscL ref [22], ref [21], ref [26], ref [7].",
+    "refNo": 21,
+    "title": "The heterotetrameric architecture of the epithelial sodium channel (ENaC)",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Before P2X structures were available, stoichiometry and pore organization in other channels had already established several canonical solutions for ion conduction: tetrameric K+ channels such as KirBac1.1, heterotetrameric ENaC/DEG-family channels, and oligomeric mechanosensitive pores including MscL ref [22], ref [21], ref [26], ref [7].",
+    "refNo": 26,
+    "title": "Structure of a tetrameric MscL in an expanded intermediate state",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "Before P2X structures were available, stoichiometry and pore organization in other channels had already established several canonical solutions for ion conduction: tetrameric K+ channels such as KirBac1.1, heterotetrameric ENaC/DEG-family channels, and oligomeric mechanosensitive pores including MscL ref [22], ref [21], ref [26], ref [7].",
+    "refNo": 7,
+    "title": "Extracellular ATP: effects, sources and fate",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "These systems collectively illustrated that channels with very different primary sequences can nonetheless assemble as symmetric or pseudosymmetric rings around a central permeation pathway ref [21], ref [22], ref [8].",
+    "refNo": 21,
+    "title": "The heterotetrameric architecture of the epithelial sodium channel (ENaC)",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "These systems collectively illustrated that channels with very different primary sequences can nonetheless assemble as symmetric or pseudosymmetric rings around a central permeation pathway ref [21], ref [22], ref [8].",
+    "refNo": 22,
+    "title": "Crystal structure of the potassium channel KirBac1.1 in the closed state",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "These systems collectively illustrated that channels with very different primary sequences can nonetheless assemble as symmetric or pseudosymmetric rings around a central permeation pathway ref [21], ref [22], ref [8].",
+    "refNo": 8,
+    "title": "Molecular and functional properties of P2X receptors--recent progress and persisting challenges",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Like ENaC/ASIC proteins, they are two-transmembrane subunits with a large extracellular domain, yet ENaC stoichiometry work emphasized a heterotetrameric 2α:1β:1γ arrangement rather than the trimeric organization later established for P2X receptors ref [21].",
+    "refNo": 21,
+    "title": "The heterotetrameric architecture of the epithelial sodium channel (ENaC)",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "In contrast, KirBac1.1 exemplified the classical tetrameric pore with an inner-helix gate and cytoplasmic coupling elements, offering a useful conceptual foil for thinking about how mutagenesis can map activation gates, pore-lining residues, and domain coupling in P2X channels ref [22].",
+    "refNo": 22,
+    "title": "Crystal structure of the potassium channel KirBac1.1 in the closed state",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Early biochemical and topological studies suggested hexameric MscL assemblies ref [26], and two-dimensional crystallography likewise supported a hexameric transmembrane pore architecture ref [7], whereas later x-ray structures revealed a pentameric closed-state MscL homolog and, still later, a tetrameric expanded intermediate, underscoring how oligomeric assignment and gating interpretation can depend on conformational state and species context ref [8], ref [9].",
+    "refNo": 26,
+    "title": "Structure of a tetrameric MscL in an expanded intermediate state",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "Early biochemical and topological studies suggested hexameric MscL assemblies ref [26], and two-dimensional crystallography likewise supported a hexameric transmembrane pore architecture ref [7], whereas later x-ray structures revealed a pentameric closed-state MscL homolog and, still later, a tetrameric expanded intermediate, underscoring how oligomeric assignment and gating interpretation can depend on conformational state and species context ref [8], ref [9].",
+    "refNo": 7,
+    "title": "Extracellular ATP: effects, sources and fate",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Early biochemical and topological studies suggested hexameric MscL assemblies ref [26], and two-dimensional crystallography likewise supported a hexameric transmembrane pore architecture ref [7], whereas later x-ray structures revealed a pentameric closed-state MscL homolog and, still later, a tetrameric expanded intermediate, underscoring how oligomeric assignment and gating interpretation can depend on conformational state and species context ref [8], ref [9].",
+    "refNo": 8,
+    "title": "Molecular and functional properties of P2X receptors--recent progress and persisting challenges",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Early biochemical and topological studies suggested hexameric MscL assemblies ref [26], and two-dimensional crystallography likewise supported a hexameric transmembrane pore architecture ref [7], whereas later x-ray structures revealed a pentameric closed-state MscL homolog and, still later, a tetrameric expanded intermediate, underscoring how oligomeric assignment and gating interpretation can depend on conformational state and species context ref [8], ref [9].",
+    "refNo": 9,
+    "title": "Signaling at purinergic P2X receptors",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Assembly of P2X subunits begins in the endoplasmic reticulum, where folding, disulfide formation, glycosylation, and oligomerization are tightly coupled to quality-control checkpoints that determine whether newly synthesized receptors are retained or allowed to exit toward the Golgi and plasma membrane ref [28].",
+    "refNo": 28,
+    "title": "Protein folding and modification in the mammalian endoplasmic reticulum",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Early biochemical work with the isolated P2X2 extracellular domain suggested that this large ectodomain is intrinsically capable of self-association and ATP interaction, implying that extracellular folding contributes importantly to subunit recognition, even though the oligomeric state inferred in that study predates the now-accepted trimeric architecture ref [27].",
+    "refNo": 27,
+    "title": "Molecular assembly of the extracellular domain of P2X2, an ATP-gated ion channel",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "In P2X2, deletion of either the N terminus up to the first transmembrane segment or most of the cytosolic C terminus did not abolish homo- or heteromeric association, whereas truncation before TM2 prevented co-assembly, identifying the pre-TM2/TM2 region as critical for productive subunit interaction ref [29].",
+    "refNo": 29,
+    "title": "Identification of a domain involved in ATP-gated ionotropic receptor subunit assembly",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Subsequent analysis of human P2X5, which naturally occurs largely as a splice variant lacking exon 10 and part of TM2, showed that loss of this region causes aggregation rather than orderly oligomerization; restoring hydrophobic length rescued membrane insertion and yielded strictly parallel homotrimers ref [30].",
+    "refNo": 30,
+    "title": "P2X5 subunit assembly requires scaffolding by the second transmembrane domain and a conserved aspartate",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "In P2X5, the assembly role of TM2 was largely sequence-permissive at the level of hydrophobic span, yet not entirely nonspecific: a conserved Asp within TM2 (Asp355) selectively promoted stable homotrimerization, consistent with an intramembrane packing or hydrogen-bonding contribution superimposed on the broader requirement for membrane insertion ref [30].",
+    "refNo": 30,
+    "title": "P2X5 subunit assembly requires scaffolding by the second transmembrane domain and a conserved aspartate",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "Thus, P2X receptor biogenesis appears to rely on a two-tier logic in the ER: extracellular-domain folding and intersubunit recognition, constrained by TM2-dependent membrane topology and filtered by general secretory-pathway quality control ref [28], ref [29], ref [30].",
+    "refNo": 28,
+    "title": "Protein folding and modification in the mammalian endoplasmic reticulum",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Thus, P2X receptor biogenesis appears to rely on a two-tier logic in the ER: extracellular-domain folding and intersubunit recognition, constrained by TM2-dependent membrane topology and filtered by general secretory-pathway quality control ref [28], ref [29], ref [30].",
+    "refNo": 29,
+    "title": "Identification of a domain involved in ATP-gated ionotropic receptor subunit assembly",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Thus, P2X receptor biogenesis appears to rely on a two-tier logic in the ER: extracellular-domain folding and intersubunit recognition, constrained by TM2-dependent membrane topology and filtered by general secretory-pathway quality control ref [28], ref [29], ref [30].",
+    "refNo": 30,
+    "title": "P2X5 subunit assembly requires scaffolding by the second transmembrane domain and a conserved aspartate",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "Before structural data were available, cysteine cross-linking in P2X1 demonstrated that residues essential for agonist action, notably K68 and F291, can form an intersubunit disulfide bond, providing direct evidence that the ATP-binding pocket lies at the interface of neighboring subunits rather than within a single protomer ref [5].",
+    "refNo": 5,
+    "title": "A novel neuronal P 2X ATP receptor ion channel with widespread distribution in the brain",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Subsequent syntheses of mutagenesis, labeling, and structural work consolidated this view and emphasized that each trimer contains three equivalent interfacial ATP-binding crevices formed by adjacent subunits ref [8].",
+    "refNo": 8,
+    "title": "Molecular and functional properties of P2X receptors--recent progress and persisting challenges",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Functional disulfide mapping in P2X2 identified H33 and S345 as an intrasubunit TM1-TM2 pair, whereas earlier intersubunit constraints such as V48/I328 localized contacts near the outer transmembrane boundary, illustrating that channel opening redistributes both intra- and intersubunit proximities ref [32].",
+    "refNo": 32,
+    "title": "Functional identification of close proximity amino acid side chains within the transmembrane-spanning helixes of the P2X2 receptor",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "Heymann and colleagues extended this analysis using concatenated trimers and Cd2+ bridges, showing that potentiating interactions among H33/S345/C348 occur within single subunits, while the open pore still requires stabilizing contacts between neighboring TM2 helices ref [31].",
+    "refNo": 31,
+    "title": "Inter-and intrasubunit interactions between transmembrane helices in the open state of P2X receptor channels",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "These results challenged the unusually wide intersubunit crevices seen in the ATP-bound crystal structure and supported a membrane-embedded open-state model with tighter subunit packing ref [31].",
+    "refNo": 31,
+    "title": "Inter-and intrasubunit interactions between transmembrane helices in the open state of P2X receptor channels",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "Taken together, mutagenesis studies indicate a consistent subunit arrangement in which ATP binding occurs at ectodomain interfaces, whereas pore opening is transmitted through coordinated rotations and translations of TM helices that preserve selected intrasubunit TM1-TM2 contacts while remodeling intersubunit TM2-TM2 interfaces ref [31], ref [32], ref [5], ref [8].",
+    "refNo": 31,
+    "title": "Inter-and intrasubunit interactions between transmembrane helices in the open state of P2X receptor channels",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "Taken together, mutagenesis studies indicate a consistent subunit arrangement in which ATP binding occurs at ectodomain interfaces, whereas pore opening is transmitted through coordinated rotations and translations of TM helices that preserve selected intrasubunit TM1-TM2 contacts while remodeling intersubunit TM2-TM2 interfaces ref [31], ref [32], ref [5], ref [8].",
+    "refNo": 32,
+    "title": "Functional identification of close proximity amino acid side chains within the transmembrane-spanning helixes of the P2X2 receptor",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "Taken together, mutagenesis studies indicate a consistent subunit arrangement in which ATP binding occurs at ectodomain interfaces, whereas pore opening is transmitted through coordinated rotations and translations of TM helices that preserve selected intrasubunit TM1-TM2 contacts while remodeling intersubunit TM2-TM2 interfaces ref [31], ref [32], ref [5], ref [8].",
+    "refNo": 5,
+    "title": "A novel neuronal P 2X ATP receptor ion channel with widespread distribution in the brain",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Taken together, mutagenesis studies indicate a consistent subunit arrangement in which ATP binding occurs at ectodomain interfaces, whereas pore opening is transmitted through coordinated rotations and translations of TM helices that preserve selected intrasubunit TM1-TM2 contacts while remodeling intersubunit TM2-TM2 interfaces ref [31], ref [32], ref [5], ref [8].",
+    "refNo": 8,
+    "title": "Molecular and functional properties of P2X receptors--recent progress and persisting challenges",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Early single-channel analysis of P2X2 suggested a strong requirement for full liganding, because openings were observed after substantial ligand binding and kinetic schemes with three occupied sites gave the best description of channel activity under those conditions ref [5].",
+    "refNo": 5,
+    "title": "A novel neuronal P 2X ATP receptor ion channel with widespread distribution in the brain",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Consistent with this view, ultrafast application experiments showed that brief saturating ATP pulses produce delayed openings that largely occur after free ATP has been removed, implying that ATP can be trapped in pre-open closed states and that binding and gating are temporally separable ref [5].",
+    "refNo": 5,
+    "title": "A novel neuronal P 2X ATP receptor ion channel with widespread distribution in the brain",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Tethering ATP-derived agonists within the intersubunit pocket demonstrated that receptors can be trapped in covalently liganded states that do not obligatorily open, indicating that occupancy per se is insufficient unless the appropriate allosteric transition is completed ref [36].",
+    "refNo": 36,
+    "title": "Activation of trimeric P2X2 receptors by fewer than three ATP molecules",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "Likewise, BzATP photolabelling of P2X2 and a P2X2/1 chimera showed that progressive covalent occupancy alters potency, Hill slope, and efficacy of subsequently applied agonists, supporting strong positive coupling between sites and revealing partially liganded intermediates with distinct gating competence ref [38].",
+    "refNo": 38,
+    "title": "Responses of rat P2X2 receptors to ultrashort pulses of ATP provide insights into ATP binding and channel gating",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "These observations reinforce the idea that ATP occupancy is converted into opening through an allosteric, multistep process rather than by a simple occupancy threshold ref [36], ref [38].",
+    "refNo": 36,
+    "title": "Activation of trimeric P2X2 receptors by fewer than three ATP molecules",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "These observations reinforce the idea that ATP occupancy is converted into opening through an allosteric, multistep process rather than by a simple occupancy threshold ref [36], ref [38].",
+    "refNo": 38,
+    "title": "Responses of rat P2X2 receptors to ultrashort pulses of ATP provide insights into ATP binding and channel gating",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "In trimeric P2X2 receptors engineered so that one ATP-binding interface was disabled by K69A substitution, channels with only two intact binding sites still generated robust macroscopic and single-channel currents, with largely preserved conductance and broadly similar activation/deactivation kinetics ref [37].",
+    "refNo": 37,
+    "title": "Allosteric nature of P2X receptor activation probed by photoaffinity labelling",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "By contrast, constructs with only one intact site were weakly or not detectably functional, depending on subunit position within the concatemer ref [37].",
+    "refNo": 37,
+    "title": "Allosteric nature of P2X receptor activation probed by photoaffinity labelling",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "Thus, for homomeric P2X2 receptors, two occupied sites are sufficient for efficient activation, whereas three-site occupancy mainly enhances agonist sensitivity and cooperativity rather than being absolutely required for opening ref [37], ref [38], ref [5].",
+    "refNo": 37,
+    "title": "Allosteric nature of P2X receptor activation probed by photoaffinity labelling",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "Thus, for homomeric P2X2 receptors, two occupied sites are sufficient for efficient activation, whereas three-site occupancy mainly enhances agonist sensitivity and cooperativity rather than being absolutely required for opening ref [37], ref [38], ref [5].",
+    "refNo": 38,
+    "title": "Responses of rat P2X2 receptors to ultrashort pulses of ATP provide insights into ATP binding and channel gating",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Thus, for homomeric P2X2 receptors, two occupied sites are sufficient for efficient activation, whereas three-site occupancy mainly enhances agonist sensitivity and cooperativity rather than being absolutely required for opening ref [37], ref [38], ref [5].",
+    "refNo": 5,
+    "title": "A novel neuronal P 2X ATP receptor ion channel with widespread distribution in the brain",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "The resulting changes in Hill slope, maximal response, and trapping behavior emphasize that apparent stoichiometric requirements reflect both the number of occupied pockets and how occupancy reshapes the conformational landscape linking the extracellular domain to the pore ref [36], ref [37], ref [5].",
+    "refNo": 36,
+    "title": "Activation of trimeric P2X2 receptors by fewer than three ATP molecules",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "The resulting changes in Hill slope, maximal response, and trapping behavior emphasize that apparent stoichiometric requirements reflect both the number of occupied pockets and how occupancy reshapes the conformational landscape linking the extracellular domain to the pore ref [36], ref [37], ref [5].",
+    "refNo": 37,
+    "title": "Allosteric nature of P2X receptor activation probed by photoaffinity labelling",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "The resulting changes in Hill slope, maximal response, and trapping behavior emphasize that apparent stoichiometric requirements reflect both the number of occupied pockets and how occupancy reshapes the conformational landscape linking the extracellular domain to the pore ref [36], ref [37], ref [5].",
+    "refNo": 5,
+    "title": "A novel neuronal P 2X ATP receptor ion channel with widespread distribution in the brain",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Direct biochemical studies established that most P2X subunits can self-associate as homomers, whereas P2X6 is exceptional in failing to form stable homomeric receptors, and P2X7 strongly prefers homomeric assembly over heteromerization ref [47], ref [7].",
+    "refNo": 47,
+    "title": "Heteromeric assembly of P2X subunits",
+    "marker_text": "[47]"
+  },
+  {
+    "sentence": "Direct biochemical studies established that most P2X subunits can self-associate as homomers, whereas P2X6 is exceptional in failing to form stable homomeric receptors, and P2X7 strongly prefers homomeric assembly over heteromerization ref [47], ref [7].",
+    "refNo": 7,
+    "title": "Extracellular ATP: effects, sources and fate",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Systematic co-immunoprecipitation further showed that partner choice is selective rather than promiscuous: P2X1, P2X2, P2X5, and P2X6 interact with multiple partners, whereas P2X3 and especially P2X4 exhibit a more restricted partner spectrum, and P2X7 is largely excluded from heteromeric combinations ref [47], ref [7].",
+    "refNo": 47,
+    "title": "Heteromeric assembly of P2X subunits",
+    "marker_text": "[47]"
+  },
+  {
+    "sentence": "Systematic co-immunoprecipitation further showed that partner choice is selective rather than promiscuous: P2X1, P2X2, P2X5, and P2X6 interact with multiple partners, whereas P2X3 and especially P2X4 exhibit a more restricted partner spectrum, and P2X7 is largely excluded from heteromeric combinations ref [47], ref [7].",
+    "refNo": 7,
+    "title": "Extracellular ATP: effects, sources and fate",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "P2X2 and P2X3 were first inferred functionally from the distinctive, slowly desensitizing α,β-meATP-sensitive phenotype generated by coexpression, and then demonstrated directly by co-immunoprecipitation in baculovirus-infected cells ref [43], ref [7].",
+    "refNo": 43,
+    "title": "Baculovirus expression provides direct evidence for heteromeric assembly of P2X 2 and P2X 3 receptors",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "P2X2 and P2X3 were first inferred functionally from the distinctive, slowly desensitizing α,β-meATP-sensitive phenotype generated by coexpression, and then demonstrated directly by co-immunoprecipitation in baculovirus-infected cells ref [43], ref [7].",
+    "refNo": 7,
+    "title": "Extracellular ATP: effects, sources and fate",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Likewise, P2X4 and P2X6 coassemble into a receptor with altered agonist and antagonist sensitivity, and their physical association was confirmed by copurification, whereas P2X6 had no comparable effect on P2X1 or P2X2 in the same system ref [44].",
+    "refNo": 44,
+    "title": "Central P2X4 and P2X6 channel subunits coassemble into a novel heteromeric ATP receptor",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "These findings emphasize that overlapping tissue expression is not sufficient evidence for heteromerization; productive assembly depends on compatible subunit-specific recognition interfaces ref [44], ref [47].",
+    "refNo": 44,
+    "title": "Central P2X4 and P2X6 channel subunits coassemble into a novel heteromeric ATP receptor",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "These findings emphasize that overlapping tissue expression is not sufficient evidence for heteromerization; productive assembly depends on compatible subunit-specific recognition interfaces ref [44], ref [47].",
+    "refNo": 47,
+    "title": "Heteromeric assembly of P2X subunits",
+    "marker_text": "[47]"
+  },
+  {
+    "sentence": "P2X6 is retained in the endoplasmic reticulum as a largely monomeric species, and an uncharged N-terminal segment inhibits its homomeric assembly and ER exit ref [45].",
+    "refNo": 45,
+    "title": "An uncharged region within the N terminus of the P2X6 receptor inhibits its assembly and exit from the endoplasmic reticulum",
+    "marker_text": "[45]"
+  },
+  {
+    "sentence": "Nevertheless, coexpression with P2X2 or P2X4 rescues trafficking, indicating that heteromerization can bypass otherwise restrictive quality-control checkpoints ref [45].",
+    "refNo": 45,
+    "title": "An uncharged region within the N terminus of the P2X6 receptor inhibits its assembly and exit from the endoplasmic reticulum",
+    "marker_text": "[45]"
+  },
+  {
+    "sentence": "Functional mutagenesis of ATP-binding residues also showed that the resulting heteromers do not share a universal composition: P2X2/3 channels assemble predominantly as P2X2(3)2, whereas P2X2/6 channels assemble as P2X(2)26 ref [8].",
+    "refNo": 8,
+    "title": "Molecular and functional properties of P2X receptors--recent progress and persisting challenges",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Thus, P2X receptor assembly is governed by a hierarchy of subtype-specific compatibility, intracellular trafficking competence, and fixed but partner-dependent stoichiometric rules ref [47], ref [7], ref [8].",
+    "refNo": 47,
+    "title": "Heteromeric assembly of P2X subunits",
+    "marker_text": "[47]"
+  },
+  {
+    "sentence": "Thus, P2X receptor assembly is governed by a hierarchy of subtype-specific compatibility, intracellular trafficking competence, and fixed but partner-dependent stoichiometric rules ref [47], ref [7], ref [8].",
+    "refNo": 7,
+    "title": "Extracellular ATP: effects, sources and fate",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Thus, P2X receptor assembly is governed by a hierarchy of subtype-specific compatibility, intracellular trafficking competence, and fixed but partner-dependent stoichiometric rules ref [47], ref [7], ref [8].",
+    "refNo": 8,
+    "title": "Molecular and functional properties of P2X receptors--recent progress and persisting challenges",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "The clearest example is zinc modulation of P2X2: in rat receptors, potentiation requires an intersubunit site formed principally by His120 and His213, as demonstrated by reciprocal rescue in mixed mutants, concatemer analysis, cysteine substitution, and disulfide trapping across adjacent subunits ref [50].",
+    "refNo": 50,
+    "title": "An intersubunit zinc binding site in rat P2X2 receptors",
+    "marker_text": "[50]"
+  },
+  {
+    "sentence": "By contrast, human P2X2 lacks low-concentration potentiation and is instead inhibited by zinc over the same range, revealing a strong species divergence in comparative functional determinants ref [49], ref [51].",
+    "refNo": 49,
+    "title": "High potency zinc modulation of human P2X2 receptors and low potency zinc modulation of rat P2X2 receptors share a common molecular mechanism",
+    "marker_text": "[49]"
+  },
+  {
+    "sentence": "By contrast, human P2X2 lacks low-concentration potentiation and is instead inhibited by zinc over the same range, revealing a strong species divergence in comparative functional determinants ref [49], ref [51].",
+    "refNo": 51,
+    "title": "Opposite effects of zinc on human and rat P2X2 receptors",
+    "marker_text": "[51]"
+  },
+  {
+    "sentence": "In hP2X2, His204, His209, and His330, together with nearby vestibular residues such as Pro206 and Glu75, tune zinc sensitivity over orders of magnitude, whereas reciprocal substitution of Lys197/His209 switches rat and human receptors between low- and high-potency inhibition without recreating rat-like potentiation ref [49], ref [51].",
+    "refNo": 49,
+    "title": "High potency zinc modulation of human P2X2 receptors and low potency zinc modulation of rat P2X2 receptors share a common molecular mechanism",
+    "marker_text": "[49]"
+  },
+  {
+    "sentence": "In hP2X2, His204, His209, and His330, together with nearby vestibular residues such as Pro206 and Glu75, tune zinc sensitivity over orders of magnitude, whereas reciprocal substitution of Lys197/His209 switches rat and human receptors between low- and high-potency inhibition without recreating rat-like potentiation ref [49], ref [51].",
+    "refNo": 51,
+    "title": "Opposite effects of zinc on human and rat P2X2 receptors",
+    "marker_text": "[51]"
+  },
+  {
+    "sentence": "These findings support the view that related extracellular architectures can be repurposed to confer opposite allosteric outputs, with species-specific sequence changes biasing access, affinity, or coupling efficacy rather than simply creating or deleting a single metal-binding motif ref [49], ref [50], ref [51].",
+    "refNo": 49,
+    "title": "High potency zinc modulation of human P2X2 receptors and low potency zinc modulation of rat P2X2 receptors share a common molecular mechanism",
+    "marker_text": "[49]"
+  },
+  {
+    "sentence": "These findings support the view that related extracellular architectures can be repurposed to confer opposite allosteric outputs, with species-specific sequence changes biasing access, affinity, or coupling efficacy rather than simply creating or deleting a single metal-binding motif ref [49], ref [50], ref [51].",
+    "refNo": 50,
+    "title": "An intersubunit zinc binding site in rat P2X2 receptors",
+    "marker_text": "[50]"
+  },
+  {
+    "sentence": "These findings support the view that related extracellular architectures can be repurposed to confer opposite allosteric outputs, with species-specific sequence changes biasing access, affinity, or coupling efficacy rather than simply creating or deleting a single metal-binding motif ref [49], ref [50], ref [51].",
+    "refNo": 51,
+    "title": "Opposite effects of zinc on human and rat P2X2 receptors",
+    "marker_text": "[51]"
+  },
+  {
+    "sentence": "In P2X7, naturally occurring substitutions at positions 155 and 348 exert opposite reciprocal effects in human and rat receptors, indicating that these residues are major contributors to species-dependent channel function ref [52].",
+    "refNo": 52,
+    "title": "Residues 155 and 348 contribute to the determination of P2X7 receptor function via distinct mechanisms revealed by single-nucleotide polymorphisms",
+    "marker_text": "[52]"
+  },
+  {
+    "sentence": "Mechanistically, position 155 primarily affects surface expression, whereas position 348, located near the inner pore/gate in homology models, more strongly influences single-channel function ref [52].",
+    "refNo": 52,
+    "title": "Residues 155 and 348 contribute to the determination of P2X7 receptor function via distinct mechanisms revealed by single-nucleotide polymorphisms",
+    "marker_text": "[52]"
+  },
+  {
+    "sentence": "Pharmacological selectivity provides a parallel lesson: for P2X3, the suramin analog NF110 is a nanomolar antagonist whose subtype preference is dictated by the number and positional arrangement of sulfonate groups, emphasizing that subtle electrostatic reorganization around the extracellular vestibule can create sharp subtype bias without grossly altering the conserved trimeric scaffold ref [53].",
+    "refNo": 53,
+    "title": "(carbonylimino)))tetra-kis-benzenesulfonic acid (NF110) potently blocks P2X3 receptors: subtype selectivity is determined by location of sulfonic acid groups",
+    "marker_text": "[53]"
+  },
+  {
+    "sentence": "Together, these studies establish that allosteric modulation and comparative receptor behavior emerge from a small number of strategically placed residues that reshape binding, coupling, trafficking, or pore energetics in subtype-specific ways ref [52], ref [53].",
+    "refNo": 52,
+    "title": "Residues 155 and 348 contribute to the determination of P2X7 receptor function via distinct mechanisms revealed by single-nucleotide polymorphisms",
+    "marker_text": "[52]"
+  },
+  {
+    "sentence": "Together, these studies establish that allosteric modulation and comparative receptor behavior emerge from a small number of strategically placed residues that reshape binding, coupling, trafficking, or pore energetics in subtype-specific ways ref [52], ref [53].",
+    "refNo": 53,
+    "title": "(carbonylimino)))tetra-kis-benzenesulfonic acid (NF110) potently blocks P2X3 receptors: subtype selectivity is determined by location of sulfonic acid groups",
+    "marker_text": "[53]"
+  },
+  {
+    "sentence": "The transmembrane gate of P2X receptors is formed primarily by TM2, with early substituted-cysteine and alanine scans localizing functionally critical positions to the outer and middle pore, and showing that mutations at Ile328/Thr339/Gly342 and neighboring residues strongly alter ATP potency, spontaneous activity, and conductance properties in P2X2 receptors ref [14], ref [54].",
+    "refNo": 14,
+    "title": "Crystal structure of the ATP-gated P2X(4) ion channel in the closed state",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "The transmembrane gate of P2X receptors is formed primarily by TM2, with early substituted-cysteine and alanine scans localizing functionally critical positions to the outer and middle pore, and showing that mutations at Ile328/Thr339/Gly342 and neighboring residues strongly alter ATP potency, spontaneous activity, and conductance properties in P2X2 receptors ref [14], ref [54].",
+    "refNo": 54,
+    "title": "Thr339-to-serine substitution in rat P2X2 receptor second transmembrane domain causes constitutive opening and indicates a gating role for Lys308",
+    "marker_text": "[54]"
+  },
+  {
+    "sentence": "Parallel tryptophan-scanning in P2X4 indicated that the outer regions of both TM1 and TM2 behave as helices that undergo rearrangement during gating, whereas the inner half of TM2 contains a cluster of nonconducting substitutions, consistent with a critical role in pore mechanics rather than simple membrane anchoring ref [7].",
+    "refNo": 7,
+    "title": "Extracellular ATP: effects, sources and fate",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "A decisive structural framework came from the closed zfP2X4 structure, which revealed three steeply angled TM2 helices crossing in the outer half of the membrane to form an hourglass pore with a hydrophobic gate, while TM1 lies more peripherally ref [10].",
+    "refNo": 10,
+    "title": "P2X receptors as drug targets",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Functional accessibility measurements then refined the location of the closed-open barrier: in P2X2, Cd2+ and Ag+ accessibility is state dependent, with residues around Thr336/Thr339 marking the transition from the extracellular vestibule to the occluded region, and deeper sites such as Val343, Asp349, and Leu353 becoming accessible only after opening ref [8], ref [9].",
+    "refNo": 8,
+    "title": "Molecular and functional properties of P2X receptors--recent progress and persisting challenges",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Functional accessibility measurements then refined the location of the closed-open barrier: in P2X2, Cd2+ and Ag+ accessibility is state dependent, with residues around Thr336/Thr339 marking the transition from the extracellular vestibule to the occluded region, and deeper sites such as Val343, Asp349, and Leu353 becoming accessible only after opening ref [8], ref [9].",
+    "refNo": 9,
+    "title": "Signaling at purinergic P2X receptors",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "These studies support a gate near the Thr336/Thr339 level rather than a long uniformly occluded slab, and suggest that opening is accompanied by reshaping of the intracellular vestibule ref [8].",
+    "refNo": 8,
+    "title": "Molecular and functional properties of P2X receptors--recent progress and persisting challenges",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "The P2X2 T339S substitution produces constitutive openings and greatly increases agonist sensitivity, demonstrating that a subtle side-chain change within TM2 destabilizes the closed state; its suppression by K308A linked extracellular coupling elements to pore opening ref [54].",
+    "refNo": 54,
+    "title": "Thr339-to-serine substitution in rat P2X2 receptor second transmembrane domain causes constitutive opening and indicates a gating role for Lys308",
+    "marker_text": "[54]"
+  },
+  {
+    "sentence": "Complementing this, covalent lipophilic modification at I328C directly gates P2X2 receptors in the absence of ATP and requires the intact Val48-Ile328 packing interaction, indicating that separation of the outer TM1/TM2 interface is itself sufficient to drive opening ref [57].",
+    "refNo": 57,
+    "title": "Secondary structure and gating rearrangements of transmembrane segments in rat P2X4 receptor channels",
+    "marker_text": "[57]"
+  },
+  {
+    "sentence": "Together with accessibility and metal-bridge experiments showing expansion of the external gate region but narrowing of the inner pore, these data support an iris-like yet noncanonical opening mechanism in which TM2 helices straighten and repack, rather than simply bending outward as in many tetrameric cation channels ref [57], ref [9].",
+    "refNo": 57,
+    "title": "Secondary structure and gating rearrangements of transmembrane segments in rat P2X4 receptor channels",
+    "marker_text": "[57]"
+  },
+  {
+    "sentence": "Together with accessibility and metal-bridge experiments showing expansion of the external gate region but narrowing of the inner pore, these data support an iris-like yet noncanonical opening mechanism in which TM2 helices straighten and repack, rather than simply bending outward as in many tetrameric cation channels ref [57], ref [9].",
+    "refNo": 9,
+    "title": "Signaling at purinergic P2X receptors",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Early cysteine-pair studies in P2X1 provided direct evidence that residues critical for agonist action can be cross-linked across subunits within the putative binding pocket, strongly supporting an intersubunit architecture for the ATP-binding/gating nexus ref [58].",
+    "refNo": 58,
+    "title": "Inter-subunit disulfide cross-linking in homomeric and heteromeric P2X receptors",
+    "marker_text": "[58]"
+  },
+  {
+    "sentence": "Extension of this strategy to other homo- and heteromeric receptors showed that equivalent interfaces are preserved but not fully symmetric across subtype combinations, emphasizing that intersubunit packing itself is a determinant of receptor-specific gating behavior ref [59].",
+    "refNo": 59,
+    "title": "A putative extracellular salt bridge at the subunit interface contributes to the ion channel function of the ATP-gated P2X2 receptor",
+    "marker_text": "[59]"
+  },
+  {
+    "sentence": "In P2X2, a salt bridge between residues at adjacent subunits near the base of the ectodomain behaves as a closed-state stabilizing interaction; charge-swap rescue, mutant-cycle analysis, and state-dependent cross-linking support its disruption during activation ref [60].",
+    "refNo": 60,
+    "title": "Ectodomain movements of an ATP-gated ion channel (P2X2 receptor) probed by disulfide locking",
+    "marker_text": "[60]"
+  },
+  {
+    "sentence": "A second state-dependent interaction in the binding pocket, involving Glu167 and Arg290, is likewise broken upon opening and replaced by Arg290 coordination of ATP, illustrating how “salt-bridge switching” can both destabilize the closed state and stabilize the liganded open conformation ref [33].",
+    "refNo": 33,
+    "title": "Identification of an intersubunit cross-link between substituted cysteine residues located in the putative ATP binding site of the P2X1 receptor",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "These observations align with broader disulfide-locking results showing that ATP reduces some intersubunit cross-links while permitting others, consistent with coordinated tightening of the binding jaw and outward displacement of lower-body elements ref [16].",
+    "refNo": 16,
+    "title": "Agonist binding evokes extensive conformational changes in the extracellular domain of the ATPgated human P2X1 receptor ion channel",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Work in P2X1 further indicates that agonist binding elicits extensive ectodomain rearrangements, including reduced accessibility within upper and central vestibular regions, movement of the cysteine-rich head and right flipper, and sliding/rotation between adjacent subunits ref [61].",
+    "refNo": 61,
+    "title": "Identification of ectodomain regions contributing to gating, deactivation, and resensitization of purinergic P2X receptors",
+    "marker_text": "[61]"
+  },
+  {
+    "sentence": "Functionally restrictive cross-links between the head or body domains and neighboring subunits suppress channel opening until reduced, directly linking ectodomain mobility to gating competence ref [58], ref [16], ref [61].",
+    "refNo": 58,
+    "title": "Inter-subunit disulfide cross-linking in homomeric and heteromeric P2X receptors",
+    "marker_text": "[58]"
+  },
+  {
+    "sentence": "Functionally restrictive cross-links between the head or body domains and neighboring subunits suppress channel opening until reduced, directly linking ectodomain mobility to gating competence ref [58], ref [16], ref [61].",
+    "refNo": 16,
+    "title": "Agonist binding evokes extensive conformational changes in the extracellular domain of the ATPgated human P2X1 receptor ion channel",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Functionally restrictive cross-links between the head or body domains and neighboring subunits suppress channel opening until reduced, directly linking ectodomain mobility to gating competence ref [58], ref [16], ref [61].",
+    "refNo": 61,
+    "title": "Identification of ectodomain regions contributing to gating, deactivation, and resensitization of purinergic P2X receptors",
+    "marker_text": "[61]"
+  },
+  {
+    "sentence": "Chimeric and domain-swap analysis additionally showed that different ectodomain segments make separable contributions to activation, deactivation, and recovery from desensitization, underscoring that extracellular conformational coupling not only opens the pore but also shapes subsequent state transitions ref [9].",
+    "refNo": 9,
+    "title": "Signaling at purinergic P2X receptors",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Together, these mutagenesis studies establish the P2X ectodomain as a mechanically integrated, intersubunit gating machine rather than a simple ligand-binding scaffold ref [59], ref [60], ref [61].",
+    "refNo": 59,
+    "title": "A putative extracellular salt bridge at the subunit interface contributes to the ion channel function of the ATP-gated P2X2 receptor",
+    "marker_text": "[59]"
+  },
+  {
+    "sentence": "Together, these mutagenesis studies establish the P2X ectodomain as a mechanically integrated, intersubunit gating machine rather than a simple ligand-binding scaffold ref [59], ref [60], ref [61].",
+    "refNo": 60,
+    "title": "Ectodomain movements of an ATP-gated ion channel (P2X2 receptor) probed by disulfide locking",
+    "marker_text": "[60]"
+  },
+  {
+    "sentence": "Together, these mutagenesis studies establish the P2X ectodomain as a mechanically integrated, intersubunit gating machine rather than a simple ligand-binding scaffold ref [59], ref [60], ref [61].",
+    "refNo": 61,
+    "title": "Identification of ectodomain regions contributing to gating, deactivation, and resensitization of purinergic P2X receptors",
+    "marker_text": "[61]"
+  },
+  {
+    "sentence": "Mutagenesis and permeability analyses established that P2X channels are only weakly discriminating among small monovalent cations, yet differ markedly in Ca2+ flux, with this diversity reflecting local structural determinants rather than a single universal selectivity filter ref [9].",
+    "refNo": 9,
+    "title": "Signaling at purinergic P2X receptors",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "In P2X2, systematic substitution showed that TM2 polar residues, especially around Thr336/Thr339/Ser340, strongly influence PCa/PCs and monovalent permeability sequences, consistent with a narrow intrapore region that stabilizes partially dehydrated cations ref [66].",
+    "refNo": 66,
+    "title": "Principles and properties of ion flow in P2X receptors",
+    "marker_text": "[66]"
+  },
+  {
+    "sentence": "By contrast, alanine scanning of P2X2 TM1 found only modest effects on Ca2+ permeability and flux, indicating a more limited direct contribution of TM1 to ion selectivity, aside from selected positions that may shape the outer pore environment ref [63].",
+    "refNo": 63,
+    "title": "On the role of the first transmembrane domain in cation permeability and flux of the ATP-gated P2X2 receptor",
+    "marker_text": "[63]"
+  },
+  {
+    "sentence": "In P2X1 and P2X4, acidic residues near the extracellular ends of TM1/TM2 increase fractional Ca2+ current and PCa/PCs, whereas introducing equivalent negative charges into P2X2 elevates Ca2+ flux; these data support an electrostatic role for lateral pore-mouth residues in concentrating Ca2+ before entry into the transmembrane pathway ref [62].",
+    "refNo": 62,
+    "title": "Acidic amino acids impart enhanced Ca2+ permeability and flux in two members of the ATP-gated P2X receptor family",
+    "marker_text": "[62]"
+  },
+  {
+    "sentence": "Consistent with this view, allosteric modulation of P2X4 by ivermectin reduces Pf% and Ca2+ permeability through actions linked to lateral portal architecture, further emphasizing that access-path electrostatics tune permeation independently of the canonical gate ref [12].",
+    "refNo": 12,
+    "title": "Purines, purinergic receptors, and cancer",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Structural and accessibility studies then localized the main ion access route to the three lateral portals rather than the central axial vestibule, with ions and thiol reagents preferentially entering through these fenestrations and using unobstructed portals to reach the extracellular vestibule and pore ref [14], ref [15].",
+    "refNo": 14,
+    "title": "Crystal structure of the ATP-gated P2X(4) ion channel in the closed state",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Structural and accessibility studies then localized the main ion access route to the three lateral portals rather than the central axial vestibule, with ions and thiol reagents preferentially entering through these fenestrations and using unobstructed portals to reach the extracellular vestibule and pore ref [14], ref [15].",
+    "refNo": 15,
+    "title": "Salt bridge switching from Arg290/Glu167 to Arg290/ATP promotes the closed-to-open transition of the P2X2 receptor",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Review syntheses integrating mutagenesis, permeability, and structural work argue that P2X pores can adopt dilated conductive states with altered large-cation permeability, especially in P2X2, P2X4, and P2X7 ref [9].",
+    "refNo": 9,
+    "title": "Signaling at purinergic P2X receptors",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "For P2X7, direct comparison of ionic current and dye uptake, together with pore-lining mutagenesis and open-channel modification by bulky methanethiosulfonates, showed that the receptor channel itself can accommodate nanometer-scale dyes, supporting direct permeation through an expanded intrinsic pore rather than an obligatory separate transporter pathway ref [19].",
+    "refNo": 19,
+    "title": "Preferential use of unobstructed lateral portals as the access route to the pore of human ATP-gated ion channels (P2X receptors)",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Desensitization in P2X receptors is strongly shaped by intracellular determinants, with early chimeric studies showing that the major subtype differences between rapidly desensitizing P2X1/P2X3 and slowly desensitizing P2X2 map largely to membrane-proximal cytoplasmic regions flanking TM1 and TM2 rather than to the ectodomain itself ref [68].",
+    "refNo": 68,
+    "title": "Domains of P2X receptors involved in desensitization",
+    "marker_text": "[68]"
+  },
+  {
+    "sentence": "Subsequent work refined this view by demonstrating that the intracellular amino terminus can dominate gating kinetics: in P2X1/P2X2 chimeras, residues immediately preceding TM1 were sufficient to reciprocally transfer fast versus sustained response phenotypes, indicating strong coupling between the pre-TM1 segment and the transmembrane gate ref [74].",
+    "refNo": 74,
+    "title": "A protein kinase C site highly conserved in P2X subunits controls the desensitization kinetics of P2X 2 ATP-gated channels",
+    "marker_text": "[74]"
+  },
+  {
+    "sentence": "Alternative splicing of the long P2X2 C terminus accelerates desensitization, and mutational analysis localized much of this effect to a short proximal segment, especially the Pro373-Lys374-His375-Pro376 motif and the adjacent Arg371-Pro376 region ref [70], ref [69].",
+    "refNo": 70,
+    "title": "Identification of amino acid residues contributing to desensitization of the P2X2 receptor channel",
+    "marker_text": "[70]"
+  },
+  {
+    "sentence": "Alternative splicing of the long P2X2 C terminus accelerates desensitization, and mutational analysis localized much of this effect to a short proximal segment, especially the Pro373-Lys374-His375-Pro376 motif and the adjacent Arg371-Pro376 region ref [70], ref [69].",
+    "refNo": 69,
+    "title": "Contributions of the C-terminal domain to the control of P2X receptor desensitization",
+    "marker_text": "[69]"
+  },
+  {
+    "sentence": "More broadly, exchanging the charge composition of a six-residue juxtamembrane C-terminal segment altered desensitization in P2X2, P2X3, and P2X4, supporting the idea that electrostatic interactions near the intracellular mouth of the pore tune channel stability in both homo- and heteromeric receptors ref [69].",
+    "refNo": 69,
+    "title": "Contributions of the C-terminal domain to the control of P2X receptor desensitization",
+    "marker_text": "[69]"
+  },
+  {
+    "sentence": "In human P2X4, this principle was narrowed further to Lys373 and Tyr374, with Lys373 acting as a key determinant of desensitization on the seconds timescale ref [72].",
+    "refNo": 72,
+    "title": "The intracellular amino terminus plays a dominant role in desensitization of ATP-gated P2X receptor ion channels",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "In P2X2, a highly conserved N-terminal PKC consensus site centered on Thr18 is required for the slowly desensitizing phenotype, and its disruption converts the channel to a rapidly desensitizing mode ref [13].",
+    "refNo": 13,
+    "title": "Clinical evaluation of the efficacy of the P2X7 purinergic receptor antagonist AZD9056 on the signs and symptoms of rheumatoid arthritis in patients with active disease despite treatment with methotrexate or sulphasalazine",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Lipid regulation adds a further layer: phosphoinositides bind the proximal P2X2 C terminus and oppose desensitization, while neutralization of key basic residues such as Lys365 and Lys369 both weakens phosphoinositide binding and accelerates current decay, linking membrane lipids to stabilization of open states and to pore dilation/ion selectivity changes ref [16].",
+    "refNo": 16,
+    "title": "Agonist binding evokes extensive conformational changes in the extracellular domain of the ATPgated human P2X1 receptor ion channel",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "In P2X3, an alternative mechanism emerges in which the conserved TM1 residue Tyr37 stabilizes desensitized states and limits Ca2+ flux, emphasizing that desensitization and permeation can be co-regulated by residues coupling cytoplasmic and transmembrane rearrangements ref [11].",
+    "refNo": 11,
+    "title": "Physiological roles and potential therapeutic applications of the P2X7 receptor in inflammation and pain",
+    "marker_text": "[11]"
+  }
+]

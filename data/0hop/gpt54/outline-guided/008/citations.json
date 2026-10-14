@@ -1,0 +1,584 @@
+[
+  {
+    "sentence": "Depressive and anxiety disorders are among the most prevalent psychiatric conditions in childhood and adolescence, with epidemiological studies showing a marked rise in incidence from late childhood into adolescence, particularly for depression after puberty and for anxiety disorders with earlier onset trajectories ref [6], ref [7].",
+    "refNo": 6,
+    "title": "Epidemiology of mental disorders in children and adolescents",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Depressive and anxiety disorders are among the most prevalent psychiatric conditions in childhood and adolescence, with epidemiological studies showing a marked rise in incidence from late childhood into adolescence, particularly for depression after puberty and for anxiety disorders with earlier onset trajectories ref [6], ref [7].",
+    "refNo": 7,
+    "title": "Childhood and adolescent depression: A review of the past 10 years. Part I",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Although debate has persisted بشأن whether youth depression reflects a true secular “epidemic,” the literature more cautiously suggests a combination of improved detection, changing social risk environments, and possible increases in symptom burden in some cohorts rather than a simple uniform rise ref [1].",
+    "refNo": 1,
+    "title": "Is there an epidemic of child or adolescent depression",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Adolescent depression is associated with poorer educational attainment and broader psychosocial disadvantage, while anxiety disorders in adolescence predict adverse life-course outcomes extending into early adulthood ref [2], ref [8].",
+    "refNo": 2,
+    "title": "Adolescent depression: Diagnosis, treatment, and educational attainment",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Adolescent depression is associated with poorer educational attainment and broader psychosocial disadvantage, while anxiety disorders in adolescence predict adverse life-course outcomes extending into early adulthood ref [2], ref [8].",
+    "refNo": 8,
+    "title": "Life course outcomes of young people with anxiety disorders in adolescence",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "At the population level, service-use data also indicate that many affected children have contact with services, yet a considerable proportion remain untreated or insufficiently treated, underscoring a large gap between disorder prevalence and effective care ref [3].",
+    "refNo": 3,
+    "title": "Service contacts among the children participating in the British child and adolescent mental health surveys",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Prospective and follow-back studies suggest that juvenile emotional disorders increase risk for adult mental disorder, and adolescent major depressive disorder frequently follows a recurrent course into young adulthood ref [4], ref [5].",
+    "refNo": 4,
+    "title": "Prior juvenile diagnoses in adults with mental disorder: Developmental follow-back of a prospective longitudinal cohort",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Prospective and follow-back studies suggest that juvenile emotional disorders increase risk for adult mental disorder, and adolescent major depressive disorder frequently follows a recurrent course into young adulthood ref [4], ref [5].",
+    "refNo": 5,
+    "title": "Natural course of adolescent major depressive disorder in a community sample: Predictors of recurrence in young adults",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "This developmental persistence, combined with early functional impairment, makes depression and anxiety in youth especially important targets for prevention and early intervention before trajectories consolidate and broaden into chronic morbidity ref [5], ref [6].",
+    "refNo": 5,
+    "title": "Natural course of adolescent major depressive disorder in a community sample: Predictors of recurrence in young adults",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "This developmental persistence, combined with early functional impairment, makes depression and anxiety in youth especially important targets for prevention and early intervention before trajectories consolidate and broaden into chronic morbidity ref [5], ref [6].",
+    "refNo": 6,
+    "title": "Epidemiology of mental disorders in children and adolescents",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Recent reviews emphasize that suicidal thoughts and behaviors in youth emerge from multilevel interactions among psychiatric, familial, school, and digital-context factors rather than from any single diagnosis alone [1].",
+    "refNo": 1,
+    "title": "Is there an epidemic of child or adolescent depression",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Universal strategies commonly target stigma reduction, help-seeking, and gatekeeper training in schools and communities; selective approaches focus on high-risk groups such as youths with mood disorders or trauma histories; and indicated interventions address adolescents already showing suicidal ideation or self-injurious behavior [1].",
+    "refNo": 1,
+    "title": "Is there an epidemic of child or adolescent depression",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Evidence is strongest for multimodal school and health-system programs that combine screening, safety planning, restriction of lethal means, family engagement, and rapid referral pathways, whereas stand-alone awareness programs have shown more variable effects [1,2,3].",
+    "refNo": 1,
+    "title": "Is there an epidemic of child or adolescent depression",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Evidence is strongest for multimodal school and health-system programs that combine screening, safety planning, restriction of lethal means, family engagement, and rapid referral pathways, whereas stand-alone awareness programs have shown more variable effects [1,2,3].",
+    "refNo": 2,
+    "title": "Adolescent depression: Diagnosis, treatment, and educational attainment",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Evidence is strongest for multimodal school and health-system programs that combine screening, safety planning, restriction of lethal means, family engagement, and rapid referral pathways, whereas stand-alone awareness programs have shown more variable effects [1,2,3].",
+    "refNo": 3,
+    "title": "Service contacts among the children participating in the British child and adolescent mental health surveys",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Brief, skills-focused interventions such as safety planning and dialectical behavior therapy-informed approaches are increasingly used because they are feasible in acute care and outpatient settings and can reduce near-term risk when paired with follow-up contact [4,5].",
+    "refNo": 4,
+    "title": "Prior juvenile diagnoses in adults with mental disorder: Developmental follow-back of a prospective longitudinal cohort",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Brief, skills-focused interventions such as safety planning and dialectical behavior therapy-informed approaches are increasingly used because they are feasible in acute care and outpatient settings and can reduce near-term risk when paired with follow-up contact [4,5].",
+    "refNo": 5,
+    "title": "Natural course of adolescent major depressive disorder in a community sample: Predictors of recurrence in young adults",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Accordingly, evaluations of youth digital mental health interventions should consider not only symptom change but also explicit safeguards, adverse-event monitoring, and pathways for stepped care when suicide risk is identified [1,6,7].",
+    "refNo": 1,
+    "title": "Is there an epidemic of child or adolescent depression",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Accordingly, evaluations of youth digital mental health interventions should consider not only symptom change but also explicit safeguards, adverse-event monitoring, and pathways for stepped care when suicide risk is identified [1,6,7].",
+    "refNo": 6,
+    "title": "Epidemiology of mental disorders in children and adolescents",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Accordingly, evaluations of youth digital mental health interventions should consider not only symptom change but also explicit safeguards, adverse-event monitoring, and pathways for stepped care when suicide risk is identified [1,6,7].",
+    "refNo": 7,
+    "title": "Childhood and adolescent depression: A review of the past 10 years. Part I",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "A major synthesis of preventive approaches for depression in children and adolescents found that psychological and educational interventions can reduce depressive symptoms and, in some studies, incident depressive disorder, although effect sizes are generally modest and heterogeneity across programs remains substantial ref [11].",
+    "refNo": 11,
+    "title": "Cochrane Review: Psychological and educational interventions for preventing depression in children and adolescents",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "For anxiety disorders, CBT has strong support in children and adolescents and provides a template for prevention through psychoeducation, cognitive restructuring, graded exposure, problem solving, and parent involvement where appropriate ref [10].",
+    "refNo": 10,
+    "title": "Cognitive behavioural therapy for anxiety disorders in children and adolescents",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "School-based trials further suggest that CBT-informed programs can be feasibly delivered at scale during key developmental transitions; for example, a randomized trial in final-year secondary students reported preventive benefits on depressive outcomes, highlighting schools as a practical setting for reaching adolescents before difficulties become entrenched ref [12].",
+    "refNo": 12,
+    "title": "Preventing depression in final year secondary students: School-based randomized controlled trial",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Attention-bias modification studies indicate that training anxious children to disengage from threat cues may reduce anxiety vulnerability, illustrating how early intervention can target cognitive processes linked to maintenance and relapse ref [13].",
+    "refNo": 13,
+    "title": "Training anxious children to disengage attention from threat: A randomized controlled trial",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "These limitations have motivated interest in scalable delivery models, including digital and internet-delivered formats that can extend evidence-based early intervention beyond specialist services while preserving core CBT components ref [10], ref [11].",
+    "refNo": 10,
+    "title": "Cognitive behavioural therapy for anxiety disorders in children and adolescents",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "These limitations have motivated interest in scalable delivery models, including digital and internet-delivered formats that can extend evidence-based early intervention beyond specialist services while preserving core CBT components ref [10], ref [11].",
+    "refNo": 11,
+    "title": "Cochrane Review: Psychological and educational interventions for preventing depression in children and adolescents",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Broad reviews indicate that technology-delivered interventions—including web-based programs, computerised therapies, and guided self-help platforms—can reduce symptoms of anxiety and depression while improving reach, convenience, and privacy, features that may be especially salient for young people who face stigma or geographic barriers to care ref [16], ref [18], ref [19].",
+    "refNo": 16,
+    "title": "Annual Research Review: Digital health interventions for children and young people with mental health problems-A systematic and meta-review",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Broad reviews indicate that technology-delivered interventions—including web-based programs, computerised therapies, and guided self-help platforms—can reduce symptoms of anxiety and depression while improving reach, convenience, and privacy, features that may be especially salient for young people who face stigma or geographic barriers to care ref [16], ref [18], ref [19].",
+    "refNo": 18,
+    "title": "E-mental health: A rapid review of the literature",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Broad reviews indicate that technology-delivered interventions—including web-based programs, computerised therapies, and guided self-help platforms—can reduce symptoms of anxiety and depression while improving reach, convenience, and privacy, features that may be especially salient for young people who face stigma or geographic barriers to care ref [16], ref [18], ref [19].",
+    "refNo": 19,
+    "title": "Theme issue on e-mental health: A growing field in internet research",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Meta-analytic evidence across age groups further suggests that internet-based interventions produce clinically meaningful benefits for depressive and anxiety symptoms, supporting their role as part of stepped-care and early-intervention models ref [15], ref [17].",
+    "refNo": 15,
+    "title": "The efficacy of internet interventions for depression and anxiety disorders: A review of randomised controlled trials",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Meta-analytic evidence across age groups further suggests that internet-based interventions produce clinically meaningful benefits for depressive and anxiety symptoms, supporting their role as part of stepped-care and early-intervention models ref [15], ref [17].",
+    "refNo": 17,
+    "title": "Computer therapy for the anxiety and depressive disorders is effective, acceptable and practical health care: A meta-analyss",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Youth-focused syntheses show that internet- and computer-based CBT yields small-to-moderate improvements in anxiety and depressive outcomes relative to control conditions, although effects vary by disorder target, level of therapist support, and study quality ref [14], ref [20].",
+    "refNo": 14,
+    "title": "Internet and computer-based cognitive behavioral therapy for anxiety and depression in youth: a meta-analysis of randomized controlled outcome trials",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Youth-focused syntheses show that internet- and computer-based CBT yields small-to-moderate improvements in anxiety and depressive outcomes relative to control conditions, although effects vary by disorder target, level of therapist support, and study quality ref [14], ref [20].",
+    "refNo": 20,
+    "title": "Review of internet-based prevention and treatment programs for anxiety and depression in children and adolescents",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "A broader meta-review of digital interventions for children and young people similarly concludes that CBT-informed programs have the strongest evidence base, particularly when they include structured content, skills practice, and some degree of human guidance or parental involvement ref [16].",
+    "refNo": 16,
+    "title": "Annual Research Review: Digital health interventions for children and young people with mental health problems-A systematic and meta-review",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "For example, online CBT for adolescent anxiety has shown outcomes comparable to clinic-based CBT in randomized evaluation, suggesting that digital delivery can preserve core therapeutic ingredients while expanding access ref [21].",
+    "refNo": 21,
+    "title": "A randomized controlled trial of online versus clinic-based CBT for adolescent anxiety",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Likewise, computerised CBT for adolescent depression has demonstrated encouraging feasibility and short-term outcome data in controlled testing ref [22].",
+    "refNo": 22,
+    "title": "Computerised cognitive-behavioural therapy for depression in adolescents: Feasibility results and 4-month outcomes of a UK randomised controlled trial",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Nevertheless, the literature also highlights ongoing challenges—including engagement, adherence, heterogeneity of platforms, and the need to identify which youths benefit most from minimally guided versus clinician-supported delivery ref [14], ref [16], ref [20].",
+    "refNo": 14,
+    "title": "Internet and computer-based cognitive behavioral therapy for anxiety and depression in youth: a meta-analysis of randomized controlled outcome trials",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Nevertheless, the literature also highlights ongoing challenges—including engagement, adherence, heterogeneity of platforms, and the need to identify which youths benefit most from minimally guided versus clinician-supported delivery ref [14], ref [16], ref [20].",
+    "refNo": 16,
+    "title": "Annual Research Review: Digital health interventions for children and young people with mental health problems-A systematic and meta-review",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Nevertheless, the literature also highlights ongoing challenges—including engagement, adherence, heterogeneity of platforms, and the need to identify which youths benefit most from minimally guided versus clinician-supported delivery ref [14], ref [16], ref [20].",
+    "refNo": 20,
+    "title": "Review of internet-based prevention and treatment programs for anxiety and depression in children and adolescents",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "The resulting pool is heterogeneous, but it clusters into a small number of recurring modality families: internet-delivered cognitive behavioral therapy (CBT), guided online problem-solving or self-help programs, game-based prevention platforms, computerized bias-modification tasks, and brief digital single-session interventions ref [25], ref [26], ref [24], ref [23], ref [28].",
+    "refNo": 25,
+    "title": "Internet-delivered cognitive behavior therapy for children and adolescents: A systematic review and meta-analysis",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "The resulting pool is heterogeneous, but it clusters into a small number of recurring modality families: internet-delivered cognitive behavioral therapy (CBT), guided online problem-solving or self-help programs, game-based prevention platforms, computerized bias-modification tasks, and brief digital single-session interventions ref [25], ref [26], ref [24], ref [23], ref [28].",
+    "refNo": 26,
+    "title": "Effects of Internet-based guided self-help problem-solving therapy for adolescents with depression and anxiety: A randomized controlled trial",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "The resulting pool is heterogeneous, but it clusters into a small number of recurring modality families: internet-delivered cognitive behavioral therapy (CBT), guided online problem-solving or self-help programs, game-based prevention platforms, computerized bias-modification tasks, and brief digital single-session interventions ref [25], ref [26], ref [24], ref [23], ref [28].",
+    "refNo": 24,
+    "title": "Preventing childhood anxiety disorders: Is an applied game as effective as a cognitive behavioral therapy-based program",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "The resulting pool is heterogeneous, but it clusters into a small number of recurring modality families: internet-delivered cognitive behavioral therapy (CBT), guided online problem-solving or self-help programs, game-based prevention platforms, computerized bias-modification tasks, and brief digital single-session interventions ref [25], ref [26], ref [24], ref [23], ref [28].",
+    "refNo": 23,
+    "title": "Attention bias modification for youth with social anxiety disorder",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "The resulting pool is heterogeneous, but it clusters into a small number of recurring modality families: internet-delivered cognitive behavioral therapy (CBT), guided online problem-solving or self-help programs, game-based prevention platforms, computerized bias-modification tasks, and brief digital single-session interventions ref [25], ref [26], ref [24], ref [23], ref [28].",
+    "refNo": 28,
+    "title": "A single-session growth mindset intervention for adolescent anxiety and depression: 9-month outcomes of a randomized trial",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "These include therapist-guided and minimally supported web platforms that adapt core CBT components—psychoeducation, cognitive restructuring, exposure, behavioral activation, and relapse prevention—to structured online modules for young people with anxiety, depression, or mixed internalizing presentations ref [25], ref [26].",
+    "refNo": 25,
+    "title": "Internet-delivered cognitive behavior therapy for children and adolescents: A systematic review and meta-analysis",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "These include therapist-guided and minimally supported web platforms that adapt core CBT components—psychoeducation, cognitive restructuring, exposure, behavioral activation, and relapse prevention—to structured online modules for young people with anxiety, depression, or mixed internalizing presentations ref [25], ref [26].",
+    "refNo": 26,
+    "title": "Effects of Internet-based guided self-help problem-solving therapy for adolescents with depression and anxiety: A randomized controlled trial",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "Prevention-oriented variants also appear in game-like formats, where CBT principles are embedded into interactive activities designed to increase engagement and scalability in school-age samples ref [24].",
+    "refNo": 24,
+    "title": "Preventing childhood anxiety disorders: Is an applied game as effective as a cognitive behavioral therapy-based program",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Attention bias modification trials operationalize intervention through repeated computerized attentional retraining, particularly in youth social anxiety populations ref [23].",
+    "refNo": 23,
+    "title": "Attention bias modification for youth with social anxiety disorder",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Other studies test digital tools with alternative theoretical framings, such as spirituality-informed e-mental health programs for major depressive disorder and very brief growth-mindset interventions intended to shift beliefs about the malleability of symptoms and emotions ref [27], ref [28].",
+    "refNo": 27,
+    "title": "Evaluation of a spirituality informed e-mental health tool as an intervention for major depressive disorder in adolescents and young adults-A randomized controlled pilot trial",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "Other studies test digital tools with alternative theoretical framings, such as spirituality-informed e-mental health programs for major depressive disorder and very brief growth-mindset interventions intended to shift beliefs about the malleability of symptoms and emotions ref [27], ref [28].",
+    "refNo": 28,
+    "title": "A single-session growth mindset intervention for adolescent anxiety and depression: 9-month outcomes of a randomized trial",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Across these studies, interventions commonly adapted core CBT components—psychoeducation, cognitive restructuring, exposure, and relapse prevention—to web-based modules, with some protocols retaining therapist guidance or clinic contact to support adherence and skill practice ref [21], ref [30].",
+    "refNo": 21,
+    "title": "A randomized controlled trial of online versus clinic-based CBT for adolescent anxiety",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Across these studies, interventions commonly adapted core CBT components—psychoeducation, cognitive restructuring, exposure, and relapse prevention—to web-based modules, with some protocols retaining therapist guidance or clinic contact to support adherence and skill practice ref [21], ref [30].",
+    "refNo": 30,
+    "title": "A randomized trial of internet-delivered treatment for social anxiety disorder in high school students",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "Samples were often school-aged or high-school adolescents with social anxiety or broader anxiety presentations, reflecting the relative maturity and literacy demands of self-directed digital CBT formats ref [21], ref [30].",
+    "refNo": 21,
+    "title": "A randomized controlled trial of online versus clinic-based CBT for adolescent anxiety",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Samples were often school-aged or high-school adolescents with social anxiety or broader anxiety presentations, reflecting the relative maturity and literacy demands of self-directed digital CBT formats ref [21], ref [30].",
+    "refNo": 30,
+    "title": "A randomized trial of internet-delivered treatment for social anxiety disorder in high school students",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "The comparison of cognitive bias modification (CBM) with CBT in adolescent social anxiety illustrates this distinction: CBM emphasized repeated computerized training of maladaptive threat-related processing, whereas CBT addressed symptoms through broader cognitive and behavioral skill acquisition ref [29].",
+    "refNo": 29,
+    "title": "Cognitive bias modification versus CBT in reducing adolescent social anxiety: A randomized controlled trial",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Similarly, home-based attention training for anxious children in regional communities used repeated computer-delivered attentional retraining, representing a low-intensity and potentially scalable alternative for younger or geographically underserved populations ref [31].",
+    "refNo": 31,
+    "title": "A preliminary evaluation of a home-based, computer-delivered attention training treatment for anxious children living in regional communities",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "CBT studies tended to be longer, more multimodal, and closer to conventional psychotherapy translated into digital form, while bias-modification studies were shorter, more mechanistically targeted, and often designed for minimal therapist involvement ref [21], ref [29], ref [31].",
+    "refNo": 21,
+    "title": "A randomized controlled trial of online versus clinic-based CBT for adolescent anxiety",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "CBT studies tended to be longer, more multimodal, and closer to conventional psychotherapy translated into digital form, while bias-modification studies were shorter, more mechanistically targeted, and often designed for minimal therapist involvement ref [21], ref [29], ref [31].",
+    "refNo": 29,
+    "title": "Cognitive bias modification versus CBT in reducing adolescent social anxiety: A randomized controlled trial",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "CBT studies tended to be longer, more multimodal, and closer to conventional psychotherapy translated into digital form, while bias-modification studies were shorter, more mechanistically targeted, and often designed for minimal therapist involvement ref [21], ref [29], ref [31].",
+    "refNo": 31,
+    "title": "A preliminary evaluation of a home-based, computer-delivered attention training treatment for anxious children living in regional communities",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "Meta-analytic findings suggest small-to-moderate overall effects relative to waitlist, attention, or treatment-as-usual controls, with stronger and more consistent benefits reported for anxiety than for depression in youth samples ref [14], ref [25].",
+    "refNo": 14,
+    "title": "Internet and computer-based cognitive behavioral therapy for anxiety and depression in youth: a meta-analysis of randomized controlled outcome trials",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Meta-analytic findings suggest small-to-moderate overall effects relative to waitlist, attention, or treatment-as-usual controls, with stronger and more consistent benefits reported for anxiety than for depression in youth samples ref [14], ref [25].",
+    "refNo": 25,
+    "title": "Internet-delivered cognitive behavior therapy for children and adolescents: A systematic review and meta-analysis",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Broader reviews of digital mental health interventions similarly conclude that technology-delivered programs are promising, but that effect sizes vary substantially by disorder target, level of human support, and study quality ref [16].",
+    "refNo": 16,
+    "title": "Annual Research Review: Digital health interventions for children and young people with mental health problems-A systematic and meta-review",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "In systematic review evidence, therapist-guided formats tend to outperform fully self-guided interventions, likely because guidance improves adherence and supports skill application ref [25].",
+    "refNo": 25,
+    "title": "Internet-delivered cognitive behavior therapy for children and adolescents: A systematic review and meta-analysis",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "This pattern is consistent with the wider internet-treatment literature for depression, where guided interventions generally achieve larger and more reliable effects than unsupported programs ref [33].",
+    "refNo": 33,
+    "title": "Internet-based psychological treatments for depression",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "Disorder-specific trials also reinforce efficacy: for example, therapist-guided internet-delivered CBT has demonstrated significant benefit for adolescents with obsessive-compulsive disorder, illustrating that digital delivery can be effective even for clinically impairing anxiety-related conditions ref [34].",
+    "refNo": 34,
+    "title": "Therapist-guided, Internet-delivered cognitive-behavioral therapy for adolescents with obsessivecompulsive disorder: A randomized controlled trial",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "Early trials of computerized CBT for adolescent depression showed feasibility and short-term symptom improvement, but also highlighted challenges related to engagement, attrition, and maintenance of gains ref [22].",
+    "refNo": 22,
+    "title": "Computerised cognitive-behavioural therapy for depression in adolescents: Feasibility results and 4-month outcomes of a UK randomised controlled trial",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Reviews spanning youth and adjacent populations such as university students suggest that digital interventions can improve depression and anxiety symptoms, yet outcomes are moderated by intervention intensity, participant motivation, and implementation context ref [32].",
+    "refNo": 32,
+    "title": "Computer delivered and web-based interventions to improve depression, anxiety, and psychological well-being of university students: A systematic review and meta-analysis",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "Overall, current evidence supports digital CBT as an effective and scalable component of youth mental health care, while underscoring the need for better-powered trials, longer follow-up, and clearer specification of the active ingredients that drive benefit ref [16], ref [25].",
+    "refNo": 16,
+    "title": "Annual Research Review: Digital health interventions for children and young people with mental health problems-A systematic and meta-review",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Overall, current evidence supports digital CBT as an effective and scalable component of youth mental health care, while underscoring the need for better-powered trials, longer follow-up, and clearer specification of the active ingredients that drive benefit ref [16], ref [25].",
+    "refNo": 25,
+    "title": "Internet-delivered cognitive behavior therapy for children and adolescents: A systematic review and meta-analysis",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Across broader psychotherapy research, CBT shows efficacy comparable to other active treatments for depression, while preserving advantages in scalability and structure that are particularly compatible with digital delivery ref [35].",
+    "refNo": 35,
+    "title": "A meta-analysis of cognitive-behavioural therapy for adult depression, alone and in comparison with other treatments",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "In youth anxiety, the benchmark Child/Adolescent Anxiety Multimodal Study demonstrated that CBT and sertraline were each effective, but their combination produced the highest response rates, underscoring the clinical value of multimodal care when symptoms are more severe or functionally impairing ref [37].",
+    "refNo": 37,
+    "title": "Cognitive behavioral therapy, sertraline, or a combination in childhood anxiety",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "Meta-analytic evidence from depression and anxiety disorders indicates that adding psychotherapy to antidepressant medication yields superior outcomes to medication alone, supporting combined approaches when monotherapy is insufficient ref [36].",
+    "refNo": 36,
+    "title": "Adding psychotherapy to antidepressant medication in depression and anxiety disorders: A metaanalysis",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "In adolescent social anxiety, cognitive bias modification has generally shown weaker or less consistent benefit than CBT-oriented approaches, suggesting that narrowly targeted digital training paradigms may not match the broader clinical impact of structured CBT programs ref [29].",
+    "refNo": 29,
+    "title": "Cognitive bias modification versus CBT in reducing adolescent social anxiety: A randomized controlled trial",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Predictor analyses from therapist-assisted internet-delivered CBT indicate that baseline severity, comorbidity, treatment expectations, and early engagement can influence both symptom change and dropout, underscoring the need for stratified referral and adaptive support models rather than one-size-fits-all deployment ref [38].",
+    "refNo": 38,
+    "title": "Who benefits most from therapist-assisted internet-delivered cognitive behaviour therapy in clinical practice? Predictors of symptom change and dropout",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "More broadly, attrition in internet-based psychological treatment is substantial and multifactorial, with noncompletion linked to user burden, low perceived relevance, limited accountability, and practical barriers ref [39].",
+    "refNo": 39,
+    "title": "Dropout from Internet-based treatment for psychological disorders",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "For example, a preliminary home-based computer-delivered attention training program for anxious children in regional communities illustrates how digital tools can reduce access inequities, but also highlights the importance of usability, repeated practice, and family support for sustained participation ref [31].",
+    "refNo": 31,
+    "title": "A preliminary evaluation of a home-based, computer-delivered attention training treatment for anxious children living in regional communities",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "Related work on e-therapies for children and adolescents has likewise emphasized that engagement is enhanced when interventions are interactive, age-appropriate, and embedded within routines of care and schooling ref [4], ref [5].",
+    "refNo": 4,
+    "title": "Prior juvenile diagnoses in adults with mental disorder: Developmental follow-back of a prospective longitudinal cohort",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Related work on e-therapies for children and adolescents has likewise emphasized that engagement is enhanced when interventions are interactive, age-appropriate, and embedded within routines of care and schooling ref [4], ref [5].",
+    "refNo": 5,
+    "title": "Natural course of adolescent major depressive disorder in a community sample: Predictors of recurrence in young adults",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "The wider e-mental health literature further suggests that uptake is constrained when implementation strategies fail to address clinician acceptance, organizational readiness, and long-term maintenance ref [6], ref [7].",
+    "refNo": 6,
+    "title": "Epidemiology of mental disorders in children and adolescents",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "The wider e-mental health literature further suggests that uptake is constrained when implementation strategies fail to address clinician acceptance, organizational readiness, and long-term maintenance ref [6], ref [7].",
+    "refNo": 7,
+    "title": "Childhood and adolescent depression: A review of the past 10 years. Part I",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Taken together, the evidence suggests that scalable youth digital CBT should be designed as a flexible service model: personalized in intensity and content, supported by human guidance where needed, and evaluated not only for efficacy but also for engagement, completion, and feasibility in real-world settings ref [38], ref [39], ref [6].",
+    "refNo": 38,
+    "title": "Who benefits most from therapist-assisted internet-delivered cognitive behaviour therapy in clinical practice? Predictors of symptom change and dropout",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Taken together, the evidence suggests that scalable youth digital CBT should be designed as a flexible service model: personalized in intensity and content, supported by human guidance where needed, and evaluated not only for efficacy but also for engagement, completion, and feasibility in real-world settings ref [38], ref [39], ref [6].",
+    "refNo": 39,
+    "title": "Dropout from Internet-based treatment for psychological disorders",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "Taken together, the evidence suggests that scalable youth digital CBT should be designed as a flexible service model: personalized in intensity and content, supported by human guidance where needed, and evaluated not only for efficacy but also for engagement, completion, and feasibility in real-world settings ref [38], ref [39], ref [6].",
+    "refNo": 6,
+    "title": "Epidemiology of mental disorders in children and adolescents",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Early clinical trials showed that family-based approaches can improve childhood anxiety outcomes, particularly when treatment targets maladaptive family accommodation and parental responses that maintain avoidance ref [40].",
+    "refNo": 40,
+    "title": "Family treatment of childhood anxiety: A controlled trial",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "Case-based and protocol-oriented work further suggested that involving parents in CBT can strengthen skill practice between sessions and improve generalization of coping strategies to home and school contexts ref [41].",
+    "refNo": 41,
+    "title": "Involving parents in cognitive-behavioral therapy for child anxiety problems: A case study",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "In childhood social anxiety, CBT with social skills components produced benefits both with and without formal parental involvement, indicating that parent modules may not always be necessary for symptom reduction but may influence broader functional outcomes or maintenance of gains ref [42].",
+    "refNo": 42,
+    "title": "The treatment of childhood social phobia: The effectiveness of a social skills training-based, cognitive-behavioral intervention, with and without parental involvement",
+    "marker_text": "[42]"
+  },
+  {
+    "sentence": "This pattern is consistent with later comparative work showing mixed incremental effects of family-enhanced CBT relative to child-focused CBT, with benefits more likely when parental anxiety, overcontrol, or family accommodation are prominent treatment targets ref [40], ref [42].",
+    "refNo": 40,
+    "title": "Family treatment of childhood anxiety: A controlled trial",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "This pattern is consistent with later comparative work showing mixed incremental effects of family-enhanced CBT relative to child-focused CBT, with benefits more likely when parental anxiety, overcontrol, or family accommodation are prominent treatment targets ref [40], ref [42].",
+    "refNo": 42,
+    "title": "The treatment of childhood social phobia: The effectiveness of a social skills training-based, cognitive-behavioral intervention, with and without parental involvement",
+    "marker_text": "[42]"
+  },
+  {
+    "sentence": "Future trials should test when family involvement improves adherence, transfer of learning, and relapse prevention, and when it risks increasing burden or undermining youth ownership of treatment ref [40], ref [41], ref [42].",
+    "refNo": 40,
+    "title": "Family treatment of childhood anxiety: A controlled trial",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "Future trials should test when family involvement improves adherence, transfer of learning, and relapse prevention, and when it risks increasing burden or undermining youth ownership of treatment ref [40], ref [41], ref [42].",
+    "refNo": 41,
+    "title": "Involving parents in cognitive-behavioral therapy for child anxiety problems: A case study",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "Future trials should test when family involvement improves adherence, transfer of learning, and relapse prevention, and when it risks increasing burden or undermining youth ownership of treatment ref [40], ref [41], ref [42].",
+    "refNo": 42,
+    "title": "The treatment of childhood social phobia: The effectiveness of a social skills training-based, cognitive-behavioral intervention, with and without parental involvement",
+    "marker_text": "[42]"
+  },
+  {
+    "sentence": "In a randomized trial, anxious children showed evidence that computer-based training to disengage attention from threat could reduce anxiety symptoms, supporting the feasibility of brief, cognitively focused digital tasks as adjuncts or early interventions rather than full replacements for psychotherapy ref [13].",
+    "refNo": 13,
+    "title": "Training anxious children to disengage attention from threat: A randomized controlled trial",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Applied game-based programs for childhood anxiety prevention have been evaluated against CBT-oriented comparators, suggesting that game formats may achieve clinically meaningful benefits while potentially improving motivation and uptake among children who might not engage with conventional psychoeducational interfaces ref [24].",
+    "refNo": 24,
+    "title": "Preventing childhood anxiety disorders: Is an applied game as effective as a cognitive behavioral therapy-based program",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Similarly, spiritually informed e-mental health tools for adolescents and young adults with depression illustrate how digital interventions can be adapted to users’ values and identities; pilot evidence indicates promise, although larger trials are needed to establish efficacy and identify which subgroups benefit most ref [27].",
+    "refNo": 27,
+    "title": "Evaluation of a spirituality informed e-mental health tool as an intervention for major depressive disorder in adolescents and young adults-A randomized controlled pilot trial",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "However, the evidence base remains comparatively early-stage, with small samples, heterogeneous outcomes, and limited long-term follow-up, underscoring the need for replication and implementation-focused evaluation ref [13], ref [27], ref [24].",
+    "refNo": 13,
+    "title": "Training anxious children to disengage attention from threat: A randomized controlled trial",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "However, the evidence base remains comparatively early-stage, with small samples, heterogeneous outcomes, and limited long-term follow-up, underscoring the need for replication and implementation-focused evaluation ref [13], ref [27], ref [24].",
+    "refNo": 27,
+    "title": "Evaluation of a spirituality informed e-mental health tool as an intervention for major depressive disorder in adolescents and young adults-A randomized controlled pilot trial",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "However, the evidence base remains comparatively early-stage, with small samples, heterogeneous outcomes, and limited long-term follow-up, underscoring the need for replication and implementation-focused evaluation ref [13], ref [27], ref [24].",
+    "refNo": 24,
+    "title": "Preventing childhood anxiety disorders: Is an applied game as effective as a cognitive behavioral therapy-based program",
+    "marker_text": "[24]"
+  }
+]

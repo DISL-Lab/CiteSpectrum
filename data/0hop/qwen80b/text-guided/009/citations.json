@@ -1,0 +1,277 @@
+[
+  {
+    "sentence": "The sensitivity and dissociation of these subtypes have been demonstrated across clinical and behavioral assessments, with distinct patterns emerging in personal, extrapersonal, and representational neglect (ref [5]; ref [12]).",
+    "refNo": 5,
+    "title": "Non-spatial neglect for the mental number line",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "The sensitivity and dissociation of these subtypes have been demonstrated across clinical and behavioral assessments, with distinct patterns emerging in personal, extrapersonal, and representational neglect (ref [5]; ref [12]).",
+    "refNo": 12,
+    "title": "Is there a critical lesion site for unilateral spatial neglect? A meta-analysis using activation likelihood estimation",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Arguably, the most influential theory within this context is the attention-shifting model proposed by Posner, Walker, Friedrich, and Rafal (1984), which postulates that covert attention shifts (i.e., without muscular involvement) depend on three internal mental operations: (1) disengagement of attention from a current stimulus, (2) shift of attention to the new target, and (3) engagement of the new target.",
+    "refNo": 1,
+    "title": "Sensitivity of clinical and behavioural tests of spatial neglect after right hemisphere stroke",
+    "marker_text": "(1)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Arguably, the most influential theory within this context is the attention-shifting model proposed by Posner, Walker, Friedrich, and Rafal (1984), which postulates that covert attention shifts (i.e., without muscular involvement) depend on three internal mental operations: (1) disengagement of attention from a current stimulus, (2) shift of attention to the new target, and (3) engagement of the new target.",
+    "refNo": 2,
+    "title": "Semiology of neglect: An update",
+    "marker_text": "(2)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Arguably, the most influential theory within this context is the attention-shifting model proposed by Posner, Walker, Friedrich, and Rafal (1984), which postulates that covert attention shifts (i.e., without muscular involvement) depend on three internal mental operations: (1) disengagement of attention from a current stimulus, (2) shift of attention to the new target, and (3) engagement of the new target.",
+    "refNo": 3,
+    "title": "Spatial displacement of numbers on a vertical number line in spatial neglect",
+    "marker_text": "(3)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Representational neglect, which affects mental imagery independently of perceptual deficits, has been documented in rare cases and is associated with parietal lesions (ref [16]).",
+    "refNo": 16,
+    "title": "Neglecting the left side of a City Square but not the left side of its clock: Prevalence and characteristics of representational neglect",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Furthermore, recent evidence suggests that representational neglect for places involves disconnection of white matter tracts including the superior longitudinal fasciculus and posterior arcuate segment (ref [18]).",
+    "refNo": 18,
+    "title": "Severity of unilateral spatial neglect is an independent predictor of functional outcome after acute inpatient rehabilitation in individuals with right hemispheric stroke",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "The spatial representation of numerical sequences is also affected in neglect, with patients showing biased mental number line representations that are ipsilesionally shifted, even when stimuli are vertically oriented (ref [15]; ref [17]; ref [19]).",
+    "refNo": 15,
+    "title": "Pure representational neglect after right thalamic lesion",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "The spatial representation of numerical sequences is also affected in neglect, with patients showing biased mental number line representations that are ipsilesionally shifted, even when stimuli are vertically oriented (ref [15]; ref [17]; ref [19]).",
+    "refNo": 17,
+    "title": "Frequency, risk factors, anatomy, and course of unilateral neglect in an acute stroke cohort",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "The spatial representation of numerical sequences is also affected in neglect, with patients showing biased mental number line representations that are ipsilesionally shifted, even when stimuli are vertically oriented (ref [15]; ref [17]; ref [19]).",
+    "refNo": 19,
+    "title": "Effect of subtypes of neglect on functional outcome in stroke patients",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Some authors combine said classifications and describe for example, extrapersonal neglect in terms of visual or auditory (i.e., sensory) deficits and personal neglect in terms of somatosensory deficits (ref [8]).",
+    "refNo": 8,
+    "title": "Damage to white matter pathways in subacute and chronic spatial neglect: A group study and 2 singlecase studies with complete virtual \"in vivo\" tractography dissection",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "In visuospatial neglect, at least two different coding systems can be impaired (ref [9]).",
+    "refNo": 9,
+    "title": "Anatomy of spatial attention: Insights from perfusion imaging and hemispatial neglect in acute stroke",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Similar associations and modulatory influences have been reported for sustained attention (ref [12]) and selective attention (Husain, Shapiro, Martin, & Kennard, 1997).",
+    "refNo": 12,
+    "title": "Is there a critical lesion site for unilateral spatial neglect? A meta-analysis using activation likelihood estimation",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Based on these findings, Mesulam (1981, 1999) proposed that visuospatial neglect is more frequent after right brain damage because the left hemisphere controls attention only towards the right hemi-space, while the right hemisphere controls attentional orienting toward both the left and right hemi-spaces (ref [12]).",
+    "refNo": 12,
+    "title": "Is there a critical lesion site for unilateral spatial neglect? A meta-analysis using activation likelihood estimation",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "The anatomical underpinnings of this asymmetry involve not only cortical regions but also critical white matter pathways: damage to the superior longitudinal fasciculus has been consistently linked to chronic neglect, even in the absence of cortical lesions (ref [11]), and meta-analytic evidence confirms that lesions in the right middle and superior temporal gyrus, inferior parietal lobule, and posterior part of the superior longitudinal fasciculus are most consistently associated with neglect symptoms (ref [12]).",
+    "refNo": 11,
+    "title": "The subcortical anatomy of human spatial neglect: Putamen, caudate nucleus and pulvinar",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "The anatomical underpinnings of this asymmetry involve not only cortical regions but also critical white matter pathways: damage to the superior longitudinal fasciculus has been consistently linked to chronic neglect, even in the absence of cortical lesions (ref [11]), and meta-analytic evidence confirms that lesions in the right middle and superior temporal gyrus, inferior parietal lobule, and posterior part of the superior longitudinal fasciculus are most consistently associated with neglect symptoms (ref [12]).",
+    "refNo": 12,
+    "title": "Is there a critical lesion site for unilateral spatial neglect? A meta-analysis using activation likelihood estimation",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Furthermore, subcortical structures including the putamen, pulvinar, and caudate nucleus—each connected to the superior temporal gyrus—form a coherent network whose disruption can produce neglect independently of cortical damage (ref [12]).",
+    "refNo": 12,
+    "title": "Is there a critical lesion site for unilateral spatial neglect? A meta-analysis using activation likelihood estimation",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "These findings challenge the traditional view of neglect as a purely \"parietal sign\" and instead support a network-based model involving distributed gray and white matter structures (ref [14]).",
+    "refNo": 14,
+    "title": "Bimanual coordination and perceptual grouping in a patient with motor neglect",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Sensory neglect is described as a selective unawareness of sensory (visual, auditory, tactile, and olfactory) stimuli ref [14].",
+    "refNo": 14,
+    "title": "Bimanual coordination and perceptual grouping in a patient with motor neglect",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "In addition to missing targets on the contralesional side, patients sometimes also fail to cancel targets on the ipsilesional side ref [14], which can be interpreted as an inefficient search strategy.",
+    "refNo": 14,
+    "title": "Bimanual coordination and perceptual grouping in a patient with motor neglect",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "More suggestive of an executive deficit is the so-called \"revisiting\" behavior, where patients repeatedly cancel out the same target ref [15].",
+    "refNo": 15,
+    "title": "Pure representational neglect after right thalamic lesion",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "In the context of a primarily visuospatial neglect-related impairment these symptoms may be regarded as a space-related executive dysfunction or an impairment in spatial working-memory ref [16].",
+    "refNo": 16,
+    "title": "Neglecting the left side of a City Square but not the left side of its clock: Prevalence and characteristics of representational neglect",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "In rare cases, visuospatial neglect can be caused by trauma ref [14], neurodegenerative disease ref [15], or neoplasia ref [16], but in the vast majority of patients it is caused by middle- or less frequently -posterior cerebral artery stroke.",
+    "refNo": 14,
+    "title": "Bimanual coordination and perceptual grouping in a patient with motor neglect",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "In rare cases, visuospatial neglect can be caused by trauma ref [14], neurodegenerative disease ref [15], or neoplasia ref [16], but in the vast majority of patients it is caused by middle- or less frequently -posterior cerebral artery stroke.",
+    "refNo": 15,
+    "title": "Pure representational neglect after right thalamic lesion",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "In rare cases, visuospatial neglect can be caused by trauma ref [14], neurodegenerative disease ref [15], or neoplasia ref [16], but in the vast majority of patients it is caused by middle- or less frequently -posterior cerebral artery stroke.",
+    "refNo": 16,
+    "title": "Neglecting the left side of a City Square but not the left side of its clock: Prevalence and characteristics of representational neglect",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Visuospatial neglect after stroke, like motor and language deficits ref [14], not only arises from cortical lesions, but via disconnection of widespread networks, leading to diaschisis and resulting in cortical hypoperfusion and changes in interhemispheric balance.",
+    "refNo": 14,
+    "title": "Bimanual coordination and perceptual grouping in a patient with motor neglect",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "The role of arousal and alertness in modulating neglect has been demonstrated through endogenous means, such as perceived time-pressure, which can reduce spatial bias without external stimulation (ref [23]).",
+    "refNo": 23,
+    "title": "A demonstration of endogenous modulation of unilateral spatial neglect: The impact of apparent time-pressure on spatial bias",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Furthermore, nonlateralized attentional deficits may constitute an important underlying component of persistent neglect (ref [22]).",
+    "refNo": 22,
+    "title": "Nonlateralized attentional deficits: An important component behind persisting visuospatial neglect?",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "A cortical network for directed attention, integrating sensory, motor, motivational, and arousal components, provides a framework for understanding the distributed nature of neglect (ref [25]).",
+    "refNo": 25,
+    "title": "Spatial neglect and attention networks",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Dysfunction in distributed cortical networks, particularly involving the ventral frontoparietal attention network and its interaction with the dorsal network, better explains the spatial and non-spatial deficits in neglect than focal lesions alone (ref [13]).",
+    "refNo": 13,
+    "title": "White matter (dis)connections and gray matter (dys)functions in visual neglect: Gaining insights into the brain networks of spatial awareness",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Structural and functional imaging studies have shown that extensive damage to parietal and sensorimotor cortex, as well as white matter fiber bundles including the superior longitudinal and inferior frontal fasciculi, correlates strongly with neglect severity (ref [15]).",
+    "refNo": 15,
+    "title": "Pure representational neglect after right thalamic lesion",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "An overall index can be calculated. ref [28].",
+    "refNo": 28,
+    "title": "Guidelines for adult stroke rehabilitation and recovery: A guideline for healthcare professionals from the American Heart Association/American Stroke Association",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Omissions or cramming of contralesional details indicates visuospatial neglect ref [30].",
+    "refNo": 30,
+    "title": "Normative data for distal line bisection and baking tray task",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "Omissions on contralesional side of the face indicate personal visuospatial neglect ref [29].",
+    "refNo": 29,
+    "title": "Screening patients with stroke for rehabilitation needs: Validation of the post-stroke rehabilitation guidelines",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Disrupt the integrated neuronal activity of the intact side, dampen the attention to the ipsilesional side and thereby restore orientation balance between both hemispheres (compensation), or alternatively, induce the process of neuroplasticity (restitution). ref [7].",
+    "refNo": 7,
+    "title": "The spatial representation of numerical and non-numerical sequences: Evidence from neglect",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "ref [6] We searched MEDLINE, EMBASE and CENTRAL (most recent search in April 2019, no historical limit applied).",
+    "refNo": 6,
+    "title": "The way to \"left\" Piazza del Popolo: Damage to white matter tracts in representational neglect for places",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Animal research shows that unilateral lesioning or cooling of critical parietal regions could induce visuospatial neglect-like symptoms in cats (Lomber, ref [2]).",
+    "refNo": 2,
+    "title": "Semiology of neglect: An update",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Using anodal and cathodal stimulation over the left or right PPC in separate sessions, Sparing and colleagues could enhance or impair the detection of a target Fig. 2 Interhemispheric rivalry model and noninvasive brain stimulation: a Balanced allocation of attention: In healthy subjects, allocation of attention towards both hemi-spaces is balanced by mutual transcallosal inhibition.",
+    "refNo": 2,
+    "title": "Semiology of neglect: An update",
+    "marker_text": "2",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "In total, 25 studies (12 randomized controlled trials, two case studies) published between September 1999 and April 2019 were included in the systematic review (Fig. 3 and Table 4).",
+    "refNo": 3,
+    "title": "Spatial displacement of numbers on a vertical number line in spatial neglect",
+    "marker_text": "3",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Pharmacological interventions for visuospatial neglect have been systematically reviewed, with evidence suggesting that cholinergic therapy may hold the most promise for future research, though study quality remains generally low (ref [47]).",
+    "refNo": 47,
+    "title": "Pharmacological treatment of visuospatial neglect: A systematic review",
+    "marker_text": "[47]"
+  },
+  {
+    "sentence": "In a recent review on rehabilitation of visuospatial neglect, Azouvi et al. (2017) concluded, that there still is only a low level of evidence for various rehabilitation methods and emphasized the need for larger validation trials using innovative and promising rehabilitation techniques such as noninvasive brain stimulation ref [48].",
+    "refNo": 48,
+    "title": "Rehabilitation of unilateral neglect: Evidence-based medicine",
+    "marker_text": "[48]"
+  },
+  {
+    "sentence": "Neglect has a significant negative impact on functional outcome, either as an independent predictive factor or in connection with other variables ref [49].",
+    "refNo": 49,
+    "title": "Impact of neglect on functional outcome after stroke: A review of methodological issues and recent research findings",
+    "marker_text": "[49]"
+  },
+  {
+    "sentence": "In animals, visuospatial neglect can be induced by unilateral interruption of the dopaminergic system and subsequent administration of dopamine agonists can reduce visuospatial neglect (ref [4]).",
+    "refNo": 4,
+    "title": "What the eyes perceive, the brain ignores: A case of pure unilateral representational neglect",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "In humans, an improvement of visuospatial neglect symptoms was reported with dopamine agonists (ref [51]; Fleet, Valenstein, Watson, & Heilman, 1987).",
+    "refNo": 51,
+    "title": "Dopaminergic therapy with carbidopa L-dopa for left neglect after stroke: A case series",
+    "marker_text": "[51]"
+  },
+  {
+    "sentence": "Other pharmacological approaches include noradrenergic agents (ref [50]) and pro-cholinergic drugs (Thiel, Zilles, & Fink, 2005).",
+    "refNo": 50,
+    "title": "Noradrenergic modulation of space exploration in visual neglect",
+    "marker_text": "[50]"
+  }
+]

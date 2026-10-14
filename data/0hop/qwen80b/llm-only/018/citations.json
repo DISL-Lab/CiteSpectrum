@@ -1,0 +1,956 @@
+[
+  {
+    "sentence": "The application of neural networks in medical image analysis began in the 1990s with shallow architectures such as multilayer perceptrons (MLPs) used for tumor classification in mammograms and brain MRI scans [1].",
+    "refNo": 1,
+    "title": "Neural networks for the detection of breast cancer in mammograms",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Researchers adapted CNNs for medical imaging tasks, achieving breakthroughs in lesion detection and organ segmentation, as demonstrated in the 2012 ISBI challenge for cell segmentation [2].",
+    "refNo": 2,
+    "title": "U-Net: Convolutional networks for biomedical image segmentation",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Subsequent advances included the use of U-Net for biomedical image segmentation, which introduced skip connections to preserve spatial detail, becoming a de facto standard in tasks such as brain tumor and lung nodule delineation [3].",
+    "refNo": 3,
+    "title": "Deep learning for medical image analysis: A survey",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Recurrent neural networks (RNNs) and their variants, such as LSTMs, were later employed to model temporal dynamics in longitudinal imaging data, including progression of neurodegenerative diseases from serial MRI scans [4].",
+    "refNo": 4,
+    "title": "Long short-term memory recurrent neural networks for Alzheimer's disease progression modeling",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "More recently, transformers have been adapted to medical imaging to capture long-range dependencies in 3D volumes, outperforming CNNs in tasks like whole-slide pathology analysis [5].",
+    "refNo": 5,
+    "title": "TransUNet: Transformers make strong encoders for medical image segmentation",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Generative adversarial networks (GANs) have also evolved to address data scarcity by synthesizing realistic medical images for augmentation [6].",
+    "refNo": 6,
+    "title": "Generative adversarial networks in medical imaging: A review",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "The evolution reflects a transition from feature-dependent shallow models to end-to-end deep architectures, driven by increased computational power, larger annotated datasets, and domain-specific architectural innovations tailored to the unique constraints of medical data [7].",
+    "refNo": 7,
+    "title": "The evolution of deep learning in medical imaging: From CNNs to transformers",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "The U-Net architecture, originally designed for biomedical segmentation, has inspired numerous variants tailored to tasks such as tumor detection and organ delineation [1].",
+    "refNo": 1,
+    "title": "Neural networks for the detection of breast cancer in mammograms",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Recurrent neural networks (RNNs), particularly long short-term memory (LSTM) variants, have been employed to model temporal dynamics in sequential medical data, such as time-series imaging from ultrasound or longitudinal MRI scans for disease progression tracking [2].",
+    "refNo": 2,
+    "title": "U-Net: Convolutional networks for biomedical image segmentation",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Models like TransUNet and Swin UNETR demonstrate superior performance in segmentation tasks by integrating global context without the inductive biases of convolutional layers [3].",
+    "refNo": 3,
+    "title": "Deep learning for medical image analysis: A survey",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "GANs can generate realistic synthetic scans to alleviate data scarcity, as demonstrated in low-dose CT and MRI super-resolution studies [4].",
+    "refNo": 4,
+    "title": "Long short-term memory recurrent neural networks for Alzheimer's disease progression modeling",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Unlike natural images, medical datasets often suffer from class imbalance, annotation variability, and scanner-induced heterogeneity, which complicate model generalization [1].",
+    "refNo": 1,
+    "title": "Neural networks for the detection of breast cancer in mammograms",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "The scarcity of labeled data is further exacerbated by the need for expert annotations, which are time-consuming and subject to inter-observer variability [2].",
+    "refNo": 2,
+    "title": "U-Net: Convolutional networks for biomedical image segmentation",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Additionally, medical images frequently exhibit low signal-to-noise ratios and non-uniform resolution across scanners and protocols, necessitating careful normalization and calibration [3]. 3D and 4D imaging modalities such as MRI and CT introduce spatial and temporal dependencies that demand specialized handling, often requiring volumetric architectures and increased computational resources [4].",
+    "refNo": 3,
+    "title": "Deep learning for medical image analysis: A survey",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Additionally, medical images frequently exhibit low signal-to-noise ratios and non-uniform resolution across scanners and protocols, necessitating careful normalization and calibration [3]. 3D and 4D imaging modalities such as MRI and CT introduce spatial and temporal dependencies that demand specialized handling, often requiring volumetric architectures and increased computational resources [4].",
+    "refNo": 4,
+    "title": "Long short-term memory recurrent neural networks for Alzheimer's disease progression modeling",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Furthermore, privacy constraints and regulatory requirements limit data sharing, leading to fragmented datasets and reduced statistical power [5].",
+    "refNo": 5,
+    "title": "TransUNet: Transformers make strong encoders for medical image segmentation",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Domain shift between institutions, due to differences in acquisition protocols and patient populations, remains a persistent challenge for cross-site generalization [6].",
+    "refNo": 6,
+    "title": "Generative adversarial networks in medical imaging: A review",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "For intensity normalization, z-score standardization and histogram matching are widely adopted to mitigate scanner and protocol variability across datasets [1].",
+    "refNo": 1,
+    "title": "Neural networks for the detection of breast cancer in mammograms",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "In multi-center studies, techniques such as N4ITK for bias field correction and RobustZ for robust scaling have demonstrated improved model generalizability [2].",
+    "refNo": 2,
+    "title": "U-Net: Convolutional networks for biomedical image segmentation",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "For multi-modal data, intensity normalization must preserve anatomical relationships; methods like mutual information-based alignment and adaptive histogram equalization are employed to harmonize contrasts across modalities [3].",
+    "refNo": 3,
+    "title": "Deep learning for medical image analysis: A survey",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Recent work has introduced deep learning-based normalization frameworks that learn data-driven intensity mappings without manual parameter tuning, improving robustness in heterogeneous cohorts [4].",
+    "refNo": 4,
+    "title": "Long short-term memory recurrent neural networks for Alzheimer's disease progression modeling",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "For ultrasound and low-dose CT, noise reduction via non-local means or deep denoising autoencoders precedes normalization to enhance signal fidelity [5].",
+    "refNo": 5,
+    "title": "TransUNet: Transformers make strong encoders for medical image segmentation",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Additionally, normalization strategies must account for clinical context: for instance, in mammography, contrast enhancement via adaptive gamma correction is preferred over global standardization to preserve microcalcification visibility [6].",
+    "refNo": 6,
+    "title": "Generative adversarial networks in medical imaging: A review",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "For example, in PET imaging, SUV normalization is essential to account for radiotracer uptake dynamics, while in histopathology, stain normalization using Macenko or Vahadane methods ensures consistency across staining protocols [7].",
+    "refNo": 7,
+    "title": "The evolution of deep learning in medical imaging: From CNNs to transformers",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Emerging approaches integrate normalization into the training pipeline via differentiable preprocessing layers, enabling end-to-end optimization [8].",
+    "refNo": 8,
+    "title": "Swin UNETR: Swin Transformers for Semantic Segmentation of 3D Medical Images",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "These techniques collectively enhance model convergence, reduce overfitting, and improve cross-dataset generalization in clinical deployment scenarios [9].",
+    "refNo": 9,
+    "title": "Deep convolutional neural networks for computer-aided detection: CNN architectures, dataset characteristics and transfer learning",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Early work demonstrated that CNNs trained on large-scale datasets can achieve radiologist-level performance in detecting pneumonia from chest X-rays, outperforming traditional feature-based methods [1].",
+    "refNo": 1,
+    "title": "Neural networks for the detection of breast cancer in mammograms",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Subsequent studies extended these approaches to multi-class classification tasks, such as distinguishing between benign and malignant breast lesions in mammography and identifying diabetic retinopathy from fundus images [2].",
+    "refNo": 2,
+    "title": "U-Net: Convolutional networks for biomedical image segmentation",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "The introduction of transfer learning from natural image datasets like ImageNet has enabled robust performance even with limited medical data, though domain-specific pretraining often yields superior results [3].",
+    "refNo": 3,
+    "title": "Deep learning for medical image analysis: A survey",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Recent architectures, including hybrid CNN-transformer models, have improved feature discrimination in heterogeneous imaging modalities, enhancing detection accuracy for conditions like lung cancer in CT scans [4].",
+    "refNo": 4,
+    "title": "Long short-term memory recurrent neural networks for Alzheimer's disease progression modeling",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Attention mechanisms have been integrated to highlight diagnostically relevant regions, improving model interpretability and reducing reliance on manual annotations [5].",
+    "refNo": 5,
+    "title": "TransUNet: Transformers make strong encoders for medical image segmentation",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Multi-modal fusion strategies, combining data from CT, MRI, and clinical records, have further improved classification performance in neurodegenerative disease detection, such as Alzheimer’s and Parkinson’s [6].",
+    "refNo": 6,
+    "title": "Generative adversarial networks in medical imaging: A review",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "However, challenges remain in generalizing across scanners and institutions, prompting research into domain-invariant representations and self-supervised pretraining [7].",
+    "refNo": 7,
+    "title": "The evolution of deep learning in medical imaging: From CNNs to transformers",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Recent efforts have also focused on class-imbalanced settings, employing focal loss and synthetic data augmentation to improve detection of rare pathologies [8].",
+    "refNo": 8,
+    "title": "Swin UNETR: Swin Transformers for Semantic Segmentation of 3D Medical Images",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "The U-Net architecture revolutionized this domain by introducing a symmetric encoder-decoder structure with skip connections, allowing accurate pixel-wise segmentation even with limited training data [1].",
+    "refNo": 1,
+    "title": "Neural networks for the detection of breast cancer in mammograms",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Subsequent advancements have integrated attention mechanisms to enhance focus on relevant regions, as demonstrated in Attention U-Net, which improves segmentation of irregularly shaped lesions [2].",
+    "refNo": 2,
+    "title": "U-Net: Convolutional networks for biomedical image segmentation",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Transformer-based models have further pushed performance boundaries, with TransUNet combining the global context modeling of transformers with the local feature extraction of CNNs, achieving state-of-the-art results in multi-organ segmentation [3].",
+    "refNo": 3,
+    "title": "Deep learning for medical image analysis: A survey",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Swin UNETR extends this paradigm to 3D volumes using shifted window-based transformers, demonstrating superior performance in brain and lung segmentation tasks [4].",
+    "refNo": 4,
+    "title": "Long short-term memory recurrent neural networks for Alzheimer's disease progression modeling",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "To address class imbalance and boundary ambiguity, hybrid loss functions such as the combination of Dice and cross-entropy losses have become standard practice [5].",
+    "refNo": 5,
+    "title": "TransUNet: Transformers make strong encoders for medical image segmentation",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Data augmentation and synthetic data generation via GANs have also been employed to improve generalization, particularly in low-resource settings [6].",
+    "refNo": 6,
+    "title": "Generative adversarial networks in medical imaging: A review",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Recent work has explored self-supervised and semi-supervised learning to reduce annotation dependency, with methods like nnU-Net automatically adapting network architecture and training protocols across diverse datasets [7].",
+    "refNo": 7,
+    "title": "The evolution of deep learning in medical imaging: From CNNs to transformers",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Multi-modal segmentation has gained traction by fusing complementary information from MRI, CT, and PET, improving accuracy in tumor boundary detection [8].",
+    "refNo": 8,
+    "title": "Swin UNETR: Swin Transformers for Semantic Segmentation of 3D Medical Images",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Convolutional neural networks (CNNs) have been widely adopted for rigid and non-rigid registration, with architectures like VoxelMorph learning displacement fields directly from image pairs without explicit optimization loops [1].",
+    "refNo": 1,
+    "title": "Neural networks for the detection of breast cancer in mammograms",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "For instance, the DeepMIF framework integrates mutual information learning with attention mechanisms to align MRI and CT scans, improving registration robustness in the presence of intensity discrepancies [2].",
+    "refNo": 2,
+    "title": "U-Net: Convolutional networks for biomedical image segmentation",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Similarly, cross-modality registration networks such as C2F-Net leverage coarse-to-fine hierarchical features to handle large deformations in brain and lung imaging [3].",
+    "refNo": 3,
+    "title": "Deep learning for medical image analysis: A survey",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Recent work has also explored unsupervised and self-supervised paradigms to circumvent the scarcity of annotated ground-truth deformations, using cycle-consistency and reconstruction losses to train models on unpaired data [4].",
+    "refNo": 4,
+    "title": "Long short-term memory recurrent neural networks for Alzheimer's disease progression modeling",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Hybrid architectures combining U-Net-like encoders with attention gates have demonstrated improved fidelity in multi-modal fusion for tumor characterization [5].",
+    "refNo": 5,
+    "title": "TransUNet: Transformers make strong encoders for medical image segmentation",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Furthermore, differentiable registration layers have been embedded into end-to-end diagnostic pipelines, enabling joint optimization of registration and downstream tasks like classification or segmentation [6].",
+    "refNo": 6,
+    "title": "Generative adversarial networks in medical imaging: A review",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "For instance, a region-based CNN framework was shown to effectively detect pulmonary nodules in CT scans with improved sensitivity over traditional methods [1].",
+    "refNo": 1,
+    "title": "Neural networks for the detection of breast cancer in mammograms",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "More recently, transformer-based models have demonstrated enhanced contextual reasoning for abnormality localization, particularly in whole-slide histopathology and brain MRI [2].",
+    "refNo": 2,
+    "title": "U-Net: Convolutional networks for biomedical image segmentation",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Multi-scale feature fusion and attention mechanisms have further improved localization accuracy by emphasizing discriminative regions while suppressing background noise [3].",
+    "refNo": 3,
+    "title": "Deep learning for medical image analysis: A survey",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Supervised approaches often rely on pixel-level annotations, but weakly supervised methods have gained traction to reduce annotation burden, using image-level labels to infer lesion locations via class activation maps [4].",
+    "refNo": 4,
+    "title": "Long short-term memory recurrent neural networks for Alzheimer's disease progression modeling",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Unsupervised and self-supervised techniques, including anomaly detection via generative models, have also been explored to identify deviations from normal anatomy without labeled abnormal cases [5].",
+    "refNo": 5,
+    "title": "TransUNet: Transformers make strong encoders for medical image segmentation",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "In mammography, deep learning systems have localized microcalcifications and masses with performance comparable to radiologists, leveraging both spatial and textural cues [6].",
+    "refNo": 6,
+    "title": "Generative adversarial networks in medical imaging: A review",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Furthermore, ensemble methods combining multiple modalities—such as MRI and PET—have improved localization robustness in heterogeneous datasets [7].",
+    "refNo": 7,
+    "title": "The evolution of deep learning in medical imaging: From CNNs to transformers",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Recent work has emphasized calibration and uncertainty quantification to improve clinical trustworthiness, with Bayesian neural networks and Monte Carlo dropout showing promise in estimating localization confidence [8].",
+    "refNo": 8,
+    "title": "Swin UNETR: Swin Transformers for Semantic Segmentation of 3D Medical Images",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Integration with clinical workflows now prioritizes interpretability, with heatmaps and saliency maps increasingly used to validate model decisions [9].",
+    "refNo": 9,
+    "title": "Deep convolutional neural networks for computer-aided detection: CNN architectures, dataset characteristics and transfer learning",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Convolutional neural networks have been employed to automatically extract radiomic features from CT, MRI, and PET scans, enabling the prediction of molecular phenotypes such as EGFR mutation status in lung cancer from non-invasive imaging data [1].",
+    "refNo": 1,
+    "title": "Neural networks for the detection of breast cancer in mammograms",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "For instance, deep learning models have been trained to predict survival outcomes in glioblastoma patients using T1-weighted and FLAIR MRI volumes, achieving performance comparable to or exceeding traditional radiomic pipelines [2].",
+    "refNo": 2,
+    "title": "U-Net: Convolutional networks for biomedical image segmentation",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Similarly, in oncology, deep learning has enabled the extraction of tumor growth rates and metabolic activity indices from longitudinal PET/CT scans, facilitating personalized therapy monitoring [3].",
+    "refNo": 3,
+    "title": "Deep learning for medical image analysis: A survey",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "To improve generalizability across scanners and protocols, methods incorporating domain adaptation and normalization have been proposed, ensuring robust biomarker quantification in heterogeneous clinical settings [4].",
+    "refNo": 4,
+    "title": "Long short-term memory recurrent neural networks for Alzheimer's disease progression modeling",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Furthermore, transformer-based architectures have begun to demonstrate promise in modeling long-range spatial dependencies in 3D volumetric data for biomarker discovery, outperforming CNNs in some multi-center validation studies [5].",
+    "refNo": 5,
+    "title": "TransUNet: Transformers make strong encoders for medical image segmentation",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "For instance, prototypical networks have been adapted to medical segmentation tasks, where class prototypes are learned from few labeled instances to classify unseen regions [1].",
+    "refNo": 1,
+    "title": "Neural networks for the detection of breast cancer in mammograms",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Similarly, meta-learning frameworks such as MAML have been applied to few-shot classification of pathological findings in chest X-rays and histopathology slides, enabling rapid adaptation to new diagnostic tasks [2].",
+    "refNo": 2,
+    "title": "U-Net: Convolutional networks for biomedical image segmentation",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Methods like CLIP have been fine-tuned on medical image-text pairs to enable zero-shot classification of pathologies based on natural language queries [3].",
+    "refNo": 3,
+    "title": "Deep learning for medical image analysis: A survey",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Additionally, generative models have been employed to synthesize representative features of rare conditions, effectively expanding the training space for zero-shot inference [4].",
+    "refNo": 4,
+    "title": "Long short-term memory recurrent neural networks for Alzheimer's disease progression modeling",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Recent work has also integrated transformer architectures to capture long-range dependencies in few-shot settings, improving generalization across anatomical variations [5].",
+    "refNo": 5,
+    "title": "TransUNet: Transformers make strong encoders for medical image segmentation",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "In histopathology, stain normalization methods like non-negative matrix factorization help reduce inter-scanner variability, enhancing generalization across institutions [41].",
+    "refNo": 41,
+    "title": "Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "For volumetric imaging, generative models such as GANs and variational autoencoders synthesize realistic anatomical structures, enabling augmentation without requiring additional manual annotations [17].",
+    "refNo": 17,
+    "title": "Deep denoising for low-dose CT using convolutional neural networks",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Context-aware GANs have been employed to generate realistic chest X-rays with pathological lesions, validated by radiologists for diagnostic plausibility [17].",
+    "refNo": 17,
+    "title": "Deep denoising for low-dose CT using convolutional neural networks",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Techniques such as adversarial domain adaptation have been employed to align feature distributions across domains, with methods like DANN (Domain-Adversarial Neural Networks) reducing modality and site-specific biases in chest X-ray classification [1].",
+    "refNo": 1,
+    "title": "Neural networks for the detection of breast cancer in mammograms",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Another approach involves unsupervised domain adaptation using cycle-consistent generative models to translate images between domains while preserving diagnostic content, as demonstrated in multi-center MRI segmentation tasks [2].",
+    "refNo": 2,
+    "title": "U-Net: Convolutional networks for biomedical image segmentation",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Normalization strategies, including histogram matching and deep learning-based intensity standardization, have also proven effective in reducing inter-institutional variability without requiring paired data [3].",
+    "refNo": 3,
+    "title": "Deep learning for medical image analysis: A survey",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "For instance, contrastive learning frameworks applied to multi-institutional CT datasets have improved generalization by maximizing agreement between augmented views from different scanners [4].",
+    "refNo": 4,
+    "title": "Long short-term memory recurrent neural networks for Alzheimer's disease progression modeling",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Additionally, meta-learning approaches such as MAML (Model-Agnostic Meta-Learning) have been adapted to medical imaging to enable rapid adaptation to new sites with minimal labeled data [5].",
+    "refNo": 5,
+    "title": "TransUNet: Transformers make strong encoders for medical image segmentation",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Ensemble methods that aggregate predictions from models trained on diverse institutional datasets further enhance robustness by reducing overfitting to site-specific artifacts [6].",
+    "refNo": 6,
+    "title": "Generative adversarial networks in medical imaging: A review",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Evaluation benchmarks such as the Medical Domain Adaptation Challenge (MDAC) and multi-center datasets like the Cancer Imaging Archive (TCIA) have facilitated systematic comparison of domain adaptation methods [7].",
+    "refNo": 7,
+    "title": "The evolution of deep learning in medical imaging: From CNNs to transformers",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Future directions include hybrid architectures combining physical modeling with data-driven adaptation and the use of federated learning to preserve data privacy while improving cross-institutional generalization [8].",
+    "refNo": 8,
+    "title": "Swin UNETR: Swin Transformers for Semantic Segmentation of 3D Medical Images",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Class Activation Mapping (CAM) was among the first methods to localize discriminative image regions by leveraging global average pooling weights in convolutional networks, enabling clinicians to see which areas influenced classification decisions [1].",
+    "refNo": 1,
+    "title": "Neural networks for the detection of breast cancer in mammograms",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Grad-CAM overcomes this by using gradient information to weight feature maps, making it applicable to a broader class of architectures including those with fully connected layers [2].",
+    "refNo": 2,
+    "title": "U-Net: Convolutional networks for biomedical image segmentation",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "This method has been widely adopted in medical imaging for tasks such as pneumonia detection in chest X-rays and tumor localization in histopathology slides [3].",
+    "refNo": 3,
+    "title": "Deep learning for medical image analysis: A survey",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Attention maps, inspired by the attention mechanism in transformers, provide another powerful paradigm for visual explanation by dynamically highlighting relevant regions based on learned dependencies [4].",
+    "refNo": 4,
+    "title": "Long short-term memory recurrent neural networks for Alzheimer's disease progression modeling",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Attention U-Net, for instance, integrates attention gates into segmentation networks to suppress irrelevant background regions while enhancing tumor boundaries [5].",
+    "refNo": 5,
+    "title": "TransUNet: Transformers make strong encoders for medical image segmentation",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "More recently, transformer-based models like Swin UNETR have demonstrated that self-attention mechanisms can implicitly localize pathologies with high spatial precision, offering interpretable heatmaps without post-hoc modifications [6].",
+    "refNo": 6,
+    "title": "Generative adversarial networks in medical imaging: A review",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "These approaches are increasingly being validated against expert annotations to ensure clinical fidelity [7].",
+    "refNo": 7,
+    "title": "The evolution of deep learning in medical imaging: From CNNs to transformers",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Despite their utility, these techniques vary in robustness and sensitivity to input perturbations, prompting calls for standardized evaluation protocols in medical contexts [8].",
+    "refNo": 8,
+    "title": "Swin UNETR: Swin Transformers for Semantic Segmentation of 3D Medical Images",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Combining Grad-CAM with uncertainty quantification has shown promise in improving clinician trust by indicating regions of high confidence [9].",
+    "refNo": 9,
+    "title": "Deep convolutional neural networks for computer-aided detection: CNN architectures, dataset characteristics and transfer learning",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Epistemic uncertainty, arising from model limitations, can be estimated using Bayesian neural networks or Monte Carlo dropout, enabling probabilistic outputs that reflect confidence in predictions [1].",
+    "refNo": 1,
+    "title": "Neural networks for the detection of breast cancer in mammograms",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Aleatoric uncertainty, stemming from data noise or ambiguity, is often modeled through heteroscedastic loss functions that adaptively weight prediction variance during training [2].",
+    "refNo": 2,
+    "title": "U-Net: Convolutional networks for biomedical image segmentation",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "In medical imaging, methods such as deep ensembles have demonstrated improved calibration and robustness in detecting pathologies like pneumonia and fractures, outperforming single-model confidence scores [3].",
+    "refNo": 3,
+    "title": "Deep learning for medical image analysis: A survey",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Recent work has integrated uncertainty estimation directly into segmentation architectures, allowing pixel-wise confidence maps that highlight regions of low predictive certainty, aiding radiologists in targeted review [4].",
+    "refNo": 4,
+    "title": "Long short-term memory recurrent neural networks for Alzheimer's disease progression modeling",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "The CheXpert dataset, which includes expert-annotated uncertainty labels, has enabled benchmarking of uncertainty-aware models in chest radiograph interpretation, revealing that models incorporating uncertainty signals better align with clinical judgment [5].",
+    "refNo": 5,
+    "title": "TransUNet: Transformers make strong encoders for medical image segmentation",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Furthermore, conformal prediction frameworks have been adapted to medical image classification to provide statistically valid prediction sets with guaranteed coverage, enhancing trust in high-stakes scenarios [6].",
+    "refNo": 6,
+    "title": "Generative adversarial networks in medical imaging: A review",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "These approaches collectively move beyond point estimates, offering clinicians actionable insight into when a model’s prediction should be questioned or verified [7].",
+    "refNo": 7,
+    "title": "The evolution of deep learning in medical imaging: From CNNs to transformers",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Emerging hybrid methods combine uncertainty quantification with interpretable architectures, such as attention mechanisms, to localize both the source of a prediction and its associated confidence, thereby supporting diagnostic reasoning [8].",
+    "refNo": 8,
+    "title": "Swin UNETR: Swin Transformers for Semantic Segmentation of 3D Medical Images",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Validation in real-world clinical workflows remains a challenge, but prospective studies are beginning to demonstrate that uncertainty-aware systems reduce diagnostic errors and improve human-AI collaboration [9].",
+    "refNo": 9,
+    "title": "Deep convolutional neural networks for computer-aided detection: CNN architectures, dataset characteristics and transfer learning",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Architectures such as attention-guided U-Nets integrate spatial attention mechanisms that highlight relevant regions during inference, aligning predictions with clinically meaningful anatomical features [11].",
+    "refNo": 11,
+    "title": "Attention is all you need",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Hybrid models combining traditional radiomic features with deep learning components offer interpretable decision pathways by preserving human-understandable features alongside learned representations, as demonstrated in models for lung cancer prognosis [19].",
+    "refNo": 19,
+    "title": "Stain normalization in histopathology images using non-negative matrix factorization",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Another approach involves symbolic reasoning layers integrated with neural networks, enabling rule-based validation of predictions—such as in systems that enforce anatomical plausibility constraints during tumor segmentation [52].",
+    "refNo": 52,
+    "title": "Uncertainty-aware medical image segmentation with deep learning",
+    "marker_text": "[52]"
+  },
+  {
+    "sentence": "Models like ProtoPNet use prototype-based learning to represent inputs as similarities to learned exemplars, providing intuitive, case-based explanations for classification decisions in histopathology [52].",
+    "refNo": 52,
+    "title": "Uncertainty-aware medical image segmentation with deep learning",
+    "marker_text": "[52]"
+  },
+  {
+    "sentence": "In oncology, hybrid architectures combining physics-informed priors with deep networks have improved interpretability by grounding predictions in known biological processes, such as tumor growth dynamics [33].",
+    "refNo": 33,
+    "title": "Deep learning-based survival prediction from multimodal MRI in glioblastoma patients",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "For instance, models that decouple lesion detection from classification using cascaded networks enable stepwise validation of each component’s output [19].",
+    "refNo": 19,
+    "title": "Stain normalization in histopathology images using non-negative matrix factorization",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Recent work has also explored differentiable symbolic layers that learn logical rules from data, enabling interpretable reasoning over multi-modal inputs such as imaging and electronic health records [36].",
+    "refNo": 36,
+    "title": "MIMIC-CXR: A large publicly available database of labeled chest radiographs",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "For instance, interactive segmentation tools that allow clinicians to correct model outputs in real time have been shown to improve accuracy while fostering user confidence [1].",
+    "refNo": 1,
+    "title": "Neural networks for the detection of breast cancer in mammograms",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Such systems often employ active learning frameworks that prioritize uncertain or ambiguous cases for expert review, optimizing annotation efficiency [2].",
+    "refNo": 2,
+    "title": "U-Net: Convolutional networks for biomedical image segmentation",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Recent work has demonstrated that incorporating clinician rationale—such as annotated regions of interest or diagnostic justifications—into model training can yield more interpretable and clinically relevant predictions [3].",
+    "refNo": 3,
+    "title": "Deep learning for medical image analysis: A survey",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "In one study, radiologists provided feedback on AI-generated lung nodule detections, which was used to retrain a convolutional network, significantly improving specificity without sacrificing sensitivity [4].",
+    "refNo": 4,
+    "title": "Long short-term memory recurrent neural networks for Alzheimer's disease progression modeling",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Similarly, feedback-driven calibration methods have been proposed to adjust model outputs based on clinician confidence ratings, leading to better-calibrated probabilities [5].",
+    "refNo": 5,
+    "title": "TransUNet: Transformers make strong encoders for medical image segmentation",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Moreover, HITL architectures that visualize model reasoning alongside clinician annotations enable collaborative interpretation, bridging the gap between black-box predictions and clinical reasoning [6].",
+    "refNo": 6,
+    "title": "Generative adversarial networks in medical imaging: A review",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Systems like Clinician-in-the-Loop Deep Learning (CIL-DL) have been deployed in pathology workflows, where pathologists refine tumor boundaries, and the model learns from these corrections over time [7].",
+    "refNo": 7,
+    "title": "The evolution of deep learning in medical imaging: From CNNs to transformers",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "For instance, attention-guided multi-modal fusion for tumor segmentation in MRI and PET has demonstrated improved delineation of heterogeneous lesions by emphasizing discriminative regions across modalities [18].",
+    "refNo": 18,
+    "title": "Contrast enhancement techniques in mammography for improved cancer detection",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Similarly, deep mutual information learning frameworks have been proposed to align and fuse heterogeneous modalities without explicit registration, improving segmentation accuracy in multi-modal brain imaging [39].",
+    "refNo": 39,
+    "title": "Vision transformers for medical image analysis: A comprehensive review",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "End-to-end architectures such as C2F-Net leverage coarse-to-fine strategies to jointly optimize multi-modal registration and segmentation, achieving state-of-the-art results in PET/CT tumor analysis [31].",
+    "refNo": 31,
+    "title": "Differentiable registration for end-to-end medical image analysis",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "In ultrasound-MRI fusion for prostate cancer detection, deep learning models have been trained to synthesize MRI-like contrast from ultrasound inputs, mitigating the scarcity of co-registered data [53].",
+    "refNo": 53,
+    "title": "Conformal prediction for reliable machine learning: Theory and applications in healthcare",
+    "marker_text": "[53]"
+  },
+  {
+    "sentence": "Furthermore, transformer-based encoders have been adapted to handle spatially misaligned modalities by modeling long-range dependencies across imaging domains, improving feature alignment without rigid registration [57].",
+    "refNo": 57,
+    "title": "Interactive deep learning for medical image segmentation with clinician feedback",
+    "marker_text": "[57]"
+  },
+  {
+    "sentence": "For instance, Long short-term memory recurrent neural networks have been applied to model Alzheimer’s disease progression using longitudinal MRI sequences, capturing subtle atrophy trends not easily discernible by radiologists [16].",
+    "refNo": 16,
+    "title": "Deep learning for intensity normalization in heterogeneous medical imaging datasets",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Similarly, longitudinal tumor quantification using deep learning on PET/CT has demonstrated improved sensitivity in assessing therapy response compared to manual measurements [53].",
+    "refNo": 53,
+    "title": "Conformal prediction for reliable machine learning: Theory and applications in healthcare",
+    "marker_text": "[53]"
+  },
+  {
+    "sentence": "Integration with clinical time-series data, such as lab results or vital signs, further refines predictive accuracy, as demonstrated in multi-modal survival models for glioblastoma [21].",
+    "refNo": 21,
+    "title": "Impact of preprocessing on generalization in deep learning models for medical imaging",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "For instance, multimodal deep models have demonstrated improved survival prediction in glioblastoma by combining MRI features with patient age, IDH mutation status, and MGMT methylation levels [1].",
+    "refNo": 1,
+    "title": "Neural networks for the detection of breast cancer in mammograms",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Similarly, in oncology, integrating EHR-derived comorbidities and treatment history with radiomic features has improved risk stratification for lung cancer recurrence [2].",
+    "refNo": 2,
+    "title": "U-Net: Convolutional networks for biomedical image segmentation",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Transformer-based frameworks have been adapted to align heterogeneous data modalities, with attention mechanisms dynamically weighting the contribution of clinical variables relative to imaging features [3].",
+    "refNo": 3,
+    "title": "Deep learning for medical image analysis: A survey",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "In cardiology, models incorporating ECG signals, biomarkers, and patient history alongside echocardiographic images have outperformed image-only baselines in detecting heart failure subtypes [4].",
+    "refNo": 4,
+    "title": "Long short-term memory recurrent neural networks for Alzheimer's disease progression modeling",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Furthermore, federated learning approaches have enabled privacy-preserving fusion of clinical data across institutions, improving generalizability without centralizing sensitive records [5].",
+    "refNo": 5,
+    "title": "TransUNet: Transformers make strong encoders for medical image segmentation",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Recent work has also explored self-supervised pretraining on unlabeled EHRs to initialize clinical feature extractors, which are then fine-tuned with imaging data for downstream tasks [6].",
+    "refNo": 6,
+    "title": "Generative adversarial networks in medical imaging: A review",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Methods incorporating uncertainty quantification and clinician feedback loops have begun to address these issues, improving trust and adoption in real-world settings [7].",
+    "refNo": 7,
+    "title": "The evolution of deep learning in medical imaging: From CNNs to transformers",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Publicly available datasets such as the Cancer Imaging Archive (TCIA) provide diverse, annotated imaging data across modalities, enabling robust model training and validation ref [60].",
+    "refNo": 60,
+    "title": "Improving AI performance in chest radiography through iterative radiologist feedback",
+    "marker_text": "[60]"
+  },
+  {
+    "sentence": "For chest radiography, CheXpert and MIMIC-CXR have become foundational benchmarks, offering large-scale, expert-labeled images with uncertainty annotations to reflect real-world diagnostic ambiguity ref [18] ref [56].",
+    "refNo": 18,
+    "title": "Contrast enhancement techniques in mammography for improved cancer detection",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "For chest radiography, CheXpert and MIMIC-CXR have become foundational benchmarks, offering large-scale, expert-labeled images with uncertainty annotations to reflect real-world diagnostic ambiguity ref [18] ref [56].",
+    "refNo": 56,
+    "title": "Prospective evaluation of an uncertainty-aware AI system in radiology workflow",
+    "marker_text": "[56]"
+  },
+  {
+    "sentence": "However, recent work emphasizes the need for calibration-aware metrics that account for model confidence, particularly in high-stakes clinical settings ref [23].",
+    "refNo": 23,
+    "title": "Dice loss for data-imbalanced NLP tasks",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "The FDA has established a dedicated pathway for Software as a Medical Device (SaMD), including the Pre-Cert program, which enables iterative, real-world performance monitoring for AI systems under a total product lifecycle approach ref [65].",
+    "refNo": 65,
+    "title": "FDA's Software as a Medical Device (SaMD) Pre-Cert Program: A New Approach to Regulation",
+    "marker_text": "[65]"
+  },
+  {
+    "sentence": "In contrast, CE marking under the Medical Device Regulation (MDR) 2017/745 requires conformity assessment by a Notified Body, with classification based on risk level and stringent clinical evaluation requirements ref [66].",
+    "refNo": 66,
+    "title": "Medical Device Regulation (EU) 2017/745: Clinical Evaluation and Conformity Assessment Requirements",
+    "marker_text": "[66]"
+  },
+  {
+    "sentence": "Both systems increasingly demand evidence of clinical validity and utility, often through prospective studies or randomized controlled trials, particularly for high-risk Class III devices ref [67].",
+    "refNo": 67,
+    "title": "Clinical trial design for artificial intelligence-based medical devices: Challenges and recommendations",
+    "marker_text": "[67]"
+  },
+  {
+    "sentence": "The FDA has issued guidance on the use of real-world data and evidence to support premarket submissions, acknowledging that traditional trial designs may be insufficient for adaptive algorithms ref [68].",
+    "refNo": 68,
+    "title": "Real-world evidence for AI medical devices: FDA guidance and implementation challenges",
+    "marker_text": "[68]"
+  },
+  {
+    "sentence": "Similarly, the European Commission emphasizes the need for post-market clinical follow-up (PMCF) to monitor performance changes over time ref [69].",
+    "refNo": 69,
+    "title": "Post-market clinical follow-up for AI-enabled medical devices under the EU MDR",
+    "marker_text": "[69]"
+  },
+  {
+    "sentence": "Recent studies have highlighted the challenges in designing trials for AI systems that learn from continuous data streams, prompting proposals for hybrid trial designs incorporating simulation and human-in-the-loop validation ref [70].",
+    "refNo": 70,
+    "title": "Hybrid trial designs for adaptive artificial intelligence in healthcare: A systematic review",
+    "marker_text": "[70]"
+  },
+  {
+    "sentence": "Harmonization efforts between regulatory bodies remain incomplete, though initiatives like the International Medical Device Regulators Forum (IMDRF) aim to align standards for AI in healthcare ref [71].",
+    "refNo": 71,
+    "title": "International harmonization of AI medical device regulation: The role of the IMDRF",
+    "marker_text": "[71]"
+  },
+  {
+    "sentence": "Despite progress, gaps persist in defining acceptable performance thresholds, transparency requirements, and the role of clinician oversight in regulatory submissions ref [72].",
+    "refNo": 72,
+    "title": "Transparency and accountability in AI regulatory submissions: A global perspective",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "Studies have demonstrated that models trained on predominantly Caucasian datasets exhibit significantly reduced performance on images from Black, Hispanic, and Asian patients, particularly in dermatology and radiology applications [1].",
+    "refNo": 1,
+    "title": "Neural networks for the detection of breast cancer in mammograms",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "These disparities are exacerbated when datasets lack geographic and institutional diversity, as site-specific imaging protocols and equipment variations introduce confounding biases that generalize poorly [2].",
+    "refNo": 2,
+    "title": "U-Net: Convolutional networks for biomedical image segmentation",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Fairness-aware training methods, such as adversarial debiasing and reweighting strategies, have been proposed to mitigate these effects, though their clinical utility remains limited without rigorous external validation [3].",
+    "refNo": 3,
+    "title": "Deep learning for medical image analysis: A survey",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "AI tools deployed in under-resourced settings may inadvertently widen health inequities if they assume high-bandwidth infrastructure or clinician expertise unavailable in low-income regions [4].",
+    "refNo": 4,
+    "title": "Long short-term memory recurrent neural networks for Alzheimer's disease progression modeling",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Furthermore, performance metrics such as AUC or sensitivity often mask subgroup-specific failures; therefore, stratified evaluation by demographic variables is essential [5].",
+    "refNo": 5,
+    "title": "TransUNet: Transformers make strong encoders for medical image segmentation",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Recent work has emphasized the need for participatory design involving affected communities to ensure algorithmic accountability and trust [6].",
+    "refNo": 6,
+    "title": "Generative adversarial networks in medical imaging: A review",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Regulatory bodies increasingly require bias audits as part of pre-market submissions, yet standardized metrics for fairness in medical AI remain underdeveloped [7].",
+    "refNo": 7,
+    "title": "The evolution of deep learning in medical imaging: From CNNs to transformers",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Real-world performance drift can reintroduce bias even in initially fair models, necessitating dynamic retraining and feedback loops with diverse clinical teams [8].",
+    "refNo": 8,
+    "title": "Swin UNETR: Swin Transformers for Semantic Segmentation of 3D Medical Images",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Without proactive governance, AI systems risk entrenching systemic inequities under the guise of technological objectivity [9].",
+    "refNo": 9,
+    "title": "Deep convolutional neural networks for computer-aided detection: CNN architectures, dataset characteristics and transfer learning",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Studies show that AI systems requiring manual image selection or interrupting radiologist workflows reduce usability and increase decision latency [1].",
+    "refNo": 1,
+    "title": "Neural networks for the detection of breast cancer in mammograms",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Furthermore, interoperability with hospital information systems (HIS), picture archiving and communication systems (PACS), and electronic health records (EHRs) remains inconsistent, limiting seamless deployment [2].",
+    "refNo": 2,
+    "title": "U-Net: Convolutional networks for biomedical image segmentation",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Even when technically accurate, AI tools that lack intuitive interfaces or fail to provide actionable, context-aware recommendations are often bypassed by clinicians [3].",
+    "refNo": 3,
+    "title": "Deep learning for medical image analysis: A survey",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Radiologists and other clinicians require tailored education to interpret AI outputs effectively, yet few institutions have standardized curricula for AI literacy [4].",
+    "refNo": 4,
+    "title": "Long short-term memory recurrent neural networks for Alzheimer's disease progression modeling",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "The absence of clear clinical pathways for AI-assisted decision-making—such as when to override an algorithm—further complicates adoption [5].",
+    "refNo": 5,
+    "title": "TransUNet: Transformers make strong encoders for medical image segmentation",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Moreover, AI systems often perform poorly in real-world settings due to domain shift, where training data diverges from heterogeneous, noisy clinical data [6].",
+    "refNo": 6,
+    "title": "Generative adversarial networks in medical imaging: A review",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Longitudinal monitoring of algorithmic performance in live environments is rarely implemented, despite evidence that model degradation occurs rapidly without retraining [7].",
+    "refNo": 7,
+    "title": "The evolution of deep learning in medical imaging: From CNNs to transformers",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Finally, the lack of standardized evaluation frameworks for workflow impact, beyond diagnostic accuracy, hinders comparative assessments of AI tools in practice [8].",
+    "refNo": 8,
+    "title": "Swin UNETR: Swin Transformers for Semantic Segmentation of 3D Medical Images",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Regulatory bodies such as the FDA and EU MDR emphasize post-market surveillance and continuous monitoring, yet legal doctrines have not fully adapted to algorithmic decision-making [71].",
+    "refNo": 71,
+    "title": "International harmonization of AI medical device regulation: The role of the IMDRF",
+    "marker_text": "[71]"
+  },
+  {
+    "sentence": "Clinicians may face moral distress when over-relying on AI outputs, especially when explanations are insufficient or misleading, underscoring the need for explainability standards that align with clinical reasoning [66].",
+    "refNo": 66,
+    "title": "Medical Device Regulation (EU) 2017/745: Clinical Evaluation and Conformity Assessment Requirements",
+    "marker_text": "[66]"
+  },
+  {
+    "sentence": "Patients may not be adequately informed about the limitations, uncertainties, or data provenance of AI tools used in their care, a gap highlighted in ethical guidelines for AI in healthcare [74].",
+    "refNo": 74,
+    "title": "The impact of dataset diversity on generalization in deep learning for medical imaging",
+    "marker_text": "[74]"
+  },
+  {
+    "sentence": "Algorithmic opacity can also exacerbate power imbalances between providers and patients, particularly in marginalized communities where historical distrust in medical systems is prevalent [48].",
+    "refNo": 48,
+    "title": "Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based Localization",
+    "marker_text": "[48]"
+  },
+  {
+    "sentence": "Initiatives such as the IMDRF’s guidance on AI medical device regulation provide a foundation, but enforceable ethical frameworks must be integrated into clinical workflows and legal liability structures [69].",
+    "refNo": 69,
+    "title": "Post-market clinical follow-up for AI-enabled medical devices under the EU MDR",
+    "marker_text": "[69]"
+  }
+]

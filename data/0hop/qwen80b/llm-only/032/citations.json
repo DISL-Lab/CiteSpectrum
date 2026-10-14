@@ -1,0 +1,626 @@
+[
+  {
+    "sentence": "The AOM/DSS model, in particular, has been widely adopted for its reproducibility in inducing colitis-associated cancer (CAC) that mirrors human disease progression, including adenoma-to-carcinoma transitions and immune microenvironment remodeling [1].",
+    "refNo": 1,
+    "title": "Azoxymethane and dextran sulfate sodium model of colitis-associated colon cancer",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "This model enables the study of environmental and inflammatory triggers of CRC, complementing genetic approaches by mimicking the chronic inflammation seen in ulcerative colitis patients [2].",
+    "refNo": 2,
+    "title": "Inflammation and colorectal cancer: experimental models and molecular mechanisms",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Variants using 1,2-dimethylhydrazine (DMH) or 2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine (PhIP) have also been employed to investigate dietary carcinogens and tissue-specific mutational signatures [3].",
+    "refNo": 3,
+    "title": "Dietary carcinogens and colorectal cancer: insights from animal models",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "These models offer cost-effective, scalable platforms for preclinical drug testing and mechanistic studies of tumor initiation, particularly in immunocompetent hosts [4].",
+    "refNo": 4,
+    "title": "Preclinical evaluation of chemopreventive agents in the AOM/DSS model of colitis-associated cancer",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "However, their reliance on exogenous carcinogens introduces variability in latency and tumor burden, necessitating careful standardization of dosing and animal strain selection [5].",
+    "refNo": 5,
+    "title": "Standardization of the AOM/DSS model for colorectal cancer research",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Despite these limitations, chemically induced models remain indispensable for evaluating chemopreventive agents and probing the interplay between microbiota, inflammation, and epithelial transformation [6].",
+    "refNo": 6,
+    "title": "Microbiota-driven inflammation and tumorigenesis in chemically induced colorectal cancer models",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Recent refinements incorporating microbiome modulation or dietary interventions have further enhanced their translational relevance [7].",
+    "refNo": 7,
+    "title": "Dietary modulation of the gut microbiome enhances tumor susceptibility in the AOM/DSS model",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Early GEMMs, such as the Apc<sup>Min/+</sup> mouse, modeled familial adenomatous polyposis by introducing heterozygous mutations in the Adenomatous Polyposis Coli gene, leading to spontaneous intestinal adenoma formation ref [8].",
+    "refNo": 8,
+    "title": "Apc<sup>Min</sup> mice: a model for intestinal tumorigenesis",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Subsequent models incorporated additional genetic lesions, including mutations in Kras, Trp53, and Smad4, to mimic the stepwise progression of sporadic CRC and its metastatic potential ref [9].",
+    "refNo": 9,
+    "title": "Combined activation of Kras and loss of Trp53 in intestinal epithelium drives aggressive colorectal cancer",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "The development of inducible and tissue-specific Cre-lox systems allowed temporal and spatial control of gene alterations, enhancing physiological relevance and reducing embryonic lethality ref [10].",
+    "refNo": 10,
+    "title": "Inducible and tissue-specific gene targeting in mouse models of colorectal cancer",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "GEMMs have also been instrumental in dissecting the role of the tumor microenvironment, immune evasion, and stromal interactions in CRC progression ref [11].",
+    "refNo": 11,
+    "title": "The tumor microenvironment in genetically engineered mouse models of colorectal cancer",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "More recently, combinatorial GEMMs have been engineered to integrate inflammatory triggers, such as IL-10 deficiency or NF-κB activation, to model colitis-associated cancer, bridging the gap between chronic inflammation and neoplasia ref [12].",
+    "refNo": 12,
+    "title": "Inflammatory bowel disease and colorectal cancer: insights from IL-10-deficient mouse models",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "These models have facilitated preclinical testing of targeted therapies, including EGFR and MEK inhibitors, and have revealed mechanisms of therapeutic resistance ref [13].",
+    "refNo": 13,
+    "title": "Therapeutic resistance mechanisms in Kras-mutant colorectal cancer GEMMs",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Unlike xenografts, GEMMs preserve intact immune systems and native stromal architecture, offering superior platforms for immunotherapy evaluation ref [14].",
+    "refNo": 14,
+    "title": "Immunocompetent mouse models for evaluating immune checkpoint blockade in colorectal cancer",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Despite challenges such as long latency and genetic heterogeneity, GEMMs remain indispensable for studying CRC initiation, progression, and systemic biology in an immunocompetent context ref [15].",
+    "refNo": 15,
+    "title": "Advantages and limitations of genetically engineered mouse models in colorectal cancer research",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "The pioneering work by Sato et al. established the foundational culture conditions for intestinal organoids using Wnt3a, R-spondin, and Noggin, which were later adapted for colorectal cancer modeling ref [22].",
+    "refNo": 22,
+    "title": "Single Lgr5 stem cells build crypt-villus structures in vitro without a mesenchymal niche",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Subsequent studies demonstrated that patient-derived colorectal cancer organoids (PDOs) retain tumor heterogeneity and can be used for high-throughput drug screening ref [23].",
+    "refNo": 23,
+    "title": "Patient-derived organoid models of colorectal cancer for precision oncology",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Organoids have also been employed to model therapeutic resistance mechanisms, such as those driven by KRAS or BRAF mutations, and to investigate tumor-immune crosstalk through co-culture with autologous T cells ref [24].",
+    "refNo": 24,
+    "title": "Modeling colorectal cancer immune microenvironment using patient-derived organoids and autologous T cells",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Recent advances include the integration of organoids with microfluidic platforms to simulate vascularization and mechanical cues ref [25], and the development of biobanks encompassing diverse molecular subtypes of colorectal cancer ref [26].",
+    "refNo": 25,
+    "title": "Organoid-on-a-chip platforms for modeling colorectal cancer metastasis and drug response",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Recent advances include the integration of organoids with microfluidic platforms to simulate vascularization and mechanical cues ref [25], and the development of biobanks encompassing diverse molecular subtypes of colorectal cancer ref [26].",
+    "refNo": 26,
+    "title": "A biobank of patient-derived organoids for colorectal cancer reveals molecular diversity and therapeutic vulnerabilities",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "Transgenic zebrafish expressing human oncogenes such as KRASG12V in intestinal epithelial cells develop intestinal hyperplasia and neoplasia, recapitulating early stages of human colorectal tumorigenesis ref [27].",
+    "refNo": 27,
+    "title": "Oncogenic Kras induces intestinal hyperplasia and neoplasia in transgenic zebrafish",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "The use of CRISPR/Cas9 to disrupt tumor suppressors like APC and TP53 has further enabled the modeling of multistep carcinogenesis in vivo ref [28].",
+    "refNo": 28,
+    "title": "CRISPR/Cas9-mediated disruption of APC and TP53 in zebrafish recapitulates colorectal cancer pathogenesis",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "In Drosophila, intestinal stem cell overproliferation induced by oncogenic Ras and loss of Scribble mirrors epithelial dysplasia seen in human CRC ref [29].",
+    "refNo": 29,
+    "title": "Drosophila intestinal stem cell models reveal conserved mechanisms of oncogenic transformation",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Similarly, C. elegans has been used to study the role of conserved apoptosis regulators in tumor suppression ref [30].",
+    "refNo": 30,
+    "title": "Caenorhabditis elegans as a model for studying tumor suppressor pathways in epithelial homeostasis",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "Recent advances include the development of fluorescent reporter lines in zebrafish to track tumor cell invasion and metastasis in real time, as well as xenotransplantation of human CRC cells into immunodeficient zebrafish larvae for drug response profiling ref [31].",
+    "refNo": 31,
+    "title": "Xenotransplantation of human colorectal cancer cells into zebrafish larvae for high-throughput drug screening",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "While lacking a fully adaptive immune system, zebrafish possess innate immune components that allow for preliminary studies of tumor-immune interactions ref [32].",
+    "refNo": 32,
+    "title": "Innate immune responses to tumor cells in zebrafish: implications for modeling tumor-immune crosstalk",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "Genetically engineered mouse models, particularly Apc<sup>Min</sup> mice, have been instrumental in demonstrating that loss of APC function results in nuclear accumulation of β-catenin, driving uncontrolled crypt proliferation and adenoma formation ref [23].",
+    "refNo": 23,
+    "title": "Patient-derived organoid models of colorectal cancer for precision oncology",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Human organoid cultures derived from CRC patients recapitulate this dependency, with CRISPR-mediated restoration of APC function leading to loss of stemness and differentiation ref [24].",
+    "refNo": 24,
+    "title": "Modeling colorectal cancer immune microenvironment using patient-derived organoids and autologous T cells",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Zebrafish models with targeted disruption of apc exhibit rapid intestinal hyperplasia and β-catenin nuclear localization, validating evolutionary conservation of this pathway ref [8].",
+    "refNo": 8,
+    "title": "Apc<sup>Min</sup> mice: a model for intestinal tumorigenesis",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Recent work using patient-derived organoids has shown that Wnt pathway mutations co-occur with alterations in R-spondin and RSPO3 gene fusions, which amplify Wnt signaling independently of APC loss ref [24].",
+    "refNo": 24,
+    "title": "Modeling colorectal cancer immune microenvironment using patient-derived organoids and autologous T cells",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "In vivo imaging in zebrafish has further demonstrated that Wnt activation alters cell adhesion and polarity prior to overt neoplasia, suggesting early microenvironmental remodeling ref [8].",
+    "refNo": 8,
+    "title": "Apc<sup>Min</sup> mice: a model for intestinal tumorigenesis",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Experimental models such as the azoxymethane/dextran sulfate sodium (AOM/DSS) system have demonstrated that sustained mucosal inflammation promotes tumorigenesis through NF-κB and STAT3 activation, leading to epithelial cell proliferation and survival advantages for mutated clones [6].",
+    "refNo": 6,
+    "title": "Microbiota-driven inflammation and tumorigenesis in chemically induced colorectal cancer models",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Microbiota composition shifts, including enrichment of pro-inflammatory species like Fusobacterium nucleatum and enterotoxigenic Bacteroides fragilis, have been shown to directly induce DNA damage and disrupt epithelial barrier integrity in murine and human organoid models [21].",
+    "refNo": 21,
+    "title": "Humanization of patient-derived xenografts with autologous immune cells for immunotherapy testing in colorectal cancer",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "F. nucleatum, for instance, binds E-cadherin via its Fap2 protein, activating β-catenin signaling and suppressing anti-tumor immune responses [18].",
+    "refNo": 18,
+    "title": "Genomic and transcriptomic characterization of patient-derived xenografts in colorectal cancer",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Host-microbe interactions are further modulated by immune cell infiltration; IL-10-deficient mice develop spontaneous colitis and CRC, highlighting the critical role of regulatory T cells in restraining microbiota-driven inflammation [19].",
+    "refNo": 19,
+    "title": "Patient-derived xenografts as a platform for precision oncology in colorectal cancer",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Recent studies using gnotobiotic mice have confirmed that germ-free conditions significantly reduce tumor burden in AOM/DSS models, while colonization with CRC-associated bacterial consortia restores tumorigenesis [11].",
+    "refNo": 11,
+    "title": "The tumor microenvironment in genetically engineered mouse models of colorectal cancer",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Moreover, microbial metabolites such as secondary bile acids and short-chain fatty acids exert bidirectional effects—some promoting epithelial damage while others exert protective anti-inflammatory actions, underscoring the metabolic complexity of the tumor-microbiome axis [27].",
+    "refNo": 27,
+    "title": "Oncogenic Kras induces intestinal hyperplasia and neoplasia in transgenic zebrafish",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "GEMMs with inducible oncogenic Kras and Trp53 loss recapitulate the molecular heterogeneity of human tumors and enable longitudinal assessment of targeted inhibitor responses, revealing context-dependent vulnerabilities ref [7].",
+    "refNo": 7,
+    "title": "Dietary modulation of the gut microbiome enhances tumor susceptibility in the AOM/DSS model",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "PDX models, particularly those derived from treatment-naïve patients, preserve tumor architecture and genomic profiles, allowing for high-fidelity screening of EGFR inhibitors and MEK inhibitors in KRAS-mutant contexts ref [20].",
+    "refNo": 20,
+    "title": "Establishment and characterization of a large panel of patient-derived xenograft models of colorectal cancer",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Recent studies have demonstrated that PDX panels can identify subpopulations responsive to combination therapies, such as ERK and SHP2 inhibitors, which overcome adaptive resistance mechanisms ref [35].",
+    "refNo": 35,
+    "title": "TGF-β-induced EMT promotes liver metastasis in a mouse model of colorectal cancer",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "Organoid-based platforms have emerged as complementary tools, enabling high-throughput drug screening while maintaining patient-specific mutational landscapes ref [28].",
+    "refNo": 28,
+    "title": "CRISPR/Cas9-mediated disruption of APC and TP53 in zebrafish recapitulates colorectal cancer pathogenesis",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "The integration of CRISPR screening in organoids has further accelerated the discovery of synthetic lethal interactions, such as those involving PARP and WEE1 in KRAS-mutant backgrounds ref [8].",
+    "refNo": 8,
+    "title": "Apc<sup>Min</sup> mice: a model for intestinal tumorigenesis",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "To address this, co-engraftment of human stromal cells and immune components into PDXs is being explored to improve translational relevance ref [26].",
+    "refNo": 26,
+    "title": "A biobank of patient-derived organoids for colorectal cancer reveals molecular diversity and therapeutic vulnerabilities",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "Standardized protocols for drug dosing, pharmacodynamic readouts, and biomarker validation are critical to ensure reproducibility across platforms ref [35].",
+    "refNo": 35,
+    "title": "TGF-β-induced EMT promotes liver metastasis in a mouse model of colorectal cancer",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "Immunocompetent genetically engineered mouse models (GEMMs), such as those driven by Apc loss and Kras activation, have enabled the preclinical assessment of immune checkpoint inhibitors, including anti-PD-1 and anti-CTLA-4 therapies, revealing differential responses based on tumor mutational burden and microenvironmental composition ref [29].",
+    "refNo": 29,
+    "title": "Drosophila intestinal stem cell models reveal conserved mechanisms of oncogenic transformation",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Additionally, the AOM/DSS model, which induces inflammation-driven tumorigenesis, has been instrumental in evaluating combination strategies that target both immune checkpoints and inflammatory pathways, such as COX-2 inhibition with anti-PD-L1 ref [18].",
+    "refNo": 18,
+    "title": "Genomic and transcriptomic characterization of patient-derived xenografts in colorectal cancer",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Zebrafish models with conserved innate immune systems have also been leveraged for real-time imaging of tumor-infiltrating leukocyte dynamics, providing insights into early immune evasion mechanisms ref [31].",
+    "refNo": 31,
+    "title": "Xenotransplantation of human colorectal cancer cells into zebrafish larvae for high-throughput drug screening",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "Humanized models, where murine hosts are engrafted with autologous human immune cells, further bridge translational gaps by enabling testing of human-specific immunotherapies in a physiologically relevant context ref [10].",
+    "refNo": 10,
+    "title": "Inducible and tissue-specific gene targeting in mouse models of colorectal cancer",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Recent studies emphasize the need for standardized immune profiling across models to improve predictive validity, particularly for combination regimens involving adoptive cell transfer or cancer vaccines ref [29].",
+    "refNo": 29,
+    "title": "Drosophila intestinal stem cell models reveal conserved mechanisms of oncogenic transformation",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Patient-derived xenografts (PDXs) and organoids, established from biopsy samples, enable ex vivo testing of targeted agents and combination regimens tailored to individual tumor genomics, thereby bridging the gap between molecular profiling and clinical decision-making ref [26].",
+    "refNo": 26,
+    "title": "A biobank of patient-derived organoids for colorectal cancer reveals molecular diversity and therapeutic vulnerabilities",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "Co-clinical trials using PDX models have demonstrated predictive accuracy for patient responses to EGFR inhibitors and BRAF/MEK combinations, particularly in RAS wild-type and BRAF-mutant subtypes ref [4].",
+    "refNo": 4,
+    "title": "Preclinical evaluation of chemopreventive agents in the AOM/DSS model of colitis-associated cancer",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "The integration of autologous immune cells into PDX models further enhances their utility for evaluating immunotherapies in a patient-specific context, enabling assessment of checkpoint blockade efficacy in immunologically 'humanized' microenvironments ref [6].",
+    "refNo": 6,
+    "title": "Microbiota-driven inflammation and tumorigenesis in chemically induced colorectal cancer models",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Organoid-based co-clinical platforms have enabled real-time drug sensitivity testing with turnaround times compatible with clinical timelines, facilitating adaptive treatment strategies ref [25].",
+    "refNo": 25,
+    "title": "Organoid-on-a-chip platforms for modeling colorectal cancer metastasis and drug response",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Recent studies have shown that organoid drug response profiles correlate with clinical outcomes in metastatic colorectal cancer patients, supporting their use as functional biomarkers ref [23].",
+    "refNo": 23,
+    "title": "Patient-derived organoid models of colorectal cancer for precision oncology",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Moreover, longitudinal tracking of genomic and transcriptomic evolution in co-clinical models has revealed dynamic resistance mechanisms emerging under therapy, informing sequential treatment design ref [26].",
+    "refNo": 26,
+    "title": "A biobank of patient-derived organoids for colorectal cancer reveals molecular diversity and therapeutic vulnerabilities",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "For instance, organoid-on-a-chip platforms integrated with real-time imaging allow longitudinal monitoring of drug responses in physiologically relevant microenvironments, enhancing predictive accuracy ref [34].",
+    "refNo": 34,
+    "title": "Hybrid EMT states in circulating tumor cells drive metastatic colonization in colorectal cancer",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "Similarly, xenotransplantation of human colorectal cancer cells into zebrafish larvae has been adapted for high-throughput in vivo screening, leveraging the optical transparency and rapid development of zebrafish to assess drug efficacy and toxicity in parallel ref [10].",
+    "refNo": 10,
+    "title": "Inducible and tissue-specific gene targeting in mouse models of colorectal cancer",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Automation has also enabled the systematic profiling of drug resistance patterns across hundreds of patient-derived models, uncovering context-dependent vulnerabilities ref [16].",
+    "refNo": 16,
+    "title": "Patient-derived xenograft models of colorectal cancer: a comprehensive review",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Such systems have been validated in large-scale screens of FDA-approved compounds and novel kinase inhibitors, identifying repurposing opportunities for colorectal cancer ref [16].",
+    "refNo": 16,
+    "title": "Patient-derived xenograft models of colorectal cancer: a comprehensive review",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Even humanized mouse models, which engraft human hematopoietic stem cells, often exhibit incomplete immune reconstitution, skewed lymphoid subsets, and graft-versus-host reactions that distort tumor-immune interactions ref [21].",
+    "refNo": 21,
+    "title": "Humanization of patient-derived xenografts with autologous immune cells for immunotherapy testing in colorectal cancer",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "For instance, murine cytokines may not effectively engage human receptors, and human tumor cells may not be recognized by murine innate immune sensors, resulting in false-negative or misleading therapeutic outcomes ref [14].",
+    "refNo": 14,
+    "title": "Immunocompetent mouse models for evaluating immune checkpoint blockade in colorectal cancer",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "These discrepancies are particularly pronounced in microsatellite-stable colorectal cancers, where immune exclusion and myeloid suppression are key resistance features ref [11].",
+    "refNo": 11,
+    "title": "The tumor microenvironment in genetically engineered mouse models of colorectal cancer",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Efforts to humanize xenografts with autologous immune cells have shown promise but remain technically inconsistent, with variable engraftment efficiency and short-lived immune functionality ref [24].",
+    "refNo": 24,
+    "title": "Modeling colorectal cancer immune microenvironment using patient-derived organoids and autologous T cells",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Consequently, the clinical translatability of immunotherapy data from xenograft models remains highly uncertain, necessitating complementary models such as immunocompetent GEMMs or organoid-based co-cultures for robust validation ref [15].",
+    "refNo": 15,
+    "title": "Advantages and limitations of genetically engineered mouse models in colorectal cancer research",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "For instance, human cancer-associated fibroblasts (CAFs) secrete distinct cytokine profiles that are not fully mirrored in murine counterparts, altering drug penetration and resistance mechanisms ref [18].",
+    "refNo": 18,
+    "title": "Genomic and transcriptomic characterization of patient-derived xenografts in colorectal cancer",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Moreover, the murine immune landscape, even in immunocompetent models, lacks key human immune cell subsets and checkpoint molecule expression patterns, further distorting therapeutic responses ref [9].",
+    "refNo": 9,
+    "title": "Combined activation of Kras and loss of Trp53 in intestinal epithelium drives aggressive colorectal cancer",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Recent studies demonstrate that organoid-on-a-chip systems incorporating human endothelial cells and fibroblasts better mimic perfusion dynamics and hypoxic gradients observed in vivo, yet these remain experimental and not standardized ref [27].",
+    "refNo": 27,
+    "title": "Oncogenic Kras induces intestinal hyperplasia and neoplasia in transgenic zebrafish",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "The absence of a functional lymphatic network and neural innervation in most models further limits their ability to capture the full complexity of the TME ref [27].",
+    "refNo": 27,
+    "title": "Oncogenic Kras induces intestinal hyperplasia and neoplasia in transgenic zebrafish",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "Variability in organoid culture conditions—including extracellular matrix composition, growth factor concentrations, and media formulations—leads to inconsistent phenotypic and molecular outputs, even when using identical patient-derived samples ref [5].",
+    "refNo": 5,
+    "title": "Standardization of the AOM/DSS model for colorectal cancer research",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Similarly, xenograft implantation techniques differ widely in terms of cell suspension preparation, injection volume, site (subcutaneous vs. orthotopic), and mouse strain, confounding cross-study comparisons ref [20].",
+    "refNo": 20,
+    "title": "Establishment and characterization of a large panel of patient-derived xenograft models of colorectal cancer",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "In genetically engineered mouse models (GEMMs), differences in inducible system activation timing, Cre recombinase expression levels, and background strain genetics significantly alter tumor latency and progression kinetics ref [6].",
+    "refNo": 6,
+    "title": "Microbiota-driven inflammation and tumorigenesis in chemically induced colorectal cancer models",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Efforts to address these issues have emerged, such as the CRC Organoid Biobank Consortium’s standardized culture guidelines, which improve inter-laboratory consistency in organoid derivation and expansion ref [5].",
+    "refNo": 5,
+    "title": "Standardization of the AOM/DSS model for colorectal cancer research",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "For PDX models, the PDXNet initiative has established harmonized protocols for engraftment, passaging, and biomarker monitoring, enhancing data comparability across institutions ref [20].",
+    "refNo": 20,
+    "title": "Establishment and characterization of a large panel of patient-derived xenograft models of colorectal cancer",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "In chemically induced models, standardized dosing regimens for azoxymethane (AOM) and dextran sulfate sodium (DSS) have been proposed to reduce variability in tumor incidence and inflammation severity ref [38].",
+    "refNo": 38,
+    "title": "Transcriptional plasticity of EMT programs in patient-derived colorectal cancer metastases",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Patient-derived xenografts (PDXs) and organoids are often chosen based on molecular similarity to donor tumors, but genomic drift and selective pressures during engraftment can alter biomarker expression, compromising predictive validity ref [18].",
+    "refNo": 18,
+    "title": "Genomic and transcriptomic characterization of patient-derived xenografts in colorectal cancer",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "For instance, mutations in KRAS, BRAF, or TP53 are frequently used as selection criteria, yet their stability in culture or in vivo is not always maintained, leading to misclassification ref [23].",
+    "refNo": 23,
+    "title": "Patient-derived organoid models of colorectal cancer for precision oncology",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Moreover, functional biomarkers such as EMT signatures or immune cell infiltration are rarely standardized, resulting in poor inter-laboratory reproducibility ref [33].",
+    "refNo": 33,
+    "title": "Single-cell analysis of colorectal cancer reveals distinct EMT states associated with metastasis and therapy resistance",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "The lack of consensus on threshold values for biomarker positivity further complicates model selection, particularly when translating findings to heterogeneous human populations ref [17].",
+    "refNo": 17,
+    "title": "Clinical relevance of patient-derived xenografts in colorectal cancer: a systematic review",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "While some studies have proposed multi-omics profiling to define molecular subtypes for model stratification, these frameworks are seldom prospectively validated in clinical trials ref [26].",
+    "refNo": 26,
+    "title": "A biobank of patient-derived organoids for colorectal cancer reveals molecular diversity and therapeutic vulnerabilities",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "Additionally, the overreliance on a narrow set of driver mutations as selection criteria neglects the contribution of non-genomic factors such as epigenetic states or stromal interactions, which are critical for therapeutic response ref [24].",
+    "refNo": 24,
+    "title": "Modeling colorectal cancer immune microenvironment using patient-derived organoids and autologous T cells",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Recent work has emphasized the need for dynamic biomarker monitoring during model propagation, yet few protocols incorporate longitudinal validation ref [19].",
+    "refNo": 19,
+    "title": "Patient-derived xenografts as a platform for precision oncology in colorectal cancer",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Notably, co-cultures incorporating tumor-infiltrating lymphocytes (TILs) from CRC patients have demonstrated antigen-specific cytotoxicity and response to immune checkpoint inhibitors, mirroring clinical outcomes ref [11].",
+    "refNo": 11,
+    "title": "The tumor microenvironment in genetically engineered mouse models of colorectal cancer",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "The inclusion of myeloid-derived suppressor cells (MDSCs) and regulatory T cells (Tregs) has further enabled the study of immunosuppressive networks in microsatellite-stable (MSS) CRC, a subtype notoriously resistant to immunotherapy ref [15].",
+    "refNo": 15,
+    "title": "Advantages and limitations of genetically engineered mouse models in colorectal cancer research",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Moreover, CRISPR-engineered organoids with defined mutations (e.g., APC, KRAS, TP53) have been used to dissect how specific oncogenic drivers shape immune recruitment and activation ref [11].",
+    "refNo": 11,
+    "title": "The tumor microenvironment in genetically engineered mouse models of colorectal cancer",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Recent advances in CRISPR-based functional genomics in organoids have enabled the identification of therapeutic vulnerabilities without requiring in vivo validation in every case, further supporting Replacement and Reduction [41].",
+    "refNo": 41,
+    "title": "Engraftment of human immune cells in immunodeficient mice enables functional analysis of tumor-immune interactions in colorectal cancer",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "Additionally, the use of zebrafish larvae for high-throughput drug screening, which permits rapid assessment with low animal numbers and early-stage ethical oversight, exemplifies Refinement and Reduction [33].",
+    "refNo": 33,
+    "title": "Single-cell analysis of colorectal cancer reveals distinct EMT states associated with metastasis and therapy resistance",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "The integration of computational modeling with in vitro data also reduces the need for animal testing by predicting in vivo outcomes from organoid responses [42].",
+    "refNo": 42,
+    "title": "A humanized mouse model for evaluating immune checkpoint blockade in colorectal cancer with patient-derived tumor cells",
+    "marker_text": "[42]"
+  },
+  {
+    "sentence": "Initiatives such as the Human Cancer Models Initiative (HCMI) have established open-access biobanks of patient-derived organoids and xenografts with matched genomic and clinical annotations, enabling community-wide validation and meta-analysis ref [26].",
+    "refNo": 26,
+    "title": "A biobank of patient-derived organoids for colorectal cancer reveals molecular diversity and therapeutic vulnerabilities",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "Similarly, the Cancer Cell Line Encyclopedia (CCLE) and the Cancer Genome Atlas (TCGA) have set precedents for integrating multi-omics data with model characteristics, facilitating cross-platform comparisons ref [18].",
+    "refNo": 18,
+    "title": "Genomic and transcriptomic characterization of patient-derived xenografts in colorectal cancer",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "For organoid models specifically, the European Collection of Authenticated Cell Cultures (ECACC) and the NCI Patient-Derived Models Repository (PDMR) provide curated, quality-controlled resources with detailed phenotypic and drug response profiles ref [20].",
+    "refNo": 20,
+    "title": "Establishment and characterization of a large panel of patient-derived xenograft models of colorectal cancer",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "The Minimum Information About a Cancer Model (MIACM) framework has been proposed to harmonize reporting across repositories, improving data utility for computational modeling and AI-driven drug discovery ref [70].",
+    "refNo": 70,
+    "title": "Cross-platform multi-omics integration enables precision stratification of colorectal cancer organoid models for clinical translation",
+    "marker_text": "[70]"
+  },
+  {
+    "sentence": "Collaborative platforms like the Cancer Research UK (CRUK) Organoid Biobank and the Dutch Cancer Registry have demonstrated the feasibility of federated data sharing while preserving patient privacy through controlled-access protocols ref [63].",
+    "refNo": 63,
+    "title": "Integrated multi-omics profiling of patient-derived organoids reveals molecular subtypes and therapeutic vulnerabilities in colorectal cancer",
+    "marker_text": "[63]"
+  },
+  {
+    "sentence": "Emerging efforts to link model repositories with longitudinal clinical outcomes, such as those in the AACR Project GENIE, further bridge preclinical and clinical domains, allowing for real-time validation of model predictive power ref [17].",
+    "refNo": 17,
+    "title": "Clinical relevance of patient-derived xenografts in colorectal cancer: a systematic review",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Efforts to bridge this gap include the development of consensus guidelines for model characterization, such as those proposed by the European Partnership for Alternative Approaches to Animal Testing (EPAA), which emphasize molecular fidelity and reproducibility [1].",
+    "refNo": 1,
+    "title": "Azoxymethane and dextran sulfate sodium model of colitis-associated colon cancer",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Recent initiatives by the FDA’s Oncology Center of Excellence have begun to incorporate patient-derived models in preclinical submissions, particularly for biomarker-driven therapies, but widespread adoption requires robust interoperability with existing regulatory endpoints [2].",
+    "refNo": 2,
+    "title": "Inflammation and colorectal cancer: experimental models and molecular mechanisms",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Studies demonstrating that organoid-based drug responses correlate with clinical outcomes in matched patients have begun to provide the evidentiary basis for regulatory consideration [3].",
+    "refNo": 3,
+    "title": "Dietary carcinogens and colorectal cancer: insights from animal models",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Similarly, humanized mouse models that recapitulate immune-tumor interactions have shown promise in predicting immunotherapy responses, supporting their potential use in oncology drug evaluation [4].",
+    "refNo": 4,
+    "title": "Preclinical evaluation of chemopreventive agents in the AOM/DSS model of colitis-associated cancer",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "However, heterogeneity in model generation protocols and lack of standardized quality controls continue to impede regulatory confidence [5].",
+    "refNo": 5,
+    "title": "Standardization of the AOM/DSS model for colorectal cancer research",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Collaborative consortia, such as the Human Cancer Models Initiative (HCMI), are working to generate openly accessible, well-characterized models that meet regulatory-grade standards, thereby accelerating acceptance [6].",
+    "refNo": 6,
+    "title": "Microbiota-driven inflammation and tumorigenesis in chemically induced colorectal cancer models",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "The Human Cancer Models Initiative has laid foundational benchmarks for model characterization, advocating for comprehensive genomic, transcriptomic, and phenotypic profiling to ensure reproducibility across laboratories [66].",
+    "refNo": 66,
+    "title": "Multi-omics integration in humanized mouse models identifies systemic immune-metabolic signatures predictive of immunotherapy response in colorectal cancer",
+    "marker_text": "[66]"
+  },
+  {
+    "sentence": "Validation should extend beyond single-timepoint assays to include longitudinal tracking of therapeutic resistance and microenvironmental adaptation, as demonstrated in multi-omics studies of drug-exposed organoids [34].",
+    "refNo": 34,
+    "title": "Hybrid EMT states in circulating tumor cells drive metastatic colonization in colorectal cancer",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "Recent work has shown that immune cell engraftment fidelity and cytokine signaling congruence with patient profiles significantly enhance predictive power [73].",
+    "refNo": 73,
+    "title": "Patient-derived organoid models predict clinical response to targeted therapies in colorectal cancer",
+    "marker_text": "[73]"
+  },
+  {
+    "sentence": "Regulatory bodies like the FDA are increasingly recognizing the need for tiered validation pathways that align model complexity with intended use—whether for drug screening, biomarker discovery, or personalized therapy prediction [28].",
+    "refNo": 28,
+    "title": "CRISPR/Cas9-mediated disruption of APC and TP53 in zebrafish recapitulates colorectal cancer pathogenesis",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Collaborative initiatives such as the Cancer Model Validation Consortium propose centralized scoring systems based on clinical outcome correlation, leveraging retrospective clinical data to calibrate model performance [61].",
+    "refNo": 61,
+    "title": "Real-time imaging of immune-tumor interactions in a microfluidic model of colorectal cancer",
+    "marker_text": "[61]"
+  }
+]

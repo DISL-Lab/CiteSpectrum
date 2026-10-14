@@ -1,0 +1,1232 @@
+[
+  {
+    "sentence": "Epidemiological studies estimate that more than 250,000 new cases of central nervous system (CNS) tumors worldwide are expected every year with variable incidence rates ( ref [1] and http://www.cancer.gov/types/brain/hp/adult-brain-treatmentpdq).",
+    "refNo": 1,
+    "title": "Transcriptional and epigenetic regulation of human microRNAs",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "According to the current classification ref [2], approximately 38% of these tumors are at high grade (WHO III, anaplastic astrocytoma or AA and WHO IV, glioblastoma or GB) and hence are virtually lethal.",
+    "refNo": 2,
+    "title": "Epigenetic silencing of miR-181c by DNA methylation in glioblastoma cell lines",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Given the extremely limited success of the standard treatment in prolonging survival in GB patients, considerable efforts were undertaken to develop targeted therapies that could significantly improve the outcome of these patients ref [3].",
+    "refNo": 3,
+    "title": "Cross talk between microRNA and epigenetic regulation in adult neurogenesis",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "In this respect, epigenetics and epigenetic modulators have become a preferred field of investigation because of their influence in many aspects of cancer ref [4], ref [5].",
+    "refNo": 4,
+    "title": "Prognostic relevance of miRNA-155 methylation in anaplastic glioma",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "In this respect, epigenetics and epigenetic modulators have become a preferred field of investigation because of their influence in many aspects of cancer ref [4], ref [5].",
+    "refNo": 5,
+    "title": "Tumour-suppressive microRNA-874 contributes to cell proliferation through targeting of histone deacetylase 1 in head and neck squamous cell carcinoma",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "In this respect, the relation between miRNA and chemo-and radiotherapy has been extensively exploited to search for new possible therapeutic targets or to predict and improve the response to treatment ref [1], ref [3], ref [4], ref [5].",
+    "refNo": 1,
+    "title": "Transcriptional and epigenetic regulation of human microRNAs",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "In this respect, the relation between miRNA and chemo-and radiotherapy has been extensively exploited to search for new possible therapeutic targets or to predict and improve the response to treatment ref [1], ref [3], ref [4], ref [5].",
+    "refNo": 3,
+    "title": "Cross talk between microRNA and epigenetic regulation in adult neurogenesis",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "In this respect, the relation between miRNA and chemo-and radiotherapy has been extensively exploited to search for new possible therapeutic targets or to predict and improve the response to treatment ref [1], ref [3], ref [4], ref [5].",
+    "refNo": 4,
+    "title": "Prognostic relevance of miRNA-155 methylation in anaplastic glioma",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "In this respect, the relation between miRNA and chemo-and radiotherapy has been extensively exploited to search for new possible therapeutic targets or to predict and improve the response to treatment ref [1], ref [3], ref [4], ref [5].",
+    "refNo": 5,
+    "title": "Tumour-suppressive microRNA-874 contributes to cell proliferation through targeting of histone deacetylase 1 in head and neck squamous cell carcinoma",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Transcriptional profiling has delineated four major molecular subtypes of glioblastoma that could be better characterized by mutational, copy number variation, and methylation analyses [7][8][9].",
+    "refNo": 7,
+    "title": "Regulation of epidermal growth factor receptor signaling by plasmid-based microRNA-7 inhibits human malignant gliomas growth and metastasis in vivo",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Transcriptional profiling has delineated four major molecular subtypes of glioblastoma that could be better characterized by mutational, copy number variation, and methylation analyses [7][8][9].",
+    "refNo": 8,
+    "title": "MicroRNA-21 regulates expression of the PTEN tumor suppressor gene in human hepatocellular cancer",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Transcriptional profiling has delineated four major molecular subtypes of glioblastoma that could be better characterized by mutational, copy number variation, and methylation analyses [7][8][9].",
+    "refNo": 9,
+    "title": "MicroRNA-21 knockdown disrupts glioma growth in vivo and displays synergistic cytotoxicity with neural precursor cell delivered S-TRAIL in human gliomas",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "In two seminal papers published in 2005 [10,11], Stupp et al. and Hegi et al. established that the inactivation of the MGMT gene by DNA methylation in the tumor is associated with better survival in GB patients treated with TMZ and radiotherapy compared to the patients with unmethylated MGMT.",
+    "refNo": 10,
+    "title": "MiR-221 and miR-222 target PUMA to induce cell survival in glioblastoma",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "In two seminal papers published in 2005 [10,11], Stupp et al. and Hegi et al. established that the inactivation of the MGMT gene by DNA methylation in the tumor is associated with better survival in GB patients treated with TMZ and radiotherapy compared to the patients with unmethylated MGMT.",
+    "refNo": 11,
+    "title": "Gliomas display a microRNA expression profile reminiscent of neural precursor cells",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "For instance, miR-21 is overexpressed in glioblastoma and directly targets the PTEN tumor suppressor, thereby promoting cell proliferation, migration, and invasion through dysregulation of PTEN-dependent pathways ref [13].",
+    "refNo": 13,
+    "title": "Small molecules targeting histone demethylase genes (KDMs) inhibit growth of temozolomide-resistant glioblastoma cells",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Similarly, knockdown of miR-21 disrupts glioma growth in vivo and enhances sensitivity to apoptosis-inducing therapies such as S-TRAIL, demonstrating its central role in therapy resistance ref [14].",
+    "refNo": 14,
+    "title": "Silencing of microRNA-21 confers radio-sensitivity through inhibition of the PI3K/AKT pathway and enhancing autophagy in malignant glioma cell lines",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "MiR-221 and miR-222 are frequently upregulated in glioblastoma and promote cell survival by directly targeting the pro-apoptotic gene PUMA, with inverse correlation observed between miR-221/222 and PUMA levels in patient tissues ref [15].",
+    "refNo": 15,
+    "title": "microRNA-17 regulates the expression of ATG7 and modulates the autophagy process, improving the sensitivity to temozolomide and low-dose ionizing radiation treatments in human glioblastoma cells",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Additionally, miR-7 has been shown to inhibit glioma growth and metastasis in vivo by directly suppressing EGFR signaling and its downstream effectors ERK, Akt, and Stat3 ref [12].",
+    "refNo": 12,
+    "title": "The histone demethylase KDM5A is a key factor for the resistance to temozolomide in glioblastoma",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Beyond direct oncogenic targeting, miRNAs also regulate epigenetic machinery: although not yet demonstrated in glioblastoma, miR-155 targets HDAC4 and impairs BCL6 transcriptional activity in lymphoid malignancies, suggesting a potential parallel mechanism in GB ref [9]; similarly, miR-874 targets HDAC1 in head and neck cancer, indicating a conserved miRNA–HDAC axis that may be exploitable in glioblastoma ref [8].",
+    "refNo": 9,
+    "title": "MicroRNA-21 knockdown disrupts glioma growth in vivo and displays synergistic cytotoxicity with neural precursor cell delivered S-TRAIL in human gliomas",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Beyond direct oncogenic targeting, miRNAs also regulate epigenetic machinery: although not yet demonstrated in glioblastoma, miR-155 targets HDAC4 and impairs BCL6 transcriptional activity in lymphoid malignancies, suggesting a potential parallel mechanism in GB ref [9]; similarly, miR-874 targets HDAC1 in head and neck cancer, indicating a conserved miRNA–HDAC axis that may be exploitable in glioblastoma ref [8].",
+    "refNo": 8,
+    "title": "MicroRNA-21 regulates expression of the PTEN tumor suppressor gene in human hepatocellular cancer",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "In a literature survey of miRNA deregulated in GB, it was found that the majority of them (n = 253) were overexpressed compared to normal brain tissue, 95 were downmodulated, and conflicting results were reported for 17 of them [4].",
+    "refNo": 4,
+    "title": "Prognostic relevance of miRNA-155 methylation in anaplastic glioma",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Brain is a particular environment that is made impermeable to external molecules by the blood brain barrier (BBB); this prevents the efficient targeting of glioma cells with antineoplastic drugs unless the BBB is severely damaged as in glioma above 2-4 mm [83].",
+    "refNo": 83,
+    "title": "",
+    "marker_text": "[83]"
+  },
+  {
+    "sentence": "Several miRNAs are involved in EMT or in general into the mechanisms of invasion; they include miR-21, miR-146, miR-10b, and miR-7 that target directly or indirectly metalloproteinase inhibitors [84,85], adhesion molecules, and other genes involved in metastasis and cell invasion [86][87][88].",
+    "refNo": 84,
+    "title": "",
+    "marker_text": "[84]"
+  },
+  {
+    "sentence": "Several miRNAs are involved in EMT or in general into the mechanisms of invasion; they include miR-21, miR-146, miR-10b, and miR-7 that target directly or indirectly metalloproteinase inhibitors [84,85], adhesion molecules, and other genes involved in metastasis and cell invasion [86][87][88].",
+    "refNo": 85,
+    "title": "",
+    "marker_text": "[85]"
+  },
+  {
+    "sentence": "Several miRNAs are involved in EMT or in general into the mechanisms of invasion; they include miR-21, miR-146, miR-10b, and miR-7 that target directly or indirectly metalloproteinase inhibitors [84,85], adhesion molecules, and other genes involved in metastasis and cell invasion [86][87][88].",
+    "refNo": 86,
+    "title": "",
+    "marker_text": "[86]"
+  },
+  {
+    "sentence": "Several miRNAs are involved in EMT or in general into the mechanisms of invasion; they include miR-21, miR-146, miR-10b, and miR-7 that target directly or indirectly metalloproteinase inhibitors [84,85], adhesion molecules, and other genes involved in metastasis and cell invasion [86][87][88].",
+    "refNo": 87,
+    "title": "",
+    "marker_text": "[87]"
+  },
+  {
+    "sentence": "Several miRNAs are involved in EMT or in general into the mechanisms of invasion; they include miR-21, miR-146, miR-10b, and miR-7 that target directly or indirectly metalloproteinase inhibitors [84,85], adhesion molecules, and other genes involved in metastasis and cell invasion [86][87][88].",
+    "refNo": 88,
+    "title": "",
+    "marker_text": "[88]"
+  },
+  {
+    "sentence": "A set of miRNA (miR-296, miR-125b, and others) can directly or indirectly fine-tune angiogenic factors and promote neoangiogenesis in GB [89,90].",
+    "refNo": 89,
+    "title": "",
+    "marker_text": "[89]"
+  },
+  {
+    "sentence": "A set of miRNA (miR-296, miR-125b, and others) can directly or indirectly fine-tune angiogenic factors and promote neoangiogenesis in GB [89,90].",
+    "refNo": 90,
+    "title": "",
+    "marker_text": "[90]"
+  },
+  {
+    "sentence": "In GB, angiogenesis can be stimulated also by other mechanisms like hypoxia through the targeting of HIF3A by miR-210-3p that results in the overexpression of VEGF [91].",
+    "refNo": 91,
+    "title": "",
+    "marker_text": "[91]"
+  },
+  {
+    "sentence": "Interference with VEGF is not the only angiogenic mechanisms exerted by miRNA in glioma; indeed, neovascularization can be promoted by miR-93 that targets integrin-β8 involved in cell-cell and cell-matrix interactions [92].",
+    "refNo": 92,
+    "title": "",
+    "marker_text": "[92]"
+  },
+  {
+    "sentence": "The transport mechanisms of miRNA across the BBB is still debated and could involve extracellular vesicles (EV) like exosomes that could serve as a communication tool in nonpathologic situations [93] or between tumor cells and their environment and trigger cell proliferation [94].",
+    "refNo": 93,
+    "title": "",
+    "marker_text": "[93]"
+  },
+  {
+    "sentence": "The transport mechanisms of miRNA across the BBB is still debated and could involve extracellular vesicles (EV) like exosomes that could serve as a communication tool in nonpathologic situations [93] or between tumor cells and their environment and trigger cell proliferation [94].",
+    "refNo": 94,
+    "title": "",
+    "marker_text": "[94]"
+  },
+  {
+    "sentence": "The histone demethylase KDM5A is a key factor for the resistance to temozolomide in glioblastoma, as its overexpression enables tumor cells to evade cytotoxic effects [1].",
+    "refNo": 1,
+    "title": "Transcriptional and epigenetic regulation of human microRNAs",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Targeting KDMs, including KDM5A, with small molecules such as JIB 04 inhibits growth of temozolomide-resistant glioblastoma cells by activating autophagic and apoptotic pathways and inactivating the pro-survival Akt pathway [2].",
+    "refNo": 2,
+    "title": "Epigenetic silencing of miR-181c by DNA methylation in glioblastoma cell lines",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Furthermore, miR-21 contributes to radio-resistance by suppressing DNA damage repair and enhancing PI3K/AKT signaling; silencing miR-21 confers radio-sensitivity through inhibition of the PI3K/AKT pathway and enhancing autophagy in malignant glioma cell lines [4].",
+    "refNo": 4,
+    "title": "Prognostic relevance of miRNA-155 methylation in anaplastic glioma",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Similarly, miR-17 modulates autophagy by targeting ATG7, and its downregulation improves sensitivity to temozolomide and low-dose ionizing radiation in glioblastoma cells [5].",
+    "refNo": 5,
+    "title": "Tumour-suppressive microRNA-874 contributes to cell proliferation through targeting of histone deacetylase 1 in head and neck squamous cell carcinoma",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Additionally, the suppression of Let-7b in chemoresistant glioblastoma leads to upregulation of cyclin D1, promoting resistance to cisplatin; restoring Let-7b expression re-sensitizes tumor cells to chemotherapy [9].",
+    "refNo": 9,
+    "title": "MicroRNA-21 knockdown disrupts glioma growth in vivo and displays synergistic cytotoxicity with neural precursor cell delivered S-TRAIL in human gliomas",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Intriguingly, miRNA can also be subjected to epigenetic control through DNA methylation and histone modifications [10] thus establishing a complex interplay capable of interfering, directly or indirectly, with multiple pathways in extraordinary complex networks that have been partially explored in several tumors including glioblastoma [5][6][16][18][20].",
+    "refNo": 10,
+    "title": "MiR-221 and miR-222 target PUMA to induce cell survival in glioblastoma",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Intriguingly, miRNA can also be subjected to epigenetic control through DNA methylation and histone modifications [10] thus establishing a complex interplay capable of interfering, directly or indirectly, with multiple pathways in extraordinary complex networks that have been partially explored in several tumors including glioblastoma [5][6][16][18][20].",
+    "refNo": 5,
+    "title": "Tumour-suppressive microRNA-874 contributes to cell proliferation through targeting of histone deacetylase 1 in head and neck squamous cell carcinoma",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Intriguingly, miRNA can also be subjected to epigenetic control through DNA methylation and histone modifications [10] thus establishing a complex interplay capable of interfering, directly or indirectly, with multiple pathways in extraordinary complex networks that have been partially explored in several tumors including glioblastoma [5][6][16][18][20].",
+    "refNo": 6,
+    "title": "miR-155 targets histone deacetylase 4 (HDAC4) and impairs transcriptional activity of B-cell lymphoma 6 (BCL6) in the Emu-miR-155 transgenic mouse model",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Intriguingly, miRNA can also be subjected to epigenetic control through DNA methylation and histone modifications [10] thus establishing a complex interplay capable of interfering, directly or indirectly, with multiple pathways in extraordinary complex networks that have been partially explored in several tumors including glioblastoma [5][6][16][18][20].",
+    "refNo": 16,
+    "title": "Let-7b expression determines response to chemotherapy through the regulation of cyclin D1 in glioblastoma",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Intriguingly, miRNA can also be subjected to epigenetic control through DNA methylation and histone modifications [10] thus establishing a complex interplay capable of interfering, directly or indirectly, with multiple pathways in extraordinary complex networks that have been partially explored in several tumors including glioblastoma [5][6][16][18][20].",
+    "refNo": 18,
+    "title": "Hotspot mutations in H3F3A and IDH1 define distinct epigenetic and biological subgroups of glioblastoma",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Intriguingly, miRNA can also be subjected to epigenetic control through DNA methylation and histone modifications [10] thus establishing a complex interplay capable of interfering, directly or indirectly, with multiple pathways in extraordinary complex networks that have been partially explored in several tumors including glioblastoma [5][6][16][18][20].",
+    "refNo": 20,
+    "title": "Functional roles of enhancer of zeste homolog 2 in gliomas",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "In particular, targeting of DNMT3a and DNMT3b by miRNA-29, miRNA-29a, and miRNA-148 was observed, and it is generally believed that this interaction may contribute to the general hypomethylation seen in cancer [16][18][20].",
+    "refNo": 16,
+    "title": "Let-7b expression determines response to chemotherapy through the regulation of cyclin D1 in glioblastoma",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "In particular, targeting of DNMT3a and DNMT3b by miRNA-29, miRNA-29a, and miRNA-148 was observed, and it is generally believed that this interaction may contribute to the general hypomethylation seen in cancer [16][18][20].",
+    "refNo": 18,
+    "title": "Hotspot mutations in H3F3A and IDH1 define distinct epigenetic and biological subgroups of glioblastoma",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "In particular, targeting of DNMT3a and DNMT3b by miRNA-29, miRNA-29a, and miRNA-148 was observed, and it is generally believed that this interaction may contribute to the general hypomethylation seen in cancer [16][18][20].",
+    "refNo": 20,
+    "title": "Functional roles of enhancer of zeste homolog 2 in gliomas",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Targeting the immune checkpoint gene PD1, its ligand PDL1, and other genes like CTLA-4 has raised considerable attention in the recent years because of the dramatic antitumor effect exerted by antibodies against these molecules particularly in tumors with limited therapeutic options like lung cancer and melanoma (reviewed in [72,73]).",
+    "refNo": 72,
+    "title": "",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "Targeting the immune checkpoint gene PD1, its ligand PDL1, and other genes like CTLA-4 has raised considerable attention in the recent years because of the dramatic antitumor effect exerted by antibodies against these molecules particularly in tumors with limited therapeutic options like lung cancer and melanoma (reviewed in [72,73]).",
+    "refNo": 73,
+    "title": "",
+    "marker_text": "[73]"
+  },
+  {
+    "sentence": "In this respect, glioblastoma is not an exception and GB escapes T-cell killing by activating immune checkpoints [74].",
+    "refNo": 74,
+    "title": "",
+    "marker_text": "[74]"
+  },
+  {
+    "sentence": "In an experimental model of glioma, the blockade of three immune checkpoints (IDO, CTLA-4, and PD1) significantly increased the survival of tumor-bearing mice [75].",
+    "refNo": 75,
+    "title": "",
+    "marker_text": "[75]"
+  },
+  {
+    "sentence": "However, these findings might not be generally applicable because of the extreme heterogeneity of this tumor and the absence of solid predictive biomarkers of sensitivity to immune checkpoints inhibitors [76].",
+    "refNo": 76,
+    "title": "",
+    "marker_text": "[76]"
+  },
+  {
+    "sentence": "Immune checkpoints can be modulated by microRNAs [77], and Figure 1 summarizes some of the interaction of the complex network between miRNA, genes, and immune checkpoints.",
+    "refNo": 77,
+    "title": "",
+    "marker_text": "[77]"
+  },
+  {
+    "sentence": "Circulating nucleic acids and circulating tumor cells [95,96] are extensively exploited as tumor markers to predict outcome and to monitor the response to therapy.",
+    "refNo": 95,
+    "title": "",
+    "marker_text": "[95]"
+  },
+  {
+    "sentence": "Circulating nucleic acids and circulating tumor cells [95,96] are extensively exploited as tumor markers to predict outcome and to monitor the response to therapy.",
+    "refNo": 96,
+    "title": "",
+    "marker_text": "[96]"
+  },
+  {
+    "sentence": "Importantly, in GB, response to therapy often results in enhancement of the captation of the contrast medium that can be disguised as progression (\"pseudoprogression\") challenging the imaging assessment of the disease [97].",
+    "refNo": 97,
+    "title": "",
+    "marker_text": "[97]"
+  },
+  {
+    "sentence": "Targeting the immune checkpoint gene PD1, its ligand PDL1, and other genes like CTLA-4 has raised considerable attention in the recent years because of the dramatic antitumor effect exerted by antibodies against these molecules particularly in tumors with limited therapeutic options like lung cancer and melanoma (reviewed in ref [25]).",
+    "refNo": 25,
+    "title": "Prospects of immune checkpoint modulators in the treatment of glioblastoma",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "In this respect, glioblastoma is not an exception and GB escapes T-cell killing by activating immune checkpoints ref [25].",
+    "refNo": 25,
+    "title": "Prospects of immune checkpoint modulators in the treatment of glioblastoma",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "In an experimental model of glioma, the blockade of three immune checkpoints (IDO, CTLA-4, and PD1) significantly increased the survival of tumor-bearing mice ref [26].",
+    "refNo": 26,
+    "title": "Durable therapeutic efficacy utilizing combinatorial blockade against IDO, CTLA-4, and PD-L1 in mice with brain tumors",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "However, these findings might not be generally applicable because of the extreme heterogeneity of this tumor and the absence of solid predictive biomarkers of sensitivity to immune checkpoints inhibitors ref [27].",
+    "refNo": 27,
+    "title": "Preclinical efficacy of immune-checkpoint monotherapy does not recapitulate corresponding biomarkers-based clinical predictions in glioblastoma",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "Immune checkpoints can be modulated by microRNAs ref [25], and Figure 1 summarizes some of the interaction of the complex network between miRNA, genes, and immune checkpoints.",
+    "refNo": 25,
+    "title": "Prospects of immune checkpoint modulators in the treatment of glioblastoma",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Microglia and astrocytes, along with macrophages, are part of the glioma microenvironment, astrocytes are part of the brain immune system as they express cytokines and chemokines, and glioma cells produce and are targets of inflammatory molecules ref [25].",
+    "refNo": 25,
+    "title": "Prospects of immune checkpoint modulators in the treatment of glioblastoma",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Glioma cells produce IL-1 which is a potent inducer of angiogenesis and invasion and in glial cells, strongly upregulates miR-155 implicated in inflammation-mediated cancer development ref [25].",
+    "refNo": 25,
+    "title": "Prospects of immune checkpoint modulators in the treatment of glioblastoma",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Besides miR-155, other IL-1-induced miRNAs involved in inflammation, miR-21, and miR-146 are upregulated in gliomas ref [25].",
+    "refNo": 25,
+    "title": "Prospects of immune checkpoint modulators in the treatment of glioblastoma",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Interestingly, miR-146 is a negative regulator of astrocyte-mediated inflammation ref [25], and upregulation of this miRNA decreases the expression of its target TRAF6 that is linked to seizure frequency in glioma patients suggesting that miR-146 could be involved in the epileptogenic focus surrounding the tumor ref [25].",
+    "refNo": 25,
+    "title": "Prospects of immune checkpoint modulators in the treatment of glioblastoma",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Interestingly, miR-146 is a negative regulator of astrocyte-mediated inflammation ref [25], and upregulation of this miRNA decreases the expression of its target TRAF6 that is linked to seizure frequency in glioma patients suggesting that miR-146 could be involved in the epileptogenic focus surrounding the tumor ref [25].",
+    "refNo": 25,
+    "title": "Prospects of immune checkpoint modulators in the treatment of glioblastoma",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Circulating nucleic acids and circulating tumor cells ref [25] are extensively exploited as tumor markers to predict outcome and to monitor the response to therapy.",
+    "refNo": 25,
+    "title": "Prospects of immune checkpoint modulators in the treatment of glioblastoma",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Importantly, in GB, response to therapy often results in enhancement of the captation of the contrast medium that can be disguised as progression (\"pseudoprogression\") challenging the imaging assessment of the disease ref [25].",
+    "refNo": 25,
+    "title": "Prospects of immune checkpoint modulators in the treatment of glioblastoma",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Overall, both blood and cerebrospinal fluid are a source of circulating biomarkers and relevant glioma mutations like those of IDH1/IDH2 can be detected in circulating DNA ref [25].",
+    "refNo": 25,
+    "title": "Prospects of immune checkpoint modulators in the treatment of glioblastoma",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Similarly, serum proteomics has not yet provided clinically useful results ref [25].",
+    "refNo": 25,
+    "title": "Prospects of immune checkpoint modulators in the treatment of glioblastoma",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Extracellular vesicles (EV) are an attractive source of circulating biomarkers because they act as a cargo for many types of molecules that are protected from degradation ref [25].",
+    "refNo": 25,
+    "title": "Prospects of immune checkpoint modulators in the treatment of glioblastoma",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "EV are released by all cells to enable the communication between nonadjacent cells, and EV secretion is an early response of cancer cells to a variety of stress conditions including treatment ref [25].",
+    "refNo": 25,
+    "title": "Prospects of immune checkpoint modulators in the treatment of glioblastoma",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Interestingly, EV are not randomly loaded and their content seems to reflect the biology of the donor cells making EV an ideal source of circulating biomarkers ref [25].",
+    "refNo": 25,
+    "title": "Prospects of immune checkpoint modulators in the treatment of glioblastoma",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "One of these was aimed at comparing the level of the DNA repair enzymes MGMT and APNG in the parental tissue and in EV before and after TMZ treatment ref [25].",
+    "refNo": 25,
+    "title": "Prospects of immune checkpoint modulators in the treatment of glioblastoma",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "In the second study, exosome mRNA was examined to study the changes of expression of immune markers and cytokines after inoculation of a tumor vaccine in glioblastoma patients ref [25].",
+    "refNo": 25,
+    "title": "Prospects of immune checkpoint modulators in the treatment of glioblastoma",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "A restricted signature of eleven miRNAs was selected through a systematic review of the literature and utilized to screen a small cohort of GB patients, and the results showed that the level of expression of miR-497 and miR-125b could distinguish between low- and high-grade glioma ref [25].",
+    "refNo": 25,
+    "title": "Prospects of immune checkpoint modulators in the treatment of glioblastoma",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Indeed, miR-21 was found overexpressed in plasma of glioblastoma patients compared to normal controls while miR-128 and miR-342-3p were downmodulated in the same set of patients ref [25].",
+    "refNo": 25,
+    "title": "Prospects of immune checkpoint modulators in the treatment of glioblastoma",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Expression of these miRNA returned to baseline levels after treatment suggesting that circulating miRNA can be utilized to monitor disease response to treatment and disease relapse ref [25].",
+    "refNo": 25,
+    "title": "Prospects of immune checkpoint modulators in the treatment of glioblastoma",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Interestingly, a recent whole miRNA profiling from the plasma of a relatively large set of glioblastoma patients identified a signature predicting disease-free and overall survival independently from other clinicopathological factors ref [25].",
+    "refNo": 25,
+    "title": "Prospects of immune checkpoint modulators in the treatment of glioblastoma",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Targeting the immune checkpoint gene PD1, its ligand PDL1, and other genes like CTLA-4 has raised considerable attention in the recent years because of the dramatic antitumor effect exerted by antibodies against these molecules particularly in tumors with limited therapeutic options like lung cancer and melanoma (reviewed in ref [28]).",
+    "refNo": 28,
+    "title": "Noncoding RNAs and immune checkpoints-clinical implications as cancer therapeutics",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "In this respect, glioblastoma is not an exception and GB escapes T-cell killing by activating immune checkpoints ref [28].",
+    "refNo": 28,
+    "title": "Noncoding RNAs and immune checkpoints-clinical implications as cancer therapeutics",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "In an experimental model of glioma, the blockade of three immune checkpoints (IDO, CTLA-4, and PD1) significantly increased the survival of tumor-bearing mice ref [28].",
+    "refNo": 28,
+    "title": "Noncoding RNAs and immune checkpoints-clinical implications as cancer therapeutics",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "However, these findings might not be generally applicable because of the extreme heterogeneity of this tumor and the absence of solid predictive biomarkers of sensitivity to immune checkpoints inhibitors ref [28].",
+    "refNo": 28,
+    "title": "Noncoding RNAs and immune checkpoints-clinical implications as cancer therapeutics",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Immune checkpoints can be modulated by microRNAs ref [28], and Figure 1 summarizes some of the interaction of the complex network between miRNA, genes, and immune checkpoints.",
+    "refNo": 28,
+    "title": "Noncoding RNAs and immune checkpoints-clinical implications as cancer therapeutics",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Microglia and astrocytes, along with macrophages, are part of the glioma microenvironment, astrocytes are part of the brain immune system as they express cytokines and chemokines, and glioma cells produce and are targets of inflammatory molecules ref [28].",
+    "refNo": 28,
+    "title": "Noncoding RNAs and immune checkpoints-clinical implications as cancer therapeutics",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Glioma cells produce IL-1 which is a potent inducer of angiogenesis and invasion and in glial cells, strongly upregulates miR-155 implicated in inflammation-mediated cancer development ref [28].",
+    "refNo": 28,
+    "title": "Noncoding RNAs and immune checkpoints-clinical implications as cancer therapeutics",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Besides miR-155, other IL-1-induced miRNAs involved in inflammation, miR-21, and miR-146 are upregulated in gliomas ref [28].",
+    "refNo": 28,
+    "title": "Noncoding RNAs and immune checkpoints-clinical implications as cancer therapeutics",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Interestingly, miR-146 is a negative regulator of astrocyte-mediated inflammation ref [4], and upregulation of this miRNA decreases the expression of its target TRAF6 that is linked to seizure frequency in glioma patients suggesting that miR-146 could be involved in the epileptogenic focus surrounding the tumor ref [4].",
+    "refNo": 4,
+    "title": "Prognostic relevance of miRNA-155 methylation in anaplastic glioma",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Interestingly, miR-146 is a negative regulator of astrocyte-mediated inflammation ref [4], and upregulation of this miRNA decreases the expression of its target TRAF6 that is linked to seizure frequency in glioma patients suggesting that miR-146 could be involved in the epileptogenic focus surrounding the tumor ref [4].",
+    "refNo": 4,
+    "title": "Prognostic relevance of miRNA-155 methylation in anaplastic glioma",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Circulating nucleic acids and circulating tumor cells ref [28] are extensively exploited as tumor markers to predict outcome and to monitor the response to therapy.",
+    "refNo": 28,
+    "title": "Noncoding RNAs and immune checkpoints-clinical implications as cancer therapeutics",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Importantly, in GB, response to therapy often results in enhancement of the captation of the contrast medium that can be disguised as progression (\"pseudoprogression\") challenging the imaging assessment of the disease ref [28].",
+    "refNo": 28,
+    "title": "Noncoding RNAs and immune checkpoints-clinical implications as cancer therapeutics",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Overall, both blood and cerebrospinal fluid are a source of circulating biomarkers and relevant glioma mutations like those of IDH1/IDH2 can be detected in circulating DNA ref [28].",
+    "refNo": 28,
+    "title": "Noncoding RNAs and immune checkpoints-clinical implications as cancer therapeutics",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Similarly, serum proteomics has not yet provided clinically useful results ref [28].",
+    "refNo": 28,
+    "title": "Noncoding RNAs and immune checkpoints-clinical implications as cancer therapeutics",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Extracellular vesicles (EV) are an attractive source of circulating biomarkers because they act as a cargo for many types of molecules that are protected from degradation ref [28].",
+    "refNo": 28,
+    "title": "Noncoding RNAs and immune checkpoints-clinical implications as cancer therapeutics",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "EV are released by all cells to enable the communication between nonadjacent cells, and EV secretion is an early response of cancer cells to a variety of stress conditions including treatment ref [28].",
+    "refNo": 28,
+    "title": "Noncoding RNAs and immune checkpoints-clinical implications as cancer therapeutics",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Interestingly, EV are not randomly loaded and their content seems to reflect the biology of the donor cells making EV an ideal source of circulating biomarkers ref [28].",
+    "refNo": 28,
+    "title": "Noncoding RNAs and immune checkpoints-clinical implications as cancer therapeutics",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "One of these was aimed at comparing the level of the DNA repair enzymes MGMT and APNG in the parental tissue and in EV before and after TMZ treatment ref [28].",
+    "refNo": 28,
+    "title": "Noncoding RNAs and immune checkpoints-clinical implications as cancer therapeutics",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "In the second study, exosome mRNA was examined to study the changes of expression of immune markers and cytokines after inoculation of a tumor vaccine in glioblastoma patients ref [28].",
+    "refNo": 28,
+    "title": "Noncoding RNAs and immune checkpoints-clinical implications as cancer therapeutics",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "A restricted signature of eleven miRNAs was selected through a systematic review of the literature and utilized to screen a small cohort of GB patients, and the results showed that the level of expression of miR-497 and miR-125b could distinguish between low- and high-grade glioma ref [28].",
+    "refNo": 28,
+    "title": "Noncoding RNAs and immune checkpoints-clinical implications as cancer therapeutics",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Indeed, miR-21 was found overexpressed in plasma of glioblastoma patients compared to normal controls while miR-128 and miR-342-3p were downmodulated in the same set of patients ref [28].",
+    "refNo": 28,
+    "title": "Noncoding RNAs and immune checkpoints-clinical implications as cancer therapeutics",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Expression of these miRNA returned to baseline levels after treatment suggesting that circulating miRNA can be utilized to monitor disease response to treatment and disease relapse ref [28].",
+    "refNo": 28,
+    "title": "Noncoding RNAs and immune checkpoints-clinical implications as cancer therapeutics",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Interestingly, a recent whole miRNA profiling from the plasma of a relatively large set of glioblastoma patients identified a signature predicting disease-free and overall survival independently from other clinicopathological factors ref [28].",
+    "refNo": 28,
+    "title": "Noncoding RNAs and immune checkpoints-clinical implications as cancer therapeutics",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "The development of multiomics strategies has led to impressive advancements of the knowledge on the mechanisms behind cell transformation and has opened the possibility of selectively targeting cancer cells in many types of tumors including GB ref [30].",
+    "refNo": 30,
+    "title": "The network of immunosuppressive pathways in glioblastoma",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "The development of multiomics strategies has led to impressive advancements of the knowledge on the mechanisms behind cell transformation and has opened the possibility of selectively targeting cancer cells in many types of tumors including GB [165][166][167][168].",
+    "refNo": 165,
+    "title": "",
+    "marker_text": "[165]"
+  },
+  {
+    "sentence": "The development of multiomics strategies has led to impressive advancements of the knowledge on the mechanisms behind cell transformation and has opened the possibility of selectively targeting cancer cells in many types of tumors including GB [165][166][167][168].",
+    "refNo": 166,
+    "title": "",
+    "marker_text": "[166]"
+  },
+  {
+    "sentence": "The development of multiomics strategies has led to impressive advancements of the knowledge on the mechanisms behind cell transformation and has opened the possibility of selectively targeting cancer cells in many types of tumors including GB [165][166][167][168].",
+    "refNo": 167,
+    "title": "",
+    "marker_text": "[167]"
+  },
+  {
+    "sentence": "The development of multiomics strategies has led to impressive advancements of the knowledge on the mechanisms behind cell transformation and has opened the possibility of selectively targeting cancer cells in many types of tumors including GB [165][166][167][168].",
+    "refNo": 168,
+    "title": "",
+    "marker_text": "[168]"
+  },
+  {
+    "sentence": "Transcriptional inhibition of a given gene can be obtained by RNA interference, a mechanism originally described in worms [169] and later in higher organisms [170][171][172].",
+    "refNo": 169,
+    "title": "",
+    "marker_text": "[169]"
+  },
+  {
+    "sentence": "Transcriptional inhibition of a given gene can be obtained by RNA interference, a mechanism originally described in worms [169] and later in higher organisms [170][171][172].",
+    "refNo": 170,
+    "title": "",
+    "marker_text": "[170]"
+  },
+  {
+    "sentence": "Transcriptional inhibition of a given gene can be obtained by RNA interference, a mechanism originally described in worms [169] and later in higher organisms [170][171][172].",
+    "refNo": 171,
+    "title": "",
+    "marker_text": "[171]"
+  },
+  {
+    "sentence": "Transcriptional inhibition of a given gene can be obtained by RNA interference, a mechanism originally described in worms [169] and later in higher organisms [170][171][172].",
+    "refNo": 172,
+    "title": "",
+    "marker_text": "[172]"
+  },
+  {
+    "sentence": "Furthermore, if a siRNA cocktail seems a reasonable tool, the utilization of a miRNA cocktail seems more complex also because of the conspicuous off-target effect of this cocktail and because of the interactions between different miRNAs [114]. 9.1.",
+    "refNo": 114,
+    "title": "",
+    "marker_text": "[114]"
+  },
+  {
+    "sentence": "In Glioblastoma, the presence of the BBB represents a major challenge to the utilization of miRNA in therapy because if the BBB is damaged and permeable at the tumor site, its integrity is maintained at the infiltrating tumor areas that are those responsible for tumor relapse after initial surgery and radiochemotherapy [83].",
+    "refNo": 83,
+    "title": "",
+    "marker_text": "[83]"
+  },
+  {
+    "sentence": "The objective of the passive methods is the permeabilization of the BBB with hyperosmotic agents, surfactant, ultrasounds, and electromagnetic waves to transiently open the tight cell-cell junctions of the BBB [173].",
+    "refNo": 173,
+    "title": "",
+    "marker_text": "[173]"
+  },
+  {
+    "sentence": "In this respect, a randomized phase III clinical trial showed that the combined treatment of TMZ and pulsed electric fields is superior to the standard TMZ treatment [174].",
+    "refNo": 174,
+    "title": "",
+    "marker_text": "[174]"
+  },
+  {
+    "sentence": "The direct infusion of drugs or other bioactive molecules at the site of the lesion after craniotomy, even if highly selective, was found of limited utility because of the poor diffusion in the perilesional area where the tumor niches are [175].",
+    "refNo": 175,
+    "title": "",
+    "marker_text": "[175]"
+  },
+  {
+    "sentence": "The most promising active delivery systems are those based on nanoparticles of less than 200 nm [176] that carry on their surface molecules that can be recognized by specific receptors on the BBB, like transferrin, lactoferrin, transferrin receptor, and glutathione [177].",
+    "refNo": 176,
+    "title": "",
+    "marker_text": "[176]"
+  },
+  {
+    "sentence": "The most promising active delivery systems are those based on nanoparticles of less than 200 nm [176] that carry on their surface molecules that can be recognized by specific receptors on the BBB, like transferrin, lactoferrin, transferrin receptor, and glutathione [177].",
+    "refNo": 177,
+    "title": "",
+    "marker_text": "[177]"
+  },
+  {
+    "sentence": "The most commonly utilized carriers for drug delivery in the CNS are liposomes at a single or double layer of approximately 100 nm of diameter that are engineered with molecules for tumor targeting [178,179].",
+    "refNo": 178,
+    "title": "",
+    "marker_text": "[178]"
+  },
+  {
+    "sentence": "The most commonly utilized carriers for drug delivery in the CNS are liposomes at a single or double layer of approximately 100 nm of diameter that are engineered with molecules for tumor targeting [178,179].",
+    "refNo": 179,
+    "title": "",
+    "marker_text": "[179]"
+  },
+  {
+    "sentence": "Some liposomal formulations have entered into the clinical practice, and others are being tested in clinical trials [179][180][181][182][183].",
+    "refNo": 179,
+    "title": "",
+    "marker_text": "[179]"
+  },
+  {
+    "sentence": "Some liposomal formulations have entered into the clinical practice, and others are being tested in clinical trials [179][180][181][182][183].",
+    "refNo": 180,
+    "title": "",
+    "marker_text": "[180]"
+  },
+  {
+    "sentence": "Some liposomal formulations have entered into the clinical practice, and others are being tested in clinical trials [179][180][181][182][183].",
+    "refNo": 181,
+    "title": "",
+    "marker_text": "[181]"
+  },
+  {
+    "sentence": "Some liposomal formulations have entered into the clinical practice, and others are being tested in clinical trials [179][180][181][182][183].",
+    "refNo": 182,
+    "title": "",
+    "marker_text": "[182]"
+  },
+  {
+    "sentence": "Some liposomal formulations have entered into the clinical practice, and others are being tested in clinical trials [179][180][181][182][183].",
+    "refNo": 183,
+    "title": "",
+    "marker_text": "[183]"
+  },
+  {
+    "sentence": "Other utilized delivery systems are the polymeric colloids (PDP) [184][185][186] or other colloidal formulations (LNC) [187][188][189] that can be modified to pass the BBB and to target the tumor utilizing two ligands [185].",
+    "refNo": 184,
+    "title": "",
+    "marker_text": "[184]"
+  },
+  {
+    "sentence": "Other utilized delivery systems are the polymeric colloids (PDP) [184][185][186] or other colloidal formulations (LNC) [187][188][189] that can be modified to pass the BBB and to target the tumor utilizing two ligands [185].",
+    "refNo": 185,
+    "title": "",
+    "marker_text": "[185]"
+  },
+  {
+    "sentence": "Other utilized delivery systems are the polymeric colloids (PDP) [184][185][186] or other colloidal formulations (LNC) [187][188][189] that can be modified to pass the BBB and to target the tumor utilizing two ligands [185].",
+    "refNo": 186,
+    "title": "",
+    "marker_text": "[186]"
+  },
+  {
+    "sentence": "Other utilized delivery systems are the polymeric colloids (PDP) [184][185][186] or other colloidal formulations (LNC) [187][188][189] that can be modified to pass the BBB and to target the tumor utilizing two ligands [185].",
+    "refNo": 187,
+    "title": "",
+    "marker_text": "[187]"
+  },
+  {
+    "sentence": "Other utilized delivery systems are the polymeric colloids (PDP) [184][185][186] or other colloidal formulations (LNC) [187][188][189] that can be modified to pass the BBB and to target the tumor utilizing two ligands [185].",
+    "refNo": 188,
+    "title": "",
+    "marker_text": "[188]"
+  },
+  {
+    "sentence": "Other utilized delivery systems are the polymeric colloids (PDP) [184][185][186] or other colloidal formulations (LNC) [187][188][189] that can be modified to pass the BBB and to target the tumor utilizing two ligands [185].",
+    "refNo": 189,
+    "title": "",
+    "marker_text": "[189]"
+  },
+  {
+    "sentence": "Other utilized delivery systems are the polymeric colloids (PDP) [184][185][186] or other colloidal formulations (LNC) [187][188][189] that can be modified to pass the BBB and to target the tumor utilizing two ligands [185].",
+    "refNo": 185,
+    "title": "",
+    "marker_text": "[185]"
+  },
+  {
+    "sentence": "The delivery systems based on nanoparticles are highly promising but their toxicity, biocompatibility, and payload retention must be carefully evaluated [190,191]. 9.2.",
+    "refNo": 190,
+    "title": "",
+    "marker_text": "[190]"
+  },
+  {
+    "sentence": "The delivery systems based on nanoparticles are highly promising but their toxicity, biocompatibility, and payload retention must be carefully evaluated [190,191]. 9.2.",
+    "refNo": 191,
+    "title": "",
+    "marker_text": "[191]"
+  },
+  {
+    "sentence": "This treatment was well tolerated and was effective in reducing the expression of HMGA2, one of the targets of let-7a [192].",
+    "refNo": 192,
+    "title": "",
+    "marker_text": "[192]"
+  },
+  {
+    "sentence": "In this respect, nanoparticles seem a very promising strategy and were exploited to deliver at the tumor site not only a variety of drugs but also miRNA [193].",
+    "refNo": 193,
+    "title": "",
+    "marker_text": "[193]"
+  },
+  {
+    "sentence": "To date, the most common carriers are targeted liposomes of 100 nm [178,194] that are being tested in animal models [180,181].",
+    "refNo": 178,
+    "title": "",
+    "marker_text": "[178]"
+  },
+  {
+    "sentence": "To date, the most common carriers are targeted liposomes of 100 nm [178,194] that are being tested in animal models [180,181].",
+    "refNo": 194,
+    "title": "",
+    "marker_text": "[194]"
+  },
+  {
+    "sentence": "To date, the most common carriers are targeted liposomes of 100 nm [178,194] that are being tested in animal models [180,181].",
+    "refNo": 180,
+    "title": "",
+    "marker_text": "[180]"
+  },
+  {
+    "sentence": "To date, the most common carriers are targeted liposomes of 100 nm [178,194] that are being tested in animal models [180,181].",
+    "refNo": 181,
+    "title": "",
+    "marker_text": "[181]"
+  },
+  {
+    "sentence": "For example, antago-miR-21 carried by RNP were utilized to successfully rescue the expression of antioncogenic PTEN and of PDCD4 and to promote tumor regression in a model system [195].",
+    "refNo": 195,
+    "title": "",
+    "marker_text": "[195]"
+  },
+  {
+    "sentence": "Similarly, antago-miR-21, delivered by poly(lactic-co-glycolic acid) (PLGA), sensitizes the effect of TMZ in vitro [196].",
+    "refNo": 196,
+    "title": "",
+    "marker_text": "[196]"
+  },
+  {
+    "sentence": "Another interesting example of cooperative treatment in glioblastoma is provided by a multifunctional delivery system MSNPs (mesoporous silica nanoparticle) charged with TMZ molecules and decorated by an anti-miR-221 PNAoctaarginine conjugate (R8-PNA221) that increases the biological effect of TMZ in drug-resistant cells [197].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "A similar effect was seen with miR-34a encapsulated in a polyglycerol scaffold [198].",
+    "refNo": 198,
+    "title": "",
+    "marker_text": "[198]"
+  },
+  {
+    "sentence": "Mesenchymal stem cells (MSC) are an interesting and potentially very effective method to target sites of injury or of inflammation and tumors for therapeutic purposes [199,200], and it was demonstrated that functional miRNA can be conveyed to neural progenitor cells by cocultivation with appropriately engineered MSC [201].",
+    "refNo": 199,
+    "title": "",
+    "marker_text": "[199]"
+  },
+  {
+    "sentence": "Mesenchymal stem cells (MSC) are an interesting and potentially very effective method to target sites of injury or of inflammation and tumors for therapeutic purposes [199,200], and it was demonstrated that functional miRNA can be conveyed to neural progenitor cells by cocultivation with appropriately engineered MSC [201].",
+    "refNo": 200,
+    "title": "",
+    "marker_text": "[200]"
+  },
+  {
+    "sentence": "Mesenchymal stem cells (MSC) are an interesting and potentially very effective method to target sites of injury or of inflammation and tumors for therapeutic purposes [199,200], and it was demonstrated that functional miRNA can be conveyed to neural progenitor cells by cocultivation with appropriately engineered MSC [201].",
+    "refNo": 201,
+    "title": "",
+    "marker_text": "[201]"
+  },
+  {
+    "sentence": "As mentioned above, miR-10b is involved in tumor invasion and is an optimal therapeutic target because of its high and generalized expression in all GB subtypes [86][87][88].",
+    "refNo": 86,
+    "title": "",
+    "marker_text": "[86]"
+  },
+  {
+    "sentence": "As mentioned above, miR-10b is involved in tumor invasion and is an optimal therapeutic target because of its high and generalized expression in all GB subtypes [86][87][88].",
+    "refNo": 87,
+    "title": "",
+    "marker_text": "[87]"
+  },
+  {
+    "sentence": "As mentioned above, miR-10b is involved in tumor invasion and is an optimal therapeutic target because of its high and generalized expression in all GB subtypes [86][87][88].",
+    "refNo": 88,
+    "title": "",
+    "marker_text": "[88]"
+  },
+  {
+    "sentence": "A preclinical in vivo study focused on the inhibition of miR-10b in an orthotopic GB xenograft model compared the results of different delivery methods utilizing as endpoint the inhibition of the tumor growth [202].",
+    "refNo": 202,
+    "title": "",
+    "marker_text": "[202]"
+  },
+  {
+    "sentence": "Considering the possible translation from the bench to the bedside, the systemic injections of miR-10b inhibitor were less invasive compared to the other routes and had minimal or no side effects on extracranial tissues and with a good delivery through the BBB. miRNA \"sponges\" are oligonucleotide sequences that contain many binding sites for a specific miRNA or miRNA family and act as competitive inhibitors of the binding of the miRNA to their targets [203].",
+    "refNo": 203,
+    "title": "",
+    "marker_text": "[203]"
+  },
+  {
+    "sentence": "The utility of these \"sponges\" in GB was recently demonstrated for miR-23b in an orthotopic in vivo model and showed the reduction of angiogenesis, migration and invasion, and in turn the malignancy of the tumor [204].",
+    "refNo": 204,
+    "title": "",
+    "marker_text": "[204]"
+  },
+  {
+    "sentence": "Circular RNAs (circRNA) are natural examples of sponges that are highly resistant to degradation and that are now subject of in-depth investigations because of their strong regulatory activity on miRNA [205].",
+    "refNo": 205,
+    "title": "",
+    "marker_text": "[205]"
+  },
+  {
+    "sentence": "The development of multiomics strategies has led to impressive advancements of the knowledge on the mechanisms behind cell transformation and has opened the possibility of selectively targeting cancer cells in many types of tumors including GB [165][166][167][168].",
+    "refNo": 165,
+    "title": "",
+    "marker_text": "[165]"
+  },
+  {
+    "sentence": "The development of multiomics strategies has led to impressive advancements of the knowledge on the mechanisms behind cell transformation and has opened the possibility of selectively targeting cancer cells in many types of tumors including GB [165][166][167][168].",
+    "refNo": 166,
+    "title": "",
+    "marker_text": "[166]"
+  },
+  {
+    "sentence": "The development of multiomics strategies has led to impressive advancements of the knowledge on the mechanisms behind cell transformation and has opened the possibility of selectively targeting cancer cells in many types of tumors including GB [165][166][167][168].",
+    "refNo": 167,
+    "title": "",
+    "marker_text": "[167]"
+  },
+  {
+    "sentence": "The development of multiomics strategies has led to impressive advancements of the knowledge on the mechanisms behind cell transformation and has opened the possibility of selectively targeting cancer cells in many types of tumors including GB [165][166][167][168].",
+    "refNo": 168,
+    "title": "",
+    "marker_text": "[168]"
+  },
+  {
+    "sentence": "Transcriptional inhibition of a given gene can be obtained by RNA interference, a mechanism originally described in worms [169] and later in higher organisms [170][171][172].",
+    "refNo": 169,
+    "title": "",
+    "marker_text": "[169]"
+  },
+  {
+    "sentence": "Transcriptional inhibition of a given gene can be obtained by RNA interference, a mechanism originally described in worms [169] and later in higher organisms [170][171][172].",
+    "refNo": 170,
+    "title": "",
+    "marker_text": "[170]"
+  },
+  {
+    "sentence": "Transcriptional inhibition of a given gene can be obtained by RNA interference, a mechanism originally described in worms [169] and later in higher organisms [170][171][172].",
+    "refNo": 171,
+    "title": "",
+    "marker_text": "[171]"
+  },
+  {
+    "sentence": "Transcriptional inhibition of a given gene can be obtained by RNA interference, a mechanism originally described in worms [169] and later in higher organisms [170][171][172].",
+    "refNo": 172,
+    "title": "",
+    "marker_text": "[172]"
+  },
+  {
+    "sentence": "Furthermore, if a siRNA cocktail seems a reasonable tool, the utilization of a miRNA cocktail seems more complex also because of the conspicuous off-target effect of this cocktail and because of the interactions between different miRNAs [114]. 9.1.",
+    "refNo": 114,
+    "title": "",
+    "marker_text": "[114]"
+  },
+  {
+    "sentence": "In Glioblastoma, the presence of the BBB represents a major challenge to the utilization of miRNA in therapy because if the BBB is damaged and permeable at the tumor site, its integrity is maintained at the infiltrating tumor areas that are those responsible for tumor relapse after initial surgery and radiochemotherapy [83].",
+    "refNo": 83,
+    "title": "",
+    "marker_text": "[83]"
+  },
+  {
+    "sentence": "The objective of the passive methods is the permeabilization of the BBB with hyperosmotic agents, surfactant, ultrasounds, and electromagnetic waves to transiently open the tight cell-cell junctions of the BBB [173].",
+    "refNo": 173,
+    "title": "",
+    "marker_text": "[173]"
+  },
+  {
+    "sentence": "In this respect, a randomized phase III clinical trial showed that the combined treatment of TMZ and pulsed electric fields is superior to the standard TMZ treatment [174].",
+    "refNo": 174,
+    "title": "",
+    "marker_text": "[174]"
+  },
+  {
+    "sentence": "The direct infusion of drugs or other bioactive molecules at the site of the lesion after craniotomy, even if highly selective, was found of limited utility because of the poor diffusion in the perilesional area where the tumor niches are [175].",
+    "refNo": 175,
+    "title": "",
+    "marker_text": "[175]"
+  },
+  {
+    "sentence": "The most promising active delivery systems are those based on nanoparticles of less than 200 nm [176] that carry on their surface molecules that can be recognized by specific receptors on the BBB, like transferrin, lactoferrin, transferrin receptor, and glutathione [177].",
+    "refNo": 176,
+    "title": "",
+    "marker_text": "[176]"
+  },
+  {
+    "sentence": "The most promising active delivery systems are those based on nanoparticles of less than 200 nm [176] that carry on their surface molecules that can be recognized by specific receptors on the BBB, like transferrin, lactoferrin, transferrin receptor, and glutathione [177].",
+    "refNo": 177,
+    "title": "",
+    "marker_text": "[177]"
+  },
+  {
+    "sentence": "The most commonly utilized carriers for drug delivery in the CNS are liposomes at a single or double layer of approximately 100 nm of diameter that are engineered with molecules for tumor targeting [178,179].",
+    "refNo": 178,
+    "title": "",
+    "marker_text": "[178]"
+  },
+  {
+    "sentence": "The most commonly utilized carriers for drug delivery in the CNS are liposomes at a single or double layer of approximately 100 nm of diameter that are engineered with molecules for tumor targeting [178,179].",
+    "refNo": 179,
+    "title": "",
+    "marker_text": "[179]"
+  },
+  {
+    "sentence": "Some liposomal formulations have entered into the clinical practice, and others are being tested in clinical trials [179][180][181][182][183].",
+    "refNo": 179,
+    "title": "",
+    "marker_text": "[179]"
+  },
+  {
+    "sentence": "Some liposomal formulations have entered into the clinical practice, and others are being tested in clinical trials [179][180][181][182][183].",
+    "refNo": 180,
+    "title": "",
+    "marker_text": "[180]"
+  },
+  {
+    "sentence": "Some liposomal formulations have entered into the clinical practice, and others are being tested in clinical trials [179][180][181][182][183].",
+    "refNo": 181,
+    "title": "",
+    "marker_text": "[181]"
+  },
+  {
+    "sentence": "Some liposomal formulations have entered into the clinical practice, and others are being tested in clinical trials [179][180][181][182][183].",
+    "refNo": 182,
+    "title": "",
+    "marker_text": "[182]"
+  },
+  {
+    "sentence": "Some liposomal formulations have entered into the clinical practice, and others are being tested in clinical trials [179][180][181][182][183].",
+    "refNo": 183,
+    "title": "",
+    "marker_text": "[183]"
+  },
+  {
+    "sentence": "Other utilized delivery systems are the polymeric colloids (PDP) [184][185][186] or other colloidal formulations (LNC) [187][188][189] that can be modified to pass the BBB and to target the tumor utilizing two ligands [185].",
+    "refNo": 184,
+    "title": "",
+    "marker_text": "[184]"
+  },
+  {
+    "sentence": "Other utilized delivery systems are the polymeric colloids (PDP) [184][185][186] or other colloidal formulations (LNC) [187][188][189] that can be modified to pass the BBB and to target the tumor utilizing two ligands [185].",
+    "refNo": 185,
+    "title": "",
+    "marker_text": "[185]"
+  },
+  {
+    "sentence": "Other utilized delivery systems are the polymeric colloids (PDP) [184][185][186] or other colloidal formulations (LNC) [187][188][189] that can be modified to pass the BBB and to target the tumor utilizing two ligands [185].",
+    "refNo": 186,
+    "title": "",
+    "marker_text": "[186]"
+  },
+  {
+    "sentence": "Other utilized delivery systems are the polymeric colloids (PDP) [184][185][186] or other colloidal formulations (LNC) [187][188][189] that can be modified to pass the BBB and to target the tumor utilizing two ligands [185].",
+    "refNo": 187,
+    "title": "",
+    "marker_text": "[187]"
+  },
+  {
+    "sentence": "Other utilized delivery systems are the polymeric colloids (PDP) [184][185][186] or other colloidal formulations (LNC) [187][188][189] that can be modified to pass the BBB and to target the tumor utilizing two ligands [185].",
+    "refNo": 188,
+    "title": "",
+    "marker_text": "[188]"
+  },
+  {
+    "sentence": "Other utilized delivery systems are the polymeric colloids (PDP) [184][185][186] or other colloidal formulations (LNC) [187][188][189] that can be modified to pass the BBB and to target the tumor utilizing two ligands [185].",
+    "refNo": 189,
+    "title": "",
+    "marker_text": "[189]"
+  },
+  {
+    "sentence": "Other utilized delivery systems are the polymeric colloids (PDP) [184][185][186] or other colloidal formulations (LNC) [187][188][189] that can be modified to pass the BBB and to target the tumor utilizing two ligands [185].",
+    "refNo": 185,
+    "title": "",
+    "marker_text": "[185]"
+  },
+  {
+    "sentence": "The delivery systems based on nanoparticles are highly promising but their toxicity, biocompatibility, and payload retention must be carefully evaluated [190,191]. 9.2.",
+    "refNo": 190,
+    "title": "",
+    "marker_text": "[190]"
+  },
+  {
+    "sentence": "The delivery systems based on nanoparticles are highly promising but their toxicity, biocompatibility, and payload retention must be carefully evaluated [190,191]. 9.2.",
+    "refNo": 191,
+    "title": "",
+    "marker_text": "[191]"
+  },
+  {
+    "sentence": "This treatment was well tolerated and was effective in reducing the expression of HMGA2, one of the targets of let-7a [192].",
+    "refNo": 192,
+    "title": "",
+    "marker_text": "[192]"
+  },
+  {
+    "sentence": "In this respect, nanoparticles seem a very promising strategy and were exploited to deliver at the tumor site not only a variety of drugs but also miRNA [193].",
+    "refNo": 193,
+    "title": "",
+    "marker_text": "[193]"
+  },
+  {
+    "sentence": "To date, the most common carriers are targeted liposomes of 100 nm [178,194] that are being tested in animal models [180,181].",
+    "refNo": 178,
+    "title": "",
+    "marker_text": "[178]"
+  },
+  {
+    "sentence": "To date, the most common carriers are targeted liposomes of 100 nm [178,194] that are being tested in animal models [180,181].",
+    "refNo": 194,
+    "title": "",
+    "marker_text": "[194]"
+  },
+  {
+    "sentence": "To date, the most common carriers are targeted liposomes of 100 nm [178,194] that are being tested in animal models [180,181].",
+    "refNo": 180,
+    "title": "",
+    "marker_text": "[180]"
+  },
+  {
+    "sentence": "To date, the most common carriers are targeted liposomes of 100 nm [178,194] that are being tested in animal models [180,181].",
+    "refNo": 181,
+    "title": "",
+    "marker_text": "[181]"
+  },
+  {
+    "sentence": "For example, antago-miR-21 carried by RNP were utilized to successfully rescue the expression of antioncogenic PTEN and of PDCD4 and to promote tumor regression in a model system [195].",
+    "refNo": 195,
+    "title": "",
+    "marker_text": "[195]"
+  },
+  {
+    "sentence": "Similarly, antago-miR-21, delivered by poly(lactic-co-glycolic acid) (PLGA), sensitizes the effect of TMZ in vitro [196].",
+    "refNo": 196,
+    "title": "",
+    "marker_text": "[196]"
+  },
+  {
+    "sentence": "Another interesting example of cooperative treatment in glioblastoma is provided by a multifunctional delivery system MSNPs (mesoporous silica nanoparticle) charged with TMZ molecules and decorated by an anti-miR-221 PNAoctaarginine conjugate (R8-PNA221) that increases the biological effect of TMZ in drug-resistant cells [197].",
+    "refNo": 197,
+    "title": "",
+    "marker_text": "[197]"
+  },
+  {
+    "sentence": "A similar effect was seen with miR-34a encapsulated in a polyglycerol scaffold [198].",
+    "refNo": 198,
+    "title": "",
+    "marker_text": "[198]"
+  },
+  {
+    "sentence": "Mesenchymal stem cells (MSC) are an interesting and potentially very effective method to target sites of injury or of inflammation and tumors for therapeutic purposes [199,200], and it was demonstrated that functional miRNA can be conveyed to neural progenitor cells by cocultivation with appropriately engineered MSC [201].",
+    "refNo": 199,
+    "title": "",
+    "marker_text": "[199]"
+  },
+  {
+    "sentence": "Mesenchymal stem cells (MSC) are an interesting and potentially very effective method to target sites of injury or of inflammation and tumors for therapeutic purposes [199,200], and it was demonstrated that functional miRNA can be conveyed to neural progenitor cells by cocultivation with appropriately engineered MSC [201].",
+    "refNo": 200,
+    "title": "",
+    "marker_text": "[200]"
+  },
+  {
+    "sentence": "Mesenchymal stem cells (MSC) are an interesting and potentially very effective method to target sites of injury or of inflammation and tumors for therapeutic purposes [199,200], and it was demonstrated that functional miRNA can be conveyed to neural progenitor cells by cocultivation with appropriately engineered MSC [201].",
+    "refNo": 201,
+    "title": "",
+    "marker_text": "[201]"
+  },
+  {
+    "sentence": "As mentioned above, miR-10b is involved in tumor invasion and is an optimal therapeutic target because of its high and generalized expression in all GB subtypes [86][87][88].",
+    "refNo": 86,
+    "title": "",
+    "marker_text": "[86]"
+  },
+  {
+    "sentence": "As mentioned above, miR-10b is involved in tumor invasion and is an optimal therapeutic target because of its high and generalized expression in all GB subtypes [86][87][88].",
+    "refNo": 87,
+    "title": "",
+    "marker_text": "[87]"
+  },
+  {
+    "sentence": "As mentioned above, miR-10b is involved in tumor invasion and is an optimal therapeutic target because of its high and generalized expression in all GB subtypes [86][87][88].",
+    "refNo": 88,
+    "title": "",
+    "marker_text": "[88]"
+  },
+  {
+    "sentence": "A preclinical in vivo study focused on the inhibition of miR-10b in an orthotopic GB xenograft model compared the results of different delivery methods utilizing as endpoint the inhibition of the tumor growth [202].",
+    "refNo": 202,
+    "title": "",
+    "marker_text": "[202]"
+  },
+  {
+    "sentence": "Considering the possible translation from the bench to the bedside, the systemic injections of miR-10b inhibitor were less invasive compared to the other routes and had minimal or no side effects on extracranial tissues and with a good delivery through the BBB. miRNA \"sponges\" are oligonucleotide sequences that contain many binding sites for a specific miRNA or miRNA family and act as competitive inhibitors of the binding of the miRNA to their targets [203].",
+    "refNo": 203,
+    "title": "",
+    "marker_text": "[203]"
+  },
+  {
+    "sentence": "The utility of these \"sponges\" in GB was recently demonstrated for miR-23b in an orthotopic in vivo model and showed the reduction of angiogenesis, migration and invasion, and in turn the malignancy of the tumor [204].",
+    "refNo": 204,
+    "title": "",
+    "marker_text": "[204]"
+  },
+  {
+    "sentence": "Circular RNAs (circRNA) are natural examples of sponges that are highly resistant to degradation and that are now subject of in-depth investigations because of their strong regulatory activity on miRNA [205].",
+    "refNo": 205,
+    "title": "",
+    "marker_text": "[205]"
+  }
+]

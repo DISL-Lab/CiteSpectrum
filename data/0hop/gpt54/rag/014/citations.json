@@ -1,0 +1,1952 @@
+[
+  {
+    "sentence": "In this abstraction, collective behavior is specified through distributed feedback laws that depend only on relative information and sparse message exchange, while convergence and robustness are characterized through graph-theoretic notions such as connectivity, Laplacian structure, and leader-follower interconnections ref [1], ref [35].",
+    "refNo": 1,
+    "title": "Consensus and Cooperation in Networked Multi-Agent Systems",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "In this abstraction, collective behavior is specified through distributed feedback laws that depend only on relative information and sparse message exchange, while convergence and robustness are characterized through graph-theoretic notions such as connectivity, Laplacian structure, and leader-follower interconnections ref [1], ref [35].",
+    "refNo": 35,
+    "title": "Containment control for high‐order multi-agent systems with heterogeneous time delays",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "Consensus captures agreement on shared variables such as heading, velocity, or altitude offsets ref [1]; flocking augments agreement with velocity matching, cohesion, and collision avoidance ref [2]; formation control prescribes geometric patterns, often encoded through relative positions or complex-Laplacian constructions ref [11].",
+    "refNo": 1,
+    "title": "Consensus and Cooperation in Networked Multi-Agent Systems",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Consensus captures agreement on shared variables such as heading, velocity, or altitude offsets ref [1]; flocking augments agreement with velocity matching, cohesion, and collision avoidance ref [2]; formation control prescribes geometric patterns, often encoded through relative positions or complex-Laplacian constructions ref [11].",
+    "refNo": 2,
+    "title": "Flocking for multi-agent dynamic systems: algorithms and theory",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Consensus captures agreement on shared variables such as heading, velocity, or altitude offsets ref [1]; flocking augments agreement with velocity matching, cohesion, and collision avoidance ref [2]; formation control prescribes geometric patterns, often encoded through relative positions or complex-Laplacian constructions ref [11].",
+    "refNo": 11,
+    "title": "Distributed Cooperative Control for Multi-Agent Systems",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "More asymmetric tasks arise in containment, where followers converge to the convex region spanned by multiple leaders ref [8], and in leader-follower tracking, where the swarm must estimate and follow a moving reference under uncertainty and noisy measurements ref [9].",
+    "refNo": 8,
+    "title": "Cooperative control of linear multi-agent systems via distributed output regulation and transient synchronization",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "More asymmetric tasks arise in containment, where followers converge to the convex region spanned by multiple leaders ref [8], and in leader-follower tracking, where the swarm must estimate and follow a moving reference under uncertainty and noisy measurements ref [9].",
+    "refNo": 9,
+    "title": "Event-triggered distributed predictive control for asynchronous coordination of multi-agent systems",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Connectivity preservation is a first-order requirement because loss of graph links can invalidate the assumptions underlying consensus and formation guarantees; bounded distributed strategies explicitly address this issue ref [29].",
+    "refNo": 29,
+    "title": "Distributed model reference adaptive containment control of heterogeneous uncertain multi-agent systems.",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "More generally, cooperative regulation and transient synchronization perspectives connect swarm objectives to output regulation and disturbance rejection for agents with nontrivial dynamics ref [57].",
+    "refNo": 57,
+    "title": "Consensus for multi-agent systems with distributed adaptive control and an event-triggered communication strategy",
+    "marker_text": "[57]"
+  },
+  {
+    "sentence": "General distributed cooperative control formulations emphasize that the controller design must simultaneously account for graph topology, agent dynamics, and decentralized information patterns rather than treating coordination as a purely kinematic problem ref [10], ref [41].",
+    "refNo": 10,
+    "title": "Distributed Consensus of Multi-Agent Systems With Input Constraints: A Model Predictive Control Approach",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "General distributed cooperative control formulations emphasize that the controller design must simultaneously account for graph topology, agent dynamics, and decentralized information patterns rather than treating coordination as a purely kinematic problem ref [10], ref [41].",
+    "refNo": 41,
+    "title": "Distributed Consensus Control of Multi-Agent Systems With Higher Order Agent Dynamics and Dynamically Changing Directed Interaction Topologies",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "Predictive and event-triggered designs provide a natural mathematical framework for such settings by embedding communication and control decisions into constrained optimization, thereby reducing unnecessary transmissions while preserving coordinated behavior under asynchronous operation ref [10], ref [12].",
+    "refNo": 10,
+    "title": "Distributed Consensus of Multi-Agent Systems With Input Constraints: A Model Predictive Control Approach",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Predictive and event-triggered designs provide a natural mathematical framework for such settings by embedding communication and control decisions into constrained optimization, thereby reducing unnecessary transmissions while preserving coordinated behavior under asynchronous operation ref [10], ref [12].",
+    "refNo": 12,
+    "title": "Adaptive output containment control of heterogeneous multi-agent systems with unknown leaders",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "The same constrained viewpoint is essential for maintaining inter-agent connectivity and collision-safe interaction neighborhoods, especially when bounded inputs and nonholonomic motion restrict feasible maneuvers ref [34].",
+    "refNo": 34,
+    "title": "Distributed Containment Control of Multi-agent Systems with General Linear Dynamics and Time-delays",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "Adaptive containment formulations address heterogeneous followers and uncertain leader dynamics ref [13], while distributed adaptive formation control captures shape maintenance with a moving reference ref [27].",
+    "refNo": 13,
+    "title": "Design and Realization of Distributed Adaptive Formation Control Law for Multi-Agent Systems With Moving Leader",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Adaptive containment formulations address heterogeneous followers and uncertain leader dynamics ref [13], while distributed adaptive formation control captures shape maintenance with a moving reference ref [27].",
+    "refNo": 27,
+    "title": "Distributed Containment Control of Multi-Agent Systems with Velocity and Acceleration Saturations",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "More broadly, anti-disturbance cooperative control highlights robustness as a first-class design objective in networked systems ref [38].",
+    "refNo": 38,
+    "title": "Containment control for second-order nonlinear multi-agent systems with intermittent communications",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Taken together, these models define MAV swarming as a distributed control problem over constrained, disturbed, and intermittently connected multi-agent systems rather than as idealized flocking alone ref [10], ref [41].",
+    "refNo": 10,
+    "title": "Distributed Consensus of Multi-Agent Systems With Input Constraints: A Model Predictive Control Approach",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Taken together, these models define MAV swarming as a distributed control problem over constrained, disturbed, and intermittently connected multi-agent systems rather than as idealized flocking alone ref [10], ref [41].",
+    "refNo": 41,
+    "title": "Distributed Consensus Control of Multi-Agent Systems With Higher Order Agent Dynamics and Dynamically Changing Directed Interaction Topologies",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "This perspective is particularly relevant for MAV teams with mismatched dynamics or sensing suites, where output-based adaptive consensus under switching directed topologies provides a natural abstraction for distributed coordination under intermittent communication ref [21].",
+    "refNo": 21,
+    "title": "Distributed leader-following consensus of heterogeneous second-order time-varying nonlinear multi-agent systems under directed switching topology",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Related leader-following formulations for heterogeneous second-order nonlinear agents further capture the practical case in which a subset of MAVs tracks a virtual command trajectory while preserving distributed implementation under directed switching graphs ref [29].",
+    "refNo": 29,
+    "title": "Distributed model reference adaptive containment control of heterogeneous uncertain multi-agent systems.",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Distributed designs for second-order agents explicitly characterize how tracking and shape maintenance can be achieved simultaneously ref [10], while adaptive time-varying formation results for higher-order linear dynamics show how the same objective can be generalized to agents with richer internal models and uncertain couplings ref [40].",
+    "refNo": 10,
+    "title": "Distributed Consensus of Multi-Agent Systems With Input Constraints: A Model Predictive Control Approach",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Distributed designs for second-order agents explicitly characterize how tracking and shape maintenance can be achieved simultaneously ref [10], while adaptive time-varying formation results for higher-order linear dynamics show how the same objective can be generalized to agents with richer internal models and uncertain couplings ref [40].",
+    "refNo": 40,
+    "title": "Distributed control gains design for consensus in multi-agent systems with second-order nonlinear dynamics",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "Event-triggered formation stabilization and tracking additionally introduce a resource-aware problem formulation in which control updates are generated only when needed, reflecting bandwidth and onboard computation limits typical of MAV platforms ref [52].",
+    "refNo": 52,
+    "title": "Distributed event‐triggered feedback consensus control with state‐dependent threshold for general linear multi‐agent systems",
+    "marker_text": "[52]"
+  },
+  {
+    "sentence": "Classical distributed containment results for linear multi-agent systems formalize the graph-theoretic conditions under which this objective is feasible ref [27], while necessary and sufficient conditions without velocity measurement better match sensing-limited MAV settings where full state feedback is unavailable ref [33].",
+    "refNo": 27,
+    "title": "Distributed Containment Control of Multi-Agent Systems with Velocity and Acceleration Saturations",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "Classical distributed containment results for linear multi-agent systems formalize the graph-theoretic conditions under which this objective is feasible ref [27], while necessary and sufficient conditions without velocity measurement better match sensing-limited MAV settings where full state feedback is unavailable ref [33].",
+    "refNo": 33,
+    "title": "Self‐triggered distributed model predictive control for flocking of multi‐agent systems",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "Extensions to fractional-order uncertain systems further emphasize that containment formulations remain meaningful even under nonideal dynamics and modeling uncertainty ref [11].",
+    "refNo": 11,
+    "title": "Distributed Cooperative Control for Multi-Agent Systems",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "In the literature, containment has been posed for heterogeneous and even singular agent models, highlighting that the problem extends beyond idealized identical-integrator abstractions and must account for mismatched internal dynamics across agents ref [25], ref [18].",
+    "refNo": 25,
+    "title": "Containment control of singular heterogeneous multi-agent systems",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "In the literature, containment has been posed for heterogeneous and even singular agent models, highlighting that the problem extends beyond idealized identical-integrator abstractions and must account for mismatched internal dynamics across agents ref [25], ref [18].",
+    "refNo": 18,
+    "title": "Distributed Time-Varying Formation Tracking Analysis and Design for Second-Order Multi-Agent Systems",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Discrete-time asynchronous updates with time-varying delays alter the effective neighbor information available to each vehicle and can significantly affect convergence and stability margins, making them a natural model for onboard wireless coordination ref [31].",
+    "refNo": 31,
+    "title": "Distributed containment control for bounded unknown second-order nonlinear multi-agent systems with dynamic leaders",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "Directed interaction graphs and event-based broadcasting further reflect practical bandwidth limitations, since MAVs often cannot maintain continuous all-to-all exchange; containment laws under directed topologies therefore provide an important bridge between graph-theoretic formulations and implementable swarm protocols ref [13].",
+    "refNo": 13,
+    "title": "Design and Realization of Distributed Adaptive Formation Control Law for Multi-Agent Systems With Moving Leader",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Containment designs that explicitly account for velocity and acceleration saturations are therefore more representative of MAV operation than unconstrained controllers ref [12].",
+    "refNo": 12,
+    "title": "Adaptive output containment control of heterogeneous multi-agent systems with unknown leaders",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "The same applies to nonlinear uncertain dynamics, dynamic leaders, and partial loss of actuation authority: adaptive or command-filter-based containment formulations have been developed to address bounded unknown nonlinearities, actuator failures, and moving leader sets ref [21], ref [25].",
+    "refNo": 21,
+    "title": "Distributed leader-following consensus of heterogeneous second-order time-varying nonlinear multi-agent systems under directed switching topology",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "The same applies to nonlinear uncertain dynamics, dynamic leaders, and partial loss of actuation authority: adaptive or command-filter-based containment formulations have been developed to address bounded unknown nonlinearities, actuator failures, and moving leader sets ref [21], ref [25].",
+    "refNo": 25,
+    "title": "Containment control of singular heterogeneous multi-agent systems",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Collectively, these models motivate a constrained distributed control problem in which each MAV must achieve set-based coordination using local, delayed, and event-driven information while respecting nonlinear flight-envelope limitations ref [12], ref [18], ref [21], ref [25].",
+    "refNo": 12,
+    "title": "Adaptive output containment control of heterogeneous multi-agent systems with unknown leaders",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Collectively, these models motivate a constrained distributed control problem in which each MAV must achieve set-based coordination using local, delayed, and event-driven information while respecting nonlinear flight-envelope limitations ref [12], ref [18], ref [21], ref [25].",
+    "refNo": 18,
+    "title": "Distributed Time-Varying Formation Tracking Analysis and Design for Second-Order Multi-Agent Systems",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Collectively, these models motivate a constrained distributed control problem in which each MAV must achieve set-based coordination using local, delayed, and event-driven information while respecting nonlinear flight-envelope limitations ref [12], ref [18], ref [21], ref [25].",
+    "refNo": 21,
+    "title": "Distributed leader-following consensus of heterogeneous second-order time-varying nonlinear multi-agent systems under directed switching topology",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Collectively, these models motivate a constrained distributed control problem in which each MAV must achieve set-based coordination using local, delayed, and event-driven information while respecting nonlinear flight-envelope limitations ref [12], ref [18], ref [21], ref [25].",
+    "refNo": 25,
+    "title": "Containment control of singular heterogeneous multi-agent systems",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "The general consensus perspective clarifies that containment can be interpreted as a leader–follower extension of agreement dynamics under directed interaction graphs ref [39].",
+    "refNo": 39,
+    "title": "Distributed generation and control of persistent formation for multi-agent systems",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "Representative models include general linear follower dynamics with explicit communication delays ref [24], high-order agents with heterogeneous delays ref [29], and second-order nonlinear agents under intermittent communications ref [40].",
+    "refNo": 24,
+    "title": "Distributed event-triggered control strategies for multi-agent formation stabilization and tracking",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Representative models include general linear follower dynamics with explicit communication delays ref [24], high-order agents with heterogeneous delays ref [29], and second-order nonlinear agents under intermittent communications ref [40].",
+    "refNo": 29,
+    "title": "Distributed model reference adaptive containment control of heterogeneous uncertain multi-agent systems.",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Representative models include general linear follower dynamics with explicit communication delays ref [24], high-order agents with heterogeneous delays ref [29], and second-order nonlinear agents under intermittent communications ref [40].",
+    "refNo": 40,
+    "title": "Distributed control gains design for consensus in multi-agent systems with second-order nonlinear dynamics",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "Formation tracking further extends the objective from convergence to a static geometric pattern toward maintaining a moving reference shape around one or more leaders, often via observer-based architectures when full state exchange is unavailable ref [33].",
+    "refNo": 33,
+    "title": "Self‐triggered distributed model predictive control for flocking of multi‐agent systems",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "Closely related persistent formation formulations emphasize simultaneous generation and stabilization of a desired shape over time, making them natural abstractions for cooperative sensing and area coverage by MAV teams ref [50].",
+    "refNo": 50,
+    "title": "Leaderless and leader-following consensus of linear multi-agent systems with distributed event-triggered estimators",
+    "marker_text": "[50]"
+  },
+  {
+    "sentence": "Hybrid distributed MPC has been used to couple containment with distributed sensing objectives, highlighting the dual role of swarm geometry in both control and information gathering ref [16].",
+    "refNo": 16,
+    "title": "Cooperative Output Regulation of Linear Multi-Agent Systems by a Novel Distributed Dynamic Compensator",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Likewise, self-triggered distributed MPC for flocking explicitly incorporates communication/update sparsity into the optimization loop, which is highly aligned with onboard computation and bandwidth limits in MAV swarms ref [18].",
+    "refNo": 18,
+    "title": "Distributed Time-Varying Formation Tracking Analysis and Design for Second-Order Multi-Agent Systems",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Taken together, this body of work suggests that MAV swarm problem formulations should jointly specify graph structure, agent dynamics, collective objective, and operational constraints such as delays, intermittent links, and sensing-task coupling, since these factors fundamentally shape the feasibility of distributed coordination ref [16], ref [18], ref [24], ref [29], ref [33], ref [40], ref [50].",
+    "refNo": 16,
+    "title": "Cooperative Output Regulation of Linear Multi-Agent Systems by a Novel Distributed Dynamic Compensator",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Taken together, this body of work suggests that MAV swarm problem formulations should jointly specify graph structure, agent dynamics, collective objective, and operational constraints such as delays, intermittent links, and sensing-task coupling, since these factors fundamentally shape the feasibility of distributed coordination ref [16], ref [18], ref [24], ref [29], ref [33], ref [40], ref [50].",
+    "refNo": 18,
+    "title": "Distributed Time-Varying Formation Tracking Analysis and Design for Second-Order Multi-Agent Systems",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Taken together, this body of work suggests that MAV swarm problem formulations should jointly specify graph structure, agent dynamics, collective objective, and operational constraints such as delays, intermittent links, and sensing-task coupling, since these factors fundamentally shape the feasibility of distributed coordination ref [16], ref [18], ref [24], ref [29], ref [33], ref [40], ref [50].",
+    "refNo": 24,
+    "title": "Distributed event-triggered control strategies for multi-agent formation stabilization and tracking",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Taken together, this body of work suggests that MAV swarm problem formulations should jointly specify graph structure, agent dynamics, collective objective, and operational constraints such as delays, intermittent links, and sensing-task coupling, since these factors fundamentally shape the feasibility of distributed coordination ref [16], ref [18], ref [24], ref [29], ref [33], ref [40], ref [50].",
+    "refNo": 29,
+    "title": "Distributed model reference adaptive containment control of heterogeneous uncertain multi-agent systems.",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Taken together, this body of work suggests that MAV swarm problem formulations should jointly specify graph structure, agent dynamics, collective objective, and operational constraints such as delays, intermittent links, and sensing-task coupling, since these factors fundamentally shape the feasibility of distributed coordination ref [16], ref [18], ref [24], ref [29], ref [33], ref [40], ref [50].",
+    "refNo": 33,
+    "title": "Self‐triggered distributed model predictive control for flocking of multi‐agent systems",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "Taken together, this body of work suggests that MAV swarm problem formulations should jointly specify graph structure, agent dynamics, collective objective, and operational constraints such as delays, intermittent links, and sensing-task coupling, since these factors fundamentally shape the feasibility of distributed coordination ref [16], ref [18], ref [24], ref [29], ref [33], ref [40], ref [50].",
+    "refNo": 40,
+    "title": "Distributed control gains design for consensus in multi-agent systems with second-order nonlinear dynamics",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "Taken together, this body of work suggests that MAV swarm problem formulations should jointly specify graph structure, agent dynamics, collective objective, and operational constraints such as delays, intermittent links, and sensing-task coupling, since these factors fundamentally shape the feasibility of distributed coordination ref [16], ref [18], ref [24], ref [29], ref [33], ref [40], ref [50].",
+    "refNo": 50,
+    "title": "Leaderless and leader-following consensus of linear multi-agent systems with distributed event-triggered estimators",
+    "marker_text": "[50]"
+  },
+  {
+    "sentence": "Early unifying treatments established how graph topology, Laplacian structure, and directed interactions determine convergence and robustness properties of coordinated networked systems ref [1], while broader cooperative-control formulations connected these ideas to practical distributed stabilization and task allocation problems in multi-agent settings ref [35].",
+    "refNo": 1,
+    "title": "Consensus and Cooperation in Networked Multi-Agent Systems",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Early unifying treatments established how graph topology, Laplacian structure, and directed interactions determine convergence and robustness properties of coordinated networked systems ref [1], while broader cooperative-control formulations connected these ideas to practical distributed stabilization and task allocation problems in multi-agent settings ref [35].",
+    "refNo": 35,
+    "title": "Containment control for high‐order multi-agent systems with heterogeneous time delays",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "The flocking framework in ref [2] is especially influential because it formalizes how local interaction rules generate coherent group motion, a core requirement for MAV teams operating in cluttered or GPS-denied environments.",
+    "refNo": 2,
+    "title": "Flocking for multi-agent dynamic systems: algorithms and theory",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Beyond first-order agreement, MAVs frequently require second- or higher-order models to capture translational dynamics; accordingly, distributed gain design for nonlinear second-order agents ref [12] and consensus protocols for higher-order dynamics under switching directed topologies ref [45] are important steps toward realistic aerial-swarm implementations.",
+    "refNo": 12,
+    "title": "Adaptive output containment control of heterogeneous multi-agent systems with unknown leaders",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Beyond first-order agreement, MAVs frequently require second- or higher-order models to capture translational dynamics; accordingly, distributed gain design for nonlinear second-order agents ref [12] and consensus protocols for higher-order dynamics under switching directed topologies ref [45] are important steps toward realistic aerial-swarm implementations.",
+    "refNo": 45,
+    "title": "Distributed Adaptive Consensus Disturbance Rejection for Multi-Agent Systems on Directed Graphs",
+    "marker_text": "[45]"
+  },
+  {
+    "sentence": "Complex-Laplacian formulations enable shape control with compact encoding of planar formations and are relevant when MAV swarms must preserve geometric patterns using only relative information ref [11].",
+    "refNo": 11,
+    "title": "Distributed Cooperative Control for Multi-Agent Systems",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "In practice, however, pure agreement is insufficient unless inter-vehicle communication links remain intact; bounded distributed controllers that explicitly preserve connectivity therefore address a major MAV constraint, namely the fragility of ad hoc wireless interaction graphs during maneuvering ref [29].",
+    "refNo": 29,
+    "title": "Distributed model reference adaptive containment control of heterogeneous uncertain multi-agent systems.",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "More generally, distributed output-regulation and transient-synchronization ideas extend consensus from state agreement to coordinated tracking of exogenous signals, offering a bridge from basic synchronization to task-oriented swarm behavior ref [57].",
+    "refNo": 57,
+    "title": "Consensus for multi-agent systems with distributed adaptive control and an event-triggered communication strategy",
+    "marker_text": "[57]"
+  },
+  {
+    "sentence": "Overall, classical consensus and flocking methods form the conceptual backbone of distributed MAV coordination, but their practical use depends on accommodating nonlinear dynamics, switching graphs, formation geometry, and connectivity preservation within computationally lightweight local controllers ref [1], ref [2], ref [29].",
+    "refNo": 1,
+    "title": "Consensus and Cooperation in Networked Multi-Agent Systems",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Overall, classical consensus and flocking methods form the conceptual backbone of distributed MAV coordination, but their practical use depends on accommodating nonlinear dynamics, switching graphs, formation geometry, and connectivity preservation within computationally lightweight local controllers ref [1], ref [2], ref [29].",
+    "refNo": 2,
+    "title": "Flocking for multi-agent dynamic systems: algorithms and theory",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Overall, classical consensus and flocking methods form the conceptual backbone of distributed MAV coordination, but their practical use depends on accommodating nonlinear dynamics, switching graphs, formation geometry, and connectivity preservation within computationally lightweight local controllers ref [1], ref [2], ref [29].",
+    "refNo": 29,
+    "title": "Distributed model reference adaptive containment control of heterogeneous uncertain multi-agent systems.",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Distributed MPC formulations have been used to guarantee consensus under actuator saturation and related admissibility constraints, making them relevant for thrust- and velocity-limited MAV platforms ref [43].",
+    "refNo": 43,
+    "title": "Distributed event-triggered control of discrete-time heterogeneous multi-agent systems",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "Closely related work combines predictive control with event triggering to support asynchronous coordination, thereby reducing unnecessary transmissions while preserving distributed decision making under nonuniform update times ref [10].",
+    "refNo": 10,
+    "title": "Distributed Consensus of Multi-Agent Systems With Input Constraints: A Model Predictive Control Approach",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "For heterogeneous discrete-time agents, distributed event-triggered controllers have been developed to maintain consensus with fewer communication updates, which is valuable for resource-constrained onboard radios and processors ref [45].",
+    "refNo": 45,
+    "title": "Distributed Adaptive Consensus Disturbance Rejection for Multi-Agent Systems on Directed Graphs",
+    "marker_text": "[45]"
+  },
+  {
+    "sentence": "At the same time, adaptive disturbance-rejection strategies on directed graphs address unknown exogenous inputs and modeling errors without requiring centralized disturbance estimation, improving robustness in the presence of wind and inter-vehicle mismatches ref [18].",
+    "refNo": 18,
+    "title": "Distributed Time-Varying Formation Tracking Analysis and Design for Second-Order Multi-Agent Systems",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "For output regulation objectives, dynamic-compensator-based distributed schemes offer a systematic way to synchronize agent outputs to shared references or exosystems using only local interaction information ref [41].",
+    "refNo": 41,
+    "title": "Distributed Consensus Control of Multi-Agent Systems With Higher Order Agent Dynamics and Dynamically Changing Directed Interaction Topologies",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "Distributed learning consensus has been studied for heterogeneous high-order nonlinear systems with output constraints, highlighting how coordination can be maintained even when measurable outputs are limited or constrained ref [44].",
+    "refNo": 44,
+    "title": "Consensus-based distributed cooperative learning control for a group of discrete-time nonlinear multi-agent systems using neural networks",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "Neural-network-based cooperative learning controllers similarly target nonlinear discrete-time agents and compensate uncertain dynamics in a consensus framework ref [16].",
+    "refNo": 16,
+    "title": "Cooperative Output Regulation of Linear Multi-Agent Systems by a Novel Distributed Dynamic Compensator",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "For nonlinear output-consensus tracking, observer-based and command-filtered backstepping designs provide a practical architecture to estimate unmeasured states while avoiding the complexity explosion of recursive nonlinear control laws ref [45].",
+    "refNo": 45,
+    "title": "Distributed Adaptive Consensus Disturbance Rejection for Multi-Agent Systems on Directed Graphs",
+    "marker_text": "[45]"
+  },
+  {
+    "sentence": "Foundational distributed event-triggered protocols establish consensus using locally available neighbor information and explicitly address the exclusion of pathological fast triggering behaviors, thereby improving practical implementability in networked multi-agent settings ref [45], ref [24], ref [49].",
+    "refNo": 45,
+    "title": "Distributed Adaptive Consensus Disturbance Rejection for Multi-Agent Systems on Directed Graphs",
+    "marker_text": "[45]"
+  },
+  {
+    "sentence": "Foundational distributed event-triggered protocols establish consensus using locally available neighbor information and explicitly address the exclusion of pathological fast triggering behaviors, thereby improving practical implementability in networked multi-agent settings ref [45], ref [24], ref [49].",
+    "refNo": 24,
+    "title": "Distributed event-triggered control strategies for multi-agent formation stabilization and tracking",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Foundational distributed event-triggered protocols establish consensus using locally available neighbor information and explicitly address the exclusion of pathological fast triggering behaviors, thereby improving practical implementability in networked multi-agent settings ref [45], ref [24], ref [49].",
+    "refNo": 49,
+    "title": "Distributed model predictive control for consensus of nonlinear second‐order multi‐agent systems",
+    "marker_text": "[49]"
+  },
+  {
+    "sentence": "Distributed event-triggered estimators enable both leaderless and leader-following consensus when agents cannot access neighbors’ states continuously, replacing persistent communication with estimator-based reconstruction from intermittent transmissions ref [43].",
+    "refNo": 43,
+    "title": "Distributed event-triggered control of discrete-time heterogeneous multi-agent systems",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "State-dependent triggering thresholds further adapt update frequency to the current coordination error, offering a more flexible tradeoff between convergence performance and communication load for general linear agent models ref [48].",
+    "refNo": 48,
+    "title": "Distributed optimal coordination control for nonlinear multi-agent systems using event-triggered adaptive dynamic programming method.",
+    "marker_text": "[48]"
+  },
+  {
+    "sentence": "For coordination tasks beyond pure agreement, event-triggered mechanisms have also been developed for distributed formation stabilization and trajectory tracking, which is particularly relevant to MAV swarms executing geometric patterns or cooperative motion under limited inter-agent exchange ref [52].",
+    "refNo": 52,
+    "title": "Distributed event‐triggered feedback consensus control with state‐dependent threshold for general linear multi‐agent systems",
+    "marker_text": "[52]"
+  },
+  {
+    "sentence": "Distributed model predictive control has been used to enforce consensus for nonlinear second-order agents while accounting for future state evolution, a useful feature when swarm motion constraints and transient behavior matter ref [32].",
+    "refNo": 32,
+    "title": "A hybrid model predictive control scheme for containment and distributed sensing in multi-agent systems",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "At the same time, event-triggered adaptive dynamic programming introduces an approximate optimal control perspective for nonlinear coordination, reducing update burden while improving cost-aware distributed decision making ref [26].",
+    "refNo": 26,
+    "title": "Asynchronous containment control for discrete-time second-order multi-agent systems with time-varying delays",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "Taken together, these works suggest that event-driven coordination is not merely a communication-saving add-on, but a broader design paradigm for scalable MAV swarms operating under tight onboard computation, sensing, and networking constraints ref [24], ref [26], ref [32].",
+    "refNo": 24,
+    "title": "Distributed event-triggered control strategies for multi-agent formation stabilization and tracking",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Taken together, these works suggest that event-driven coordination is not merely a communication-saving add-on, but a broader design paradigm for scalable MAV swarms operating under tight onboard computation, sensing, and networking constraints ref [24], ref [26], ref [32].",
+    "refNo": 26,
+    "title": "Asynchronous containment control for discrete-time second-order multi-agent systems with time-varying delays",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "Taken together, these works suggest that event-driven coordination is not merely a communication-saving add-on, but a broader design paradigm for scalable MAV swarms operating under tight onboard computation, sensing, and networking constraints ref [24], ref [26], ref [32].",
+    "refNo": 32,
+    "title": "A hybrid model predictive control scheme for containment and distributed sensing in multi-agent systems",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "In this line, distributed event-triggered consensus laws replace periodic communication with state-dependent triggering conditions, so agents exchange information only when local errors exceed prescribed thresholds ref [58].",
+    "refNo": 58,
+    "title": "Distributed Adaptive Event‐Triggered Control for Leader‐Following Consensus of Multi‐Agent Systems",
+    "marker_text": "[58]"
+  },
+  {
+    "sentence": "This basic idea has been extended to leader-following settings through dynamic triggering mechanisms that introduce internal variables to avoid overly conservative update rules and to improve convergence under linear agent models ref [17].",
+    "refNo": 17,
+    "title": "Distributed adaptive output consensus control of a class of heterogeneous multi-agent systems under switching directed topologies",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Distributed adaptive event-triggered schemes compensate for parametric uncertainty or unknown couplings while still guaranteeing consensus with sparse communication ref [35], and related adaptive leader-following designs further emphasize fully distributed gain adaptation without centralized topology information ref [49].",
+    "refNo": 35,
+    "title": "Containment control for high‐order multi-agent systems with heterogeneous time delays",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "Distributed adaptive event-triggered schemes compensate for parametric uncertainty or unknown couplings while still guaranteeing consensus with sparse communication ref [35], and related adaptive leader-following designs further emphasize fully distributed gain adaptation without centralized topology information ref [49].",
+    "refNo": 49,
+    "title": "Distributed model predictive control for consensus of nonlinear second‐order multi‐agent systems",
+    "marker_text": "[49]"
+  },
+  {
+    "sentence": "In parallel, adaptive event-triggered distributed model predictive control combines finite-horizon optimization with communication scheduling, offering a systematic way to respect state and input constraints while reducing unnecessary transmissions ref [24].",
+    "refNo": 24,
+    "title": "Distributed event-triggered control strategies for multi-agent formation stabilization and tracking",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Asynchronous distributed event-triggered circle formation illustrates how agents can coordinate geometric patterns despite non-simultaneous updates, a useful property for heterogeneous MAV platforms with unsynchronized clocks or variable processing rates ref [51].",
+    "refNo": 51,
+    "title": "Distributed event-triggered control strategies for multi-agent systems",
+    "marker_text": "[51]"
+  },
+  {
+    "sentence": "Hybrid event-triggered mechanisms have also been proposed for stochastic tracking problems, where triggering logic must account for noise and random disturbances rather than ideal deterministic measurements ref [57].",
+    "refNo": 57,
+    "title": "Consensus for multi-agent systems with distributed adaptive control and an event-triggered communication strategy",
+    "marker_text": "[57]"
+  },
+  {
+    "sentence": "Overall, these works suggest that event-triggered distributed control is not merely a communication-saving add-on, but a flexible coordination paradigm for scalable MAV swarms under limited global knowledge and intermittent information exchange ref [58], ref [24].",
+    "refNo": 58,
+    "title": "Distributed Adaptive Event‐Triggered Control for Leader‐Following Consensus of Multi‐Agent Systems",
+    "marker_text": "[58]"
+  },
+  {
+    "sentence": "Overall, these works suggest that event-triggered distributed control is not merely a communication-saving add-on, but a flexible coordination paradigm for scalable MAV swarms under limited global knowledge and intermittent information exchange ref [58], ref [24].",
+    "refNo": 24,
+    "title": "Distributed event-triggered control strategies for multi-agent formation stabilization and tracking",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "The broader rationale follows the consensus literature, which established how distributed agreement can be achieved under sparse graph information and imperfect connectivity assumptions, providing the conceptual baseline for such resource-aware extensions ref [39].",
+    "refNo": 39,
+    "title": "Distributed generation and control of persistent formation for multi-agent systems",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "Event-triggered strategies have been developed for heterogeneous multi-agent systems under both fixed and switching topologies, showing that consensus can be maintained despite dynamic interaction graphs while avoiding unnecessary transmissions ref [27].",
+    "refNo": 27,
+    "title": "Distributed Containment Control of Multi-Agent Systems with Velocity and Acceleration Saturations",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "Closely related leader-tracking formulations trigger updates from local state errors rather than periodic schedules, enabling distributed tracking of an active leader with reduced communication load ref [48].",
+    "refNo": 48,
+    "title": "Distributed optimal coordination control for nonlinear multi-agent systems using event-triggered adaptive dynamic programming method.",
+    "marker_text": "[48]"
+  },
+  {
+    "sentence": "Self-triggered formulations push this idea further by predicting the next required update instant in advance; in particular, distributed model predictive flocking schemes combine local optimization with self-triggering to preserve collective motion while lowering sampling and coordination frequency ref [18].",
+    "refNo": 18,
+    "title": "Distributed Time-Varying Formation Tracking Analysis and Design for Second-Order Multi-Agent Systems",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Observer-based formation tracking in leader-follower settings supports distributed shape maintenance with limited sensing ref [33], while observer-based consensus for nonlinear systems with interval control inputs addresses bounded actuation and partial-state feedback, both highly relevant to small aerial vehicles ref [45].",
+    "refNo": 33,
+    "title": "Self‐triggered distributed model predictive control for flocking of multi‐agent systems",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "Observer-based formation tracking in leader-follower settings supports distributed shape maintenance with limited sensing ref [33], while observer-based consensus for nonlinear systems with interval control inputs addresses bounded actuation and partial-state feedback, both highly relevant to small aerial vehicles ref [45].",
+    "refNo": 45,
+    "title": "Distributed Adaptive Consensus Disturbance Rejection for Multi-Agent Systems on Directed Graphs",
+    "marker_text": "[45]"
+  },
+  {
+    "sentence": "Reinforcement-learning-based resilient adaptive optimal control illustrates how distributed agents can improve performance online under uncertain environments, although its practical deployment in MAV swarms remains constrained by onboard computation and safety-certification demands ref [35].",
+    "refNo": 35,
+    "title": "Containment control for high‐order multi-agent systems with heterogeneous time delays",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "Classical consensus theory shows that stability and convergence fundamentally depend on the interaction graph, the timing of updates, and the information locally exchanged among agents, making communication structure itself a control design variable rather than a mere implementation detail ref [1].",
+    "refNo": 1,
+    "title": "Consensus and Cooperation in Networked Multi-Agent Systems",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Distributed event-triggered formulations demonstrate that consensus can be preserved while significantly lowering communication demand, provided triggering rules are designed to exclude pathological fast transmissions and to account for local estimation errors ref [66], ref [6], ref [52].",
+    "refNo": 66,
+    "title": "Event-triggered communication and control of networked systems for multi-agent consensus",
+    "marker_text": "[66]"
+  },
+  {
+    "sentence": "Distributed event-triggered formulations demonstrate that consensus can be preserved while significantly lowering communication demand, provided triggering rules are designed to exclude pathological fast transmissions and to account for local estimation errors ref [66], ref [6], ref [52].",
+    "refNo": 6,
+    "title": "A Class of Bounded Distributed Control Strategies for Connectivity Preservation in Multi-Agent Systems",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Distributed event-triggered formulations demonstrate that consensus can be preserved while significantly lowering communication demand, provided triggering rules are designed to exclude pathological fast transmissions and to account for local estimation errors ref [66], ref [6], ref [52].",
+    "refNo": 52,
+    "title": "Distributed event‐triggered feedback consensus control with state‐dependent threshold for general linear multi‐agent systems",
+    "marker_text": "[52]"
+  },
+  {
+    "sentence": "Complementarily, sampled-data cooperative control highlights that discrete sensing and actuation inherently induce approximation and delay effects, which become more pronounced in fast MAV maneuvers and under switching interaction topologies ref [15].",
+    "refNo": 15,
+    "title": "Distributed cooperative anti-disturbance control of multi-agent systems: an overview",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Noisy relative measurements degrade tracking accuracy in leader–follower architectures and generally require robustness margins in distributed estimators and controllers ref [9].",
+    "refNo": 9,
+    "title": "Event-triggered distributed predictive control for asynchronous coordination of multi-agent systems",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Likewise, bounded connectivity-preserving strategies show that maintaining a viable communication graph may conflict with aggressive motion objectives, especially when vehicles must respect actuation limits ref [29].",
+    "refNo": 29,
+    "title": "Distributed model reference adaptive containment control of heterogeneous uncertain multi-agent systems.",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "In discrete-time settings, consensus under velocity constraints, delays, and nonconvex admissible sets underscores how communication imperfections and motion constraints are tightly coupled in practical swarm deployment ref [49].",
+    "refNo": 49,
+    "title": "Distributed model predictive control for consensus of nonlinear second‐order multi‐agent systems",
+    "marker_text": "[49]"
+  },
+  {
+    "sentence": "This trade-off between information economy and closed-loop guarantees is central to any realistic distributed architecture for micro aerial swarms ref [1], ref [15].",
+    "refNo": 1,
+    "title": "Consensus and Cooperation in Networked Multi-Agent Systems",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "This trade-off between information economy and closed-loop guarantees is central to any realistic distributed architecture for micro aerial swarms ref [1], ref [15].",
+    "refNo": 15,
+    "title": "Distributed cooperative anti-disturbance control of multi-agent systems: an overview",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Recent work has extended this idea to asynchronous predictive coordination, showing that agents can optimize over future motion while communicating at nonuniform instants, thereby reducing channel occupancy without reverting to centralized scheduling ref [43].",
+    "refNo": 43,
+    "title": "Distributed event-triggered control of discrete-time heterogeneous multi-agent systems",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "Related aperiodic MPC formulations similarly demonstrate that consensus-oriented coordination can be maintained when update times are irregular and locally determined, an assumption that is often closer to practical embedded MAV implementations than synchronous periodic control ref [49].",
+    "refNo": 49,
+    "title": "Distributed model predictive control for consensus of nonlinear second‐order multi‐agent systems",
+    "marker_text": "[49]"
+  },
+  {
+    "sentence": "Event-triggered controllers have been developed for discrete-time heterogeneous systems, for leader-following under switching networks, and for general linear agents on directed graphs with fully continuous communication-free triggering logics ref [73], ref [15], ref [52].",
+    "refNo": 73,
+    "title": "Distributed consensus control for linear multi-agent systems with discontinuous observations",
+    "marker_text": "[73]"
+  },
+  {
+    "sentence": "Event-triggered controllers have been developed for discrete-time heterogeneous systems, for leader-following under switching networks, and for general linear agents on directed graphs with fully continuous communication-free triggering logics ref [73], ref [15], ref [52].",
+    "refNo": 15,
+    "title": "Distributed cooperative anti-disturbance control of multi-agent systems: an overview",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Event-triggered controllers have been developed for discrete-time heterogeneous systems, for leader-following under switching networks, and for general linear agents on directed graphs with fully continuous communication-free triggering logics ref [73], ref [15], ref [52].",
+    "refNo": 52,
+    "title": "Distributed event‐triggered feedback consensus control with state‐dependent threshold for general linear multi‐agent systems",
+    "marker_text": "[52]"
+  },
+  {
+    "sentence": "Stochastic leader-following with input delay has been addressed through event-triggered mean-square consensus conditions, highlighting that packet irregularity and actuation lag must be analyzed jointly rather than as separable effects ref [19].",
+    "refNo": 19,
+    "title": "Distributed containment control of fractional-order uncertain multi-agent systems",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "For nonlinear cooperative regulation, distributed event-triggered designs show that communication-aware updates can still support robust output regulation objectives ref [28].",
+    "refNo": 28,
+    "title": "Event-based broadcasting containment control for multi-agent systems under directed topology",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "At the sensing layer, discontinuous observations further complicate distributed consensus because each MAV reasons over state estimates derived from imperfect local measurements rather than smooth shared trajectories ref [30].",
+    "refNo": 30,
+    "title": "Command-filter-based distributed containment control of nonlinear multi-agent systems with actuator failures",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "Distributed event-triggered and self-triggered controllers reduce channel occupancy by transmitting only when local state errors or predicted deviations exceed prescribed thresholds, thereby preserving consensus or coordination performance with fewer updates ref [79], ref [45], ref [49].",
+    "refNo": 79,
+    "title": "Containment control for heterogeneous multi-agent systems with asynchronous updates",
+    "marker_text": "[79]"
+  },
+  {
+    "sentence": "Distributed event-triggered and self-triggered controllers reduce channel occupancy by transmitting only when local state errors or predicted deviations exceed prescribed thresholds, thereby preserving consensus or coordination performance with fewer updates ref [79], ref [45], ref [49].",
+    "refNo": 45,
+    "title": "Distributed Adaptive Consensus Disturbance Rejection for Multi-Agent Systems on Directed Graphs",
+    "marker_text": "[45]"
+  },
+  {
+    "sentence": "Distributed event-triggered and self-triggered controllers reduce channel occupancy by transmitting only when local state errors or predicted deviations exceed prescribed thresholds, thereby preserving consensus or coordination performance with fewer updates ref [79], ref [45], ref [49].",
+    "refNo": 49,
+    "title": "Distributed model predictive control for consensus of nonlinear second‐order multi‐agent systems",
+    "marker_text": "[49]"
+  },
+  {
+    "sentence": "For MAV platforms, this design choice is especially attractive because it directly addresses limited bandwidth, contention in shared wireless media, and onboard energy constraints, but it also shifts algorithm design toward trigger synthesis, exclusion of pathological fast triggering, and robustness to irregular inter-update intervals ref [79], ref [43], ref [45].",
+    "refNo": 79,
+    "title": "Containment control for heterogeneous multi-agent systems with asynchronous updates",
+    "marker_text": "[79]"
+  },
+  {
+    "sentence": "For MAV platforms, this design choice is especially attractive because it directly addresses limited bandwidth, contention in shared wireless media, and onboard energy constraints, but it also shifts algorithm design toward trigger synthesis, exclusion of pathological fast triggering, and robustness to irregular inter-update intervals ref [79], ref [43], ref [45].",
+    "refNo": 43,
+    "title": "Distributed event-triggered control of discrete-time heterogeneous multi-agent systems",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "For MAV platforms, this design choice is especially attractive because it directly addresses limited bandwidth, contention in shared wireless media, and onboard energy constraints, but it also shifts algorithm design toward trigger synthesis, exclusion of pathological fast triggering, and robustness to irregular inter-update intervals ref [79], ref [43], ref [45].",
+    "refNo": 45,
+    "title": "Distributed Adaptive Consensus Disturbance Rejection for Multi-Agent Systems on Directed Graphs",
+    "marker_text": "[45]"
+  },
+  {
+    "sentence": "Delay-dependent consensus analysis for second-order agents shows that stability margins depend explicitly on communication latency, implying that aggressive sparsification of transmissions cannot be separated from the closed-loop dynamics ref [53].",
+    "refNo": 53,
+    "title": "Distributed self-triggered control for multi-agent systems",
+    "marker_text": "[53]"
+  },
+  {
+    "sentence": "Related asynchronous containment results for heterogeneous agents further indicate that agents can still coordinate under non-simultaneous updates, but convergence conditions become tied to update schedules and heterogeneity across followers and leaders ref [50].",
+    "refNo": 50,
+    "title": "Leaderless and leader-following consensus of linear multi-agent systems with distributed event-triggered estimators",
+    "marker_text": "[50]"
+  },
+  {
+    "sentence": "In MAV swarms, where clocks, processors, and links are naturally unsynchronized, these results motivate controllers that are delay-aware rather than merely communication-efficient ref [53], ref [50].",
+    "refNo": 53,
+    "title": "Distributed self-triggered control for multi-agent systems",
+    "marker_text": "[53]"
+  },
+  {
+    "sentence": "In MAV swarms, where clocks, processors, and links are naturally unsynchronized, these results motivate controllers that are delay-aware rather than merely communication-efficient ref [53], ref [50].",
+    "refNo": 50,
+    "title": "Leaderless and leader-following consensus of linear multi-agent systems with distributed event-triggered estimators",
+    "marker_text": "[50]"
+  },
+  {
+    "sentence": "Distributed output-regulation formulations account for constrained information exchange in heterogeneous networks, clarifying how limited neighbor information affects tracking and disturbance rejection capabilities ref [25].",
+    "refNo": 25,
+    "title": "Containment control of singular heterogeneous multi-agent systems",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Likewise, communication-aware motion planning integrates temporal and spatial logic specifications with explicit communication considerations, demonstrating that information availability must be treated as a planning resource rather than an afterthought ref [24].",
+    "refNo": 24,
+    "title": "Distributed event-triggered control strategies for multi-agent formation stabilization and tracking",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Event-triggered estimators further extend this idea by allowing leaderless and leader-following consensus with reduced direct communication through local state reconstruction ref [43].",
+    "refNo": 43,
+    "title": "Distributed event-triggered control of discrete-time heterogeneous multi-agent systems",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "Collectively, these studies point toward MAV swarm architectures in which communication policies, estimators, and task planners are co-designed under bounded information flow ref [24], ref [25], ref [43].",
+    "refNo": 24,
+    "title": "Distributed event-triggered control strategies for multi-agent formation stabilization and tracking",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Collectively, these studies point toward MAV swarm architectures in which communication policies, estimators, and task planners are co-designed under bounded information flow ref [24], ref [25], ref [43].",
+    "refNo": 25,
+    "title": "Containment control of singular heterogeneous multi-agent systems",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Collectively, these studies point toward MAV swarm architectures in which communication policies, estimators, and task planners are co-designed under bounded information flow ref [24], ref [25], ref [43].",
+    "refNo": 43,
+    "title": "Distributed event-triggered control of discrete-time heterogeneous multi-agent systems",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "In consensus and containment settings, distributed event-triggered laws substantially reduce channel usage while preserving convergence under directed graphs and decentralized triggering conditions, which is particularly relevant for bandwidth-limited aerial teams operating over shared wireless links ref [80], ref [13], ref [35], ref [36].",
+    "refNo": 80,
+    "title": "Distributed Coordination of Dynamical Multi-Agent Systems Under Directed Graphs and Constrained Information Exchange",
+    "marker_text": "[80]"
+  },
+  {
+    "sentence": "In consensus and containment settings, distributed event-triggered laws substantially reduce channel usage while preserving convergence under directed graphs and decentralized triggering conditions, which is particularly relevant for bandwidth-limited aerial teams operating over shared wireless links ref [80], ref [13], ref [35], ref [36].",
+    "refNo": 13,
+    "title": "Design and Realization of Distributed Adaptive Formation Control Law for Multi-Agent Systems With Moving Leader",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "In consensus and containment settings, distributed event-triggered laws substantially reduce channel usage while preserving convergence under directed graphs and decentralized triggering conditions, which is particularly relevant for bandwidth-limited aerial teams operating over shared wireless links ref [80], ref [13], ref [35], ref [36].",
+    "refNo": 35,
+    "title": "Containment control for high‐order multi-agent systems with heterogeneous time delays",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "In consensus and containment settings, distributed event-triggered laws substantially reduce channel usage while preserving convergence under directed graphs and decentralized triggering conditions, which is particularly relevant for bandwidth-limited aerial teams operating over shared wireless links ref [80], ref [13], ref [35], ref [36].",
+    "refNo": 36,
+    "title": "Observer‐based formation tracking control for leader–follower multi‐agent systems",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "For MAV deployment, the key implication is that communication policies become part of the control design itself: stability margins, inter-event times, and robustness to stale neighbor information must be co-designed rather than treated as networking afterthoughts ref [80], ref [35], ref [36].",
+    "refNo": 80,
+    "title": "Distributed Coordination of Dynamical Multi-Agent Systems Under Directed Graphs and Constrained Information Exchange",
+    "marker_text": "[80]"
+  },
+  {
+    "sentence": "For MAV deployment, the key implication is that communication policies become part of the control design itself: stability margins, inter-event times, and robustness to stale neighbor information must be co-designed rather than treated as networking afterthoughts ref [80], ref [35], ref [36].",
+    "refNo": 35,
+    "title": "Containment control for high‐order multi-agent systems with heterogeneous time delays",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "For MAV deployment, the key implication is that communication policies become part of the control design itself: stability margins, inter-event times, and robustness to stale neighbor information must be co-designed rather than treated as networking afterthoughts ref [80], ref [35], ref [36].",
+    "refNo": 36,
+    "title": "Observer‐based formation tracking control for leader–follower multi‐agent systems",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "Results on asynchronous containment for discrete-time second-order systems and asynchronous event-triggered circle formation show that coordination can still be maintained without global clocks, but the admissible delay and triggering conditions become more restrictive, and transient performance typically deteriorates as information ages ref [82], ref [51].",
+    "refNo": 82,
+    "title": "Distributed observer design for bounded tracking control of leader-follower multi-agent systems in a sampled-data setting",
+    "marker_text": "[82]"
+  },
+  {
+    "sentence": "Results on asynchronous containment for discrete-time second-order systems and asynchronous event-triggered circle formation show that coordination can still be maintained without global clocks, but the admissible delay and triggering conditions become more restrictive, and transient performance typically deteriorates as information ages ref [82], ref [51].",
+    "refNo": 51,
+    "title": "Distributed event-triggered control strategies for multi-agent systems",
+    "marker_text": "[51]"
+  },
+  {
+    "sentence": "Similarly, sampled-data observer designs for leader-follower tracking highlight that bounded performance can be retained with intermittent measurements, provided estimation and control are explicitly matched to the update process ref [44].",
+    "refNo": 44,
+    "title": "Consensus-based distributed cooperative learning control for a group of discrete-time nonlinear multi-agent systems using neural networks",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "This issue is especially concrete in quadcopter leader-follower experiments, where distributed cooperative control under packet dropouts must absorb missing neighbor data without destabilizing the formation ref [40].",
+    "refNo": 40,
+    "title": "Distributed control gains design for consensus in multi-agent systems with second-order nonlinear dynamics",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "Taken together, these works suggest that communication-aware MAV swarm algorithms should be evaluated not only by nominal convergence, but by their tolerance to irregular broadcasts, delayed containment information, lossy links, and observer mismatch under directed interaction graphs ref [82], ref [13], ref [40], ref [44].",
+    "refNo": 82,
+    "title": "Distributed observer design for bounded tracking control of leader-follower multi-agent systems in a sampled-data setting",
+    "marker_text": "[82]"
+  },
+  {
+    "sentence": "Taken together, these works suggest that communication-aware MAV swarm algorithms should be evaluated not only by nominal convergence, but by their tolerance to irregular broadcasts, delayed containment information, lossy links, and observer mismatch under directed interaction graphs ref [82], ref [13], ref [40], ref [44].",
+    "refNo": 13,
+    "title": "Design and Realization of Distributed Adaptive Formation Control Law for Multi-Agent Systems With Moving Leader",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Taken together, these works suggest that communication-aware MAV swarm algorithms should be evaluated not only by nominal convergence, but by their tolerance to irregular broadcasts, delayed containment information, lossy links, and observer mismatch under directed interaction graphs ref [82], ref [13], ref [40], ref [44].",
+    "refNo": 40,
+    "title": "Distributed control gains design for consensus in multi-agent systems with second-order nonlinear dynamics",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "Taken together, these works suggest that communication-aware MAV swarm algorithms should be evaluated not only by nominal convergence, but by their tolerance to irregular broadcasts, delayed containment information, lossy links, and observer mismatch under directed interaction graphs ref [82], ref [13], ref [40], ref [44].",
+    "refNo": 44,
+    "title": "Consensus-based distributed cooperative learning control for a group of discrete-time nonlinear multi-agent systems using neural networks",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "Sampled-data consensus results show that stability can still be preserved under missing control inputs, provided the update law explicitly accounts for the resulting hold behavior and inter-sample evolution ref [20].",
+    "refNo": 20,
+    "title": "Distributed containment control of linear multi-agent systems",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Likewise, event-triggered consensus and containment schemes for heterogeneous or discrete-time multi-agent systems reduce unnecessary transmissions, but they make convergence dependent on trigger design, topology persistence, and robustness to asynchronous executions ref [27], ref [34].",
+    "refNo": 27,
+    "title": "Distributed Containment Control of Multi-Agent Systems with Velocity and Acceleration Saturations",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "Likewise, event-triggered consensus and containment schemes for heterogeneous or discrete-time multi-agent systems reduce unnecessary transmissions, but they make convergence dependent on trigger design, topology persistence, and robustness to asynchronous executions ref [27], ref [34].",
+    "refNo": 34,
+    "title": "Distributed Containment Control of Multi-agent Systems with General Linear Dynamics and Time-delays",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "In flocking, self-triggered distributed MPC trades communication frequency against prediction horizon and constraint satisfaction, illustrating how sparse updates can retain coherent collective motion at the cost of more conservative designs ref [18].",
+    "refNo": 18,
+    "title": "Distributed Time-Varying Formation Tracking Analysis and Design for Second-Order Multi-Agent Systems",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Hybrid MPC for containment and distributed sensing further shows that sensing objectives and communication decisions cannot be separated cleanly: limited information flow directly shapes feasible leader-follower geometry and coverage performance ref [16].",
+    "refNo": 16,
+    "title": "Cooperative Output Regulation of Linear Multi-Agent Systems by a Novel Distributed Dynamic Compensator",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "More generally, intermittent communication in nonlinear second-order containment problems confirms that practical guarantees often weaken from continuous-tracking notions to boundedness or ultimate convergence under explicit communication assumptions ref [40].",
+    "refNo": 40,
+    "title": "Distributed control gains design for consensus in multi-agent systems with second-order nonlinear dynamics",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "Studies of differently coupled collective systems emphasize that the admissible swarm behaviors depend on what information can be sensed, exchanged, and acted upon locally ref [36].",
+    "refNo": 36,
+    "title": "Observer‐based formation tracking control for leader–follower multi‐agent systems",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "Related evidence from modular robotic collectives shows that communication capacity can fundamentally alter achievable group motion patterns, a lesson that transfers directly to MAV swarms operating under bandwidth-limited radios ref [54].",
+    "refNo": 54,
+    "title": "Distributed event-triggered control for consensus of multi-agent systems",
+    "marker_text": "[54]"
+  },
+  {
+    "sentence": "Consequently, scalable aerial swarms increasingly require co-design of triggers, prediction, topology management, and task objectives, rather than treating communication as a transparent substrate ref [16], ref [27], ref [40].",
+    "refNo": 16,
+    "title": "Cooperative Output Regulation of Linear Multi-Agent Systems by a Novel Distributed Dynamic Compensator",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Consequently, scalable aerial swarms increasingly require co-design of triggers, prediction, topology management, and task objectives, rather than treating communication as a transparent substrate ref [16], ref [27], ref [40].",
+    "refNo": 27,
+    "title": "Distributed Containment Control of Multi-Agent Systems with Velocity and Acceleration Saturations",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "Consequently, scalable aerial swarms increasingly require co-design of triggers, prediction, topology management, and task objectives, rather than treating communication as a transparent substrate ref [16], ref [27], ref [40].",
+    "refNo": 40,
+    "title": "Distributed control gains design for consensus in multi-agent systems with second-order nonlinear dynamics",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "Constrained optimal consensus formulations account for admissible operating regions during coordination ref [24], while bounded distributed controllers have been used to preserve connectivity without demanding unachievable control effort ref [29].",
+    "refNo": 24,
+    "title": "Distributed event-triggered control strategies for multi-agent formation stabilization and tracking",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Constrained optimal consensus formulations account for admissible operating regions during coordination ref [24], while bounded distributed controllers have been used to preserve connectivity without demanding unachievable control effort ref [29].",
+    "refNo": 29,
+    "title": "Distributed model reference adaptive containment control of heterogeneous uncertain multi-agent systems.",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "For nonlinear agents, adaptive consensus-tracking schemes with explicit state constraints further show how safety envelopes can be enforced during transient evolution ref [42].",
+    "refNo": 42,
+    "title": "Distributed learning consensus for heterogenous high-order nonlinear multi-agent systems with output constraints",
+    "marker_text": "[42]"
+  },
+  {
+    "sentence": "In discrete-time settings, velocity-constrained consensus has also been studied under nonconvex constraints, delays, and switching topologies, highlighting the relevance of kinematic bounds to realistic networked flight ref [49].",
+    "refNo": 49,
+    "title": "Distributed model predictive control for consensus of nonlinear second‐order multi‐agent systems",
+    "marker_text": "[49]"
+  },
+  {
+    "sentence": "Distributed MPC is particularly attractive because collision avoidance, obstacle avoidance, and formation objectives can be handled in one receding-horizon optimization with explicit constraints ref [30].",
+    "refNo": 30,
+    "title": "Command-filter-based distributed containment control of nonlinear multi-agent systems with actuator failures",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "This motivates consensus and coordination laws that are saturation-aware by design, including fully distributed semiglobal consensus under input saturation ref [32] and event-triggered global consensus schemes that explicitly account for saturation effects ref [56].",
+    "refNo": 32,
+    "title": "A hybrid model predictive control scheme for containment and distributed sensing in multi-agent systems",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "This motivates consensus and coordination laws that are saturation-aware by design, including fully distributed semiglobal consensus under input saturation ref [32] and event-triggered global consensus schemes that explicitly account for saturation effects ref [56].",
+    "refNo": 56,
+    "title": "Adaptive event-triggered distributed model predictive control for multi-agent systems",
+    "marker_text": "[56]"
+  },
+  {
+    "sentence": "Distributed adaptive fault-tolerant control addresses this by maintaining coordinated behavior despite uncertain dynamics and failures ref [47].",
+    "refNo": 47,
+    "title": "Distributed dynamic event-triggered control for multi-agent systems",
+    "marker_text": "[47]"
+  },
+  {
+    "sentence": "Overall, the literature suggests that for MAV swarms, safety cannot be layered on top of nominal coordination; instead, bounded actuation, constrained motion, collision avoidance, and fault tolerance must be co-designed at the distributed control level ref [24], ref [30], ref [42], ref [47].",
+    "refNo": 24,
+    "title": "Distributed event-triggered control strategies for multi-agent formation stabilization and tracking",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Overall, the literature suggests that for MAV swarms, safety cannot be layered on top of nominal coordination; instead, bounded actuation, constrained motion, collision avoidance, and fault tolerance must be co-designed at the distributed control level ref [24], ref [30], ref [42], ref [47].",
+    "refNo": 30,
+    "title": "Command-filter-based distributed containment control of nonlinear multi-agent systems with actuator failures",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "Overall, the literature suggests that for MAV swarms, safety cannot be layered on top of nominal coordination; instead, bounded actuation, constrained motion, collision avoidance, and fault tolerance must be co-designed at the distributed control level ref [24], ref [30], ref [42], ref [47].",
+    "refNo": 42,
+    "title": "Distributed learning consensus for heterogenous high-order nonlinear multi-agent systems with output constraints",
+    "marker_text": "[42]"
+  },
+  {
+    "sentence": "Overall, the literature suggests that for MAV swarms, safety cannot be layered on top of nominal coordination; instead, bounded actuation, constrained motion, collision avoidance, and fault tolerance must be co-designed at the distributed control level ref [24], ref [30], ref [42], ref [47].",
+    "refNo": 47,
+    "title": "Distributed dynamic event-triggered control for multi-agent systems",
+    "marker_text": "[47]"
+  },
+  {
+    "sentence": "To address this, constrained distributed control has been explicitly incorporated into consensus design through model predictive control, which handles admissible input sets directly, and through nonlinear command-filtered backstepping methods that compensate for saturation while avoiding repeated differentiation in tracking controllers ref [45], ref [9].",
+    "refNo": 45,
+    "title": "Distributed Adaptive Consensus Disturbance Rejection for Multi-Agent Systems on Directed Graphs",
+    "marker_text": "[45]"
+  },
+  {
+    "sentence": "To address this, constrained distributed control has been explicitly incorporated into consensus design through model predictive control, which handles admissible input sets directly, and through nonlinear command-filtered backstepping methods that compensate for saturation while avoiding repeated differentiation in tracking controllers ref [45], ref [9].",
+    "refNo": 9,
+    "title": "Event-triggered distributed predictive control for asynchronous coordination of multi-agent systems",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Event-triggered disturbance-observer schemes further combine communication efficiency with explicit treatment of bounded inputs, which is especially relevant for battery-limited MAV networks ref [51].",
+    "refNo": 51,
+    "title": "Distributed event-triggered control strategies for multi-agent systems",
+    "marker_text": "[51]"
+  },
+  {
+    "sentence": "Adaptive disturbance-rejection strategies on directed graphs improve robustness against unknown exogenous inputs, while the broader anti-disturbance literature emphasizes distributed estimation and compensation mechanisms suitable for cooperative aerial systems exposed to wind and wake effects ref [18], ref [38].",
+    "refNo": 18,
+    "title": "Distributed Time-Varying Formation Tracking Analysis and Design for Second-Order Multi-Agent Systems",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Adaptive disturbance-rejection strategies on directed graphs improve robustness against unknown exogenous inputs, while the broader anti-disturbance literature emphasizes distributed estimation and compensation mechanisms suitable for cooperative aerial systems exposed to wind and wake effects ref [18], ref [38].",
+    "refNo": 38,
+    "title": "Containment control for second-order nonlinear multi-agent systems with intermittent communications",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "In parallel, fault-tolerant consensus and formation controllers have been developed for actuator degradation and failures, including neural-network-based adaptive schemes for uncertain nonlinear agents and distributed laws that accommodate time-varying actuator faults or outright actuator failures during formation evolution ref [14], ref [37], ref [43].",
+    "refNo": 14,
+    "title": "Connectivity Preservation in Nonholonomic Multi-Agent Systems: A Bounded Distributed Control Strategy",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "In parallel, fault-tolerant consensus and formation controllers have been developed for actuator degradation and failures, including neural-network-based adaptive schemes for uncertain nonlinear agents and distributed laws that accommodate time-varying actuator faults or outright actuator failures during formation evolution ref [14], ref [37], ref [43].",
+    "refNo": 37,
+    "title": "An overview of the consensus problem in the control of multi-agent systems",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "In parallel, fault-tolerant consensus and formation controllers have been developed for actuator degradation and failures, including neural-network-based adaptive schemes for uncertain nonlinear agents and distributed laws that accommodate time-varying actuator faults or outright actuator failures during formation evolution ref [14], ref [37], ref [43].",
+    "refNo": 43,
+    "title": "Distributed event-triggered control of discrete-time heterogeneous multi-agent systems",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "For survey purposes, they can be viewed as a progression from constraint-aware nominal control ref [45], ref [9] to disturbance-resilient cooperation ref [18], ref [38], and finally to fault-tolerant consensus and formation maintenance under degraded actuation ref [14], ref [37], ref [43], ref [51].",
+    "refNo": 45,
+    "title": "Distributed Adaptive Consensus Disturbance Rejection for Multi-Agent Systems on Directed Graphs",
+    "marker_text": "[45]"
+  },
+  {
+    "sentence": "For survey purposes, they can be viewed as a progression from constraint-aware nominal control ref [45], ref [9] to disturbance-resilient cooperation ref [18], ref [38], and finally to fault-tolerant consensus and formation maintenance under degraded actuation ref [14], ref [37], ref [43], ref [51].",
+    "refNo": 9,
+    "title": "Event-triggered distributed predictive control for asynchronous coordination of multi-agent systems",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "For survey purposes, they can be viewed as a progression from constraint-aware nominal control ref [45], ref [9] to disturbance-resilient cooperation ref [18], ref [38], and finally to fault-tolerant consensus and formation maintenance under degraded actuation ref [14], ref [37], ref [43], ref [51].",
+    "refNo": 18,
+    "title": "Distributed Time-Varying Formation Tracking Analysis and Design for Second-Order Multi-Agent Systems",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "For survey purposes, they can be viewed as a progression from constraint-aware nominal control ref [45], ref [9] to disturbance-resilient cooperation ref [18], ref [38], and finally to fault-tolerant consensus and formation maintenance under degraded actuation ref [14], ref [37], ref [43], ref [51].",
+    "refNo": 38,
+    "title": "Containment control for second-order nonlinear multi-agent systems with intermittent communications",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "For survey purposes, they can be viewed as a progression from constraint-aware nominal control ref [45], ref [9] to disturbance-resilient cooperation ref [18], ref [38], and finally to fault-tolerant consensus and formation maintenance under degraded actuation ref [14], ref [37], ref [43], ref [51].",
+    "refNo": 14,
+    "title": "Connectivity Preservation in Nonholonomic Multi-Agent Systems: A Bounded Distributed Control Strategy",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "For survey purposes, they can be viewed as a progression from constraint-aware nominal control ref [45], ref [9] to disturbance-resilient cooperation ref [18], ref [38], and finally to fault-tolerant consensus and formation maintenance under degraded actuation ref [14], ref [37], ref [43], ref [51].",
+    "refNo": 37,
+    "title": "An overview of the consensus problem in the control of multi-agent systems",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "For survey purposes, they can be viewed as a progression from constraint-aware nominal control ref [45], ref [9] to disturbance-resilient cooperation ref [18], ref [38], and finally to fault-tolerant consensus and formation maintenance under degraded actuation ref [14], ref [37], ref [43], ref [51].",
+    "refNo": 43,
+    "title": "Distributed event-triggered control of discrete-time heterogeneous multi-agent systems",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "For survey purposes, they can be viewed as a progression from constraint-aware nominal control ref [45], ref [9] to disturbance-resilient cooperation ref [18], ref [38], and finally to fault-tolerant consensus and formation maintenance under degraded actuation ref [14], ref [37], ref [43], ref [51].",
+    "refNo": 51,
+    "title": "Distributed event-triggered control strategies for multi-agent systems",
+    "marker_text": "[51]"
+  },
+  {
+    "sentence": "This direction is reflected in fault-tolerant time-varying formation control for high-order agents with actuator failures, observer-based adaptive containment under faulty dynamics, and adaptive fault-tolerant control laws for nonlinear multi-agent systems with actuator faults ref [100], ref [101], ref [31].",
+    "refNo": 100,
+    "title": "Distributed zero-sum differential game for multi-agent systems in strict-feedback form with input saturation and output constraint",
+    "marker_text": "[100]"
+  },
+  {
+    "sentence": "This direction is reflected in fault-tolerant time-varying formation control for high-order agents with actuator failures, observer-based adaptive containment under faulty dynamics, and adaptive fault-tolerant control laws for nonlinear multi-agent systems with actuator faults ref [100], ref [101], ref [31].",
+    "refNo": 101,
+    "title": "Global leader-following consensus of nonlinear multi-agent systems with unknown control directions and unknown external disturbances",
+    "marker_text": "[101]"
+  },
+  {
+    "sentence": "This direction is reflected in fault-tolerant time-varying formation control for high-order agents with actuator failures, observer-based adaptive containment under faulty dynamics, and adaptive fault-tolerant control laws for nonlinear multi-agent systems with actuator faults ref [100], ref [101], ref [31].",
+    "refNo": 31,
+    "title": "Distributed containment control for bounded unknown second-order nonlinear multi-agent systems with dynamic leaders",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "Methods that explicitly combine fault handling with constrained control include game-theoretic designs for strict-feedback systems with input saturation and output constraints, prescribed-performance consensus under unknown dead-zone inputs, and guaranteed-cost fault-tolerant control under time-varying actuator faults ref [13], ref [23], ref [38].",
+    "refNo": 13,
+    "title": "Design and Realization of Distributed Adaptive Formation Control Law for Multi-Agent Systems With Moving Leader",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Methods that explicitly combine fault handling with constrained control include game-theoretic designs for strict-feedback systems with input saturation and output constraints, prescribed-performance consensus under unknown dead-zone inputs, and guaranteed-cost fault-tolerant control under time-varying actuator faults ref [13], ref [23], ref [38].",
+    "refNo": 23,
+    "title": "Distributed adaptive time-varying formation for multi-agent systems with general high-order linear time-invariant dynamics",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Methods that explicitly combine fault handling with constrained control include game-theoretic designs for strict-feedback systems with input saturation and output constraints, prescribed-performance consensus under unknown dead-zone inputs, and guaranteed-cost fault-tolerant control under time-varying actuator faults ref [13], ref [23], ref [38].",
+    "refNo": 38,
+    "title": "Containment control for second-order nonlinear multi-agent systems with intermittent communications",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Disturbance-observer-based containment strategies and leader-following consensus methods addressing unknown control directions and external disturbances are especially relevant, since MAV swarms must remain coordinated under wind, modeling mismatch, and propulsion asymmetries ref [28], ref [22].",
+    "refNo": 28,
+    "title": "Event-based broadcasting containment control for multi-agent systems under directed topology",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Disturbance-observer-based containment strategies and leader-following consensus methods addressing unknown control directions and external disturbances are especially relevant, since MAV swarms must remain coordinated under wind, modeling mismatch, and propulsion asymmetries ref [28], ref [22].",
+    "refNo": 22,
+    "title": "Necessary and sufficient conditions for distributed containment control of multi-agent systems without velocity measurement",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Taken together, these studies suggest that resilient MAV swarming requires an integrated treatment of faults, disturbances, and saturation, rather than viewing them as separable design add-ons ref [100], ref [31], ref [38].",
+    "refNo": 100,
+    "title": "Distributed zero-sum differential game for multi-agent systems in strict-feedback form with input saturation and output constraint",
+    "marker_text": "[100]"
+  },
+  {
+    "sentence": "Taken together, these studies suggest that resilient MAV swarming requires an integrated treatment of faults, disturbances, and saturation, rather than viewing them as separable design add-ons ref [100], ref [31], ref [38].",
+    "refNo": 31,
+    "title": "Distributed containment control for bounded unknown second-order nonlinear multi-agent systems with dynamic leaders",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "Taken together, these studies suggest that resilient MAV swarming requires an integrated treatment of faults, disturbances, and saturation, rather than viewing them as separable design add-ons ref [100], ref [31], ref [38].",
+    "refNo": 38,
+    "title": "Containment control for second-order nonlinear multi-agent systems with intermittent communications",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Distributed fault-tolerant flocking and consensus designs therefore combine local adaptation with disturbance rejection so that cohesion is preserved despite unknown dynamics and exogenous perturbations, as shown in biologically inspired flocking control, observer-based leader-following consensus, and adaptive neural compensation schemes for actuator failures and dead zones ref [107], ref [27], ref [56].",
+    "refNo": 107,
+    "title": "Fault-tolerant Consensus of Leader-following Multi-agent Systems Based on Distributed Fault Estimation Observer",
+    "marker_text": "[107]"
+  },
+  {
+    "sentence": "Distributed fault-tolerant flocking and consensus designs therefore combine local adaptation with disturbance rejection so that cohesion is preserved despite unknown dynamics and exogenous perturbations, as shown in biologically inspired flocking control, observer-based leader-following consensus, and adaptive neural compensation schemes for actuator failures and dead zones ref [107], ref [27], ref [56].",
+    "refNo": 27,
+    "title": "Distributed Containment Control of Multi-Agent Systems with Velocity and Acceleration Saturations",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "Distributed fault-tolerant flocking and consensus designs therefore combine local adaptation with disturbance rejection so that cohesion is preserved despite unknown dynamics and exogenous perturbations, as shown in biologically inspired flocking control, observer-based leader-following consensus, and adaptive neural compensation schemes for actuator failures and dead zones ref [107], ref [27], ref [56].",
+    "refNo": 56,
+    "title": "Adaptive event-triggered distributed model predictive control for multi-agent systems",
+    "marker_text": "[56]"
+  },
+  {
+    "sentence": "Containment controllers have been developed for velocity and acceleration saturations, showing that safe collective motion must respect bounded translational capability rather than relying on idealized inputs ref [12].",
+    "refNo": 12,
+    "title": "Adaptive output containment control of heterogeneous multi-agent systems with unknown leaders",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Related command-filter-based containment methods explicitly handle actuator failures while avoiding the complexity explosion of repeated differentiation in nonlinear designs ref [21].",
+    "refNo": 21,
+    "title": "Distributed leader-following consensus of heterogeneous second-order time-varying nonlinear multi-agent systems under directed switching topology",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "For constrained nonlinear agents, distributed consensus laws have also incorporated unknown control directions and position constraints, which is particularly relevant for MAV teams operating in cluttered airspace where both control authority and admissible states are limited ref [43].",
+    "refNo": 43,
+    "title": "Distributed event-triggered control of discrete-time heterogeneous multi-agent systems",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "Event-triggered schemes for simultaneous fault detection and tracking control reduce communication and computation while still reacting to anomalies before performance degradation becomes unsafe ref [41].",
+    "refNo": 41,
+    "title": "Distributed Consensus Control of Multi-Agent Systems With Higher Order Agent Dynamics and Dynamically Changing Directed Interaction Topologies",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "In parallel, formation control under obstacle avoidance and switching interaction topologies highlights that resilience must be coupled with motion-level safety guarantees, not treated as a purely regulation problem ref [46].",
+    "refNo": 46,
+    "title": "Distributed adaptive output consensus tracking of nonlinear multi-agent systems via state observer and command filtered backstepping",
+    "marker_text": "[46]"
+  },
+  {
+    "sentence": "Collectively, these studies suggest that robust MAV swarming requires integrated architectures in which fault estimation, constrained control, and collision-aware coordination are co-designed rather than layered independently ref [107], ref [12], ref [21], ref [41], ref [46].",
+    "refNo": 107,
+    "title": "Fault-tolerant Consensus of Leader-following Multi-agent Systems Based on Distributed Fault Estimation Observer",
+    "marker_text": "[107]"
+  },
+  {
+    "sentence": "Collectively, these studies suggest that robust MAV swarming requires integrated architectures in which fault estimation, constrained control, and collision-aware coordination are co-designed rather than layered independently ref [107], ref [12], ref [21], ref [41], ref [46].",
+    "refNo": 12,
+    "title": "Adaptive output containment control of heterogeneous multi-agent systems with unknown leaders",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Collectively, these studies suggest that robust MAV swarming requires integrated architectures in which fault estimation, constrained control, and collision-aware coordination are co-designed rather than layered independently ref [107], ref [12], ref [21], ref [41], ref [46].",
+    "refNo": 21,
+    "title": "Distributed leader-following consensus of heterogeneous second-order time-varying nonlinear multi-agent systems under directed switching topology",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Collectively, these studies suggest that robust MAV swarming requires integrated architectures in which fault estimation, constrained control, and collision-aware coordination are co-designed rather than layered independently ref [107], ref [12], ref [21], ref [41], ref [46].",
+    "refNo": 41,
+    "title": "Distributed Consensus Control of Multi-Agent Systems With Higher Order Agent Dynamics and Dynamically Changing Directed Interaction Topologies",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "Collectively, these studies suggest that robust MAV swarming requires integrated architectures in which fault estimation, constrained control, and collision-aware coordination are co-designed rather than layered independently ref [107], ref [12], ref [21], ref [41], ref [46].",
+    "refNo": 46,
+    "title": "Distributed adaptive output consensus tracking of nonlinear multi-agent systems via state observer and command filtered backstepping",
+    "marker_text": "[46]"
+  },
+  {
+    "sentence": "Adaptive leader-following and consensus designs explicitly compensate for uncertain nonlinear dynamics and actuator malfunctions by estimating fault effects online and redistributing control effort across neighbors, thereby preserving formation coherence under local failures ref [14], ref [41].",
+    "refNo": 14,
+    "title": "Connectivity Preservation in Nonholonomic Multi-Agent Systems: A Bounded Distributed Control Strategy",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Adaptive leader-following and consensus designs explicitly compensate for uncertain nonlinear dynamics and actuator malfunctions by estimating fault effects online and redistributing control effort across neighbors, thereby preserving formation coherence under local failures ref [14], ref [41].",
+    "refNo": 41,
+    "title": "Distributed Consensus Control of Multi-Agent Systems With Higher Order Agent Dynamics and Dynamically Changing Directed Interaction Topologies",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "Related reconfigurable synchronization strategies for heterogeneous Euler–Lagrange networks further show how constrained coordination laws can maintain bounded cooperative behavior after component degradation, which is directly relevant to heterogeneous MAV teams with unequal payload, propulsion, or sensing capabilities ref [9].",
+    "refNo": 9,
+    "title": "Event-triggered distributed predictive control for asynchronous coordination of multi-agent systems",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Anti-windup consensus tracking under saturation is important because a damaged MAV often reaches control limits earlier than healthy agents; distributed anti-windup mechanisms reduce instability caused by integrator buildup and improve graceful performance degradation ref [30].",
+    "refNo": 30,
+    "title": "Command-filter-based distributed containment control of nonlinear multi-agent systems with actuator failures",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "Similar robustness goals appear in iterative learning approaches for uncertain nonlinear leader–follower systems with input saturation, where repeated task execution is exploited to recover coordination accuracy despite persistent model mismatch and actuation limits ref [32].",
+    "refNo": 32,
+    "title": "A hybrid model predictive control scheme for containment and distributed sensing in multi-agent systems",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "More general constrained adaptive control frameworks also address simultaneous state, output, and input restrictions, which is essential when emergency maneuvers must remain inside safe flight envelopes ref [17], ref [45].",
+    "refNo": 17,
+    "title": "Distributed adaptive output consensus control of a class of heterogeneous multi-agent systems under switching directed topologies",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "More general constrained adaptive control frameworks also address simultaneous state, output, and input restrictions, which is essential when emergency maneuvers must remain inside safe flight envelopes ref [17], ref [45].",
+    "refNo": 45,
+    "title": "Distributed Adaptive Consensus Disturbance Rejection for Multi-Agent Systems on Directed Graphs",
+    "marker_text": "[45]"
+  },
+  {
+    "sentence": "Recent resilient optimal-control formulations extend this line by using learning-based adaptation to sustain distributed performance under uncertainty and adverse conditions ref [35].",
+    "refNo": 35,
+    "title": "Containment control for high‐order multi-agent systems with heterogeneous time delays",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "Such integration is particularly valuable in cluttered or GPS-denied environments, where disturbances, saturation, and failures may occur simultaneously and where maintaining a conservative but connected collective response is preferable to aggressive nominal performance ref [14], ref [30], ref [35].",
+    "refNo": 14,
+    "title": "Connectivity Preservation in Nonholonomic Multi-Agent Systems: A Bounded Distributed Control Strategy",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Such integration is particularly valuable in cluttered or GPS-denied environments, where disturbances, saturation, and failures may occur simultaneously and where maintaining a conservative but connected collective response is preferable to aggressive nominal performance ref [14], ref [30], ref [35].",
+    "refNo": 30,
+    "title": "Command-filter-based distributed containment control of nonlinear multi-agent systems with actuator failures",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "Such integration is particularly valuable in cluttered or GPS-denied environments, where disturbances, saturation, and failures may occur simultaneously and where maintaining a conservative but connected collective response is preferable to aggressive nominal performance ref [14], ref [30], ref [35].",
+    "refNo": 35,
+    "title": "Containment control for high‐order multi-agent systems with heterogeneous time delays",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "Robust distributed output-regulation formulations provide an important baseline because they explicitly account for plant uncertainty while preserving coordinated tracking objectives across interconnected agents, thereby offering a natural foundation for safety-critical swarm behaviors under imperfect models and disturbed communication channels ref [10].",
+    "refNo": 10,
+    "title": "Distributed Consensus of Multi-Agent Systems With Input Constraints: A Model Predictive Control Approach",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Related robust consensus designs for heterogeneous matching uncertainties further strengthen this perspective by showing that coordination laws can remain stable even when individual agent dynamics differ and are imperfectly known, which is highly relevant to MAV teams with nonuniform payloads, wear, or environmental exposure ref [18].",
+    "refNo": 18,
+    "title": "Distributed Time-Varying Formation Tracking Analysis and Design for Second-Order Multi-Agent Systems",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Distributed adaptive fault-tolerant output-regulation and consensus schemes demonstrate that cooperative objectives can be maintained despite uncertain agent dynamics and local failures, often without centralized diagnosis infrastructure ref [17], ref [47].",
+    "refNo": 17,
+    "title": "Distributed adaptive output consensus control of a class of heterogeneous multi-agent systems under switching directed topologies",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Distributed adaptive fault-tolerant output-regulation and consensus schemes demonstrate that cooperative objectives can be maintained despite uncertain agent dynamics and local failures, often without centralized diagnosis infrastructure ref [17], ref [47].",
+    "refNo": 47,
+    "title": "Distributed dynamic event-triggered control for multi-agent systems",
+    "marker_text": "[47]"
+  },
+  {
+    "sentence": "Complementing reconfiguration-based control, simultaneous fault-detection and consensus design embeds residual generation into the coordination loop, enabling earlier identification and isolation of compromised or malfunctioning units before errors propagate through the swarm network ref [33].",
+    "refNo": 33,
+    "title": "Self‐triggered distributed model predictive control for flocking of multi‐agent systems",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "Secure impulsive synchronization under deception attacks studies how intermittent corrective actions can counter falsified data injections ref [20], while consensus-tracking methods under multiple attack types examine coordinated performance degradation caused by compromised channels or agents ref [23].",
+    "refNo": 20,
+    "title": "Distributed containment control of linear multi-agent systems",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Secure impulsive synchronization under deception attacks studies how intermittent corrective actions can counter falsified data injections ref [20], while consensus-tracking methods under multiple attack types examine coordinated performance degradation caused by compromised channels or agents ref [23].",
+    "refNo": 23,
+    "title": "Distributed adaptive time-varying formation for multi-agent systems with general high-order linear time-invariant dynamics",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Denial-of-service resilience is also central for MAV swarms because jamming and packet suppression can abruptly fragment the information graph; distributed consensus controllers designed for DoS environments therefore offer a useful template for maintaining bounded degradation and recovering coordinated motion once communication resumes ref [26].",
+    "refNo": 26,
+    "title": "Asynchronous containment control for discrete-time second-order multi-agent systems with time-varying delays",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "In this context, denial-of-service (DoS) attacks are especially damaging because they intermittently break the information flow required for coordination; distributed secure average-consensus schemes explicitly address this threat by preserving convergence despite attack-induced packet losses and communication blackout intervals ref [25].",
+    "refNo": 25,
+    "title": "Containment control of singular heterogeneous multi-agent systems",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Complementary observer-based secure consensus formulations treat random attacks as exogenous disturbances or switching anomalies, using distributed state estimation to recover admissible coordination signals and maintain closed-loop stability ref [44].",
+    "refNo": 44,
+    "title": "Consensus-based distributed cooperative learning control for a group of discrete-time nonlinear multi-agent systems using neural networks",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "For discrete-time networked swarms, attack analysis has further clarified how deception, data corruption, or compromised agents can destabilize nominal update laws, motivating resilient controller redesign at the protocol level ref [35].",
+    "refNo": 35,
+    "title": "Containment control for high‐order multi-agent systems with heterogeneous time delays",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "Adaptive fault-tolerant consensus-tracking methods compensate for time-varying actuator faults through online parameter adjustment, allowing agents to preserve cooperative objectives without centralized diagnosis ref [43].",
+    "refNo": 43,
+    "title": "Distributed event-triggered control of discrete-time heterogeneous multi-agent systems",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "Related neural-network-based adaptive designs extend this idea to uncertain nonlinear dynamics and unmodeled fault effects, improving tracking robustness when failure signatures are difficult to parametrize a priori ref [14].",
+    "refNo": 14,
+    "title": "Connectivity Preservation in Nonholonomic Multi-Agent Systems: A Bounded Distributed Control Strategy",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "At the formation layer, distributed fault-tolerant time-varying formation control has shown that second-order agents with directed interactions can sustain prescribed geometric patterns even under actuator failures, which is directly relevant to practical MAV team reconfiguration ref [37].",
+    "refNo": 37,
+    "title": "An overview of the consensus problem in the control of multi-agent systems",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "Distributed reliable H∞ consensus under switching networks provides a useful framework for bounding the impact of exogenous perturbations and topology changes, offering performance guarantees that are attractive for contested or degraded aerial communication environments ref [11].",
+    "refNo": 11,
+    "title": "Distributed Cooperative Control for Multi-Agent Systems",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "More generally, anti-disturbance cooperative control highlights how disturbance observers, rejection mechanisms, and compensation loops can be integrated with distributed protocols to enhance swarm resilience against both environmental uncertainty and adversarial manipulation ref [38].",
+    "refNo": 38,
+    "title": "Containment control for second-order nonlinear multi-agent systems with intermittent communications",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Taken together, these studies suggest that secure MAV swarming is best approached as a joint problem of attack tolerance, fault accommodation, and disturbance rejection rather than as a purely cryptographic or networking issue ref [25], ref [35], ref [44].",
+    "refNo": 25,
+    "title": "Containment control of singular heterogeneous multi-agent systems",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Taken together, these studies suggest that secure MAV swarming is best approached as a joint problem of attack tolerance, fault accommodation, and disturbance rejection rather than as a purely cryptographic or networking issue ref [25], ref [35], ref [44].",
+    "refNo": 35,
+    "title": "Containment control for high‐order multi-agent systems with heterogeneous time delays",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "Taken together, these studies suggest that secure MAV swarming is best approached as a joint problem of attack tolerance, fault accommodation, and disturbance rejection rather than as a purely cryptographic or networking issue ref [25], ref [35], ref [44].",
+    "refNo": 44,
+    "title": "Consensus-based distributed cooperative learning control for a group of discrete-time nonlinear multi-agent systems using neural networks",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "Resilient synchronization under attacks has been studied explicitly in distributed multi-agent settings, showing how attack-aware protocols can preserve collective timing and state alignment rather than merely detecting anomalies ref [129].",
+    "refNo": 129,
+    "title": "Resilient synchronization of distributed multi-agent systems under attacks",
+    "marker_text": "[129]"
+  },
+  {
+    "sentence": "Complementarily, resilient consensus designs for nonlinear agents account for switching topologies and randomly varying communication delays, which is particularly relevant to aerial swarms operating over intermittently connected wireless channels ref [15].",
+    "refNo": 15,
+    "title": "Distributed cooperative anti-disturbance control of multi-agent systems: an overview",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "In discrete-time settings, H∞ consensus formulations further address network imperfections and exogenous disturbances, providing a disturbance-attenuation perspective that is directly applicable to adversarial perturbations and packet-level uncertainty ref [34].",
+    "refNo": 34,
+    "title": "Distributed Containment Control of Multi-agent Systems with General Linear Dynamics and Time-delays",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "Time-varying formation control with actuator failures has been developed for high-order linear multi-agent systems, enabling geometry preservation despite local loss of effectiveness ref [131].",
+    "refNo": 131,
+    "title": "Observer-based distributed adaptive fault-tolerant containment control of multi-agent systems with general linear dynamics.",
+    "marker_text": "[131]"
+  },
+  {
+    "sentence": "Related adaptive fault-tolerant schemes for nonlinear agents explicitly compensate actuator faults through distributed adaptation ref [31], while guaranteed-cost formulations quantify the performance penalty incurred under time-varying actuator faults ref [38].",
+    "refNo": 31,
+    "title": "Distributed containment control for bounded unknown second-order nonlinear multi-agent systems with dynamic leaders",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "Related adaptive fault-tolerant schemes for nonlinear agents explicitly compensate actuator faults through distributed adaptation ref [31], while guaranteed-cost formulations quantify the performance penalty incurred under time-varying actuator faults ref [38].",
+    "refNo": 38,
+    "title": "Containment control for second-order nonlinear multi-agent systems with intermittent communications",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Observer-based distributed adaptive fault-tolerant containment control addresses general linear dynamics when direct state information is incomplete ref [132], whereas robust H∞ containment formulations extend this idea to uncertain nonlinear agents and disturbance-rich environments ref [56].",
+    "refNo": 132,
+    "title": "Resilient control design for consensus of nonlinear multi-agent systems with switching topology and randomly varying communication delays",
+    "marker_text": "[132]"
+  },
+  {
+    "sentence": "Observer-based distributed adaptive fault-tolerant containment control addresses general linear dynamics when direct state information is incomplete ref [132], whereas robust H∞ containment formulations extend this idea to uncertain nonlinear agents and disturbance-rich environments ref [56].",
+    "refNo": 56,
+    "title": "Adaptive event-triggered distributed model predictive control for multi-agent systems",
+    "marker_text": "[56]"
+  },
+  {
+    "sentence": "Taken together, these works suggest that adversarial robustness in MAV swarms is best viewed as a layered property combining attack-resilient synchronization, fault-tolerant formation maintenance, and robust containment under uncertainty, rather than as an isolated cybersecurity add-on ref [129], ref [131], ref [132], ref [15], ref [31], ref [34], ref [38], ref [56].",
+    "refNo": 129,
+    "title": "Resilient synchronization of distributed multi-agent systems under attacks",
+    "marker_text": "[129]"
+  },
+  {
+    "sentence": "Taken together, these works suggest that adversarial robustness in MAV swarms is best viewed as a layered property combining attack-resilient synchronization, fault-tolerant formation maintenance, and robust containment under uncertainty, rather than as an isolated cybersecurity add-on ref [129], ref [131], ref [132], ref [15], ref [31], ref [34], ref [38], ref [56].",
+    "refNo": 131,
+    "title": "Observer-based distributed adaptive fault-tolerant containment control of multi-agent systems with general linear dynamics.",
+    "marker_text": "[131]"
+  },
+  {
+    "sentence": "Taken together, these works suggest that adversarial robustness in MAV swarms is best viewed as a layered property combining attack-resilient synchronization, fault-tolerant formation maintenance, and robust containment under uncertainty, rather than as an isolated cybersecurity add-on ref [129], ref [131], ref [132], ref [15], ref [31], ref [34], ref [38], ref [56].",
+    "refNo": 132,
+    "title": "Resilient control design for consensus of nonlinear multi-agent systems with switching topology and randomly varying communication delays",
+    "marker_text": "[132]"
+  },
+  {
+    "sentence": "Taken together, these works suggest that adversarial robustness in MAV swarms is best viewed as a layered property combining attack-resilient synchronization, fault-tolerant formation maintenance, and robust containment under uncertainty, rather than as an isolated cybersecurity add-on ref [129], ref [131], ref [132], ref [15], ref [31], ref [34], ref [38], ref [56].",
+    "refNo": 15,
+    "title": "Distributed cooperative anti-disturbance control of multi-agent systems: an overview",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Taken together, these works suggest that adversarial robustness in MAV swarms is best viewed as a layered property combining attack-resilient synchronization, fault-tolerant formation maintenance, and robust containment under uncertainty, rather than as an isolated cybersecurity add-on ref [129], ref [131], ref [132], ref [15], ref [31], ref [34], ref [38], ref [56].",
+    "refNo": 31,
+    "title": "Distributed containment control for bounded unknown second-order nonlinear multi-agent systems with dynamic leaders",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "Taken together, these works suggest that adversarial robustness in MAV swarms is best viewed as a layered property combining attack-resilient synchronization, fault-tolerant formation maintenance, and robust containment under uncertainty, rather than as an isolated cybersecurity add-on ref [129], ref [131], ref [132], ref [15], ref [31], ref [34], ref [38], ref [56].",
+    "refNo": 34,
+    "title": "Distributed Containment Control of Multi-agent Systems with General Linear Dynamics and Time-delays",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "Taken together, these works suggest that adversarial robustness in MAV swarms is best viewed as a layered property combining attack-resilient synchronization, fault-tolerant formation maintenance, and robust containment under uncertainty, rather than as an isolated cybersecurity add-on ref [129], ref [131], ref [132], ref [15], ref [31], ref [34], ref [38], ref [56].",
+    "refNo": 38,
+    "title": "Containment control for second-order nonlinear multi-agent systems with intermittent communications",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Taken together, these works suggest that adversarial robustness in MAV swarms is best viewed as a layered property combining attack-resilient synchronization, fault-tolerant formation maintenance, and robust containment under uncertainty, rather than as an isolated cybersecurity add-on ref [129], ref [131], ref [132], ref [15], ref [31], ref [34], ref [38], ref [56].",
+    "refNo": 56,
+    "title": "Adaptive event-triggered distributed model predictive control for multi-agent systems",
+    "marker_text": "[56]"
+  },
+  {
+    "sentence": "Distributed fault-estimation observers enable leader-following consensus despite actuator faults by reconstructing fault signals online and compensating them locally, improving recoverability without centralized supervision ref [27].",
+    "refNo": 27,
+    "title": "Distributed Containment Control of Multi-Agent Systems with Velocity and Acceleration Saturations",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "Related containment strategies for nonlinear agents with actuator failures use command filters to avoid excessive differentiation while preserving bounded distributed implementation, which is attractive for resource-limited aerial platforms ref [21].",
+    "refNo": 21,
+    "title": "Distributed leader-following consensus of heterogeneous second-order time-varying nonlinear multi-agent systems under directed switching topology",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Distributed output-regulation formulations provide a principled way to maintain cooperative objectives in the presence of exogenous disturbances and model mismatch ref [9], while distributed H∞ consensus under switching topologies strengthens attenuation guarantees when inter-MAV links vary over time ref [31].",
+    "refNo": 9,
+    "title": "Event-triggered distributed predictive control for asynchronous coordination of multi-agent systems",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Distributed output-regulation formulations provide a principled way to maintain cooperative objectives in the presence of exogenous disturbances and model mismatch ref [9], while distributed H∞ consensus under switching topologies strengthens attenuation guarantees when inter-MAV links vary over time ref [31].",
+    "refNo": 31,
+    "title": "Distributed containment control for bounded unknown second-order nonlinear multi-agent systems with dynamic leaders",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "For stronger nonlinear uncertainty, adaptive neural approaches compensate unknown actuator failures and dead zones ref [56], and biologically inspired flocking laws incorporate fault tolerance and disturbance rejection directly into distributed motion coordination ref [30].",
+    "refNo": 56,
+    "title": "Adaptive event-triggered distributed model predictive control for multi-agent systems",
+    "marker_text": "[56]"
+  },
+  {
+    "sentence": "For stronger nonlinear uncertainty, adaptive neural approaches compensate unknown actuator failures and dead zones ref [56], and biologically inspired flocking laws incorporate fault tolerance and disturbance rejection directly into distributed motion coordination ref [30].",
+    "refNo": 30,
+    "title": "Command-filter-based distributed containment control of nonlinear multi-agent systems with actuator failures",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "Event-triggered schemes that jointly perform fault detection and tracking control reduce update burden while still isolating abnormal behavior in multi-agent networks ref [41].",
+    "refNo": 41,
+    "title": "Distributed Consensus Control of Multi-Agent Systems With Higher Order Agent Dynamics and Dynamically Changing Directed Interaction Topologies",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "At the attack-aware end of the spectrum, non-fragile output-feedback consensus under uniform quantization and deception attacks explicitly addresses compromised information channels, showing how robustness margins can be preserved despite quantized measurements and falsified data streams ref [136].",
+    "refNo": 136,
+    "title": "Robust cooperative control for multi-agent systems via distributed output regulation",
+    "marker_text": "[136]"
+  },
+  {
+    "sentence": "Finite-horizon H∞ consensus formulations explicitly address stochastic parameter variations and disturbance rejection over mission-relevant time windows, which is valuable for short-duration but safety-critical swarm maneuvers such as ingress, tracking, or coordinated avoidance under uncertainty ref [21].",
+    "refNo": 21,
+    "title": "Distributed leader-following consensus of heterogeneous second-order time-varying nonlinear multi-agent systems under directed switching topology",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "In leader-following settings, adaptive fault-tolerant formation control compensates for nonlinear uncertainty while maintaining cohesion around a designated trajectory ref [14].",
+    "refNo": 14,
+    "title": "Connectivity Preservation in Nonholonomic Multi-Agent Systems: A Bounded Distributed Control Strategy",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Related fault-tolerant consensus designs for fuzzy multi-agent models are important when MAV dynamics or attack effects are represented through rule-based approximations, since they offer a structured way to bound uncertainty and sustain agreement despite component-level failures ref [41].",
+    "refNo": 41,
+    "title": "Distributed Consensus Control of Multi-Agent Systems With Higher Order Agent Dynamics and Dynamically Changing Directed Interaction Topologies",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "More recent resilient adaptive optimal control methods incorporate reinforcement learning to recover near-optimal coordination policies online in the presence of adverse conditions ref [35].",
+    "refNo": 35,
+    "title": "Containment control for high‐order multi-agent systems with heterogeneous time delays",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "However, these methods also highlight an open challenge for aerial swarms: balancing learning-based adaptation with certifiable stability, fast fault isolation, and the stringent computation and communication limits of embedded flight hardware ref [14], ref [21], ref [35], ref [41].",
+    "refNo": 14,
+    "title": "Connectivity Preservation in Nonholonomic Multi-Agent Systems: A Bounded Distributed Control Strategy",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "However, these methods also highlight an open challenge for aerial swarms: balancing learning-based adaptation with certifiable stability, fast fault isolation, and the stringent computation and communication limits of embedded flight hardware ref [14], ref [21], ref [35], ref [41].",
+    "refNo": 21,
+    "title": "Distributed leader-following consensus of heterogeneous second-order time-varying nonlinear multi-agent systems under directed switching topology",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "However, these methods also highlight an open challenge for aerial swarms: balancing learning-based adaptation with certifiable stability, fast fault isolation, and the stringent computation and communication limits of embedded flight hardware ref [14], ref [21], ref [35], ref [41].",
+    "refNo": 35,
+    "title": "Containment control for high‐order multi-agent systems with heterogeneous time delays",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "However, these methods also highlight an open challenge for aerial swarms: balancing learning-based adaptation with certifiable stability, fast fault isolation, and the stringent computation and communication limits of embedded flight hardware ref [14], ref [21], ref [35], ref [41].",
+    "refNo": 41,
+    "title": "Distributed Consensus Control of Multi-Agent Systems With Higher Order Agent Dynamics and Dynamically Changing Directed Interaction Topologies",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "In this context, distributed model predictive formulations are especially relevant because they explicitly encode collision and obstacle avoidance together with formation objectives, making them well aligned with inspection, search, and cooperative transport scenarios in constrained spaces ref [30].",
+    "refNo": 30,
+    "title": "Command-filter-based distributed containment control of nonlinear multi-agent systems with actuator failures",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "Closely related optimal formation methods under switching interaction graphs further illustrate how application requirements translate into coupled motion-planning and control constraints rather than pure consensus objectives ref [130].",
+    "refNo": 130,
+    "title": "Distributed fault-tolerant time-varying formation control for high-order linear multi-agent systems with actuator failures.",
+    "marker_text": "[130]"
+  },
+  {
+    "sentence": "For aerial collectives, temporary link loss can quickly degrade localization, coordination, and task allocation; thus bounded distributed controllers that maintain graph connectivity are directly relevant to field operations such as exploration and perimeter monitoring ref [29].",
+    "refNo": 29,
+    "title": "Distributed model reference adaptive containment control of heterogeneous uncertain multi-agent systems.",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "The same concern appears in communication-aware motion planning frameworks, where task specifications must be satisfied jointly with network maintenance constraints ref [72], and in quadcopter-oriented leader-follower coordination studies that account for packet dropouts during cooperative flight ref [89].",
+    "refNo": 72,
+    "title": "Cooperative global robust output regulation for a class of nonlinear multi-agent systems by distributed event-triggered control",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "The same concern appears in communication-aware motion planning frameworks, where task specifications must be satisfied jointly with network maintenance constraints ref [72], and in quadcopter-oriented leader-follower coordination studies that account for packet dropouts during cooperative flight ref [89].",
+    "refNo": 89,
+    "title": "Fully Distributed Event-Triggered Semiglobal Consensus of Multi-agent Systems With Input Saturation",
+    "marker_text": "[89]"
+  },
+  {
+    "sentence": "Distributed learning and cooperative control provide a pathway for MAV swarms to improve coordination policies online under environmental uncertainty ref [25], while consensus-based cooperative learning with neural approximators suggests how data-driven adaptation can be embedded in decentralized architectures ref [56].",
+    "refNo": 25,
+    "title": "Containment control of singular heterogeneous multi-agent systems",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Distributed learning and cooperative control provide a pathway for MAV swarms to improve coordination policies online under environmental uncertainty ref [25], while consensus-based cooperative learning with neural approximators suggests how data-driven adaptation can be embedded in decentralized architectures ref [56].",
+    "refNo": 56,
+    "title": "Adaptive event-triggered distributed model predictive control for multi-agent systems",
+    "marker_text": "[56]"
+  },
+  {
+    "sentence": "Learning-based consensus for heterogeneous nonlinear agents with constraints further indicates the potential for transferring such ideas to more diverse aerial teams ref [103].",
+    "refNo": 103,
+    "title": "Containment control of multi-agent systems via a disturbance observer-based approach",
+    "marker_text": "[103]"
+  },
+  {
+    "sentence": "A key future direction is therefore communication-control-learning co-design, where safety, connectivity, and task performance are optimized simultaneously rather than handled in separate layers ref [30], ref [29], ref [25].",
+    "refNo": 30,
+    "title": "Command-filter-based distributed containment control of nonlinear multi-agent systems with actuator failures",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "A key future direction is therefore communication-control-learning co-design, where safety, connectivity, and task performance are optimized simultaneously rather than handled in separate layers ref [30], ref [29], ref [25].",
+    "refNo": 29,
+    "title": "Distributed model reference adaptive containment control of heterogeneous uncertain multi-agent systems.",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "A key future direction is therefore communication-control-learning co-design, where safety, connectivity, and task performance are optimized simultaneously rather than handled in separate layers ref [30], ref [29], ref [25].",
+    "refNo": 25,
+    "title": "Containment control of singular heterogeneous multi-agent systems",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "In this context, general distributed coordination frameworks provide the algorithmic basis for consensus, leader–follower regulation, and cooperative task execution, and remain central to translating multi-agent theory into deployable aerial teams ref [10], ref [92].",
+    "refNo": 10,
+    "title": "Distributed Consensus of Multi-Agent Systems With Input Constraints: A Model Predictive Control Approach",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "In this context, general distributed coordination frameworks provide the algorithmic basis for consensus, leader–follower regulation, and cooperative task execution, and remain central to translating multi-agent theory into deployable aerial teams ref [10], ref [92].",
+    "refNo": 92,
+    "title": "Distributed event-triggered control for global consensus of multi-agent systems with input saturation",
+    "marker_text": "[92]"
+  },
+  {
+    "sentence": "For formation-oriented missions, adaptive leader-guided designs are especially relevant because they capture the practical need to track moving targets or dynamically updated waypoints while preserving inter-vehicle coordination ref [27].",
+    "refNo": 27,
+    "title": "Distributed Containment Control of Multi-Agent Systems with Velocity and Acceleration Saturations",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "Connectivity-preserving control is therefore essential for MAV teams operating in cluttered or GPS-denied spaces, where loss of neighbor links can rapidly degrade localization, consensus, and collision avoidance performance ref [34].",
+    "refNo": 34,
+    "title": "Distributed Containment Control of Multi-agent Systems with General Linear Dynamics and Time-delays",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "Likewise, disturbance rejection remains a practical requirement for flight in wind, downwash, and modeling uncertainty, motivating distributed anti-disturbance methods that improve collective robustness under environmental perturbations ref [38].",
+    "refNo": 38,
+    "title": "Containment control for second-order nonlinear multi-agent systems with intermittent communications",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Security is becoming particularly important as MAV collectives are exposed to packet manipulation, spoofing, and denial scenarios; resilient and observer-based secure consensus designs provide a foundation for maintaining coordinated behavior under such attacks ref [35], ref [44].",
+    "refNo": 35,
+    "title": "Containment control for high‐order multi-agent systems with heterogeneous time delays",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "Security is becoming particularly important as MAV collectives are exposed to packet manipulation, spoofing, and denial scenarios; resilient and observer-based secure consensus designs provide a foundation for maintaining coordinated behavior under such attacks ref [35], ref [44].",
+    "refNo": 44,
+    "title": "Consensus-based distributed cooperative learning control for a group of discrete-time nonlinear multi-agent systems using neural networks",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "At the same time, distributed learning methods demonstrated in neighboring cyber-physical domains, such as multi-agent Q-learning for traffic coordination, suggest a path toward adaptive aerial swarm resource allocation and airspace management policies ref [22].",
+    "refNo": 22,
+    "title": "Necessary and sufficient conditions for distributed containment control of multi-agent systems without velocity measurement",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "A key open problem is to unify learning, resilience, and connectivity maintenance within experimentally validated MAV platforms rather than treating them as separate control layers ref [22], ref [34], ref [35].",
+    "refNo": 22,
+    "title": "Necessary and sufficient conditions for distributed containment control of multi-agent systems without velocity measurement",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "A key open problem is to unify learning, resilience, and connectivity maintenance within experimentally validated MAV platforms rather than treating them as separate control layers ref [22], ref [34], ref [35].",
+    "refNo": 34,
+    "title": "Distributed Containment Control of Multi-agent Systems with General Linear Dynamics and Time-delays",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "A key open problem is to unify learning, resilience, and connectivity maintenance within experimentally validated MAV platforms rather than treating them as separate control layers ref [22], ref [34], ref [35].",
+    "refNo": 35,
+    "title": "Containment control for high‐order multi-agent systems with heterogeneous time delays",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "Communication-aware planning under temporal and spatial logic specifications provides one promising route, enabling teams to satisfy mission constraints while explicitly accounting for information exchange requirements ref [24].",
+    "refNo": 24,
+    "title": "Distributed event-triggered control strategies for multi-agent formation stabilization and tracking",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Related distributed model predictive control formulations further show how consensus and coordinated motion can be maintained for nonlinear second-order agents under dynamic coupling and constraints, which is highly relevant to quadrotor swarm operation ref [32].",
+    "refNo": 32,
+    "title": "A hybrid model predictive control scheme for containment and distributed sensing in multi-agent systems",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "General event-triggered control strategies establish this principle at the network level ref [45], while self-triggered methods reduce continuous monitoring requirements and are attractive for embedded aerial platforms with strict energy budgets ref [49].",
+    "refNo": 45,
+    "title": "Distributed Adaptive Consensus Disturbance Rejection for Multi-Agent Systems on Directed Graphs",
+    "marker_text": "[45]"
+  },
+  {
+    "sentence": "General event-triggered control strategies establish this principle at the network level ref [45], while self-triggered methods reduce continuous monitoring requirements and are attractive for embedded aerial platforms with strict energy budgets ref [49].",
+    "refNo": 49,
+    "title": "Distributed model predictive control for consensus of nonlinear second‐order multi‐agent systems",
+    "marker_text": "[49]"
+  },
+  {
+    "sentence": "More specialized event-triggered formation stabilization and tracking results also suggest practical mechanisms for maintaining geometric patterns in cooperative flight with fewer transmissions ref [52].",
+    "refNo": 52,
+    "title": "Distributed event‐triggered feedback consensus control with state‐dependent threshold for general linear multi‐agent systems",
+    "marker_text": "[52]"
+  },
+  {
+    "sentence": "Distributed optimal control with obstacle avoidance is therefore directly relevant to safe deployment in cluttered spaces ref [51].",
+    "refNo": 51,
+    "title": "Distributed event-triggered control strategies for multi-agent systems",
+    "marker_text": "[51]"
+  },
+  {
+    "sentence": "More broadly, swarm-intelligence perspectives continue to motivate decentralized adaptation and robustness at scale ref [49], while cross-domain multi-agent applications such as distributed microgrid management highlight useful design principles for large heterogeneous networks, including resilience, locality, and hierarchical coordination that future autonomous aerial collectives may increasingly adopt ref [47].",
+    "refNo": 49,
+    "title": "Distributed model predictive control for consensus of nonlinear second‐order multi‐agent systems",
+    "marker_text": "[49]"
+  },
+  {
+    "sentence": "More broadly, swarm-intelligence perspectives continue to motivate decentralized adaptation and robustness at scale ref [49], while cross-domain multi-agent applications such as distributed microgrid management highlight useful design principles for large heterogeneous networks, including resilience, locality, and hierarchical coordination that future autonomous aerial collectives may increasingly adopt ref [47].",
+    "refNo": 47,
+    "title": "Distributed dynamic event-triggered control for multi-agent systems",
+    "marker_text": "[47]"
+  },
+  {
+    "sentence": "This is evident in leader–follower quadcopter coordination under packet dropouts, where communication unreliability directly affects tracking and stability margins ref [40].",
+    "refNo": 40,
+    "title": "Distributed control gains design for consensus in multi-agent systems with second-order nonlinear dynamics",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "Related distributed formation methods further show that obstacle avoidance and switching interaction graphs cannot be treated as secondary add-ons, but must be embedded into the control layer from the outset ref [46].",
+    "refNo": 46,
+    "title": "Distributed adaptive output consensus tracking of nonlinear multi-agent systems via state observer and command filtered backstepping",
+    "marker_text": "[46]"
+  },
+  {
+    "sentence": "Asynchronous event-triggered circle formation illustrates how communication can be reduced without requiring strict synchronization, which is attractive for low-power MAV teams with heterogeneous sensing and computation budgets ref [51].",
+    "refNo": 51,
+    "title": "Distributed event-triggered control strategies for multi-agent systems",
+    "marker_text": "[51]"
+  },
+  {
+    "sentence": "Likewise, distributed adaptive distance-based formation and flocking control highlights the value of local geometric constraints that scale naturally with team size and can accommodate modeling uncertainty ref [53].",
+    "refNo": 53,
+    "title": "Distributed self-triggered control for multi-agent systems",
+    "marker_text": "[53]"
+  },
+  {
+    "sentence": "Together, these works point toward swarm controllers that are sparse in communication, adaptive in behavior, and robust to non-ideal network conditions ref [40], ref [51], ref [53].",
+    "refNo": 40,
+    "title": "Distributed control gains design for consensus in multi-agent systems with second-order nonlinear dynamics",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "Together, these works point toward swarm controllers that are sparse in communication, adaptive in behavior, and robust to non-ideal network conditions ref [40], ref [51], ref [53].",
+    "refNo": 51,
+    "title": "Distributed event-triggered control strategies for multi-agent systems",
+    "marker_text": "[51]"
+  },
+  {
+    "sentence": "Together, these works point toward swarm controllers that are sparse in communication, adaptive in behavior, and robust to non-ideal network conditions ref [40], ref [51], ref [53].",
+    "refNo": 53,
+    "title": "Distributed self-triggered control for multi-agent systems",
+    "marker_text": "[53]"
+  },
+  {
+    "sentence": "Hardware perspectives from swarm robotics emphasize reconfigurability, self-reassembly, and modular system design, suggesting longer-term convergence between MAV swarms and physically reconfigurable robotic collectives ref [45].",
+    "refNo": 45,
+    "title": "Distributed Adaptive Consensus Disturbance Rejection for Multi-Agent Systems on Directed Graphs",
+    "marker_text": "[45]"
+  },
+  {
+    "sentence": "Bridging such hardware–algorithm gaps remains a key challenge for realizing large-scale autonomous aerial collectives in cluttered, dynamic environments ref [45], ref [46], ref [53].",
+    "refNo": 45,
+    "title": "Distributed Adaptive Consensus Disturbance Rejection for Multi-Agent Systems on Directed Graphs",
+    "marker_text": "[45]"
+  },
+  {
+    "sentence": "Bridging such hardware–algorithm gaps remains a key challenge for realizing large-scale autonomous aerial collectives in cluttered, dynamic environments ref [45], ref [46], ref [53].",
+    "refNo": 46,
+    "title": "Distributed adaptive output consensus tracking of nonlinear multi-agent systems via state observer and command filtered backstepping",
+    "marker_text": "[46]"
+  },
+  {
+    "sentence": "Bridging such hardware–algorithm gaps remains a key challenge for realizing large-scale autonomous aerial collectives in cluttered, dynamic environments ref [45], ref [46], ref [53].",
+    "refNo": 53,
+    "title": "Distributed self-triggered control for multi-agent systems",
+    "marker_text": "[53]"
+  },
+  {
+    "sentence": "Experience from competition-driven benchmarking shows that realistic rescue scenarios expose integration gaps between perception, autonomy, and team coordination that are often hidden in simplified laboratory tests, motivating more rigorous evaluation protocols for robustness and scalability ref [44].",
+    "refNo": 44,
+    "title": "Consensus-based distributed cooperative learning control for a group of discrete-time nonlinear multi-agent systems using neural networks",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "Application-oriented studies such as swarm-based mine detection further illustrate that coverage efficiency alone is insufficient; practical deployment also depends on uncertainty handling, false-alarm management, and coordination under sparse sensing ref [49].",
+    "refNo": 49,
+    "title": "Distributed model predictive control for consensus of nonlinear second‐order multi‐agent systems",
+    "marker_text": "[49]"
+  },
+  {
+    "sentence": "More broadly, algorithmic analyses of collective systems emphasize that the coupling structure among agents and environment strongly shapes what forms of swarm intelligence are computationally and physically realizable, a point highly relevant to resource-constrained MAV networks ref [36].",
+    "refNo": 36,
+    "title": "Observer‐based formation tracking control for leader–follower multi‐agent systems",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "Modular swarm testbeds such as Groundscouts demonstrate the value of reconfigurable hardware/software stacks for rapidly prototyping cooperative behaviors and evaluating distributed coordination principles under repeatable conditions ref [38].",
+    "refNo": 38,
+    "title": "Containment control for second-order nonlinear multi-agent systems with intermittent communications",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "At the system level, heterogeneous swarm integration has highlighted the importance of middleware, interoperability, and task-level orchestration when aerial vehicles must cooperate with ground or virtual agents ref [55].",
+    "refNo": 55,
+    "title": "Dynamic event-triggered leader-following consensus control of a class of linear multi-agent systems",
+    "marker_text": "[55]"
+  },
+  {
+    "sentence": "Early distributed robotics platforms and collections of experimental results reported in distributed autonomous robotic systems research also remain instructive, particularly in showing how platform design choices constrain attainable collective behaviors and reproducibility ref [56].",
+    "refNo": 56,
+    "title": "Adaptive event-triggered distributed model predictive control for multi-agent systems",
+    "marker_text": "[56]"
+  },
+  {
+    "sentence": "Hybrid physical-virtual experimentation, as explored in predator-pursuit domains, further suggests a practical route for scaling learning and adaptation before full real-world deployment ref [53].",
+    "refNo": 53,
+    "title": "Distributed self-triggered control for multi-agent systems",
+    "marker_text": "[53]"
+  },
+  {
+    "sentence": "Reinforcement-learning-based resilient adaptive optimal control offers one template for embedding online performance improvement into distributed systems subject to disturbances and uncertainties ref [35].",
+    "refNo": 35,
+    "title": "Containment control for high‐order multi-agent systems with heterogeneous time delays",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "Competition-inspired benchmarking, modular platforms, and mixed-reality training environments together provide a plausible pathway toward larger autonomous aerial collectives operating in complex public-safety and inspection applications ref [44], ref [38], ref [53].",
+    "refNo": 44,
+    "title": "Consensus-based distributed cooperative learning control for a group of discrete-time nonlinear multi-agent systems using neural networks",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "Competition-inspired benchmarking, modular platforms, and mixed-reality training environments together provide a plausible pathway toward larger autonomous aerial collectives operating in complex public-safety and inspection applications ref [44], ref [38], ref [53].",
+    "refNo": 38,
+    "title": "Containment control for second-order nonlinear multi-agent systems with intermittent communications",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Competition-inspired benchmarking, modular platforms, and mixed-reality training environments together provide a plausible pathway toward larger autonomous aerial collectives operating in complex public-safety and inspection applications ref [44], ref [38], ref [53].",
+    "refNo": 53,
+    "title": "Distributed self-triggered control for multi-agent systems",
+    "marker_text": "[53]"
+  }
+]

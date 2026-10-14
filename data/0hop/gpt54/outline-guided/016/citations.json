@@ -1,0 +1,1256 @@
+[
+  {
+    "sentence": "Classic study designs span cross-sectional surveys for prevalence estimation and risk-factor discovery, exemplified by the Singapore Malay Eye Study (SiMES) and the Singapore Indian Eye Study (SINDI), as well as randomized prevention trials such as CAPT for age-related macular degeneration (AMD), which embed standardized longitudinal outcome ascertainment under controlled intervention conditions ref [1], ref [2], ref [3].",
+    "refNo": 1,
+    "title": "Rationale and methodology for a population-based study of eye diseases in Malay people: The Singapore Malay eye study (SiMES)",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Classic study designs span cross-sectional surveys for prevalence estimation and risk-factor discovery, exemplified by the Singapore Malay Eye Study (SiMES) and the Singapore Indian Eye Study (SINDI), as well as randomized prevention trials such as CAPT for age-related macular degeneration (AMD), which embed standardized longitudinal outcome ascertainment under controlled intervention conditions ref [1], ref [2], ref [3].",
+    "refNo": 2,
+    "title": "Ocular biometry in an urban Indian population: the Singapore Indian eye study (SINDI)",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Classic study designs span cross-sectional surveys for prevalence estimation and risk-factor discovery, exemplified by the Singapore Malay Eye Study (SiMES) and the Singapore Indian Eye Study (SINDI), as well as randomized prevention trials such as CAPT for age-related macular degeneration (AMD), which embed standardized longitudinal outcome ascertainment under controlled intervention conditions ref [1], ref [2], ref [3].",
+    "refNo": 3,
+    "title": "The complications of age-related macular degeneration prevention trial (CAPT): rationale, design and methodology",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "SiMES used age-stratified random sampling from a population registry of Malay adults aged 40–79 years, with centralized examinations, multimodal imaging, biospecimen collection, and prespecified handling of eligibility, noncontactability, and response enhancement strategies ref [1].",
+    "refNo": 1,
+    "title": "Rationale and methodology for a population-based study of eye diseases in Malay people: The Singapore Malay eye study (SiMES)",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "SINDI followed a closely related population-based framework in urban Indians, enabling cross-ethnic comparison of ocular traits under harmonized protocols ref [2].",
+    "refNo": 2,
+    "title": "Ocular biometry in an urban Indian population: the Singapore Indian eye study (SINDI)",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "CAPT illustrates how rigorous epidemiologic design supports reliable labels through masked visual-function testing, centralized photograph reading, predefined adverse-event criteria, and long-term repeated assessments of acuity, lesion conversion, and vision-related quality of life ref [3].",
+    "refNo": 3,
+    "title": "The complications of age-related macular degeneration prevention trial (CAPT): rationale, design and methodology",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Similar standardization principles were established in landmark epidemiologic programs such as the Beaver Dam Eye Study, the Blue Mountains Eye Study, and the Tanjong Pagar Survey, which helped define grading systems, prevalence estimates, and risk models for AMD, diabetic retinopathy, cataract, glaucoma, and refractive error ref [4], ref [5], ref [6], ref [7], ref [8].",
+    "refNo": 4,
+    "title": "Image analysis in modern ophthalmology: from acquisition to computer assisted diagnosis and telemedicine",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Similar standardization principles were established in landmark epidemiologic programs such as the Beaver Dam Eye Study, the Blue Mountains Eye Study, and the Tanjong Pagar Survey, which helped define grading systems, prevalence estimates, and risk models for AMD, diabetic retinopathy, cataract, glaucoma, and refractive error ref [4], ref [5], ref [6], ref [7], ref [8].",
+    "refNo": 5,
+    "title": "Automatic fundus images mosaic based on SIFT feature",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Similar standardization principles were established in landmark epidemiologic programs such as the Beaver Dam Eye Study, the Blue Mountains Eye Study, and the Tanjong Pagar Survey, which helped define grading systems, prevalence estimates, and risk models for AMD, diabetic retinopathy, cataract, glaucoma, and refractive error ref [4], ref [5], ref [6], ref [7], ref [8].",
+    "refNo": 6,
+    "title": "Learning a classification model for segmentation",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Similar standardization principles were established in landmark epidemiologic programs such as the Beaver Dam Eye Study, the Blue Mountains Eye Study, and the Tanjong Pagar Survey, which helped define grading systems, prevalence estimates, and risk models for AMD, diabetic retinopathy, cataract, glaucoma, and refractive error ref [4], ref [5], ref [6], ref [7], ref [8].",
+    "refNo": 7,
+    "title": "A new curvelet transform based method for extraction of red lesions in digital color retinal images",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Similar standardization principles were established in landmark epidemiologic programs such as the Beaver Dam Eye Study, the Blue Mountains Eye Study, and the Tanjong Pagar Survey, which helped define grading systems, prevalence estimates, and risk models for AMD, diabetic retinopathy, cataract, glaucoma, and refractive error ref [4], ref [5], ref [6], ref [7], ref [8].",
+    "refNo": 8,
+    "title": "Automated feature extraction for early detection of diabetic retinopathy in fundus images",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Color fundus photography remains the workhorse for large-scale screening because of its relatively low cost and compatibility with telemedicine, while multimodal extensions such as fluorescein angiography, confocal scanning, and optical coherence tomography broaden structural and vascular assessment when available [1].",
+    "refNo": 1,
+    "title": "Rationale and methodology for a population-based study of eye diseases in Malay people: The Singapore Malay eye study (SiMES)",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "However, downstream performance is highly contingent on acquisition variability, including blur, nonuniform illumination, camera-dependent color shifts, field-of-view differences, and pigmentation-related contrast changes, making preprocessing and quality control integral rather than optional components of CAD pipelines [1].",
+    "refNo": 1,
+    "title": "Rationale and methodology for a population-based study of eye diseases in Malay people: The Singapore Malay eye study (SiMES)",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Illumination and contrast normalization are commonly used to suppress low-frequency shading and improve comparability across visits and devices, with classical retinal normalization models showing clear utility for subsequent segmentation and registration [1].",
+    "refNo": 1,
+    "title": "Rationale and methodology for a population-based study of eye diseases in Malay people: The Singapore Malay eye study (SiMES)",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Image quality screening is equally important in teleophthalmology settings, where no-reference sharpness metrics and anisotropy-based measures can flag ungradable images before referral or algorithmic triage [1].",
+    "refNo": 1,
+    "title": "Rationale and methodology for a population-based study of eye diseases in Malay people: The Singapore Malay eye study (SiMES)",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "For wider retinal coverage, multi-view registration and mosaicking have also been explored; SIFT-based pipelines combined with robust outlier rejection can align overlapping fundus views and construct enlarged mosaics, although geometric distortion and sparse texture remain practical challenges [2].",
+    "refNo": 2,
+    "title": "Ocular biometry in an urban Indian population: the Singapore Indian eye study (SINDI)",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "More general vision work on learning-based segmentation is relevant here because it formalized segmentation as classification over contour, texture, brightness, and continuity cues, providing a conceptual basis for later retinal region partitioning and object delineation [3].",
+    "refNo": 3,
+    "title": "The complications of age-related macular degeneration prevention trial (CAPT): rationale, design and methodology",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "In practice, this foundation supports classical machine-learning schemes for vessel, disc, and lesion analysis, and also interfaces naturally with contemporary end-to-end deep learning by framing acquisition artifacts, annotation noise, and review-stage uncertainty as part of the same statistical decision pipeline [1], [3].",
+    "refNo": 1,
+    "title": "Rationale and methodology for a population-based study of eye diseases in Malay people: The Singapore Malay eye study (SiMES)",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "In practice, this foundation supports classical machine-learning schemes for vessel, disc, and lesion analysis, and also interfaces naturally with contemporary end-to-end deep learning by framing acquisition artifacts, annotation noise, and review-stage uncertainty as part of the same statistical decision pipeline [1], [3].",
+    "refNo": 3,
+    "title": "The complications of age-related macular degeneration prevention trial (CAPT): rationale, design and methodology",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Early morphology-driven systems demonstrated that carefully engineered features could support lesion-level screening before the widespread adoption of deep learning ref [8], while more specialized detectors exploited local contrast normalization to better separate true microaneurysms from background texture and vessel-associated dark spots ref [8].",
+    "refNo": 8,
+    "title": "Automated feature extraction for early detection of diabetic retinopathy in fundus images",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Early morphology-driven systems demonstrated that carefully engineered features could support lesion-level screening before the widespread adoption of deep learning ref [8], while more specialized detectors exploited local contrast normalization to better separate true microaneurysms from background texture and vessel-associated dark spots ref [8].",
+    "refNo": 8,
+    "title": "Automated feature extraction for early detection of diabetic retinopathy in fundus images",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Frequency-domain formulations were also explored; for example, curvelet-based enhancement was used to suppress background structure and isolate red lesions with explicit vessel subtraction ref [7].",
+    "refNo": 7,
+    "title": "A new curvelet transform based method for extraction of red lesions in digital color retinal images",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Microaneurysm detectors based on local rotating cross-section profile analysis modeled lesion appearance through directional peak statistics and achieved competitive results in public challenges ref [13].",
+    "refNo": 13,
+    "title": "Towards automatic detection of age-related macular degeneration in retinal fundus images",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Ensemble formulations further improved robustness by combining preprocessing methods and candidate extractors rather than only classifier outputs, yielding strong microaneurysm detection and useful image-level DR grading performance ref [9].",
+    "refNo": 9,
+    "title": "An ensemble-based system for microaneurysm detection and diabetic retinopathy grading",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "For exudates, morphology-based candidate selection was refined by active contours and regionwise boosted classification to better recover irregular lesion boundaries while reducing confusion with the optic disc and reflective background structures ref [10].",
+    "refNo": 10,
+    "title": "Automatic exudate detection using active contour model and regionwise classification",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "In this setting, drusen detection methods used macula localization, grading overlays, vessel suppression, and regional intensity analysis in RGB/HSV spaces to identify deposits associated with AMD risk ref [9].",
+    "refNo": 9,
+    "title": "An ensemble-based system for microaneurysm detection and diabetic retinopathy grading",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Collectively, these studies established core CAD principles still visible in later systems: lesion-specific preprocessing, anatomy-aware masking, multistage candidate pruning, and evaluation at both lesion and image levels across public datasets such as DIARETDB1, ROC, and Messidor ref [7], ref [9], ref [10], ref [13], ref [8].",
+    "refNo": 7,
+    "title": "A new curvelet transform based method for extraction of red lesions in digital color retinal images",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Collectively, these studies established core CAD principles still visible in later systems: lesion-specific preprocessing, anatomy-aware masking, multistage candidate pruning, and evaluation at both lesion and image levels across public datasets such as DIARETDB1, ROC, and Messidor ref [7], ref [9], ref [10], ref [13], ref [8].",
+    "refNo": 9,
+    "title": "An ensemble-based system for microaneurysm detection and diabetic retinopathy grading",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Collectively, these studies established core CAD principles still visible in later systems: lesion-specific preprocessing, anatomy-aware masking, multistage candidate pruning, and evaluation at both lesion and image levels across public datasets such as DIARETDB1, ROC, and Messidor ref [7], ref [9], ref [10], ref [13], ref [8].",
+    "refNo": 10,
+    "title": "Automatic exudate detection using active contour model and regionwise classification",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Collectively, these studies established core CAD principles still visible in later systems: lesion-specific preprocessing, anatomy-aware masking, multistage candidate pruning, and evaluation at both lesion and image levels across public datasets such as DIARETDB1, ROC, and Messidor ref [7], ref [9], ref [10], ref [13], ref [8].",
+    "refNo": 13,
+    "title": "Towards automatic detection of age-related macular degeneration in retinal fundus images",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Collectively, these studies established core CAD principles still visible in later systems: lesion-specific preprocessing, anatomy-aware masking, multistage candidate pruning, and evaluation at both lesion and image levels across public datasets such as DIARETDB1, ROC, and Messidor ref [7], ref [9], ref [10], ref [13], ref [8].",
+    "refNo": 8,
+    "title": "Automated feature extraction for early detection of diabetic retinopathy in fundus images",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Early work on disc/cup delineation exploited stereo color photographs, where physiologically inspired pixel features and disparity cues enabled automated cup, rim, and background labeling with strong agreement to expert planimetry, highlighting the value of depth-sensitive representations for linear cup-to-disc ratio estimation ref [14].",
+    "refNo": 14,
+    "title": "Automated Segmentation of the optic disc from stereo color photographs using physiologically plausible features",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "In parallel, monocular fundus approaches sought to compensate for missing depth by combining region statistics, shape constraints, and vessel-based anatomical cues, culminating in integrated disc-and-cup pipelines tailored to glaucoma screening ref [19].",
+    "refNo": 19,
+    "title": "Level-set based automatic cup-to-disc ratio determination using retinal fundus images in ARGALI",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Vessel kinking was explicitly modeled as a sign of contour descent within the cup and combined with pallor information to improve horizontal cup-width estimation ref [17].",
+    "refNo": 17,
+    "title": "Optic disk and cup segmentation from monocular color retinal images for glaucoma assessment",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Level-set formulations were also adopted for automatic cup-to-disc ratio computation, typically followed by ellipse fitting to regularize boundaries distorted by vessel crossings and weak gradients ref [8].",
+    "refNo": 8,
+    "title": "Automated feature extraction for early detection of diabetic retinopathy in fundus images",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Beyond monocular imagery, multiview and sequential fundus acquisitions enabled depth-discontinuity-based boundary inference, avoiding strict stereo calibration while still improving cup-to-disc ratio and cup area estimates over monocular baselines ref [18].",
+    "refNo": 18,
+    "title": "Peripapillary atrophy detection by sparse biologically inspired feature manifold",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Peripapillary atrophy has been modeled using sparse biologically inspired feature manifolds, demonstrating that tissue immediately surrounding the disc contains diagnostically useful cues for myopia- and glaucoma-related assessment ref [20].",
+    "refNo": 20,
+    "title": "Retinal nerve fibre layer thickness measured by Spectralis spectral-domain optical coherence tomography: The Beijing Eye Study",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Likewise, population-based OCT studies established normative distributions of peripapillary retinal nerve fibre layer thickness and confirmed systematic variation with age, refractive error, disc size, rim area, and parapapillary beta zone, thereby supplying critical reference ranges for structure-aware CAD systems ref [9].",
+    "refNo": 9,
+    "title": "An ensemble-based system for microaneurysm detection and diabetic retinopathy grading",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Taken together, these studies show a methodological progression from boundary extraction and handcrafted appearance modeling toward anatomically grounded, multimodal quantification of the optic nerve head and its peripapillary environment ref [14], ref [17], ref [19].",
+    "refNo": 14,
+    "title": "Automated Segmentation of the optic disc from stereo color photographs using physiologically plausible features",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Taken together, these studies show a methodological progression from boundary extraction and handcrafted appearance modeling toward anatomically grounded, multimodal quantification of the optic nerve head and its peripapillary environment ref [14], ref [17], ref [19].",
+    "refNo": 17,
+    "title": "Optic disk and cup segmentation from monocular color retinal images for glaucoma assessment",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Taken together, these studies show a methodological progression from boundary extraction and handcrafted appearance modeling toward anatomically grounded, multimodal quantification of the optic nerve head and its peripapillary environment ref [14], ref [17], ref [19].",
+    "refNo": 19,
+    "title": "Level-set based automatic cup-to-disc ratio determination using retinal fundus images in ARGALI",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Early vessel extraction methods modeled vessels as elongated Gaussian-like ridges, using matched filtering with adaptive probing to improve continuity and suppress pathology-induced false positives, thereby establishing a practical basis for quantifying vessel caliber, branching, and tortuosity from fundus photographs ref [21].",
+    "refNo": 21,
+    "title": "Locating blood vessels in retinal images by piecewise threshold probing of a matched filter response",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Tracking-oriented formulations further exploited steerable filters to follow vessel centerlines, estimate local direction, and recover contours, linking segmentation directly to downstream morphometry such as diameter and branch analysis ref [24].",
+    "refNo": 24,
+    "title": "Automatic classification of pathological myopia in retinal fundus images using PAMELA",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "In particular, subpixel vessel-width estimation using 2-D Gaussian or difference-of-Gaussian models improved robustness to central light reflexes and local background variation, outperforming earlier half-height and rectangular-profile schemes in precision ref [22].",
+    "refNo": 22,
+    "title": "Measurement of retinal vessel widths from fundus images based on 2-D modeling",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Such measurement pipelines are clinically pertinent because caliber variation, venous beading, and related width irregularities are hallmarks in diabetic and hypertensive retinopathy, while vessel-course tracking enables contour-based assessment of tortuosity and branching abnormalities ref [22], ref [24].",
+    "refNo": 22,
+    "title": "Measurement of retinal vessel widths from fundus images based on 2-D modeling",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Such measurement pipelines are clinically pertinent because caliber variation, venous beading, and related width irregularities are hallmarks in diabetic and hypertensive retinopathy, while vessel-course tracking enables contour-based assessment of tortuosity and branching abnormalities ref [22], ref [24].",
+    "refNo": 24,
+    "title": "Automatic classification of pathological myopia in retinal fundus images using PAMELA",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "PAMELA operationalized pathological myopia detection using optic-disc tilt, peripapillary atrophy (PPA), and regional texture asymmetry around the disc, combining these handcrafted indicators in an SVM classifier and demonstrating that disc-centered structural analysis can support screening from color fundus images ref [25].",
+    "refNo": 25,
+    "title": "Learn to recognize pathological myopia in fundus images using bag-of-feature and sparse learning approach",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "A later bag-of-features and sparse-learning approach moved beyond explicit handcrafted lesion rules, learning discriminative local fundus patterns associated with pathological myopia at scale and achieving strong population-based recognition performance ref [6].",
+    "refNo": 6,
+    "title": "Learning a classification model for segmentation",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Together, these studies illustrate a progression from vessel and peripapillary morphology engineered from geometric models toward data-driven representations of myopia-related structural change ref [25], ref [6].",
+    "refNo": 25,
+    "title": "Learn to recognize pathological myopia in fundus images using bag-of-feature and sparse learning approach",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Together, these studies illustrate a progression from vessel and peripapillary morphology engineered from geometric models toward data-driven representations of myopia-related structural change ref [25], ref [6].",
+    "refNo": 6,
+    "title": "Learning a classification model for segmentation",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Early consultation systems such as CASNET/EXPERT demonstrated how causal, hierarchical disease representations could support diagnostic inference and explanation, establishing an important conceptual foundation for ophthalmic decision support beyond pure pattern recognition ref [26].",
+    "refNo": 26,
+    "title": "Representation of expert knowledge for consultation: the CASNET and EXPERT projects",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "Later work on computer-based classification of eye diseases extended this paradigm to image-derived feature spaces, comparing neural, fuzzy, and neuro-fuzzy classifiers for differentiating normal eyes from cataract, iridocyclitis, and corneal haze, and illustrating the appeal of interpretable hybrid reasoning in small clinical datasets ref [32].",
+    "refNo": 32,
+    "title": "Automatic glaucoma diagnosis through medical imaging informatics",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "Tobin et al. proposed a content-based diagnostic framework in which posterior disease probabilities were inferred from visually similar fundus images in an annotated archive, thereby combining image semantics with prior class distributions rather than relying on a single lesion detector ref [30].",
+    "refNo": 30,
+    "title": "Information fusion for diabetic retinopathy CAD in digital color fundus photographs",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "For diabetic retinopathy, Niemeijer et al. explicitly studied information fusion across lesion detectors, image-quality assessment, and multiple views per examination, showing that supervised fusion at exam level substantially affected screening performance and was essential for prescreening deployment ref [31].",
+    "refNo": 31,
+    "title": "Computer-based classification of eye diseases",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "These studies highlighted a recurring survey theme: clinically useful CAD often depends as much on how heterogeneous evidence is fused as on the performance of individual component algorithms ref [30], ref [31].",
+    "refNo": 30,
+    "title": "Information fusion for diabetic retinopathy CAD in digital color fundus photographs",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "These studies highlighted a recurring survey theme: clinically useful CAD often depends as much on how heterogeneous evidence is fused as on the performance of individual component algorithms ref [30], ref [31].",
+    "refNo": 31,
+    "title": "Computer-based classification of eye diseases",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "In glaucoma, fusion of standard automated perimetry and OCT using anatomically informed structure-function mappings improved automated diagnosis relative to SAP alone, showing the value of embedding prior physiological knowledge into classifier inputs ref [27].",
+    "refNo": 27,
+    "title": "Integration and fusion of standard automated perimetry and optical coherence tomography data for improved automated glaucoma diagnostics",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "Related medical imaging informatics approaches integrated retinal image features, personal variables, and SNPs through multiple kernel learning, outperforming single-source glaucoma screening strategies such as intraocular pressure alone ref [8].",
+    "refNo": 8,
+    "title": "Automated feature extraction for early detection of diabetic retinopathy in fundus images",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "A similar trend was reported for pathological myopia, where heterogeneous fusion of fundus images, demographic/clinical variables, and genotyping data improved AUC over individual sources, suggesting that multimodal CAD is particularly advantageous for ocular diseases with both phenotypic and systemic or genetic determinants ref [28].",
+    "refNo": 28,
+    "title": "Automatic diagnosis of pathological myopia from heterogeneous biomedical data",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Early objective systems for nuclear opacification relied on handcrafted photometric descriptors extracted from the visual axis or a circular nuclear region, using regression or neural-network classifiers to emulate clinical grading systems such as Wilmer, Wisconsin, and LOCS-style protocols ref [38], ref [37].",
+    "refNo": 38,
+    "title": "Automatic detection of cortical and PSC cataracts using texture and intensity analysis on retro-illumination lens images",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Early objective systems for nuclear opacification relied on handcrafted photometric descriptors extracted from the visual axis or a circular nuclear region, using regression or neural-network classifiers to emulate clinical grading systems such as Wilmer, Wisconsin, and LOCS-style protocols ref [38], ref [37].",
+    "refNo": 37,
+    "title": "Computer-aided cataract detection using enhanced texture features on retro-illumination lens images",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "These studies were important because they demonstrated that objective image-derived measures could improve reproducibility over manual assessment, while also revealing the limits of sparse axial features for representing the full nucleus opacity pattern ref [38], ref [37].",
+    "refNo": 38,
+    "title": "Automatic detection of cortical and PSC cataracts using texture and intensity analysis on retro-illumination lens images",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "These studies were important because they demonstrated that objective image-derived measures could improve reproducibility over manual assessment, while also revealing the limits of sparse axial features for representing the full nucleus opacity pattern ref [38], ref [37].",
+    "refNo": 37,
+    "title": "Computer-aided cataract detection using enhanced texture features on retro-illumination lens images",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "A computer-aided diagnosis system of nuclear cataract combined modified active shape models, clinically motivated intensity/color/texture features, and support vector regression, and was validated on more than 5000 images, indicating that large-scale automatic grading was feasible in population studies ref [37].",
+    "refNo": 37,
+    "title": "Computer-aided cataract detection using enhanced texture features on retro-illumination lens images",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "Huang et al. further reformulated nuclear cataract grading as a ranking problem rather than simple classification or regression, learning an image order consistent with clinical severity and then interpolating grades from neighboring cases; on 1000 slit-lamp images, this ranking-based strategy outperformed earlier grading-by-classification and grading-by-regression baselines ref [33].",
+    "refNo": 33,
+    "title": "A computer assisted method for nuclear cataract grading from slit-lamp images using ranking",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "Li et al. proposed a rule-based PSC detector combining pupil localization, global and local thresholding, edge cues, size filtering, and spatial priors, achieving preliminary screening sensitivity/specificity of 82.6%/80.0% ref [36].",
+    "refNo": 36,
+    "title": "New objective classification system for nuclear opacification",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "Texture-centered approaches then became prominent: enhanced local-entropy features on paired anterior/posterior images supported cataract-versus-noncataract discrimination for mass screening, with 84.8% accuracy on 4545 image pairs ref [7], while later texture-and-intensity analysis improved ROI detection, lens masking, and dense-opacity handling for cortical and PSC detection ref [8].",
+    "refNo": 7,
+    "title": "A new curvelet transform based method for extraction of red lesions in digital color retinal images",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Texture-centered approaches then became prominent: enhanced local-entropy features on paired anterior/posterior images supported cataract-versus-noncataract discrimination for mass screening, with 84.8% accuracy on 4545 image pairs ref [7], while later texture-and-intensity analysis improved ROI detection, lens masking, and dense-opacity handling for cortical and PSC detection ref [8].",
+    "refNo": 8,
+    "title": "Automated feature extraction for early detection of diabetic retinopathy in fundus images",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Taken together, these studies show a characteristic evolution in cataract CAD from handcrafted densitometric rules to structure-aware and texture-aware models, with increasing attention to robustness under uneven illumination, artifacts, and mixed cataract morphology ref [36], ref [7], ref [8].",
+    "refNo": 36,
+    "title": "New objective classification system for nuclear opacification",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "Taken together, these studies show a characteristic evolution in cataract CAD from handcrafted densitometric rules to structure-aware and texture-aware models, with increasing attention to robustness under uneven illumination, artifacts, and mixed cataract morphology ref [36], ref [7], ref [8].",
+    "refNo": 7,
+    "title": "A new curvelet transform based method for extraction of red lesions in digital color retinal images",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Taken together, these studies show a characteristic evolution in cataract CAD from handcrafted densitometric rules to structure-aware and texture-aware models, with increasing attention to robustness under uneven illumination, artifacts, and mixed cataract morphology ref [36], ref [7], ref [8].",
+    "refNo": 8,
+    "title": "Automated feature extraction for early detection of diabetic retinopathy in fundus images",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Early work emphasized explicit drusen segmentation, for example via geodesic reconstruction and mathematical morphology to delineate bright deposits under challenging background variation ref [41].",
+    "refNo": 41,
+    "title": "Automatic grading of macular degeneration from color fundus images",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "Subsequent systems refined drusen quantification for AMD classification from color fundus photographs, combining preprocessing, illumination normalization, and supervised learning to improve robustness across acquisition conditions ref [16].",
+    "refNo": 16,
+    "title": "Depth discontinuity-based cup segmentation from multiview color retinal image",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Image-mining and graph-based representations enabled highly accurate disease/no-disease grading without requiring fully interpretable lesion segmentation, highlighting the value of spatial context and data-driven feature discovery ref [40].",
+    "refNo": 40,
+    "title": "A new approach of geodesic reconstruction for drusen segmentation in eye fundus images",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "Other studies pursued direct grading of macular degeneration from color fundus images by integrating macular localization with lesion overlap analysis, while probabilistic classifiers were also explored to distinguish normal eyes from dry and wet AMD patterns ref [45], ref [10].",
+    "refNo": 45,
+    "title": "Automatic detection of pathological myopia using variational level set",
+    "marker_text": "[45]"
+  },
+  {
+    "sentence": "Other studies pursued direct grading of macular degeneration from color fundus images by integrating macular localization with lesion overlap analysis, while probabilistic classifiers were also explored to distinguish normal eyes from dry and wet AMD patterns ref [45], ref [10].",
+    "refNo": 10,
+    "title": "Automatic exudate detection using active contour model and regionwise classification",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Collectively, these studies show the transition from handcrafted drusen measurements to broader classification pipelines that better tolerate heterogeneous image quality and phenotype variability ref [40], ref [16].",
+    "refNo": 40,
+    "title": "A new approach of geodesic reconstruction for drusen segmentation in eye fundus images",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "Collectively, these studies show the transition from handcrafted drusen measurements to broader classification pipelines that better tolerate heterogeneous image quality and phenotype variability ref [40], ref [16].",
+    "refNo": 16,
+    "title": "Depth discontinuity-based cup segmentation from multiview color retinal image",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "The PAMELA framework demonstrated that texture descriptors extracted around the optic disc, combined with SVM classification, can detect pathological myopia with promising sensitivity and specificity ref [17].",
+    "refNo": 17,
+    "title": "Optic disk and cup segmentation from monocular color retinal images for glaucoma assessment",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "A related variational level-set formulation modeled the difference between internal and external disc boundaries to localize PPA more explicitly ref [18].",
+    "refNo": 18,
+    "title": "Peripapillary atrophy detection by sparse biologically inspired feature manifold",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "More recent work broadened the representation beyond PPA alone, using bag-of-features and sparse learning on large population-based datasets to capture multiple retinal changes associated with pathological myopia and to achieve strong AUC and balanced accuracy ref [43].",
+    "refNo": 43,
+    "title": "An automated drusen detection system for classifying age-related maculardegeneration with color fundus photographs",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "These results suggest that, for both AMD and pathological myopia, robust CAD increasingly depends on combining clinically grounded priors with data-driven visual representations ref [43], ref [17], ref [18].",
+    "refNo": 43,
+    "title": "An automated drusen detection system for classifying age-related maculardegeneration with color fundus photographs",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "These results suggest that, for both AMD and pathological myopia, robust CAD increasingly depends on combining clinically grounded priors with data-driven visual representations ref [43], ref [17], ref [18].",
+    "refNo": 17,
+    "title": "Optic disk and cup segmentation from monocular color retinal images for glaucoma assessment",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "These results suggest that, for both AMD and pathological myopia, robust CAD increasingly depends on combining clinically grounded priors with data-driven visual representations ref [43], ref [17], ref [18].",
+    "refNo": 18,
+    "title": "Peripapillary atrophy detection by sparse biologically inspired feature manifold",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Early systems emphasized automated red-lesion detection in screening populations and showed that adjustable operating points could trade sensitivity against specificity for practical referral workflows in both film-based and digital settings ref [16], ref [17].",
+    "refNo": 16,
+    "title": "Depth discontinuity-based cup segmentation from multiview color retinal image",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Early systems emphasized automated red-lesion detection in screening populations and showed that adjustable operating points could trade sensitivity against specificity for practical referral workflows in both film-based and digital settings ref [16], ref [17].",
+    "refNo": 17,
+    "title": "Optic disk and cup segmentation from monocular color retinal images for glaucoma assessment",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Subsequent screening-oriented studies extended this paradigm from any-DR detection to referable DR and maculopathy, integrating lesion evidence with image quality assessment and clinically meaningful referral rules around the macula ref [12], ref [14].",
+    "refNo": 12,
+    "title": "Automated microaneurysm detection using local contrast normalization and local vessel detection",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Subsequent screening-oriented studies extended this paradigm from any-DR detection to referable DR and maculopathy, integrating lesion evidence with image quality assessment and clinically meaningful referral rules around the macula ref [12], ref [14].",
+    "refNo": 14,
+    "title": "Automated Segmentation of the optic disc from stereo color photographs using physiologically plausible features",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Representative approaches include local contrast normalization with explicit vessel handling to reduce false positives on vascular structures ref [9], sparse-representation classification with learned MA/non-MA dictionaries ref [48], and ensemble strategies that combine multiple preprocessing and candidate-extraction modules for more robust MA detection and DR grading ref [18].",
+    "refNo": 9,
+    "title": "An ensemble-based system for microaneurysm detection and diabetic retinopathy grading",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Representative approaches include local contrast normalization with explicit vessel handling to reduce false positives on vascular structures ref [9], sparse-representation classification with learned MA/non-MA dictionaries ref [48], and ensemble strategies that combine multiple preprocessing and candidate-extraction modules for more robust MA detection and DR grading ref [18].",
+    "refNo": 48,
+    "title": "Automated diagnosis of referable maculopathy in diabetic retinopathy screening",
+    "marker_text": "[48]"
+  },
+  {
+    "sentence": "Representative approaches include local contrast normalization with explicit vessel handling to reduce false positives on vascular structures ref [9], sparse-representation classification with learned MA/non-MA dictionaries ref [48], and ensemble strategies that combine multiple preprocessing and candidate-extraction modules for more robust MA detection and DR grading ref [18].",
+    "refNo": 18,
+    "title": "Peripapillary atrophy detection by sparse biologically inspired feature manifold",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Robust registration, illumination correction, and Bayesian change analysis enabled direct detection and classification of temporal retinal changes, showing the value of CAD not only for screening but also for follow-up assessment ref [46].",
+    "refNo": 46,
+    "title": "Robust detection and classification of longitudinal changes in color retinal fundus images for monitoring diabetic retinopathy",
+    "marker_text": "[46]"
+  },
+  {
+    "sentence": "More recent large-scale validation studies further demonstrated that integrated systems can achieve high sensitivity for referable DR on externally collected cohorts, supporting the feasibility of automated triage in clinical screening pipelines ref [14].",
+    "refNo": 14,
+    "title": "Automated Segmentation of the optic disc from stereo color photographs using physiologically plausible features",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Overall, DR CAD illustrates how lesion detection, image quality control, and referral-oriented decision logic must be jointly optimized for safe deployment ref [12], ref [16], ref [17].",
+    "refNo": 12,
+    "title": "Automated microaneurysm detection using local contrast normalization and local vessel detection",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Overall, DR CAD illustrates how lesion detection, image quality control, and referral-oriented decision logic must be jointly optimized for safe deployment ref [12], ref [16], ref [17].",
+    "refNo": 16,
+    "title": "Depth discontinuity-based cup segmentation from multiview color retinal image",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Overall, DR CAD illustrates how lesion detection, image quality control, and referral-oriented decision logic must be jointly optimized for safe deployment ref [12], ref [16], ref [17].",
+    "refNo": 17,
+    "title": "Optic disk and cup segmentation from monocular color retinal images for glaucoma assessment",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Early clinically interpretable rules remain important baselines: the ISNT configuration of neuroretinal rim thickness differentiates many normal from glaucomatous discs, but its violations are neither perfectly sensitive nor specific, motivating automated analysis beyond simple cup-to-disc inspection ref [54].",
+    "refNo": 54,
+    "title": "Automated optic nerve analysis for diagnostic support in glaucoma",
+    "marker_text": "[54]"
+  },
+  {
+    "sentence": "In parallel, learning-based analysis of standard automated perimetry showed that machine-learning classifiers such as SVMs and neural networks can outperform conventional summary indices, illustrating the value of multivariate modeling of glaucomatous structure-function change ref [52].",
+    "refNo": 52,
+    "title": "Comparison of machine learning and traditional classifiers in glaucoma diagnosis",
+    "marker_text": "[52]"
+  },
+  {
+    "sentence": "Automated optic nerve analysis has used abstract shape descriptors and feature selection on confocal scanning laser tomographic images to distinguish healthy from glaucomatous eyes ref [57].",
+    "refNo": 57,
+    "title": "Automated segmentation of the optic disc margin in 3D optical coherence tomography images using a graph-theoretic approach",
+    "marker_text": "[57]"
+  },
+  {
+    "sentence": "For color fundus images, methods range from appearance-based glaucoma risk scoring without explicit segmentation ref [16] to dedicated disc/cup delineation.",
+    "refNo": 16,
+    "title": "Depth discontinuity-based cup segmentation from multiview color retinal image",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Notably, monocular image approaches have combined robust disc segmentation with vessel-bend cues for cup localization, enabling vertical and area cup-to-disc measurements for glaucoma assessment ref [56].",
+    "refNo": 56,
+    "title": "Retinal image analysis for automated glaucoma risk evaluation",
+    "marker_text": "[56]"
+  },
+  {
+    "sentence": "Stereo-photograph methods further exploit depth disparity to derive cup and disc boundaries, yielding clinically useful cup-to-disc ratios for discriminating glaucomatous from nonglaucomatous eyes ref [58].",
+    "refNo": 58,
+    "title": "Automated segmentation of the cup and rim from spectral domain OCT of the optic nerve head",
+    "marker_text": "[58]"
+  },
+  {
+    "sentence": "Graph-theoretic methods have been proposed to segment the optic disc margin from volumetric SD-OCT using Bruch’s membrane opening projections and vessel-aware cost modification ref [18].",
+    "refNo": 18,
+    "title": "Peripapillary atrophy detection by sparse biologically inspired feature manifold",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Related voxel-column classification frameworks segment cup and rim directly from SD-OCT volumes, with cup-to-disc ratios correlating closely with expert stereo planimetry ref [20].",
+    "refNo": 20,
+    "title": "Retinal nerve fibre layer thickness measured by Spectralis spectral-domain optical coherence tomography: The Beijing Eye Study",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "More broadly, automated glaucoma diagnosis benefits from combining such structural descriptors with complementary measurements, and multimodal fusion of OCT with perimetric data has been shown to improve diagnostic performance over single-source analysis ref [35].",
+    "refNo": 35,
+    "title": "A computer-aided diagnosis system of nuclear cataract",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "In age-related macular degeneration (AMD), the large US veteran twin study showed significant additive genetic effects for overall severity and for intermediate and advanced disease, with heritability estimates rising from about 0.46 for ordinal grade to 0.67–0.71 for more severe phenotypes, while unique environment remained non-negligible and shared environment was limited ref [59].",
+    "refNo": 59,
+    "title": "The US twin study of age-related macular degeneration: relative roles of genetic and environmental influences",
+    "marker_text": "[59]"
+  },
+  {
+    "sentence": "Similar twin-based decomposition in age-related nuclear cataract found that additive genetics explained roughly 48% of variation, with age accounting for much of the remainder and common environment contributing little ref [9].",
+    "refNo": 9,
+    "title": "An ensemble-based system for microaneurysm detection and diabetic retinopathy grading",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Central corneal thickness, a clinically important parameter for glaucoma risk assessment and intraocular pressure interpretation, showed near-complete familial resemblance in monozygotic pairs and an estimated heritability of 0.95 in a multicenter twin study ref [61].",
+    "refNo": 61,
+    "title": "Genetic factors in open-angle (simple and capsular) glaucoma. A population-based twin study",
+    "marker_text": "[61]"
+  },
+  {
+    "sentence": "A population-based twin study in adults aged 20–45 years estimated heritability of about 0.89–0.94 for refraction, axial length, and corneal curvature, with evidence suggestive of gene–environment interaction despite weak effects of educational discordance within pairs ref [10].",
+    "refNo": 10,
+    "title": "Automatic exudate detection using active contour model and regionwise classification",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Complementarily, the Finnish Twin Cohort study reported substantial heritability for hyperopia, around 0.75, especially for higher degrees of farsightedness ref [8].",
+    "refNo": 8,
+    "title": "Automated feature extraction for early detection of diabetic retinopathy in fundus images",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "In a Finnish population-based linkage study of chronic open-angle glaucoma, concordance differences between monozygotic and dizygotic pairs suggested a genetic role, but the estimated heritability was modest at approximately 13%, underscoring phenotypic heterogeneity and the importance of age-dependent expression, diagnostic variability, and nonshared exposures ref [64].",
+    "refNo": 64,
+    "title": "The importance of genes and environment for ocular refraction and its determiners: a population based study among 20-45 year old twins",
+    "marker_text": "[64]"
+  },
+  {
+    "sentence": "In age-related macular degeneration (AMD), this architecture is now understood as a prototypical example of a common complex disease in which complement regulation, lipid metabolism, extracellular matrix remodeling, and inflammatory pathways all contribute to risk; major loci such as CFH and the ARMS2/HTRA1 region account for substantial but incomplete heritability, implying extensive polygenicity and gene–environment interplay, particularly with aging and smoking exposures ref [65], ref [5], ref [6].",
+    "refNo": 65,
+    "title": "An update on the genetics of age-related macular degeneration",
+    "marker_text": "[65]"
+  },
+  {
+    "sentence": "In age-related macular degeneration (AMD), this architecture is now understood as a prototypical example of a common complex disease in which complement regulation, lipid metabolism, extracellular matrix remodeling, and inflammatory pathways all contribute to risk; major loci such as CFH and the ARMS2/HTRA1 region account for substantial but incomplete heritability, implying extensive polygenicity and gene–environment interplay, particularly with aging and smoking exposures ref [65], ref [5], ref [6].",
+    "refNo": 5,
+    "title": "Automatic fundus images mosaic based on SIFT feature",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "In age-related macular degeneration (AMD), this architecture is now understood as a prototypical example of a common complex disease in which complement regulation, lipid metabolism, extracellular matrix remodeling, and inflammatory pathways all contribute to risk; major loci such as CFH and the ARMS2/HTRA1 region account for substantial but incomplete heritability, implying extensive polygenicity and gene–environment interplay, particularly with aging and smoking exposures ref [65], ref [5], ref [6].",
+    "refNo": 6,
+    "title": "Learning a classification model for segmentation",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Extended pedigree analyses indicate that IOP and VCDR are not only heritable, but genetically correlated with POAG, supporting their role as biologically proximal traits for gene discovery; by contrast, central corneal thickness, although highly heritable, may be a weaker disease endophenotype than initially assumed ref [66], ref [7], ref [8], ref [9].",
+    "refNo": 66,
+    "title": "The path to open-angle glaucoma gene discovery: endophenotypic status of intraocular pressure, cup-to-disc ratio, and central corneal thickness",
+    "marker_text": "[66]"
+  },
+  {
+    "sentence": "Extended pedigree analyses indicate that IOP and VCDR are not only heritable, but genetically correlated with POAG, supporting their role as biologically proximal traits for gene discovery; by contrast, central corneal thickness, although highly heritable, may be a weaker disease endophenotype than initially assumed ref [66], ref [7], ref [8], ref [9].",
+    "refNo": 7,
+    "title": "A new curvelet transform based method for extraction of red lesions in digital color retinal images",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Extended pedigree analyses indicate that IOP and VCDR are not only heritable, but genetically correlated with POAG, supporting their role as biologically proximal traits for gene discovery; by contrast, central corneal thickness, although highly heritable, may be a weaker disease endophenotype than initially assumed ref [66], ref [7], ref [8], ref [9].",
+    "refNo": 8,
+    "title": "Automated feature extraction for early detection of diabetic retinopathy in fundus images",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Extended pedigree analyses indicate that IOP and VCDR are not only heritable, but genetically correlated with POAG, supporting their role as biologically proximal traits for gene discovery; by contrast, central corneal thickness, although highly heritable, may be a weaker disease endophenotype than initially assumed ref [66], ref [7], ref [8], ref [9].",
+    "refNo": 9,
+    "title": "An ensemble-based system for microaneurysm detection and diabetic retinopathy grading",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "At the same time, the phenotype is unusually sensitive to environmental modulation, especially educational intensity and near-work related exposures, making myopia a canonical example of gene–environment correlation and interaction in ocular disease ref [4], ref [10], ref [11], ref [12].",
+    "refNo": 4,
+    "title": "Image analysis in modern ophthalmology: from acquisition to computer assisted diagnosis and telemedicine",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "At the same time, the phenotype is unusually sensitive to environmental modulation, especially educational intensity and near-work related exposures, making myopia a canonical example of gene–environment correlation and interaction in ocular disease ref [4], ref [10], ref [11], ref [12].",
+    "refNo": 10,
+    "title": "Automatic exudate detection using active contour model and regionwise classification",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "At the same time, the phenotype is unusually sensitive to environmental modulation, especially educational intensity and near-work related exposures, making myopia a canonical example of gene–environment correlation and interaction in ocular disease ref [4], ref [10], ref [11], ref [12].",
+    "refNo": 11,
+    "title": "Retinal microaneurysm detection through local rotating cross-section profile analysis",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "At the same time, the phenotype is unusually sensitive to environmental modulation, especially educational intensity and near-work related exposures, making myopia a canonical example of gene–environment correlation and interaction in ocular disease ref [4], ref [10], ref [11], ref [12].",
+    "refNo": 12,
+    "title": "Automated microaneurysm detection using local contrast normalization and local vessel detection",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "This layered view of architecture is especially relevant for computer-aided diagnosis, because imaging phenotypes may function not only as diagnostic markers but also as genetically anchored traits that bridge molecular discovery and clinically actionable disease subtyping ref [65], ref [66], ref [4], ref [13].",
+    "refNo": 65,
+    "title": "An update on the genetics of age-related macular degeneration",
+    "marker_text": "[65]"
+  },
+  {
+    "sentence": "This layered view of architecture is especially relevant for computer-aided diagnosis, because imaging phenotypes may function not only as diagnostic markers but also as genetically anchored traits that bridge molecular discovery and clinically actionable disease subtyping ref [65], ref [66], ref [4], ref [13].",
+    "refNo": 66,
+    "title": "The path to open-angle glaucoma gene discovery: endophenotypic status of intraocular pressure, cup-to-disc ratio, and central corneal thickness",
+    "marker_text": "[66]"
+  },
+  {
+    "sentence": "This layered view of architecture is especially relevant for computer-aided diagnosis, because imaging phenotypes may function not only as diagnostic markers but also as genetically anchored traits that bridge molecular discovery and clinically actionable disease subtyping ref [65], ref [66], ref [4], ref [13].",
+    "refNo": 4,
+    "title": "Image analysis in modern ophthalmology: from acquisition to computer assisted diagnosis and telemedicine",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "This layered view of architecture is especially relevant for computer-aided diagnosis, because imaging phenotypes may function not only as diagnostic markers but also as genetically anchored traits that bridge molecular discovery and clinically actionable disease subtyping ref [65], ref [66], ref [4], ref [13].",
+    "refNo": 13,
+    "title": "Towards automatic detection of age-related macular degeneration in retinal fundus images",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Early frameworks for predictive genetic testing emphasized that analytic validity, clinical validity, and clinical utility must all be established before routine use, with particular attention to representative populations, post-test interventions, counseling, and external review of test performance ref [68].",
+    "refNo": 68,
+    "title": "Predictive genetic testing: from basic research to clinical practice",
+    "marker_text": "[68]"
+  },
+  {
+    "sentence": "From a modeling perspective, GWAS-derived prediction is constrained by the small effect sizes of most common variants, yet performance can improve when many loci are combined rather than restricting models to genome-wide significant hits alone ref [69].",
+    "refNo": 69,
+    "title": "Risk prediction using genome-wide association studies",
+    "marker_text": "[69]"
+  },
+  {
+    "sentence": "Kooperberg et al. showed that sparse regression approaches such as the lasso can yield better-calibrated risk models than simple top-hit selection, provided that SNP preselection and model fitting are strictly separated between training and test data to avoid optimistic bias and the \"winner's curse\" ref [69].",
+    "refNo": 69,
+    "title": "Risk prediction using genome-wide association studies",
+    "marker_text": "[69]"
+  },
+  {
+    "sentence": "More broadly, theoretical and empirical evaluations of polygenic profiling indicate that predictive discrimination depends on disease heritability, allele-frequency spectrum, training sample size, and the proportion of variance captured by known loci, so current scores are often more useful for risk stratification than stand-alone diagnosis ref [69].",
+    "refNo": 69,
+    "title": "Risk prediction using genome-wide association studies",
+    "marker_text": "[69]"
+  },
+  {
+    "sentence": "Thus, the translational path for ocular genomics is less about replacing clinical examination and more about building calibrated multimodal risk models whose benefit, fairness, and actionability are prospectively validated in diverse populations before adoption ref [68], ref [69].",
+    "refNo": 68,
+    "title": "Predictive genetic testing: from basic research to clinical practice",
+    "marker_text": "[68]"
+  },
+  {
+    "sentence": "Thus, the translational path for ocular genomics is less about replacing clinical examination and more about building calibrated multimodal risk models whose benefit, fairness, and actionability are prospectively validated in diverse populations before adoption ref [68], ref [69].",
+    "refNo": 69,
+    "title": "Risk prediction using genome-wide association studies",
+    "marker_text": "[69]"
+  },
+  {
+    "sentence": "Early scans also highlighted core design principles still relevant to ocular genetics, including replication across cohorts, genomic control, false-discovery-rate filtering, and the importance of linkage disequilibrium for signal interpretation and fine-mapping; these lessons generalize from landmark complex-trait studies to ophthalmic phenotypes and diseases ref [71].",
+    "refNo": 71,
+    "title": "TEAM: efficient two-locus epistasis tests in human genome-wide association study",
+    "marker_text": "[71]"
+  },
+  {
+    "sentence": "Lasso-based regularization provided the conceptual basis for sparse selection in high-dimensional settings ref [74], and was subsequently adapted to penalized logistic regression for GWAS-scale case-control analysis ref [75].",
+    "refNo": 74,
+    "title": "Genome-wide association analysis by lasso penalized logistic regression",
+    "marker_text": "[74]"
+  },
+  {
+    "sentence": "Lasso-based regularization provided the conceptual basis for sparse selection in high-dimensional settings ref [74], and was subsequently adapted to penalized logistic regression for GWAS-scale case-control analysis ref [75].",
+    "refNo": 75,
+    "title": "Simultaneous analysis of all SNPs in genome-wide and re-sequencing association studies",
+    "marker_text": "[75]"
+  },
+  {
+    "sentence": "Related multivariate strategies, including simultaneous SNP modeling and Bayesian-inspired shrinkage, improve localization and can reduce redundant signals in regions of strong LD ref [77].",
+    "refNo": 77,
+    "title": "Prioritized subset analysis: improving power in genome-wide association studies",
+    "marker_text": "[77]"
+  },
+  {
+    "sentence": "Power can also be increased by biologically informed filtering, as exemplified by prioritized subset analysis and pathway-guided interaction screening ref [10].",
+    "refNo": 10,
+    "title": "Automatic exudate detection using active contour model and regionwise classification",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Exhaustive two-locus testing remains computationally prohibitive at GWAS scale, motivating efficient algorithms such as TEAM for contingency-table-based epistasis scans ref [72].",
+    "refNo": 72,
+    "title": "Screen and clean: A tool for identifying interactions in genome-wide association studies",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "Hybrid procedures such as screen-and-clean use staged lasso screening followed by confirmatory testing to control type I error while exploring interaction models ref [73], and LASSO-PCA combinations further target gene-gene interactions in ultra-high-dimensional data ref [9].",
+    "refNo": 73,
+    "title": "Regression shrinkage and selection via the lasso",
+    "marker_text": "[73]"
+  },
+  {
+    "sentence": "Hybrid procedures such as screen-and-clean use staged lasso screening followed by confirmatory testing to control type I error while exploring interaction models ref [73], and LASSO-PCA combinations further target gene-gene interactions in ultra-high-dimensional data ref [9].",
+    "refNo": 9,
+    "title": "An ensemble-based system for microaneurysm detection and diabetic retinopathy grading",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Together, these approaches define a practical statistical toolbox for ocular genomic discovery, where modest marginal effects, polygenicity, and potential interaction structure demand methods beyond conventional single-SNP association tests ref [3,4,6,8].",
+    "refNo": 3,
+    "title": "The complications of age-related macular degeneration prevention trial (CAPT): rationale, design and methodology",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Together, these approaches define a practical statistical toolbox for ocular genomic discovery, where modest marginal effects, polygenicity, and potential interaction structure demand methods beyond conventional single-SNP association tests ref [3,4,6,8].",
+    "refNo": 4,
+    "title": "Image analysis in modern ophthalmology: from acquisition to computer assisted diagnosis and telemedicine",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Together, these approaches define a practical statistical toolbox for ocular genomic discovery, where modest marginal effects, polygenicity, and potential interaction structure demand methods beyond conventional single-SNP association tests ref [3,4,6,8].",
+    "refNo": 6,
+    "title": "Learning a classification model for segmentation",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Together, these approaches define a practical statistical toolbox for ocular genomic discovery, where modest marginal effects, polygenicity, and potential interaction structure demand methods beyond conventional single-SNP association tests ref [3,4,6,8].",
+    "refNo": 8,
+    "title": "Automated feature extraction for early detection of diabetic retinopathy in fundus images",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "In this respect, analyses of presumed inherited eye diseases in Entlebucher Mountain Dogs showed measurable heritability for noncongenital cataract and progressive retinal atrophy, together with a moderate positive genetic correlation between the two traits, illustrating how liability models can reveal shared genetic influences across ocular phenotypes even outside human populations ref [2].",
+    "refNo": 2,
+    "title": "Ocular biometry in an urban Indian population: the Singapore Indian eye study (SINDI)",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "In the canine study, threshold animal models yielded larger heritability estimates than linear models, and estimates were sensitive to diagnostic expertise and ascertainment practices, underscoring that phenotype definition and observer reliability materially affect inferred genetic architecture ref [2].",
+    "refNo": 2,
+    "title": "Ocular biometry in an urban Indian population: the Singapore Indian eye study (SINDI)",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "First, animal populations provide quasi-experimental structures for dissecting inherited eye disorders and for testing multivariate and threshold-based models of disease liability ref [2].",
+    "refNo": 2,
+    "title": "Ocular biometry in an urban Indian population: the Singapore Indian eye study (SINDI)",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Graph-theoretic segmentation of the optic disc margin in 3D OCT demonstrated that Bruch’s membrane opening-related boundaries could be localized reproducibly, while suppressing vessel-induced artifacts through projection-based cost design ref [57].",
+    "refNo": 57,
+    "title": "Automated segmentation of the optic disc margin in 3D optical coherence tomography images using a graph-theoretic approach",
+    "marker_text": "[57]"
+  },
+  {
+    "sentence": "Closely related methods for automated cup and rim segmentation from spectral-domain OCT further showed that OCT-derived cup-to-disc estimates correlate strongly with expert planimetry, helping bridge legacy clinical concepts and volumetric imaging ref [79].",
+    "refNo": 79,
+    "title": "Automated segmentation of neural canal opening and optic cup in 3D spectral optical coherence tomography images of the optic nerve head",
+    "marker_text": "[79]"
+  },
+  {
+    "sentence": "Automated segmentation of the neural canal opening (NCO) and optic cup at the RPE/Bruch’s membrane level explicitly reframed biomarker extraction around a potentially more reproducible landmark than the subjective clinical disc margin ref [4].",
+    "refNo": 4,
+    "title": "Image analysis in modern ophthalmology: from acquisition to computer assisted diagnosis and telemedicine",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "By anchoring measurements to NCO/BMO-related geometry, OCT analysis can support more robust estimates of rim loss, cup expansion, and structural change over time ref [57], ref [4].",
+    "refNo": 57,
+    "title": "Automated segmentation of the optic disc margin in 3D optical coherence tomography images using a graph-theoretic approach",
+    "marker_text": "[57]"
+  },
+  {
+    "sentence": "By anchoring measurements to NCO/BMO-related geometry, OCT analysis can support more robust estimates of rim loss, cup expansion, and structural change over time ref [57], ref [4].",
+    "refNo": 4,
+    "title": "Image analysis in modern ophthalmology: from acquisition to computer assisted diagnosis and telemedicine",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "This progression—from disc and cup contouring to NCO/BMO-centered quantification—illustrates how structural OCT is evolving into a platform for objective glaucoma phenotyping and progression-sensitive ophthalmic biomarkers ref [79], ref [4].",
+    "refNo": 79,
+    "title": "Automated segmentation of neural canal opening and optic cup in 3D spectral optical coherence tomography images of the optic nerve head",
+    "marker_text": "[79]"
+  },
+  {
+    "sentence": "This progression—from disc and cup contouring to NCO/BMO-centered quantification—illustrates how structural OCT is evolving into a platform for objective glaucoma phenotyping and progression-sensitive ophthalmic biomarkers ref [79], ref [4].",
+    "refNo": 4,
+    "title": "Image analysis in modern ophthalmology: from acquisition to computer assisted diagnosis and telemedicine",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Early systems were largely knowledge-driven and symbolic: CASNET/EXPERT formalized causal and hierarchical representations of disease states, while INTERNIST-I demonstrated how large rule-based knowledge bases could generate broad differentials for complex internal-medicine presentations, albeit with clear limitations in explanation, temporal reasoning, and transportability across settings [1], ref [64].",
+    "refNo": 1,
+    "title": "Rationale and methodology for a population-based study of eye diseases in Malay people: The Singapore Malay eye study (SiMES)",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Early systems were largely knowledge-driven and symbolic: CASNET/EXPERT formalized causal and hierarchical representations of disease states, while INTERNIST-I demonstrated how large rule-based knowledge bases could generate broad differentials for complex internal-medicine presentations, albeit with clear limitations in explanation, temporal reasoning, and transportability across settings [1], ref [64].",
+    "refNo": 64,
+    "title": "The importance of genes and environment for ocular refraction and its determiners: a population based study among 20-45 year old twins",
+    "marker_text": "[64]"
+  },
+  {
+    "sentence": "Sequential Bayesian approaches showed how differential diagnosis could be updated as findings accrued, but also exposed the fragility of expert-estimated priors, sensitivities, and specificities [2].",
+    "refNo": 2,
+    "title": "Ocular biometry in an urban Indian population: the Singapore Indian eye study (SINDI)",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Haug et al. later showed that revising diagnostic logic using a representative clinical database materially changed these parameters and improved system behavior, underscoring that diagnostic reasoning must be calibrated to the target population rather than to expert intuition alone [3].",
+    "refNo": 3,
+    "title": "The complications of age-related macular degeneration prevention trial (CAPT): rationale, design and methodology",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Related pattern-based systems such as MEDAS and comparative evaluations of computer-based diagnostic aids further reinforced the shift from handcrafted heuristics toward empirically tuned inference [38], [2].",
+    "refNo": 38,
+    "title": "Automatic detection of cortical and PSC cataracts using texture and intensity analysis on retro-illumination lens images",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Related pattern-based systems such as MEDAS and comparative evaluations of computer-based diagnostic aids further reinforced the shift from handcrafted heuristics toward empirically tuned inference [38], [2].",
+    "refNo": 2,
+    "title": "Ocular biometry in an urban Indian population: the Singapore Indian eye study (SINDI)",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Study-design analyses of computerized support for pneumonia illustrated challenges that remain highly relevant to ophthalmology: low disease prevalence, verification bias, imperfect reference standards, clinician behavior, and the difference between stand-alone accuracy and integrated point-of-care usefulness [4].",
+    "refNo": 4,
+    "title": "Image analysis in modern ophthalmology: from acquisition to computer assisted diagnosis and telemedicine",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Contemporary ophthalmic systems inherit this trajectory: they increasingly fuse image-derived probabilities with longitudinal records and practice context, moving from isolated lesion detection toward deployable reasoning systems whose value depends as much on calibration, workflow integration, and evaluation rigor as on algorithmic performance [48], [50].",
+    "refNo": 48,
+    "title": "Automated diagnosis of referable maculopathy in diabetic retinopathy screening",
+    "marker_text": "[48]"
+  },
+  {
+    "sentence": "Contemporary ophthalmic systems inherit this trajectory: they increasingly fuse image-derived probabilities with longitudinal records and practice context, moving from isolated lesion detection toward deployable reasoning systems whose value depends as much on calibration, workflow integration, and evaluation rigor as on algorithmic performance [48], [50].",
+    "refNo": 50,
+    "title": "Automated detection of diabetic retinopathy in a fundus photographic screening population",
+    "marker_text": "[50]"
+  },
+  {
+    "sentence": "Early fusion studies already showed that complementary signals can improve diagnostic discrimination beyond any isolated modality, as seen in diabetic retinopathy information fusion, OCT-perimetry integration for glaucoma, and heterogeneous models for pathological myopia diagnosis ref [28], ref [2], ref [3].",
+    "refNo": 28,
+    "title": "Automatic diagnosis of pathological myopia from heterogeneous biomedical data",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Early fusion studies already showed that complementary signals can improve diagnostic discrimination beyond any isolated modality, as seen in diabetic retinopathy information fusion, OCT-perimetry integration for glaucoma, and heterogeneous models for pathological myopia diagnosis ref [28], ref [2], ref [3].",
+    "refNo": 2,
+    "title": "Ocular biometry in an urban Indian population: the Singapore Indian eye study (SINDI)",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Early fusion studies already showed that complementary signals can improve diagnostic discrimination beyond any isolated modality, as seen in diabetic retinopathy information fusion, OCT-perimetry integration for glaucoma, and heterogeneous models for pathological myopia diagnosis ref [28], ref [2], ref [3].",
+    "refNo": 3,
+    "title": "The complications of age-related macular degeneration prevention trial (CAPT): rationale, design and methodology",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "In the latter, multiple-kernel learning over fundus, clinical, and SNP data achieved higher accuracy than image-only, clinical-only, or genotype-only models, offering an instructive example of how ophthalmic CAD can move from image recognition to risk modeling ref [2].",
+    "refNo": 2,
+    "title": "Ocular biometry in an urban Indian population: the Singapore Indian eye study (SINDI)",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Population-based studies and twin studies in glaucoma, cataract, macular degeneration, and refractive error support the biological plausibility of such models by showing that clinically relevant endophenotypes and disease liability have substantial heritable components ref [4], ref [5], ref [6], ref [7], ref [8], ref [9].",
+    "refNo": 4,
+    "title": "Image analysis in modern ophthalmology: from acquisition to computer assisted diagnosis and telemedicine",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Population-based studies and twin studies in glaucoma, cataract, macular degeneration, and refractive error support the biological plausibility of such models by showing that clinically relevant endophenotypes and disease liability have substantial heritable components ref [4], ref [5], ref [6], ref [7], ref [8], ref [9].",
+    "refNo": 5,
+    "title": "Automatic fundus images mosaic based on SIFT feature",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Population-based studies and twin studies in glaucoma, cataract, macular degeneration, and refractive error support the biological plausibility of such models by showing that clinically relevant endophenotypes and disease liability have substantial heritable components ref [4], ref [5], ref [6], ref [7], ref [8], ref [9].",
+    "refNo": 6,
+    "title": "Learning a classification model for segmentation",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Population-based studies and twin studies in glaucoma, cataract, macular degeneration, and refractive error support the biological plausibility of such models by showing that clinically relevant endophenotypes and disease liability have substantial heritable components ref [4], ref [5], ref [6], ref [7], ref [8], ref [9].",
+    "refNo": 7,
+    "title": "A new curvelet transform based method for extraction of red lesions in digital color retinal images",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Population-based studies and twin studies in glaucoma, cataract, macular degeneration, and refractive error support the biological plausibility of such models by showing that clinically relevant endophenotypes and disease liability have substantial heritable components ref [4], ref [5], ref [6], ref [7], ref [8], ref [9].",
+    "refNo": 8,
+    "title": "Automated feature extraction for early detection of diabetic retinopathy in fundus images",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Population-based studies and twin studies in glaucoma, cataract, macular degeneration, and refractive error support the biological plausibility of such models by showing that clinically relevant endophenotypes and disease liability have substantial heritable components ref [4], ref [5], ref [6], ref [7], ref [8], ref [9].",
+    "refNo": 9,
+    "title": "An ensemble-based system for microaneurysm detection and diabetic retinopathy grading",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "In parallel, statistical learning methods developed for high-dimensional association data, including lasso-based genome-wide modeling and interaction screening, provide a methodological basis for selecting compact predictive biomarker sets from very heterogeneous feature spaces ref [10], ref [11], ref [12].",
+    "refNo": 10,
+    "title": "Automatic exudate detection using active contour model and regionwise classification",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "In parallel, statistical learning methods developed for high-dimensional association data, including lasso-based genome-wide modeling and interaction screening, provide a methodological basis for selecting compact predictive biomarker sets from very heterogeneous feature spaces ref [10], ref [11], ref [12].",
+    "refNo": 11,
+    "title": "Retinal microaneurysm detection through local rotating cross-section profile analysis",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "In parallel, statistical learning methods developed for high-dimensional association data, including lasso-based genome-wide modeling and interaction screening, provide a methodological basis for selecting compact predictive biomarker sets from very heterogeneous feature spaces ref [10], ref [11], ref [12].",
+    "refNo": 12,
+    "title": "Automated microaneurysm detection using local contrast normalization and local vessel detection",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "The promise is therefore not merely higher AUCs, but clinically actionable stratification that links observed retinal patterns to individualized risk profiles and longitudinal decision support ref [2], ref [13].",
+    "refNo": 2,
+    "title": "Ocular biometry in an urban Indian population: the Singapore Indian eye study (SINDI)",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "The promise is therefore not merely higher AUCs, but clinically actionable stratification that links observed retinal patterns to individualized risk profiles and longitudinal decision support ref [2], ref [13].",
+    "refNo": 13,
+    "title": "Towards automatic detection of age-related macular degeneration in retinal fundus images",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Clinical users must interpret probabilities, images, alerts, and longitudinal trends under bounded attention and working memory; classic cognitive psychology already warned that human processing capacity is limited, particularly when many discrete alternatives or cues must be handled simultaneously ref [83].",
+    "refNo": 83,
+    "title": "The magical number seven plus or minus two: some limits on our capacity for processing information",
+    "marker_text": "[83]"
+  },
+  {
+    "sentence": "This helps explain why rule-heavy expert systems, although influential, often struggled at the point of care despite strong internal logic, as seen in early consultation frameworks such as CASNET/EXPERT, Internist-I, and later database-driven revision systems ref [2], ref [3], ref [4].",
+    "refNo": 2,
+    "title": "Ocular biometry in an urban Indian population: the Singapore Indian eye study (SINDI)",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "This helps explain why rule-heavy expert systems, although influential, often struggled at the point of care despite strong internal logic, as seen in early consultation frameworks such as CASNET/EXPERT, Internist-I, and later database-driven revision systems ref [2], ref [3], ref [4].",
+    "refNo": 3,
+    "title": "The complications of age-related macular degeneration prevention trial (CAPT): rationale, design and methodology",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "This helps explain why rule-heavy expert systems, although influential, often struggled at the point of care despite strong internal logic, as seen in early consultation frameworks such as CASNET/EXPERT, Internist-I, and later database-driven revision systems ref [2], ref [3], ref [4].",
+    "refNo": 4,
+    "title": "Image analysis in modern ophthalmology: from acquisition to computer assisted diagnosis and telemedicine",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Studies on automated glaucoma support and image-based retinal classification illustrate the promise of algorithmic assistance, but they also imply a risk of cognitive overload if systems expose too many intermediate variables instead of actionable abstractions ref [5], ref [6], ref [7].",
+    "refNo": 5,
+    "title": "Automatic fundus images mosaic based on SIFT feature",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Studies on automated glaucoma support and image-based retinal classification illustrate the promise of algorithmic assistance, but they also imply a risk of cognitive overload if systems expose too many intermediate variables instead of actionable abstractions ref [5], ref [6], ref [7].",
+    "refNo": 6,
+    "title": "Learning a classification model for segmentation",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Studies on automated glaucoma support and image-based retinal classification illustrate the promise of algorithmic assistance, but they also imply a risk of cognitive overload if systems expose too many intermediate variables instead of actionable abstractions ref [5], ref [6], ref [7].",
+    "refNo": 7,
+    "title": "A new curvelet transform based method for extraction of red lesions in digital color retinal images",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "More recent fusion strategies, such as combining OCT with perimetry for glaucoma diagnostics or integrating heterogeneous evidence for diabetic retinopathy, improve discriminative performance, yet they further increase interface and workflow complexity unless carefully curated for clinical use ref [8], ref [9].",
+    "refNo": 8,
+    "title": "Automated feature extraction for early detection of diabetic retinopathy in fundus images",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "More recent fusion strategies, such as combining OCT with perimetry for glaucoma diagnostics or integrating heterogeneous evidence for diabetic retinopathy, improve discriminative performance, yet they further increase interface and workflow complexity unless carefully curated for clinical use ref [8], ref [9].",
+    "refNo": 9,
+    "title": "An ensemble-based system for microaneurysm detection and diabetic retinopathy grading",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Experience from computerized decision support outside ophthalmology showed that evaluation must consider workflow, acceptance, and failure modes, not accuracy alone ref [10].",
+    "refNo": 10,
+    "title": "Automatic exudate detection using active contour model and regionwise classification",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Hence, the next generation of ophthalmic decision systems should prioritize selective disclosure, uncertainty-aware explanations, and tiered recommendations that respect human cognitive bottlenecks while preserving the benefits of multimodal predictive modeling ref [83], ref [11], ref [12].",
+    "refNo": 83,
+    "title": "The magical number seven plus or minus two: some limits on our capacity for processing information",
+    "marker_text": "[83]"
+  },
+  {
+    "sentence": "Hence, the next generation of ophthalmic decision systems should prioritize selective disclosure, uncertainty-aware explanations, and tiered recommendations that respect human cognitive bottlenecks while preserving the benefits of multimodal predictive modeling ref [83], ref [11], ref [12].",
+    "refNo": 11,
+    "title": "Retinal microaneurysm detection through local rotating cross-section profile analysis",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Hence, the next generation of ophthalmic decision systems should prioritize selective disclosure, uncertainty-aware explanations, and tiered recommendations that respect human cognitive bottlenecks while preserving the benefits of multimodal predictive modeling ref [83], ref [11], ref [12].",
+    "refNo": 12,
+    "title": "Automated microaneurysm detection using local contrast normalization and local vessel detection",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "A compact taxonomy figure can map fundus, OCT, slit-lamp, and retro-illumination imaging to major diseases such as diabetic retinopathy, glaucoma, age-related macular degeneration, cataract, and pathological myopia, reflecting the modality-specific workflows described across representative systems for retinal, optic nerve head, and lens analysis ref [4], ref [31], ref [28], ref [33], ref [79], ref [42].",
+    "refNo": 4,
+    "title": "Image analysis in modern ophthalmology: from acquisition to computer assisted diagnosis and telemedicine",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "A compact taxonomy figure can map fundus, OCT, slit-lamp, and retro-illumination imaging to major diseases such as diabetic retinopathy, glaucoma, age-related macular degeneration, cataract, and pathological myopia, reflecting the modality-specific workflows described across representative systems for retinal, optic nerve head, and lens analysis ref [4], ref [31], ref [28], ref [33], ref [79], ref [42].",
+    "refNo": 31,
+    "title": "Computer-based classification of eye diseases",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "A compact taxonomy figure can map fundus, OCT, slit-lamp, and retro-illumination imaging to major diseases such as diabetic retinopathy, glaucoma, age-related macular degeneration, cataract, and pathological myopia, reflecting the modality-specific workflows described across representative systems for retinal, optic nerve head, and lens analysis ref [4], ref [31], ref [28], ref [33], ref [79], ref [42].",
+    "refNo": 28,
+    "title": "Automatic diagnosis of pathological myopia from heterogeneous biomedical data",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "A compact taxonomy figure can map fundus, OCT, slit-lamp, and retro-illumination imaging to major diseases such as diabetic retinopathy, glaucoma, age-related macular degeneration, cataract, and pathological myopia, reflecting the modality-specific workflows described across representative systems for retinal, optic nerve head, and lens analysis ref [4], ref [31], ref [28], ref [33], ref [79], ref [42].",
+    "refNo": 33,
+    "title": "A computer assisted method for nuclear cataract grading from slit-lamp images using ranking",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "A compact taxonomy figure can map fundus, OCT, slit-lamp, and retro-illumination imaging to major diseases such as diabetic retinopathy, glaucoma, age-related macular degeneration, cataract, and pathological myopia, reflecting the modality-specific workflows described across representative systems for retinal, optic nerve head, and lens analysis ref [4], ref [31], ref [28], ref [33], ref [79], ref [42].",
+    "refNo": 79,
+    "title": "Automated segmentation of neural canal opening and optic cup in 3D spectral optical coherence tomography images of the optic nerve head",
+    "marker_text": "[79]"
+  },
+  {
+    "sentence": "A compact taxonomy figure can map fundus, OCT, slit-lamp, and retro-illumination imaging to major diseases such as diabetic retinopathy, glaucoma, age-related macular degeneration, cataract, and pathological myopia, reflecting the modality-specific workflows described across representative systems for retinal, optic nerve head, and lens analysis ref [4], ref [31], ref [28], ref [33], ref [79], ref [42].",
+    "refNo": 42,
+    "title": "Automated diagnosis of Age-related macular degeneration from color retinal fundus images",
+    "marker_text": "[42]"
+  },
+  {
+    "sentence": "For example, diabetic retinopathy tables can distinguish microaneurysm-, exudate-, and screening-level systems ref [8], ref [10], ref [49], while glaucoma tables should separately report disc/cup segmentation, vessel-based cues, stereo analysis, and multimodal fusion ref [54], ref [15], ref [55], ref [27].",
+    "refNo": 8,
+    "title": "Automated feature extraction for early detection of diabetic retinopathy in fundus images",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "For example, diabetic retinopathy tables can distinguish microaneurysm-, exudate-, and screening-level systems ref [8], ref [10], ref [49], while glaucoma tables should separately report disc/cup segmentation, vessel-based cues, stereo analysis, and multimodal fusion ref [54], ref [15], ref [55], ref [27].",
+    "refNo": 10,
+    "title": "Automatic exudate detection using active contour model and regionwise classification",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "For example, diabetic retinopathy tables can distinguish microaneurysm-, exudate-, and screening-level systems ref [8], ref [10], ref [49], while glaucoma tables should separately report disc/cup segmentation, vessel-based cues, stereo analysis, and multimodal fusion ref [54], ref [15], ref [55], ref [27].",
+    "refNo": 49,
+    "title": "Automated analysis of retinal images for detection of referable diabetic retinopathy",
+    "marker_text": "[49]"
+  },
+  {
+    "sentence": "For example, diabetic retinopathy tables can distinguish microaneurysm-, exudate-, and screening-level systems ref [8], ref [10], ref [49], while glaucoma tables should separately report disc/cup segmentation, vessel-based cues, stereo analysis, and multimodal fusion ref [54], ref [15], ref [55], ref [27].",
+    "refNo": 54,
+    "title": "Automated optic nerve analysis for diagnostic support in glaucoma",
+    "marker_text": "[54]"
+  },
+  {
+    "sentence": "For example, diabetic retinopathy tables can distinguish microaneurysm-, exudate-, and screening-level systems ref [8], ref [10], ref [49], while glaucoma tables should separately report disc/cup segmentation, vessel-based cues, stereo analysis, and multimodal fusion ref [54], ref [15], ref [55], ref [27].",
+    "refNo": 15,
+    "title": "Automatic detection of the optic cup using vessel kinking in digital retinal fundus images",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "For example, diabetic retinopathy tables can distinguish microaneurysm-, exudate-, and screening-level systems ref [8], ref [10], ref [49], while glaucoma tables should separately report disc/cup segmentation, vessel-based cues, stereo analysis, and multimodal fusion ref [54], ref [15], ref [55], ref [27].",
+    "refNo": 55,
+    "title": "Determination of cup and disc ratio of optical nerve head for diagnosis of glaucoma on stereo retinal fundus image pairs",
+    "marker_text": "[55]"
+  },
+  {
+    "sentence": "For example, diabetic retinopathy tables can distinguish microaneurysm-, exudate-, and screening-level systems ref [8], ref [10], ref [49], while glaucoma tables should separately report disc/cup segmentation, vessel-based cues, stereo analysis, and multimodal fusion ref [54], ref [15], ref [55], ref [27].",
+    "refNo": 27,
+    "title": "Integration and fusion of standard automated perimetry and optical coherence tomography data for improved automated glaucoma diagnostics",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "Similar disease-specific tables are useful for AMD, cataract, and myopia, where the algorithmic targets differ substantially from lesion detection in DR ref [41], ref [34], ref [24].",
+    "refNo": 41,
+    "title": "Automatic grading of macular degeneration from color fundus images",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "Similar disease-specific tables are useful for AMD, cataract, and myopia, where the algorithmic targets differ substantially from lesion detection in DR ref [41], ref [34], ref [24].",
+    "refNo": 34,
+    "title": "Automatic detection of posterior subcapsular cataract opacity for cataract screening",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "Similar disease-specific tables are useful for AMD, cataract, and myopia, where the algorithmic targets differ substantially from lesion detection in DR ref [41], ref [34], ref [24].",
+    "refNo": 24,
+    "title": "Automatic classification of pathological myopia in retinal fundus images using PAMELA",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Because studies span population screening, clinic-based diagnosis, and progression monitoring, visual summaries should also indicate whether validation is internal, cross-dataset, or longitudinal ref [46], ref [51].",
+    "refNo": 46,
+    "title": "Robust detection and classification of longitudinal changes in color retinal fundus images for monitoring diabetic retinopathy",
+    "marker_text": "[46]"
+  },
+  {
+    "sentence": "Because studies span population screening, clinic-based diagnosis, and progression monitoring, visual summaries should also indicate whether validation is internal, cross-dataset, or longitudinal ref [46], ref [51].",
+    "refNo": 51,
+    "title": "Diabetic retinopathy screening using digital non-mydriatic fundus photography and automated image analysis",
+    "marker_text": "[51]"
+  }
+]

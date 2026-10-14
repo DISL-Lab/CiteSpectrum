@@ -1,0 +1,434 @@
+[
+  {
+    "sentence": "In particular, the review process, study selection logic, and synthesis structure are aligned with PRISMA principles, which were developed to improve the completeness of reporting in systematic reviews and meta-analyses and to make key methodological decisions explicit for readers and decision-makers ref [1].",
+    "refNo": 1,
+    "title": "Preferred reporting items for systematic reviews and metaanalyses: the PRISMA statement",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "This delimitation is methodologically necessary because intervention setting, comparator structure, time horizon, and payer perspective strongly shape economic results; combining fundamentally different delivery contexts would reduce the interpretability of any cross-review methodological overview ref [1].",
+    "refNo": 1,
+    "title": "Preferred reporting items for systematic reviews and metaanalyses: the PRISMA statement",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Accordingly, the unit of analysis is the systematic review rather than the individual trial or model, while noting where review-level reporting obscures important features of the underlying economic evidence ref [1].",
+    "refNo": 1,
+    "title": "Preferred reporting items for systematic reviews and metaanalyses: the PRISMA statement",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Squires et al. argue that model structure in public health should be grounded in a systems perspective, developed through explicit problem formulation, stakeholder engagement, and systematic consideration of determinants of health; these principles are directly relevant to falls prevention, where outcomes depend on mobility, housing conditions, adherence, comorbidity, and care pathways ref [2].",
+    "refNo": 2,
+    "title": "A framework for developing the structure of public health economic models",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "This broader framing is consistent with guidance that public health interventions often generate diffuse, intersectoral, and time-dependent effects that are poorly captured by overly simple model structures ref [2], ref [2].",
+    "refNo": 2,
+    "title": "A framework for developing the structure of public health economic models",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "This broader framing is consistent with guidance that public health interventions often generate diffuse, intersectoral, and time-dependent effects that are poorly captured by overly simple model structures ref [2], ref [2].",
+    "refNo": 2,
+    "title": "A framework for developing the structure of public health economic models",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "In practice, this implies attention to whether reviews included decision trees, Markov models, individual-level simulation, or other approaches capable of representing recurrence, heterogeneity, and complex causal pathways ref [2], ref [3].",
+    "refNo": 2,
+    "title": "A framework for developing the structure of public health economic models",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "In practice, this implies attention to whether reviews included decision trees, Markov models, individual-level simulation, or other approaches capable of representing recurrence, heterogeneity, and complex causal pathways ref [2], ref [3].",
+    "refNo": 3,
+    "title": "Cochrane Handbook for Systematic Reviews of Interventions version 62",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "This overview therefore treats model scope as a central methodological issue, because structural simplification can materially affect estimated cost-effectiveness and the transferability of findings to community public health decision-making ref [2], ref [3], ref [4].",
+    "refNo": 2,
+    "title": "A framework for developing the structure of public health economic models",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "This overview therefore treats model scope as a central methodological issue, because structural simplification can materially affect estimated cost-effectiveness and the transferability of findings to community public health decision-making ref [2], ref [3], ref [4].",
+    "refNo": 3,
+    "title": "Cochrane Handbook for Systematic Reviews of Interventions version 62",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "This overview therefore treats model scope as a central methodological issue, because structural simplification can materially affect estimated cost-effectiveness and the transferability of findings to community public health decision-making ref [2], ref [3], ref [4].",
+    "refNo": 4,
+    "title": "A systematic literature review of the key challenges for developing the structure of public health economic models",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Standard cost-effectiveness analyses typically adopt the implicit assumption that health gains are valued equally regardless of who benefits, yet this “a QALY is a QALY” position may be inadequate for public health interventions that differentially affect socially disadvantaged groups, older adults with frailty, or those facing barriers to service access ref [1].",
+    "refNo": 1,
+    "title": "Preferred reporting items for systematic reviews and metaanalyses: the PRISMA statement",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Where reported, we distinguish between simple subgroup analysis and more explicit equity-oriented approaches, including equity weighting, distributional analysis, or discussion of trade-offs between total health gain and reduction in unfair health inequalities ref [1].",
+    "refNo": 1,
+    "title": "Preferred reporting items for systematic reviews and metaanalyses: the PRISMA statement",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Accordingly, this overview does not attempt to resolve normative debates about the appropriate social value of reducing inequalities; rather, it documents the extent to which equity-relevant assumptions, data, and outcomes were made visible in the review evidence base, and highlights where future falls prevention models could move beyond average-effect estimates toward more distribution-sensitive public health appraisal ref [1].",
+    "refNo": 1,
+    "title": "Preferred reporting items for systematic reviews and metaanalyses: the PRISMA statement",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "The PRISMA statement provides the core reporting framework for documenting review rationale, information sources, study selection, and synthesis methods, thereby improving reproducibility and critical appraisal ref [1].",
+    "refNo": 1,
+    "title": "Preferred reporting items for systematic reviews and metaanalyses: the PRISMA statement",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "The Cochrane Handbook remains particularly relevant for structuring these processes, as it emphasises rigorous question formulation, comprehensive searching, standardised study selection, and transparent handling of bias and heterogeneity in evidence synthesis ref [3].",
+    "refNo": 3,
+    "title": "Cochrane Handbook for Systematic Reviews of Interventions version 62",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Such detail supports a more robust interpretation of whether differences in reported cost-effectiveness reflect genuine intervention effects or merely divergent methodological choices ref [1], ref [3].",
+    "refNo": 1,
+    "title": "Preferred reporting items for systematic reviews and metaanalyses: the PRISMA statement",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Such detail supports a more robust interpretation of whether differences in reported cost-effectiveness reflect genuine intervention effects or merely divergent methodological choices ref [1], ref [3].",
+    "refNo": 3,
+    "title": "Cochrane Handbook for Systematic Reviews of Interventions version 62",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "In this view, structural development should begin with a documented understanding of the intervention, target population, causal mechanisms, contextual influences, and relevant outcomes, with transparency about why particular states, pathways, and feedbacks are included or omitted ref [2], ref [4].",
+    "refNo": 2,
+    "title": "A framework for developing the structure of public health economic models",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "In this view, structural development should begin with a documented understanding of the intervention, target population, causal mechanisms, contextual influences, and relevant outcomes, with transparency about why particular states, pathways, and feedbacks are included or omitted ref [2], ref [4].",
+    "refNo": 4,
+    "title": "A systematic literature review of the key challenges for developing the structure of public health economic models",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Squires et al. emphasize that public health models frequently need to accommodate complexity, multicomponent interventions, behavioural responses, and social determinants of health; overly simplified structures may therefore compromise validity and policy relevance ref [4].",
+    "refNo": 4,
+    "title": "A systematic literature review of the key challenges for developing the structure of public health economic models",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Their framework further recommends a systems-oriented approach, iterative stakeholder engagement, and explicit justification of structural assumptions throughout model development ref [2].",
+    "refNo": 2,
+    "title": "A framework for developing the structure of public health economic models",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Particular attention should be paid to whether falls prevention models moved beyond short-term event counting toward representations of recurrent risk and longer-term trajectories, since these structural decisions materially influence estimated cost-effectiveness and transferability across community settings ref [2], ref [4].",
+    "refNo": 2,
+    "title": "A framework for developing the structure of public health economic models",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Particular attention should be paid to whether falls prevention models moved beyond short-term event counting toward representations of recurrent risk and longer-term trajectories, since these structural decisions materially influence estimated cost-effectiveness and transferability across community settings ref [2], ref [4].",
+    "refNo": 4,
+    "title": "A systematic literature review of the key challenges for developing the structure of public health economic models",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Reviews of public health modeling therefore emphasize three particularly important challenges: incorporating non-healthcare costs and outcomes, addressing equity, and representing dynamic complexity and behavior change in a credible model structure ref [5].",
+    "refNo": 5,
+    "title": "Economic evaluation of health promotion interventions for older people: do applied economic studies meet the methodological challenges?",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Huter et al. show that only a small share of studies include such categories, and methods remain highly inconsistent, limiting comparability and potentially undervaluing interventions targeted at later life ref [2].",
+    "refNo": 2,
+    "title": "A framework for developing the structure of public health economic models",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Squires et al. propose that good public health modeling should adopt a systems perspective, document the problem in detail, engage stakeholders throughout model development, and systematically consider the social determinants of health when defining causal pathways and outcomes ref [4].",
+    "refNo": 4,
+    "title": "A systematic literature review of the key challenges for developing the structure of public health economic models",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "For systematic reviews of economic evaluations in falls prevention, these principles suggest that methodological appraisal should extend beyond reporting quality to whether studies justified their model scope, perspective, time horizon, and handling of complexity in ways appropriate to community-based public health decision making ref [4], ref [5], ref [2].",
+    "refNo": 4,
+    "title": "A systematic literature review of the key challenges for developing the structure of public health economic models",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "For systematic reviews of economic evaluations in falls prevention, these principles suggest that methodological appraisal should extend beyond reporting quality to whether studies justified their model scope, perspective, time horizon, and handling of complexity in ways appropriate to community-based public health decision making ref [4], ref [5], ref [2].",
+    "refNo": 5,
+    "title": "Economic evaluation of health promotion interventions for older people: do applied economic studies meet the methodological challenges?",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "For systematic reviews of economic evaluations in falls prevention, these principles suggest that methodological appraisal should extend beyond reporting quality to whether studies justified their model scope, perspective, time horizon, and handling of complexity in ways appropriate to community-based public health decision making ref [4], ref [5], ref [2].",
+    "refNo": 2,
+    "title": "A framework for developing the structure of public health economic models",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "A key systematic review of full economic evaluations for populations aged 65 years and older identified only 29 eligible studies from 2000–2015, with a strong concentration on fall prevention and far fewer evaluations of broader health promotion domains such as vaccination, nutrition, or multi-component community programmes ref [6].",
+    "refNo": 6,
+    "title": "Economic evaluation of health promotion and primary prevention actions for older people-a systematic review",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "The review by Dubas-Jakóbczyk et al. concluded that diverse fall-prevention exercise programmes frequently appeared cost-effective, although results depended on study quality, comparator choice, and the time horizon used to capture downstream benefits ref [6].",
+    "refNo": 6,
+    "title": "Economic evaluation of health promotion and primary prevention actions for older people-a systematic review",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Evaluations often rely on short follow-up periods, narrow health-sector perspectives, and limited measurement of non-health outcomes such as independence, social participation, or caregiver effects ref [6].",
+    "refNo": 6,
+    "title": "Economic evaluation of health promotion and primary prevention actions for older people-a systematic review",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "For this survey, the broader lesson is that evidence from health promotion for older adults supports the economic promise of prevention, but also underscores the need for longer-term, societally informed models capable of capturing heterogeneous trajectories of ageing and functional decline ref [6].",
+    "refNo": 6,
+    "title": "Economic evaluation of health promotion and primary prevention actions for older people-a systematic review",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "In a randomized trial in New Zealand, a nurse-delivered home exercise programme for adults aged 75 years and older reduced falls by 46% and eliminated fall-related hospital admissions observed in the control group over one year, indicating that relatively low-intensity delivery models can retain effectiveness outside specialist services ref [2].",
+    "refNo": 2,
+    "title": "A framework for developing the structure of public health economic models",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "The same trial also reported favorable economic results: the programme cost NZ$1803 per fall prevented from the programme perspective, falling to NZ$155 per fall prevented when hospital costs averted were incorporated, with greater cost-effectiveness among participants aged 80 years and over ref [2].",
+    "refNo": 2,
+    "title": "A framework for developing the structure of public health economic models",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Complementing this individual-level evidence, a Swedish quasi-experimental evaluation of a five-year community elderly safety-promotion programme found that a multicomponent strategy combining environmental modifications with individually oriented measures could avert hip fractures and appear cost-effective when compared with the substantial treatment costs and quality-of-life losses associated with fracture events ref [7].",
+    "refNo": 7,
+    "title": "Effectiveness and economic evaluation of a nurse delivered home exercise programme to prevent falls. 1: Randomised controlled trial",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Taken together, these studies suggest that economic returns are most plausible when interventions either target high-risk older adults or prevent severe outcomes such as hip fracture and hospitalization; however, the evidence base remains methodologically heterogeneous, with results shaped by differences in outcome choice, analytic perspective, and the robustness of effectiveness estimation ref [7], ref [2].",
+    "refNo": 7,
+    "title": "Effectiveness and economic evaluation of a nurse delivered home exercise programme to prevent falls. 1: Randomised controlled trial",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Taken together, these studies suggest that economic returns are most plausible when interventions either target high-risk older adults or prevent severe outcomes such as hip fracture and hospitalization; however, the evidence base remains methodologically heterogeneous, with results shaped by differences in outcome choice, analytic perspective, and the robustness of effectiveness estimation ref [7], ref [2].",
+    "refNo": 2,
+    "title": "A framework for developing the structure of public health economic models",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Squires et al. argue that model interpretation should therefore begin from a systems perspective, with explicit attention to the intervention context, causal mechanisms, stakeholder perspectives, and the broader determinants of health that may mediate fall risk and downstream outcomes ref [2].",
+    "refNo": 2,
+    "title": "A framework for developing the structure of public health economic models",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "The methodological literature further identifies three recurrent interpretive challenges that are especially relevant to falls prevention reviews: capturing non-healthcare costs and outcomes, addressing equity implications, and representing complex, multi-component interventions within dynamic systems ref [4].",
+    "refNo": 4,
+    "title": "A systematic literature review of the key challenges for developing the structure of public health economic models",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Interpreting model results thus requires scrutiny of structural assumptions about behaviour, social interaction, and service delivery, not merely parameter uncertainty ref [4].",
+    "refNo": 4,
+    "title": "A systematic literature review of the key challenges for developing the structure of public health economic models",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "A useful appraisal lens is the four-phase conceptual modelling framework proposed by Squires et al., which links model development to the decision problem, stakeholder identification, problem conceptualisation, and formal justification of model structure ref [2].",
+    "refNo": 2,
+    "title": "A framework for developing the structure of public health economic models",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Such a framework does not eliminate uncertainty, but it improves transparency and helps distinguish between robust policy-relevant simplifications and structural omissions that may bias decision-making ref [2], ref [4].",
+    "refNo": 2,
+    "title": "A framework for developing the structure of public health economic models",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Such a framework does not eliminate uncertainty, but it improves transparency and helps distinguish between robust policy-relevant simplifications and structural omissions that may bias decision-making ref [2], ref [4].",
+    "refNo": 4,
+    "title": "A systematic literature review of the key challenges for developing the structure of public health economic models",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "The Cochrane Handbook provides the core standards for review design, study selection, risk-of-bias assessment, and synthesis of intervention effects, and remains the main benchmark for transparent evidence assembly in health intervention reviews ref [1].",
+    "refNo": 1,
+    "title": "Preferred reporting items for systematic reviews and metaanalyses: the PRISMA statement",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "For the reporting of the review process, PRISMA improves reproducibility by clarifying search strategies, eligibility decisions, and handling of heterogeneity across studies ref [2].",
+    "refNo": 2,
+    "title": "A framework for developing the structure of public health economic models",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Consensus-based checklists such as CHEERS 2022 are useful for judging completeness of reporting in trial-based and model-based evaluations, while the Drummond criteria remain widely used to assess whether resource use, comparators, discounting, uncertainty, and incremental analysis are handled appropriately ref [3], ref [4].",
+    "refNo": 3,
+    "title": "Cochrane Handbook for Systematic Reviews of Interventions version 62",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Consensus-based checklists such as CHEERS 2022 are useful for judging completeness of reporting in trial-based and model-based evaluations, while the Drummond criteria remain widely used to assess whether resource use, comparators, discounting, uncertainty, and incremental analysis are handled appropriately ref [3], ref [4].",
+    "refNo": 4,
+    "title": "A systematic literature review of the key challenges for developing the structure of public health economic models",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "When decision models are included, ISPOR-SMDM guidance is particularly relevant for evaluating structural assumptions, validation, and sensitivity analysis ref [5].",
+    "refNo": 5,
+    "title": "Economic evaluation of health promotion interventions for older people: do applied economic studies meet the methodological challenges?",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "This is especially important for community falls prevention, where multi-component interventions and local service configurations generate substantial methodological heterogeneity and limit direct pooling of economic conclusions ref [1], ref [4].",
+    "refNo": 1,
+    "title": "Preferred reporting items for systematic reviews and metaanalyses: the PRISMA statement",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "This is especially important for community falls prevention, where multi-component interventions and local service configurations generate substantial methodological heterogeneity and limit direct pooling of economic conclusions ref [1], ref [4].",
+    "refNo": 4,
+    "title": "A systematic literature review of the key challenges for developing the structure of public health economic models",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "A useful distinction is between the value of the intervention under current implementation and the additional value obtainable from improving implementation; this separates the question of whether a falls programme is efficient in principle from whether investing in dissemination, training, referral pathways, or adherence support is worthwhile [1].",
+    "refNo": 1,
+    "title": "Preferred reporting items for systematic reviews and metaanalyses: the PRISMA statement",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "As argued in decision-analytic work on clinical practice change, an integral approach can alter the preferred option because implementation costs and effects may differ materially across alternatives [2].",
+    "refNo": 2,
+    "title": "A framework for developing the structure of public health economic models",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Priority-setting guidance emphasizes equity-relevant criteria not captured by standard CEA, including socioeconomic disadvantage, area of residence, severity or vulnerability, and wider non-health consequences [3].",
+    "refNo": 3,
+    "title": "Cochrane Handbook for Systematic Reviews of Interventions version 62",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Accordingly, decision makers should read review findings as one input into a broader deliberative process that combines efficiency, implementability, uncertainty, and equity when allocating resources to falls prevention services [1][3].",
+    "refNo": 1,
+    "title": "Preferred reporting items for systematic reviews and metaanalyses: the PRISMA statement",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Accordingly, decision makers should read review findings as one input into a broader deliberative process that combines efficiency, implementability, uncertainty, and equity when allocating resources to falls prevention services [1][3].",
+    "refNo": 3,
+    "title": "Cochrane Handbook for Systematic Reviews of Interventions version 62",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "This problem is especially salient in the long-running debate over whether single interventions should be preferred to more complex multifactorial strategies, since apparent differences in effectiveness may reflect variation in implementation and participant uptake rather than intervention class alone ref [12], ref [13].",
+    "refNo": 12,
+    "title": "Fall prevention programs for community-dwelling older people should primarily target a multifactorial intervention rather than exercise as a single intervention",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "This problem is especially salient in the long-running debate over whether single interventions should be preferred to more complex multifactorial strategies, since apparent differences in effectiveness may reflect variation in implementation and participant uptake rather than intervention class alone ref [12], ref [13].",
+    "refNo": 13,
+    "title": "Multifactorial and multiple component interventions for preventing falls in older people living in the community",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "The Cochrane review of community-based multifactorial and multiple component interventions found variability in effects across outcomes and studies, with uncertainty arising from differences in baseline fall risk, assessment procedures, combinations of treatment components, and follow-up periods ref [4].",
+    "refNo": 4,
+    "title": "A systematic literature review of the key challenges for developing the structure of public health economic models",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Related commentaries have similarly noted that multifactorial programmes may not consistently outperform well-designed single interventions such as exercise, particularly when adherence is high and the target population is clearly defined ref [12], ref [13].",
+    "refNo": 12,
+    "title": "Fall prevention programs for community-dwelling older people should primarily target a multifactorial intervention rather than exercise as a single intervention",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Related commentaries have similarly noted that multifactorial programmes may not consistently outperform well-designed single interventions such as exercise, particularly when adherence is high and the target population is clearly defined ref [12], ref [13].",
+    "refNo": 13,
+    "title": "Multifactorial and multiple component interventions for preventing falls in older people living in the community",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "In this context, heterogeneity should not be treated merely as statistical noise; it is a structural feature of community fall prevention that warrants subgroup analysis, transparent scenario testing, and cautious interpretation of summary cost-effectiveness claims ref [4].",
+    "refNo": 4,
+    "title": "A systematic literature review of the key challenges for developing the structure of public health economic models",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Standard systematic review guidance remains directly relevant here: review questions, eligibility criteria, and synthesis plans should be prespecified, and heterogeneity should be examined at both the clinical and methodological levels rather than treated as residual noise ref [3].",
+    "refNo": 3,
+    "title": "Cochrane Handbook for Systematic Reviews of Interventions version 62",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Transparent handling of these elements would improve cross-study comparability and help decision-makers judge transferability across settings ref [3].",
+    "refNo": 3,
+    "title": "Cochrane Handbook for Systematic Reviews of Interventions version 62",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Such an approach would support a transition from descriptive review toward decision-oriented synthesis, clarifying where updated modelling, head-to-head economic comparison, and better reporting standards are most needed for community falls prevention policy ref [3].",
+    "refNo": 3,
+    "title": "Cochrane Handbook for Systematic Reviews of Interventions version 62",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Earlier reviews of economic evidence in health promotion for older people already highlighted recurrent weaknesses in perspective, outcome valuation, and transferability, and these concerns remain salient for falls prevention specifically ref [6], ref [5].",
+    "refNo": 6,
+    "title": "Economic evaluation of health promotion and primary prevention actions for older people-a systematic review",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Earlier reviews of economic evidence in health promotion for older people already highlighted recurrent weaknesses in perspective, outcome valuation, and transferability, and these concerns remain salient for falls prevention specifically ref [6], ref [5].",
+    "refNo": 5,
+    "title": "Economic evaluation of health promotion interventions for older people: do applied economic studies meet the methodological challenges?",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "This implies greater use of decision-analytic models that reflect the complexity of public health pathways and explicitly justify structural assumptions ref [2], ref [4].",
+    "refNo": 2,
+    "title": "A framework for developing the structure of public health economic models",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "This implies greater use of decision-analytic models that reflect the complexity of public health pathways and explicitly justify structural assumptions ref [2], ref [4].",
+    "refNo": 4,
+    "title": "A systematic literature review of the key challenges for developing the structure of public health economic models",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "More consistent incorporation of equity considerations is also needed, since targeting strategies based solely on average cost-effectiveness may overlook distributional consequences across age, frailty, deprivation, or access barriers ref [10].",
+    "refNo": 10,
+    "title": "Guidance on priority setting in health care (GPS-Health): the inclusion of equity criteria not captured by cost-effectiveness analysis",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "In parallel, the growing evidence base for multifactorial and multiple-component interventions indicates that future syntheses should better separate intervention content, implementation intensity, and adherence effects when comparing economic results ref [13].",
+    "refNo": 13,
+    "title": "Multifactorial and multiple component interventions for preventing falls in older people living in the community",
+    "marker_text": "[13]"
+  }
+]

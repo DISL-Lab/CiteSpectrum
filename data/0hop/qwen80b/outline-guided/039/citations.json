@@ -1,0 +1,518 @@
+[
+  {
+    "sentence": "The historical foundation of Hodgkin lymphoma was laid in 1832 by Thomas Hodgkin, whose seminal paper 'On some Morbid Appearances of the Absorbent Glands and Spleen' first documented distinctive pathological changes in lymphatic tissues, though he did not recognize the characteristic neoplastic cells ref [1].",
+    "refNo": 1,
+    "title": "On some Morbid Appearances of the Absorbent Glands and Spleen",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "The disease was later named 'Hodgkin's disease' by Samuel Wilks in 1865, who expanded on Hodgkin’s observations and distinguished it from other lymphatic disorders ref [14].",
+    "refNo": 14,
+    "title": "Hodgkin and reed-sternberg cells represent an expansion of a single clone originating from a germinal center B-cell with functional immunoglobulin gene rearrangements but defective immunoglobulin transcription",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "In the late 19th and early 20th centuries, Virchow helped differentiate Hodgkin's disease from leukemia, while Sternberg and, more definitively, Dorothy Reed described the hallmark multinucleated Reed–Sternberg cells, establishing the morphological basis for diagnosis ref [14].",
+    "refNo": 14,
+    "title": "Hodgkin and reed-sternberg cells represent an expansion of a single clone originating from a germinal center B-cell with functional immunoglobulin gene rearrangements but defective immunoglobulin transcription",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "The 20th century saw the development of the Ann Arbor staging system in the 1970s, which standardized clinical assessment and treatment stratification based on anatomical spread ref [16].",
+    "refNo": 16,
+    "title": "Human CD30+ B cells represent a unique subset related to Hodgkin lymphoma cells",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "This system was refined in 1989 at the Cotswolds meeting, where imaging criteria were updated to incorporate CT scans, bulky disease was formally designated with the 'X' suffix, and splenic involvement criteria were clarified to improve global applicability ref [16], ref [18].",
+    "refNo": 16,
+    "title": "Human CD30+ B cells represent a unique subset related to Hodgkin lymphoma cells",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "This system was refined in 1989 at the Cotswolds meeting, where imaging criteria were updated to incorporate CT scans, bulky disease was formally designated with the 'X' suffix, and splenic involvement criteria were clarified to improve global applicability ref [16], ref [18].",
+    "refNo": 18,
+    "title": "NF-κB deregulation in Hodgkin lymphoma",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "The modern classification of Hodgkin lymphoma emerged with the Revised European-American Lymphoma (REAL) classification and was formalized by the World Health Organization (WHO) in 2001 and updated in 2017, which bifurcated the disease into two distinct entities: classic Hodgkin lymphoma (cHL) and nodular lymphocyte-predominant Hodgkin lymphoma (NLPHL) ref [5]. cHL was further subdivided into four histologic subtypes, while NLPHL was recognized for its unique immunophenotype and morphological patterns, necessitating careful differential diagnosis from other lymphomas ref [5].",
+    "refNo": 5,
+    "title": "A revised European-American classification of lymphoid neoplasms: A proposal from the International Lymphoma Study Group",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "The modern classification of Hodgkin lymphoma emerged with the Revised European-American Lymphoma (REAL) classification and was formalized by the World Health Organization (WHO) in 2001 and updated in 2017, which bifurcated the disease into two distinct entities: classic Hodgkin lymphoma (cHL) and nodular lymphocyte-predominant Hodgkin lymphoma (NLPHL) ref [5]. cHL was further subdivided into four histologic subtypes, while NLPHL was recognized for its unique immunophenotype and morphological patterns, necessitating careful differential diagnosis from other lymphomas ref [5].",
+    "refNo": 5,
+    "title": "A revised European-American classification of lymphoid neoplasms: A proposal from the International Lymphoma Study Group",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "The 2008 International Lymphoma Study Group proposal introduced provisional entities such as ALCL, Hodgkin-like, highlighting the evolving molecular distinctions between Hodgkin and non-Hodgkin lymphomas ref [2].",
+    "refNo": 2,
+    "title": "Hodgkin's disease",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Epstein-Barr virus (EBV) is a well-established etiological agent, detected in approximately one-third of CHL cases, with clonal viral DNA present in Reed-Sternberg cells, suggesting infection precedes malignant transformation ref [8].",
+    "refNo": 8,
+    "title": "Risk factors for Hodgkin's lymphoma by EBV status and significance of detection of EBV genomes in serum of patients with EBV-associated Hodgkin's lymphoma",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "EBV-associated CHL shows distinct epidemiological patterns, including higher prevalence in mixed cellularity histology and among Hispanic populations, and is strongly linked to prior infectious mononucleosis, particularly in young adults ref [7].",
+    "refNo": 7,
+    "title": "Clinical, Molecular, and Environmental Risk Factors for Hodgkin Lymphoma",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Beyond viral triggers, familial aggregation plays a significant role: first-degree relatives of CHL patients have a threefold increased risk, with siblings facing a sixfold higher risk and monozygotic twins exhibiting up to a 57-fold elevation ref [11].",
+    "refNo": 11,
+    "title": "Epstein-Barr virus DNA is abundant and monoclonal in the Reed-Sternberg cells of Hodgkin's disease: Association with mixed cellularity subtype and Hispanic American ethnicity",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Perinatal factors, notably high fetal growth, are independently associated with increased CHL risk in childhood and young adulthood, implicating in utero growth factor pathways ref [10].",
+    "refNo": 10,
+    "title": "Risk of familial classical Hodgkin lymphoma by relationship, histology, age, and sex: A joint study from five Nordic countries",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Genetic susceptibility is further supported by associations with specific single nucleotide polymorphisms (SNPs) and a documented family history of cancer, particularly in pediatric and adolescent populations ref [7].",
+    "refNo": 7,
+    "title": "Clinical, Molecular, and Environmental Risk Factors for Hodgkin Lymphoma",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Environmental and lifestyle influences also modulate risk, with smoking and reduced physical activity potentially altering immune surveillance and chronic inflammation, though evidence remains less consistent ref [7].",
+    "refNo": 7,
+    "title": "Clinical, Molecular, and Environmental Risk Factors for Hodgkin Lymphoma",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Geographic and racial disparities in CHL incidence—such as higher childhood prevalence in Asia and the Middle East versus bimodal peaks in Western nations—underscore the role of population-specific gene-environment interactions ref [7].",
+    "refNo": 7,
+    "title": "Clinical, Molecular, and Environmental Risk Factors for Hodgkin Lymphoma",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "The convergence of EBV infection, inherited predisposition, and early-life exposures suggests a multifactorial model in which immune dysregulation during critical developmental windows may initiate lymphomagenesis, particularly in genetically susceptible individuals ref [8].",
+    "refNo": 8,
+    "title": "Risk factors for Hodgkin's lymphoma by EBV status and significance of detection of EBV genomes in serum of patients with EBV-associated Hodgkin's lymphoma",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Classical Hodgkin lymphoma (cHL) exhibits a distinct bimodal age distribution, with the first peak occurring in young adults aged 15–35 years and a second, smaller peak in individuals over 55 years of age, as documented in large population-based studies ref [9].",
+    "refNo": 9,
+    "title": "Perinatal and family risk factors for Hodgkin lymphoma in childhood through young adulthood",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "This pattern is consistent across Western populations and is mirrored in histologic subtypes, with nodular sclerosis being the most common in adolescents and young adults, while mixed cellularity predominates in older patients and in developing countries ref [6].",
+    "refNo": 6,
+    "title": "Hodgkin lymphoma: Differences and differential diagnosis",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Systemic B symptoms—fever, night sweats, and weight loss—are reported in approximately 40–50% of cases at diagnosis and are associated with advanced-stage disease and poorer prognosis ref [22].",
+    "refNo": 22,
+    "title": "Hodgkin lymphoma: A 2020 update on diagnosis, risk-stratification, and management",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "The disease accounts for roughly 10–15% of all lymphomas in the United States, with an annual incidence of approximately 8,500 new cases ref [8].",
+    "refNo": 8,
+    "title": "Risk factors for Hodgkin's lymphoma by EBV status and significance of detection of EBV genomes in serum of patients with EBV-associated Hodgkin's lymphoma",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Staging and response assessment are standardized using the Lugano classification, which integrates clinical evaluation, imaging (particularly PET/CT), and histopathology to guide risk-adapted therapy ref [10].",
+    "refNo": 10,
+    "title": "Risk of familial classical Hodgkin lymphoma by relationship, histology, age, and sex: A joint study from five Nordic countries",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Notably, pediatric and adolescent patients demonstrate superior survival outcomes compared to adults, with 5-year HL-specific survival rates exceeding 95% versus 88% in adults, even after adjusting for stage and histology ref [9].",
+    "refNo": 9,
+    "title": "Perinatal and family risk factors for Hodgkin lymphoma in childhood through young adulthood",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Geographic and racial disparities exist, with higher incidence in high-income countries and increased prevalence of mixed cellularity subtype in Hispanic and lower socioeconomic populations, potentially linked to Epstein-Barr virus exposure ref [22].",
+    "refNo": 22,
+    "title": "Hodgkin lymphoma: A 2020 update on diagnosis, risk-stratification, and management",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Dose-intensive, response-based chemotherapy regimens such as ABVE-PC and OEPA-COPDAC have replaced older, more toxic protocols, allowing for reduced cumulative doses of alkylating agents and anthracyclines without compromising cure rates ref [25].",
+    "refNo": 25,
+    "title": "Dose-intensive response-based chemotherapy and radiation therapy for children and adolescents with newly diagnosed intermediate-risk hodgkin lymphoma: A report from the Children's Oncology Group Study AHOD0031",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "The GPOH-HD-2002 study demonstrated that procarbazine-free regimens in boys (OEPA-COPDAC) achieve outcomes comparable to standard OPPA-COPP in girls, reducing gonadotoxic and leukemogenic risks ref [27].",
+    "refNo": 27,
+    "title": "Procarbazine-free OEPA-COPDAC chemotherapy in boys and standard OPPA-COPP in girls have comparable effectiveness in pediatric Hodgkin's lymphoma: The GPOH-HD-2002 study",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "Building on earlier trials like GPOH-HD 95, which showed feasibility of limiting radiotherapy to 20 Gy or omitting it entirely in complete responders, modern approaches now integrate PET-based response assessment to guide radiation omission ref [28].",
+    "refNo": 28,
+    "title": "Preliminary results of the multicenter trial GPOH-HD 95 for the treatment of Hodgkin's disease in children and adolescents: Analysis and outlook",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "The Childhood Hodgkin International Prognostic Score (CHIPS) enables early risk stratification at diagnosis, facilitating personalized therapy intensity ref [30].",
+    "refNo": 30,
+    "title": "Excellent Outcomes Following Response-based Omission of Radiotherapy in Children and Adolescents With Intermediate or High-risk Hodgkin Lymphoma",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "Recent phase II trials incorporating brentuximab vedotin and rituximab with reduced chemotherapy cycles have achieved 100% complete response rates and 5-year event-free survival, with radiotherapy reserved for only 13% of patients ref [15].",
+    "refNo": 15,
+    "title": "Rare occurrence of classical Hodgkin's disease as a T cell lymphoma",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Response-based omission of radiotherapy in intermediate- and high-risk pediatric cHL has been shown to maintain excellent progression-free survival (>95%) while eliminating long-term radiation-induced morbidities such as secondary malignancies and cardiovascular disease ref [9].",
+    "refNo": 9,
+    "title": "Perinatal and family risk factors for Hodgkin lymphoma in childhood through young adulthood",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "The NCCN Guidelines emphasize these principles, advocating for chemotherapy-only strategies in favorable responders and strict avoidance of radiotherapy in low-risk settings ref [26].",
+    "refNo": 26,
+    "title": "Pediatric Hodgkin Lymphoma, Version 3.2021",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "Biomarker-driven approaches are increasingly critical for identifying patients at highest risk of late effects, particularly secondary malignancies, which occur 10- to 175-fold more frequently in pediatric cHL survivors than in the general population ref [12].",
+    "refNo": 12,
+    "title": "Pediatric Hodgkin lymphoma: Biomarkers, drugs, and clinical trials for translational science and medicine",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Ongoing research focuses on substituting alkylating agents with targeted agents like brentuximab vedotin to reduce genotoxic burden, while preserving efficacy ref [15].",
+    "refNo": 15,
+    "title": "Rare occurrence of classical Hodgkin's disease as a T cell lymphoma",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Future paradigms will integrate genomic profiling, early metabolic response, and longitudinal biomarker monitoring to further de-escalate therapy in low-risk subgroups and intensify only where necessary, ensuring that cure is achieved without compromising lifelong health ref [12].",
+    "refNo": 12,
+    "title": "Pediatric Hodgkin lymphoma: Biomarkers, drugs, and clinical trials for translational science and medicine",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "The genetic amplification of 9p24.1, leading to increased expression of PD-L1 and PD-L2, provides a mechanistic rationale for the high efficacy of PD-1 inhibitors in cHL, as demonstrated in both relapsed/refractory and first-line settings ref [16].",
+    "refNo": 16,
+    "title": "Human CD30+ B cells represent a unique subset related to Hodgkin lymphoma cells",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Nivolumab and pembrolizumab have shown durable response rates exceeding 80% in heavily pretreated patients, with pembrolizumab demonstrating superior progression-free survival compared to brentuximab vedotin in the KEYNOTE-204 trial ref [33].",
+    "refNo": 33,
+    "title": "Quality-of-life analysis of pembrolizumab vs brentuximab vedotin for relapsed/refractory classical Hodgkin lymphoma",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "This advantage is further supported by improved health-related quality of life outcomes with pembrolizumab, including sustained global health status and delayed time to deterioration across multiple domains ref [37].",
+    "refNo": 37,
+    "title": "Programmed cell death protein blockade with pembrolizumab for classical Hodgkin lymphoma after autologous stem cell transplantation in an adolescent patient",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "Building on these findings, pembrolizumab is now approved for use in pediatric and adolescent patients following autologous stem cell transplantation, offering a nonchemotherapeutic consolidation strategy ref [19].",
+    "refNo": 19,
+    "title": "Mutations of the tumor suppressor gene SOCS-1 in classical Hodgkin lymphoma are frequent and associated with nuclear phospho-STAT5 accumulation",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "The bispecific antibody AFM13, which engages CD16A on natural killer cells to target CD30-expressing tumor cells, has shown promising safety and preliminary efficacy when combined with pembrolizumab in relapsed/refractory cHL, suggesting synergistic activation of innate and adaptive immunity ref [7].",
+    "refNo": 7,
+    "title": "Clinical, Molecular, and Environmental Risk Factors for Hodgkin Lymphoma",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "These advances, alongside the integration of PD-1 inhibitors into frontline regimens for high-risk patients, reflect a paradigm shift toward immune-based, risk-adapted strategies that reduce reliance on cytotoxic chemotherapy and mitigate long-term toxicities ref [18].",
+    "refNo": 18,
+    "title": "NF-κB deregulation in Hodgkin lymphoma",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Ongoing trials are evaluating PD-1 blockade in combination with novel agents such as JAK inhibitors, leveraging the molecular link between 9p24.1 amplification and JAK2 signaling ref [16].",
+    "refNo": 16,
+    "title": "Human CD30+ B cells represent a unique subset related to Hodgkin lymphoma cells",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "The HD18 trial demonstrated that patients with a positive PET-2 scan after two cycles of eBEACOPP benefit from intensified therapy, while those with a negative PET-2 can be safely treated with fewer cycles, reducing toxicity without compromising efficacy ref [39].",
+    "refNo": 39,
+    "title": "PET-adapted treatment for newly diagnosed advanced Hodgkin lymphoma (AHL2011): A randomised, multicentre, non-inferiority, phase 3 study",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "Similarly, the AHL2011 trial established non-inferiority of switching from escalated BEACOPP to ABVD in PET-2-negative patients, supporting de-escalation as a viable strategy to mitigate long-term toxicities ref [40].",
+    "refNo": 40,
+    "title": "Brentuximab vedotin with chemotherapy for stage III or IV Hodgkin's lymphoma",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "In contrast, the SWOG S0816 trial showed that PET-adapted escalation to eBEACOPP in PET-2-positive patients achieved a 5-year progression-free survival of 66%, underscoring the prognostic value of interim PET but also highlighting residual relapse risk ref [11].",
+    "refNo": 11,
+    "title": "Epstein-Barr virus DNA is abundant and monoclonal in the Reed-Sternberg cells of Hodgkin's disease: Association with mixed cellularity subtype and Hispanic American ethnicity",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "The GITIL/FIL HD0607 trial further validated early intensification with escalated BEACOPP in ABVD-treated PET-2-positive patients, confirming improved progression-free survival with this approach ref [10].",
+    "refNo": 10,
+    "title": "Risk of familial classical Hodgkin lymphoma by relationship, histology, age, and sex: A joint study from five Nordic countries",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Importantly, consolidation radiotherapy can be safely omitted in patients achieving complete metabolic response after ABVD, even with bulky disease, as shown in the HD0607 trial ref [9].",
+    "refNo": 9,
+    "title": "Perinatal and family risk factors for Hodgkin lymphoma in childhood through young adulthood",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "The ECHELON-1 trial demonstrated superior progression-free survival with BV combined with AVD (A+AVD) compared to ABVD, prompting re-evaluation of PET-guided strategies in this context ref [42].",
+    "refNo": 42,
+    "title": "Consolidation radiotherapy could be safely omitted in advanced Hodgkin lymphoma with large nodal mass in complete metabolic response after ABVD: Final analysis of the randomized GITIL/FIL HD0607 trial",
+    "marker_text": "[42]"
+  },
+  {
+    "sentence": "Subsequent North American validation confirmed the safety and efficacy of A+AVD, reinforcing its role in risk-adapted regimens ref [43].",
+    "refNo": 43,
+    "title": "Early chemotherapy intensification with escalated BEACOPP in patients with advanced-stage Hodgkin lymphoma with a positive interim positron emission tomography/computed tomography scan after two ABVD cycles: Long-term results of the GITIL/FIL HD 0607 Trial",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "Early trials demonstrated that radiotherapy alone could achieve durable remissions in favorable disease, with low-dose extended-field radiotherapy (30 Gy) showing non-inferiority to higher doses (40 Gy) in terms of relapse-free and overall survival, establishing the feasibility of dose reduction ref [45].",
+    "refNo": 45,
+    "title": "Low-dose radiation is sufficient for the noninvolved extended-field treatment in favorable early-stage Hodgkin's disease: Long-term results of a randomized trial of radiotherapy alone",
+    "marker_text": "[45]"
+  },
+  {
+    "sentence": "Subsequent studies confirmed that involved-field radiotherapy (IFRT) could replace subtotal nodal irradiation without compromising efficacy, significantly lowering the risk of secondary malignancies and organ toxicity ref [46].",
+    "refNo": 46,
+    "title": "ABVD plus subtotal nodal versus involved-field radiotherapy in early-stage Hodgkin's disease: Long-term results",
+    "marker_text": "[46]"
+  },
+  {
+    "sentence": "The integration of chemotherapy, particularly ABVD, further improved outcomes, leading to the standardization of 2–4 cycles of ABVD followed by reduced-dose IFRT (20–30 Gy) in both favorable and unfavorable subgroups ref [47].",
+    "refNo": 47,
+    "title": "Reduced treatment intensity in patients with early-stage Hodgkin's lymphoma",
+    "marker_text": "[47]"
+  },
+  {
+    "sentence": "The HD8 trial established that IFRT was equally effective and less toxic than extended-field radiotherapy after chemotherapy in unfavorable early-stage disease, reinforcing the paradigm shift toward targeted radiation ref [8].",
+    "refNo": 8,
+    "title": "Risk factors for Hodgkin's lymphoma by EBV status and significance of detection of EBV genomes in serum of patients with EBV-associated Hodgkin's lymphoma",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "The HD11 trial further refined this approach by demonstrating that dose-reduced IFRT (20 Gy) after intensified chemotherapy (e.g., escalated BEACOPP) maintained high efficacy in high-risk patients, enabling further de-escalation ref [11].",
+    "refNo": 11,
+    "title": "Epstein-Barr virus DNA is abundant and monoclonal in the Reed-Sternberg cells of Hodgkin's disease: Association with mixed cellularity subtype and Hispanic American ethnicity",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "More recent evidence from the HD14 trial explored dose-intensified chemotherapy regimens, but confirmed that the primary driver of improved outcomes was not chemotherapy intensity per se, but rather the precision of radiation field definition and dose reduction ref [12].",
+    "refNo": 12,
+    "title": "Pediatric Hodgkin lymphoma: Biomarkers, drugs, and clinical trials for translational science and medicine",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "A 15-year analysis demonstrated that vorinostat/gemcitabine/busulfan/melphalan (vorinostat/GemBuMel) yielded superior 5-year progression-free and overall survival compared to BEAM or BuMel, with pre-ASCT brentuximab vedotin (BV) and PET-negativity emerging as strong favorable predictors ref [52].",
+    "refNo": 52,
+    "title": "Autologous peripheral blood stem cell transplantation in children with refractory or relapsed lymphoma: Results of Children's Oncology Group study A5962",
+    "marker_text": "[52]"
+  },
+  {
+    "sentence": "In pediatric populations, CBV conditioning with peripheral blood stem cells has shown acceptable toxicity and 3-year event-free survival of 66% in transplanted patients, though early relapse (<12 months) remains a poor prognostic factor ref [53].",
+    "refNo": 53,
+    "title": "Initial response to salvage therapy determines prognosis in relapsed pediatric Hodgkin lymphoma patients",
+    "marker_text": "[53]"
+  },
+  {
+    "sentence": "Initial response to salvage chemotherapy is critically predictive; inadequate response correlates with a 5-year overall survival of only 17.9% versus 97.2% in responders, underscoring the need for early transition to novel agents ref [56].",
+    "refNo": 56,
+    "title": "Reappraising the Role of Allogeneic Hematopoietic Stem Cell Transplantation in Relapsed and Refractory Hodgkin&rsquo;s Lymphoma: Recent Advances and Outcomes",
+    "marker_text": "[56]"
+  },
+  {
+    "sentence": "Prognostic models incorporating factors such as B symptoms, extranodal involvement, and duration of first remission have been validated to stratify risk, with patients harboring three adverse features exhibiting <10% event-free survival ref [12].",
+    "refNo": 12,
+    "title": "Pediatric Hodgkin lymphoma: Biomarkers, drugs, and clinical trials for translational science and medicine",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "In children, relapse within 6 months of initial therapy and involvement of irradiated fields are associated with inferior outcomes ref [9].",
+    "refNo": 9,
+    "title": "Perinatal and family risk factors for Hodgkin lymphoma in childhood through young adulthood",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "For patients failing ASCT or with primary refractory disease, allogeneic transplantation offers a potentially curative option, particularly in young, fit individuals, leveraging graft-versus-lymphoma effects ref [15].",
+    "refNo": 15,
+    "title": "Rare occurrence of classical Hodgkin's disease as a T cell lymphoma",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "The dual PI3Kδ/γ inhibitor RP6530 exemplifies this shift, demonstrating potent activity against both Hodgkin/Reed–Sternberg cells and the immunosuppressive tumor microenvironment by repolarizing tumor-associated macrophages from M2 to M1 phenotypes and inhibiting tumor glycolysis via pyruvate kinase M2 downregulation ref [57].",
+    "refNo": 57,
+    "title": "Targeting Cancer Cells and Tumor Microenvironment in Preclinical and Clinical Models of Hodgkin Lymphoma Using the Dual PI3Kδ/γ Inhibitor RP6530",
+    "marker_text": "[57]"
+  },
+  {
+    "sentence": "Similarly, agents targeting the CD30 pathway, such as brentuximab vedotin, have reduced reliance on alkylating agents and anthracyclines, lowering acute and late toxicities ref [7].",
+    "refNo": 7,
+    "title": "Clinical, Molecular, and Environmental Risk Factors for Hodgkin Lymphoma",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Emerging inhibitors of JAK/STAT and NF-κB signaling, driven by recurrent genetic alterations in Hodgkin lymphoma, offer additional precision options ref [36].",
+    "refNo": 36,
+    "title": "Management of classical Hodgkin lymphoma: A look at up to date evidence and current treatment approaches",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "Furthermore, immune checkpoint blockade with pembrolizumab has shown durable responses in relapsed/refractory disease with a more favorable toxicity profile compared to salvage chemotherapy ref [40].",
+    "refNo": 40,
+    "title": "Brentuximab vedotin with chemotherapy for stage III or IV Hodgkin's lymphoma",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "Ongoing clinical trials are evaluating combinations of PI3K inhibitors with PD-1 blockade to amplify antitumor immunity and overcome resistance mechanisms, with early data suggesting synergistic effects in modulating the tumor microenvironment ref [57].",
+    "refNo": 57,
+    "title": "Targeting Cancer Cells and Tumor Microenvironment in Preclinical and Clinical Models of Hodgkin Lymphoma Using the Dual PI3Kδ/γ Inhibitor RP6530",
+    "marker_text": "[57]"
+  },
+  {
+    "sentence": "The integration of biomarker-driven patient selection—such as 9p24.1 amplification status—further refines therapeutic precision and minimizes unnecessary exposure to toxic agents ref [28].",
+    "refNo": 28,
+    "title": "Preliminary results of the multicenter trial GPOH-HD 95 for the treatment of Hodgkin's disease in children and adolescents: Analysis and outlook",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "The landmark study by Ng and van Leeuwen provides a comprehensive framework for long-term surveillance, emphasizing risk-stratified follow-up based on treatment exposure, age at diagnosis, and genetic predisposition ref [58].",
+    "refNo": 58,
+    "title": "Hodgkin lymphoma: Late effects of treatment and guidelines for surveillance",
+    "marker_text": "[58]"
+  },
+  {
+    "sentence": "Ref [1] provides a comprehensive overview of HSP multitargeting in hematological malignancies, highlighting their central role in therapeutic resistance and their potential as biomarkers of poor prognosis.",
+    "refNo": 1,
+    "title": "On some Morbid Appearances of the Absorbent Glands and Spleen",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "RS cells, derived from germinal center B-cells, exhibit defective immunoglobulin transcription despite functional gene rearrangements, enabling immune evasion and survival ref [20].",
+    "refNo": 20,
+    "title": "Hodgkin lymphoma: A review and update on recent progress",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Genetic alterations such as 9p24.1 amplification lead to increased PD-L1/PD-L2 expression, facilitating immune checkpoint evasion ref [30].",
+    "refNo": 30,
+    "title": "Excellent Outcomes Following Response-based Omission of Radiotherapy in Children and Adolescents With Intermediate or High-risk Hodgkin Lymphoma",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "Concurrently, mutations in SOCS-1 result in constitutive JAK/STAT signaling, promoting proliferation and cytokine production ref [37].",
+    "refNo": 37,
+    "title": "Programmed cell death protein blockade with pembrolizumab for classical Hodgkin lymphoma after autologous stem cell transplantation in an adolescent patient",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "The tumor microenvironment is enriched with regulatory T cells, macrophages, and fibroblasts, which secrete survival factors such as IL-13 and CD30L, further supporting RS cell persistence ref [27].",
+    "refNo": 27,
+    "title": "Procarbazine-free OEPA-COPDAC chemotherapy in boys and standard OPPA-COPP in girls have comparable effectiveness in pediatric Hodgkin's lymphoma: The GPOH-HD-2002 study",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "Epstein-Barr virus (EBV) infection, present in a subset of cHL cases, contributes to pathogenesis through LMP1-mediated NF-κB activation and immune modulation ref [16].",
+    "refNo": 16,
+    "title": "Human CD30+ B cells represent a unique subset related to Hodgkin lymphoma cells",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Additionally, dysregulation of NF-κB pathways, often via mutations in TNFAIP3 or NFKBIE, sustains anti-apoptotic signaling ref [38].",
+    "refNo": 38,
+    "title": "PET-guided treatment in patients with advanced-stage Hodgkin's lymphoma (HD18): Final results of an open-label, international, randomised phase 3 trial by the German Hodgkin Study Group",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Recent preclinical studies have demonstrated the efficacy of dual PI3Kδ/γ inhibition in disrupting RS cell survival signals and reprogramming the immunosuppressive microenvironment ref [59].",
+    "refNo": 59,
+    "title": "Heat-Shock Proteins in Leukemia and Lymphoma: Multitargets for Innovative Therapeutic Approaches",
+    "marker_text": "[59]"
+  },
+  {
+    "sentence": "Furthermore, the identification of CD30+ B cells as a potential precursor population provides new insights into the cellular origin of RS cells ref [27].",
+    "refNo": 27,
+    "title": "Procarbazine-free OEPA-COPDAC chemotherapy in boys and standard OPPA-COPP in girls have comparable effectiveness in pediatric Hodgkin's lymphoma: The GPOH-HD-2002 study",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "Notably, HRS cells frequently exhibit constitutive activation of the NF-κB pathway, which drives the expression of pro-survival genes and immune modulators such as PD-L1 and CD30 ref [57].",
+    "refNo": 57,
+    "title": "Targeting Cancer Cells and Tumor Microenvironment in Preclinical and Clinical Models of Hodgkin Lymphoma Using the Dual PI3Kδ/γ Inhibitor RP6530",
+    "marker_text": "[57]"
+  },
+  {
+    "sentence": "Additionally, genetic alterations at 9p24.1, including amplification and copy number gains, lead to increased expression of PD-L1 and PD-L2, enhancing immune checkpoint evasion ref [19].",
+    "refNo": 19,
+    "title": "Mutations of the tumor suppressor gene SOCS-1 in classical Hodgkin lymphoma are frequent and associated with nuclear phospho-STAT5 accumulation",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "The JAK-STAT pathway is further activated via SOCS-1 mutations, which impair negative regulation and result in sustained STAT phosphorylation ref [18].",
+    "refNo": 18,
+    "title": "NF-κB deregulation in Hodgkin lymphoma",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Epstein-Barr virus (EBV) infection in a subset of cHL cases contributes to this dysregulation through LMP1-mediated NF-κB and JAK/STAT activation ref [11].",
+    "refNo": 11,
+    "title": "Epstein-Barr virus DNA is abundant and monoclonal in the Reed-Sternberg cells of Hodgkin's disease: Association with mixed cellularity subtype and Hispanic American ethnicity",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Recent studies highlight the role of PI3Kδ/γ signaling in sustaining HRS cell viability and modulating the TME, with dual inhibitors showing preclinical efficacy ref [13].",
+    "refNo": 13,
+    "title": "Molecular biology of Hodgkin lymphoma",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "The interplay between HRS cells and the TME also involves CD30 signaling, which promotes survival and proliferation, and is exploited therapeutically by brentuximab vedotin ref [35].",
+    "refNo": 35,
+    "title": "Integrative analysis reveals selective 9p24.1 amplification, increased PD-1 ligand expression, and further induction via JAK2 in nodular sclerosing Hodgkin lymphoma and primary mediastinal large B-cell lymphoma",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "Targeting both HRS cells and their supportive stroma—through combinations of checkpoint inhibitors, kinase inhibitors, and immunomodulators—represents a promising frontier in cHL treatment ref [13].",
+    "refNo": 13,
+    "title": "Molecular biology of Hodgkin lymphoma",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "The success of PD-1 blockade in relapsed/refractory cHL underscores the centrality of immune evasion mechanisms, while ongoing trials explore novel agents targeting the PI3K, JAK, and NF-κB axes to overcome resistance ref [19][5][6].",
+    "refNo": 19,
+    "title": "Mutations of the tumor suppressor gene SOCS-1 in classical Hodgkin lymphoma are frequent and associated with nuclear phospho-STAT5 accumulation",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "The success of PD-1 blockade in relapsed/refractory cHL underscores the centrality of immune evasion mechanisms, while ongoing trials explore novel agents targeting the PI3K, JAK, and NF-κB axes to overcome resistance ref [19][5][6].",
+    "refNo": 5,
+    "title": "A revised European-American classification of lymphoid neoplasms: A proposal from the International Lymphoma Study Group",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "The success of PD-1 blockade in relapsed/refractory cHL underscores the centrality of immune evasion mechanisms, while ongoing trials explore novel agents targeting the PI3K, JAK, and NF-κB axes to overcome resistance ref [19][5][6].",
+    "refNo": 6,
+    "title": "Hodgkin lymphoma: Differences and differential diagnosis",
+    "marker_text": "[6]"
+  }
+]

@@ -1,0 +1,698 @@
+[
+  {
+    "sentence": "This process is preceded by the infolding of the dorsal lamina reuniens of His, forming a median groove that fuses to create the massa commissuralis, which serves as the foundational scaffold for the corpus callosum ref [2].",
+    "refNo": 2,
+    "title": "Development of the corpus callosum and cavum septi in man",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "By the 12th week, pioneering axons establish the initial callosal pathway, guided by molecular cues such as Slit, Netrin, and Semaphorin3A, which are conserved between rodents and humans ref [3].",
+    "refNo": 3,
+    "title": "Imaging, anatomical, and molecular analysis of callosal formation in the developing human fetal brain",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Diffusion tensor imaging (DTI) studies of fixed fetal brains between 13 and 20 weeks of gestation have enabled visualization of the corpus callosum’s early formation alongside other commissures, confirming the presence of homologous midline glial populations to those in mouse models ref [3].",
+    "refNo": 3,
+    "title": "Imaging, anatomical, and molecular analysis of callosal formation in the developing human fetal brain",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Between 18 and 20 postconceptual weeks, the corpus callosum undergoes rapid growth mediated by transient laminar and modular structures, including the subcallosal zone and callosal septa, which provide structural and molecular guidance for axonal extension along the ventral tier ref [4].",
+    "refNo": 4,
+    "title": "Growth of the human corpus callosum: modular and laminar morphogenetic zones",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "These structures, rich in glial fibrillary acidic protein (GFAP)-positive cells and extracellular matrix components such as chondroitin sulfate proteoglycans, facilitate the progressive thickening of the callosal midsagittal cross-section ref [4].",
+    "refNo": 4,
+    "title": "Growth of the human corpus callosum: modular and laminar morphogenetic zones",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "By the second trimester, DTI tractography reveals the emergence of distinct callosal fiber bundles, with the genu forming before the splenium, reflecting a rostrocaudal gradient of maturation ref [1].",
+    "refNo": 1,
+    "title": "Anatomical characterization of human fetal brain development with diffusion tensor magnetic resonance imaging",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "The cavum septi pellucidum, initially open to the interhemispheric fissure, becomes sealed by the rostrum of the corpus callosum in humans, a feature distinguishing primates from lower mammals ref [2].",
+    "refNo": 2,
+    "title": "Development of the corpus callosum and cavum septi in man",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "For instance, reduced FA and elevated diffusivity in the genu and splenium are associated with prolonged crossed-uncrossed differences (CUD) in reaction time tasks, indicating impaired transfer of sensory and motor information between hemispheres ref [6].",
+    "refNo": 6,
+    "title": "Corpus callosal microstructural integrity influences interhemispheric processing: a diffusion tensor imaging study",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Similarly, white matter integrity in the body of the corpus callosum predicts bimanual coordination skills, with probabilistic tractography linking this region to the supplementary and cingulate motor areas ref [5].",
+    "refNo": 5,
+    "title": "Integrity of white matter in the corpus callosum correlates with bimanual co-ordination skills",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "In children, diffusivity perpendicular to temporal callosal fibers correlates positively with phonological awareness, suggesting that efficient interhemispheric connectivity in auditory-language networks underpins reading acquisition ref [7].",
+    "refNo": 7,
+    "title": "Temporal-callosal pathway diffusivity predicts phonological skills in children",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "These findings align with evidence that the corpus callosum facilitates both excitatory integration and inhibitory suppression across hemispheres, enabling functional lateralization and reducing interhemispheric interference ref [9].",
+    "refNo": 9,
+    "title": "Simple reaction times to lateralized light flashes. Varieties of interhemispheric communication routes",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Behavioral studies using lateralized visual stimuli further reveal that even in intact brains, subtle interhemispheric transfer latencies exist, modulated by stimulus properties and callosal integrity, with acallosal individuals exhibiting intermediate CUDs attributable to alternative subcortical pathways ref [6].",
+    "refNo": 6,
+    "title": "Corpus callosal microstructural integrity influences interhemispheric processing: a diffusion tensor imaging study",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Early work by Witelson proposed a five-partition scheme based on primate data, but modern diffusion tensor imaging (DTI) tractography has refined this model in humans, revealing that motor fibers terminate more posteriorly than previously assumed, particularly within the posterior body and isthmus ref [10].",
+    "refNo": 10,
+    "title": "Topography of the human corpus callosum revisited-comprehensive fiber tractography using diffusion tensor magnetic resonance imaging",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Subsequent parcellation studies using DTI have identified six major subdivisions of the corpus callosum, each corresponding to projections from prefrontal, premotor, primary motor, primary sensory, parietal, and occipitotemporal cortices ref [11].",
+    "refNo": 11,
+    "title": "DTI tractography based parcellation of white matter: application to the mid-sagittal morphology of corpus callosum",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Notably, motor fibers exhibit somatotopic organization, with hand-related projections located anteriorly and ventrally relative to foot-related fibers, and their microstructural integrity (as measured by fractional anisotropy) correlates with functional interhemispheric inhibition ref [12].",
+    "refNo": 12,
+    "title": "Human motor corpus callosum: topography, somatotopy, and link between microstructure and function",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Occipital callosal fibers, critical for visual integration, converge in the splenium and are organized by visual field maps: dorsal stream projections (V3, V3A, V7) occupy the central splenium, while ventral stream fibers (V4) terminate in its inferior-anterior region ref [7].",
+    "refNo": 7,
+    "title": "Temporal-callosal pathway diffusivity predicts phonological skills in children",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Cortical lesion studies corroborate this organization, showing that lesions in inferior frontal and temporo-parieto-occipital regions produce Wallerian degeneration in the genu and splenium, respectively, with no degeneration observed after anterior superior frontal lesions ref [14].",
+    "refNo": 14,
+    "title": "Functional organization of human occipital-callosal fiber tracts",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Longitudinal MRI studies demonstrate a non-linear increase in CC area, particularly in the splenium, with the most robust growth occurring during early childhood and adolescence, plateauing by late teens ref [5].",
+    "refNo": 5,
+    "title": "Integrity of white matter in the corpus callosum correlates with bimanual co-ordination skills",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "DTI metrics such as fractional anisotropy (FA) rise and mean diffusivity (MD) decline across the CC, reflecting enhanced microstructural integrity, with regional heterogeneity indicating delayed maturation in fronto-temporal connections compared to posterior regions ref [16].",
+    "refNo": 16,
+    "title": "Development of the human corpus callosum during childhood and adolescence: a longitudinal MRI study",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "These changes correlate with improved interhemispheric transfer efficiency, as evidenced by decreasing evoked potential transmission times and increasing bilateral field advantages during development ref [6].",
+    "refNo": 6,
+    "title": "Corpus callosal microstructural integrity influences interhemispheric processing: a diffusion tensor imaging study",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "In adolescents, higher FA in the splenium and body of the CC is associated with superior visuospatial, psychomotor, and language performance, underscoring the functional relevance of callosal microstructure ref [7].",
+    "refNo": 7,
+    "title": "Temporal-callosal pathway diffusivity predicts phonological skills in children",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "This pattern is mirrored in white matter tracts throughout the brain, where association fibers mature later than projection fibers ref [16].",
+    "refNo": 16,
+    "title": "Development of the human corpus callosum during childhood and adolescence: a longitudinal MRI study",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Diffusion tensor imaging (DTI) studies have revealed that, despite the absence or severe hypoplasia of the corpus callosum, residual callosal fibers maintain a topographical organization similar to that of typical development, preserving connections between homotopic cortical regions ref [19].",
+    "refNo": 19,
+    "title": "Neuroplasticity in human callosal dysgenesis: a diffusion tensor imaging study",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Notably, two aberrant tracts consistently emerge: the Probst bundle, which runs parallel to the midline within each hemisphere, and a previously undocumented sigmoidal bundle that connects the frontal lobe with the contralateral occipitoparietal cortex, demonstrating heterotopic but functionally significant rewiring ref [19].",
+    "refNo": 19,
+    "title": "Neuroplasticity in human callosal dysgenesis: a diffusion tensor imaging study",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "These adaptations suggest that axonal guidance mechanisms retain some developmental precision even in the absence of midline crossing cues, with fiber topography preserved despite gross structural anomalies ref [19].",
+    "refNo": 19,
+    "title": "Neuroplasticity in human callosal dysgenesis: a diffusion tensor imaging study",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Comparative studies using in vivo DTI have shown that the topographical organization of the corpus callosum in humans closely mirrors that of nonhuman primates, particularly in the caudal extension of frontal fibers, implying conserved developmental constraints that may guide compensatory wiring in dysgenesis ref [7].",
+    "refNo": 7,
+    "title": "Temporal-callosal pathway diffusivity predicts phonological skills in children",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Revisions to Witelson’s classical model, informed by high-resolution tractography, further clarify the cortical mapping of callosal fibers, providing a framework to interpret aberrant projections in dysgenetic brains ref [14].",
+    "refNo": 14,
+    "title": "Functional organization of human occipital-callosal fiber tracts",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "These structural adaptations may underlie preserved interhemispheric communication in some individuals, as suggested by behavioral studies indicating that functional integration between hemispheres can be maintained through subcortical and anterior commissural pathways, even without a fully formed corpus callosum ref [10].",
+    "refNo": 10,
+    "title": "Topography of the human corpus callosum revisited-comprehensive fiber tractography using diffusion tensor magnetic resonance imaging",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Cases of agenesis of the corpus callosum (ACC) have been reported in patients with 45,X karyotype, as well as in mosaic forms such as 45,X/48,X,r(X), often co-occurring with distinctive somatic features including kabuki-like facies, renal anomalies, and thyroid autoimmunity ref [22], ref [23], ref [25].",
+    "refNo": 22,
+    "title": "Agenesis of the corpus callosum in Turner syndrome with ring X",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Cases of agenesis of the corpus callosum (ACC) have been reported in patients with 45,X karyotype, as well as in mosaic forms such as 45,X/48,X,r(X), often co-occurring with distinctive somatic features including kabuki-like facies, renal anomalies, and thyroid autoimmunity ref [22], ref [23], ref [25].",
+    "refNo": 23,
+    "title": "Turner's syndrome with agenesis of the corpus callosum, Hashimoto's thyroiditis and horseshoe kidney",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Cases of agenesis of the corpus callosum (ACC) have been reported in patients with 45,X karyotype, as well as in mosaic forms such as 45,X/48,X,r(X), often co-occurring with distinctive somatic features including kabuki-like facies, renal anomalies, and thyroid autoimmunity ref [22], ref [23], ref [25].",
+    "refNo": 25,
+    "title": "Corpus callosum morphology and ventricular size in chromosome 22q11.2 deletion syndrome",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Structural MRI studies reveal enlarged rostrum and isthmus regions, altered callosal curvature, and reduced age-related growth trajectories in children with 22q11DS ref [9], ref [15].",
+    "refNo": 9,
+    "title": "Simple reaction times to lateralized light flashes. Varieties of interhemispheric communication routes",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Structural MRI studies reveal enlarged rostrum and isthmus regions, altered callosal curvature, and reduced age-related growth trajectories in children with 22q11DS ref [9], ref [15].",
+    "refNo": 15,
+    "title": "Microstructural maturation of the human brain from childhood to adulthood",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Diffusion tensor imaging further demonstrates microstructural white matter alterations in interhemispheric tracts, implicating disrupted axonal organization in the corpus callosum ref [17].",
+    "refNo": 17,
+    "title": "Normal development of bilateral field advantage and evoked potential interhemispheric transmission time",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Callosal malformations, including agenesis (ACC) and hypoplasia (HCC), occur in approximately 1.8 per 10,000 live births, as demonstrated in a large population-based study from California spanning 1983–2003, with a male predominance (52%) and a strong association with prematurity (relative risk 3.7 for births <37 weeks gestation) ref [28].",
+    "refNo": 28,
+    "title": "Agenesis of the corpus callosum in California 1983-2003: a population-based study",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Advanced maternal age (≥40 years) significantly increases risk, particularly in cases with concurrent chromosomal abnormalities, where the relative risk for ACC reaches 5.9 ref [28].",
+    "refNo": 28,
+    "title": "Agenesis of the corpus callosum in California 1983-2003: a population-based study",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "These anomalies are rarely isolated; up to 49.5% of cases involve additional CNS malformations, and comorbidities such as cardiac (27.6%) and musculoskeletal (33.5%) defects are common, underscoring their role as markers of multisystem developmental disruption ref [28].",
+    "refNo": 28,
+    "title": "Agenesis of the corpus callosum in California 1983-2003: a population-based study",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Prenatal diagnosis has become increasingly critical, with fetal MRI now the gold standard for detecting ACC and distinguishing complete from partial forms, the latter often underdiagnosed due to technical limitations ref [29].",
+    "refNo": 29,
+    "title": "Outcome in prenatally diagnosed fetal agenesis of the corpus callosum",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Complete ACC is associated with significantly worse neurodevelopmental outcomes compared to partial ACC (p = 0.001), especially when accompanied by other structural anomalies (p < 0.01) ref [29].",
+    "refNo": 29,
+    "title": "Outcome in prenatally diagnosed fetal agenesis of the corpus callosum",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Detailed fetal anatomical surveys and karyotyping are essential for accurate prognostication and parental counseling ref [29].",
+    "refNo": 29,
+    "title": "Outcome in prenatally diagnosed fetal agenesis of the corpus callosum",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "MRI also plays a pivotal role in diagnosing callosal anomalies within neurocutaneous syndromes, such as tuberous sclerosis and neurofibromatosis type 1, where characteristic cortical and subependymal lesions can co-occur with callosal dysgenesis, enabling integrated diagnostic assessment ref [13].",
+    "refNo": 13,
+    "title": "Topography of the human corpus callosum",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Social cognition is notably impaired, with deficits in interpreting emotional cues, inferring mental states, and generating coherent social narratives, as demonstrated through Thematic Apperception Test (TAT) analyses showing reduced use of emotion- and social-process-related language ref [18].",
+    "refNo": 18,
+    "title": "Microstructural integrity of the corpus callosum linked with neuropsychological performance in Adolescents",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "These deficits extend to difficulties in recognizing and verbalizing emotions, a trait linked to alexithymia, which may arise from disrupted interhemispheric transfer of affective information, particularly from the right to left hemisphere ref [14].",
+    "refNo": 14,
+    "title": "Functional organization of human occipital-callosal fiber tracts",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Parent-reported data using the Child Behavior Checklist reveal elevated rates of attentional problems, social withdrawal, and unusual thoughts in older children with ACC, though typically less severe than in autism spectrum disorder ref [32].",
+    "refNo": 32,
+    "title": "Some limits to interhemispheric integration in cases of callosal agenesis and partial commissurotomy",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "Despite normal IQ, individuals with ACC show impaired executive function, reduced cognitive flexibility, and difficulties with abstract reasoning and complex problem-solving ref [20].",
+    "refNo": 20,
+    "title": "Rhesus monkey and human share a similar topography of the corpus callosum as revealed by diffusion tensor MRI in vivo",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Linguistic analyses of TAT narratives indicate a tendency toward present-tense, self-referential speech, suggesting a diminished capacity for imaginative projection into others' perspectives ref [18].",
+    "refNo": 18,
+    "title": "Microstructural integrity of the corpus callosum linked with neuropsychological performance in Adolescents",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "The absence of classic disconnection syndromes seen in acquired callosal lesions underscores the brain’s compensatory plasticity, yet functional deficits persist in tasks requiring interhemispheric integration, particularly those involving complex social or emotional stimuli ref [36].",
+    "refNo": 36,
+    "title": "Cognitive and psychosocial deficits in agenesis of the corpus callosum with normal intelligence",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "Clinical studies report that approximately 30% of children with ACC have normal or mildly delayed development, but the majority show moderate to severe impairments, often co-occurring with epilepsy, microcephaly, or dysmorphic features ref [12].",
+    "refNo": 12,
+    "title": "Human motor corpus callosum: topography, somatotopy, and link between microstructure and function",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Early autopsy studies first identified CC agenesis in severe cases, a finding later corroborated in vivo using magnetic resonance imaging (MRI), which revealed not only complete agenesis but also significant reductions in CC area across multiple regions in exposed children compared to controls ref [39].",
+    "refNo": 39,
+    "title": "Bimanual coordination in alcohol-exposed children: role of the corpus callosum",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "Quantitative MRI analyses have since demonstrated that posterior CC regions—including the isthmus and splenium—are disproportionately affected, suggesting regional vulnerability to alcohol-induced disruption during mid-to-late gestation ref [7].",
+    "refNo": 7,
+    "title": "Temporal-callosal pathway diffusivity predicts phonological skills in children",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "These microstructural anomalies are further confirmed by diffusion tensor imaging (DTI), which shows reduced fractional anisotropy (FA) and increased mean diffusivity (MD) in posterior callosal tracts, indicative of impaired myelination and axonal organization ref [41], ref [6], ref [7].",
+    "refNo": 41,
+    "title": "Microstructural corpus callosum anomalies in children with prenatal alcohol exposure: an extension of previous diffusion tensor imaging findings",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "These microstructural anomalies are further confirmed by diffusion tensor imaging (DTI), which shows reduced fractional anisotropy (FA) and increased mean diffusivity (MD) in posterior callosal tracts, indicative of impaired myelination and axonal organization ref [41], ref [6], ref [7].",
+    "refNo": 6,
+    "title": "Corpus callosal microstructural integrity influences interhemispheric processing: a diffusion tensor imaging study",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "These microstructural anomalies are further confirmed by diffusion tensor imaging (DTI), which shows reduced fractional anisotropy (FA) and increased mean diffusivity (MD) in posterior callosal tracts, indicative of impaired myelination and axonal organization ref [41], ref [6], ref [7].",
+    "refNo": 7,
+    "title": "Temporal-callosal pathway diffusivity predicts phonological skills in children",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Functional consequences of these structural deficits are evident in impaired interhemispheric communication, particularly in tasks requiring bimanual coordination without visual feedback, where children with FASD exhibit reduced accuracy and increased variability ref [41].",
+    "refNo": 41,
+    "title": "Microstructural corpus callosum anomalies in children with prenatal alcohol exposure: an extension of previous diffusion tensor imaging findings",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "Notably, visuomotor integration deficits correlate specifically with splenial FA reductions, highlighting the functional relevance of posterior CC integrity in FASD ref [6].",
+    "refNo": 6,
+    "title": "Corpus callosal microstructural integrity influences interhemispheric processing: a diffusion tensor imaging study",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "While anterior regions such as the genu show less consistent involvement, trends toward reduced FA in this area suggest a gradient of vulnerability along the CC’s anterior-posterior axis ref [7].",
+    "refNo": 7,
+    "title": "Temporal-callosal pathway diffusivity predicts phonological skills in children",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Collectively, these findings underscore the CC as a primary target of alcohol’s neuroteratogenic effects, with structural and microstructural alterations contributing to the neurobehavioral phenotype of FASD ref [40].",
+    "refNo": 40,
+    "title": "Mapping white matter integrity and neurobehavioral correlates in children with fetal alcohol spectrum disorders",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "Early morphometric studies reported no significant differences in total CC area between children with phonologic-syntactic DLD and typically developing controls when corrected for forebrain volume, suggesting that gross callosal size may not be a primary anatomical marker of DLD ref [42].",
+    "refNo": 42,
+    "title": "Corpus callosum size in children with developmental language disorder",
+    "marker_text": "[42]"
+  },
+  {
+    "sentence": "However, functional assessments reveal more nuanced deficits: children with DLD exhibit impaired interhemispheric transfer of tactile information, as evidenced by significantly higher error rates in crossed-hand localization tasks compared to age-matched controls, implicating callosal dysfunction in sensory-motor integration underlying language processing ref [43].",
+    "refNo": 43,
+    "title": "A callosal transfer deficit in children with developmental language disorder",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "Furthermore, neuroanatomical risk indices derived from brain asymmetry and volume patterns predict distinct language profiles, with reduced structural symmetry correlating with severe receptive language impairments characteristic of DLD, pointing to a broader neurodevelopmental architecture that includes callosal connectivity ref [44].",
+    "refNo": 44,
+    "title": "Individual differences in anatomy predict reading and oral language impairments in children",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "Diffusion tensor imaging (DTI) studies in newborns have established normative trajectories of diffusion anisotropy and apparent diffusion coefficient, revealing that callosal maturation follows a caudal-to-rostral gradient, with later-myelinating regions showing progressive increases in fractional anisotropy and reduced radial diffusivity ref [46].",
+    "refNo": 46,
+    "title": "Localization of white matter volume increase in autism and developmental language disorder",
+    "marker_text": "[46]"
+  },
+  {
+    "sentence": "In developmental language disorder (DLD) and autism, white matter volume increases are localized to the radiate compartment, suggesting a postnatal disruption in myelination or axonal organization that preferentially affects corticocortical connections rather than deep or callosal fibers ref [5].",
+    "refNo": 5,
+    "title": "Integrity of white matter in the corpus callosum correlates with bimanual co-ordination skills",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Diffusion tensor imaging (DTI) studies reveal that preterm infants exhibit reduced fractional anisotropy and elevated radial diffusivity in the splenium and posterior limb of the internal capsule, indicating impaired myelination and axonal organization at term-equivalent age ref [10].",
+    "refNo": 10,
+    "title": "Topography of the human corpus callosum revisited-comprehensive fiber tractography using diffusion tensor magnetic resonance imaging",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "These microstructural alterations persist into childhood, with longitudinal studies demonstrating smaller CC volumes in adolescents born very preterm, especially in the mid-posterior and posterior quarters, even after adjusting for total white matter volume ref [50].",
+    "refNo": 50,
+    "title": "Specific relations between neurodevelopmental abilities and white matter microstructure in children born preterm",
+    "marker_text": "[50]"
+  },
+  {
+    "sentence": "The growth trajectory of the CC is also compromised, with serial cranial ultrasound measurements showing a marked slowing in CC length gain after the first two weeks of life in very low birthweight infants, detectable as early as 6 weeks postnatally ref [12].",
+    "refNo": 12,
+    "title": "Human motor corpus callosum: topography, somatotopy, and link between microstructure and function",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "These structural deficits correlate with functional outcomes: reduced CC size is associated with poorer motor performance, as evidenced by inverse relationships between CC area and motor impairment scores in preterm children at 7–8 years of age ref [6].",
+    "refNo": 6,
+    "title": "Corpus callosal microstructural integrity influences interhemispheric processing: a diffusion tensor imaging study",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "In boys, smaller CC dimensions are specifically linked to deficits in verbal fluency and verbal IQ, suggesting sex-specific vulnerabilities in language-related interhemispheric communication ref [50].",
+    "refNo": 50,
+    "title": "Specific relations between neurodevelopmental abilities and white matter microstructure in children born preterm",
+    "marker_text": "[50]"
+  },
+  {
+    "sentence": "Furthermore, children born preterm without focal brain injury still demonstrate regionally specific white matter microstructural abnormalities that correlate with lower developmental quotients in motor, language, and coordination domains, highlighting the sensitivity of the CC to prematurity-related stressors ref [11].",
+    "refNo": 11,
+    "title": "DTI tractography based parcellation of white matter: application to the mid-sagittal morphology of corpus callosum",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Perinatal complications such as periventricular hemorrhage and ventricular dilatation exacerbate CC thinning, underscoring the role of neonatal morbidity in callosal maldevelopment ref [50].",
+    "refNo": 50,
+    "title": "Specific relations between neurodevelopmental abilities and white matter microstructure in children born preterm",
+    "marker_text": "[50]"
+  },
+  {
+    "sentence": "A comprehensive meta-analysis of 13 studies found that children and adolescents with ADHD exhibit a smaller splenium compared to typically developing peers, an effect primarily driven by females with ADHD, while males showed reduced rostral body volume, suggesting sex-specific neuroanatomical profiles ref [52].",
+    "refNo": 52,
+    "title": "Corpus callosum morphology in children and adolescents with attention deficit hyperactivity disorder: a meta-analytic review",
+    "marker_text": "[52]"
+  },
+  {
+    "sentence": "In children with neurofibromatosis-1 and comorbid ADHD, total CC area was enlarged relative to controls, yet no significant difference was observed between those with and without ADHD, indicating that ADHD symptoms in this genetic subgroup may arise from neurochemical rather than gross structural alterations ref [53].",
+    "refNo": 53,
+    "title": "Quantitative morphology of the corpus callosum in children with neurofibromatosis and attention-deficit hyperactivity disorder",
+    "marker_text": "[53]"
+  },
+  {
+    "sentence": "Children with ADHD demonstrate prolonged latency and shortened duration of the ipsilateral silent period (iSP), a measure of transcallosal motor inhibition, suggesting impaired myelination or synaptic efficiency within callosal fibers ref [54].",
+    "refNo": 54,
+    "title": "Disturbed transcallosally mediated motor inhibition in children with attention deficit hyperactivity disorder (ADHD)",
+    "marker_text": "[54]"
+  },
+  {
+    "sentence": "These deficits are not static: treatment with methylphenidate significantly prolongs iSP duration and reduces latency, correlating with clinical symptom improvement, thereby implicating callosal inhibition as a modifiable neurophysiological target ref [55].",
+    "refNo": 55,
+    "title": "Modulation of transcallosally mediated motor inhibition in children with attention deficit hyperactivity disorder (ADHD) by medication with methylphenidate (MPH)",
+    "marker_text": "[55]"
+  },
+  {
+    "sentence": "Additionally, deficient intracortical inhibition in drug-naive ADHD children is normalized by methylphenidate, pointing to a broader cortical disinhibition that may involve callosal circuitry ref [19].",
+    "refNo": 19,
+    "title": "Neuroplasticity in human callosal dysgenesis: a diffusion tensor imaging study",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "The association between cortical disinhibition and ADHD symptom severity, independent of tics in Tourette syndrome, further supports a direct link between inhibitory control deficits and callosal-mediated network dysfunction ref [17].",
+    "refNo": 17,
+    "title": "Normal development of bilateral field advantage and evoked potential interhemispheric transmission time",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Early MRI studies revealed that dyslexic adults exhibit a significantly larger splenium and posterior third of the corpus callosum compared to typical readers, suggesting compensatory or anomalous connectivity between right and left temporoparietal cortices ref [58].",
+    "refNo": 58,
+    "title": "Corpus callosum morphology, as measured with MRI, in dyslexic men",
+    "marker_text": "[58]"
+  },
+  {
+    "sentence": "This enlargement, observed in both male and female dyslexic individuals, may reflect reduced lateralization of language functions and increased reliance on bilateral processing ref [59].",
+    "refNo": 59,
+    "title": "Neuroanatomic differences between dyslexic and normal readers on magnetic resonance imaging scans",
+    "marker_text": "[59]"
+  },
+  {
+    "sentence": "Subsequent research using diffusion tensor imaging (DTI) has refined this view, demonstrating that reduced perpendicular diffusivity in the temporal-callosal pathway—indicative of more organized or myelinated axons—is associated with superior phonological skills, implying that efficient, rather than merely increased, interhemispheric connectivity underpins reading proficiency ref [7].",
+    "refNo": 7,
+    "title": "Temporal-callosal pathway diffusivity predicts phonological skills in children",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Functional studies further support this model, showing that phonologically dyslexic adults exhibit impaired transcallosal transfer of tactile and motor information, particularly during complex bimanual tasks requiring interhemispheric integration ref [6].",
+    "refNo": 6,
+    "title": "Corpus callosal microstructural integrity influences interhemispheric processing: a diffusion tensor imaging study",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Family-based MRI analyses have confirmed that within-family variation in oral reading ability is associated with midbody callosal area, independent of IQ and brain volume, reinforcing the heritable neuroanatomical basis of dyslexia ref [60].",
+    "refNo": 60,
+    "title": "Reading and the corpus callosum: an MRI family study of volume and area",
+    "marker_text": "[60]"
+  },
+  {
+    "sentence": "Early MRI studies reported decreased CC area in ASD, with the most pronounced deficits localized to the posterior regions, including the splenium, which contains fibers connecting parietal and occipital cortices ref [11].",
+    "refNo": 11,
+    "title": "DTI tractography based parcellation of white matter: application to the mid-sagittal morphology of corpus callosum",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Subsequent research confirmed these findings across diverse cohorts, including both high-functioning individuals and those with co-occurring intellectual disability, indicating that CC hypoplasia is not confined to a specific cognitive subgroup ref [65].",
+    "refNo": 65,
+    "title": "Corpus callosum morphometrics in young children with autism spectrum disorder",
+    "marker_text": "[65]"
+  },
+  {
+    "sentence": "More recent analyses using high-resolution morphometry and three-dimensional mapping have revealed that callosal reductions extend beyond the posterior third, with significant thinning also observed in the genu and midbody, suggesting widespread disruption of cortical connectivity ref [67].",
+    "refNo": 67,
+    "title": "Reduced size of corpus callosum in autism",
+    "marker_text": "[67]"
+  },
+  {
+    "sentence": "Studies controlling for head size demonstrate that the CC is disproportionately small in ASD, even when absolute dimensions appear normal, pointing to a specific deficit in interhemispheric white matter organization rather than generalized growth alterations ref [8].",
+    "refNo": 8,
+    "title": "The role of the corpus callosum in interhemispheric transfer of information: excitation or inhibition?",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Diffusion tensor imaging (DTI) further reveals microstructural abnormalities, including reduced fractional anisotropy and elevated radial diffusivity in the CC, particularly in a subgroup of individuals with lower performance IQ, implicating myelin integrity in functional impairments ref [9].",
+    "refNo": 9,
+    "title": "Simple reaction times to lateralized light flashes. Varieties of interhemispheric communication routes",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Regional analyses across developmental stages indicate that callosal deficits are detectable in early childhood and persist into adolescence, supporting a neurodevelopmental origin ref [62].",
+    "refNo": 62,
+    "title": "Regional Callosal Morphology in Autism and Macrocephaly",
+    "marker_text": "[62]"
+  },
+  {
+    "sentence": "Early reports documented ACC in patients with 45,X karyotypes, often accompanied by cognitive deficits and somatic features such as horseshoe kidney and Hashimoto's thyroiditis ref [23], ref [24].",
+    "refNo": 23,
+    "title": "Turner's syndrome with agenesis of the corpus callosum, Hashimoto's thyroiditis and horseshoe kidney",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Early reports documented ACC in patients with 45,X karyotypes, often accompanied by cognitive deficits and somatic features such as horseshoe kidney and Hashimoto's thyroiditis ref [23], ref [24].",
+    "refNo": 24,
+    "title": "Ullrich-Turner syndrome with agenesis of the corpus callosum",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "More recently, a case of 45,X/48,X,r(X) mosaicism presented with ACC alongside distinctive Kabuki-like facial features, indicating that ring X chromosomes may confer a higher risk of CNS malformations than previously recognized ref [22].",
+    "refNo": 22,
+    "title": "Agenesis of the corpus callosum in Turner syndrome with ring X",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Morphometric studies further reveal that even in the absence of complete ACC, Turner syndrome is associated with significant callosal reductions, particularly in the genu, as well as cerebellar vermis hypoplasia, suggesting a broader pattern of midline structural vulnerability ref [26].",
+    "refNo": 26,
+    "title": "Abnormalities of the corpus callosum in nonpsychotic children with chromosome 22q11 deletion syndrome",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "Similarly, chromosome 22q11.2 deletion syndrome (22q11DS) demonstrates a high prevalence of callosal dysgenesis, with studies reporting both increased total callosal area and altered growth trajectories in nonpsychotic children, pointing to aberrant developmental patterning rather than simple atrophy ref [19].",
+    "refNo": 19,
+    "title": "Neuroplasticity in human callosal dysgenesis: a diffusion tensor imaging study",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "In Williams syndrome, caused by a 7q11.23 deletion, the corpus callosum is consistently smaller, with pronounced reductions in the splenium and caudal body, alongside increased voxel intensity suggesting altered myelination or water content ref [20].",
+    "refNo": 20,
+    "title": "Rhesus monkey and human share a similar topography of the corpus callosum as revealed by diffusion tensor MRI in vivo",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Very preterm birth, particularly before 33 weeks' gestation, is consistently associated with reduced corpus callosum volume, especially in the posterior and mid-posterior regions, as demonstrated by MRI studies in adolescents and children ref [47].",
+    "refNo": 47,
+    "title": "Corpus callosum size and very preterm birth: relationship to neuropsychological outcome",
+    "marker_text": "[47]"
+  },
+  {
+    "sentence": "These reductions correlate with impaired neuropsychological outcomes, including diminished verbal fluency and IQ, particularly in preterm boys ref [47].",
+    "refNo": 47,
+    "title": "Corpus callosum size and very preterm birth: relationship to neuropsychological outcome",
+    "marker_text": "[47]"
+  },
+  {
+    "sentence": "Similarly, motor performance deficits in preterm children without cerebral palsy are strongly linked to smaller total and regional callosal areas, suggesting that even subclinical callosal underdevelopment affects motor integration ref [48].",
+    "refNo": 48,
+    "title": "Larger corpus callosum size with better motor performance in prematurely born children",
+    "marker_text": "[48]"
+  },
+  {
+    "sentence": "Prenatal alcohol exposure represents another major insult, with studies revealing both complete agenesis and selective thinning of callosal subregions in children with fetal alcohol spectrum disorders, even after correcting for total brain size ref [37].",
+    "refNo": 37,
+    "title": "Abnormalities of the corpus callosum in children prenatally exposed to alcohol",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "Microstructural abnormalities, including reduced fractional anisotropy and altered white matter integrity, further underscore the vulnerability of callosal axons to in utero toxicants ref [4].",
+    "refNo": 4,
+    "title": "Growth of the human corpus callosum: modular and laminar morphogenetic zones",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Longitudinal data suggest that these structural anomalies persist into adolescence and adulthood, implicating early developmental disruption rather than secondary degeneration as the primary mechanism ref [47].",
+    "refNo": 47,
+    "title": "Corpus callosum size and very preterm birth: relationship to neuropsychological outcome",
+    "marker_text": "[47]"
+  },
+  {
+    "sentence": "Studies using high-resolution MRI reveal a reduced total midsagittal CC area, with disproportionate thinning of the splenium and isthmus—regions connecting parieto-occipital cortices—consistent with the characteristic visuospatial deficits in WS ref [27].",
+    "refNo": 27,
+    "title": "White matter microstructure in 22q11 deletion syndrome: a pilot diffusion tensor imaging and voxel-based morphometry study of children and adolescents",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "Geometrical modeling further demonstrates an increased bending angle of the CC and altered thickness profiles, particularly in posterior segments, suggesting aberrant white matter organization ref [71].",
+    "refNo": 71,
+    "title": "Callosal morphology in Williams syndrome: a new evaluation of shape and thickness",
+    "marker_text": "[71]"
+  },
+  {
+    "sentence": "Notably, the enlarged ventral anterior prefrontal cortex in WS correlates with the CC bending angle, implicating a structural network underlying the syndrome’s atypical social communication profile ref [70].",
+    "refNo": 70,
+    "title": "Association between cerebral shape and social use of language in Williams syndrome",
+    "marker_text": "[70]"
+  },
+  {
+    "sentence": "In contrast, 22q11.2 deletion syndrome (22q11DS) exhibits widespread white matter microstructural disruptions, including reduced fractional anisotropy (FA) in interhemispheric tracts, particularly within the CC, as revealed by diffusion tensor imaging ref [6].",
+    "refNo": 6,
+    "title": "Corpus callosal microstructural integrity influences interhemispheric processing: a diffusion tensor imaging study",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "While CC volume reductions have been reported, the primary pathology appears to lie in axonal integrity and myelination rather than gross size ref [6].",
+    "refNo": 6,
+    "title": "Corpus callosal microstructural integrity influences interhemispheric processing: a diffusion tensor imaging study",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Early magnetic resonance imaging (MRI) studies revealed a reduced size of the posterior CC in individuals with ASD, with the most pronounced deficits observed in the midbody and splenium, regions rich in parietal and occipital interhemispheric fibers ref [11].",
+    "refNo": 11,
+    "title": "DTI tractography based parcellation of white matter: application to the mid-sagittal morphology of corpus callosum",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Subsequent research confirmed these findings across diverse cohorts, including both high-functioning and intellectually disabled individuals, indicating that callosal reductions are not confined to a specific cognitive subgroup ref [74].",
+    "refNo": 74,
+    "title": "An MRI study of the corpus callosum in autism",
+    "marker_text": "[74]"
+  },
+  {
+    "sentence": "A study by Piven et al. demonstrated that after controlling for total brain volume, the body and posterior CC regions were significantly smaller in autistic individuals compared to matched controls ref [67].",
+    "refNo": 67,
+    "title": "Reduced size of corpus callosum in autism",
+    "marker_text": "[67]"
+  },
+  {
+    "sentence": "Further regional analyses using high-resolution morphometry identified that normocephalic individuals with ASD exhibit specific reductions in the genu and midbody, while macrocephalic ASD individuals show overall larger CC size driven by midbody expansion, suggesting distinct neuroanatomical subtypes ref [63].",
+    "refNo": 63,
+    "title": "An MRI study of the corpus callosum and cerebellum in mentally retarded autistic individuals",
+    "marker_text": "[63]"
+  },
+  {
+    "sentence": "Diffusion tensor imaging (DTI) has extended these findings by revealing reduced fractional anisotropy (FA) within and near the CC in ASD, indicating compromised white matter microstructural integrity that persists into adulthood ref [62].",
+    "refNo": 62,
+    "title": "Regional Callosal Morphology in Autism and Macrocephaly",
+    "marker_text": "[62]"
+  },
+  {
+    "sentence": "Notably, while some studies report early white matter overgrowth in young children with ASD, this is followed by a trajectory of reduced CC volume and integrity by adolescence and adulthood, pointing to a dynamic, non-linear developmental path ref [62].",
+    "refNo": 62,
+    "title": "Regional Callosal Morphology in Autism and Macrocephaly",
+    "marker_text": "[62]"
+  },
+  {
+    "sentence": "Morphometric MRI analyses reveal significantly reduced splenial area in ADHD populations, with this finding replicated across multiple studies and confirmed in meta-analytic reviews ref [52].",
+    "refNo": 52,
+    "title": "Corpus callosum morphology in children and adolescents with attention deficit hyperactivity disorder: a meta-analytic review",
+    "marker_text": "[52]"
+  },
+  {
+    "sentence": "The splenium, which connects occipital and parietal cortices, is implicated in visuospatial attention and interhemispheric transfer of sensory information, potentially explaining sustained attention deficits characteristic of ADHD ref [9].",
+    "refNo": 9,
+    "title": "Simple reaction times to lateralized light flashes. Varieties of interhemispheric communication routes",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Some studies also report smaller rostral body volumes in males with ADHD, suggesting subtype- and sex-specific morphological patterns ref [52].",
+    "refNo": 52,
+    "title": "Corpus callosum morphology in children and adolescents with attention deficit hyperactivity disorder: a meta-analytic review",
+    "marker_text": "[52]"
+  },
+  {
+    "sentence": "Electrophysiological studies using event-related potentials demonstrate altered interhemispheric transfer times, with distinct patterns observed between inattentive and combined subtypes—slower right-to-left transfer in the inattentive subtype and faster left-to-right transfer in the combined subtype ref [7].",
+    "refNo": 7,
+    "title": "Temporal-callosal pathway diffusivity predicts phonological skills in children",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Transcranial magnetic stimulation further reveals prolonged ipsilateral silent period (iSP) latencies and reduced iSP duration in children with ADHD, indicating compromised transcallosal motor inhibition, possibly due to defective myelination or imbalanced cortical excitation-inhibition ref [11].",
+    "refNo": 11,
+    "title": "DTI tractography based parcellation of white matter: application to the mid-sagittal morphology of corpus callosum",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "While some studies report no differences in CC shape or anterior regions ref [9], the convergence of evidence from structural MRI, DTI, and neurophysiological methods supports a role for posterior callosal deficits in the neurobiology of ADHD.",
+    "refNo": 9,
+    "title": "Simple reaction times to lateralized light flashes. Varieties of interhemispheric communication routes",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Longitudinal data on whether these abnormalities persist into adulthood remain limited, and the influence of comorbidities or medication, such as methylphenidate, on callosal integrity warrants further investigation ref [8].",
+    "refNo": 8,
+    "title": "The role of the corpus callosum in interhemispheric transfer of information: excitation or inhibition?",
+    "marker_text": "[8]"
+  }
+]

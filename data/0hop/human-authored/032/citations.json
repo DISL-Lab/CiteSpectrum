@@ -1,0 +1,1022 @@
+[
+  {
+    "sentence": "Specific cellular targets of macroscopic systems can be conveniently studied using these models by analyzing the experimental results (Saeidnia et al., 2015).",
+    "refNo": 165,
+    "title": "From in vitro experiments to in vivo and clinical studies; pros and cons",
+    "marker_text": "(Saeidnia et al., 2015)"
+  },
+  {
+    "sentence": "Figure 1 depicts the history of development of in vitro models of CRC (Sanford et al., 1948;Ricci et al., 2007;Sharma et al., 2010;Jedrzejczak, 2017).",
+    "refNo": 166,
+    "title": "The growth in vitro of single isolated tissue cells",
+    "marker_text": "(Sanford et al., 1948)"
+  },
+  {
+    "sentence": "Figure 1 depicts the history of development of in vitro models of CRC (Sanford et al., 1948;Ricci et al., 2007;Sharma et al., 2010;Jedrzejczak, 2017).",
+    "refNo": 159,
+    "title": "Identification and expansion of human colon-cancer-initiating cells",
+    "marker_text": "(Ricci et al., 2007)"
+  },
+  {
+    "sentence": "Figure 1 depicts the history of development of in vitro models of CRC (Sanford et al., 1948;Ricci et al., 2007;Sharma et al., 2010;Jedrzejczak, 2017).",
+    "refNo": 177,
+    "title": "Cell line-based platforms to evaluate the therapeutic efficacy of candidate anticancer agents",
+    "marker_text": "(Sharma et al., 2010)"
+  },
+  {
+    "sentence": "Figure 1 depicts the history of development of in vitro models of CRC (Sanford et al., 1948;Ricci et al., 2007;Sharma et al., 2010;Jedrzejczak, 2017).",
+    "refNo": 63,
+    "title": "History of cell culture",
+    "marker_text": "(Jedrzejczak, 2017)"
+  },
+  {
+    "sentence": "Specific cellular targets of macroscopic systems can be conveniently studied using these models by analyzing the experimental results (Saeidnia et al., 2015).",
+    "refNo": 165,
+    "title": "From in vitro experiments to in vivo and clinical studies; pros and cons",
+    "marker_text": "(Saeidnia et al., 2015)"
+  },
+  {
+    "sentence": "Figure 1 depicts the history of development of in vitro models of CRC (Sanford et al., 1948;Ricci et al., 2007;Sharma et al., 2010;Jedrzejczak, 2017).",
+    "refNo": 166,
+    "title": "The growth in vitro of single isolated tissue cells",
+    "marker_text": "(Sanford et al., 1948)"
+  },
+  {
+    "sentence": "Figure 1 depicts the history of development of in vitro models of CRC (Sanford et al., 1948;Ricci et al., 2007;Sharma et al., 2010;Jedrzejczak, 2017).",
+    "refNo": 159,
+    "title": "Identification and expansion of human colon-cancer-initiating cells",
+    "marker_text": "(Ricci et al., 2007)"
+  },
+  {
+    "sentence": "Figure 1 depicts the history of development of in vitro models of CRC (Sanford et al., 1948;Ricci et al., 2007;Sharma et al., 2010;Jedrzejczak, 2017).",
+    "refNo": 177,
+    "title": "Cell line-based platforms to evaluate the therapeutic efficacy of candidate anticancer agents",
+    "marker_text": "(Sharma et al., 2010)"
+  },
+  {
+    "sentence": "Figure 1 depicts the history of development of in vitro models of CRC (Sanford et al., 1948;Ricci et al., 2007;Sharma et al., 2010;Jedrzejczak, 2017).",
+    "refNo": 63,
+    "title": "History of cell culture",
+    "marker_text": "(Jedrzejczak, 2017)"
+  },
+  {
+    "sentence": "Specific cellular targets of macroscopic systems can be conveniently studied using these models by analyzing the experimental results (Saeidnia et al., 2015).",
+    "refNo": 165,
+    "title": "From in vitro experiments to in vivo and clinical studies; pros and cons",
+    "marker_text": "(Saeidnia et al., 2015)"
+  },
+  {
+    "sentence": "Figure 1 depicts the history of development of in vitro models of CRC (Sanford et al., 1948;Ricci et al., 2007;Sharma et al., 2010;Jedrzejczak, 2017).",
+    "refNo": 166,
+    "title": "The growth in vitro of single isolated tissue cells",
+    "marker_text": "(Sanford et al., 1948)"
+  },
+  {
+    "sentence": "Figure 1 depicts the history of development of in vitro models of CRC (Sanford et al., 1948;Ricci et al., 2007;Sharma et al., 2010;Jedrzejczak, 2017).",
+    "refNo": 159,
+    "title": "Identification and expansion of human colon-cancer-initiating cells",
+    "marker_text": "(Ricci et al., 2007)"
+  },
+  {
+    "sentence": "Figure 1 depicts the history of development of in vitro models of CRC (Sanford et al., 1948;Ricci et al., 2007;Sharma et al., 2010;Jedrzejczak, 2017).",
+    "refNo": 177,
+    "title": "Cell line-based platforms to evaluate the therapeutic efficacy of candidate anticancer agents",
+    "marker_text": "(Sharma et al., 2010)"
+  },
+  {
+    "sentence": "Figure 1 depicts the history of development of in vitro models of CRC (Sanford et al., 1948;Ricci et al., 2007;Sharma et al., 2010;Jedrzejczak, 2017).",
+    "refNo": 63,
+    "title": "History of cell culture",
+    "marker_text": "(Jedrzejczak, 2017)"
+  },
+  {
+    "sentence": "SW620, Caco-2, RKO, SW480, HT8, HT29, HT116, LoVo, and LS174 T cell lines are currently widely used in basic research studies on CRC (Akashi et al., 2000;Vécsey et al., 2002;Lind et al., 2004;Barretina et al., 2012;Ahmed et al., 2013;Gemei et al., 2013;Mouradov et al., 2014;Maletzki et al., 2015;Boot et al., 2016;Berg et al., 2017;Mooi et al., 2018;Kim et al., 2020;Bian et al., 2021).",
+    "refNo": 2,
+    "title": "Growth-suppressive effect of non-steroidal anti-inflammatory drugs on 11 colon-cancer cell lines and fluorescence differential display of genes whose expression is influenced by sulindac",
+    "marker_text": "(Akashi et al., 2000)"
+  },
+  {
+    "sentence": "SW620, Caco-2, RKO, SW480, HT8, HT29, HT116, LoVo, and LS174 T cell lines are currently widely used in basic research studies on CRC (Akashi et al., 2000;Vécsey et al., 2002;Lind et al., 2004;Barretina et al., 2012;Ahmed et al., 2013;Gemei et al., 2013;Mouradov et al., 2014;Maletzki et al., 2015;Boot et al., 2016;Berg et al., 2017;Mooi et al., 2018;Kim et al., 2020;Bian et al., 2021).",
+    "refNo": 207,
+    "title": "Novel colon cancer cell lines leading to better understanding of the diversity of respective primary cancers",
+    "marker_text": "(Lind et al., 2004)"
+  },
+  {
+    "sentence": "SW620, Caco-2, RKO, SW480, HT8, HT29, HT116, LoVo, and LS174 T cell lines are currently widely used in basic research studies on CRC (Akashi et al., 2000;Vécsey et al., 2002;Lind et al., 2004;Barretina et al., 2012;Ahmed et al., 2013;Gemei et al., 2013;Mouradov et al., 2014;Maletzki et al., 2015;Boot et al., 2016;Berg et al., 2017;Mooi et al., 2018;Kim et al., 2020;Bian et al., 2021).",
+    "refNo": 1,
+    "title": "Epigenetic and genetic features of 24 colon cancer cell lines",
+    "marker_text": "(Barretina et al., 2012)"
+  },
+  {
+    "sentence": "SW620, Caco-2, RKO, SW480, HT8, HT29, HT116, LoVo, and LS174 T cell lines are currently widely used in basic research studies on CRC (Akashi et al., 2000;Vécsey et al., 2002;Lind et al., 2004;Barretina et al., 2012;Ahmed et al., 2013;Gemei et al., 2013;Mouradov et al., 2014;Maletzki et al., 2015;Boot et al., 2016;Berg et al., 2017;Mooi et al., 2018;Kim et al., 2020;Bian et al., 2021).",
+    "refNo": 115,
+    "title": "",
+    "marker_text": "(Ahmed et al., 2013)"
+  },
+  {
+    "sentence": "SW620, Caco-2, RKO, SW480, HT8, HT29, HT116, LoVo, and LS174 T cell lines are currently widely used in basic research studies on CRC (Akashi et al., 2000;Vécsey et al., 2002;Lind et al., 2004;Barretina et al., 2012;Ahmed et al., 2013;Gemei et al., 2013;Mouradov et al., 2014;Maletzki et al., 2015;Boot et al., 2016;Berg et al., 2017;Mooi et al., 2018;Kim et al., 2020;Bian et al., 2021).",
+    "refNo": 10,
+    "title": "Characterization of novel low passage primary and metastatic colorectal cancer cell lines",
+    "marker_text": "(Gemei et al., 2013)"
+  },
+  {
+    "sentence": "SW620, Caco-2, RKO, SW480, HT8, HT29, HT116, LoVo, and LS174 T cell lines are currently widely used in basic research studies on CRC (Akashi et al., 2000;Vécsey et al., 2002;Lind et al., 2004;Barretina et al., 2012;Ahmed et al., 2013;Gemei et al., 2013;Mouradov et al., 2014;Maletzki et al., 2015;Boot et al., 2016;Berg et al., 2017;Mooi et al., 2018;Kim et al., 2020;Bian et al., 2021).",
+    "refNo": 132,
+    "title": "Cell line models of molecular subtypes of colorectal cancer",
+    "marker_text": "(Mouradov et al., 2014)"
+  },
+  {
+    "sentence": "SW620, Caco-2, RKO, SW480, HT8, HT29, HT116, LoVo, and LS174 T cell lines are currently widely used in basic research studies on CRC (Akashi et al., 2000;Vécsey et al., 2002;Lind et al., 2004;Barretina et al., 2012;Ahmed et al., 2013;Gemei et al., 2013;Mouradov et al., 2014;Maletzki et al., 2015;Boot et al., 2016;Berg et al., 2017;Mooi et al., 2018;Kim et al., 2020;Bian et al., 2021).",
+    "refNo": 76,
+    "title": "",
+    "marker_text": "(Maletzki et al., 2015)"
+  },
+  {
+    "sentence": "SW620, Caco-2, RKO, SW480, HT8, HT29, HT116, LoVo, and LS174 T cell lines are currently widely used in basic research studies on CRC (Akashi et al., 2000;Vécsey et al., 2002;Lind et al., 2004;Barretina et al., 2012;Ahmed et al., 2013;Gemei et al., 2013;Mouradov et al., 2014;Maletzki et al., 2015;Boot et al., 2016;Berg et al., 2017;Mooi et al., 2018;Kim et al., 2020;Bian et al., 2021).",
+    "refNo": 76,
+    "title": "",
+    "marker_text": "(Boot et al., 2016)"
+  },
+  {
+    "sentence": "SW620, Caco-2, RKO, SW480, HT8, HT29, HT116, LoVo, and LS174 T cell lines are currently widely used in basic research studies on CRC (Akashi et al., 2000;Vécsey et al., 2002;Lind et al., 2004;Barretina et al., 2012;Ahmed et al., 2013;Gemei et al., 2013;Mouradov et al., 2014;Maletzki et al., 2015;Boot et al., 2016;Berg et al., 2017;Mooi et al., 2018;Kim et al., 2020;Bian et al., 2021).",
+    "refNo": 76,
+    "title": "",
+    "marker_text": "(Berg et al., 2017)"
+  },
+  {
+    "sentence": "SW620, Caco-2, RKO, SW480, HT8, HT29, HT116, LoVo, and LS174 T cell lines are currently widely used in basic research studies on CRC (Akashi et al., 2000;Vécsey et al., 2002;Lind et al., 2004;Barretina et al., 2012;Ahmed et al., 2013;Gemei et al., 2013;Mouradov et al., 2014;Maletzki et al., 2015;Boot et al., 2016;Berg et al., 2017;Mooi et al., 2018;Kim et al., 2020;Bian et al., 2021).",
+    "refNo": 76,
+    "title": "",
+    "marker_text": "(Mooi et al., 2018)"
+  },
+  {
+    "sentence": "SW620, Caco-2, RKO, SW480, HT8, HT29, HT116, LoVo, and LS174 T cell lines are currently widely used in basic research studies on CRC (Akashi et al., 2000;Vécsey et al., 2002;Lind et al., 2004;Barretina et al., 2012;Ahmed et al., 2013;Gemei et al., 2013;Mouradov et al., 2014;Maletzki et al., 2015;Boot et al., 2016;Berg et al., 2017;Mooi et al., 2018;Kim et al., 2020;Bian et al., 2021).",
+    "refNo": 76,
+    "title": "",
+    "marker_text": "(Kim et al., 2020)"
+  },
+  {
+    "sentence": "SW620, Caco-2, RKO, SW480, HT8, HT29, HT116, LoVo, and LS174 T cell lines are currently widely used in basic research studies on CRC (Akashi et al., 2000;Vécsey et al., 2002;Lind et al., 2004;Barretina et al., 2012;Ahmed et al., 2013;Gemei et al., 2013;Mouradov et al., 2014;Maletzki et al., 2015;Boot et al., 2016;Berg et al., 2017;Mooi et al., 2018;Kim et al., 2020;Bian et al., 2021).",
+    "refNo": 76,
+    "title": "",
+    "marker_text": "(Bian et al., 2021)"
+  },
+  {
+    "sentence": "SW620, Caco-2, RKO, SW480, HT8, HT29, HT116, LoVo, and LS174 T cell lines are currently widely used in basic research studies on CRC (Akashi et al., 2000;Vécsey et al., 2002;Lind et al., 2004;Barretina et al., 2012;Ahmed et al., 2013;Gemei et al., 2013;Mouradov et al., 2014;Maletzki et al., 2015;Boot et al., 2016;Berg et al., 2017;Mooi et al., 2018;Kim et al., 2020;Bian et al., 2021).",
+    "refNo": 2,
+    "title": "Growth-suppressive effect of non-steroidal anti-inflammatory drugs on 11 colon-cancer cell lines and fluorescence differential display of genes whose expression is influenced by sulindac",
+    "marker_text": "(Akashi et al., 2000)"
+  },
+  {
+    "sentence": "SW620, Caco-2, RKO, SW480, HT8, HT29, HT116, LoVo, and LS174 T cell lines are currently widely used in basic research studies on CRC (Akashi et al., 2000;Vécsey et al., 2002;Lind et al., 2004;Barretina et al., 2012;Ahmed et al., 2013;Gemei et al., 2013;Mouradov et al., 2014;Maletzki et al., 2015;Boot et al., 2016;Berg et al., 2017;Mooi et al., 2018;Kim et al., 2020;Bian et al., 2021).",
+    "refNo": 207,
+    "title": "Novel colon cancer cell lines leading to better understanding of the diversity of respective primary cancers",
+    "marker_text": "(Lind et al., 2004)"
+  },
+  {
+    "sentence": "SW620, Caco-2, RKO, SW480, HT8, HT29, HT116, LoVo, and LS174 T cell lines are currently widely used in basic research studies on CRC (Akashi et al., 2000;Vécsey et al., 2002;Lind et al., 2004;Barretina et al., 2012;Ahmed et al., 2013;Gemei et al., 2013;Mouradov et al., 2014;Maletzki et al., 2015;Boot et al., 2016;Berg et al., 2017;Mooi et al., 2018;Kim et al., 2020;Bian et al., 2021).",
+    "refNo": 1,
+    "title": "Epigenetic and genetic features of 24 colon cancer cell lines",
+    "marker_text": "(Barretina et al., 2012)"
+  },
+  {
+    "sentence": "SW620, Caco-2, RKO, SW480, HT8, HT29, HT116, LoVo, and LS174 T cell lines are currently widely used in basic research studies on CRC (Akashi et al., 2000;Vécsey et al., 2002;Lind et al., 2004;Barretina et al., 2012;Ahmed et al., 2013;Gemei et al., 2013;Mouradov et al., 2014;Maletzki et al., 2015;Boot et al., 2016;Berg et al., 2017;Mooi et al., 2018;Kim et al., 2020;Bian et al., 2021).",
+    "refNo": 115,
+    "title": "",
+    "marker_text": "(Ahmed et al., 2013)"
+  },
+  {
+    "sentence": "SW620, Caco-2, RKO, SW480, HT8, HT29, HT116, LoVo, and LS174 T cell lines are currently widely used in basic research studies on CRC (Akashi et al., 2000;Vécsey et al., 2002;Lind et al., 2004;Barretina et al., 2012;Ahmed et al., 2013;Gemei et al., 2013;Mouradov et al., 2014;Maletzki et al., 2015;Boot et al., 2016;Berg et al., 2017;Mooi et al., 2018;Kim et al., 2020;Bian et al., 2021).",
+    "refNo": 10,
+    "title": "Characterization of novel low passage primary and metastatic colorectal cancer cell lines",
+    "marker_text": "(Gemei et al., 2013)"
+  },
+  {
+    "sentence": "SW620, Caco-2, RKO, SW480, HT8, HT29, HT116, LoVo, and LS174 T cell lines are currently widely used in basic research studies on CRC (Akashi et al., 2000;Vécsey et al., 2002;Lind et al., 2004;Barretina et al., 2012;Ahmed et al., 2013;Gemei et al., 2013;Mouradov et al., 2014;Maletzki et al., 2015;Boot et al., 2016;Berg et al., 2017;Mooi et al., 2018;Kim et al., 2020;Bian et al., 2021).",
+    "refNo": 132,
+    "title": "Cell line models of molecular subtypes of colorectal cancer",
+    "marker_text": "(Mouradov et al., 2014)"
+  },
+  {
+    "sentence": "SW620, Caco-2, RKO, SW480, HT8, HT29, HT116, LoVo, and LS174 T cell lines are currently widely used in basic research studies on CRC (Akashi et al., 2000;Vécsey et al., 2002;Lind et al., 2004;Barretina et al., 2012;Ahmed et al., 2013;Gemei et al., 2013;Mouradov et al., 2014;Maletzki et al., 2015;Boot et al., 2016;Berg et al., 2017;Mooi et al., 2018;Kim et al., 2020;Bian et al., 2021).",
+    "refNo": 76,
+    "title": "",
+    "marker_text": "(Maletzki et al., 2015)"
+  },
+  {
+    "sentence": "SW620, Caco-2, RKO, SW480, HT8, HT29, HT116, LoVo, and LS174 T cell lines are currently widely used in basic research studies on CRC (Akashi et al., 2000;Vécsey et al., 2002;Lind et al., 2004;Barretina et al., 2012;Ahmed et al., 2013;Gemei et al., 2013;Mouradov et al., 2014;Maletzki et al., 2015;Boot et al., 2016;Berg et al., 2017;Mooi et al., 2018;Kim et al., 2020;Bian et al., 2021).",
+    "refNo": 76,
+    "title": "",
+    "marker_text": "(Boot et al., 2016)"
+  },
+  {
+    "sentence": "SW620, Caco-2, RKO, SW480, HT8, HT29, HT116, LoVo, and LS174 T cell lines are currently widely used in basic research studies on CRC (Akashi et al., 2000;Vécsey et al., 2002;Lind et al., 2004;Barretina et al., 2012;Ahmed et al., 2013;Gemei et al., 2013;Mouradov et al., 2014;Maletzki et al., 2015;Boot et al., 2016;Berg et al., 2017;Mooi et al., 2018;Kim et al., 2020;Bian et al., 2021).",
+    "refNo": 76,
+    "title": "",
+    "marker_text": "(Berg et al., 2017)"
+  },
+  {
+    "sentence": "SW620, Caco-2, RKO, SW480, HT8, HT29, HT116, LoVo, and LS174 T cell lines are currently widely used in basic research studies on CRC (Akashi et al., 2000;Vécsey et al., 2002;Lind et al., 2004;Barretina et al., 2012;Ahmed et al., 2013;Gemei et al., 2013;Mouradov et al., 2014;Maletzki et al., 2015;Boot et al., 2016;Berg et al., 2017;Mooi et al., 2018;Kim et al., 2020;Bian et al., 2021).",
+    "refNo": 76,
+    "title": "",
+    "marker_text": "(Mooi et al., 2018)"
+  },
+  {
+    "sentence": "SW620, Caco-2, RKO, SW480, HT8, HT29, HT116, LoVo, and LS174 T cell lines are currently widely used in basic research studies on CRC (Akashi et al., 2000;Vécsey et al., 2002;Lind et al., 2004;Barretina et al., 2012;Ahmed et al., 2013;Gemei et al., 2013;Mouradov et al., 2014;Maletzki et al., 2015;Boot et al., 2016;Berg et al., 2017;Mooi et al., 2018;Kim et al., 2020;Bian et al., 2021).",
+    "refNo": 76,
+    "title": "",
+    "marker_text": "(Kim et al., 2020)"
+  },
+  {
+    "sentence": "SW620, Caco-2, RKO, SW480, HT8, HT29, HT116, LoVo, and LS174 T cell lines are currently widely used in basic research studies on CRC (Akashi et al., 2000;Vécsey et al., 2002;Lind et al., 2004;Barretina et al., 2012;Ahmed et al., 2013;Gemei et al., 2013;Mouradov et al., 2014;Maletzki et al., 2015;Boot et al., 2016;Berg et al., 2017;Mooi et al., 2018;Kim et al., 2020;Bian et al., 2021).",
+    "refNo": 76,
+    "title": "",
+    "marker_text": "(Bian et al., 2021)"
+  },
+  {
+    "sentence": "SW620, Caco-2, RKO, SW480, HT8, HT29, HT116, LoVo, and LS174 T cell lines are currently widely used in basic research studies on CRC (Akashi et al., 2000;Vécsey et al., 2002;Lind et al., 2004;Barretina et al., 2012;Ahmed et al., 2013;Gemei et al., 2013;Mouradov et al., 2014;Maletzki et al., 2015;Boot et al., 2016;Berg et al., 2017;Mooi et al., 2018;Kim et al., 2020;Bian et al., 2021).",
+    "refNo": 2,
+    "title": "Growth-suppressive effect of non-steroidal anti-inflammatory drugs on 11 colon-cancer cell lines and fluorescence differential display of genes whose expression is influenced by sulindac",
+    "marker_text": "(Akashi et al., 2000)"
+  },
+  {
+    "sentence": "SW620, Caco-2, RKO, SW480, HT8, HT29, HT116, LoVo, and LS174 T cell lines are currently widely used in basic research studies on CRC (Akashi et al., 2000;Vécsey et al., 2002;Lind et al., 2004;Barretina et al., 2012;Ahmed et al., 2013;Gemei et al., 2013;Mouradov et al., 2014;Maletzki et al., 2015;Boot et al., 2016;Berg et al., 2017;Mooi et al., 2018;Kim et al., 2020;Bian et al., 2021).",
+    "refNo": 207,
+    "title": "Novel colon cancer cell lines leading to better understanding of the diversity of respective primary cancers",
+    "marker_text": "(Lind et al., 2004)"
+  },
+  {
+    "sentence": "SW620, Caco-2, RKO, SW480, HT8, HT29, HT116, LoVo, and LS174 T cell lines are currently widely used in basic research studies on CRC (Akashi et al., 2000;Vécsey et al., 2002;Lind et al., 2004;Barretina et al., 2012;Ahmed et al., 2013;Gemei et al., 2013;Mouradov et al., 2014;Maletzki et al., 2015;Boot et al., 2016;Berg et al., 2017;Mooi et al., 2018;Kim et al., 2020;Bian et al., 2021).",
+    "refNo": 1,
+    "title": "Epigenetic and genetic features of 24 colon cancer cell lines",
+    "marker_text": "(Barretina et al., 2012)"
+  },
+  {
+    "sentence": "SW620, Caco-2, RKO, SW480, HT8, HT29, HT116, LoVo, and LS174 T cell lines are currently widely used in basic research studies on CRC (Akashi et al., 2000;Vécsey et al., 2002;Lind et al., 2004;Barretina et al., 2012;Ahmed et al., 2013;Gemei et al., 2013;Mouradov et al., 2014;Maletzki et al., 2015;Boot et al., 2016;Berg et al., 2017;Mooi et al., 2018;Kim et al., 2020;Bian et al., 2021).",
+    "refNo": 115,
+    "title": "",
+    "marker_text": "(Ahmed et al., 2013)"
+  },
+  {
+    "sentence": "SW620, Caco-2, RKO, SW480, HT8, HT29, HT116, LoVo, and LS174 T cell lines are currently widely used in basic research studies on CRC (Akashi et al., 2000;Vécsey et al., 2002;Lind et al., 2004;Barretina et al., 2012;Ahmed et al., 2013;Gemei et al., 2013;Mouradov et al., 2014;Maletzki et al., 2015;Boot et al., 2016;Berg et al., 2017;Mooi et al., 2018;Kim et al., 2020;Bian et al., 2021).",
+    "refNo": 10,
+    "title": "Characterization of novel low passage primary and metastatic colorectal cancer cell lines",
+    "marker_text": "(Gemei et al., 2013)"
+  },
+  {
+    "sentence": "SW620, Caco-2, RKO, SW480, HT8, HT29, HT116, LoVo, and LS174 T cell lines are currently widely used in basic research studies on CRC (Akashi et al., 2000;Vécsey et al., 2002;Lind et al., 2004;Barretina et al., 2012;Ahmed et al., 2013;Gemei et al., 2013;Mouradov et al., 2014;Maletzki et al., 2015;Boot et al., 2016;Berg et al., 2017;Mooi et al., 2018;Kim et al., 2020;Bian et al., 2021).",
+    "refNo": 132,
+    "title": "Cell line models of molecular subtypes of colorectal cancer",
+    "marker_text": "(Mouradov et al., 2014)"
+  },
+  {
+    "sentence": "SW620, Caco-2, RKO, SW480, HT8, HT29, HT116, LoVo, and LS174 T cell lines are currently widely used in basic research studies on CRC (Akashi et al., 2000;Vécsey et al., 2002;Lind et al., 2004;Barretina et al., 2012;Ahmed et al., 2013;Gemei et al., 2013;Mouradov et al., 2014;Maletzki et al., 2015;Boot et al., 2016;Berg et al., 2017;Mooi et al., 2018;Kim et al., 2020;Bian et al., 2021).",
+    "refNo": 76,
+    "title": "",
+    "marker_text": "(Maletzki et al., 2015)"
+  },
+  {
+    "sentence": "SW620, Caco-2, RKO, SW480, HT8, HT29, HT116, LoVo, and LS174 T cell lines are currently widely used in basic research studies on CRC (Akashi et al., 2000;Vécsey et al., 2002;Lind et al., 2004;Barretina et al., 2012;Ahmed et al., 2013;Gemei et al., 2013;Mouradov et al., 2014;Maletzki et al., 2015;Boot et al., 2016;Berg et al., 2017;Mooi et al., 2018;Kim et al., 2020;Bian et al., 2021).",
+    "refNo": 76,
+    "title": "",
+    "marker_text": "(Boot et al., 2016)"
+  },
+  {
+    "sentence": "SW620, Caco-2, RKO, SW480, HT8, HT29, HT116, LoVo, and LS174 T cell lines are currently widely used in basic research studies on CRC (Akashi et al., 2000;Vécsey et al., 2002;Lind et al., 2004;Barretina et al., 2012;Ahmed et al., 2013;Gemei et al., 2013;Mouradov et al., 2014;Maletzki et al., 2015;Boot et al., 2016;Berg et al., 2017;Mooi et al., 2018;Kim et al., 2020;Bian et al., 2021).",
+    "refNo": 76,
+    "title": "",
+    "marker_text": "(Berg et al., 2017)"
+  },
+  {
+    "sentence": "SW620, Caco-2, RKO, SW480, HT8, HT29, HT116, LoVo, and LS174 T cell lines are currently widely used in basic research studies on CRC (Akashi et al., 2000;Vécsey et al., 2002;Lind et al., 2004;Barretina et al., 2012;Ahmed et al., 2013;Gemei et al., 2013;Mouradov et al., 2014;Maletzki et al., 2015;Boot et al., 2016;Berg et al., 2017;Mooi et al., 2018;Kim et al., 2020;Bian et al., 2021).",
+    "refNo": 76,
+    "title": "",
+    "marker_text": "(Mooi et al., 2018)"
+  },
+  {
+    "sentence": "SW620, Caco-2, RKO, SW480, HT8, HT29, HT116, LoVo, and LS174 T cell lines are currently widely used in basic research studies on CRC (Akashi et al., 2000;Vécsey et al., 2002;Lind et al., 2004;Barretina et al., 2012;Ahmed et al., 2013;Gemei et al., 2013;Mouradov et al., 2014;Maletzki et al., 2015;Boot et al., 2016;Berg et al., 2017;Mooi et al., 2018;Kim et al., 2020;Bian et al., 2021).",
+    "refNo": 76,
+    "title": "",
+    "marker_text": "(Kim et al., 2020)"
+  },
+  {
+    "sentence": "SW620, Caco-2, RKO, SW480, HT8, HT29, HT116, LoVo, and LS174 T cell lines are currently widely used in basic research studies on CRC (Akashi et al., 2000;Vécsey et al., 2002;Lind et al., 2004;Barretina et al., 2012;Ahmed et al., 2013;Gemei et al., 2013;Mouradov et al., 2014;Maletzki et al., 2015;Boot et al., 2016;Berg et al., 2017;Mooi et al., 2018;Kim et al., 2020;Bian et al., 2021).",
+    "refNo": 76,
+    "title": "",
+    "marker_text": "(Bian et al., 2021)"
+  },
+  {
+    "sentence": "Spheroids comprise a mixture of single-cell or multicellular systems, while organoids are generally formed of specific stem cells or ancestral cells from organs (Kimlin et al., 2013;Boucherit et al., 2020).",
+    "refNo": 78,
+    "title": "In vitro three-dimensional (3D) models in cancer research: An update",
+    "marker_text": "(Kimlin et al., 2013)"
+  },
+  {
+    "sentence": "Spheroids comprise a mixture of single-cell or multicellular systems, while organoids are generally formed of specific stem cells or ancestral cells from organs (Kimlin et al., 2013;Boucherit et al., 2020).",
+    "refNo": 12,
+    "title": "3D tumor models and their use for the testing of immunotherapies",
+    "marker_text": "(Boucherit et al., 2020)"
+  },
+  {
+    "sentence": "Spheroids and organoids are superior at mimicking tumor cell heterogeneity and the complex interactions among different cells (Thoma et al., 2014). , 2020).",
+    "refNo": 196,
+    "title": "3D cell culture systems modeling tumor growth determinants in cancer target discovery",
+    "marker_text": "(Thoma et al., 2014)"
+  },
+  {
+    "sentence": "MCTS models are similar to solid tumors in terms of the growth kinetics, metabolic rate, and resistance to chemotherapy and radiotherapy in vivo (Ivascu and Kubbies, 2006), and have been employed for screening and evaluating the efficacy of drugs.",
+    "refNo": 56,
+    "title": "Rapid generation of single-tumor spheroids for high-throughput cell function and toxicity analysis",
+    "marker_text": "(Ivascu and Kubbies, 2006)"
+  },
+  {
+    "sentence": "However, because there are no morphological phenotypes associated with the phenotypic instability of CSCs, the tumorosphere model is unable to faithfully simulate the in vivo 3D framework and physiological condition of tumors (Valent et al., 2012).",
+    "refNo": 202,
+    "title": "",
+    "marker_text": "(Valent et al., 2012)"
+  },
+  {
+    "sentence": "TDTS models of CRC tumors have a unique histological feature similar to the poorly differentiated globules produced by permanent cancer cell lines, and can fully simulate the characteristics of in vitro 3D cell culture models of CRC (Santini and Rainaldi, 1999;Weiswald et al., 2009).",
+    "refNo": 168,
+    "title": "Three-dimensional spheroid model in tumor biology",
+    "marker_text": "(Santini and Rainaldi, 1999)"
+  },
+  {
+    "sentence": "TDTS models of CRC tumors have a unique histological feature similar to the poorly differentiated globules produced by permanent cancer cell lines, and can fully simulate the characteristics of in vitro 3D cell culture models of CRC (Santini and Rainaldi, 1999;Weiswald et al., 2009).",
+    "refNo": 218,
+    "title": "Newly characterised ex vivo colospheres as a three-dimensional colon cancer cell model of tumour aggressiveness",
+    "marker_text": "(Weiswald et al., 2009)"
+  },
+  {
+    "sentence": "Spheroids comprise a mixture of single-cell or multicellular systems, while organoids are generally formed of specific stem cells or ancestral cells from organs (Kimlin et al., 2013;Boucherit et al., 2020).",
+    "refNo": 78,
+    "title": "In vitro three-dimensional (3D) models in cancer research: An update",
+    "marker_text": "(Kimlin et al., 2013)"
+  },
+  {
+    "sentence": "Spheroids comprise a mixture of single-cell or multicellular systems, while organoids are generally formed of specific stem cells or ancestral cells from organs (Kimlin et al., 2013;Boucherit et al., 2020).",
+    "refNo": 12,
+    "title": "3D tumor models and their use for the testing of immunotherapies",
+    "marker_text": "(Boucherit et al., 2020)"
+  },
+  {
+    "sentence": "Spheroids and organoids are superior at mimicking tumor cell heterogeneity and the complex interactions among different cells (Thoma et al., 2014). , 2020).",
+    "refNo": 196,
+    "title": "3D cell culture systems modeling tumor growth determinants in cancer target discovery",
+    "marker_text": "(Thoma et al., 2014)"
+  },
+  {
+    "sentence": "MCTS models are similar to solid tumors in terms of the growth kinetics, metabolic rate, and resistance to chemotherapy and radiotherapy in vivo (Ivascu and Kubbies, 2006), and have been employed for screening and evaluating the efficacy of drugs.",
+    "refNo": 56,
+    "title": "Rapid generation of single-tumor spheroids for high-throughput cell function and toxicity analysis",
+    "marker_text": "(Ivascu and Kubbies, 2006)"
+  },
+  {
+    "sentence": "However, because there are no morphological phenotypes associated with the phenotypic instability of CSCs, the tumorosphere model is unable to faithfully simulate the in vivo 3D framework and physiological condition of tumors (Valent et al., 2012).",
+    "refNo": 202,
+    "title": "",
+    "marker_text": "(Valent et al., 2012)"
+  },
+  {
+    "sentence": "TDTS models of CRC tumors have a unique histological feature similar to the poorly differentiated globules produced by permanent cancer cell lines, and can fully simulate the characteristics of in vitro 3D cell culture models of CRC (Santini and Rainaldi, 1999;Weiswald et al., 2009).",
+    "refNo": 168,
+    "title": "Three-dimensional spheroid model in tumor biology",
+    "marker_text": "(Santini and Rainaldi, 1999)"
+  },
+  {
+    "sentence": "TDTS models of CRC tumors have a unique histological feature similar to the poorly differentiated globules produced by permanent cancer cell lines, and can fully simulate the characteristics of in vitro 3D cell culture models of CRC (Santini and Rainaldi, 1999;Weiswald et al., 2009).",
+    "refNo": 218,
+    "title": "Newly characterised ex vivo colospheres as a three-dimensional colon cancer cell model of tumour aggressiveness",
+    "marker_text": "(Weiswald et al., 2009)"
+  },
+  {
+    "sentence": "Spheroids comprise a mixture of single-cell or multicellular systems, while organoids are generally formed of specific stem cells or ancestral cells from organs (Kimlin et al., 2013;Boucherit et al., 2020).",
+    "refNo": 78,
+    "title": "In vitro three-dimensional (3D) models in cancer research: An update",
+    "marker_text": "(Kimlin et al., 2013)"
+  },
+  {
+    "sentence": "Spheroids comprise a mixture of single-cell or multicellular systems, while organoids are generally formed of specific stem cells or ancestral cells from organs (Kimlin et al., 2013;Boucherit et al., 2020).",
+    "refNo": 12,
+    "title": "3D tumor models and their use for the testing of immunotherapies",
+    "marker_text": "(Boucherit et al., 2020)"
+  },
+  {
+    "sentence": "Spheroids and organoids are superior at mimicking tumor cell heterogeneity and the complex interactions among different cells (Thoma et al., 2014). , 2020).",
+    "refNo": 196,
+    "title": "3D cell culture systems modeling tumor growth determinants in cancer target discovery",
+    "marker_text": "(Thoma et al., 2014)"
+  },
+  {
+    "sentence": "MCTS models are similar to solid tumors in terms of the growth kinetics, metabolic rate, and resistance to chemotherapy and radiotherapy in vivo (Ivascu and Kubbies, 2006), and have been employed for screening and evaluating the efficacy of drugs.",
+    "refNo": 56,
+    "title": "Rapid generation of single-tumor spheroids for high-throughput cell function and toxicity analysis",
+    "marker_text": "(Ivascu and Kubbies, 2006)"
+  },
+  {
+    "sentence": "However, because there are no morphological phenotypes associated with the phenotypic instability of CSCs, the tumorosphere model is unable to faithfully simulate the in vivo 3D framework and physiological condition of tumors (Valent et al., 2012).",
+    "refNo": 202,
+    "title": "",
+    "marker_text": "(Valent et al., 2012)"
+  },
+  {
+    "sentence": "TDTS models of CRC tumors have a unique histological feature similar to the poorly differentiated globules produced by permanent cancer cell lines, and can fully simulate the characteristics of in vitro 3D cell culture models of CRC (Santini and Rainaldi, 1999;Weiswald et al., 2009).",
+    "refNo": 168,
+    "title": "Three-dimensional spheroid model in tumor biology",
+    "marker_text": "(Santini and Rainaldi, 1999)"
+  },
+  {
+    "sentence": "TDTS models of CRC tumors have a unique histological feature similar to the poorly differentiated globules produced by permanent cancer cell lines, and can fully simulate the characteristics of in vitro 3D cell culture models of CRC (Santini and Rainaldi, 1999;Weiswald et al., 2009).",
+    "refNo": 218,
+    "title": "Newly characterised ex vivo colospheres as a three-dimensional colon cancer cell model of tumour aggressiveness",
+    "marker_text": "(Weiswald et al., 2009)"
+  },
+  {
+    "sentence": "Frontiers in Pharmacology frontiersin.org 05 organizing organotypic cultures that are produced from various stem cells, including tissue specific adult stem cells (ASCs), embryonic stem cells (ESCs), or induced pluripotent stem cells (iPSCs) (Fujii et al., 2018;Fujii and Sato, 2021).",
+    "refNo": 84,
+    "title": "Organogenesis in a dish: Modeling development and disease using organoid technologies",
+    "marker_text": "(Fujii et al., 2018)"
+  },
+  {
+    "sentence": "Frontiers in Pharmacology frontiersin.org 05 organizing organotypic cultures that are produced from various stem cells, including tissue specific adult stem cells (ASCs), embryonic stem cells (ESCs), or induced pluripotent stem cells (iPSCs) (Fujii et al., 2018;Fujii and Sato, 2021).",
+    "refNo": 52,
+    "title": "Modeling mouse and human development using organoid cultures",
+    "marker_text": "(Fujii and Sato, 2021)"
+  },
+  {
+    "sentence": "The stem cells are grown in matrigel 3D culture conditions to mimic the in vivo growth environment, and to produce stable, near-physiological epithelial structures (Figure 3) (Lancaster and knoblich, 2014;Huch and Koo, 2015).",
+    "refNo": 52,
+    "title": "Modeling mouse and human development using organoid cultures",
+    "marker_text": "(Huch and Koo, 2015)"
+  },
+  {
+    "sentence": "Frontiers in Pharmacology frontiersin.org 05 organizing organotypic cultures that are produced from various stem cells, including tissue specific adult stem cells (ASCs), embryonic stem cells (ESCs), or induced pluripotent stem cells (iPSCs) (Fujii et al., 2018;Fujii and Sato, 2021).",
+    "refNo": 84,
+    "title": "Organogenesis in a dish: Modeling development and disease using organoid technologies",
+    "marker_text": "(Fujii et al., 2018)"
+  },
+  {
+    "sentence": "Frontiers in Pharmacology frontiersin.org 05 organizing organotypic cultures that are produced from various stem cells, including tissue specific adult stem cells (ASCs), embryonic stem cells (ESCs), or induced pluripotent stem cells (iPSCs) (Fujii et al., 2018;Fujii and Sato, 2021).",
+    "refNo": 52,
+    "title": "Modeling mouse and human development using organoid cultures",
+    "marker_text": "(Fujii and Sato, 2021)"
+  },
+  {
+    "sentence": "The stem cells are grown in matrigel 3D culture conditions to mimic the in vivo growth environment, and to produce stable, near-physiological epithelial structures (Figure 3) (Lancaster and knoblich, 2014;Huch and Koo, 2015).",
+    "refNo": 52,
+    "title": "Modeling mouse and human development using organoid cultures",
+    "marker_text": "(Huch and Koo, 2015)"
+  },
+  {
+    "sentence": "Frontiers in Pharmacology frontiersin.org 05 organizing organotypic cultures that are produced from various stem cells, including tissue specific adult stem cells (ASCs), embryonic stem cells (ESCs), or induced pluripotent stem cells (iPSCs) (Fujii et al., 2018;Fujii and Sato, 2021).",
+    "refNo": 84,
+    "title": "Organogenesis in a dish: Modeling development and disease using organoid technologies",
+    "marker_text": "(Fujii et al., 2018)"
+  },
+  {
+    "sentence": "Frontiers in Pharmacology frontiersin.org 05 organizing organotypic cultures that are produced from various stem cells, including tissue specific adult stem cells (ASCs), embryonic stem cells (ESCs), or induced pluripotent stem cells (iPSCs) (Fujii et al., 2018;Fujii and Sato, 2021).",
+    "refNo": 52,
+    "title": "Modeling mouse and human development using organoid cultures",
+    "marker_text": "(Fujii and Sato, 2021)"
+  },
+  {
+    "sentence": "The stem cells are grown in matrigel 3D culture conditions to mimic the in vivo growth environment, and to produce stable, near-physiological epithelial structures (Figure 3) (Lancaster and knoblich, 2014;Huch and Koo, 2015).",
+    "refNo": 52,
+    "title": "Modeling mouse and human development using organoid cultures",
+    "marker_text": "(Huch and Koo, 2015)"
+  },
+  {
+    "sentence": "An increasing number of studies have described the formation of patient-derived organoids (PDOs) by culturing minced (2008) Izzo et al. (2008) Orlando et al. (2008) 1,2 Dimethyl hydrazine (DMH).",
+    "refNo": 2,
+    "title": "Growth-suppressive effect of non-steroidal anti-inflammatory drugs on 11 colon-cancer cell lines and fluorescence differential display of genes whose expression is influenced by sulindac",
+    "marker_text": "1",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "An increasing number of studies have described the formation of patient-derived organoids (PDOs) by culturing minced (2008) Izzo et al. (2008) Orlando et al. (2008) 1,2 Dimethyl hydrazine (DMH).",
+    "refNo": 3,
+    "title": "A multi-site metastasis-on-a-chip microphysiological system for assessing metastatic preference of cancer cells",
+    "marker_text": "2",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "An increasing number of studies have described the formation of patient-derived organoids (PDOs) by culturing minced (2008) Izzo et al. (2008) Orlando et al. (2008) 1,2 Dimethyl hydrazine (DMH).",
+    "refNo": 2,
+    "title": "Growth-suppressive effect of non-steroidal anti-inflammatory drugs on 11 colon-cancer cell lines and fluorescence differential display of genes whose expression is influenced by sulindac",
+    "marker_text": "1",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "An increasing number of studies have described the formation of patient-derived organoids (PDOs) by culturing minced (2008) Izzo et al. (2008) Orlando et al. (2008) 1,2 Dimethyl hydrazine (DMH).",
+    "refNo": 3,
+    "title": "A multi-site metastasis-on-a-chip microphysiological system for assessing metastatic preference of cancer cells",
+    "marker_text": "2",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "An increasing number of studies have described the formation of patient-derived organoids (PDOs) by culturing minced (2008) Izzo et al. (2008) Orlando et al. (2008) 1,2 Dimethyl hydrazine (DMH).",
+    "refNo": 2,
+    "title": "Growth-suppressive effect of non-steroidal anti-inflammatory drugs on 11 colon-cancer cell lines and fluorescence differential display of genes whose expression is influenced by sulindac",
+    "marker_text": "1",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "An increasing number of studies have described the formation of patient-derived organoids (PDOs) by culturing minced (2008) Izzo et al. (2008) Orlando et al. (2008) 1,2 Dimethyl hydrazine (DMH).",
+    "refNo": 3,
+    "title": "A multi-site metastasis-on-a-chip microphysiological system for assessing metastatic preference of cancer cells",
+    "marker_text": "2",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Requires multiple administration, low specificity Reddy and Mori (1981) Reddy (1998) CIN Rygaard and poulsen (1969) Lehmann et al. (2017) Frontiers in Pharmacology frontiersin.org human CRC tumors in human intestinal stem cell medium (HISC), and the phenotype and genotype of the PDOs have been reported to be highly similar to those of the original tumor (Van et al., 2015;Vlachogiannis et al., 2018).",
+    "refNo": 158,
+    "title": "Effect of dietary wheat bran and dehydrated citrus fiber on 3,2'-dimethyl-4-aminobiphenyl-induced intestinal carcinogenesis in F344 rats",
+    "marker_text": "(Van et al., 2015)"
+  },
+  {
+    "sentence": "Requires multiple administration, low specificity Reddy and Mori (1981) Reddy (1998) CIN Rygaard and poulsen (1969) Lehmann et al. (2017) Frontiers in Pharmacology frontiersin.org human CRC tumors in human intestinal stem cell medium (HISC), and the phenotype and genotype of the PDOs have been reported to be highly similar to those of the original tumor (Van et al., 2015;Vlachogiannis et al., 2018).",
+    "refNo": 164,
+    "title": "Heterotransplantation of a human malignant tumour to \"nude\"mice",
+    "marker_text": "(Vlachogiannis et al., 2018)"
+  },
+  {
+    "sentence": "First, the current methods for organoid culture lack the technological means for maintaining the blood vessels, immune system, and peripheral nervous system of tumor cells, and organoids lacking these characteristics cannot be used in CRC research (Bredenoord et al., 2017).",
+    "refNo": 129,
+    "title": "Dietary patterns and risk of colorectal cancer: Analysis by tumor location and molecular subtypes",
+    "marker_text": "(Bredenoord et al., 2017)"
+  },
+  {
+    "sentence": "Requires multiple administration, low specificity Reddy and Mori (1981) Reddy (1998) CIN Rygaard and poulsen (1969) Lehmann et al. (2017) Frontiers in Pharmacology frontiersin.org human CRC tumors in human intestinal stem cell medium (HISC), and the phenotype and genotype of the PDOs have been reported to be highly similar to those of the original tumor (Van et al., 2015;Vlachogiannis et al., 2018).",
+    "refNo": 158,
+    "title": "Effect of dietary wheat bran and dehydrated citrus fiber on 3,2'-dimethyl-4-aminobiphenyl-induced intestinal carcinogenesis in F344 rats",
+    "marker_text": "(Van et al., 2015)"
+  },
+  {
+    "sentence": "Requires multiple administration, low specificity Reddy and Mori (1981) Reddy (1998) CIN Rygaard and poulsen (1969) Lehmann et al. (2017) Frontiers in Pharmacology frontiersin.org human CRC tumors in human intestinal stem cell medium (HISC), and the phenotype and genotype of the PDOs have been reported to be highly similar to those of the original tumor (Van et al., 2015;Vlachogiannis et al., 2018).",
+    "refNo": 164,
+    "title": "Heterotransplantation of a human malignant tumour to \"nude\"mice",
+    "marker_text": "(Vlachogiannis et al., 2018)"
+  },
+  {
+    "sentence": "First, the current methods for organoid culture lack the technological means for maintaining the blood vessels, immune system, and peripheral nervous system of tumor cells, and organoids lacking these characteristics cannot be used in CRC research (Bredenoord et al., 2017).",
+    "refNo": 129,
+    "title": "Dietary patterns and risk of colorectal cancer: Analysis by tumor location and molecular subtypes",
+    "marker_text": "(Bredenoord et al., 2017)"
+  },
+  {
+    "sentence": "Requires multiple administration, low specificity Reddy and Mori (1981) Reddy (1998) CIN Rygaard and poulsen (1969) Lehmann et al. (2017) Frontiers in Pharmacology frontiersin.org human CRC tumors in human intestinal stem cell medium (HISC), and the phenotype and genotype of the PDOs have been reported to be highly similar to those of the original tumor (Van et al., 2015;Vlachogiannis et al., 2018).",
+    "refNo": 158,
+    "title": "Effect of dietary wheat bran and dehydrated citrus fiber on 3,2'-dimethyl-4-aminobiphenyl-induced intestinal carcinogenesis in F344 rats",
+    "marker_text": "(Van et al., 2015)"
+  },
+  {
+    "sentence": "Requires multiple administration, low specificity Reddy and Mori (1981) Reddy (1998) CIN Rygaard and poulsen (1969) Lehmann et al. (2017) Frontiers in Pharmacology frontiersin.org human CRC tumors in human intestinal stem cell medium (HISC), and the phenotype and genotype of the PDOs have been reported to be highly similar to those of the original tumor (Van et al., 2015;Vlachogiannis et al., 2018).",
+    "refNo": 164,
+    "title": "Heterotransplantation of a human malignant tumour to \"nude\"mice",
+    "marker_text": "(Vlachogiannis et al., 2018)"
+  },
+  {
+    "sentence": "First, the current methods for organoid culture lack the technological means for maintaining the blood vessels, immune system, and peripheral nervous system of tumor cells, and organoids lacking these characteristics cannot be used in CRC research (Bredenoord et al., 2017).",
+    "refNo": 129,
+    "title": "Dietary patterns and risk of colorectal cancer: Analysis by tumor location and molecular subtypes",
+    "marker_text": "(Bredenoord et al., 2017)"
+  },
+  {
+    "sentence": "The establishment of models using the corresponding tumor cells is crucial for investigating the mechanism underlying the development of CRC and discovery of anti-CRC drugs (Senga and Grose, 2021).",
+    "refNo": 175,
+    "title": "Hallmarks of cancer-the new testament",
+    "marker_text": "(Senga and Grose, 2021)"
+  },
+  {
+    "sentence": "The establishment of models using the corresponding tumor cells is crucial for investigating the mechanism underlying the development of CRC and discovery of anti-CRC drugs (Senga and Grose, 2021).",
+    "refNo": 175,
+    "title": "Hallmarks of cancer-the new testament",
+    "marker_text": "(Senga and Grose, 2021)"
+  },
+  {
+    "sentence": "The establishment of models using the corresponding tumor cells is crucial for investigating the mechanism underlying the development of CRC and discovery of anti-CRC drugs (Senga and Grose, 2021).",
+    "refNo": 175,
+    "title": "Hallmarks of cancer-the new testament",
+    "marker_text": "(Senga and Grose, 2021)"
+  },
+  {
+    "sentence": "Therefore, studying the methods for generating animal models of CRC can aid in elucidating the mechanisms underlying the development of cancer (Marian, 2004).",
+    "refNo": 120,
+    "title": "Colorectal cancer: Modeling causes, prevention and therapy",
+    "marker_text": "(Marian, 2004)"
+  },
+  {
+    "sentence": "Therefore, studying the methods for generating animal models of CRC can aid in elucidating the mechanisms underlying the development of cancer (Marian, 2004).",
+    "refNo": 120,
+    "title": "Colorectal cancer: Modeling causes, prevention and therapy",
+    "marker_text": "(Marian, 2004)"
+  },
+  {
+    "sentence": "Therefore, studying the methods for generating animal models of CRC can aid in elucidating the mechanisms underlying the development of cancer (Marian, 2004).",
+    "refNo": 120,
+    "title": "Colorectal cancer: Modeling causes, prevention and therapy",
+    "marker_text": "(Marian, 2004)"
+  },
+  {
+    "sentence": "Mutations in APC (adenomatous polyposis coli) are commonly inherited in adenoma-carcinoma transitions observed during the development of CRC (Van et al., 2000).",
+    "refNo": 206,
+    "title": "From gene to disease; the APC gene and familial adenomatous polyposis coli",
+    "marker_text": "(Van et al., 2000)"
+  },
+  {
+    "sentence": "Additionally, the absence of mutations in DNA mismatch repair (MMR) genes increases deletion mutations in APC, which accelerates the formation of adenomas (Huang et al., 2004).",
+    "refNo": 49,
+    "title": "Somatic mutations of APC gene in carcinomas from hereditary non-polyposis colorectal cancer patients",
+    "marker_text": "(Huang et al., 2004)"
+  },
+  {
+    "sentence": "A (ARID1A), SRY-box transcription factor 9 (SOX9), and APC membrane recruitment protein 1 (FAM123B) can also increase the risk of CRC (Cancer Genome Atlas Network, 2012).",
+    "refNo": 49,
+    "title": "Somatic mutations of APC gene in carcinomas from hereditary non-polyposis colorectal cancer patients",
+    "marker_text": "(Cancer Genome Atlas Network, 2012)"
+  },
+  {
+    "sentence": "CRC is caused by various risk factors, including poor dietary habits, environment, exposure to carcinogenic chemicals, and other factors (Hecht, 2003;Mehta et al., 2017).",
+    "refNo": 44,
+    "title": "Tobacco carcinogens, their biomarkers and tobacco-induced cancer",
+    "marker_text": "(Hecht, 2003)"
+  },
+  {
+    "sentence": "CRC is caused by various risk factors, including poor dietary habits, environment, exposure to carcinogenic chemicals, and other factors (Hecht, 2003;Mehta et al., 2017).",
+    "refNo": 44,
+    "title": "Tobacco carcinogens, their biomarkers and tobacco-induced cancer",
+    "marker_text": "(Mehta et al., 2017)"
+  },
+  {
+    "sentence": "Mutations in APC (adenomatous polyposis coli) are commonly inherited in adenoma-carcinoma transitions observed during the development of CRC (Van et al., 2000).",
+    "refNo": 206,
+    "title": "From gene to disease; the APC gene and familial adenomatous polyposis coli",
+    "marker_text": "(Van et al., 2000)"
+  },
+  {
+    "sentence": "Additionally, the absence of mutations in DNA mismatch repair (MMR) genes increases deletion mutations in APC, which accelerates the formation of adenomas (Huang et al., 2004).",
+    "refNo": 49,
+    "title": "Somatic mutations of APC gene in carcinomas from hereditary non-polyposis colorectal cancer patients",
+    "marker_text": "(Huang et al., 2004)"
+  },
+  {
+    "sentence": "A (ARID1A), SRY-box transcription factor 9 (SOX9), and APC membrane recruitment protein 1 (FAM123B) can also increase the risk of CRC (Cancer Genome Atlas Network, 2012).",
+    "refNo": 49,
+    "title": "Somatic mutations of APC gene in carcinomas from hereditary non-polyposis colorectal cancer patients",
+    "marker_text": "(Cancer Genome Atlas Network, 2012)"
+  },
+  {
+    "sentence": "CRC is caused by various risk factors, including poor dietary habits, environment, exposure to carcinogenic chemicals, and other factors (Hecht, 2003;Mehta et al., 2017).",
+    "refNo": 44,
+    "title": "Tobacco carcinogens, their biomarkers and tobacco-induced cancer",
+    "marker_text": "(Hecht, 2003)"
+  },
+  {
+    "sentence": "CRC is caused by various risk factors, including poor dietary habits, environment, exposure to carcinogenic chemicals, and other factors (Hecht, 2003;Mehta et al., 2017).",
+    "refNo": 44,
+    "title": "Tobacco carcinogens, their biomarkers and tobacco-induced cancer",
+    "marker_text": "(Mehta et al., 2017)"
+  },
+  {
+    "sentence": "Mutations in APC (adenomatous polyposis coli) are commonly inherited in adenoma-carcinoma transitions observed during the development of CRC (Van et al., 2000).",
+    "refNo": 206,
+    "title": "From gene to disease; the APC gene and familial adenomatous polyposis coli",
+    "marker_text": "(Van et al., 2000)"
+  },
+  {
+    "sentence": "Additionally, the absence of mutations in DNA mismatch repair (MMR) genes increases deletion mutations in APC, which accelerates the formation of adenomas (Huang et al., 2004).",
+    "refNo": 49,
+    "title": "Somatic mutations of APC gene in carcinomas from hereditary non-polyposis colorectal cancer patients",
+    "marker_text": "(Huang et al., 2004)"
+  },
+  {
+    "sentence": "A (ARID1A), SRY-box transcription factor 9 (SOX9), and APC membrane recruitment protein 1 (FAM123B) can also increase the risk of CRC (Cancer Genome Atlas Network, 2012).",
+    "refNo": 49,
+    "title": "Somatic mutations of APC gene in carcinomas from hereditary non-polyposis colorectal cancer patients",
+    "marker_text": "(Cancer Genome Atlas Network, 2012)"
+  },
+  {
+    "sentence": "CRC is caused by various risk factors, including poor dietary habits, environment, exposure to carcinogenic chemicals, and other factors (Hecht, 2003;Mehta et al., 2017).",
+    "refNo": 44,
+    "title": "Tobacco carcinogens, their biomarkers and tobacco-induced cancer",
+    "marker_text": "(Hecht, 2003)"
+  },
+  {
+    "sentence": "CRC is caused by various risk factors, including poor dietary habits, environment, exposure to carcinogenic chemicals, and other factors (Hecht, 2003;Mehta et al., 2017).",
+    "refNo": 44,
+    "title": "Tobacco carcinogens, their biomarkers and tobacco-induced cancer",
+    "marker_text": "(Mehta et al., 2017)"
+  },
+  {
+    "sentence": "However, these models are incapable of reproducing the heterogeneity of CRC tumors (Harma et al., 2010).",
+    "refNo": 41,
+    "title": "Cell line-based platforms to evaluate the therapeutic efficacy of candidate anticancer agents",
+    "marker_text": "(Harma et al., 2010)"
+  },
+  {
+    "sentence": "It has been reported that 3D models can mimic the physiological characteristics of parental tumors, including tumor heterogeneity (Li et al., 2019).",
+    "refNo": 107,
+    "title": "Xanthohumol inhibits colorectal cancer cells via downregulation of Hexokinases II-mediated glycolysis",
+    "marker_text": "(Li et al., 2019)"
+  },
+  {
+    "sentence": "However, the shape, size, and activity of organoids are different under the same culture conditions, and the matrix limits the penetration of drugs and hinders drug screening (Zhao et al., 2020).",
+    "refNo": 244,
+    "title": "",
+    "marker_text": "(Zhao et al., 2020)"
+  },
+  {
+    "sentence": "This platform can be applied for studying drug conveyance, metabolism, and drug-drug interactions (Kasendra et al., 2018).",
+    "refNo": 73,
+    "title": "Development of a primary human small intestine-on-achip using biopsy-derived organoids",
+    "marker_text": "(Kasendra et al., 2018)"
+  },
+  {
+    "sentence": "The transfer sites of CRC cells are also included in multi-locus transfer chips (Aleman and Skardal, 2019).",
+    "refNo": 3,
+    "title": "A multi-site metastasis-on-a-chip microphysiological system for assessing metastatic preference of cancer cells",
+    "marker_text": "(Aleman and Skardal, 2019)"
+  },
+  {
+    "sentence": "However, these models are incapable of reproducing the heterogeneity of CRC tumors (Harma et al., 2010).",
+    "refNo": 41,
+    "title": "Cell line-based platforms to evaluate the therapeutic efficacy of candidate anticancer agents",
+    "marker_text": "(Harma et al., 2010)"
+  },
+  {
+    "sentence": "It has been reported that 3D models can mimic the physiological characteristics of parental tumors, including tumor heterogeneity (Li et al., 2019).",
+    "refNo": 107,
+    "title": "Xanthohumol inhibits colorectal cancer cells via downregulation of Hexokinases II-mediated glycolysis",
+    "marker_text": "(Li et al., 2019)"
+  },
+  {
+    "sentence": "However, the shape, size, and activity of organoids are different under the same culture conditions, and the matrix limits the penetration of drugs and hinders drug screening (Zhao et al., 2020).",
+    "refNo": 244,
+    "title": "",
+    "marker_text": "(Zhao et al., 2020)"
+  },
+  {
+    "sentence": "This platform can be applied for studying drug conveyance, metabolism, and drug-drug interactions (Kasendra et al., 2018).",
+    "refNo": 73,
+    "title": "Development of a primary human small intestine-on-achip using biopsy-derived organoids",
+    "marker_text": "(Kasendra et al., 2018)"
+  },
+  {
+    "sentence": "The transfer sites of CRC cells are also included in multi-locus transfer chips (Aleman and Skardal, 2019).",
+    "refNo": 3,
+    "title": "A multi-site metastasis-on-a-chip microphysiological system for assessing metastatic preference of cancer cells",
+    "marker_text": "(Aleman and Skardal, 2019)"
+  },
+  {
+    "sentence": "However, these models are incapable of reproducing the heterogeneity of CRC tumors (Harma et al., 2010).",
+    "refNo": 41,
+    "title": "Cell line-based platforms to evaluate the therapeutic efficacy of candidate anticancer agents",
+    "marker_text": "(Harma et al., 2010)"
+  },
+  {
+    "sentence": "It has been reported that 3D models can mimic the physiological characteristics of parental tumors, including tumor heterogeneity (Li et al., 2019).",
+    "refNo": 107,
+    "title": "Xanthohumol inhibits colorectal cancer cells via downregulation of Hexokinases II-mediated glycolysis",
+    "marker_text": "(Li et al., 2019)"
+  },
+  {
+    "sentence": "However, the shape, size, and activity of organoids are different under the same culture conditions, and the matrix limits the penetration of drugs and hinders drug screening (Zhao et al., 2020).",
+    "refNo": 244,
+    "title": "",
+    "marker_text": "(Zhao et al., 2020)"
+  },
+  {
+    "sentence": "This platform can be applied for studying drug conveyance, metabolism, and drug-drug interactions (Kasendra et al., 2018).",
+    "refNo": 73,
+    "title": "Development of a primary human small intestine-on-achip using biopsy-derived organoids",
+    "marker_text": "(Kasendra et al., 2018)"
+  },
+  {
+    "sentence": "The transfer sites of CRC cells are also included in multi-locus transfer chips (Aleman and Skardal, 2019).",
+    "refNo": 3,
+    "title": "A multi-site metastasis-on-a-chip microphysiological system for assessing metastatic preference of cancer cells",
+    "marker_text": "(Aleman and Skardal, 2019)"
+  },
+  {
+    "sentence": "Chemical induced-CRC animal model is one of the most commonly CRC models, in which CAC model is usually induced by AOM/DSS to study the mechanism of inflammation related-tumorigenesis and development (Zeng et al., 2022).",
+    "refNo": 236,
+    "title": "Suppression of colitis-associated colorectal cancer by scutellarin through inhibiting Hedgehog signaling pathway activity",
+    "marker_text": "(Zeng et al., 2022)"
+  },
+  {
+    "sentence": "An animal model combining with CRC and TCM syndromes might be useful to mimic the clinical characteristics of CRC patients with TCM syndrome (Zhang et al., 2020).",
+    "refNo": 240,
+    "title": "Establishment of a mouse model of cancer cachexia with spleen deficiency syndrome and the effects of atractylenolide I",
+    "marker_text": "(Zhang et al., 2020)"
+  },
+  {
+    "sentence": "Mouse is the commonly used to the models mentioned above, however, it is increasingly accepted that the use of larger animal models, especially dogs and pigs, can provide deeper insights in cancer research (Croker et al., 2009).",
+    "refNo": 240,
+    "title": "Establishment of a mouse model of cancer cachexia with spleen deficiency syndrome and the effects of atractylenolide I",
+    "marker_text": "(Croker et al., 2009)"
+  },
+  {
+    "sentence": "Chemical induced-CRC animal model is one of the most commonly CRC models, in which CAC model is usually induced by AOM/DSS to study the mechanism of inflammation related-tumorigenesis and development (Zeng et al., 2022).",
+    "refNo": 236,
+    "title": "Suppression of colitis-associated colorectal cancer by scutellarin through inhibiting Hedgehog signaling pathway activity",
+    "marker_text": "(Zeng et al., 2022)"
+  },
+  {
+    "sentence": "An animal model combining with CRC and TCM syndromes might be useful to mimic the clinical characteristics of CRC patients with TCM syndrome (Zhang et al., 2020).",
+    "refNo": 240,
+    "title": "Establishment of a mouse model of cancer cachexia with spleen deficiency syndrome and the effects of atractylenolide I",
+    "marker_text": "(Zhang et al., 2020)"
+  },
+  {
+    "sentence": "Mouse is the commonly used to the models mentioned above, however, it is increasingly accepted that the use of larger animal models, especially dogs and pigs, can provide deeper insights in cancer research (Croker et al., 2009).",
+    "refNo": 240,
+    "title": "Establishment of a mouse model of cancer cachexia with spleen deficiency syndrome and the effects of atractylenolide I",
+    "marker_text": "(Croker et al., 2009)"
+  },
+  {
+    "sentence": "Chemical induced-CRC animal model is one of the most commonly CRC models, in which CAC model is usually induced by AOM/DSS to study the mechanism of inflammation related-tumorigenesis and development (Zeng et al., 2022).",
+    "refNo": 236,
+    "title": "Suppression of colitis-associated colorectal cancer by scutellarin through inhibiting Hedgehog signaling pathway activity",
+    "marker_text": "(Zeng et al., 2022)"
+  },
+  {
+    "sentence": "An animal model combining with CRC and TCM syndromes might be useful to mimic the clinical characteristics of CRC patients with TCM syndrome (Zhang et al., 2020).",
+    "refNo": 240,
+    "title": "Establishment of a mouse model of cancer cachexia with spleen deficiency syndrome and the effects of atractylenolide I",
+    "marker_text": "(Zhang et al., 2020)"
+  },
+  {
+    "sentence": "Mouse is the commonly used to the models mentioned above, however, it is increasingly accepted that the use of larger animal models, especially dogs and pigs, can provide deeper insights in cancer research (Croker et al., 2009).",
+    "refNo": 240,
+    "title": "Establishment of a mouse model of cancer cachexia with spleen deficiency syndrome and the effects of atractylenolide I",
+    "marker_text": "(Croker et al., 2009)"
+  },
+  {
+    "sentence": "Theranostics 9 (4), 1001-1014. doi:10.7150/thno.30056.",
+    "refNo": 5,
+    "title": "Antiproliferative efficacy of hesperetin (citrus flavanoid) in 1,2-dimethylhydrazine-induced colon cancer",
+    "marker_text": "(4)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Med. 11 (12) Femia, A.",
+    "refNo": 13,
+    "title": "Human tissues in a dish: The research and ethical implications of organoid technology",
+    "marker_text": "(12)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Planta Med. 74 (13), 1602-1607. doi:10.1055/s-2008-1074577 Flisikowska, T., Merkl, C., Landmann, M., Eser, S., Rezaei, N., Cui, X., et al. (2012.",
+    "refNo": 14,
+    "title": "Oxazolone-induced enterocolitis in zebrafish depends on the composition of the intestinal microbiota",
+    "marker_text": "(13)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Gastroenterology 143 (5), 1173-1175. doi:10.1053/j.gastro.2012.07.110 Flisikowska, T., Stachowiak, M., Xu, H., Wagner, A., Hernandez-Caceres, A., Wurmser, C., et al. (2017.",
+    "refNo": 6,
+    "title": "",
+    "marker_text": "(5)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Rep. 7 (1), 6613. doi:10. 1038/s41598-017-06741-8 Foersch, S., Sperka, T., Lindner, C., Taut, A., Rudolph, K.",
+    "refNo": 2,
+    "title": "Growth-suppressive effect of non-steroidal anti-inflammatory drugs on 11 colon-cancer cell lines and fluorescence differential display of genes whose expression is influenced by sulindac",
+    "marker_text": "(1)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Gastroenterology 149 (1), 177-189. doi:10.1053/j.gastro. 2015.03.016 Fujii, M., Matano, M., Toshimitsu, K., Takano, A., Mikami, Y., Nishikori, S., et al. (2018).",
+    "refNo": 2,
+    "title": "Growth-suppressive effect of non-steroidal anti-inflammatory drugs on 11 colon-cancer cell lines and fluorescence differential display of genes whose expression is influenced by sulindac",
+    "marker_text": "(1)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Stem Cell. 23 (6), 787-793. doi:10.1016/j.stem. 2018.11.016 Fujii, M., andSato, T. (2021).",
+    "refNo": 7,
+    "title": "A comprehensive transcriptional map of primate brain development",
+    "marker_text": "(6)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "A. 101 (10).",
+    "refNo": 11,
+    "title": "Prevalence of Ras gene mutations in human colorectal cancers",
+    "marker_text": "(10)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Theranostics 9 (4), 1001-1014. doi:10.7150/thno.30056.",
+    "refNo": 5,
+    "title": "Antiproliferative efficacy of hesperetin (citrus flavanoid) in 1,2-dimethylhydrazine-induced colon cancer",
+    "marker_text": "(4)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Med. 11 (12) Femia, A.",
+    "refNo": 13,
+    "title": "Human tissues in a dish: The research and ethical implications of organoid technology",
+    "marker_text": "(12)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Planta Med. 74 (13), 1602-1607. doi:10.1055/s-2008-1074577 Flisikowska, T., Merkl, C., Landmann, M., Eser, S., Rezaei, N., Cui, X., et al. (2012.",
+    "refNo": 14,
+    "title": "Oxazolone-induced enterocolitis in zebrafish depends on the composition of the intestinal microbiota",
+    "marker_text": "(13)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Gastroenterology 143 (5), 1173-1175. doi:10.1053/j.gastro.2012.07.110 Flisikowska, T., Stachowiak, M., Xu, H., Wagner, A., Hernandez-Caceres, A., Wurmser, C., et al. (2017.",
+    "refNo": 6,
+    "title": "",
+    "marker_text": "(5)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Rep. 7 (1), 6613. doi:10. 1038/s41598-017-06741-8 Foersch, S., Sperka, T., Lindner, C., Taut, A., Rudolph, K.",
+    "refNo": 2,
+    "title": "Growth-suppressive effect of non-steroidal anti-inflammatory drugs on 11 colon-cancer cell lines and fluorescence differential display of genes whose expression is influenced by sulindac",
+    "marker_text": "(1)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Gastroenterology 149 (1), 177-189. doi:10.1053/j.gastro. 2015.03.016 Fujii, M., Matano, M., Toshimitsu, K., Takano, A., Mikami, Y., Nishikori, S., et al. (2018).",
+    "refNo": 2,
+    "title": "Growth-suppressive effect of non-steroidal anti-inflammatory drugs on 11 colon-cancer cell lines and fluorescence differential display of genes whose expression is influenced by sulindac",
+    "marker_text": "(1)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Stem Cell. 23 (6), 787-793. doi:10.1016/j.stem. 2018.11.016 Fujii, M., andSato, T. (2021).",
+    "refNo": 7,
+    "title": "A comprehensive transcriptional map of primate brain development",
+    "marker_text": "(6)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "A. 101 (10).",
+    "refNo": 11,
+    "title": "Prevalence of Ras gene mutations in human colorectal cancers",
+    "marker_text": "(10)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Theranostics 9 (4), 1001-1014. doi:10.7150/thno.30056.",
+    "refNo": 5,
+    "title": "Antiproliferative efficacy of hesperetin (citrus flavanoid) in 1,2-dimethylhydrazine-induced colon cancer",
+    "marker_text": "(4)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Med. 11 (12) Femia, A.",
+    "refNo": 13,
+    "title": "Human tissues in a dish: The research and ethical implications of organoid technology",
+    "marker_text": "(12)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Planta Med. 74 (13), 1602-1607. doi:10.1055/s-2008-1074577 Flisikowska, T., Merkl, C., Landmann, M., Eser, S., Rezaei, N., Cui, X., et al. (2012.",
+    "refNo": 14,
+    "title": "Oxazolone-induced enterocolitis in zebrafish depends on the composition of the intestinal microbiota",
+    "marker_text": "(13)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Gastroenterology 143 (5), 1173-1175. doi:10.1053/j.gastro.2012.07.110 Flisikowska, T., Stachowiak, M., Xu, H., Wagner, A., Hernandez-Caceres, A., Wurmser, C., et al. (2017.",
+    "refNo": 6,
+    "title": "",
+    "marker_text": "(5)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Rep. 7 (1), 6613. doi:10. 1038/s41598-017-06741-8 Foersch, S., Sperka, T., Lindner, C., Taut, A., Rudolph, K.",
+    "refNo": 2,
+    "title": "Growth-suppressive effect of non-steroidal anti-inflammatory drugs on 11 colon-cancer cell lines and fluorescence differential display of genes whose expression is influenced by sulindac",
+    "marker_text": "(1)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Gastroenterology 149 (1), 177-189. doi:10.1053/j.gastro. 2015.03.016 Fujii, M., Matano, M., Toshimitsu, K., Takano, A., Mikami, Y., Nishikori, S., et al. (2018).",
+    "refNo": 2,
+    "title": "Growth-suppressive effect of non-steroidal anti-inflammatory drugs on 11 colon-cancer cell lines and fluorescence differential display of genes whose expression is influenced by sulindac",
+    "marker_text": "(1)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Stem Cell. 23 (6), 787-793. doi:10.1016/j.stem. 2018.11.016 Fujii, M., andSato, T. (2021).",
+    "refNo": 7,
+    "title": "A comprehensive transcriptional map of primate brain development",
+    "marker_text": "(6)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "A. 101 (10).",
+    "refNo": 11,
+    "title": "Prevalence of Ras gene mutations in human colorectal cancers",
+    "marker_text": "(10)",
+    "extraction_method": "paren_numeric"
+  }
+]

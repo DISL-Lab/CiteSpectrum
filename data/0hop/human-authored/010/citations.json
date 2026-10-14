@@ -1,0 +1,1733 @@
+[
+  {
+    "sentence": "We clustered the retained papers into \"candidategene association studies\" and \"genome-wide association studies. \" With respect to the PRISMA statement (27), the literature search strategy is summarized in the flow chart presented in Figure 1.",
+    "refNo": 28,
+    "title": "The neurobiology and genetics of suicide and attempted suicide: a focus on the serotonergic system",
+    "marker_text": "(27)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "The serotonergic pathway has been implicated for several decades as having a major role in the pathophysiology of SB (28)(29)(30).",
+    "refNo": 29,
+    "title": "The serotonergic system in mood disorders and suicidal behaviour",
+    "marker_text": "(28)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "The serotonergic pathway has been implicated for several decades as having a major role in the pathophysiology of SB (28)(29)(30).",
+    "refNo": 30,
+    "title": "A systematic review of association studies investigating genes coding for serotonin receptors and the serotonin transporter: II. Suicidal behavior",
+    "marker_text": "(29)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "The serotonergic pathway has been implicated for several decades as having a major role in the pathophysiology of SB (28)(29)(30).",
+    "refNo": 31,
+    "title": "The genetics of suicide: a critical review of molecular studies",
+    "marker_text": "(30)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "A number of reviews of the literature, including those of Anguelova et al. (31), Brezo et al. (32), and Antypa et al. (33), have studied the association of SB with common serotonergic gene polymorphisms.",
+    "refNo": 32,
+    "title": "Serotonergic genes and suicide: a systematic review",
+    "marker_text": "(31)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "A number of reviews of the literature, including those of Anguelova et al. (31), Brezo et al. (32), and Antypa et al. (33), have studied the association of SB with common serotonergic gene polymorphisms.",
+    "refNo": 33,
+    "title": "Case control and family-based studies of tryptophan hydroxylase gene A218C polymorphism and suicidality in adolescents",
+    "marker_text": "(32)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "A number of reviews of the literature, including those of Anguelova et al. (31), Brezo et al. (32), and Antypa et al. (33), have studied the association of SB with common serotonergic gene polymorphisms.",
+    "refNo": 34,
+    "title": "",
+    "marker_text": "(33)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Tryptophan hydroxylase, the rate-limiting enzyme in the biosynthesis of serotonin (5-HT), is a pre-eminent candidate for genetic studies of association in numerous psychiatric disorders, including SB (85).",
+    "refNo": 86,
+    "title": "Meta-analysis supports association between serotonin transporter (5-HTT) and suicidal behavior",
+    "marker_text": "(85)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Two genes that code TPH have been identified (TPH1 and TPH2); TPH2 encodes for the main 5-HT-synthesizing enzyme in neurons, while TPH1 is predominantly expressed in peripheral tissue (5,86).",
+    "refNo": 6,
+    "title": "Suicide in twins",
+    "marker_text": "(5)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Two genes that code TPH have been identified (TPH1 and TPH2); TPH2 encodes for the main 5-HT-synthesizing enzyme in neurons, while TPH1 is predominantly expressed in peripheral tissue (5,86).",
+    "refNo": 87,
+    "title": "Possible association of a polymorphism of the tryptophan hydroxylase gene with suicidal behavior in depressed patients",
+    "marker_text": "(86)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "The A allele A218C has been identified to be more frequent in suicide attempters compared to non-attempters (41).",
+    "refNo": 42,
+    "title": "An association study of suicide and candidate genes in the serotonergic system",
+    "marker_text": "(41)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Galfalvy et al. (41) showed that the AA genotype on intron 7 and the AA genotype on the promoter were both predictive of attempted suicides during the year-long observation period and were also associated with previous attempts of elevated lethality.",
+    "refNo": 42,
+    "title": "An association study of suicide and candidate genes in the serotonergic system",
+    "marker_text": "(41)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "The study by Courtet et al. (35) also uses a prospective design (1-year follow-up), but they find no association.",
+    "refNo": 36,
+    "title": "Polymorphisms of the tryptophan hydroxylase gene and serotonin 1A receptor gene in suicide victims among Japanese",
+    "marker_text": "(35)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "On a clinical level, it is interesting to note that in the Galfalvy et al. (41) study, intron 7 genotype AA was associated with both fewer reasons for living and greater impulsivity.",
+    "refNo": 42,
+    "title": "An association study of suicide and candidate genes in the serotonergic system",
+    "marker_text": "(41)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Regarding the C allele (A218C), only the study by Stefulj et al. (39) shows an association with SB just in people aged over 65 years.",
+    "refNo": 40,
+    "title": "Investigation of A218C tryptophan hydroxylase polymorphism: association with familial suicide behavior and proband's suicide attempt characteristics",
+    "marker_text": "(39)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "One study reported an association between haplotype TCAA of the -7180/-7065/-6526/218/779 SNPs and SB and psychiatric disorders (p = 0.00243; OR = 1.62; 95% CI 1.17-2.24 and p = 0.018; OR = 1.41; 95% CI 1.05-1.91), in the Asian population (38).",
+    "refNo": 39,
+    "title": "TPH gene polymorphism and aging: indication of combined effect on the predisposition to violent suicide",
+    "marker_text": "(38)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "The Brezo et al. study (19) is unique in its design because it is a study in a cohort of 1255 members followed longitudinally over 22 years.",
+    "refNo": 20,
+    "title": "Influence of life stress on depression: moderation by a polymorphism in the 5-HTT gene",
+    "marker_text": "(19)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "We found four meta-analyses that showed significant associations (43,44,46).",
+    "refNo": 44,
+    "title": "Further clarification of the contribution of the tryptophan hydroxylase (TPH) gene to suicidal behavior using systematic allelic and genotypic meta-analyses",
+    "marker_text": "(43)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "We found four meta-analyses that showed significant associations (43,44,46).",
+    "refNo": 45,
+    "title": "",
+    "marker_text": "(44)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "We found four meta-analyses that showed significant associations (43,44,46).",
+    "refNo": 47,
+    "title": "The association of attempted suicide with genetic variants in the SLC6A4 and TPH genes depends on the definition of suicidal behavior: a systematic review and meta-analysis",
+    "marker_text": "(46)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Bellivier et al. (43) included 9 studies among the 15 identified and reported a significant association of the AA218C SNP allele with the risk of suicide in Caucasian populations.",
+    "refNo": 44,
+    "title": "Further clarification of the contribution of the tryptophan hydroxylase (TPH) gene to suicidal behavior using systematic allelic and genotypic meta-analyses",
+    "marker_text": "(43)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "The meta-analysis performed by Li and He (44) was concerned with three polymorphisms (A779C, A218C, and A6526G) and not just A218C.",
+    "refNo": 45,
+    "title": "",
+    "marker_text": "(44)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Saetre et al. (45) conducted a study with 837 Scandinavian schizophrenia patients and 1473 controls.",
+    "refNo": 46,
+    "title": "",
+    "marker_text": "(45)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "In 2004, Zill's team was the first to find significant single SNP (rs1386494) and haplotype associations with suicide completion in a German sample (47).",
+    "refNo": 48,
+    "title": "Single nucleotide polymorphism and haplotype analysis of a novel tryptophan hydroxylase isoform (TPH2) gene in suicide victims",
+    "marker_text": "(47)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "We found nine studies that had significant associations in genotypic and/or haplotypic distributions of TPH2 variants between subjects who had SBs and controls (47-50, 53, 54, 57, 87).",
+    "refNo": 48,
+    "title": "Single nucleotide polymorphism and haplotype analysis of a novel tryptophan hydroxylase isoform (TPH2) gene in suicide victims",
+    "marker_text": "(47)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "We found nine studies that had significant associations in genotypic and/or haplotypic distributions of TPH2 variants between subjects who had SBs and controls (47-50, 53, 54, 57, 87).",
+    "refNo": 51,
+    "title": "Effect of tryptophan hydroxylase-2 gene variants on suicide risk in major depression",
+    "marker_text": "(50)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "We found nine studies that had significant associations in genotypic and/or haplotypic distributions of TPH2 variants between subjects who had SBs and controls (47-50, 53, 54, 57, 87).",
+    "refNo": 54,
+    "title": "Association between tryptophan hydroxylase 2 gene polymorphism and completed suicide",
+    "marker_text": "(53)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "We found nine studies that had significant associations in genotypic and/or haplotypic distributions of TPH2 variants between subjects who had SBs and controls (47-50, 53, 54, 57, 87).",
+    "refNo": 55,
+    "title": "Effect of tryptophan hydroxylase-2 rs7305115 SNP on suicide attempts risk in major depression",
+    "marker_text": "(54)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "We found nine studies that had significant associations in genotypic and/or haplotypic distributions of TPH2 variants between subjects who had SBs and controls (47-50, 53, 54, 57, 87).",
+    "refNo": 58,
+    "title": "Genetics of emergent suicidality during antidepressive treatment -data from a naturalistic study on a large sample of inpatients with a major depressive episode",
+    "marker_text": "(57)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "We found nine studies that had significant associations in genotypic and/or haplotypic distributions of TPH2 variants between subjects who had SBs and controls (47-50, 53, 54, 57, 87).",
+    "refNo": 88,
+    "title": "Synthesis of serotonin by a second tryptophan hydroxylase isoform",
+    "marker_text": "(87)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "For example, the study by Lopez de Lara et al. (50) included subjects who died by suicide during a major depressive disorder (MDD) and controls suffering from MDD.",
+    "refNo": 51,
+    "title": "Effect of tryptophan hydroxylase-2 gene variants on suicide risk in major depression",
+    "marker_text": "(50)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "The variant (rs1386494) was previously identified by Zill et al. (47) but at the same time, the recent study by Buttenschøn et al. (42), which examined over 500 subjects who died by suicide, found no association for TPH2 rs1386494.",
+    "refNo": 48,
+    "title": "Single nucleotide polymorphism and haplotype analysis of a novel tryptophan hydroxylase isoform (TPH2) gene in suicide victims",
+    "marker_text": "(47)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "The variant (rs1386494) was previously identified by Zill et al. (47) but at the same time, the recent study by Buttenschøn et al. (42), which examined over 500 subjects who died by suicide, found no association for TPH2 rs1386494.",
+    "refNo": 43,
+    "title": "Association between the TPH gene A218C polymorphism and suicidal behavior: a meta-analysis",
+    "marker_text": "(42)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Zhou et al. (48) showed that in both the tested populations (Finns and African-American), the yin haplotype 212121 was present more frequently in subjects who had attempted suicide.",
+    "refNo": 49,
+    "title": "Haplotypebased linkage of tryptophan hydroxylase 2 to suicide attempt, major depression, and cerebrospinal fluid 5-hydroxyindoleacetic acid in 4 populations",
+    "marker_text": "(48)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "The \"risk\" haplotype found by Zhou et al. (48) is similar to haplotype 1 of Zill et al. (47), and it was significantly more common among borderline patients (54).",
+    "refNo": 49,
+    "title": "Haplotypebased linkage of tryptophan hydroxylase 2 to suicide attempt, major depression, and cerebrospinal fluid 5-hydroxyindoleacetic acid in 4 populations",
+    "marker_text": "(48)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "The \"risk\" haplotype found by Zhou et al. (48) is similar to haplotype 1 of Zill et al. (47), and it was significantly more common among borderline patients (54).",
+    "refNo": 48,
+    "title": "Single nucleotide polymorphism and haplotype analysis of a novel tryptophan hydroxylase isoform (TPH2) gene in suicide victims",
+    "marker_text": "(47)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "The \"risk\" haplotype found by Zhou et al. (48) is similar to haplotype 1 of Zill et al. (47), and it was significantly more common among borderline patients (54).",
+    "refNo": 55,
+    "title": "Effect of tryptophan hydroxylase-2 rs7305115 SNP on suicide attempts risk in major depression",
+    "marker_text": "(54)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "In two samples of Chinese depressed patients, Zhang et al. (54) and Ke et al. (49) showed that the TPH2 rs7305115 AA was still a significant protective predictor of SB (OR = 0.33 and OR = 0.35).",
+    "refNo": 55,
+    "title": "Effect of tryptophan hydroxylase-2 rs7305115 SNP on suicide attempts risk in major depression",
+    "marker_text": "(54)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "In two samples of Chinese depressed patients, Zhang et al. (54) and Ke et al. (49) showed that the TPH2 rs7305115 AA was still a significant protective predictor of SB (OR = 0.33 and OR = 0.35).",
+    "refNo": 50,
+    "title": "Effect of SNP at position 40237 in exon 7 of the TPH2 gene on susceptibility to suicide",
+    "marker_text": "(49)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Musil et al. (57) showed that the TPH2 rs1386494 C/T polymorphism continued to display significant association with TESI in comparison with non-TESI (p = 0.0018; p = 0.0173 after 100,000 permutations).",
+    "refNo": 58,
+    "title": "Genetics of emergent suicidality during antidepressive treatment -data from a naturalistic study on a large sample of inpatients with a major depressive episode",
+    "marker_text": "(57)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "The haplotype block, which was found in this sample, accords well with the findings of studies conducted by Zill et al. (47) and by Zhou et al. (48).",
+    "refNo": 48,
+    "title": "Single nucleotide polymorphism and haplotype analysis of a novel tryptophan hydroxylase isoform (TPH2) gene in suicide victims",
+    "marker_text": "(47)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "The haplotype block, which was found in this sample, accords well with the findings of studies conducted by Zill et al. (47) and by Zhou et al. (48).",
+    "refNo": 49,
+    "title": "Haplotypebased linkage of tryptophan hydroxylase 2 to suicide attempt, major depression, and cerebrospinal fluid 5-hydroxyindoleacetic acid in 4 populations",
+    "marker_text": "(48)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Polymorphisms in the TPH2 gene were studied in previous pharmacogenetic trials on TESI, yet none of these studies found any relevant association (88)(89)(90)(91).",
+    "refNo": 89,
+    "title": "National Institute of Mental Health Genetics Initiative Bipolar Disorder Consortium. Nested association between genetic variation in tryptophan hydroxylase II, Bipolar affective disorder, and suicide attempts",
+    "marker_text": "(88)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Polymorphisms in the TPH2 gene were studied in previous pharmacogenetic trials on TESI, yet none of these studies found any relevant association (88)(89)(90)(91).",
+    "refNo": 90,
+    "title": "",
+    "marker_text": "(89)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Polymorphisms in the TPH2 gene were studied in previous pharmacogenetic trials on TESI, yet none of these studies found any relevant association (88)(89)(90)(91).",
+    "refNo": 91,
+    "title": "Genome-wide association study of increasing suicidal ideation during antidepressant treatment in the GENDEP project",
+    "marker_text": "(90)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Polymorphisms in the TPH2 gene were studied in previous pharmacogenetic trials on TESI, yet none of these studies found any relevant association (88)(89)(90)(91).",
+    "refNo": 92,
+    "title": "Genome-wide association study of antidepressant treatment-emergent suicidal ideation",
+    "marker_text": "(91)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "However, the TPH2 rs1386494 C/T polymorphism was not included in the illumina chip of the STAR*D samples (90,91) or the recent GWAS (89) (Detailed in the Section \"Genome-Wide Association Study\").",
+    "refNo": 91,
+    "title": "Genome-wide association study of increasing suicidal ideation during antidepressant treatment in the GENDEP project",
+    "marker_text": "(90)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "However, the TPH2 rs1386494 C/T polymorphism was not included in the illumina chip of the STAR*D samples (90,91) or the recent GWAS (89) (Detailed in the Section \"Genome-Wide Association Study\").",
+    "refNo": 92,
+    "title": "Genome-wide association study of antidepressant treatment-emergent suicidal ideation",
+    "marker_text": "(91)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "However, the TPH2 rs1386494 C/T polymorphism was not included in the illumina chip of the STAR*D samples (90,91) or the recent GWAS (89) (Detailed in the Section \"Genome-Wide Association Study\").",
+    "refNo": 90,
+    "title": "",
+    "marker_text": "(89)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "The 5-HT1A receptor gene (HTR1A) is situated on chromosome 5 (5q11. [2][3][4][5][6][7][8][9][10][11][12][13], and recent studies have found that a common C1019G polymorphism located in its promoter region probably plays a role in depression and SB.",
+    "refNo": 3,
+    "title": "Candidate endophenotypes for genetic studies of suicidal behavior",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "The 5-HT1A receptor gene (HTR1A) is situated on chromosome 5 (5q11. [2][3][4][5][6][7][8][9][10][11][12][13], and recent studies have found that a common C1019G polymorphism located in its promoter region probably plays a role in depression and SB.",
+    "refNo": 4,
+    "title": "",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "The 5-HT1A receptor gene (HTR1A) is situated on chromosome 5 (5q11. [2][3][4][5][6][7][8][9][10][11][12][13], and recent studies have found that a common C1019G polymorphism located in its promoter region probably plays a role in depression and SB.",
+    "refNo": 5,
+    "title": "Suicidal behavior runs in families. A controlled family study of adolescent suicide victims",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "The 5-HT1A receptor gene (HTR1A) is situated on chromosome 5 (5q11. [2][3][4][5][6][7][8][9][10][11][12][13], and recent studies have found that a common C1019G polymorphism located in its promoter region probably plays a role in depression and SB.",
+    "refNo": 6,
+    "title": "Suicide in twins",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "The 5-HT1A receptor gene (HTR1A) is situated on chromosome 5 (5q11. [2][3][4][5][6][7][8][9][10][11][12][13], and recent studies have found that a common C1019G polymorphism located in its promoter region probably plays a role in depression and SB.",
+    "refNo": 7,
+    "title": "Genetics of suicide: an overview",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "The 5-HT1A receptor gene (HTR1A) is situated on chromosome 5 (5q11. [2][3][4][5][6][7][8][9][10][11][12][13], and recent studies have found that a common C1019G polymorphism located in its promoter region probably plays a role in depression and SB.",
+    "refNo": 8,
+    "title": "Genetic contribution to suicidal behaviors and associated risk factors among adolescents in the U.S",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "The 5-HT1A receptor gene (HTR1A) is situated on chromosome 5 (5q11. [2][3][4][5][6][7][8][9][10][11][12][13], and recent studies have found that a common C1019G polymorphism located in its promoter region probably plays a role in depression and SB.",
+    "refNo": 9,
+    "title": "Genetic influences on suicide and nonfatal suicidal behavior: twin study findings",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "The 5-HT1A receptor gene (HTR1A) is situated on chromosome 5 (5q11. [2][3][4][5][6][7][8][9][10][11][12][13], and recent studies have found that a common C1019G polymorphism located in its promoter region probably plays a role in depression and SB.",
+    "refNo": 10,
+    "title": "Family genetic studies, suicide, and suicidal behavior",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "The 5-HT1A receptor gene (HTR1A) is situated on chromosome 5 (5q11. [2][3][4][5][6][7][8][9][10][11][12][13], and recent studies have found that a common C1019G polymorphism located in its promoter region probably plays a role in depression and SB.",
+    "refNo": 11,
+    "title": "Genetic and environmental contributions to self-reported thoughts of self-harm and suicide",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "The 5-HT1A receptor gene (HTR1A) is situated on chromosome 5 (5q11. [2][3][4][5][6][7][8][9][10][11][12][13], and recent studies have found that a common C1019G polymorphism located in its promoter region probably plays a role in depression and SB.",
+    "refNo": 12,
+    "title": "Suicidal behavior in twins: a replication",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "The 5-HT1A receptor gene (HTR1A) is situated on chromosome 5 (5q11. [2][3][4][5][6][7][8][9][10][11][12][13], and recent studies have found that a common C1019G polymorphism located in its promoter region probably plays a role in depression and SB.",
+    "refNo": 13,
+    "title": "Dysregulation of the sympathetic nervous system, hypothalamic-pituitaryadrenal axis and executive function in individuals at risk for suicide",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "The 5-HT1A receptor gene (HTR1A) is situated on chromosome 5 (5q11. [2][3][4][5][6][7][8][9][10][11][12][13], and recent studies have found that a common C1019G polymorphism located in its promoter region probably plays a role in depression and SB.",
+    "refNo": 14,
+    "title": "Psychiatric risk factors for adolescent suicide: a case-control study",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Since the first study by Lemonde et al. (92), which reported an association of SB with the rs6295 or C1019G variant, with attempters having a fourfold increased probability of being carriers of the GG genotype, few other teams have found significant associations.",
+    "refNo": 93,
+    "title": "Genomewide association study of suicidal ideation emerging during citalopram treatment of depressed outpatients",
+    "marker_text": "(92)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "The Iranian study by Samadi Rad et al. (62) reported a greater frequency of the G allele in suicide victims compared with control groups.",
+    "refNo": 63,
+    "title": "Serotonin 1A receptor genetic variations, suicide, and life events in the Iranian population",
+    "marker_text": "(62)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "In the same vein, the results obtained by Wasserman et al. (59) indicate a possible role of the G-allele in suicide attempters exposed to high levels of traumatic and/or SLEs.",
+    "refNo": 60,
+    "title": "The serotonin 1A receptor C(-1019)G polymorphism in relation to suicide attempt",
+    "marker_text": "(59)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Although interactions with SLEs could be further investigated, the majority of studies reported negative results (59-61, 64, 93).",
+    "refNo": 60,
+    "title": "The serotonin 1A receptor C(-1019)G polymorphism in relation to suicide attempt",
+    "marker_text": "(59)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Although interactions with SLEs could be further investigated, the majority of studies reported negative results (59-61, 64, 93).",
+    "refNo": 62,
+    "title": "Association of polymorphisms in HTR2A, HTR1A and TPH2 genes with suicide attempts in alcohol dependence: a preliminary report",
+    "marker_text": "(61)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Although interactions with SLEs could be further investigated, the majority of studies reported negative results (59-61, 64, 93).",
+    "refNo": 65,
+    "title": "No association between the HTR1A gene and suicidal behavior: a meta-analysis",
+    "marker_text": "(64)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Although interactions with SLEs could be further investigated, the majority of studies reported negative results (59-61, 64, 93).",
+    "refNo": 94,
+    "title": "",
+    "marker_text": "(93)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "The study by Zouk et al. (66) found evidence suggesting a possible role of the promoter variant A161T in suicide.",
+    "refNo": 67,
+    "title": "The effect of genetic variation of the serotonin 1B receptor gene on impulsive aggressive behavior and suicide",
+    "marker_text": "(66)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "This hypothesis is linked first to clinical observations (impulsivity being a well-identified risk factor) and second to alterations of the serotonergic system (4,11).",
+    "refNo": 5,
+    "title": "Suicidal behavior runs in families. A controlled family study of adolescent suicide victims",
+    "marker_text": "(4)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "This hypothesis is linked first to clinical observations (impulsivity being a well-identified risk factor) and second to alterations of the serotonergic system (4,11).",
+    "refNo": 12,
+    "title": "Suicidal behavior in twins: a replication",
+    "marker_text": "(11)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "More recently, only the study by Murphy et al. (65) found a significant association between rs6296 and suicide attempts (promoter CpG island of 5-5-HTR1B; p = 0.047).",
+    "refNo": 66,
+    "title": "Risk and protective genetic variants in suicidal behaviour: association with SLC1A2, SLC1A3, 5-HTR1B &NTRK2 polymorphisms",
+    "marker_text": "(65)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "The genetic analyses carried out by Wrzosek et al. (61) found a prevalence of the more common CC genotype in the HTR2A T102C polymorphism in alcoholic subjects who had attempted suicide compared with those who had not made any suicide attempt.",
+    "refNo": 62,
+    "title": "Association of polymorphisms in HTR2A, HTR1A and TPH2 genes with suicide attempts in alcohol dependence: a preliminary report",
+    "marker_text": "(61)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "In contrast, no association of T102C with SB was reported in a number of related case-control association studies (70,71,95) and one meta-analysis (75).",
+    "refNo": 71,
+    "title": "",
+    "marker_text": "(70)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "In contrast, no association of T102C with SB was reported in a number of related case-control association studies (70,71,95) and one meta-analysis (75).",
+    "refNo": 72,
+    "title": "Irish high-density schizophrenia families",
+    "marker_text": "(71)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "In contrast, no association of T102C with SB was reported in a number of related case-control association studies (70,71,95) and one meta-analysis (75).",
+    "refNo": 96,
+    "title": "HTR2A gene variants and psychiatric disorders: a review of current literature and selection of SNPs for future studies",
+    "marker_text": "(95)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "In contrast, no association of T102C with SB was reported in a number of related case-control association studies (70,71,95) and one meta-analysis (75).",
+    "refNo": 76,
+    "title": "Family-based study of HTR2A in suicide attempts: observed gene, gene × environment and parent-of-origin associations",
+    "marker_text": "(75)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "The meta-analysis by Li et al. (75) included a large number of studies, with comprehensive analyses but also analyses in subgroups based on numerous variables such as ethnicity or gender.",
+    "refNo": 76,
+    "title": "Family-based study of HTR2A in suicide attempts: observed gene, gene × environment and parent-of-origin associations",
+    "marker_text": "(75)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Similarly, the study by Saiz et al. (73) showed that the HTR2A A1438A genotype frequencies trended toward being different in impulsive and planned suicide attempts.",
+    "refNo": 74,
+    "title": "Association of polymorphisms of the serotonergic pathways with clinical traits of impulsive-aggression and suicidality in adolescents: a multi-center study",
+    "marker_text": "(73)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Höfer et al. (63) report no association (p < 0.05) between any SNP and either risk of suicide or a personal history of attempted suicides.",
+    "refNo": 64,
+    "title": "The impact of serotonin receptor 1A and 2A gene polymorphisms and interactions on suicide attempt and suicide risk in depressed patients with insufficient response to treatment -a European Multicentre Study",
+    "marker_text": "(63)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Use is generally made of the haplotype relative risk (HRR) method (96).",
+    "refNo": 97,
+    "title": "A review of prospective studies of biologic predictors of suicidal behavior in mood disorders",
+    "marker_text": "(96)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "In addition to the HRR analyses, the Transmission Disequilibrium Test (TDT) (97) is used to analyze transmitted vs. non-transmitted alleles from heterozygote parents as another indicator of LD.",
+    "refNo": 98,
+    "title": "Association of polyaminergic loci with anxiety, mood disorders, and attempted suicide",
+    "marker_text": "(97)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Working with a cohort of 660 nuclear family trios (suicide attempters and both their parents), Ben-Efraim et al. (74) confirms the association between genetic variation (rs6310 and rs6305) in the serotonin 2A receptor (HTR2A) gene and suicide attempt.",
+    "refNo": 75,
+    "title": "Role of serotonergic-related systems in suicidal behavior: data from a case-control association study",
+    "marker_text": "(74)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "The L allele of this marker has been found to transcribe the gene two to three times more efficiently than the S allele does (98).",
+    "refNo": 99,
+    "title": "Statistical properties of the haplotype relative risk",
+    "marker_text": "(98)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Certain studies have reported an association of the S-allele with suicide (77,78,81), whereas other studies reported no significant difference (42,80).",
+    "refNo": 78,
+    "title": "Association study of a novel functional polymorphism of the serotonin transporter gene in bipolar disorder and suicidal behaviour",
+    "marker_text": "(77)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Certain studies have reported an association of the S-allele with suicide (77,78,81), whereas other studies reported no significant difference (42,80).",
+    "refNo": 79,
+    "title": "Association between suicide attempts in south Brazilian depressed patients with the serotonin transporter polymorphism",
+    "marker_text": "(78)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Certain studies have reported an association of the S-allele with suicide (77,78,81), whereas other studies reported no significant difference (42,80).",
+    "refNo": 82,
+    "title": "Do 5HTTLPR and stress interact in risk for depression and suicidality? Item response analyses of a large sample",
+    "marker_text": "(81)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Certain studies have reported an association of the S-allele with suicide (77,78,81), whereas other studies reported no significant difference (42,80).",
+    "refNo": 43,
+    "title": "Association between the TPH gene A218C polymorphism and suicidal behavior: a meta-analysis",
+    "marker_text": "(42)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Certain studies have reported an association of the S-allele with suicide (77,78,81), whereas other studies reported no significant difference (42,80).",
+    "refNo": 81,
+    "title": "Novel allelic variants in the human serotonin transporter gene linked polymorphism (5-HTTLPR) among depressed patients with suicide attempt",
+    "marker_text": "(80)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "The results of the Clayden et al. (46) meta-analysis of random-effects show that the minor (S) allele in SLC6A4 enhanced the risk of attempted suicide by 13% [OR = 1.13 (1.05-1.21), p = 0.001], with heterogeneity being low (I2 = 2,5%).",
+    "refNo": 47,
+    "title": "The association of attempted suicide with genetic variants in the SLC6A4 and TPH genes depends on the definition of suicidal behavior: a systematic review and meta-analysis",
+    "marker_text": "(46)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "A meta-analysis by Li and He (84) that comprised 39 studies suggests an association of the S-allele of 5-HTTLPR with SB.",
+    "refNo": 85,
+    "title": "Association between serotonin transporter gene promoter polymorphism and suicide: results of a meta-analysis",
+    "marker_text": "(84)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "A meta-analysis of the results from 18 studies (83) failed to detect an association of 5-HTTLPR with SB.",
+    "refNo": 84,
+    "title": "Association between suicide attempt and a tri-allelic functional polymorphism in serotonin transporter gene promoter in Chinese patients with schizophrenia",
+    "marker_text": "(83)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Furthermore, it must be noted that several authors have reported an association of the S-allele with violent suicide (73,78,81,83).",
+    "refNo": 74,
+    "title": "Association of polymorphisms of the serotonergic pathways with clinical traits of impulsive-aggression and suicidality in adolescents: a multi-center study",
+    "marker_text": "(73)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Furthermore, it must be noted that several authors have reported an association of the S-allele with violent suicide (73,78,81,83).",
+    "refNo": 79,
+    "title": "Association between suicide attempts in south Brazilian depressed patients with the serotonin transporter polymorphism",
+    "marker_text": "(78)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Furthermore, it must be noted that several authors have reported an association of the S-allele with violent suicide (73,78,81,83).",
+    "refNo": 82,
+    "title": "Do 5HTTLPR and stress interact in risk for depression and suicidality? Item response analyses of a large sample",
+    "marker_text": "(81)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Furthermore, it must be noted that several authors have reported an association of the S-allele with violent suicide (73,78,81,83).",
+    "refNo": 84,
+    "title": "Association between suicide attempt and a tri-allelic functional polymorphism in serotonin transporter gene promoter in Chinese patients with schizophrenia",
+    "marker_text": "(83)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Hung et al. (82) examined the link between the tri-allelic 5-HTTLPR and SB among Chinese patients with schizophrenia and examined whether the use of violent methods in suicide attempts is influenced by the polymorphism.",
+    "refNo": 83,
+    "title": "Is the serotonin transporter polymorphism (5-HTTLPR) a potential marker for suicidal behavior in bipolar disorder patients?",
+    "marker_text": "(82)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "These results are different from those found in Caucasian subjects (79), for whom no associations have been identified.",
+    "refNo": 80,
+    "title": "Association of the serotonin transporter promotor polymorphism with suicide attempters with a high medical damage",
+    "marker_text": "(79)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Suda et al. (99) conducted an investigation into two dopaminergic D2 receptor (DRD2) genetic polymorphisms (TaqIA and -141C Ins/Del) in 120 Japanese suicide attempters and 123 volunteers having no connection with them.",
+    "refNo": 100,
+    "title": "The TDT and other family-based tests for linkage disequilibrium and association",
+    "marker_text": "(99)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "This result confirmed an earlier finding of an association between the DRD2-141C Del variant with suicide attempts in a group of German alcoholics (100).",
+    "refNo": 101,
+    "title": "Allelic variation of human serotonin transporter gene expression",
+    "marker_text": "(100)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "The results obtained showed AKT1 to be associated with cases of attempted suicide (rs1130214) and violent attack attempts (rs2494746) (101), but not AKTIP.",
+    "refNo": 102,
+    "title": "Dopamine D2 receptor gene polymorphisms are associated with suicide attempt in the Japanese population",
+    "marker_text": "(101)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "The ADRA2A gene, composed of an intronless, single 3650-bp exon, is situated on chromosomes 10q24-q26, in other words, a region which has been found to be associated with attempted suicides independently of disease phenotypes (102).",
+    "refNo": 103,
+    "title": "Association of the -141C del variant of the dopamine D2 receptor (DRD2) with positive family history and suicidality in German alcoholics",
+    "marker_text": "(102)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "A number of genetic variants of the ADRA2A gene, including the promoter genetic variants N251K, have been reported to be associated with a tendency to completed suicide (103).",
+    "refNo": 104,
+    "title": "Association between AKT1 but not AKTIP genetic variants and increased risk for suicidal behavior in bipolar patients",
+    "marker_text": "(103)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "However, Martín-Guerrero et al. (104) failed to find any association of the N251K SNP with suicide completion.",
+    "refNo": 105,
+    "title": "Brain alpha-adrenoceptors in depressed suicides",
+    "marker_text": "(104)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Using a case-control association study of 184 completed suicides and 221 control subjects in a Japanese population, Fukutake et al. (105) found that C-1291G SNP in the promoter region was significantly associated with suicide in females (p = 0.043 and 0.013 for genotypic and allelic comparisons, respectively).",
+    "refNo": 106,
+    "title": "Alpha 2A adrenergic receptor gene and suicide",
+    "marker_text": "(105)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "A common SNP, Val158Met in exon 4 of the COMT gene, has been observed as being linked to various psychiatric disorders, one of which being suicide (106).",
+    "refNo": 107,
+    "title": "The N251K functional polymorphism in the alpha(2A)-adrenoceptor gene is not associated with depression: a study in suicide completers",
+    "marker_text": "(106)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "This SNP (rs4680) affects the functional ability of the enzyme to catabolize synaptic proteins, such as that in human postmortem PFC tissue; the Val/Val genotype is associated with ~38% greater enzyme activity than that observed in Met/ Met homozygotes (107).",
+    "refNo": 108,
+    "title": "Association of alpha2A-adrenergic receptor gene polymorphism with susceptibility to suicide in Japanese females",
+    "marker_text": "(107)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Various studies have demonstrated associations of the COMT Val158Met gene polymorphism with SB (108, 109), although contradictory results have also been reported (110,111).",
+    "refNo": 109,
+    "title": "Stress, genes and the biology of suicidal behavior",
+    "marker_text": "(108)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Various studies have demonstrated associations of the COMT Val158Met gene polymorphism with SB (108, 109), although contradictory results have also been reported (110,111).",
+    "refNo": 110,
+    "title": "Functional analysis of genetic variation in catechol-O-methyltransferase (COMT): effects on mRNA, protein, and enzyme activity in postmortem human brain",
+    "marker_text": "(109)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Various studies have demonstrated associations of the COMT Val158Met gene polymorphism with SB (108, 109), although contradictory results have also been reported (110,111).",
+    "refNo": 111,
+    "title": "Association between catechol-O-methyltransferase functional polymorphism and male suicide completers",
+    "marker_text": "(110)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Various studies have demonstrated associations of the COMT Val158Met gene polymorphism with SB (108, 109), although contradictory results have also been reported (110,111).",
+    "refNo": 112,
+    "title": "The association between catechol-O-methyl-transferase Val108/158Met polymorphism and suicide",
+    "marker_text": "(111)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "A meta-analysis of six-related studies suggested an association of the COMT Val158Met polymorphism with SB, and this relationship was moderated by gender and the lethality of the suicide attempt (67).",
+    "refNo": 68,
+    "title": "Meta-analyses suggest association between COMT, but not HTR1B, alleles, and suicidal behavior",
+    "marker_text": "(67)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "However, only two studies have been carried out to investigate the association of the COMT Val158Met polymorphism with completed suicides (108, 109).",
+    "refNo": 109,
+    "title": "Stress, genes and the biology of suicidal behavior",
+    "marker_text": "(108)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "However, only two studies have been carried out to investigate the association of the COMT Val158Met polymorphism with completed suicides (108, 109).",
+    "refNo": 110,
+    "title": "Functional analysis of genetic variation in catechol-O-methyltransferase (COMT): effects on mRNA, protein, and enzyme activity in postmortem human brain",
+    "marker_text": "(109)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "In contrast, more recent meta-analyses that included new data questioned the association of COMT Val158Met with SB (111,112) and did not report any association.",
+    "refNo": 112,
+    "title": "The association between catechol-O-methyl-transferase Val108/158Met polymorphism and suicide",
+    "marker_text": "(111)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "In contrast, more recent meta-analyses that included new data questioned the association of COMT Val158Met with SB (111,112) and did not report any association.",
+    "refNo": 113,
+    "title": "Power based association analysis (PBAT) of serotonergic and noradrenergic polymorphisms in bipolar patients with suicidal behaviour",
+    "marker_text": "(112)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Calati et al. (112) presented a revised meta-analysis of 12-related studies, with the authors failing to find any association of SB with rs4680 after consideration of both genotypes and the frequency of alleles.",
+    "refNo": 113,
+    "title": "Power based association analysis (PBAT) of serotonergic and noradrenergic polymorphisms in bipolar patients with suicidal behaviour",
+    "marker_text": "(112)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "The alleles observed for this upstream variable number of tandem repeats (uVNTR) polymorphism include some with 3, 3.5, 4, and 5 repeats (3R, 3.5R, 4R, and 5R) (113).",
+    "refNo": 114,
+    "title": "No association between COMT val158met polymorphism and suicidal behavior: meta-analysis and new data",
+    "marker_text": "(113)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "A few recent studies have reported an association of the MAOA-uVNTR polymorphism with attempted suicide (114), while another study showed that there was a significantly higher frequency of the uVNTR two to three alleles in men who were violent suicide attempters than in those who were non-violent suicide attempters (115).",
+    "refNo": 115,
+    "title": "Catechol-O-methyltransferase gene modulation on suicidal behavior and personality traits: review, meta-analysis and association study",
+    "marker_text": "(114)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "A few recent studies have reported an association of the MAOA-uVNTR polymorphism with attempted suicide (114), while another study showed that there was a significantly higher frequency of the uVNTR two to three alleles in men who were violent suicide attempters than in those who were non-violent suicide attempters (115).",
+    "refNo": 116,
+    "title": "A functional polymorphism in the monoamine oxidase A gene promoter",
+    "marker_text": "(115)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "We found more studies that did not show any association (42,116).",
+    "refNo": 43,
+    "title": "Association between the TPH gene A218C polymorphism and suicidal behavior: a meta-analysis",
+    "marker_text": "(42)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "We found more studies that did not show any association (42,116).",
+    "refNo": 117,
+    "title": "Association of the MAOA promoter uVNTR polymorphism with suicide attempts in patients with major depressive disorder",
+    "marker_text": "(116)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "In the recent meta-analysis by Hung et al. (117), after pooling data on 1452 subjects with SB and 1198 unaffected controls, the authors failed to find any significant disparity in the allelic distribution of the MAOA-uVNTR polymorphism between subjects with SB and the male (OR = 0.85, 95% CI = 0.67-1.10, p = 0.22) or female controls (OR = 1.13, 95% CI = 0.94-1.36, p = 0.21).",
+    "refNo": 118,
+    "title": "The monoamine oxidase A gene may influence the means used in suicide attempts",
+    "marker_text": "(117)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Indeed, in 2002, Caspi et al. (20) found that the MAOA-uVNTR polymorphism may reduce the risk of maltreated children growing up with increasingly antisocial behavior.",
+    "refNo": 21,
+    "title": "Genetic and environmental pathways to suicidal behavior: reflections of a genetic epidemiologist",
+    "marker_text": "(20)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Two other studies also find that SB might be influenced by the interaction between the MAOA-uVNTR polymorphism and trauma suffered in childhood (116).",
+    "refNo": 117,
+    "title": "Association of the MAOA promoter uVNTR polymorphism with suicide attempts in patients with major depressive disorder",
+    "marker_text": "(116)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Studies designed to investigate the supposed causes of a defective regulation of HPA axis in SB have focused principally on two factors: (i) glucocorticoid receptor feedback mechanisms and (ii) the corticotrophin-release hormone (CRH) signaling system (13).",
+    "refNo": 14,
+    "title": "Psychiatric risk factors for adolescent suicide: a case-control study",
+    "marker_text": "(13)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Wasserman et al. (118) studied two polymorphisms in CRHR1 (rs1396862 and rs4792887) and reported that the T-allele of rs4782887 conferred a risk of attempted suicide (p = 0.002).",
+    "refNo": 119,
+    "title": "An association between a functional polymorphism in the monoamine oxidase a gene promoter, impulsive traits and early abuse experiences",
+    "marker_text": "(118)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "De Luca et al. (119) studied a cohort of 231 schizophrenia sufferers, 81 of whom had made a suicide attempt, and found CRHBP to be associated at significant levels with attempted suicide (p = 0.035).",
+    "refNo": 120,
+    "title": "Monoamine oxidase A gene polymorphism and suicide: an association study and meta-analysis",
+    "marker_text": "(119)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "In a family-based association study model, using 660 nuclear family trios and 519 healthy controls Ben-Efraim et al. (120) focused on the HPA axis and specifically on the role of the AVPR1B gene (arginine vasopressin receptor-1B) which was observed to associate with stress-related mood and anxiety disorders.",
+    "refNo": 121,
+    "title": "The CRHR1 gene: a marker for suicidality in depressed males exposed to low stress",
+    "marker_text": "(120)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Several lines of evidence from postmortem studies and expression studies indicate that brain-derived neurotrophic factor (BDNF) is a good candidate gene for involvement in SB (121).",
+    "refNo": 122,
+    "title": "Association of HPA axis genes with suicidal behaviour in schizophrenia",
+    "marker_text": "(121)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "We have listed a number of studies showing associations between Met allele and SBs in the context of various psychiatric diagnoses, including schizophrenia (122), bipolar disorder (123,124), and depression (125,126), and in several ethnic groups (Caucasian, Japanese, and Chinese).",
+    "refNo": 123,
+    "title": "Family-based study of AVPR1B association and interaction with stressful life events on depression and anxiety in suicide attempts",
+    "marker_text": "(122)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "We have listed a number of studies showing associations between Met allele and SBs in the context of various psychiatric diagnoses, including schizophrenia (122), bipolar disorder (123,124), and depression (125,126), and in several ethnic groups (Caucasian, Japanese, and Chinese).",
+    "refNo": 124,
+    "title": "Decreased mRNA and protein expression of BDNF, NGF, and their receptors in the hippocampus from suicide: an analysis in human postmortem brain",
+    "marker_text": "(123)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "We have listed a number of studies showing associations between Met allele and SBs in the context of various psychiatric diagnoses, including schizophrenia (122), bipolar disorder (123,124), and depression (125,126), and in several ethnic groups (Caucasian, Japanese, and Chinese).",
+    "refNo": 125,
+    "title": "Associations between brain-derived neurotrophic factor G196A gene polymorphism and clinical phenotypes in schizophrenia patients",
+    "marker_text": "(124)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "We have listed a number of studies showing associations between Met allele and SBs in the context of various psychiatric diagnoses, including schizophrenia (122), bipolar disorder (123,124), and depression (125,126), and in several ethnic groups (Caucasian, Japanese, and Chinese).",
+    "refNo": 126,
+    "title": "Brain-derived neurotrophic factor Val/Met polymorphism and bipolar disorder. Association of the Met allele with suicidal behavior of bipolar patients",
+    "marker_text": "(125)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "We have listed a number of studies showing associations between Met allele and SBs in the context of various psychiatric diagnoses, including schizophrenia (122), bipolar disorder (123,124), and depression (125,126), and in several ethnic groups (Caucasian, Japanese, and Chinese).",
+    "refNo": 127,
+    "title": "Association between brain-derived neurotrophic factor gene and a severe form of bipolar disorder, but no interaction with the serotonin transporter gene",
+    "marker_text": "(126)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "For example, a Slovenian team demonstrated the association between BDNF rs6265 polymorphism and suicide in a cohort of subjects with completed suicide (133).",
+    "refNo": 134,
+    "title": "Brain derived neurotrophic factor (BDNF) genetic polymorphism (Val66Met) in suicide: a study of 512 cases",
+    "marker_text": "(133)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "The study by Perroud et al. (129) examined the interaction between BDNF rs6265 and a history of childhood sexual abuse and found that violent suicide attempts were associated with childhood sexual abuse only in those adults with a Val/Val genotype at rs6265.",
+    "refNo": 130,
+    "title": "Association study of a brain-derived neurotrophic-factor genetic polymorphism and mood disorders, age of onset and suicidal behavior",
+    "marker_text": "(129)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Sarchiapone et al. (126) found that the risk of a suicide attempt was significantly higher among depressed patients reporting higher levels of childhood emotional, physical, and sexual abuse.",
+    "refNo": 127,
+    "title": "Association between brain-derived neurotrophic factor gene and a severe form of bipolar disorder, but no interaction with the serotonin transporter gene",
+    "marker_text": "(126)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "More recently, Zouk et al. (66) found an association between genotype allele GA in rs4923463 and violent suicide attempt (p = 0.03) in patients with bipolar disorder.",
+    "refNo": 67,
+    "title": "The effect of genetic variation of the serotonin 1B receptor gene on impulsive aggressive behavior and suicide",
+    "marker_text": "(66)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Further studies failed to report that Val66Met was associated with suicide attempt (131,132).",
+    "refNo": 132,
+    "title": "Interaction between BDNF Val66Met and childhood trauma on adult's violent suicide attempt",
+    "marker_text": "(131)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Further studies failed to report that Val66Met was associated with suicide attempt (131,132).",
+    "refNo": 133,
+    "title": "Investigating the role of BDNF and CCK system genes in suicidality in a familial bipolar cohort",
+    "marker_text": "(132)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Zarrilli et al. (131) performed postmortem genotyping on 512 individuals, 262 of whom had committed suicide.",
+    "refNo": 132,
+    "title": "Interaction between BDNF Val66Met and childhood trauma on adult's violent suicide attempt",
+    "marker_text": "(131)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Zai et al. (137) carried out the first meta-analysis of the functional BDNF marker Val66Met (rs6265, 196G > A) in SB, using data from 12 studies (total n = 3352 subjects, of whom 1202 had a history of suicide).",
+    "refNo": 138,
+    "title": "Single nucleotide polymorphisms in the BDNF gene and suicide in the Slovenian sample",
+    "marker_text": "(137)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Working with a cohort de 130 multiplex bipolar pedigrees (n = 795), Sears et al. (130) found seven SNPs of CCKBR (rs2941025, rs2929183, rs2941023, rs2947025, rs2941029, rs2947029, and rs2947028) which were associated with suicide attempt and which remain significant after correction for multiple testing.",
+    "refNo": 131,
+    "title": "The Val66Met polymorphism of the brain-derived neurotrophic-factor gene is associated with geriatric depression",
+    "marker_text": "(130)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "This result is in contradiction with other case-control type studies and with the meta-analysis by Zai et al. (137) which were described earlier, in the BDNF section.",
+    "refNo": 138,
+    "title": "Single nucleotide polymorphisms in the BDNF gene and suicide in the Slovenian sample",
+    "marker_text": "(137)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "The study by Sears et al. (130) has the advantage of having studied several BDNF polymorphisms, whereas the majority of other studies only tested the Val66Met SNP.",
+    "refNo": 131,
+    "title": "The Val66Met polymorphism of the brain-derived neurotrophic-factor gene is associated with geriatric depression",
+    "marker_text": "(130)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Recently, Ratta-Apha et al. (136) performed a meta-analysis that included six studies using Asian subjects (122,123,125,127,128,136).",
+    "refNo": 137,
+    "title": "Association study of early-immediate genes in childhood-onset mood disorders and suicide attempt",
+    "marker_text": "(136)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Recently, Ratta-Apha et al. (136) performed a meta-analysis that included six studies using Asian subjects (122,123,125,127,128,136).",
+    "refNo": 123,
+    "title": "Family-based study of AVPR1B association and interaction with stressful life events on depression and anxiety in suicide attempts",
+    "marker_text": "(122)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Recently, Ratta-Apha et al. (136) performed a meta-analysis that included six studies using Asian subjects (122,123,125,127,128,136).",
+    "refNo": 124,
+    "title": "Decreased mRNA and protein expression of BDNF, NGF, and their receptors in the hippocampus from suicide: an analysis in human postmortem brain",
+    "marker_text": "(123)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Recently, Ratta-Apha et al. (136) performed a meta-analysis that included six studies using Asian subjects (122,123,125,127,128,136).",
+    "refNo": 126,
+    "title": "Brain-derived neurotrophic factor Val/Met polymorphism and bipolar disorder. Association of the Met allele with suicidal behavior of bipolar patients",
+    "marker_text": "(125)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Recently, Ratta-Apha et al. (136) performed a meta-analysis that included six studies using Asian subjects (122,123,125,127,128,136).",
+    "refNo": 128,
+    "title": "The Val66Met polymorphism of the brain-derived neurotrophic factor gene is associated with psychotic feature and suicidal behavior in Japanese major depressive patients",
+    "marker_text": "(127)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Recently, Ratta-Apha et al. (136) performed a meta-analysis that included six studies using Asian subjects (122,123,125,127,128,136).",
+    "refNo": 129,
+    "title": "Association of polymorphism (Val66Met) of brain-derived neurotrophic factor with suicide attempts in depressed patients",
+    "marker_text": "(128)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "However, a meta-analysis that included three studies that used completed suicide as subjects (131,133,136) (132) showed an association of five tagging SNPs that are located within the NTRK2 locus with a lifetime history of SB within depressed patients in two independent German samples.",
+    "refNo": 132,
+    "title": "Interaction between BDNF Val66Met and childhood trauma on adult's violent suicide attempt",
+    "marker_text": "(131)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "However, a meta-analysis that included three studies that used completed suicide as subjects (131,133,136) (132) showed an association of five tagging SNPs that are located within the NTRK2 locus with a lifetime history of SB within depressed patients in two independent German samples.",
+    "refNo": 134,
+    "title": "Brain derived neurotrophic factor (BDNF) genetic polymorphism (Val66Met) in suicide: a study of 512 cases",
+    "marker_text": "(133)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "However, a meta-analysis that included three studies that used completed suicide as subjects (131,133,136) (132) showed an association of five tagging SNPs that are located within the NTRK2 locus with a lifetime history of SB within depressed patients in two independent German samples.",
+    "refNo": 137,
+    "title": "Association study of early-immediate genes in childhood-onset mood disorders and suicide attempt",
+    "marker_text": "(136)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "However, a meta-analysis that included three studies that used completed suicide as subjects (131,133,136) (132) showed an association of five tagging SNPs that are located within the NTRK2 locus with a lifetime history of SB within depressed patients in two independent German samples.",
+    "refNo": 133,
+    "title": "Investigating the role of BDNF and CCK system genes in suicidality in a familial bipolar cohort",
+    "marker_text": "(132)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Perroud et al. (88) investigated the genetic predictors of an increase in suicidal ideation during the treatment of 796 adult subjects suffering from major depression who were treated with escitalopram or nortriptyline in Genome-based Therapeutic Drugs for Depression (GENDEP).",
+    "refNo": 89,
+    "title": "National Institute of Mental Health Genetics Initiative Bipolar Disorder Consortium. Nested association between genetic variation in tryptophan hydroxylase II, Bipolar affective disorder, and suicide attempts",
+    "marker_text": "(88)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Strauss et al. (134) studied two genes that appear to be involved in neuroplasticity: HOMER1 and human neuronal pentraxin II (NPTX2).",
+    "refNo": 135,
+    "title": "Association of genetic variants in the neurotrophic receptor-encoding gene NTRK2 and a lifetime history of suicide attempts in depressed patients",
+    "marker_text": "(134)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "In a population made up of 660 trios, Sokolowski et al. (138) reported several associations and linkage of SNPs in the GRIN2B and ODC1 genes with suicide attempt.",
+    "refNo": 139,
+    "title": "Association study of BDNF with completed suicide in the Japanese population",
+    "marker_text": "(138)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "As in the study by Ben-Efraim et al. (74), the authors investigated G × E interactions, and especially physical and sexual abuse.",
+    "refNo": 75,
+    "title": "Role of serotonergic-related systems in suicidal behavior: data from a case-control association study",
+    "marker_text": "(74)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Laje et al. (139) reported two other glutamatergic genes (GRIA3 and GRIK2) in relation to TESI.",
+    "refNo": 140,
+    "title": "The brain-derived neurotrophic factor gene in suicidal behaviour: a meta-analysis",
+    "marker_text": "(139)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Similarly, a different study associated polyaminergic single-nucleotide polymorphisms explicitly with SBs (95).",
+    "refNo": 96,
+    "title": "HTR2A gene variants and psychiatric disorders: a review of current literature and selection of SNPs for future studies",
+    "marker_text": "(95)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "In a sample of 77 trios (suicide attempters and both their parents), Wasserman et al. (140) investigated 250 genetic markers using TDT analysis.",
+    "refNo": 141,
+    "title": "Glutamatergic GRIN2B and polyaminergic ODC1 genes in suicide attempts: associations and gene-environment interactions with childhood/adolescent physical assault",
+    "marker_text": "(140)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "The study by Brent et al. (5) is a reference in this field.",
+    "refNo": 6,
+    "title": "Suicide in twins",
+    "marker_text": "(5)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Two teams in the world have published several articles, the Zalsman et al. (34,68,72) and the Brent et al. (15) teams.",
+    "refNo": 35,
+    "title": "",
+    "marker_text": "(34)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Two teams in the world have published several articles, the Zalsman et al. (34,68,72) and the Brent et al. (15) teams.",
+    "refNo": 69,
+    "title": "Family-based association study of 5-HT(2A) receptor T102C polymorphism and suicidal behavior in Ashkenazi inpatient adolescents",
+    "marker_text": "(68)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Two teams in the world have published several articles, the Zalsman et al. (34,68,72) and the Brent et al. (15) teams.",
+    "refNo": 73,
+    "title": "TPH2-703G/T SNP may have important effect on susceptibility to suicidal behavior in major depression",
+    "marker_text": "(72)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Two teams in the world have published several articles, the Zalsman et al. (34,68,72) and the Brent et al. (15) teams.",
+    "refNo": 16,
+    "title": "Mental disorders and comorbidity in suicide",
+    "marker_text": "(15)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "The oldest study we identified goes back to 2001 (34).",
+    "refNo": 35,
+    "title": "",
+    "marker_text": "(34)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Zalsman et al. (34) attempted to clarify the role of the A218C polymorphism in intron 7 of the TPH gene.",
+    "refNo": 35,
+    "title": "",
+    "marker_text": "(34)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "In the same population, Zalsman et al. (68) tested T102C polymorphism (5-HTR2A gene) without demonstrating any significant association in allelic distribution between transmitted and nontransmitted alleles.",
+    "refNo": 69,
+    "title": "Family-based association study of 5-HT(2A) receptor T102C polymorphism and suicidal behavior in Ashkenazi inpatient adolescents",
+    "marker_text": "(68)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "The same team conducted a case-control association study (72) in four groups of adolescents: (i) suicidal psychiatric inpatient adolescents (N = 35), (ii) non-suicidal psychiatric inpatient adolescents (N = 30), (iii) adolescents admitted to psychiatric emergency rooms due to a suicide attempt (N = 51), and (iv) a community-based control group (N = 95).",
+    "refNo": 73,
+    "title": "TPH2-703G/T SNP may have important effect on susceptibility to suicidal behavior in major depression",
+    "marker_text": "(72)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Studying a subsample of adolescent depression (n = 155) sufferers who participated in the Treatment of SSRI-Resistant Depression in Adolescents (TORDIA) trial, Brent et al. (15) found that two polymorphisms in FKBP5 (rs1360780TT and rs3800373GG) were linked to suicide events (n = 18), even when they controlled for related covariates and treatment effects.",
+    "refNo": 16,
+    "title": "Mental disorders and comorbidity in suicide",
+    "marker_text": "(15)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "This result is consistent with previous studies linking SB with the insensitivity of the HPA axis to feedback and increased secretion of cortisol (94).",
+    "refNo": 95,
+    "title": "Impaired repression at a 5-hydroxytryptamine 1A receptor gene polymorphism associated with major depression and suicide",
+    "marker_text": "(94)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Many generations of recombination create smaller regions of LD, which (with dense enough marker coverage) provides a substantially higher resolution than linkage and the potential to tag common causal variants (141).",
+    "refNo": 142,
+    "title": "Genetic markers of suicidal ideation emerging during citalopram treatment of major depression",
+    "marker_text": "(141)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Researchers must make sure that the associated loci are not spurious associations which are due, for example, to population substructure or admixture (142).",
+    "refNo": 143,
+    "title": "Suicide attempt and basic mechanisms in neural conduction: relationships to the SCN8A and VAMP4 genes",
+    "marker_text": "(142)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Li et al. (143) suggested that a p-value threshold of ~10 −7 should be used as the genome-wide significance criterion for the earlier commercially available genotyping arrays, but marginally more rigorous p-value thresholds ~5 × 10 −8 for more recent or merged commercially available genotyping arrays, ~10 −8 for all the most frequent SNPs in the 1000 Genomes Project dataset and ~5 × 10 −8 for the common SNPs only within genes.",
+    "refNo": 144,
+    "title": "Human complex trait genetics: lifting the lid of the genomics toolbox -from pathways to prediction",
+    "marker_text": "(143)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Among these studies, we found three studies that focused on treatment emergent or treatment worsening suicidal ideation in patients who were taking antidepressant drugs (88)(89)(90) and eight GWAS (144)(145)(146)(147)(148)(149)(150)(151) that were focused on suicidality in behavioral domains (suicide attempts or completed suicides).",
+    "refNo": 89,
+    "title": "National Institute of Mental Health Genetics Initiative Bipolar Disorder Consortium. Nested association between genetic variation in tryptophan hydroxylase II, Bipolar affective disorder, and suicide attempts",
+    "marker_text": "(88)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Among these studies, we found three studies that focused on treatment emergent or treatment worsening suicidal ideation in patients who were taking antidepressant drugs (88)(89)(90) and eight GWAS (144)(145)(146)(147)(148)(149)(150)(151) that were focused on suicidality in behavioral domains (suicide attempts or completed suicides).",
+    "refNo": 90,
+    "title": "",
+    "marker_text": "(89)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Among these studies, we found three studies that focused on treatment emergent or treatment worsening suicidal ideation in patients who were taking antidepressant drugs (88)(89)(90) and eight GWAS (144)(145)(146)(147)(148)(149)(150)(151) that were focused on suicidality in behavioral domains (suicide attempts or completed suicides).",
+    "refNo": 91,
+    "title": "Genome-wide association study of increasing suicidal ideation during antidepressant treatment in the GENDEP project",
+    "marker_text": "(90)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Among these studies, we found three studies that focused on treatment emergent or treatment worsening suicidal ideation in patients who were taking antidepressant drugs (88)(89)(90) and eight GWAS (144)(145)(146)(147)(148)(149)(150)(151) that were focused on suicidality in behavioral domains (suicide attempts or completed suicides).",
+    "refNo": 145,
+    "title": "Principal components analysis corrects for stratification in genome-wide association studies",
+    "marker_text": "(144)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Among these studies, we found three studies that focused on treatment emergent or treatment worsening suicidal ideation in patients who were taking antidepressant drugs (88)(89)(90) and eight GWAS (144)(145)(146)(147)(148)(149)(150)(151) that were focused on suicidality in behavioral domains (suicide attempts or completed suicides).",
+    "refNo": 146,
+    "title": "Evaluating the effective numbers of independent tests and significant p-value thresholds in commercial genotyping arrays and public imputation reference datasets",
+    "marker_text": "(145)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Among these studies, we found three studies that focused on treatment emergent or treatment worsening suicidal ideation in patients who were taking antidepressant drugs (88)(89)(90) and eight GWAS (144)(145)(146)(147)(148)(149)(150)(151) that were focused on suicidality in behavioral domains (suicide attempts or completed suicides).",
+    "refNo": 147,
+    "title": "Genomewide association study of suicide attempts in mood disorder patients",
+    "marker_text": "(146)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Among these studies, we found three studies that focused on treatment emergent or treatment worsening suicidal ideation in patients who were taking antidepressant drugs (88)(89)(90) and eight GWAS (144)(145)(146)(147)(148)(149)(150)(151) that were focused on suicidality in behavioral domains (suicide attempts or completed suicides).",
+    "refNo": 148,
+    "title": "A genome-wide association study of attempted suicide",
+    "marker_text": "(147)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Among these studies, we found three studies that focused on treatment emergent or treatment worsening suicidal ideation in patients who were taking antidepressant drugs (88)(89)(90) and eight GWAS (144)(145)(146)(147)(148)(149)(150)(151) that were focused on suicidality in behavioral domains (suicide attempts or completed suicides).",
+    "refNo": 149,
+    "title": "Genomewide association scan of suicidal thoughts and behaviour in major depression",
+    "marker_text": "(148)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Among these studies, we found three studies that focused on treatment emergent or treatment worsening suicidal ideation in patients who were taking antidepressant drugs (88)(89)(90) and eight GWAS (144)(145)(146)(147)(148)(149)(150)(151) that were focused on suicidality in behavioral domains (suicide attempts or completed suicides).",
+    "refNo": 150,
+    "title": "A pilot genome wide association and gene expression array study of suicide with and without major depression",
+    "marker_text": "(149)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Among these studies, we found three studies that focused on treatment emergent or treatment worsening suicidal ideation in patients who were taking antidepressant drugs (88)(89)(90) and eight GWAS (144)(145)(146)(147)(148)(149)(150)(151) that were focused on suicidality in behavioral domains (suicide attempts or completed suicides).",
+    "refNo": 151,
+    "title": "Genetic relationships between suicide attempts, suicidal ideation and major psychiatric disorders: a genome-wide association and polygenic scoring study",
+    "marker_text": "(150)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Among these studies, we found three studies that focused on treatment emergent or treatment worsening suicidal ideation in patients who were taking antidepressant drugs (88)(89)(90) and eight GWAS (144)(145)(146)(147)(148)(149)(150)(151) that were focused on suicidality in behavioral domains (suicide attempts or completed suicides).",
+    "refNo": 152,
+    "title": "A genome-wide association study of suicidal behavior",
+    "marker_text": "(151)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Laje et al. (90) followed up with the first GWAS in patients from the STAR*D clinical trial using the Illumina Human-1 BeadChip that samples 109,365 SNPs.",
+    "refNo": 91,
+    "title": "Genome-wide association study of increasing suicidal ideation during antidepressant treatment in the GENDEP project",
+    "marker_text": "(90)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Perroud et al. (88) published a GWAS of suicidality associated with treatment in the GENDEP 706-strong sample of patients being treated for major depression with either nortriptyline or escitalopram.",
+    "refNo": 89,
+    "title": "National Institute of Mental Health Genetics Initiative Bipolar Disorder Consortium. Nested association between genetic variation in tryptophan hydroxylase II, Bipolar affective disorder, and suicide attempts",
+    "marker_text": "(88)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Menke et al. (89) carried out a GWAS on TESI, over the initial 12 weeks following treatment with various SSRIs in GSK-Munich and Munich Antidepressant Response Signature (MARS) cohorts.",
+    "refNo": 90,
+    "title": "",
+    "marker_text": "(89)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "GWAS (88)] had a suggestive association with TESI, together with other candidate genes for neuro-psychiatric disorders (FKBP5, ABCB1).",
+    "refNo": 89,
+    "title": "National Institute of Mental Health Genetics Initiative Bipolar Disorder Consortium. Nested association between genetic variation in tryptophan hydroxylase II, Bipolar affective disorder, and suicide attempts",
+    "marker_text": "(88)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "In 2010, Perlis et al. (144) tested almost 2 million common genetic variants for association with a history of suicide attempts among 5815 individuals with bipolar disorder and 2922 individuals with major depression.",
+    "refNo": 145,
+    "title": "Principal components analysis corrects for stratification in genome-wide association studies",
+    "marker_text": "(144)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Schosser et al. (146) did not find any evidence for significant association at genome-wide level, and the strongest results in their study were not replicated in analysis of independent MDD cohorts with a similar assessment of SB.",
+    "refNo": 147,
+    "title": "Genomewide association study of suicide attempts in mood disorder patients",
+    "marker_text": "(146)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Willour et al. (145) reported a GWAS that compared SNP genotypes of 1201 bipolar (BP) suicide attempters with the genotypes of 1497 BP patients with no history of attempted suicide.",
+    "refNo": 146,
+    "title": "Evaluating the effective numbers of independent tests and significant p-value thresholds in commercial genotyping arrays and public imputation reference datasets",
+    "marker_text": "(145)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Galfalvy et al. (147) conducted a first study on completed suicides; sudden non-suicide-related deaths were used as controls.",
+    "refNo": 148,
+    "title": "A genome-wide association study of attempted suicide",
+    "marker_text": "(147)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Mullins et al. (148) carried out GWAS and made the first application of polygenic score analysis to four patient cohorts with mood disorders, in an attempt to identify common genetic variants for mood disorders and SB.",
+    "refNo": 149,
+    "title": "Genomewide association scan of suicidal thoughts and behaviour in major depression",
+    "marker_text": "(148)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Galfalvy et al. (149) conducted a GWAS on completed suicides and patients having a history of attempted suicide with non-fatal outcome (n = 577) compared with psychiatric control and healthy volunteer groups (n = 1233).",
+    "refNo": 150,
+    "title": "A pilot genome wide association and gene expression array study of suicide with and without major depression",
+    "marker_text": "(149)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Zai et al. (150) conducted a GWAS study of the severity of SB (from suicidal ideation to serious suicide attempt) using three independent BD samples and failed to detect significant genome-wide association of any of the markers tested in any of the BD samples.",
+    "refNo": 151,
+    "title": "Genetic relationships between suicide attempts, suicidal ideation and major psychiatric disorders: a genome-wide association and polygenic scoring study",
+    "marker_text": "(150)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Finally, the study by Sokolowski et al. (151) attempted to take account of the shortcomings of the earlier studies.",
+    "refNo": 152,
+    "title": "A genome-wide association study of suicidal behavior",
+    "marker_text": "(151)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "With the major problem of GWAS being their low statistical power, the authors used the polygenic risk score (PRS) developed by Purcell et al. (152) PRS can show strong associations for many SNPs with small effects, and, in some cases, with small samples.",
+    "refNo": 153,
+    "title": "A genome-wide association study of suicide severity scores in bipolar disorder",
+    "marker_text": "(152)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "PRS has also been used by Mulins et al. (148) to provide data concerning genetic overlap between different psychopathologies.",
+    "refNo": 149,
+    "title": "Genomewide association scan of suicidal thoughts and behaviour in major depression",
+    "marker_text": "(148)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "In summary, we have identified several studies that have shown an association of genetic polymorphisms with SBs, in line with previous reviews (31)(32)(33).",
+    "refNo": 32,
+    "title": "Serotonergic genes and suicide: a systematic review",
+    "marker_text": "(31)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "In summary, we have identified several studies that have shown an association of genetic polymorphisms with SBs, in line with previous reviews (31)(32)(33).",
+    "refNo": 33,
+    "title": "Case control and family-based studies of tryptophan hydroxylase gene A218C polymorphism and suicidality in adolescents",
+    "marker_text": "(32)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "In summary, we have identified several studies that have shown an association of genetic polymorphisms with SBs, in line with previous reviews (31)(32)(33).",
+    "refNo": 34,
+    "title": "",
+    "marker_text": "(33)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "The strongest results from meta-analyses support the combination of SB with variants in TPH1-rs1800532 (43,46,84), SLC6A4-5-HTTLPR- (46,84), COMT-rs4680- (67) or BDNF-rs6265 (137).",
+    "refNo": 44,
+    "title": "Further clarification of the contribution of the tryptophan hydroxylase (TPH) gene to suicidal behavior using systematic allelic and genotypic meta-analyses",
+    "marker_text": "(43)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "The strongest results from meta-analyses support the combination of SB with variants in TPH1-rs1800532 (43,46,84), SLC6A4-5-HTTLPR- (46,84), COMT-rs4680- (67) or BDNF-rs6265 (137).",
+    "refNo": 47,
+    "title": "The association of attempted suicide with genetic variants in the SLC6A4 and TPH genes depends on the definition of suicidal behavior: a systematic review and meta-analysis",
+    "marker_text": "(46)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "The strongest results from meta-analyses support the combination of SB with variants in TPH1-rs1800532 (43,46,84), SLC6A4-5-HTTLPR- (46,84), COMT-rs4680- (67) or BDNF-rs6265 (137).",
+    "refNo": 85,
+    "title": "Association between serotonin transporter gene promoter polymorphism and suicide: results of a meta-analysis",
+    "marker_text": "(84)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "The strongest results from meta-analyses support the combination of SB with variants in TPH1-rs1800532 (43,46,84), SLC6A4-5-HTTLPR- (46,84), COMT-rs4680- (67) or BDNF-rs6265 (137).",
+    "refNo": 68,
+    "title": "Meta-analyses suggest association between COMT, but not HTR1B, alleles, and suicidal behavior",
+    "marker_text": "(67)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "The strongest results from meta-analyses support the combination of SB with variants in TPH1-rs1800532 (43,46,84), SLC6A4-5-HTTLPR- (46,84), COMT-rs4680- (67) or BDNF-rs6265 (137).",
+    "refNo": 138,
+    "title": "Single nucleotide polymorphisms in the BDNF gene and suicide in the Slovenian sample",
+    "marker_text": "(137)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Results to date from GWAS are unsatisfactory, with most studies showing no evidence of association at genome-wide significant level (89,145,(147)(148)(149) or only marginally (90,146,150).",
+    "refNo": 148,
+    "title": "A genome-wide association study of attempted suicide",
+    "marker_text": "(147)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Results to date from GWAS are unsatisfactory, with most studies showing no evidence of association at genome-wide significant level (89,145,(147)(148)(149) or only marginally (90,146,150).",
+    "refNo": 149,
+    "title": "Genomewide association scan of suicidal thoughts and behaviour in major depression",
+    "marker_text": "(148)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Results to date from GWAS are unsatisfactory, with most studies showing no evidence of association at genome-wide significant level (89,145,(147)(148)(149) or only marginally (90,146,150).",
+    "refNo": 150,
+    "title": "A pilot genome wide association and gene expression array study of suicide with and without major depression",
+    "marker_text": "(149)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Results to date from GWAS are unsatisfactory, with most studies showing no evidence of association at genome-wide significant level (89,145,(147)(148)(149) or only marginally (90,146,150).",
+    "refNo": 91,
+    "title": "Genome-wide association study of increasing suicidal ideation during antidepressant treatment in the GENDEP project",
+    "marker_text": "(90)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Results to date from GWAS are unsatisfactory, with most studies showing no evidence of association at genome-wide significant level (89,145,(147)(148)(149) or only marginally (90,146,150).",
+    "refNo": 147,
+    "title": "Genomewide association study of suicide attempts in mood disorder patients",
+    "marker_text": "(146)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Results to date from GWAS are unsatisfactory, with most studies showing no evidence of association at genome-wide significant level (89,145,(147)(148)(149) or only marginally (90,146,150).",
+    "refNo": 151,
+    "title": "Genetic relationships between suicide attempts, suicidal ideation and major psychiatric disorders: a genome-wide association and polygenic scoring study",
+    "marker_text": "(150)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Studies which did show an association (p < 5 × 10 −8 ) (88,144) failed to replicate the results.",
+    "refNo": 89,
+    "title": "National Institute of Mental Health Genetics Initiative Bipolar Disorder Consortium. Nested association between genetic variation in tryptophan hydroxylase II, Bipolar affective disorder, and suicide attempts",
+    "marker_text": "(88)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Studies which did show an association (p < 5 × 10 −8 ) (88,144) failed to replicate the results.",
+    "refNo": 145,
+    "title": "Principal components analysis corrects for stratification in genome-wide association studies",
+    "marker_text": "(144)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Although the family transmission of suicidality would tend to suggest that suicide is a separate phenomenon from psychopathology (10), there is need to carefully control biological factors that are associated with psychopathology, and this is a process which poses significant methodological and operational challenges.",
+    "refNo": 11,
+    "title": "Genetic and environmental contributions to self-reported thoughts of self-harm and suicide",
+    "marker_text": "(10)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Turecki (18) suggested that the studies having the best chance of properly controlling psychopathology were those which, within psychopathological groups, compared subjects who committed suicide with those whose death was due to another cause.",
+    "refNo": 19,
+    "title": "Differences and similarities in the serotonergic diathesis for suicide attempts and mood disorders: a 22-year longitudinal gene-environment study",
+    "marker_text": "(18)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "An excess level of suicidal ideation was observed in the family environment of suicide victims, but it was not found to be significant once adjustments were made to take account of psychiatric disorders (5).",
+    "refNo": 6,
+    "title": "Suicide in twins",
+    "marker_text": "(5)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "The suggestion has been made that ideation might cosegregate with psychiatric disorders, while the tendency to move from ideation to action is, at least to some extent, the result of a different genetic diathesis (91).",
+    "refNo": 92,
+    "title": "Genome-wide association study of antidepressant treatment-emergent suicidal ideation",
+    "marker_text": "(91)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "A strategy of heritable intermediate phenotypes (endophenotypes) has been proposed by the American Foundation for Suicide Prevention (91).",
+    "refNo": 92,
+    "title": "Genome-wide association study of antidepressant treatment-emergent suicidal ideation",
+    "marker_text": "(91)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Several statistical techniques are being developed for multiple comparison correction, but the ability to replicate findings of genetic associations in unrelated population samples is still the ultimate benchmark for complex disease genetics (153).",
+    "refNo": 154,
+    "title": "Polygenic associations of neurodevelopmental genes in suicide attempt",
+    "marker_text": "(153)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "GWAS picks up on alleles in the population which occur commonly, but which are each unlikely to have more than a very slight incidence on what is a complex phenotype (154).",
+    "refNo": 155,
+    "title": "Genetic power calculator: design of linkage and association genetic mapping studies of complex traits",
+    "marker_text": "(154)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Other methods have been proposed, including global haplotype tests, regression methods, and multimarker tests; these tests address multiple testing by combining multiple SNPs into a single test (155).",
+    "refNo": 156,
+    "title": "Shaking the tree: mapping complex disease genes with linkage disequilibrium",
+    "marker_text": "(155)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "An independent replication sample is then analyzed by constructing, for each subject, a polygenic score consisting of the weighted sum of its trait-associated alleles, for some subset of top ranking markers (156).",
+    "refNo": 157,
+    "title": "Prediction of individual genetic risk to disease from genome-wide association studies",
+    "marker_text": "(156)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "This approach has been used by the Psychiatric Genomics Consortium and the International Schizophrenia Consortium to investigate major depression and schizophrenia (157).",
+    "refNo": 158,
+    "title": "Statistical challenges for genome-wide association studies of suicidality using family data",
+    "marker_text": "(157)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "For example, the well-known study by Caspi et al. (20) showed that depression accompanied by suicidal ideation or attempted suicide is to be predicted in children, adolescents, and young adults who are carriers of the S allele of the 5-HTTLPR polymorphism.",
+    "refNo": 21,
+    "title": "Genetic and environmental pathways to suicidal behavior: reflections of a genetic epidemiologist",
+    "marker_text": "(20)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "However, several studies have shown interesting results, mainly those who have considered adverse life events (19).",
+    "refNo": 20,
+    "title": "Influence of life stress on depression: moderation by a polymorphism in the 5-HTT gene",
+    "marker_text": "(19)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Studies that used MRI and fMRI showed both alterations related to age and differences related to gender in gray and white matter over the period of adolescence (158).",
+    "refNo": 159,
+    "title": "Power and predictive accuracy of polygenic risk scores",
+    "marker_text": "(158)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Zalsman et al. (72) suggested that the fact of restricting the investigation of SB in adolescents simply to the interaction between gene and environment might prevent researchers from detecting other complex interaction factors, which involve timing.",
+    "refNo": 73,
+    "title": "TPH2-703G/T SNP may have important effect on susceptibility to suicidal behavior in major depression",
+    "marker_text": "(72)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "In a large review, Cordell (159) offers a critical survey of the methodological approaches (with the associated software) which are in current use for the detection of interactions between genetic loci identified as contributing to genetic disease in humans.",
+    "refNo": 160,
+    "title": "Genetic relationship between five psychiatric disorders estimated from genome-wide SNPs",
+    "marker_text": "(159)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "For example, De Luca et al. (119), studying a cohort of 231 patients suffering from schizophrenia, found a supposedly significant interaction between CRHBP rs1875999 and CRHR1 rs16940665 as regards the seriousness of SB, and more recently, Perroud et al. (88), in their recent GENDEP clinical trial sample, reported NTRK2 and BDNF polymorphisms to interact significantly in suicidal ideation.",
+    "refNo": 120,
+    "title": "Monoamine oxidase A gene polymorphism and suicide: an association study and meta-analysis",
+    "marker_text": "(119)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "For example, De Luca et al. (119), studying a cohort of 231 patients suffering from schizophrenia, found a supposedly significant interaction between CRHBP rs1875999 and CRHR1 rs16940665 as regards the seriousness of SB, and more recently, Perroud et al. (88), in their recent GENDEP clinical trial sample, reported NTRK2 and BDNF polymorphisms to interact significantly in suicidal ideation.",
+    "refNo": 89,
+    "title": "National Institute of Mental Health Genetics Initiative Bipolar Disorder Consortium. Nested association between genetic variation in tryptophan hydroxylase II, Bipolar affective disorder, and suicide attempts",
+    "marker_text": "(88)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Although there exist a substantial body of evidence to suggest that the CDCV and CDRV theories are both valid, a model for complex traits which would come closer to reality is likely to be that functional variants occur over a wide range of allele frequencies from rare to common, even for the same susceptibility gene (160).",
+    "refNo": 161,
+    "title": "Brain development during childhood and adolescence: a longitudinal MRI study",
+    "marker_text": "(160)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Based on single-nucleotide polymorphism array data, Gross et al. (161) followed the Penn-CNV standards to detect CNVs in 1608 cases (suicide and suicide attempt) and 1133 controls.",
+    "refNo": 162,
+    "title": "Detecting gene-gene interactions that underlie human diseases",
+    "marker_text": "(161)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Using subjects who were collected as part of STAR*D, Perlis et al. (162) genotyped 189 patients suffering from MD who had a history of attempted suicide, and 1073 subjects suffering from MDD but who had not previously attempted suicide.",
+    "refNo": 163,
+    "title": "Genetic architectures of psychiatric disorders: the emerging picture and its implications",
+    "marker_text": "(162)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "This circumstance has raised the major, controversial, question of where the \"missing heritability\" of complex disorders is hiding (163).",
+    "refNo": 164,
+    "title": "A genome-wide copy number variant study of suicidal behavior",
+    "marker_text": "(163)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "According to Nadeau et al. (163), perhaps the role of heritability has been exaggerated.",
+    "refNo": 164,
+    "title": "A genome-wide copy number variant study of suicidal behavior",
+    "marker_text": "(163)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Further to that, Nadeau et al. (163) raises the question of transgenerational genetic effects, whereby phenotype variations in the current generation may very likely result from genetic variants in preceding generations.",
+    "refNo": 164,
+    "title": "A genome-wide copy number variant study of suicidal behavior",
+    "marker_text": "(163)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Epigenetic mechanisms, such as DNA methylation and chromatin restructuring, can be altered by environmental factors but the complexity of the epigenome is not fully understood (164).",
+    "refNo": 165,
+    "title": "Copy number variation in subjects with major depressive disorder who attempted suicide",
+    "marker_text": "(164)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "The recent review by Turecki et al. (165) assesses emerging data for the role of epigenetic mechanisms in stress-related psychiatric disorders.",
+    "refNo": 166,
+    "title": "Missing heritability and strategies for finding the underlying causes of complex disease",
+    "marker_text": "(165)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "They have reported promoter-wide hypermethylation of the ribosomal RNA gene promoter (166), hypermethylation of the tropomyosin-related kinase B (167), hypermethylation in the promoter of the glucocorticoid receptor (168), or hypermethylation in the promoter of spermine oxidase (169), in the brain of suicide subjects.",
+    "refNo": 167,
+    "title": "Epigenetic regulation in psychiatric disorders",
+    "marker_text": "(166)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "They have reported promoter-wide hypermethylation of the ribosomal RNA gene promoter (166), hypermethylation of the tropomyosin-related kinase B (167), hypermethylation in the promoter of the glucocorticoid receptor (168), or hypermethylation in the promoter of spermine oxidase (169), in the brain of suicide subjects.",
+    "refNo": 168,
+    "title": "Early life adversity, genomic plasticity, and psychopathology",
+    "marker_text": "(167)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "They have reported promoter-wide hypermethylation of the ribosomal RNA gene promoter (166), hypermethylation of the tropomyosin-related kinase B (167), hypermethylation in the promoter of the glucocorticoid receptor (168), or hypermethylation in the promoter of spermine oxidase (169), in the brain of suicide subjects.",
+    "refNo": 169,
+    "title": "Promoter-wide hypermethylation of the ribosomal RNA gene promoter in the suicide brain",
+    "marker_text": "(168)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "They have reported promoter-wide hypermethylation of the ribosomal RNA gene promoter (166), hypermethylation of the tropomyosin-related kinase B (167), hypermethylation in the promoter of the glucocorticoid receptor (168), or hypermethylation in the promoter of spermine oxidase (169), in the brain of suicide subjects.",
+    "refNo": 170,
+    "title": "Histone methylation and decreased expression of TrkB.T1 in orbital frontal cortex of suicide completers",
+    "marker_text": "(169)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "We may also cite the studies on BDNF promoter hypermethylation (170) or on SKA2 DNA methylation (171).",
+    "refNo": 171,
+    "title": "Epigenetic regulation of the glucocorticoid receptor in human brain associates with childhood abuse",
+    "marker_text": "(170)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "We may also cite the studies on BDNF promoter hypermethylation (170) or on SKA2 DNA methylation (171).",
+    "refNo": 172,
+    "title": "Genetic and epigenetic influences on expression of spermine synthase and spermine oxidase in suicide completers",
+    "marker_text": "(171)",
+    "extraction_method": "paren_numeric"
+  }
+]

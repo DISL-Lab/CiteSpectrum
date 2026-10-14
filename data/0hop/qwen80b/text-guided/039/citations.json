@@ -1,0 +1,909 @@
+[
+  {
+    "sentence": "The primary disease carries an excellent prognosis with an estimated 5-year survival rate of more than 98% [1]; however, long-term overall survival remains poor because of relapsed or refractory (R/R) disease and the late effects of treatment regimens.",
+    "refNo": 1,
+    "title": "On some Morbid Appearances of the Absorbent Glands and Spleen",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "The current American Cancer Society statistics report that the 5-year relative survival rate for all patients diagnosed with HL is now about 87% [2]. cHL is the larger and more common category (90-95% of cases of HL) and usually presents as an acute, aggressive illness.",
+    "refNo": 2,
+    "title": "A revised European-American classification of lymphoid neoplasms: A proposal from the International Lymphoma Study Group",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "The presence of malignant HRS cells is the hallmark of cHL [8,14]; these cells are persistently found in all subtypes and are positive for cluster of differentiation (CD)15 in 85% of cases, positive for CD30 in 100% of cases, and are essentially negative for CD45 by immunohistology staining [7]. cHL is further classified into four histologic subgroups based on the structure, cell surface markers, percentage or density of Hodgkin and RS cells, and the amount of background inflammatory infiltrate [8].",
+    "refNo": 8,
+    "title": "Family history of cancer and risk of pediatric and adolescent Hodgkin lymphoma: A Children's Oncology Group study",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "The presence of malignant HRS cells is the hallmark of cHL [8,14]; these cells are persistently found in all subtypes and are positive for cluster of differentiation (CD)15 in 85% of cases, positive for CD30 in 100% of cases, and are essentially negative for CD45 by immunohistology staining [7]. cHL is further classified into four histologic subgroups based on the structure, cell surface markers, percentage or density of Hodgkin and RS cells, and the amount of background inflammatory infiltrate [8].",
+    "refNo": 14,
+    "title": "Molecular biology of Hodgkin's and Reed/Sternberg cells in Hodgkin's lymphoma",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "The presence of malignant HRS cells is the hallmark of cHL [8,14]; these cells are persistently found in all subtypes and are positive for cluster of differentiation (CD)15 in 85% of cases, positive for CD30 in 100% of cases, and are essentially negative for CD45 by immunohistology staining [7]. cHL is further classified into four histologic subgroups based on the structure, cell surface markers, percentage or density of Hodgkin and RS cells, and the amount of background inflammatory infiltrate [8].",
+    "refNo": 7,
+    "title": "Risk factors for Hodgkin's lymphoma by EBV status and significance of detection of EBV genomes in serum of patients with EBV-associated Hodgkin's lymphoma",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "The presence of malignant HRS cells is the hallmark of cHL [8,14]; these cells are persistently found in all subtypes and are positive for cluster of differentiation (CD)15 in 85% of cases, positive for CD30 in 100% of cases, and are essentially negative for CD45 by immunohistology staining [7]. cHL is further classified into four histologic subgroups based on the structure, cell surface markers, percentage or density of Hodgkin and RS cells, and the amount of background inflammatory infiltrate [8].",
+    "refNo": 8,
+    "title": "Family history of cancer and risk of pediatric and adolescent Hodgkin lymphoma: A Children's Oncology Group study",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "The presence of malignant HRS cells is the hallmark of cHL [8,14]; these cells are persistently found in all subtypes and are positive for cluster of differentiation (CD)15 in 85% of cases, positive for CD30 in 100% of cases, and are essentially negative for CD45 by immunohistology staining [7]. cHL is further classified into four histologic subgroups based on the structure, cell surface markers, percentage or density of Hodgkin and RS cells, and the amount of background inflammatory infiltrate [8].",
+    "refNo": 15,
+    "title": "NF-κB deregulation in Hodgkin lymphoma",
+    "marker_text": "15",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "The subtypes include nodular sclerosis HL, mixed cellularity HL, lymphocyte-rich HL, and lymphocyte-depleted HL [13].",
+    "refNo": 13,
+    "title": "Human CD30+ B cells represent a unique subset related to Hodgkin lymphoma cells",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "There is no clearly defined etiology for HL, but there are numerous risk factors that may predispose an individual to develop the malignancy ref [6].",
+    "refNo": 6,
+    "title": "Clinical, Molecular, and Environmental Risk Factors for Hodgkin Lymphoma",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "For instance, individuals with immunodeficiencies, such as acquired immunodeficiency syndrome (AIDS), and those on chronic immunosuppression because of solid-organ or stem-cell transplants are at higher risk of developing HL ref [1,2] (although individuals with immunodeficiencies actually have a greater risk of developing non-HL than HL, and HL is not considered an AIDS-defining malignancy) ref [1,2].",
+    "refNo": 1,
+    "title": "On some Morbid Appearances of the Absorbent Glands and Spleen",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "For instance, individuals with immunodeficiencies, such as acquired immunodeficiency syndrome (AIDS), and those on chronic immunosuppression because of solid-organ or stem-cell transplants are at higher risk of developing HL ref [1,2] (although individuals with immunodeficiencies actually have a greater risk of developing non-HL than HL, and HL is not considered an AIDS-defining malignancy) ref [1,2].",
+    "refNo": 2,
+    "title": "A revised European-American classification of lymphoid neoplasms: A proposal from the International Lymphoma Study Group",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "For instance, individuals with immunodeficiencies, such as acquired immunodeficiency syndrome (AIDS), and those on chronic immunosuppression because of solid-organ or stem-cell transplants are at higher risk of developing HL ref [1,2] (although individuals with immunodeficiencies actually have a greater risk of developing non-HL than HL, and HL is not considered an AIDS-defining malignancy) ref [1,2].",
+    "refNo": 1,
+    "title": "On some Morbid Appearances of the Absorbent Glands and Spleen",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "For instance, individuals with immunodeficiencies, such as acquired immunodeficiency syndrome (AIDS), and those on chronic immunosuppression because of solid-organ or stem-cell transplants are at higher risk of developing HL ref [1,2] (although individuals with immunodeficiencies actually have a greater risk of developing non-HL than HL, and HL is not considered an AIDS-defining malignancy) ref [1,2].",
+    "refNo": 2,
+    "title": "A revised European-American classification of lymphoid neoplasms: A proposal from the International Lymphoma Study Group",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "NLPHL accounts for about 5% to 10% of HL cases, is indolent in most instances, and is considered to be a distinct disease entity that shares more characteristics with B-cell non-HL than with cHL ref [1,7].",
+    "refNo": 1,
+    "title": "On some Morbid Appearances of the Absorbent Glands and Spleen",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "NLPHL accounts for about 5% to 10% of HL cases, is indolent in most instances, and is considered to be a distinct disease entity that shares more characteristics with B-cell non-HL than with cHL ref [1,7].",
+    "refNo": 7,
+    "title": "Risk factors for Hodgkin's lymphoma by EBV status and significance of detection of EBV genomes in serum of patients with EBV-associated Hodgkin's lymphoma",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "In contrast, RS cells are consistently positive for CD30 ref [7,14,56].",
+    "refNo": 7,
+    "title": "Risk factors for Hodgkin's lymphoma by EBV status and significance of detection of EBV genomes in serum of patients with EBV-associated Hodgkin's lymphoma",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "In contrast, RS cells are consistently positive for CD30 ref [7,14,56].",
+    "refNo": 14,
+    "title": "Molecular biology of Hodgkin's and Reed/Sternberg cells in Hodgkin's lymphoma",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "In contrast, RS cells are consistently positive for CD30 ref [7,14,56].",
+    "refNo": 56,
+    "title": "",
+    "marker_text": "[56]"
+  },
+  {
+    "sentence": "HL treatment is guided by the risk category of the diagnosis, which is based on the disease stage and clinical presentation ref [6].",
+    "refNo": 6,
+    "title": "Clinical, Molecular, and Environmental Risk Factors for Hodgkin Lymphoma",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Physical examination and radiological imaging are used to stage the disease ref [6] and to acquire information regarding several factors of varying prognostic significance ref [6].",
+    "refNo": 6,
+    "title": "Clinical, Molecular, and Environmental Risk Factors for Hodgkin Lymphoma",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Physical examination and radiological imaging are used to stage the disease ref [6] and to acquire information regarding several factors of varying prognostic significance ref [6].",
+    "refNo": 6,
+    "title": "Clinical, Molecular, and Environmental Risk Factors for Hodgkin Lymphoma",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "These factors include the location and laterality of the affected lymph nodes on either or both sides of the diaphragm, the number of lymph nodes involved, the involvement of contiguous lymph nodes, and the presence of bulky disease (defined as a mediastinal mass >1/3 the size of the intrathoracic diameter on a posterior-anterior chest X-ray or any mass ≥10 cm on a computed tomography [CT] scan at diagnosis ref [6]).",
+    "refNo": 6,
+    "title": "Clinical, Molecular, and Environmental Risk Factors for Hodgkin Lymphoma",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Of note, the Children's Oncology Group has a lower threshold for bulky disease and defines it as a mass greater than or equal to 6 cm in pediatric populations in the presence or absence of B symptoms ref [8].",
+    "refNo": 8,
+    "title": "Family history of cancer and risk of pediatric and adolescent Hodgkin lymphoma: A Children's Oncology Group study",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "HL is a complex, multifactorial malignancy that primarily involves B cells (although 1-2% of cases involve T cells) ref [12].",
+    "refNo": 12,
+    "title": "Rare occurrence of classical Hodgkin's disease as a T cell lymphoma",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "These lymphocytes originate in the germinal center of lymph nodes ref [11].",
+    "refNo": 11,
+    "title": "Hodgkin and reed-sternberg cells represent an expansion of a single clone originating from a germinal center B-cell with functional immunoglobulin gene rearrangements but defective immunoglobulin transcription",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "RS cells continually develop from the Hodgkin cells as a result of incomplete cytokinesis and re-fusion ref [13].",
+    "refNo": 13,
+    "title": "Human CD30+ B cells represent a unique subset related to Hodgkin lymphoma cells",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Nonetheless, HRS cells are the hallmark of cHL, and are characteristically unable to express B-cell-specific genes, most notably the immunoglobulin (Ig) heavy-chain gene, and are thus unable to produce antibodies ref [11].",
+    "refNo": 11,
+    "title": "Hodgkin and reed-sternberg cells represent an expansion of a single clone originating from a germinal center B-cell with functional immunoglobulin gene rearrangements but defective immunoglobulin transcription",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Various mechanisms (such as EBV infection) activate the anti-apoptotic nuclear factor kappa B (NF-κB) transcription factor signaling pathway ref [15].",
+    "refNo": 15,
+    "title": "NF-κB deregulation in Hodgkin lymphoma",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Activation of this pathway prevents the apoptosis of the defective lymphocytes and promotes the proliferation of RS cells ref [14], ref [15].",
+    "refNo": 14,
+    "title": "Molecular biology of Hodgkin's and Reed/Sternberg cells in Hodgkin's lymphoma",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Activation of this pathway prevents the apoptosis of the defective lymphocytes and promotes the proliferation of RS cells ref [14], ref [15].",
+    "refNo": 15,
+    "title": "NF-κB deregulation in Hodgkin lymphoma",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Painless lymphadenopathy is the most common initial presenting sign of HL and is observed in approximately 80% of pediatric patients ref [58].",
+    "refNo": 58,
+    "title": "",
+    "marker_text": "[58]"
+  },
+  {
+    "sentence": "It is occasionally present in the inguinal region as well ref [59], ref [60].",
+    "refNo": 59,
+    "title": "",
+    "marker_text": "[59]"
+  },
+  {
+    "sentence": "It is occasionally present in the inguinal region as well ref [59], ref [60].",
+    "refNo": 60,
+    "title": "",
+    "marker_text": "[60]"
+  },
+  {
+    "sentence": "In addition, the distinct biology of cHL is inspiring the development of newer molecular therapies ref [152].",
+    "refNo": 152,
+    "title": "",
+    "marker_text": "[152]"
+  },
+  {
+    "sentence": "RS cells exhibit genetic amplification of the 9p24.1 locus; further analysis revealed their overexpression of programmed death ligand 1 (PD-L1) and programmed death ligand 2 ref [152], ref [153].",
+    "refNo": 152,
+    "title": "",
+    "marker_text": "[152]"
+  },
+  {
+    "sentence": "RS cells exhibit genetic amplification of the 9p24.1 locus; further analysis revealed their overexpression of programmed death ligand 1 (PD-L1) and programmed death ligand 2 ref [152], ref [153].",
+    "refNo": 153,
+    "title": "",
+    "marker_text": "[153]"
+  },
+  {
+    "sentence": "Later clinical trials showed high response rates with the use of these checkpoint inhibitors for the treatment of advanced HL ref [152], ref [154], ref [155].",
+    "refNo": 152,
+    "title": "",
+    "marker_text": "[152]"
+  },
+  {
+    "sentence": "Later clinical trials showed high response rates with the use of these checkpoint inhibitors for the treatment of advanced HL ref [152], ref [154], ref [155].",
+    "refNo": 154,
+    "title": "",
+    "marker_text": "[154]"
+  },
+  {
+    "sentence": "Later clinical trials showed high response rates with the use of these checkpoint inhibitors for the treatment of advanced HL ref [152], ref [154], ref [155].",
+    "refNo": 155,
+    "title": "",
+    "marker_text": "[155]"
+  },
+  {
+    "sentence": "Pembrolizumab and nivolumab are the two most widely used PD-1 checkpoint inhibitors, and are currently approved by the US Food and Drug Administration (FDA) as third-line therapies for R/R cHL ref [152].",
+    "refNo": 152,
+    "title": "",
+    "marker_text": "[152]"
+  },
+  {
+    "sentence": "The World Health Organization classifies HL into two main categories, cHL and NLPHL, on the basis of morphological and immunohistochemical characteristics [8].",
+    "refNo": 8,
+    "title": "Family history of cancer and risk of pediatric and adolescent Hodgkin lymphoma: A Children's Oncology Group study",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "The differential diagnoses for HL may be divided into three primary categories: infections, inflammatory or autoimmune disorders, and other malignancies [6].",
+    "refNo": 6,
+    "title": "Clinical, Molecular, and Environmental Risk Factors for Hodgkin Lymphoma",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Although many infectious processes can present with the same painless lymphadenopathy and fevers often noted in patients with HL, the most critical infections to exclude are HIV, tuberculosis, and infectious mononucleosis (especially given the close association between HL and EBV) [6].",
+    "refNo": 6,
+    "title": "Clinical, Molecular, and Environmental Risk Factors for Hodgkin Lymphoma",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "With regard to inflammatory or autoimmune disorders, conditions such as systemic lupus erythematosus, rheumatoid arthritis, sarcoidosis, and hemophagocytic lymphohistiocytosis should always be considered as a differential diagnosis for a patient suspected of having HL [6].",
+    "refNo": 6,
+    "title": "Clinical, Molecular, and Environmental Risk Factors for Hodgkin Lymphoma",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Other malignancies—particularly other lymphomas, such as non-HL, diffuse large B-cell lymphoma, and anaplastic large-cell lymphoma—must be considered as well [6,10].",
+    "refNo": 6,
+    "title": "Clinical, Molecular, and Environmental Risk Factors for Hodgkin Lymphoma",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Other malignancies—particularly other lymphomas, such as non-HL, diffuse large B-cell lymphoma, and anaplastic large-cell lymphoma—must be considered as well [6,10].",
+    "refNo": 10,
+    "title": "Molecular biology of Hodgkin lymphoma",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Despite recent advancements in immunotherapy, the first-line treatments for HL continue to evolve ref [21].",
+    "refNo": 21,
+    "title": "Pediatric Hodgkin Lymphoma, Version 3.2021",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Radiation has been a cornerstone of HL therapy since the early 1900s ref [21].",
+    "refNo": 21,
+    "title": "Pediatric Hodgkin Lymphoma, Version 3.2021",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "However, because of the high survivability of the disease (the 5-year relative survival for patients diagnosed with cHL at age 0-19 years is higher than 95% ref [22]) and the high rate of long-term side effects, efforts have been made in recent years to reduce the usage of radiation in pediatric populations ref [24].",
+    "refNo": 22,
+    "title": "Pediatric Hodgkin lymphoma: Biomarkers, drugs, and clinical trials for translational science and medicine",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "However, because of the high survivability of the disease (the 5-year relative survival for patients diagnosed with cHL at age 0-19 years is higher than 95% ref [22]) and the high rate of long-term side effects, efforts have been made in recent years to reduce the usage of radiation in pediatric populations ref [24].",
+    "refNo": 24,
+    "title": "Childhood Hodgkin International Prognostic Score (CHIPS) predicts event-free survival in Hodgkin lymphoma: A report from the Children's Oncology Group. Pediatr",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "An essential management concept for pediatric cHL in both North America and Europe is to base the intensity of therapy on the disease's risk stratification ref [26].",
+    "refNo": 26,
+    "title": "Risk-adapted chemoimmunotherapy using brentuximab vedotin and rituximab in children, adolescents, and young adults with newly diagnosed Hodgkin's lymphoma: A phase, I.I.; non-randomized controlled trial",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "This approach aims to reduce the long-term adverse effects associated with the use of radiotherapy in pediatric populations ref [26].",
+    "refNo": 26,
+    "title": "Risk-adapted chemoimmunotherapy using brentuximab vedotin and rituximab in children, adolescents, and young adults with newly diagnosed Hodgkin's lymphoma: A phase, I.I.; non-randomized controlled trial",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "To improve outcomes in higher-risk patients, both study groups have switched to lower radiotherapy volumes that target the highest-risk locations using highly conformal methods; these lower radiotherapy volumes are combined with normal or intensified chemotherapy regimens ref [26], ref [9].",
+    "refNo": 26,
+    "title": "Risk-adapted chemoimmunotherapy using brentuximab vedotin and rituximab in children, adolescents, and young adults with newly diagnosed Hodgkin's lymphoma: A phase, I.I.; non-randomized controlled trial",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "To improve outcomes in higher-risk patients, both study groups have switched to lower radiotherapy volumes that target the highest-risk locations using highly conformal methods; these lower radiotherapy volumes are combined with normal or intensified chemotherapy regimens ref [26], ref [9].",
+    "refNo": 9,
+    "title": "Epstein-Barr virus DNA is abundant and monoclonal in the Reed-Sternberg cells of Hodgkin's disease: Association with mixed cellularity subtype and Hispanic American ethnicity",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Immunoregulatory medications are currently being studied in ongoing trials due to the potential acute toxicity of increased chemotherapy ref [22], ref [15].",
+    "refNo": 22,
+    "title": "Pediatric Hodgkin lymphoma: Biomarkers, drugs, and clinical trials for translational science and medicine",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Immunoregulatory medications are currently being studied in ongoing trials due to the potential acute toxicity of increased chemotherapy ref [22], ref [15].",
+    "refNo": 15,
+    "title": "NF-κB deregulation in Hodgkin lymphoma",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Low risk Ann Arbor stages IA and IIA Non-bulky disease No B signs/symptoms Four cycles of VAMP plus LD-IFRT for those who achieve a complete response ref [24].",
+    "refNo": 24,
+    "title": "Childhood Hodgkin International Prognostic Score (CHIPS) predicts event-free survival in Hodgkin lymphoma: A report from the Children's Oncology Group. Pediatr",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "These signaling pathways have been well studied in adults, but limited studies have been carried out in pediatric patients ref [22].",
+    "refNo": 22,
+    "title": "Pediatric Hodgkin lymphoma: Biomarkers, drugs, and clinical trials for translational science and medicine",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "The researchers concluded that the NF-κB pathway is dysregulated in EBV-positive tumors, and they also noted that those patients with elevated levels of NF-κB pathway proteins had slow responses to therapy ref [20].",
+    "refNo": 20,
+    "title": "Dose-intensive response-based chemotherapy and radiation therapy for children and adolescents with newly diagnosed intermediate-risk hodgkin lymphoma: A report from the Children's Oncology Group Study AHOD0031",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Combined chemotherapy (i.e., chemotherapy with or without radiation therapy) remains the most commonly used treatment modality for HL patients across all age groups [15].",
+    "refNo": 15,
+    "title": "NF-κB deregulation in Hodgkin lymphoma",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Because of ongoing research and emerging molecular and cellular therapies, the treatment approaches have evolved over the past several decades [18] and are slightly different in adult and pediatric patients.",
+    "refNo": 18,
+    "title": "Hodgkin lymphoma: A 2020 update on diagnosis, risk-stratification, and management",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "For low-risk cHL (stage IA and IIA without bulk or extranodal extension), there is no unanimity in the COG regarding the optimal therapeutic regimen [15].",
+    "refNo": 15,
+    "title": "NF-κB deregulation in Hodgkin lymphoma",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "In the POG9226 trial, a 6-year event-free survival (EFS) rate of 91% was reported with four cycles of doxorubicin, bleomycin, vincristine, and etoposide (ABVE) followed by IFRT [109].",
+    "refNo": 109,
+    "title": "",
+    "marker_text": "[109]"
+  },
+  {
+    "sentence": "Some other regimens investigated in different studies for low-risk cHL include vinblastine, doxorubicin, methotrexate, and prednisone (VAMP; four cycles) [110] and cyclophosphamide, vincristine, procarbazine, and prednisone (COPP; four cycles) with low-dose IFRT; results have been adequate [111].",
+    "refNo": 110,
+    "title": "",
+    "marker_text": "[110]"
+  },
+  {
+    "sentence": "Some other regimens investigated in different studies for low-risk cHL include vinblastine, doxorubicin, methotrexate, and prednisone (VAMP; four cycles) [110] and cyclophosphamide, vincristine, procarbazine, and prednisone (COPP; four cycles) with low-dose IFRT; results have been adequate [111].",
+    "refNo": 111,
+    "title": "",
+    "marker_text": "[111]"
+  },
+  {
+    "sentence": "Later trials looked at the possibility of reducing the number of chemotherapy cycles [112].",
+    "refNo": 112,
+    "title": "",
+    "marker_text": "[112]"
+  },
+  {
+    "sentence": "Most patients with HL, particularly pediatric patients, are cured after undergoing treatment with first-line therapy options [15].",
+    "refNo": 15,
+    "title": "NF-κB deregulation in Hodgkin lymphoma",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Patients with advanced-stage cHL are more likely to relapse or have refractory disease and are challenging to treat [15].",
+    "refNo": 15,
+    "title": "NF-κB deregulation in Hodgkin lymphoma",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Rituximab is the standard of care for these diseases, and its use in combination chemotherapy has significantly increased patients' cure rates [15].",
+    "refNo": 15,
+    "title": "NF-κB deregulation in Hodgkin lymphoma",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "It is usually safe, has a tolerable adverse-effect profile, and is not associated with typical cytotoxic toxicities [15].",
+    "refNo": 15,
+    "title": "NF-κB deregulation in Hodgkin lymphoma",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "The programmed death-1 (PD-1) pathway is exploited by Reed–Sternberg cells to evade immune detection, driven by frequent 9p24.1 amplification leading to increased PD-L1 and PD-L2 expression [16].",
+    "refNo": 16,
+    "title": "Mutations of the tumor suppressor gene SOCS-1 in classical Hodgkin lymphoma are frequent and associated with nuclear phospho-STAT5 accumulation",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Nivolumab, a PD-1-blocking antibody, demonstrated an objective response rate of 87% in heavily pretreated patients with relapsed or refractory Hodgkin lymphoma [3].",
+    "refNo": 3,
+    "title": "Hodgkin lymphoma: Differences and differential diagnosis",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Pembrolizumab, another PD-1 inhibitor, has shown comparable efficacy and was granted accelerated FDA approval for pediatric and adult patients with relapsed/refractory cHL after autologous stem cell transplantation [19].",
+    "refNo": 19,
+    "title": "Recommendations for initial evaluation, staging, and response assessment of Hodgkin and non-Hodgkin lymphoma: The Lugano classification",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "In the KEYNOTE-204 trial, pembrolizumab conferred a significant progression-free survival advantage over brentuximab vedotin in patients with relapsed or refractory cHL [2].",
+    "refNo": 2,
+    "title": "A revised European-American classification of lymphoid neoplasms: A proposal from the International Lymphoma Study Group",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Furthermore, pembrolizumab was associated with improved health-related quality of life compared to brentuximab vedotin, with significant improvements in global health status and reduced time to deterioration [6].",
+    "refNo": 6,
+    "title": "Clinical, Molecular, and Environmental Risk Factors for Hodgkin Lymphoma",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "The combination of AFM13, a CD30/CD16A bispecific antibody, with pembrolizumab has also shown promising safety and preliminary efficacy in early-phase trials for relapsed/refractory HL, representing a novel immunotherapeutic strategy [7].",
+    "refNo": 7,
+    "title": "Risk factors for Hodgkin's lymphoma by EBV status and significance of detection of EBV genomes in serum of patients with EBV-associated Hodgkin's lymphoma",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "These advances have reshaped the treatment algorithm, with PD-1 inhibitors now central to both relapsed and first-line therapeutic strategies in cHL [18].",
+    "refNo": 18,
+    "title": "Hodgkin lymphoma: A 2020 update on diagnosis, risk-stratification, and management",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "For adults with cHL, treatment is mainly guided by disease staging. ref [2].",
+    "refNo": 2,
+    "title": "A revised European-American classification of lymphoid neoplasms: A proposal from the International Lymphoma Study Group",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "The pediatric intermediate-risk HL population was investigated in the COG phase 3 trial AHOD0031, which evaluated early chemotherapy response assessments as a means of dictating subsequent therapy [75].",
+    "refNo": 75,
+    "title": "",
+    "marker_text": "[75]"
+  },
+  {
+    "sentence": "Overall, this trial concluded that additional chemotherapy can be supplemented in SERs with positive PET scans and that radiotherapy can be omitted in RERs with a complete response at the end of chemotherapy [75,116].",
+    "refNo": 75,
+    "title": "",
+    "marker_text": "[75]"
+  },
+  {
+    "sentence": "Overall, this trial concluded that additional chemotherapy can be supplemented in SERs with positive PET scans and that radiotherapy can be omitted in RERs with a complete response at the end of chemotherapy [75,116].",
+    "refNo": 116,
+    "title": "",
+    "marker_text": "[116]"
+  },
+  {
+    "sentence": "The conventional treatment for chemosensitive, relapsed cHL is reinduction (also known as salvage chemotherapy), followed by high-dose chemotherapy and autologous stem cell transplantation (HDC/ASCT), albeit the results for high-risk cHL relapse patients are still not ideal [7,130].",
+    "refNo": 7,
+    "title": "Risk factors for Hodgkin's lymphoma by EBV status and significance of detection of EBV genomes in serum of patients with EBV-associated Hodgkin's lymphoma",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "The conventional treatment for chemosensitive, relapsed cHL is reinduction (also known as salvage chemotherapy), followed by high-dose chemotherapy and autologous stem cell transplantation (HDC/ASCT), albeit the results for high-risk cHL relapse patients are still not ideal [7,130].",
+    "refNo": 130,
+    "title": "",
+    "marker_text": "[130]"
+  },
+  {
+    "sentence": "Studies indicate that 50% to 65% of pediatric patients with R/R cHL achieve remission with this approach [7,131,132].",
+    "refNo": 7,
+    "title": "Risk factors for Hodgkin's lymphoma by EBV status and significance of detection of EBV genomes in serum of patients with EBV-associated Hodgkin's lymphoma",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Studies indicate that 50% to 65% of pediatric patients with R/R cHL achieve remission with this approach [7,131,132].",
+    "refNo": 131,
+    "title": "",
+    "marker_text": "[131]"
+  },
+  {
+    "sentence": "Studies indicate that 50% to 65% of pediatric patients with R/R cHL achieve remission with this approach [7,131,132].",
+    "refNo": 132,
+    "title": "",
+    "marker_text": "[132]"
+  },
+  {
+    "sentence": "However, to date, there is no gold-standard therapy available for this group of patients [130].",
+    "refNo": 130,
+    "title": "",
+    "marker_text": "[130]"
+  },
+  {
+    "sentence": "Standard-dose chemotherapy and radiotherapy may be used to treat some low-risk patients with late relapses and limited stage [7].",
+    "refNo": 7,
+    "title": "Risk factors for Hodgkin's lymphoma by EBV status and significance of detection of EBV genomes in serum of patients with EBV-associated Hodgkin's lymphoma",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Like adult patients, juvenile/pediatric patients have a dismal prognosis, which is correlated with a diagnosis-to-first-relapse interval of less than a year [7,133].",
+    "refNo": 7,
+    "title": "Risk factors for Hodgkin's lymphoma by EBV status and significance of detection of EBV genomes in serum of patients with EBV-associated Hodgkin's lymphoma",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Like adult patients, juvenile/pediatric patients have a dismal prognosis, which is correlated with a diagnosis-to-first-relapse interval of less than a year [7,133].",
+    "refNo": 133,
+    "title": "",
+    "marker_text": "[133]"
+  },
+  {
+    "sentence": "Additionally, patients who fail to respond to salvage regimens are deemed to have a worse outcome with HDC/ASCT in most cases [7].",
+    "refNo": 7,
+    "title": "Risk factors for Hodgkin's lymphoma by EBV status and significance of detection of EBV genomes in serum of patients with EBV-associated Hodgkin's lymphoma",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Thus, allogeneic stem cell transplantation (allo-SCT) or novel molecular therapies are called in as alternative options for treatment [7].",
+    "refNo": 7,
+    "title": "Risk factors for Hodgkin's lymphoma by EBV status and significance of detection of EBV genomes in serum of patients with EBV-associated Hodgkin's lymphoma",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "The importance of blocking PD-1 lies in its ability to suppress T-cell responses to tumors, leading to ineffective killing [171].",
+    "refNo": 171,
+    "title": "",
+    "marker_text": "[171]"
+  },
+  {
+    "sentence": "In fact, HL's overexpression of PD-L1 is thought to be a by-product of chromosome 9p24.1 amplification, a genetic aberration commonly seen in the nodular sclerosing form of HL [172].",
+    "refNo": 172,
+    "title": "",
+    "marker_text": "[172]"
+  },
+  {
+    "sentence": "Moreover, it has been demonstrated that PD-1 on the surface of T cells is a marker of T-cell exhaustion, especially in T cells that chronically interact with antigens [173].",
+    "refNo": 173,
+    "title": "",
+    "marker_text": "[173]"
+  },
+  {
+    "sentence": "For a long time, radiotherapy alone was the standard treatment option for adult early stage HL ref [36].",
+    "refNo": 36,
+    "title": "Low-dose radiation is sufficient for the noninvolved extended-field treatment in favorable early-stage Hodgkin's disease: Long-term results of a randomized trial of radiotherapy alone",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "Later on, chemotherapy was incorporated into treatment regimens once it was established that it was safe and efficacious and that, when it was given in combination with radiotherapy, the risks to the patient were less than those associated with the use of radiotherapy alone (e.g., cardiotoxicity, pulmonary disease, and secondary malignancies, the most dreaded long-term side effects) ref [37].",
+    "refNo": 37,
+    "title": "ABVD plus subtotal nodal versus involved-field radiotherapy in early-stage Hodgkin's disease: Long-term results",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "Four cycles of doxorubicin (adriamycin), bleomycin, vinblastine, and dacarbazine (ABVD) followed by involved-field radiotherapy (IFRT) at a dose of 36 Gy was the first recognized standard-of-care treatment for adults with early stage HL ref [37].",
+    "refNo": 37,
+    "title": "ABVD plus subtotal nodal versus involved-field radiotherapy in early-stage Hodgkin's disease: Long-term results",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "Studies later established that a slightly reduced IFRT dose of 20 Gy was equally effective ref [38].",
+    "refNo": 38,
+    "title": "Reduced treatment intensity in patients with early-stage Hodgkin's lymphoma",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "The Children's Cancer Group study 59704 assessed the effectiveness of treating pediatric high-risk cHL with upfront, intensified chemotherapy with BEACOPP ref [57,118].",
+    "refNo": 57,
+    "title": "",
+    "marker_text": "[57]"
+  },
+  {
+    "sentence": "The Children's Cancer Group study 59704 assessed the effectiveness of treating pediatric high-risk cHL with upfront, intensified chemotherapy with BEACOPP ref [57,118].",
+    "refNo": 118,
+    "title": "",
+    "marker_text": "[118]"
+  },
+  {
+    "sentence": "However, long-term toxicities from BEACOPP emerged as a concern ref [57,73,118].",
+    "refNo": 57,
+    "title": "",
+    "marker_text": "[57]"
+  },
+  {
+    "sentence": "However, long-term toxicities from BEACOPP emerged as a concern ref [57,73,118].",
+    "refNo": 73,
+    "title": "",
+    "marker_text": "[73]"
+  },
+  {
+    "sentence": "However, long-term toxicities from BEACOPP emerged as a concern ref [57,73,118].",
+    "refNo": 118,
+    "title": "",
+    "marker_text": "[118]"
+  },
+  {
+    "sentence": "Major factors increasing the risk of disease relapse after ASCT include active disease at the time of transplant, in addition to the high-risk features described earlier (e.g., the duration of remission after initial treatment (if <12 months, the risk of relapse is higher), primary refractory disease, the presence of B symptoms, and extranodal or bulky disease) ref [130,134,135,136,137,138,144,145,146].",
+    "refNo": 130,
+    "title": "",
+    "marker_text": "[130]"
+  },
+  {
+    "sentence": "Major factors increasing the risk of disease relapse after ASCT include active disease at the time of transplant, in addition to the high-risk features described earlier (e.g., the duration of remission after initial treatment (if <12 months, the risk of relapse is higher), primary refractory disease, the presence of B symptoms, and extranodal or bulky disease) ref [130,134,135,136,137,138,144,145,146].",
+    "refNo": 134,
+    "title": "",
+    "marker_text": "[134]"
+  },
+  {
+    "sentence": "Major factors increasing the risk of disease relapse after ASCT include active disease at the time of transplant, in addition to the high-risk features described earlier (e.g., the duration of remission after initial treatment (if <12 months, the risk of relapse is higher), primary refractory disease, the presence of B symptoms, and extranodal or bulky disease) ref [130,134,135,136,137,138,144,145,146].",
+    "refNo": 135,
+    "title": "",
+    "marker_text": "[135]"
+  },
+  {
+    "sentence": "Major factors increasing the risk of disease relapse after ASCT include active disease at the time of transplant, in addition to the high-risk features described earlier (e.g., the duration of remission after initial treatment (if <12 months, the risk of relapse is higher), primary refractory disease, the presence of B symptoms, and extranodal or bulky disease) ref [130,134,135,136,137,138,144,145,146].",
+    "refNo": 136,
+    "title": "",
+    "marker_text": "[136]"
+  },
+  {
+    "sentence": "Major factors increasing the risk of disease relapse after ASCT include active disease at the time of transplant, in addition to the high-risk features described earlier (e.g., the duration of remission after initial treatment (if <12 months, the risk of relapse is higher), primary refractory disease, the presence of B symptoms, and extranodal or bulky disease) ref [130,134,135,136,137,138,144,145,146].",
+    "refNo": 137,
+    "title": "",
+    "marker_text": "[137]"
+  },
+  {
+    "sentence": "Major factors increasing the risk of disease relapse after ASCT include active disease at the time of transplant, in addition to the high-risk features described earlier (e.g., the duration of remission after initial treatment (if <12 months, the risk of relapse is higher), primary refractory disease, the presence of B symptoms, and extranodal or bulky disease) ref [130,134,135,136,137,138,144,145,146].",
+    "refNo": 138,
+    "title": "",
+    "marker_text": "[138]"
+  },
+  {
+    "sentence": "Major factors increasing the risk of disease relapse after ASCT include active disease at the time of transplant, in addition to the high-risk features described earlier (e.g., the duration of remission after initial treatment (if <12 months, the risk of relapse is higher), primary refractory disease, the presence of B symptoms, and extranodal or bulky disease) ref [130,134,135,136,137,138,144,145,146].",
+    "refNo": 144,
+    "title": "",
+    "marker_text": "[144]"
+  },
+  {
+    "sentence": "Major factors increasing the risk of disease relapse after ASCT include active disease at the time of transplant, in addition to the high-risk features described earlier (e.g., the duration of remission after initial treatment (if <12 months, the risk of relapse is higher), primary refractory disease, the presence of B symptoms, and extranodal or bulky disease) ref [130,134,135,136,137,138,144,145,146].",
+    "refNo": 145,
+    "title": "",
+    "marker_text": "[145]"
+  },
+  {
+    "sentence": "Major factors increasing the risk of disease relapse after ASCT include active disease at the time of transplant, in addition to the high-risk features described earlier (e.g., the duration of remission after initial treatment (if <12 months, the risk of relapse is higher), primary refractory disease, the presence of B symptoms, and extranodal or bulky disease) ref [130,134,135,136,137,138,144,145,146].",
+    "refNo": 146,
+    "title": "",
+    "marker_text": "[146]"
+  },
+  {
+    "sentence": "Post-transplant maintenance and bridging therapies have been developed in an effort to minimize the aforementioned unfortunate risk of disease recurrence ref [144].",
+    "refNo": 144,
+    "title": "",
+    "marker_text": "[144]"
+  },
+  {
+    "sentence": "Patients who experience a relapse after ASCT have a grave prognosis, with a median survival rate of 2.4 years ref [186,187].",
+    "refNo": 186,
+    "title": "",
+    "marker_text": "[186]"
+  },
+  {
+    "sentence": "Patients who experience a relapse after ASCT have a grave prognosis, with a median survival rate of 2.4 years ref [186,187].",
+    "refNo": 187,
+    "title": "",
+    "marker_text": "[187]"
+  },
+  {
+    "sentence": "Allo-SCT in HL makes use of the graft-versus-lymphoma effect, as described by many studies, which is analogous to the graft-versus-leukemia effect seen in myeloid leukemias ref [144,188,189,190].",
+    "refNo": 144,
+    "title": "",
+    "marker_text": "[144]"
+  },
+  {
+    "sentence": "Allo-SCT in HL makes use of the graft-versus-lymphoma effect, as described by many studies, which is analogous to the graft-versus-leukemia effect seen in myeloid leukemias ref [144,188,189,190].",
+    "refNo": 188,
+    "title": "",
+    "marker_text": "[188]"
+  },
+  {
+    "sentence": "Allo-SCT in HL makes use of the graft-versus-lymphoma effect, as described by many studies, which is analogous to the graft-versus-leukemia effect seen in myeloid leukemias ref [144,188,189,190].",
+    "refNo": 189,
+    "title": "",
+    "marker_text": "[189]"
+  },
+  {
+    "sentence": "Allo-SCT in HL makes use of the graft-versus-lymphoma effect, as described by many studies, which is analogous to the graft-versus-leukemia effect seen in myeloid leukemias ref [144,188,189,190].",
+    "refNo": 190,
+    "title": "",
+    "marker_text": "[190]"
+  },
+  {
+    "sentence": "Advanced HL is usually treated with longer-duration chemotherapy alone (i.e., more cycles than are used for early stage disease [8]).",
+    "refNo": 8,
+    "title": "Family history of cancer and risk of pediatric and adolescent Hodgkin lymphoma: A Children's Oncology Group study",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Additional PET-guided radiotherapy (30 Gy) is reserved for patients with initial bulky or residual disease [92,95].",
+    "refNo": 92,
+    "title": "",
+    "marker_text": "[92]"
+  },
+  {
+    "sentence": "Additional PET-guided radiotherapy (30 Gy) is reserved for patients with initial bulky or residual disease [92,95].",
+    "refNo": 95,
+    "title": "",
+    "marker_text": "[95]"
+  },
+  {
+    "sentence": "With an aim of standardizing cHL treatment across all European countries, the EuroNet-PHL C1 and C2 studies established protocols using the ERA approach and chemotherapies rationalized to reduce long-term adverse effects, especially gonadal and cardiovascular toxicities [73,123].",
+    "refNo": 73,
+    "title": "",
+    "marker_text": "[73]"
+  },
+  {
+    "sentence": "With an aim of standardizing cHL treatment across all European countries, the EuroNet-PHL C1 and C2 studies established protocols using the ERA approach and chemotherapies rationalized to reduce long-term adverse effects, especially gonadal and cardiovascular toxicities [73,123].",
+    "refNo": 123,
+    "title": "",
+    "marker_text": "[123]"
+  },
+  {
+    "sentence": "Likewise, in the cyclophosphamide, vincristine, prednisone/prednisolone, and procarbazine (COPP) regimen, dacarbazine was substituted for procarbazine (COPDAC) for females during consolidation [57,114].",
+    "refNo": 57,
+    "title": "",
+    "marker_text": "[57]"
+  },
+  {
+    "sentence": "Likewise, in the cyclophosphamide, vincristine, prednisone/prednisolone, and procarbazine (COPP) regimen, dacarbazine was substituted for procarbazine (COPDAC) for females during consolidation [57,114].",
+    "refNo": 114,
+    "title": "",
+    "marker_text": "[114]"
+  },
+  {
+    "sentence": "PET-CT or PET-magnetic resonance imaging were used for ERA [73].",
+    "refNo": 73,
+    "title": "",
+    "marker_text": "[73]"
+  },
+  {
+    "sentence": "The HRS cells show high levels of CD30 expression, making them attractive therapeutic targets [108,150].",
+    "refNo": 108,
+    "title": "",
+    "marker_text": "[108]"
+  },
+  {
+    "sentence": "The HRS cells show high levels of CD30 expression, making them attractive therapeutic targets [108,150].",
+    "refNo": 150,
+    "title": "",
+    "marker_text": "[150]"
+  },
+  {
+    "sentence": "BV is an anti-CD30 antibody-drug conjugate that preferentially attacks CD30+ malignant HRS cells, causing their apoptosis [108].",
+    "refNo": 108,
+    "title": "",
+    "marker_text": "[108]"
+  },
+  {
+    "sentence": "Anti-CD19 CAR T-cell therapy is a groundbreaking innovation to combat R/R hematological malignancies, most commonly pediatric acute lymphoblastic leukemia [203].",
+    "refNo": 203,
+    "title": "",
+    "marker_text": "[203]"
+  },
+  {
+    "sentence": "Because nearly all current products such as axicabtagene ciloleucel and tisagenlecleucel target the CD19 marker in acute lymphoblastic leukemia and non-HL, an antigen not expressed in HL, there is a need to generate new CAR T-cell constructs to specifically target the antigens expressed on HL [203,204].",
+    "refNo": 203,
+    "title": "",
+    "marker_text": "[203]"
+  },
+  {
+    "sentence": "Because nearly all current products such as axicabtagene ciloleucel and tisagenlecleucel target the CD19 marker in acute lymphoblastic leukemia and non-HL, an antigen not expressed in HL, there is a need to generate new CAR T-cell constructs to specifically target the antigens expressed on HL [203,204].",
+    "refNo": 204,
+    "title": "",
+    "marker_text": "[204]"
+  },
+  {
+    "sentence": "In fact, Ramos et al. [205].",
+    "refNo": 205,
+    "title": "",
+    "marker_text": "[205]"
+  },
+  {
+    "sentence": "Several preclinical research studies are ongoing for HL investigating signaling pathways and the TME ref [47].",
+    "refNo": 47,
+    "title": "Targeting Cancer Cells and Tumor Microenvironment in Preclinical and Clinical Models of Hodgkin Lymphoma Using the Dual PI3Kδ/γ Inhibitor RP6530",
+    "marker_text": "[47]"
+  },
+  {
+    "sentence": "HL is a complex, multifactorial malignancy that primarily involves B cells ref [13].",
+    "refNo": 13,
+    "title": "Human CD30+ B cells represent a unique subset related to Hodgkin lymphoma cells",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "It accounts for approximately 7% of childhood cancers overall and 1% of childhood cancer deaths in the United States ref [10].",
+    "refNo": 10,
+    "title": "Molecular biology of Hodgkin lymphoma",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Most children diagnosed with HL are cured with first-line therapy options and have an excellent prognosis; the 5-year survival rate for early stage disease exceeds 90% ref [216].",
+    "refNo": 216,
+    "title": "",
+    "marker_text": "[216]"
+  },
+  {
+    "sentence": "For those individuals in whom initial therapy fails, several novel therapeutic approaches are available, including stem cell transplant, the use of monoclonal antibodies, chimeric antigen receptor T-cell therapy, and immunotherapy ref [129].",
+    "refNo": 129,
+    "title": "",
+    "marker_text": "[129]"
+  },
+  {
+    "sentence": "An estimated 40% of patients in whom traditional chemotherapy and radiation treatment regimens fail respond to these second-line therapies ref [129].",
+    "refNo": 129,
+    "title": "",
+    "marker_text": "[129]"
+  },
+  {
+    "sentence": "This risk remains elevated even decades after treatment ref [213].",
+    "refNo": 213,
+    "title": "",
+    "marker_text": "[213]"
+  },
+  {
+    "sentence": "For this reason, most childhood HL survivors require lifelong surveillance and cancer risk reduction strategies ref [213].",
+    "refNo": 213,
+    "title": "",
+    "marker_text": "[213]"
+  },
+  {
+    "sentence": "However, as therapies continue to evolve and become more narrowly tailored in pediatric populations, it is likely that the rates of organ toxicities, late mortality, and secondary malignancies will continue to decline ref [214].",
+    "refNo": 214,
+    "title": "",
+    "marker_text": "[214]"
+  },
+  {
+    "sentence": "Long-term survivors of HL are at high risk of various organ toxicities secondary to their therapeutic regimens ref [48].",
+    "refNo": 48,
+    "title": "Hodgkin lymphoma: Late effects of treatment and guidelines for surveillance",
+    "marker_text": "[48]"
+  },
+  {
+    "sentence": "In addition to organ damage, survivors of childhood HL have a nearly 20-fold increased risk of developing a second malignancy ref [48].",
+    "refNo": 48,
+    "title": "Hodgkin lymphoma: Late effects of treatment and guidelines for surveillance",
+    "marker_text": "[48]"
+  },
+  {
+    "sentence": "The most common secondary malignancies in patients with HL are breast and thyroid cancers, acute myeloid leukemia, and soft-tissue sarcomas ref [48].",
+    "refNo": 48,
+    "title": "Hodgkin lymphoma: Late effects of treatment and guidelines for surveillance",
+    "marker_text": "[48]"
+  },
+  {
+    "sentence": "This risk remains elevated even decades after treatment ref [48].",
+    "refNo": 48,
+    "title": "Hodgkin lymphoma: Late effects of treatment and guidelines for surveillance",
+    "marker_text": "[48]"
+  },
+  {
+    "sentence": "For this reason, most of these patients require lifelong surveillance and risk-reduction strategies ref [48].",
+    "refNo": 48,
+    "title": "Hodgkin lymphoma: Late effects of treatment and guidelines for surveillance",
+    "marker_text": "[48]"
+  },
+  {
+    "sentence": "Fortunately, as therapies have evolved and become more narrowly tailored in pediatric populations, the rates of organ toxicities, late mortality, and secondary malignancies have begun to decline ref [48].",
+    "refNo": 48,
+    "title": "Hodgkin lymphoma: Late effects of treatment and guidelines for surveillance",
+    "marker_text": "[48]"
+  },
+  {
+    "sentence": "Long-term adverse events secondary to HL therapy ref [48].",
+    "refNo": 48,
+    "title": "Hodgkin lymphoma: Late effects of treatment and guidelines for surveillance",
+    "marker_text": "[48]"
+  }
+]

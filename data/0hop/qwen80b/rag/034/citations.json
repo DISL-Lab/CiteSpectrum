@@ -1,0 +1,758 @@
+[
+  {
+    "sentence": "Under energy-deprived conditions, AMPK activates autophagy by directly phosphorylating ULK1 and inhibiting mTORC1, thereby promoting autophagosome biogenesis ref [4].",
+    "refNo": 4,
+    "title": "Molecular regulation of autophagy and its implications for metabolic diseases",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Beyond canonical pathways, autophagy intersects with lipid metabolism through selective degradation of lipid droplets, a process termed lipophagy, which modulates cellular energy balance and is tightly regulated by autophagic machinery ref [5].",
+    "refNo": 5,
+    "title": "Cannabinoid CB1 and CB2 Receptor Signaling and Bias",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Furthermore, autophagy collaborates with the ubiquitin-proteasome system to clear protein aggregates and damaged mitochondria, with cross-talk extending to DNA repair mechanisms that influence genomic stability ref [9].",
+    "refNo": 9,
+    "title": "Allosteric Modulators of the CB1 Cannabinoid Receptor: A Structural Update Review",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "These integrated networks position autophagy as a central node in cellular stress adaptation, with implications spanning metabolic regulation, inflammation, and disease pathogenesis ref [12].",
+    "refNo": 12,
+    "title": "Cannabis for the Management of Cancer Symptoms: THC Version 2.0?",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Cannabinoid receptor bias toward specific G-protein or β-arrestin pathways can differentially regulate autophagy initiation and lysosomal degradation, offering a mechanistic basis for their pleiotropic effects in disease states ref [6].",
+    "refNo": 6,
+    "title": "An Update on Non-CB1, Non-CB2 Cannabinoid Related G-Protein-Coupled Receptors",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Moreover, non-CB1/CB2 cannabinoid receptors, such as GPR55 and TRPV1, have emerged as novel modulators of autophagic activity, expanding the scope of endocannabinoid system involvement beyond classical signaling ref [11].",
+    "refNo": 11,
+    "title": "Oral Ingestion of Cannabis sativa: Risks, Benefits, and Effects on Malaria-Infected Hosts",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Studies comparing oral versus smoked cannabis administration reveal marked differences in plasma and oral fluid cannabinoid ratios, suggesting that delivery method may dictate autophagic outcomes in target tissues ref [5].",
+    "refNo": 5,
+    "title": "Cannabinoid CB1 and CB2 Receptor Signaling and Bias",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Long-term cannabis use, particularly during adolescence, is associated with persistent alterations in stress response pathways that may dysregulate autophagy, contributing to neurodevelopmental and psychiatric vulnerabilities ref [7].",
+    "refNo": 7,
+    "title": "Oral fluid/plasma cannabinoid ratios following controlled oral THC and smoked cannabis administration",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Structural insights into allosteric modulators of CB1 reveal conformational changes that alter downstream autophagy-related gene expression, offering novel targets for pharmacological intervention ref [10].",
+    "refNo": 10,
+    "title": "The Influence of DAT1, COMT, and BDNF Genetic Polymorphisms on Total and Subregional Hippocampal Volumes in Early Onset Heavy Cannabis Users",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "In neurological contexts, chronic cannabis exposure has been linked to altered hippocampal volumes and impaired autophagic clearance, particularly in individuals with genetic polymorphisms in DAT1, COMT, and BDNF, suggesting a gene-environment interaction that disrupts proteostasis ref [12].",
+    "refNo": 12,
+    "title": "Cannabis for the Management of Cancer Symptoms: THC Version 2.0?",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Furthermore, oral ingestion of Cannabis sativa has been shown to modulate autophagic responses in infectious settings, such as malaria, where it may either enhance pathogen clearance or exacerbate host cell damage depending on dosage and timing ref [5].",
+    "refNo": 5,
+    "title": "Cannabinoid CB1 and CB2 Receptor Signaling and Bias",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "In cancer, THC-mediated autophagy induction has been proposed as a double-edged sword—promoting tumor cell death in some contexts while enabling survival under therapeutic stress ref [6].",
+    "refNo": 6,
+    "title": "An Update on Non-CB1, Non-CB2 Cannabinoid Related G-Protein-Coupled Receptors",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Cannabinoids like THC and anandamide can trigger autophagy in immune cells, contributing to immunosuppressive effects via induction of apoptosis and lysosomal degradation, as demonstrated in studies linking cannabinoid-induced autophagy to immune cell homeostasis ref [6].",
+    "refNo": 6,
+    "title": "An Update on Non-CB1, Non-CB2 Cannabinoid Related G-Protein-Coupled Receptors",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Moreover, cannabidiol (CBD), acting independently of classical cannabinoid receptors, has been shown to modulate autophagy through PPARγ and TRPV1 pathways, offering a broad spectrum of cytoprotective and anti-inflammatory actions ref [15].",
+    "refNo": 15,
+    "title": "Ligands that target cannabinoid receptors in the brain: from THC to anandamide and beyond",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Emerging evidence suggests that chronic cannabis use alters circadian and sleep-related stress responses, which in turn may dysregulate autophagic rhythms, particularly in neurons and glial cells ref [14].",
+    "refNo": 14,
+    "title": "Cannabidiol: from an inactive cannabinoid to a drug with wide spectrum of action.",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "The complex interplay between cannabinoid ligands and autophagy underscores the need to consider non-canonical signaling in autophagic regulation, especially in the context of neuroinflammation and metabolic stress ref [16].",
+    "refNo": 16,
+    "title": "Cannabinoid-induced apoptosis in immune cells as a pathway to immunosuppression.",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Endocannabinoids such as anandamide and 2-arachidonoylglycerol act through CB1 and CB2 receptors to influence mTOR and AMPK pathways, thereby regulating autophagosome formation and lysosomal degradation ref [17].",
+    "refNo": 17,
+    "title": "The endogenous cannabinoid system",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Emerging evidence indicates that cannabinoid receptor activation can induce autophagy in neuronal and immune cells, offering a mechanistic link to neuroprotection and immunomodulation ref [10].",
+    "refNo": 10,
+    "title": "The Influence of DAT1, COMT, and BDNF Genetic Polymorphisms on Total and Subregional Hippocampal Volumes in Early Onset Heavy Cannabis Users",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Notably, cannabidiol (CBD), a non-psychoactive phytocannabinoid, promotes autophagy independently of classical cannabinoid receptors, potentially via TRPV1 activation and ER stress induction, suggesting alternative signaling nodes for therapeutic targeting ref [19].",
+    "refNo": 19,
+    "title": "Endocannabinoids in the Gut",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "The gut microbiome–endocannabinoid axis further extends autophagy regulation, with gut-derived endocannabinoids modulating intestinal epithelial autophagy to maintain barrier integrity and mitigate inflammation ref [21].",
+    "refNo": 21,
+    "title": "Regulatory Status of Cannabidiol in the United States: A Perspective",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Moreover, the pharmacological diversity of cannabinoid formulations—including synthetic analogs and hempseed-derived nutraceuticals—offers novel avenues to modulate autophagy in a tissue-specific manner ref [7].",
+    "refNo": 7,
+    "title": "Oral fluid/plasma cannabinoid ratios following controlled oral THC and smoked cannabis administration",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Regulatory frameworks for CBD-based therapeutics, while evolving, must account for these mechanistic complexities to ensure safe and effective clinical translation ref [8].",
+    "refNo": 8,
+    "title": "Evidence for the Risks and Consequences of Adolescent Cannabis Exposure.",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Ref [1] highlights how autophagic pathways intersect with pattern recognition receptors to limit HIV replication in neural cells, while ref [20] underscores the dual role of macrophages as both reservoirs and effectors in autophagy-mediated viral control.",
+    "refNo": 1,
+    "title": "AMPK: energy sensor and survival mechanism in the ischemic heart.",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Ref [1] highlights how autophagic pathways intersect with pattern recognition receptors to limit HIV replication in neural cells, while ref [20] underscores the dual role of macrophages as both reservoirs and effectors in autophagy-mediated viral control.",
+    "refNo": 20,
+    "title": "Chemical composition and nutraceutical properties of hempseed: an ancient food with actual functional value",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Ref [22] and ref [24] demonstrate that F. tularensis manipulates autophagic flux to retrieve amino acids and other metabolites, enabling replication within host cells despite immune surveillance.",
+    "refNo": 22,
+    "title": "Endocannabinoid System: A Multi-Facet Therapeutic Target.",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Ref [22] and ref [24] demonstrate that F. tularensis manipulates autophagic flux to retrieve amino acids and other metabolites, enabling replication within host cells despite immune surveillance.",
+    "refNo": 24,
+    "title": "Macrophages and HIV-1.",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Emerging evidence suggests that cannabinoids, particularly cannabidiol (CBD), may influence autophagic responses during infection by regulating stress-induced signaling pathways, although the precise mechanisms remain under investigation ref [7].",
+    "refNo": 7,
+    "title": "Oral fluid/plasma cannabinoid ratios following controlled oral THC and smoked cannabis administration",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Moreover, the broader pharmacological profile of cannabis-derived compounds, including their effects on immune cell function and inflammatory cytokine production, may indirectly alter autophagic outcomes in infected tissues ref [5].",
+    "refNo": 5,
+    "title": "Cannabinoid CB1 and CB2 Receptor Signaling and Bias",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "The entourage effect—where whole-plant extracts exert distinct biological effects compared to isolated cannabinoids—further complicates predictions of autophagy modulation in infectious contexts ref [9].",
+    "refNo": 9,
+    "title": "Allosteric Modulators of the CB1 Cannabinoid Receptor: A Structural Update Review",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Recent evidence suggests that oral ingestion of Cannabis sativa may modulate autophagic flux in malaria-infected hosts, influencing both parasite clearance and inflammatory responses, though the precise molecular interplay remains under investigation ref [5].",
+    "refNo": 5,
+    "title": "Cannabinoid CB1 and CB2 Receptor Signaling and Bias",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "For instance, the distinct receptor interactions of Δ8THC, CBD, and HU-308 have been shown to differentially regulate inflammatory pathways that intersect with autophagic flux, offering potential for targeted immunomodulation in infections involving chronic inflammation ref [9].",
+    "refNo": 9,
+    "title": "Allosteric Modulators of the CB1 Cannabinoid Receptor: A Structural Update Review",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Moreover, the broader therapeutic potential of cannabinoid formulations, including their routes of administration and pharmacokinetics, may influence the timing and efficacy of autophagy-dependent antimicrobial responses ref [6].",
+    "refNo": 6,
+    "title": "An Update on Non-CB1, Non-CB2 Cannabinoid Related G-Protein-Coupled Receptors",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Chronic exposure to Δ9-THC during adolescence has been linked to long-term dysregulation of immune and autophagic homeostasis, which may predispose individuals to impaired pathogen control; notably, concurrent CBD administration mitigates these effects, suggesting a protective role for non-psychoactive cannabinoids in preserving autophagic integrity ref [11].",
+    "refNo": 11,
+    "title": "Oral Ingestion of Cannabis sativa: Risks, Benefits, and Effects on Malaria-Infected Hosts",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "The multi-faceted nature of the ECS as a therapeutic target further implies that fine-tuning endocannabinoid tone—via modulation of synthesis, degradation, or receptor signaling—could represent a novel strategy to enhance host defense without inducing immunosuppression ref [10].",
+    "refNo": 10,
+    "title": "The Influence of DAT1, COMT, and BDNF Genetic Polymorphisms on Total and Subregional Hippocampal Volumes in Early Onset Heavy Cannabis Users",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "The context-dependent nature of autophagy in cancer is further complicated by its interplay with ubiquitination and DNA repair pathways, where autophagic clearance of damaged proteins and repair factors can either facilitate or impede genomic integrity ref [9].",
+    "refNo": 9,
+    "title": "Allosteric Modulators of the CB1 Cannabinoid Receptor: A Structural Update Review",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Moreover, autophagy supports oncogenic metabolism by recycling cellular components to fuel biosynthetic pathways, particularly in KRAS-driven tumors where metabolic stress is pronounced ref [14].",
+    "refNo": 14,
+    "title": "Cannabidiol: from an inactive cannabinoid to a drug with wide spectrum of action.",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "The metabolic flexibility conferred by autophagy also allows tumor cells to evade energy crisis-induced apoptosis, reinforcing its role as a survival mechanism under therapy-induced stress ref [3].",
+    "refNo": 3,
+    "title": "The Cross Talk among Autophagy, Ubiquitination, and DNA Repair: An Overview",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "While cannabinoids have been explored for their antitumor effects, their interaction with autophagic pathways remains poorly defined, though preliminary data suggest potential modulation of autophagic flux in cancer cells ref [57].",
+    "refNo": 57,
+    "title": "Cannabinoid Compounds for Type 2 Diabetes",
+    "marker_text": "[57]"
+  },
+  {
+    "sentence": "Ref [42] demonstrates that specific synthetic cannabinoids trigger autophagy-dependent cell death in colorectal cancer cell lines, suggesting a potential therapeutic window when combined with conventional agents.",
+    "refNo": 42,
+    "title": "Population-Based Input Function Modeling for [18F]FMPEP-d 2, an Inverse Agonist Radioligand for Cannabinoid CB1 Receptors: Validation in Clinical Studies",
+    "marker_text": "[42]"
+  },
+  {
+    "sentence": "Conversely, the synergistic interaction of cannabis-derived compounds, as reported in ref [21], reveals that combinatorial phytochemical exposure can override autophagy-mediated survival by inducing apoptosis-related gene expression, thereby sensitizing resistant colon polyps to treatment.",
+    "refNo": 21,
+    "title": "Regulatory Status of Cannabidiol in the United States: A Perspective",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "The entourage effect, where whole-plant extracts outperform isolated cannabinoids, may also influence autophagic outcomes—ref [9] shows that botanical cannabis preparations induce more robust tumor suppression in breast cancer models than pure Δ9-THC, potentially through coordinated modulation of autophagy and apoptosis pathways.",
+    "refNo": 9,
+    "title": "Allosteric Modulators of the CB1 Cannabinoid Receptor: A Structural Update Review",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "In palliative settings, while cannabis use is primarily aimed at symptom relief, its impact on autophagy in tumor microenvironments remains underexplored, though ref [52] highlights the need to consider long-term autophagic consequences in patients receiving chronic cannabinoid therapy.",
+    "refNo": 52,
+    "title": "The endocannabinoid system and the brain.",
+    "marker_text": "[52]"
+  },
+  {
+    "sentence": "Ref [40] posits that cannabis-derived compounds could address deficits in conventional anticancer therapies by targeting autophagy-dependent survival pathways, while ref [6] highlights the potential of THC-based formulations to modulate tumor microenvironmental stress responses.",
+    "refNo": 40,
+    "title": "The effects of Δ9-tetrahydrocannabinol on the dopamine system",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "Ref [40] posits that cannabis-derived compounds could address deficits in conventional anticancer therapies by targeting autophagy-dependent survival pathways, while ref [6] highlights the potential of THC-based formulations to modulate tumor microenvironmental stress responses.",
+    "refNo": 6,
+    "title": "An Update on Non-CB1, Non-CB2 Cannabinoid Related G-Protein-Coupled Receptors",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "For instance, Δ9-tetrahydrocannabinol (THC) has been shown to alter dopamine signaling, which indirectly affects cellular stress responses and autophagic regulation, potentially impacting tumor cell survival under genotoxic stress ref [10].",
+    "refNo": 10,
+    "title": "The Influence of DAT1, COMT, and BDNF Genetic Polymorphisms on Total and Subregional Hippocampal Volumes in Early Onset Heavy Cannabis Users",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Furthermore, the broader endocannabinoid landscape, including non-THC cannabinoids, may modulate autophagy via alternative receptors, offering novel therapeutic avenues ref [8].",
+    "refNo": 8,
+    "title": "Evidence for the Risks and Consequences of Adolescent Cannabis Exposure.",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Recent pharmacological studies using inverse agonist radioligands like [18F]FMPEP-d2 have enabled precise in vivo mapping of CB1 receptor occupancy, revealing how chronic cannabinoid exposure alters autophagic dynamics in neural and tumor tissues ref [12].",
+    "refNo": 12,
+    "title": "Cannabis for the Management of Cancer Symptoms: THC Version 2.0?",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Additionally, population-based data on cannabidiol (CBD) users suggest variable autophagic responses across individuals, potentially influenced by genetic and metabolic heterogeneity ref [11].",
+    "refNo": 11,
+    "title": "Oral Ingestion of Cannabis sativa: Risks, Benefits, and Effects on Malaria-Infected Hosts",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Ref [39] highlights the dual role of cannabinoids in skin neoplasms, where autophagy activation correlates with reduced tumor viability and enhanced apoptosis, suggesting a context-dependent interplay between endocannabinoid signaling and autophagic clearance of damaged organelles.",
+    "refNo": 39,
+    "title": "Cannabis : A Prehistoric Remedy for the Deficits of Existing and Emerging Anticancer Therapies",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "Genetic studies have linked mutations in autophagy-related genes, including optineurin, to familial forms of glaucoma and ALS, highlighting the broader relevance of autophagic regulation in neurodegeneration ref [16].",
+    "refNo": 16,
+    "title": "Cannabinoid-induced apoptosis in immune cells as a pathway to immunosuppression.",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Emerging evidence also implicates autophagic lipolysis in neuronal energy homeostasis, suggesting that lipid droplet turnover via autophagy may influence neurodegenerative progression ref [5].",
+    "refNo": 5,
+    "title": "Cannabinoid CB1 and CB2 Receptor Signaling and Bias",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Dysregulated autophagy in peripheral tissues—such as adipose and liver—can exacerbate neuroinflammation through cytokine release and metabolic dysfunction ref [12].",
+    "refNo": 12,
+    "title": "Cannabis for the Management of Cancer Symptoms: THC Version 2.0?",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Mitochondrial dysfunction, a common feature in both metabolic and neurodegenerative diseases, is increasingly recognized as a nexus of autoinflammatory signaling, where defective mitophagy amplifies NLRP3 inflammasome activation ref [18].",
+    "refNo": 18,
+    "title": "Cannabidiol reverses attentional bias to cigarette cues in a human experimental model of tobacco withdrawal",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "The structure-activity relationships of cannabis-derived compounds reveal that specific cannabinoids can enhance autophagic clearance of toxic aggregates in neuronal models, offering a mechanistic basis for their therapeutic potential in neuronal activity-related diseases ref [49].",
+    "refNo": 49,
+    "title": "Structure-Activity Relationship of Cannabis Derived Compounds for the Treatment of Neuronal Activity-Related Diseases",
+    "marker_text": "[49]"
+  },
+  {
+    "sentence": "Furthermore, cannabinoid-mediated suppression of pro-inflammatory cytokines, including TNF-α and type I interferons, may indirectly support autophagic function by reducing chronic inflammatory stress that impairs lysosomal degradation ref [54].",
+    "refNo": 54,
+    "title": "Cannabidiol in medical marijuana: Research vistas and potential opportunities",
+    "marker_text": "[54]"
+  },
+  {
+    "sentence": "The expression of cannabinoid receptors in non-neuronal tissues, such as osteoarthritic cartilage, underscores the broader relevance of endocannabinoid signaling in tissue homeostasis and degenerative processes ref [58].",
+    "refNo": 58,
+    "title": "Therapeutic effects of cannabinoids in animal models of seizures, epilepsy, epileptogenesis, and epilepsy-related neuroprotection.",
+    "marker_text": "[58]"
+  },
+  {
+    "sentence": "Interestingly, the metabolic effects of cannabis use, including reduced body mass index and altered energy balance, may reflect systemic modulation of autophagy in metabolic tissues, potentially linking cannabinoid exposure to improved cellular quality control across organ systems ref [16].",
+    "refNo": 16,
+    "title": "Cannabinoid-induced apoptosis in immune cells as a pathway to immunosuppression.",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "The neurobiological impact of cannabis, particularly its influence on synaptic pruning and glial function, further implicates autophagy as a downstream effector in maintaining neural circuit integrity ref [34].",
+    "refNo": 34,
+    "title": "Inflammation as a driver and vulnerability of KRAS mediated oncogenesis.",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "Emerging evidence suggests that cannabinoid modulation of autophagy may influence neuroinflammatory processes in MS, as demonstrated by [18F]-fluorodeoxyglucose PET studies linking cannabis use to altered metabolic activity in brain regions affected by demyelination ref [31].",
+    "refNo": 31,
+    "title": "The Cannabinoids Δ8THC, CBD, and HU-308 Act via Distinct Receptors to Reduce Corneal Pain and Inflammation",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "The endocannabinoid system, which regulates synaptic plasticity and microglial activation, intersects with autophagic pathways to modulate neuroprotection and clearance of misfolded proteins ref [24].",
+    "refNo": 24,
+    "title": "Macrophages and HIV-1.",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Furthermore, cannabidiol (CBD), through its non-psychotropic actions, has been shown to enhance lysosomal function and reduce oxidative stress in neural tissues, potentially supporting autophagic clearance of toxic aggregates ref [35].",
+    "refNo": 35,
+    "title": "Cannabis and cancer: toward a new understanding.",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "Clinical observations of reduced symptom severity in treatment-resistant syndromes such as migraine and fibromyalgia have been hypothesized to stem from restoration of endocannabinoid tone, which may indirectly normalize autophagic flux ref [37].",
+    "refNo": 37,
+    "title": "Synthetic Cannabinoid Activity Against Colorectal Cancer Cells",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "Cannabinoid compounds have been proposed to improve insulin sensitivity and mitochondrial quality control in type 2 diabetes, partly through autophagy-mediated removal of damaged organelles ref [56].",
+    "refNo": 56,
+    "title": "Exploring the potential use of Cannabis sativa extract in ameliorating retinopathy",
+    "marker_text": "[56]"
+  },
+  {
+    "sentence": "Similarly, Cannabis sativa extracts show promise in ameliorating retinal degeneration in diabetic retinopathy by promoting autophagic clearance of accumulated lipids and protein aggregates ref [49].",
+    "refNo": 49,
+    "title": "Structure-Activity Relationship of Cannabis Derived Compounds for the Treatment of Neuronal Activity-Related Diseases",
+    "marker_text": "[49]"
+  },
+  {
+    "sentence": "Cannabinoids, particularly cannabidiol (CBD), have been shown to enhance autophagy in preclinical models of epilepsy and seizure-related neurodegeneration, thereby reducing neuronal loss and epileptogenesis ref [26].",
+    "refNo": 26,
+    "title": "Nutritional virulence of Francisella tularensis",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "Furthermore, cannabinoid receptor activation has been linked to the suppression of neuroinflammatory cascades, which are known to impair autophagic clearance in conditions such as schizophrenia and multiple sclerosis ref [48].",
+    "refNo": 48,
+    "title": "Cannabis and the brain.",
+    "marker_text": "[48]"
+  },
+  {
+    "sentence": "The broader neuropharmacological profile of cannabinoids, including their effects on excitotoxicity and oxidative stress, positions them as potential modulators of autophagy-dependent neuroprotection ref [40].",
+    "refNo": 40,
+    "title": "The effects of Δ9-tetrahydrocannabinol on the dopamine system",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "Clinical observations in neuropathic pain and multiple sclerosis support the therapeutic potential of cannabinoid-based interventions that may indirectly restore autophagic balance ref [37].",
+    "refNo": 37,
+    "title": "Synthetic Cannabinoid Activity Against Colorectal Cancer Cells",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "Ref [24] highlights CB2 receptors as novel targets for dampening neuroinflammatory cascades that impair autophagic efficiency, while ref [30] underscores the broader therapeutic potential of cannabinoids in movement disorders by restoring proteostatic balance.",
+    "refNo": 24,
+    "title": "Macrophages and HIV-1.",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Ref [24] highlights CB2 receptors as novel targets for dampening neuroinflammatory cascades that impair autophagic efficiency, while ref [30] underscores the broader therapeutic potential of cannabinoids in movement disorders by restoring proteostatic balance.",
+    "refNo": 30,
+    "title": "SY14-5CANNABIS USE DISORDERS: LATEST DATA ON CANNABINOID FORMULATIONS, ROUTES OF ADMINISTRATION AND TREATMENT",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "Cannabidiol (CBD), in particular, has been demonstrated to regulate the circadian clock core complex in microglia, thereby indirectly enhancing autophagic rhythms critical for neuronal survival, as detailed in ref [57].",
+    "refNo": 57,
+    "title": "Cannabinoid Compounds for Type 2 Diabetes",
+    "marker_text": "[57]"
+  },
+  {
+    "sentence": "The neuroprotective effects of cannabinoids extend beyond receptor-mediated signaling; ref [15] and ref [59] report clinical and preclinical improvements in Parkinson’s disease and multiple sclerosis symptoms, respectively, correlating with reduced protein aggregation and enhanced lysosomal degradation.",
+    "refNo": 15,
+    "title": "Ligands that target cannabinoid receptors in the brain: from THC to anandamide and beyond",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "The neuroprotective effects of cannabinoids extend beyond receptor-mediated signaling; ref [15] and ref [59] report clinical and preclinical improvements in Parkinson’s disease and multiple sclerosis symptoms, respectively, correlating with reduced protein aggregation and enhanced lysosomal degradation.",
+    "refNo": 59,
+    "title": "Meta-analysis of cannabis based treatments for neuropathic and multiple sclerosis-related pain",
+    "marker_text": "[59]"
+  },
+  {
+    "sentence": "Furthermore, ref [56] provides a comprehensive overview of endocannabinoid dynamics in nervous system health, emphasizing their role in maintaining tissue homeostasis through autophagy-dependent mechanisms.",
+    "refNo": 56,
+    "title": "Exploring the potential use of Cannabis sativa extract in ameliorating retinopathy",
+    "marker_text": "[56]"
+  },
+  {
+    "sentence": "Ref [40] suggests that cannabinoids may mitigate chronic neuroinflammation by suppressing pro-inflammatory cytokine release, a process that otherwise suppresses autophagic activity.",
+    "refNo": 40,
+    "title": "The effects of Δ9-tetrahydrocannabinol on the dopamine system",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "Caloric restriction and intermittent fasting, for instance, activate autophagy via AMPK signaling and mTOR inhibition, enhancing cellular clearance and metabolic homeostasis, as evidenced by its role in cardiomyocyte adaptation to metabolic stress ref [11].",
+    "refNo": 11,
+    "title": "Oral Ingestion of Cannabis sativa: Risks, Benefits, and Effects on Malaria-Infected Hosts",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "The interplay between nutrient sensing and autophagy is further underscored by the regulation of autophagic lipolysis, which governs lipid droplet turnover and energy balance ref [1].",
+    "refNo": 1,
+    "title": "AMPK: energy sensor and survival mechanism in the ischemic heart.",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Aging exacerbates these dysregulations, particularly in the lung, where declining autophagy impairs defense against environmental insults and increases vulnerability to respiratory diseases ref [25].",
+    "refNo": 25,
+    "title": "Targeting nutrient retrieval by Francisella tularensis",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Moreover, autophagy's dual role in tumorigenesis—acting as a tumor suppressor early but promoting survival in established tumors—highlights its context-dependent modulation by lifestyle ref [2].",
+    "refNo": 2,
+    "title": "Regulation and Functions of Autophagic Lipolysis.",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Adolescent exposure to Δ9-tetrahydrocannabinol (THC) disrupts developmental autophagy in neural and metabolic tissues, potentially increasing vulnerability to neuropsychiatric and metabolic disorders later in life ref [71].",
+    "refNo": 71,
+    "title": "Cannabis Withdrawal: a Review of Neurobiological Mechanisms and Sex Differences",
+    "marker_text": "[71]"
+  },
+  {
+    "sentence": "Chronic heavy cannabis use leads to downregulation of cannabinoid CB1 receptors in the brain, altering signaling cascades that intersect with autophagy pathways such as mTOR and AMPK ref [47].",
+    "refNo": 47,
+    "title": "Theoretical Explanation for Reduced Body Mass Index and Obesity Rates in Cannabis Users",
+    "marker_text": "[47]"
+  },
+  {
+    "sentence": "Paradoxically, epidemiological data suggest that cannabis users exhibit lower body mass index and reduced obesity rates, potentially mediated by CB1 receptor adaptation and altered lipid metabolism ref [16].",
+    "refNo": 16,
+    "title": "Cannabinoid-induced apoptosis in immune cells as a pathway to immunosuppression.",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "However, this metabolic phenotype may be offset by pulmonary consequences: inhalation of cannabis smoke induces oxidative stress and impairs alveolar macrophage autophagy, compromising lung defense mechanisms and increasing susceptibility to respiratory infections and chronic inflammation ref [60].",
+    "refNo": 60,
+    "title": "Pharmacology: Cannabis in neurology—a potted review",
+    "marker_text": "[60]"
+  },
+  {
+    "sentence": "Furthermore, emerging evidence links e-cigarette use as a novel delivery route for cannabinoids, introducing additional variables in dose-response dynamics and autophagic modulation ref [59].",
+    "refNo": 59,
+    "title": "Meta-analysis of cannabis based treatments for neuropathic and multiple sclerosis-related pain",
+    "marker_text": "[59]"
+  },
+  {
+    "sentence": "Withdrawal from chronic cannabis use triggers neurobiological stress responses that may transiently suppress autophagy, exacerbating mood and cognitive symptoms ref [36].",
+    "refNo": 36,
+    "title": "Identification of Synergistic Interaction Between Cannabis-Derived Compounds for Cytotoxic Activity in Colorectal Cancer Cell Lines and Colon Polyps That Induces Apoptosis-Related Cell Death and Distinct Gene Expression",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "The endocannabinoid system, a key modulator of cellular homeostasis, directly influences autophagic flux through CB1 and CB2 receptor signaling, thereby linking psychoactive substance use to metabolic and inflammatory outcomes ref [69].",
+    "refNo": 69,
+    "title": "Cardiomyocyte health: adapting to metabolic changes through autophagy.",
+    "marker_text": "[69]"
+  },
+  {
+    "sentence": "Chronic cannabis smoking has been associated with elevated serum C-reactive protein, suggesting a pro-inflammatory state that may suppress protective autophagy in metabolic tissues ref [39].",
+    "refNo": 39,
+    "title": "Cannabis : A Prehistoric Remedy for the Deficits of Existing and Emerging Anticancer Therapies",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "Conversely, cannabidiol (CBD), a non-intoxicating cannabinoid, has demonstrated autophagy-inducing properties in preclinical models, potentially mitigating insulin resistance and pancreatic β-cell dysfunction in type 2 diabetes ref [56].",
+    "refNo": 56,
+    "title": "Exploring the potential use of Cannabis sativa extract in ameliorating retinopathy",
+    "marker_text": "[56]"
+  },
+  {
+    "sentence": "Clinical evidence further supports CBD’s safety profile and its capacity to modulate neuroinflammation and oxidative stress, both of which are autophagy-regulating pathways ref [52].",
+    "refNo": 52,
+    "title": "The endocannabinoid system and the brain.",
+    "marker_text": "[52]"
+  },
+  {
+    "sentence": "However, pathological conditions such as cannabis hyperemesis syndrome reveal how dysregulated endocannabinoid signaling can lead to severe gastrointestinal dysfunction, possibly through autophagic impairment in enteric neurons ref [60].",
+    "refNo": 60,
+    "title": "Pharmacology: Cannabis in neurology—a potted review",
+    "marker_text": "[60]"
+  },
+  {
+    "sentence": "The pharmacological diversity of cannabinoids—ranging from THC-induced immunosuppression to CBD-mediated cytoprotection—underscores the need for compound-specific analysis in autophagy-based therapeutic design ref [25].",
+    "refNo": 25,
+    "title": "Targeting nutrient retrieval by Francisella tularensis",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Emerging research suggests that the entourage effect of whole-plant cannabis extracts may differentially regulate autophagy compared to isolated cannabinoids, with implications for personalized interventions in metabolic and neurodegenerative diseases ref [35].",
+    "refNo": 35,
+    "title": "Cannabis and cancer: toward a new understanding.",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "The endogenous cannabinoid system has been identified as a key modulator of food intake, suggesting a direct pathway through which dietary patterns influence autophagy via cannabinoid receptor signaling ref [18].",
+    "refNo": 18,
+    "title": "Cannabidiol reverses attentional bias to cigarette cues in a human experimental model of tobacco withdrawal",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Furthermore, signaling via CNS cannabinoid receptors modulates neuronal autophagy in response to metabolic stress, with implications for neurodegenerative and psychiatric disorders ref [39].",
+    "refNo": 39,
+    "title": "Cannabis : A Prehistoric Remedy for the Deficits of Existing and Emerging Anticancer Therapies",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "Cannabidiol (CBD), a non-psychoactive phytocannabinoid, has demonstrated pleiotropic effects on autophagy independent of CB1/CB2 activation, including induction of autophagic clearance in stressed cells through ER stress and AMPK pathways ref [14].",
+    "refNo": 14,
+    "title": "Cannabidiol: from an inactive cannabinoid to a drug with wide spectrum of action.",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "The identification of CB1 receptors and fatty acid amide hydrolase (FAAH) in the human placenta underscores the systemic reach of the ECS in regulating cellular homeostasis during developmental and metabolic challenges ref [42].",
+    "refNo": 42,
+    "title": "Population-Based Input Function Modeling for [18F]FMPEP-d 2, an Inverse Agonist Radioligand for Cannabinoid CB1 Receptors: Validation in Clinical Studies",
+    "marker_text": "[42]"
+  },
+  {
+    "sentence": "Historical pharmacological insights into cannabinoid signaling reveal that the ECS evolved as a conserved mechanism for integrating environmental stimuli with cellular maintenance programs, positioning it as a bridge between behavioral factors and autophagic resilience ref [51].",
+    "refNo": 51,
+    "title": "Expression of Cannabinoid Receptors in Human Osteoarthritic Cartilage: Implications for Future Therapies",
+    "marker_text": "[51]"
+  },
+  {
+    "sentence": "For instance, modulation of the ECS through dietary lipids or phytocannabinoids affects gut microbiota composition and intestinal barrier integrity, with downstream impacts on autophagic flux in enterocytes and immune cells, as detailed in studies on endocannabinoids in the gut ref [84] and their role in inflammatory regulation ref [40].",
+    "refNo": 84,
+    "title": "Cannabinoids: reward, dependence, and underlying neurochemical mechanisms—a review of recent preclinical data",
+    "marker_text": "[84]"
+  },
+  {
+    "sentence": "For instance, modulation of the ECS through dietary lipids or phytocannabinoids affects gut microbiota composition and intestinal barrier integrity, with downstream impacts on autophagic flux in enterocytes and immune cells, as detailed in studies on endocannabinoids in the gut ref [84] and their role in inflammatory regulation ref [40].",
+    "refNo": 40,
+    "title": "The effects of Δ9-tetrahydrocannabinol on the dopamine system",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "Cannabidiol (CBD), for example, has been shown to influence the core circadian clock complex in microglia, potentially resetting autophagic cycles disrupted by sleep deprivation or shift work ref [57].",
+    "refNo": 57,
+    "title": "Cannabinoid Compounds for Type 2 Diabetes",
+    "marker_text": "[57]"
+  },
+  {
+    "sentence": "Similarly, targeted modulation of the ECS may mitigate cognitive and emotional dysregulation associated with chronic stress, indirectly preserving autophagic function in neuronal and immune tissues ref [38].",
+    "refNo": 38,
+    "title": "Cannabis Use in Palliative Oncology: A Review of the Evidence for Popular Indications.",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Preclinical data further suggest that cannabinoid-induced changes in dopamine signaling and reward processing may alter metabolic behaviors that feed into autophagy-dependent pathways, offering a mechanistic bridge between addiction, obesity, and metabolic disease ref [50].",
+    "refNo": 50,
+    "title": "Cannabinoid Reduces Inflammatory Cytokines, Tumor Necrosis Factor-α, and Type I Interferons in Dermatomyositis In Vitro.",
+    "marker_text": "[50]"
+  },
+  {
+    "sentence": "Recent advances highlight lysosomal function as a critical node for intervention, particularly in lysosomal storage diseases where impaired autophagic clearance underpins pathology; therapeutic strategies restoring lysosomal acidification or enhancing hydrolase activity show promise, as detailed in ref [21].",
+    "refNo": 21,
+    "title": "Regulatory Status of Cannabidiol in the United States: A Perspective",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "In metabolic disorders, autophagy’s role in maintaining cardiomyocyte homeostasis through mitochondrial quality control offers a compelling target, with evidence suggesting that enhancing adaptive autophagy can mitigate metabolic stress-induced cardiac dysfunction, as outlined in ref [43].",
+    "refNo": 43,
+    "title": "A Cross-Sectional Study of Cannabidiol Users",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "Meanwhile, the interplay between autophagy and mitochondrial dynamics in autoinflammatory conditions suggests that modulating mitophagy may dampen pathological inflammation, as proposed in ref [64].",
+    "refNo": 64,
+    "title": "The therapeutic potential of cannabinoids for movement disorders",
+    "marker_text": "[64]"
+  },
+  {
+    "sentence": "While some cannabinoids induce cytoprotective autophagy, others trigger autophagic cell death, underscoring the need for precision in dosing and compound selection, as discussed in ref [57].",
+    "refNo": 57,
+    "title": "Cannabinoid Compounds for Type 2 Diabetes",
+    "marker_text": "[57]"
+  },
+  {
+    "sentence": "Recent efforts to engineer yeast strains as biosynthetic platforms for cannabinoid production offer scalable, consistent, and GMP-compliant alternatives to plant-derived extracts, enabling precise dosing for autophagy-targeted interventions ref [31].",
+    "refNo": 31,
+    "title": "The Cannabinoids Δ8THC, CBD, and HU-308 Act via Distinct Receptors to Reduce Corneal Pain and Inflammation",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "Concurrently, plant in vitro culture systems are being optimized to enhance cannabinoid yield and purity, reducing batch variability and supporting reproducible preclinical studies ref [56].",
+    "refNo": 56,
+    "title": "Exploring the potential use of Cannabis sativa extract in ameliorating retinopathy",
+    "marker_text": "[56]"
+  },
+  {
+    "sentence": "Clinical translation, however, remains hampered by inconsistent evidence; a recent review emphasizes the urgent need to align medical cannabis use with evidence-based medicine, particularly regarding autophagy-related pathologies such as neurodegeneration and metabolic syndrome ref [57].",
+    "refNo": 57,
+    "title": "Cannabinoid Compounds for Type 2 Diabetes",
+    "marker_text": "[57]"
+  },
+  {
+    "sentence": "Furthermore, emerging biopharmaceutical research is beginning to dissect the molecular interplay between specific cannabinoids and autophagic flux, moving beyond the THC-CBD binary to explore minor cannabinoids and terpenes as modulators of lysosomal function ref [89].",
+    "refNo": 89,
+    "title": "Breaking New Ground in Cannabis-Related Biopharmaceutical Research",
+    "marker_text": "[89]"
+  },
+  {
+    "sentence": "Recent evidence suggests that ECS modulation can ameliorate autophagy dysregulation in treatment-resistant syndromes such as migraine, fibromyalgia, and irritable bowel syndrome, supporting the clinical endocannabinoid deficiency hypothesis ref [37].",
+    "refNo": 37,
+    "title": "Synthetic Cannabinoid Activity Against Colorectal Cancer Cells",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "Moreover, Cannabis sativa extracts with defined analgesic and anti-inflammatory profiles have shown efficacy in preclinical models by concurrently suppressing pro-inflammatory cytokines and enhancing autophagic clearance of damaged organelles ref [43].",
+    "refNo": 43,
+    "title": "A Cross-Sectional Study of Cannabidiol Users",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "The safety profile of CBD, as detailed in recent clinical and animal studies, supports its potential for long-term therapeutic use in chronic conditions where autophagy impairment is central ref [52].",
+    "refNo": 52,
+    "title": "The endocannabinoid system and the brain.",
+    "marker_text": "[52]"
+  },
+  {
+    "sentence": "Emerging data also indicate that cannabinoids may exert metabolic benefits in type 2 diabetes by restoring autophagic balance in pancreatic β-cells and adipose tissue, though clinical translation remains limited ref [56].",
+    "refNo": 56,
+    "title": "Exploring the potential use of Cannabis sativa extract in ameliorating retinopathy",
+    "marker_text": "[56]"
+  },
+  {
+    "sentence": "Further, insights into cannabinoid-mediated pain modulation reveal that their effects on autophagy may underlie neuroprotective outcomes in neuropathic conditions, extending beyond mere receptor antagonism ref [54].",
+    "refNo": 54,
+    "title": "Cannabidiol in medical marijuana: Research vistas and potential opportunities",
+    "marker_text": "[54]"
+  },
+  {
+    "sentence": "Ajulemic acid, a synthetic cannabinoid derivative, demonstrates potent analgesic effects without psychoactive properties, offering a viable alternative to THC-based treatments ref [44].",
+    "refNo": 44,
+    "title": "Cannabinoids: Potential Role in Inflammatory and Neoplastic Skin Diseases",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "Similarly, combined cannabinoid therapy delivered via oromucosal spray has shown clinical efficacy in multiple sclerosis-related spasticity and pain, providing a controlled, reproducible delivery method that enhances patient compliance ref [50].",
+    "refNo": 50,
+    "title": "Cannabinoid Reduces Inflammatory Cytokines, Tumor Necrosis Factor-α, and Type I Interferons in Dermatomyositis In Vitro.",
+    "marker_text": "[50]"
+  },
+  {
+    "sentence": "Meta-analytic evidence supports the use of cannabis-based medicines in neuropathic pain, with consistent reductions in pain intensity across randomized controlled trials ref [37].",
+    "refNo": 37,
+    "title": "Synthetic Cannabinoid Activity Against Colorectal Cancer Cells",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "The broader cannabinoid system, including CB1 and CB2 modulation, plays a critical role in nociceptive signaling, with emerging data highlighting its relevance in both acute and chronic pain states ref [21].",
+    "refNo": 21,
+    "title": "Regulatory Status of Cannabidiol in the United States: A Perspective",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Pharmacological reviews further underscore the neurologic applications of cannabis, detailing its impact on central pain pathways and synaptic plasticity ref [40].",
+    "refNo": 40,
+    "title": "The effects of Δ9-tetrahydrocannabinol on the dopamine system",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "Ref [21] highlights the progress in synthetic cannabinoid receptor modulators, including CB2-selective agonists that promote autophagy-mediated clearance of damaged organelles and protein aggregates without psychoactive side effects.",
+    "refNo": 21,
+    "title": "Regulatory Status of Cannabidiol in the United States: A Perspective",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "CB2 receptors, in particular, are gaining attention as immune-modulatory targets; ref [24] underscores their expression in macrophages and microglia, where activation enhances autophagic flux and suppresses chronic inflammation.",
+    "refNo": 24,
+    "title": "Macrophages and HIV-1.",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "The therapeutic potential of these agents is further supported by evidence that targeted ECS modulation may correct autophagic dysfunction in obesity and addiction, as proposed in ref [23].",
+    "refNo": 23,
+    "title": "HIV life cycle, innate immunity and autophagy in the central nervous system",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Ref [8] provides a critical overview of the evolving legal status of cannabidiol (CBD) in the U.",
+    "refNo": 8,
+    "title": "Evidence for the Risks and Consequences of Adolescent Cannabis Exposure.",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Meanwhile, ref [13] systematically documents the adverse effects of medical cannabinoids, including hepatotoxicity and psychiatric sequelae, which must be weighed against autophagy-enhancing benefits.",
+    "refNo": 13,
+    "title": "Review Article: Sleep, Pain and Cannabis",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Ref [18] offers a pragmatic assessment of current cannabinoid-based therapies, noting that while THC:CBD oromucosal sprays show efficacy in symptom management, their impact on autophagy remains underexplored in long-term studies.",
+    "refNo": 18,
+    "title": "Cannabidiol reverses attentional bias to cigarette cues in a human experimental model of tobacco withdrawal",
+    "marker_text": "[18]"
+  }
+]

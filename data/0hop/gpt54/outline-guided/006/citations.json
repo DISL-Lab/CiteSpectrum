@@ -1,0 +1,608 @@
+[
+  {
+    "sentence": "This review adopts a structured narrative approach informed by established guidance for evidence synthesis in health research, combining transparent search and selection procedures with interpretive integration suited to heterogeneous psychosocial studies ref [1], ref [2].",
+    "refNo": 1,
+    "title": "Guidance on the Conduct of Narrative Synthesis in Systematic Reviews",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "This review adopts a structured narrative approach informed by established guidance for evidence synthesis in health research, combining transparent search and selection procedures with interpretive integration suited to heterogeneous psychosocial studies ref [1], ref [2].",
+    "refNo": 2,
+    "title": "The Joanna Briggs Institute Reviewers' Manual 2014: Methodology for JBI Umbrella Reviews",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Reporting principles were aligned with PRISMA 2020 to enhance reproducibility of identification, screening, and inclusion decisions ref [3].",
+    "refNo": 3,
+    "title": "The PRISMA 2020 statement: an updated guideline for reporting systematic reviews",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Because research on parents of children with cancer spans qualitative, quantitative, and mixed-methods designs, an integrative review logic was used to preserve methodological breadth while enabling comparison of recurrent psychosocial themes such as distress, family functioning, coping, and unmet supportive care needs ref [4], ref [5].",
+    "refNo": 4,
+    "title": "An integrative review of the literature on quality of life in parents of children with cancer",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Because research on parents of children with cancer spans qualitative, quantitative, and mixed-methods designs, an integrative review logic was used to preserve methodological breadth while enabling comparison of recurrent psychosocial themes such as distress, family functioning, coping, and unmet supportive care needs ref [4], ref [5].",
+    "refNo": 5,
+    "title": "Mixed Methods Appraisal Tool (MMAT), version 2018",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Searches would typically cover MEDLINE/PubMed, PsycINFO, CINAHL, Scopus, and Web of Science, using controlled vocabulary and keywords related to pediatric cancer, parents/caregivers, psychosocial outcomes, stress, anxiety, depression, coping, and quality of life ref [2], ref [6].",
+    "refNo": 2,
+    "title": "The Joanna Briggs Institute Reviewers' Manual 2014: Methodology for JBI Umbrella Reviews",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Searches would typically cover MEDLINE/PubMed, PsycINFO, CINAHL, Scopus, and Web of Science, using controlled vocabulary and keywords related to pediatric cancer, parents/caregivers, psychosocial outcomes, stress, anxiety, depression, coping, and quality of life ref [2], ref [6].",
+    "refNo": 6,
+    "title": "Systematic Reviews in Health Care: A Practical Guide",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Reference-list screening and citation chaining were included to reduce retrieval bias, particularly for qualitative and family-centered studies that may be inconsistently indexed ref [7].",
+    "refNo": 7,
+    "title": "Searching for and selecting studies",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Study quality appraisal was planned using design-appropriate tools rather than a single hierarchy of evidence, reflecting recommendations for mixed-methods and observational psychosocial research ref [5], ref [8].",
+    "refNo": 5,
+    "title": "Mixed Methods Appraisal Tool (MMAT), version 2018",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Study quality appraisal was planned using design-appropriate tools rather than a single hierarchy of evidence, reflecting recommendations for mixed-methods and observational psychosocial research ref [5], ref [8].",
+    "refNo": 8,
+    "title": "Critical evaluation of the Newcastle-Ottawa scale for the assessment of the quality of nonrandomized studies in meta-analyses",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Given expected clinical and methodological heterogeneity, synthesis was primarily thematic and narrative rather than meta-analytic, while remaining attentive to sources of bias common in this literature, including cross-sectional designs, small samples, single-site recruitment, and variable use of validated instruments ref [4], ref [9], ref [10].",
+    "refNo": 4,
+    "title": "An integrative review of the literature on quality of life in parents of children with cancer",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Given expected clinical and methodological heterogeneity, synthesis was primarily thematic and narrative rather than meta-analytic, while remaining attentive to sources of bias common in this literature, including cross-sectional designs, small samples, single-site recruitment, and variable use of validated instruments ref [4], ref [9], ref [10].",
+    "refNo": 9,
+    "title": "Assessing risk of bias in included studies",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Given expected clinical and methodological heterogeneity, synthesis was primarily thematic and narrative rather than meta-analytic, while remaining attentive to sources of bias common in this literature, including cross-sectional designs, small samples, single-site recruitment, and variable use of validated instruments ref [4], ref [9], ref [10].",
+    "refNo": 10,
+    "title": "Synthesis without meta-analysis (SWiM) in systematic reviews: reporting guideline",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Comparative work suggests that while families across groups prioritize the ill child and generally adhere closely to biomedical treatment, the meanings attached to illness, preferred caregiving practices, and modes of emotional expression vary substantially ref [11], ref [13].",
+    "refNo": 11,
+    "title": "Common themes and ethnic differences in family caregiving the first year after diagnosis of childhood cancer: Part II",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Comparative work suggests that while families across groups prioritize the ill child and generally adhere closely to biomedical treatment, the meanings attached to illness, preferred caregiving practices, and modes of emotional expression vary substantially ref [11], ref [13].",
+    "refNo": 13,
+    "title": "Comparison of Chinese and Caucasian families caregiving to children with cancer at home: Part I",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "S. comparisons of immigrant Chinese and North American White families, Chinese parents were described as having fewer resources and greater social isolation, with less overt verbalization of distress and greater emphasis on diet and supplemental care, whereas White families more often foregrounded emotional care and open discussion ref [11], ref [13].",
+    "refNo": 11,
+    "title": "Common themes and ethnic differences in family caregiving the first year after diagnosis of childhood cancer: Part II",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "S. comparisons of immigrant Chinese and North American White families, Chinese parents were described as having fewer resources and greater social isolation, with less overt verbalization of distress and greater emphasis on diet and supplemental care, whereas White families more often foregrounded emotional care and open discussion ref [11], ref [13].",
+    "refNo": 13,
+    "title": "Comparison of Chinese and Caucasian families caregiving to children with cancer at home: Part I",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "In Taiwan, caregivers drew simultaneously on folk and Western health knowledge and framed caregiving as unconditional giving directed toward the child’s recovery ref [12].",
+    "refNo": 12,
+    "title": "Understanding culture care practices of caregivers of children with cancer in Taiwan",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Hong Kong studies similarly found that parents often interpreted illness through culturally resonant ideas such as fate, acceptance, and restrained disclosure to others, which could facilitate endurance but also reduce visibility of psychosocial need ref [17], ref [8].",
+    "refNo": 17,
+    "title": "The qualitative experience of Chinese parents with children diagnosed of cancer",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Hong Kong studies similarly found that parents often interpreted illness through culturally resonant ideas such as fate, acceptance, and restrained disclosure to others, which could facilitate endurance but also reduce visibility of psychosocial need ref [17], ref [8].",
+    "refNo": 8,
+    "title": "Critical evaluation of the Newcastle-Ottawa scale for the assessment of the quality of nonrandomized studies in meta-analyses",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Among low-income families of children with leukemia in central Mexico, concerns about treatment-related expenses and the time demands of care were among the most frequent responses, even alongside reports of strengthened family bonds ref [15].",
+    "refNo": 15,
+    "title": "The emotional response of families to children with leukemia at the lower socioeconomic level in central Mexico: A preliminary report",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Context-sensitive work with Latino families likewise emphasizes that language barriers, interpretation needs, culturally patterned communication styles, and differing health beliefs can shape access, trust, and treatment experience ref [14].",
+    "refNo": 14,
+    "title": "Delivery of culturally competent care to children with cancer and their families -The Latino experience",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Overall, the literature supports culturally competent and socioeconomically responsive psychosocial care that attends not only to universal stressors, but also to the contextual conditions that influence how parental suffering is expressed, managed, and recognized ref [12], ref [14], ref [15].",
+    "refNo": 12,
+    "title": "Understanding culture care practices of caregivers of children with cancer in Taiwan",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Overall, the literature supports culturally competent and socioeconomically responsive psychosocial care that attends not only to universal stressors, but also to the contextual conditions that influence how parental suffering is expressed, managed, and recognized ref [12], ref [14], ref [15].",
+    "refNo": 14,
+    "title": "Delivery of culturally competent care to children with cancer and their families -The Latino experience",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Overall, the literature supports culturally competent and socioeconomically responsive psychosocial care that attends not only to universal stressors, but also to the contextual conditions that influence how parental suffering is expressed, managed, and recognized ref [12], ref [14], ref [15].",
+    "refNo": 15,
+    "title": "The emotional response of families to children with leukemia at the lower socioeconomic level in central Mexico: A preliminary report",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Across the literature, parents of children with cancer consistently report substantial supportive care needs during the transition from diagnosis into active treatment, with informational and emotional needs most prominent, though practical, social, and psychological needs also emerge across the care trajectory ref [19], ref [24].",
+    "refNo": 19,
+    "title": "Supportive care needs of parents of children with cancer: Transition from diagnosis to treatment",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Across the literature, parents of children with cancer consistently report substantial supportive care needs during the transition from diagnosis into active treatment, with informational and emotional needs most prominent, though practical, social, and psychological needs also emerge across the care trajectory ref [19], ref [24].",
+    "refNo": 24,
+    "title": "Conducting a randomized clinical trial of a psychological intervention for parents/caregivers of children with cancer shortly after diagnosis",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Reviews and local needs assessments converge in showing that parents want clear, timely, repeated, and comprehensible information about diagnosis, prognosis, treatment, side effects, and what to expect at home, alongside help managing fear of relapse or disease progression ref [19], ref [24].",
+    "refNo": 19,
+    "title": "Supportive care needs of parents of children with cancer: Transition from diagnosis to treatment",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Reviews and local needs assessments converge in showing that parents want clear, timely, repeated, and comprehensible information about diagnosis, prognosis, treatment, side effects, and what to expect at home, alongside help managing fear of relapse or disease progression ref [19], ref [24].",
+    "refNo": 24,
+    "title": "Conducting a randomized clinical trial of a psychological intervention for parents/caregivers of children with cancer shortly after diagnosis",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Qualitative work shows that parents often remember diagnosis-related conversations as defining moments, and describe distress when communication is contradictory, overly technical, poorly timed, or when they feel unheard; conversely, trust is strengthened when clinicians listen, acknowledge uncertainty, and calibrate the amount of information to parental preferences ref [18].",
+    "refNo": 18,
+    "title": "Communication issues faced by parents who have a child diagnosed with cancer",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Family-centered care studies further suggest that many parents see themselves as active advocates who gather information, participate in decisions, monitor care, and at times challenge professionals, underscoring the importance of collaborative communication and meaningful parental involvement ref [22].",
+    "refNo": 22,
+    "title": "Understanding the supportive care needs of parents of children with cancer: An approach to local needs assessment",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Parents rate information, peer support, and self-management or therapeutic input as highly important, and report broad acceptability of paper-based, telephone, group, and technology-assisted formats ref [20].",
+    "refNo": 20,
+    "title": "Psychosocial needs of families with a child with cancer",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "A multisite randomized trial found that problem-solving skills training for mothers shortly after diagnosis improved problem-solving abilities and reduced negative affect, with some persistence over follow-up ref [8].",
+    "refNo": 8,
+    "title": "Critical evaluation of the Newcastle-Ottawa scale for the assessment of the quality of nonrandomized studies in meta-analyses",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "However, another randomized trial of an early brief caregiver intervention highlighted major recruitment and timing challenges and found no significant outcome differences, suggesting that feasibility, intervention dose, and readiness soon after diagnosis remain critical implementation issues ref [9].",
+    "refNo": 9,
+    "title": "Assessing risk of bias in included studies",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Overall, the evidence supports early, flexible, family-centered psychosocial care that integrates communication support with targeted interventions matched to parental need and treatment phase ref [19], ref [20], ref [8], ref [9].",
+    "refNo": 19,
+    "title": "Supportive care needs of parents of children with cancer: Transition from diagnosis to treatment",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Overall, the evidence supports early, flexible, family-centered psychosocial care that integrates communication support with targeted interventions matched to parental need and treatment phase ref [19], ref [20], ref [8], ref [9].",
+    "refNo": 20,
+    "title": "Psychosocial needs of families with a child with cancer",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Overall, the evidence supports early, flexible, family-centered psychosocial care that integrates communication support with targeted interventions matched to parental need and treatment phase ref [19], ref [20], ref [8], ref [9].",
+    "refNo": 8,
+    "title": "Critical evaluation of the Newcastle-Ottawa scale for the assessment of the quality of nonrandomized studies in meta-analyses",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Overall, the evidence supports early, flexible, family-centered psychosocial care that integrates communication support with targeted interventions matched to parental need and treatment phase ref [19], ref [20], ref [8], ref [9].",
+    "refNo": 9,
+    "title": "Assessing risk of bias in included studies",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Qualitative work during the early treatment phase for acute lymphoblastic leukemia describes a profound disruption of family normalcy, routines, and role stability, with parents reporting that ordinary patterns of interaction are replaced by crisis-oriented coping and emotional disequilibrium ref [26].",
+    "refNo": 26,
+    "title": "Findings on the impact of the treatment for childhood acute lymphoblastic leukaemia on family relationships",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "At the broader level, meta-analytic evidence indicates that parents of children with cancer report elevated distress and somewhat poorer family functioning than comparison families, especially in the first year after diagnosis, suggesting that relational strain is a common correlate of acute oncologic stress ref [8].",
+    "refNo": 8,
+    "title": "Critical evaluation of the Newcastle-Ottawa scale for the assessment of the quality of nonrandomized studies in meta-analyses",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Studies of marital functioning show a mixed pattern in which communication, cohesion, and trust may strengthen under shared adversity, whereas sexuality and overall satisfaction can deteriorate, particularly when illness becomes prolonged ref [7].",
+    "refNo": 7,
+    "title": "Searching for and selecting studies",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Some cross-sectional evidence also suggests relative resilience in sibling and family adaptation, with parents in a Taiwanese sample reporting generally positive sibling adjustment despite perceived changes in the patient's mood and peer relationships ref [9].",
+    "refNo": 9,
+    "title": "Assessing risk of bias in included studies",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Parent distress is significantly associated with child distress, and this linkage appears to be shaped by family environment, social support, and paternal as well as maternal functioning; notably, family environment partially mediated associations between fathers' distress and child adjustment in one study ref [27].",
+    "refNo": 27,
+    "title": "Parent and family factors associated with child adjustment to pediatric cancer",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "Symptom-based work likewise suggests day-to-day synchrony within families: children receiving chemotherapy and their mothers and fathers concurrently reported pain, sleep disturbance, and fatigue, underscoring that burdens are shared across the household rather than isolated within the patient ref [25].",
+    "refNo": 25,
+    "title": "Pain, sleep disturbance, and fatigue in children with leukemia and their parents: A pilot study",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "In qualitative work, parents described loss of control over everyday life, deterioration in their own physical and emotional health, and a strong need for respite, household help, and clear guidance from clinicians; timely education and emotional support were among the most valued forms of assistance ref [32].",
+    "refNo": 32,
+    "title": "The care of my child with cancer: A new instrument to measure caregiving demand in parents of children with cancer",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "Instrument development studies similarly reflect the growing transfer of complex cancer care into the home, framing parental burden as a multidimensional construct that includes technical, temporal, and emotional demands ref [34].",
+    "refNo": 34,
+    "title": "Parenting in a crisis: Conceptualizing mothers of children with cancer",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "Pediatric-specific stress has been linked to poorer family functioning, even after accounting for relevant medical and demographic factors, suggesting that illness-related caregiving demands shape the broader family climate ref [8].",
+    "refNo": 8,
+    "title": "Critical evaluation of the Newcastle-Ottawa scale for the assessment of the quality of nonrandomized studies in meta-analyses",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Longitudinal evidence indicates that the burden is also gendered and dynamic: mothers often report greater difficulty with behavioral management, emotional support, and family planning, whereas fathers more often struggle to balance employment with care organization and support for partners ref [16].",
+    "refNo": 16,
+    "title": "The experiences of Honk Kong Chinese parents of children with acute lymphocytic leukemia",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "During the first year after diagnosis, many parents report severe early strain, negative self-rated health, and financial disruption, even when marital or family relationships remain relatively stable ref [12].",
+    "refNo": 12,
+    "title": "Understanding culture care practices of caregivers of children with cancer in Taiwan",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Mothers, in particular, have been described as assuming obligations of constant proximity, surveillance, emotional containment, and information brokerage, often at the expense of sleep, work, self-care, and attention to siblings ref [10].",
+    "refNo": 10,
+    "title": "Synthesis without meta-analysis (SWiM) in systematic reviews: reporting guideline",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Evidence from Singapore further suggests that subjective burden may remain high even in collectivist settings where practical help is more available, underscoring that emotional responsibility and anticipatory fear are not easily offset by instrumental support alone ref [13].",
+    "refNo": 13,
+    "title": "Comparison of Chinese and Caucasian families caregiving to children with cancer at home: Part I",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Overall, caregiving burden in pediatric cancer is best understood as an ongoing interaction between treatment-related tasks, parenting stress, and the cumulative pressures of sustaining family life under conditions of uncertainty ref [32], ref [8], ref [16].",
+    "refNo": 32,
+    "title": "The care of my child with cancer: A new instrument to measure caregiving demand in parents of children with cancer",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "Overall, caregiving burden in pediatric cancer is best understood as an ongoing interaction between treatment-related tasks, parenting stress, and the cumulative pressures of sustaining family life under conditions of uncertainty ref [32], ref [8], ref [16].",
+    "refNo": 8,
+    "title": "Critical evaluation of the Newcastle-Ottawa scale for the assessment of the quality of nonrandomized studies in meta-analyses",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Overall, caregiving burden in pediatric cancer is best understood as an ongoing interaction between treatment-related tasks, parenting stress, and the cumulative pressures of sustaining family life under conditions of uncertainty ref [32], ref [8], ref [16].",
+    "refNo": 16,
+    "title": "The experiences of Honk Kong Chinese parents of children with acute lymphocytic leukemia",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "In early work, parents of newly diagnosed children reported anxiety levels comparable to those seen in anxious clinical populations, and anxiety was positively associated with posttraumatic stress symptoms (PTSS), while illness uncertainty emerged as an additional correlate of distress ref [39].",
+    "refNo": 39,
+    "title": "Parents of children with cancer: A longitudinal study of emotional distress, coping style, and marital adjustment two and twenty months after diagnosis",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "Review-oriented work focused on pediatric leukemia similarly characterizes diagnosis as a period marked by shock, disbelief, and persistent anxiety, with implications for later family communication and adjustment if distress is not addressed ref [14].",
+    "refNo": 14,
+    "title": "Delivery of culturally competent care to children with cancer and their families -The Latino experience",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Mothers often show elevated negative affectivity and PTSS shortly after diagnosis followed by improvement over the ensuing months, with distinguishable high-declining, moderate-stable, and low-stable trajectories suggesting substantial resilience alongside a smaller high-risk subgroup ref [44].",
+    "refNo": 44,
+    "title": "Disease-related distress in parents of children with cancer at various stages after the time of diagnosis",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "Likewise, state and trait anxiety in mothers tend to decline from the early post-diagnosis period to later follow-up, whereas fathers often begin at lower mean levels and show less change over time ref [43].",
+    "refNo": 43,
+    "title": "Decreasing psychological distress during the diagnosis and treatment of pediatric leukemia",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "Cross-sectional and prospective evidence nevertheless suggests that distress can persist well beyond the acute phase: disease-related fear, uncertainty, loneliness, and broader psychological strain may remain evident years after diagnosis or treatment completion ref [15], and moderate PTSS during active treatment are common in both mothers and fathers ref [10].",
+    "refNo": 15,
+    "title": "The emotional response of families to children with leukemia at the lower socioeconomic level in central Mexico: A preliminary report",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Cross-sectional and prospective evidence nevertheless suggests that distress can persist well beyond the acute phase: disease-related fear, uncertainty, loneliness, and broader psychological strain may remain evident years after diagnosis or treatment completion ref [15], and moderate PTSS during active treatment are common in both mothers and fathers ref [10].",
+    "refNo": 10,
+    "title": "Synthesis without meta-analysis (SWiM) in systematic reviews: reporting guideline",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Anxiety during leukemia treatment predicted later PTSS in mothers, while self-efficacy and posttraumatic growth were linked to reduced avoidance after treatment, pointing to potentially modifiable mechanisms of longer-term adjustment ref [12].",
+    "refNo": 12,
+    "title": "Understanding culture care practices of caregivers of children with cancer in Taiwan",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Over longer follow-up, overall distress generally decreases, but relational context still matters; dissatisfaction with support and negative social interactions were associated with fathers’ distress up to five years later, underscoring gendered pathways of adaptation ref [18].",
+    "refNo": 18,
+    "title": "Communication issues faced by parents who have a child diagnosed with cancer",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Taken together, the literature supports a trauma-informed but non-pathologizing interpretation: most parents show partial recovery over time, yet a clinically important subgroup experiences persistent distress warranting targeted monitoring and intervention ref [44], ref [10], ref [15].",
+    "refNo": 44,
+    "title": "Disease-related distress in parents of children with cancer at various stages after the time of diagnosis",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "Taken together, the literature supports a trauma-informed but non-pathologizing interpretation: most parents show partial recovery over time, yet a clinically important subgroup experiences persistent distress warranting targeted monitoring and intervention ref [44], ref [10], ref [15].",
+    "refNo": 10,
+    "title": "Synthesis without meta-analysis (SWiM) in systematic reviews: reporting guideline",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Taken together, the literature supports a trauma-informed but non-pathologizing interpretation: most parents show partial recovery over time, yet a clinically important subgroup experiences persistent distress warranting targeted monitoring and intervention ref [44], ref [10], ref [15].",
+    "refNo": 15,
+    "title": "The emotional response of families to children with leukemia at the lower socioeconomic level in central Mexico: A preliminary report",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Reviews consistently show that the period surrounding diagnosis and early treatment is characterized by the highest burden of acute emotional reactions, including anxiety, depressive symptoms, uncertainty, and trauma-related responses, although symptom definitions and assessment windows vary substantially across studies ref [46].",
+    "refNo": 46,
+    "title": "Assessment of parental psychological stress in pediatric cancer: A review",
+    "marker_text": "[46]"
+  },
+  {
+    "sentence": "This heterogeneity in measurement complicates direct comparison, yet the overall pattern is clear: distress is often intense at onset, remains clinically meaningful for many families during active treatment, and does not resolve fully for all parents once treatment demands lessen ref [46].",
+    "refNo": 46,
+    "title": "Assessment of parental psychological stress in pediatric cancer: A review",
+    "marker_text": "[46]"
+  },
+  {
+    "sentence": "In Kazak et al., nearly all participating parents of children on treatment reported some PTSS, with mean levels in the moderate range and little association with time since diagnosis during treatment, suggesting that ongoing exposure to medical threat may sustain distress beyond the initial diagnostic shock ref [41].",
+    "refNo": 41,
+    "title": "Posttraumatic stress symptoms during treatment in parents of children with cancer",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "Cross-sectional evidence across wider time windows similarly shows gradual reductions in some domains—such as anxiety, depression, sleep problems, and diminished sense of control—as more time passes from diagnosis, but persistent uncertainty, fear of disease, and loneliness remain insufficiently explained by elapsed time alone ref [44].",
+    "refNo": 44,
+    "title": "Disease-related distress in parents of children with cancer at various stages after the time of diagnosis",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "Group averages can therefore obscure a clinically important subset of parents with prolonged or recurrent distress, even years after treatment completion ref [44], ref [46].",
+    "refNo": 44,
+    "title": "Disease-related distress in parents of children with cancer at various stages after the time of diagnosis",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "Group averages can therefore obscure a clinically important subset of parents with prolonged or recurrent distress, even years after treatment completion ref [44], ref [46].",
+    "refNo": 46,
+    "title": "Assessment of parental psychological stress in pediatric cancer: A review",
+    "marker_text": "[46]"
+  },
+  {
+    "sentence": "A useful synthesis is to view parental distress as involving overlapping acute, treatment-related, and longer-term components, with timing mattering, but not fully determining psychosocial outcome ref [41], ref [44].",
+    "refNo": 41,
+    "title": "Posttraumatic stress symptoms during treatment in parents of children with cancer",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "A useful synthesis is to view parental distress as involving overlapping acute, treatment-related, and longer-term components, with timing mattering, but not fully determining psychosocial outcome ref [41], ref [44].",
+    "refNo": 44,
+    "title": "Disease-related distress in parents of children with cancer at various stages after the time of diagnosis",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "In a longitudinal qualitative study of mothers of children with acute lymphoblastic leukaemia, families initially hoped to restore ordinary routines but, over time, came to recognize that normality had to be redefined rather than recovered ref [47].",
+    "refNo": 47,
+    "title": "Building a new normality: Mothers' experiences of caring for a child with acute lymphoblastic leukaemia",
+    "marker_text": "[47]"
+  },
+  {
+    "sentence": "Related studies similarly describe adaptation as a process of recalibrating daily life, parenting expectations, and family priorities in response to the child’s illness and the demands of home-based care ref [2], ref [3], ref [4].",
+    "refNo": 2,
+    "title": "The Joanna Briggs Institute Reviewers' Manual 2014: Methodology for JBI Umbrella Reviews",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Related studies similarly describe adaptation as a process of recalibrating daily life, parenting expectations, and family priorities in response to the child’s illness and the demands of home-based care ref [2], ref [3], ref [4].",
+    "refNo": 3,
+    "title": "The PRISMA 2020 statement: an updated guideline for reporting systematic reviews",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Related studies similarly describe adaptation as a process of recalibrating daily life, parenting expectations, and family priorities in response to the child’s illness and the demands of home-based care ref [2], ref [3], ref [4].",
+    "refNo": 4,
+    "title": "An integrative review of the literature on quality of life in parents of children with cancer",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Some parents report increasing competence, confidence, and acceptance as they master caregiving tasks and negotiate support from health professionals, whereas others experience ongoing frustration because family, work, and social life remain constrained long after diagnosis ref [47], ref [5], ref [6].",
+    "refNo": 47,
+    "title": "Building a new normality: Mothers' experiences of caring for a child with acute lymphoblastic leukaemia",
+    "marker_text": "[47]"
+  },
+  {
+    "sentence": "Some parents report increasing competence, confidence, and acceptance as they master caregiving tasks and negotiate support from health professionals, whereas others experience ongoing frustration because family, work, and social life remain constrained long after diagnosis ref [47], ref [5], ref [6].",
+    "refNo": 5,
+    "title": "Mixed Methods Appraisal Tool (MMAT), version 2018",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Some parents report increasing competence, confidence, and acceptance as they master caregiving tasks and negotiate support from health professionals, whereas others experience ongoing frustration because family, work, and social life remain constrained long after diagnosis ref [47], ref [5], ref [6].",
+    "refNo": 6,
+    "title": "Systematic Reviews in Health Care: A Practical Guide",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Qualitative work across cultural settings suggests that adaptation is shaped by available social support, economic resources, family cohesion, and the degree to which parents can integrate cancer-related vigilance into everyday routines without feeling wholly consumed by it ref [7], ref [8], ref [9].",
+    "refNo": 7,
+    "title": "Searching for and selecting studies",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Qualitative work across cultural settings suggests that adaptation is shaped by available social support, economic resources, family cohesion, and the degree to which parents can integrate cancer-related vigilance into everyday routines without feeling wholly consumed by it ref [7], ref [8], ref [9].",
+    "refNo": 8,
+    "title": "Critical evaluation of the Newcastle-Ottawa scale for the assessment of the quality of nonrandomized studies in meta-analyses",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Qualitative work across cultural settings suggests that adaptation is shaped by available social support, economic resources, family cohesion, and the degree to which parents can integrate cancer-related vigilance into everyday routines without feeling wholly consumed by it ref [7], ref [8], ref [9].",
+    "refNo": 9,
+    "title": "Assessing risk of bias in included studies",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Framing adaptation in this way helps explain why distress can coexist with resilience across treatment and survivorship, and why apparent stability in later phases should not be equated with a full psychosocial recovery ref [47], ref [6], ref [10].",
+    "refNo": 47,
+    "title": "Building a new normality: Mothers' experiences of caring for a child with acute lymphoblastic leukaemia",
+    "marker_text": "[47]"
+  },
+  {
+    "sentence": "Framing adaptation in this way helps explain why distress can coexist with resilience across treatment and survivorship, and why apparent stability in later phases should not be equated with a full psychosocial recovery ref [47], ref [6], ref [10].",
+    "refNo": 6,
+    "title": "Systematic Reviews in Health Care: A Practical Guide",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Framing adaptation in this way helps explain why distress can coexist with resilience across treatment and survivorship, and why apparent stability in later phases should not be equated with a full psychosocial recovery ref [47], ref [6], ref [10].",
+    "refNo": 10,
+    "title": "Synthesis without meta-analysis (SWiM) in systematic reviews: reporting guideline",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "As emphasized in methodological work on pediatric longitudinal research, repeated prospective measurement is particularly valuable around developmental and medical transition points, where risks and mechanisms of change may differ over time ref [48].",
+    "refNo": 48,
+    "title": "Longitudinal research in pediatric psychology: An introduction to the special issue",
+    "marker_text": "[48]"
+  },
+  {
+    "sentence": "In this literature, parents often show high acute distress near diagnosis, followed by heterogeneous trajectories during treatment and survivorship rather than uniform recovery ref [2], ref [3], ref [4].",
+    "refNo": 2,
+    "title": "The Joanna Briggs Institute Reviewers' Manual 2014: Methodology for JBI Umbrella Reviews",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "In this literature, parents often show high acute distress near diagnosis, followed by heterogeneous trajectories during treatment and survivorship rather than uniform recovery ref [2], ref [3], ref [4].",
+    "refNo": 3,
+    "title": "The PRISMA 2020 statement: an updated guideline for reporting systematic reviews",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "In this literature, parents often show high acute distress near diagnosis, followed by heterogeneous trajectories during treatment and survivorship rather than uniform recovery ref [2], ref [3], ref [4].",
+    "refNo": 4,
+    "title": "An integrative review of the literature on quality of life in parents of children with cancer",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Natural-history and follow-up studies identify subgroups marked by resilience, gradual adaptation, or persistent psychological burden, with coping style, social support, and family functioning shaping these pathways ref [3], ref [5], ref [6], ref [7].",
+    "refNo": 3,
+    "title": "The PRISMA 2020 statement: an updated guideline for reporting systematic reviews",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Natural-history and follow-up studies identify subgroups marked by resilience, gradual adaptation, or persistent psychological burden, with coping style, social support, and family functioning shaping these pathways ref [3], ref [5], ref [6], ref [7].",
+    "refNo": 5,
+    "title": "Mixed Methods Appraisal Tool (MMAT), version 2018",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Natural-history and follow-up studies identify subgroups marked by resilience, gradual adaptation, or persistent psychological burden, with coping style, social support, and family functioning shaping these pathways ref [3], ref [5], ref [6], ref [7].",
+    "refNo": 6,
+    "title": "Systematic Reviews in Health Care: A Practical Guide",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Natural-history and follow-up studies identify subgroups marked by resilience, gradual adaptation, or persistent psychological burden, with coping style, social support, and family functioning shaping these pathways ref [3], ref [5], ref [6], ref [7].",
+    "refNo": 7,
+    "title": "Searching for and selecting studies",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "This perspective helps reconcile apparently inconsistent findings across studies: differences may reflect timing of assessment, treatment phase, and the specific outcome measured, including general distress, posttraumatic stress symptoms, or parenting-related strain ref [4], ref [6], ref [8].",
+    "refNo": 4,
+    "title": "An integrative review of the literature on quality of life in parents of children with cancer",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "This perspective helps reconcile apparently inconsistent findings across studies: differences may reflect timing of assessment, treatment phase, and the specific outcome measured, including general distress, posttraumatic stress symptoms, or parenting-related strain ref [4], ref [6], ref [8].",
+    "refNo": 6,
+    "title": "Systematic Reviews in Health Care: A Practical Guide",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "This perspective helps reconcile apparently inconsistent findings across studies: differences may reflect timing of assessment, treatment phase, and the specific outcome measured, including general distress, posttraumatic stress symptoms, or parenting-related strain ref [4], ref [6], ref [8].",
+    "refNo": 8,
+    "title": "Critical evaluation of the Newcastle-Ottawa scale for the assessment of the quality of nonrandomized studies in meta-analyses",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Such an approach is better aligned with evidence that parental adaptation unfolds dynamically and that clinically meaningful difficulties may either remit or emerge after treatment ends ref [48], ref [5], ref [7], ref [9].",
+    "refNo": 48,
+    "title": "Longitudinal research in pediatric psychology: An introduction to the special issue",
+    "marker_text": "[48]"
+  },
+  {
+    "sentence": "Such an approach is better aligned with evidence that parental adaptation unfolds dynamically and that clinically meaningful difficulties may either remit or emerge after treatment ends ref [48], ref [5], ref [7], ref [9].",
+    "refNo": 5,
+    "title": "Mixed Methods Appraisal Tool (MMAT), version 2018",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Such an approach is better aligned with evidence that parental adaptation unfolds dynamically and that clinically meaningful difficulties may either remit or emerge after treatment ends ref [48], ref [5], ref [7], ref [9].",
+    "refNo": 7,
+    "title": "Searching for and selecting studies",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Such an approach is better aligned with evidence that parental adaptation unfolds dynamically and that clinically meaningful difficulties may either remit or emerge after treatment ends ref [48], ref [5], ref [7], ref [9].",
+    "refNo": 9,
+    "title": "Assessing risk of bias in included studies",
+    "marker_text": "[9]"
+  }
+]

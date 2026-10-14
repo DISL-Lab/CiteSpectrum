@@ -1,0 +1,440 @@
+[
+  {
+    "sentence": "Past outbreaks of infectious diseases, earthquakes, and other natural catastrophic events have put the supply chain at risk on a small scale ref [2], ref [4].",
+    "refNo": 2,
+    "title": "Supply chain risk management: A literature review",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Past outbreaks of infectious diseases, earthquakes, and other natural catastrophic events have put the supply chain at risk on a small scale ref [2], ref [4].",
+    "refNo": 4,
+    "title": "A Novel Classification of Supply Chain Risks",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "However, coronavirus disease 2019 has caused tremendous and continuous negative effects worldwide ref [2], ref [3].",
+    "refNo": 2,
+    "title": "Supply chain risk management: A literature review",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "However, coronavirus disease 2019 has caused tremendous and continuous negative effects worldwide ref [2], ref [3].",
+    "refNo": 3,
+    "title": "Interconnectedness as a source of uncertainty in systemic risk",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "The associated panic and lockdown policies have increased hoarding and herding behaviors, shut down resource suppliers, and led to bankruptcies ref [2], ref [3].",
+    "refNo": 2,
+    "title": "Supply chain risk management: A literature review",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "The associated panic and lockdown policies have increased hoarding and herding behaviors, shut down resource suppliers, and led to bankruptcies ref [2], ref [3].",
+    "refNo": 3,
+    "title": "Interconnectedness as a source of uncertainty in systemic risk",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "During the COVID-19 pandemic, people can no longer easily find vegetables, fruit, or toilet paper on supermarket shelves ref [2], ref [4].",
+    "refNo": 2,
+    "title": "Supply chain risk management: A literature review",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "During the COVID-19 pandemic, people can no longer easily find vegetables, fruit, or toilet paper on supermarket shelves ref [2], ref [4].",
+    "refNo": 4,
+    "title": "A Novel Classification of Supply Chain Risks",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "The shortage of these resources and the surge in demand have left the supply chain vulnerable and triggered supply chain risk (SCR), leading to irreparable losses to enterprises ref [1], ref [2], ref [3], ref [4].",
+    "refNo": 1,
+    "title": "Credit Shock Propagation Along Supply Chains: Evidence from the CDS Market",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "The shortage of these resources and the surge in demand have left the supply chain vulnerable and triggered supply chain risk (SCR), leading to irreparable losses to enterprises ref [1], ref [2], ref [3], ref [4].",
+    "refNo": 2,
+    "title": "Supply chain risk management: A literature review",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "The shortage of these resources and the surge in demand have left the supply chain vulnerable and triggered supply chain risk (SCR), leading to irreparable losses to enterprises ref [1], ref [2], ref [3], ref [4].",
+    "refNo": 3,
+    "title": "Interconnectedness as a source of uncertainty in systemic risk",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "The shortage of these resources and the surge in demand have left the supply chain vulnerable and triggered supply chain risk (SCR), leading to irreparable losses to enterprises ref [1], ref [2], ref [3], ref [4].",
+    "refNo": 4,
+    "title": "A Novel Classification of Supply Chain Risks",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "The keywords used in the search were \"machine learning\" and \"supply chain risk\" ref [5], ref [6].",
+    "refNo": 5,
+    "title": "Machine learning and complex biological data",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "The keywords used in the search were \"machine learning\" and \"supply chain risk\" ref [5], ref [6].",
+    "refNo": 6,
+    "title": "Machine learning and deep learning",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "In other words, we collected all articles on ML algorithms and SCRM published in these authoritative databases before June 30, 2021 ref [5], ref [6].",
+    "refNo": 5,
+    "title": "Machine learning and complex biological data",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "In other words, we collected all articles on ML algorithms and SCRM published in these authoritative databases before June 30, 2021 ref [5], ref [6].",
+    "refNo": 6,
+    "title": "Machine learning and deep learning",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "The content of each article was thoroughly reviewed to ensure that it was studied in an ML environment ref [5], ref [6], and 93 articles remained.",
+    "refNo": 5,
+    "title": "Machine learning and complex biological data",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "The content of each article was thoroughly reviewed to ensure that it was studied in an ML environment ref [5], ref [6], and 93 articles remained.",
+    "refNo": 6,
+    "title": "Machine learning and deep learning",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "ML algorithms performs well in identifying abnormal risk factors and deriving predictive insights from historical datasets ref [7].",
+    "refNo": 7,
+    "title": "Integrated phenology and climate in rice yields prediction using machine learning methods",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Enterprises can use ML to identify risk factors and predict market demand and possible risk situations ref [7], which means that when the supply chain encounters challenges in terms of time, cost, and resource constraints, ML is an excellent approach to address them.",
+    "refNo": 7,
+    "title": "Integrated phenology and climate in rice yields prediction using machine learning methods",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Because ML has excellent ability in risk identification and assessment, it has made breakthrough in other research fields, such as data mining and image recognition ref [7].",
+    "refNo": 7,
+    "title": "Integrated phenology and climate in rice yields prediction using machine learning methods",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Therefore, these well-known global supply chain centers are taking the lead in using emerging technologies such as ML to solve SCRM problems to better prevent and mitigate the adverse effects of risk events ref [8].",
+    "refNo": 8,
+    "title": "Comprehensive Assessment of Logistics Financial Risk in Port Regional Supply Chain",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "This direction combines the optimization methods commonly used in supply chains with ML to guide production decisions ref [9].",
+    "refNo": 9,
+    "title": "Applying machine learning to the dynamic selection of replenishment policies in fast-changing supply chain environments",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Because sophisticated ML tools can help managers predict production requirements accurately, they can also prevent inappropriate requirement assessments from causing managers to make incorrect decisions ref [9].",
+    "refNo": 9,
+    "title": "Applying machine learning to the dynamic selection of replenishment policies in fast-changing supply chain environments",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Therefore, some researchers have focused on computer science artificial intelligence and are committed to writing more advanced and effective algorithms to improve ML algorithm accuracy ref [9].",
+    "refNo": 9,
+    "title": "Applying machine learning to the dynamic selection of replenishment policies in fast-changing supply chain environments",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "By analyzing the articles in this study, we find that 11 out of 40 commonly used ML algorithms are applied to SCRM ref [17].",
+    "refNo": 17,
+    "title": "Quantitative analysis of enterprise chain risk based on SVM algorithm and mathematical fuzzy set",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Specifically, these ML algorithms include deep learning (DL), support vector machine (SVM), decision tree (DT), neural networks (NN), bayesian network (BN), logistic regression (LR), random forest (RF), ensemble learning (EL), clustering, extreme learning machine (ELM) and naive bayes (NB) ref [17].",
+    "refNo": 17,
+    "title": "Quantitative analysis of enterprise chain risk based on SVM algorithm and mathematical fuzzy set",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "These ML algorithms play very important roles in reducing risk and improving supply chain performance ref [14], ref [15], ref [17].",
+    "refNo": 14,
+    "title": "Regression analysis of supply chain financial risk based on machine learning and fuzzy decision model",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "These ML algorithms play very important roles in reducing risk and improving supply chain performance ref [14], ref [15], ref [17].",
+    "refNo": 15,
+    "title": "Risk assessment and monitoring of green logistics for fresh produce based on a support vector machine",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "These ML algorithms play very important roles in reducing risk and improving supply chain performance ref [14], ref [15], ref [17].",
+    "refNo": 17,
+    "title": "Quantitative analysis of enterprise chain risk based on SVM algorithm and mathematical fuzzy set",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "In related SCRM studies, SVM has been used for risk assessment and monitoring in green logistics and fresh produce ref [16], for credit risk assessment in supply chain finance ref [10], and for quantitative analysis of enterprise chain risk ref [9].",
+    "refNo": 16,
+    "title": "A data mining-based framework for supply chain risk management",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "In related SCRM studies, SVM has been used for risk assessment and monitoring in green logistics and fresh produce ref [16], for credit risk assessment in supply chain finance ref [10], and for quantitative analysis of enterprise chain risk ref [9].",
+    "refNo": 10,
+    "title": "A credit risk assessment model based on SVM for small and medium enterprises in supply chain finance",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "In related SCRM studies, SVM has been used for risk assessment and monitoring in green logistics and fresh produce ref [16], for credit risk assessment in supply chain finance ref [10], and for quantitative analysis of enterprise chain risk ref [9].",
+    "refNo": 9,
+    "title": "Applying machine learning to the dynamic selection of replenishment policies in fast-changing supply chain environments",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Other core algorithms appearing in supply chain risk prediction include neural networks for enterprise supply chain risk assessment ref [14], random forest and gradient boosting for backorder prediction ref [13], regression-based machine learning and fuzzy decision models for financial risk analysis ref [15], and ELM as a representative classification algorithm in ML applications ref [12].",
+    "refNo": 14,
+    "title": "Regression analysis of supply chain financial risk based on machine learning and fuzzy decision model",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Other core algorithms appearing in supply chain risk prediction include neural networks for enterprise supply chain risk assessment ref [14], random forest and gradient boosting for backorder prediction ref [13], regression-based machine learning and fuzzy decision models for financial risk analysis ref [15], and ELM as a representative classification algorithm in ML applications ref [12].",
+    "refNo": 13,
+    "title": "Enterprise supply chain risk assessment based on improved neural network algorithm and machine learning",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Other core algorithms appearing in supply chain risk prediction include neural networks for enterprise supply chain risk assessment ref [14], random forest and gradient boosting for backorder prediction ref [13], regression-based machine learning and fuzzy decision models for financial risk analysis ref [15], and ELM as a representative classification algorithm in ML applications ref [12].",
+    "refNo": 15,
+    "title": "Risk assessment and monitoring of green logistics for fresh produce based on a support vector machine",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Other core algorithms appearing in supply chain risk prediction include neural networks for enterprise supply chain risk assessment ref [14], random forest and gradient boosting for backorder prediction ref [13], regression-based machine learning and fuzzy decision models for financial risk analysis ref [15], and ELM as a representative classification algorithm in ML applications ref [12].",
+    "refNo": 12,
+    "title": "Prediction of probable backorder scenarios in the supply chain using Distributed Random Forest and Gradient Boosting Machine learning techniques",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "They are not limited to mining risk information from the supply chain's internal data but actively use advanced ML algorithms to mine valuable information from external data to actively avoid risks ref [17].",
+    "refNo": 17,
+    "title": "Quantitative analysis of enterprise chain risk based on SVM algorithm and mathematical fuzzy set",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "For example, researchers can predict consumer demand while mining potential risk factors ref [13], ref [17].",
+    "refNo": 13,
+    "title": "Enterprise supply chain risk assessment based on improved neural network algorithm and machine learning",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "For example, researchers can predict consumer demand while mining potential risk factors ref [13], ref [17].",
+    "refNo": 17,
+    "title": "Quantitative analysis of enterprise chain risk based on SVM algorithm and mathematical fuzzy set",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "However, the benefits of ML for SCRM have indeed been fully recognized ref [20], ref [21], ref [22].",
+    "refNo": 20,
+    "title": "Artificial Intelligence Based Commercial Risk Management Framework for SMEs",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "However, the benefits of ML for SCRM have indeed been fully recognized ref [20], ref [21], ref [22].",
+    "refNo": 21,
+    "title": "Analysis of risk factors in financial supply chain based on machine learning and IoT technology",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "However, the benefits of ML for SCRM have indeed been fully recognized ref [20], ref [21], ref [22].",
+    "refNo": 22,
+    "title": "Research on Supply Chain Financial Risk Assessment Based on Blockchain and Fuzzy Neural Networks",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Based on the analysis in the previous three sections, we find that ML algorithms are mainly applied in the supply chain for risk identification, risk assessment, risk mitigation, risk monitoring, etc. ref [18], ref [19], ref [8], ref [21], ref [22].",
+    "refNo": 18,
+    "title": "Predicting corporate credit risk: Network contagion via trade credit",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Based on the analysis in the previous three sections, we find that ML algorithms are mainly applied in the supply chain for risk identification, risk assessment, risk mitigation, risk monitoring, etc. ref [18], ref [19], ref [8], ref [21], ref [22].",
+    "refNo": 19,
+    "title": "Predicting China's SME Credit Risk in Supply Chain Finance Based on",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Based on the analysis in the previous three sections, we find that ML algorithms are mainly applied in the supply chain for risk identification, risk assessment, risk mitigation, risk monitoring, etc. ref [18], ref [19], ref [8], ref [21], ref [22].",
+    "refNo": 8,
+    "title": "Comprehensive Assessment of Logistics Financial Risk in Port Regional Supply Chain",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Based on the analysis in the previous three sections, we find that ML algorithms are mainly applied in the supply chain for risk identification, risk assessment, risk mitigation, risk monitoring, etc. ref [18], ref [19], ref [8], ref [21], ref [22].",
+    "refNo": 21,
+    "title": "Analysis of risk factors in financial supply chain based on machine learning and IoT technology",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Based on the analysis in the previous three sections, we find that ML algorithms are mainly applied in the supply chain for risk identification, risk assessment, risk mitigation, risk monitoring, etc. ref [18], ref [19], ref [8], ref [21], ref [22].",
+    "refNo": 22,
+    "title": "Research on Supply Chain Financial Risk Assessment Based on Blockchain and Fuzzy Neural Networks",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "For example, Li et al. (2021) used the RF algorithm to identify risk factors such as web page color, information, and some redundant risk factors in the online service supply chain ref [24].",
+    "refNo": 24,
+    "title": "Managing illicit online pharmacies: Web analytics and predictive models study",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "This network information is often more authentic than the information obtained from questionnaires ref [28].",
+    "refNo": 28,
+    "title": "Text Mining Approaches for Postmarket Food Safety Surveillance Using Online Media",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "However, ML algorithms can use computers to process unstructured data such as text and voice data and extract valuable information from them ref [25], ref [28].",
+    "refNo": 25,
+    "title": "Extracting supply chain maps from news articles using deep neural networks",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "However, ML algorithms can use computers to process unstructured data such as text and voice data and extract valuable information from them ref [25], ref [28].",
+    "refNo": 28,
+    "title": "Text Mining Approaches for Postmarket Food Safety Surveillance Using Online Media",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "In addition, Chu et al. (2020) proposed an SCRM framework based on text mining and used the BN model combined with news to classify risk and guide supplier selection ref [29].",
+    "refNo": 29,
+    "title": "Assessing supply chain risk for apparel production in low cost countries using newsfeed analysis. Supply Chain Management-an",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "In general, the ML algorithm can be used in the first step of SCRM to determine the risk factors, which can prevent potential risks in advance ref [23], ref [26], ref [27], ref [9].",
+    "refNo": 23,
+    "title": "Enabling blockchain based scm systems with a real time event monitoring function for preemptive risk management",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "In general, the ML algorithm can be used in the first step of SCRM to determine the risk factors, which can prevent potential risks in advance ref [23], ref [26], ref [27], ref [9].",
+    "refNo": 26,
+    "title": "Supply chain data analytics for predicting supplier disruptions: A case study in complex asset manufacturing",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "In general, the ML algorithm can be used in the first step of SCRM to determine the risk factors, which can prevent potential risks in advance ref [23], ref [26], ref [27], ref [9].",
+    "refNo": 27,
+    "title": "Weatherproofing Supply Chains: Enable Intelligent Preparedness with Data Analytics",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "In general, the ML algorithm can be used in the first step of SCRM to determine the risk factors, which can prevent potential risks in advance ref [23], ref [26], ref [27], ref [9].",
+    "refNo": 9,
+    "title": "Applying machine learning to the dynamic selection of replenishment policies in fast-changing supply chain environments",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "The ML algorithm is considered an excellent method that can provide effective advice for SCRM ref [39], ref [40].",
+    "refNo": 39,
+    "title": "Machine learning: Trends, perspectives, and prospects",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "The ML algorithm is considered an excellent method that can provide effective advice for SCRM ref [39], ref [40].",
+    "refNo": 40,
+    "title": "Machine learning: Algorithms, real-world applications and research directions",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "For example, Nikolopoulos et al. (2021) correctly predicted excessive demand for daily necessities and electronic products during COVID-19 using the DL algorithm, which can help policy makers make better decisions during current pandemics ref [39], ref [40].",
+    "refNo": 39,
+    "title": "Machine learning: Trends, perspectives, and prospects",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "For example, Nikolopoulos et al. (2021) correctly predicted excessive demand for daily necessities and electronic products during COVID-19 using the DL algorithm, which can help policy makers make better decisions during current pandemics ref [39], ref [40].",
+    "refNo": 40,
+    "title": "Machine learning: Algorithms, real-world applications and research directions",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "In addition, Berloco et al. (2021) used the EL, RF, and SVM algorithms to capture the risk spillover in supply chain ref [40], ref [43].",
+    "refNo": 40,
+    "title": "Machine learning: Algorithms, real-world applications and research directions",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "In addition, Berloco et al. (2021) used the EL, RF, and SVM algorithms to capture the risk spillover in supply chain ref [40], ref [43].",
+    "refNo": 43,
+    "title": "Multiple Human-Behaviour Indicators for Predicting Lung Cancer Mortality with Support Vector Machine",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "Similarly, Zhao et al. (2020) used the KNN algorithm to predict the legitimacy of online drugstores with 98.6 % accuracy ref [40].",
+    "refNo": 40,
+    "title": "Machine learning: Algorithms, real-world applications and research directions",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "In general, the ML algorithm can help enterprises develop appropriate strategies to avoid risk and improve the robustness of the supply chain ref [39], ref [40], ref [41], ref [42].",
+    "refNo": 39,
+    "title": "Machine learning: Trends, perspectives, and prospects",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "In general, the ML algorithm can help enterprises develop appropriate strategies to avoid risk and improve the robustness of the supply chain ref [39], ref [40], ref [41], ref [42].",
+    "refNo": 40,
+    "title": "Machine learning: Algorithms, real-world applications and research directions",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "In general, the ML algorithm can help enterprises develop appropriate strategies to avoid risk and improve the robustness of the supply chain ref [39], ref [40], ref [41], ref [42].",
+    "refNo": 41,
+    "title": "Verizon Uses Advanced Analytics to Rationalize Its Tail Spend Suppliers",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "In general, the ML algorithm can help enterprises develop appropriate strategies to avoid risk and improve the robustness of the supply chain ref [39], ref [40], ref [41], ref [42].",
+    "refNo": 42,
+    "title": "Simulated Impacts of Soy and Infrastructure Expansion in the Brazilian Amazon: A",
+    "marker_text": "[42]"
+  },
+  {
+    "sentence": "In this section, we summarize the potential future research directions based on previous analyses of ML algorithms and SCRM ref [44].",
+    "refNo": 44,
+    "title": "XAI Evaluation: Evaluating Black-Box Model Explanations for Prediction",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "Section 6 gives the future research directions in question 3 that require more attention to ML interpretability, more advanced technologies and external supply chain data, etc. ref [45] Furthermore, from the analysis in Section 6, it can be concluded that the impact of the COVID-19 pandemic has made supply chain practitioners deeply aware of the importance of SCRM.",
+    "refNo": 45,
+    "title": "Evolutionary fuzzy systems for explainable artificial intelligence: Why, when, what for, and where to?",
+    "marker_text": "[45]"
+  },
+  {
+    "sentence": "Enterprises can continuously enhance their flexibility with the support of new technologies, such as ML and blockchain, to better respond to the changes in the supply chain environment brought about by the COVID-19 pandemic. ref [45].",
+    "refNo": 45,
+    "title": "Evolutionary fuzzy systems for explainable artificial intelligence: Why, when, what for, and where to?",
+    "marker_text": "[45]"
+  },
+  {
+    "sentence": "The sensitivity (how results change according to input) has been explained by the Shapley value of game theory for tree models ref [46].",
+    "refNo": 46,
+    "title": "Explainable AI: Using Shapley value to explain complex anomaly detection ML-based systems",
+    "marker_text": "[46]"
+  },
+  {
+    "sentence": "Moreover, more ML algorithms have been recently explained by XAI ref [46].",
+    "refNo": 46,
+    "title": "Explainable AI: Using Shapley value to explain complex anomaly detection ML-based systems",
+    "marker_text": "[46]"
+  }
+]

@@ -1,0 +1,812 @@
+[
+  {
+    "sentence": "GPS tags provide high-resolution spatial trajectories, enabling detailed reconstruction of movement paths and habitat use, though their accuracy is limited by sea state, tag attachment, and intermittent signal acquisition [1].",
+    "refNo": 1,
+    "title": "Satellite tracking of marine mammals: methods, applications, and limitations",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "TDRs record depth and duration of dives, often paired with temperature and conductivity sensors to infer prey encounters through behavioral signatures such as bottom time, dive shape, and vertical velocity [2].",
+    "refNo": 2,
+    "title": "Dive behavior and foraging ecology of pinnipeds: insights from time-depth recorders",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Modern tags frequently integrate both systems, allowing simultaneous tracking of location and dive behavior [3].",
+    "refNo": 3,
+    "title": "Integrated satellite and depth-sensing tags for marine predator research",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Accelerometers and heart rate monitors have also been deployed to quantify energy expenditure and detect prey capture events, enhancing the resolution of foraging inference beyond location and depth alone [4].",
+    "refNo": 4,
+    "title": "Accelerometry reveals fine-scale foraging behavior in Antarctic seals",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Some studies combine TDR data with saltwater immersion sensors to distinguish between swimming and resting states, improving the classification of active foraging bouts [5].",
+    "refNo": 5,
+    "title": "Saltwater immersion sensors for distinguishing foraging and resting in pinnipeds",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Satellite relay data loggers (SRDLs) are widely used in remote regions, transmitting dive and location data via polar-orbiting satellites, particularly for species with extensive offshore ranges [6].",
+    "refNo": 6,
+    "title": "Satellite relay data loggers for monitoring southern elephant seals",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Advances in miniaturization have enabled long-term deployments on smaller pinniped species, expanding the taxonomic scope of telemetry studies [7].",
+    "refNo": 7,
+    "title": "Miniaturization of biologging devices and its impact on pinniped telemetry",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "For example, GPS fixes may be absent during prolonged dives or in polar regions with limited satellite coverage [8].",
+    "refNo": 8,
+    "title": "Limitations of GPS telemetry in marine environments: a review",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "TDRs may misclassify shallow dives or fail to detect small prey captures if the associated behavioral signature is subtle [9].",
+    "refNo": 9,
+    "title": "Accuracy of dive behavior classification from TDR data in pinnipeds",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Calibration against direct observation or stable isotope data is often required to validate inferred foraging events [10].",
+    "refNo": 10,
+    "title": "Calibrating telemetry-derived foraging proxies with direct observation and isotopic analysis",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Extended bottom phases, particularly those exceeding species-specific thresholds, are frequently interpreted as prey encounter or handling events, based on the assumption that prolonged time at depth correlates with foraging effort [1].",
+    "refNo": 1,
+    "title": "Satellite tracking of marine mammals: methods, applications, and limitations",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Similarly, increased dive frequency and reduced inter-dive intervals are used as proxies for high foraging activity, especially in species like northern elephant seals where foraging bouts are concentrated in specific oceanographic zones [2].",
+    "refNo": 2,
+    "title": "Dive behavior and foraging ecology of pinnipeds: insights from time-depth recorders",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Accelerometry has further refined these proxies by identifying specific body movements—such as head oscillations or flipper strokes—associated with prey capture, enabling more precise discrimination between foraging and transit dives [3].",
+    "refNo": 3,
+    "title": "Integrated satellite and depth-sensing tags for marine predator research",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Saltwater immersion sensors, which detect when the animal’s head is submerged during prey handling, have also been validated as direct indicators of foraging events, particularly in species that feed at the water column or seabed [4].",
+    "refNo": 4,
+    "title": "Accelerometry reveals fine-scale foraging behavior in Antarctic seals",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Behavioral state models, often applied to dive and movement data, classify foraging zones using statistical clustering of dive parameters, such as vertical velocity and dive shape, to identify distinct behavioral modes [5].",
+    "refNo": 5,
+    "title": "Saltwater immersion sensors for distinguishing foraging and resting in pinnipeds",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "In some cases, the occurrence of ‘V-shaped’ versus ‘U-shaped’ dives is used to infer prey type or foraging strategy, with U-shaped dives suggesting sustained bottom foraging [6].",
+    "refNo": 6,
+    "title": "Satellite relay data loggers for monitoring southern elephant seals",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "More recently, machine learning approaches have integrated multiple sensor inputs—including heart rate, body orientation, and temperature—to improve the accuracy of foraging classification beyond traditional dive metrics [7].",
+    "refNo": 7,
+    "title": "Miniaturization of biologging devices and its impact on pinniped telemetry",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "These proxies, while widely adopted, require calibration against direct observations or physiological data to avoid misclassification, particularly in species with complex foraging ecologies [8].",
+    "refNo": 8,
+    "title": "Limitations of GPS telemetry in marine environments: a review",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "This assumption is often operationalized through behavioral state models that equate specific movement metrics with foraging events, despite the potential for non-foraging activities (e.g., predator avoidance, navigation) to produce similar signatures [1].",
+    "refNo": 1,
+    "title": "Satellite tracking of marine mammals: methods, applications, and limitations",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Another common assumption is that vertical dive profiles alone can distinguish between active foraging and transit, ignoring the possibility of cryptic foraging at depth or opportunistic feeding during transit phases [2].",
+    "refNo": 2,
+    "title": "Dive behavior and foraging ecology of pinnipeds: insights from time-depth recorders",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Furthermore, horizontal movement paths are frequently interpreted as area-restricted search (ARS) behavior indicative of foraging, yet ARS may also arise from environmental constraints or social interactions [3].",
+    "refNo": 3,
+    "title": "Integrated satellite and depth-sensing tags for marine predator research",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "The assumption that foraging occurs primarily in deep, cold, or productive water masses, inferred from bathymetric or oceanographic data, may overlook microhabitat-scale prey distributions that are not captured by coarse environmental layers [4].",
+    "refNo": 4,
+    "title": "Accelerometry reveals fine-scale foraging behavior in Antarctic seals",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Additionally, telemetry data often assume that foraging success is proportional to time spent in certain behavioral states, neglecting variation in prey density, handling time, or nutritional value [5].",
+    "refNo": 5,
+    "title": "Saltwater immersion sensors for distinguishing foraging and resting in pinnipeds",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "The integration of saltwater immersion sensors has challenged the assumption that all dives equate to foraging, revealing that pinnipeds may engage in non-foraging immersion events, such as resting or traveling underwater [6].",
+    "refNo": 6,
+    "title": "Satellite relay data loggers for monitoring southern elephant seals",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Recent studies using accelerometry have further demonstrated that not all deep dives involve prey capture, undermining the reliability of depth-based proxies without corroborating behavioral metrics [7].",
+    "refNo": 7,
+    "title": "Miniaturization of biologging devices and its impact on pinniped telemetry",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Finally, the assumption that foraging behavior is consistent across individuals, populations, or seasons may mask adaptive plasticity in response to environmental variability or individual experience [8].",
+    "refNo": 8,
+    "title": "Limitations of GPS telemetry in marine environments: a review",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "These assumptions, while often necessary for analytical tractability, introduce significant uncertainty into foraging inferences unless validated with direct observations or physiological proxies [9].",
+    "refNo": 9,
+    "title": "Accuracy of dive behavior classification from TDR data in pinnipeds",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Early applications in marine mammals used depth and location data to distinguish between transiting, resting, and area-restricted search states, with seminal work by Jonsen et al. demonstrating robust classification of foraging behaviour in albatrosses and seals [1].",
+    "refNo": 1,
+    "title": "Satellite tracking of marine mammals: methods, applications, and limitations",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Subsequent variants, such as the mixed-effects HMM (ME-HMM), incorporated individual-level random effects to account for heterogeneity in behavioural expression across individuals [2], while the hidden semi-Markov model (HSMM) improved temporal resolution by explicitly modeling state durations [3].",
+    "refNo": 2,
+    "title": "Dive behavior and foraging ecology of pinnipeds: insights from time-depth recorders",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Subsequent variants, such as the mixed-effects HMM (ME-HMM), incorporated individual-level random effects to account for heterogeneity in behavioural expression across individuals [2], while the hidden semi-Markov model (HSMM) improved temporal resolution by explicitly modeling state durations [3].",
+    "refNo": 3,
+    "title": "Integrated satellite and depth-sensing tags for marine predator research",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "More recent advances include the use of multivariate HMMs that integrate accelerometer, magnetometer, and environmental data to enhance state discrimination [4], and the coupling of HMMs with state-space models to jointly estimate movement and behaviour [5].",
+    "refNo": 4,
+    "title": "Accelerometry reveals fine-scale foraging behavior in Antarctic seals",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "More recent advances include the use of multivariate HMMs that integrate accelerometer, magnetometer, and environmental data to enhance state discrimination [4], and the coupling of HMMs with state-space models to jointly estimate movement and behaviour [5].",
+    "refNo": 5,
+    "title": "Saltwater immersion sensors for distinguishing foraging and resting in pinnipeds",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Extensions such as the observation-driven HMM have been applied to non-Gaussian telemetry data, including binary immersion signals [6], and Bayesian HMMs have enabled uncertainty quantification in state assignments [7].",
+    "refNo": 6,
+    "title": "Satellite relay data loggers for monitoring southern elephant seals",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Extensions such as the observation-driven HMM have been applied to non-Gaussian telemetry data, including binary immersion signals [6], and Bayesian HMMs have enabled uncertainty quantification in state assignments [7].",
+    "refNo": 7,
+    "title": "Miniaturization of biologging devices and its impact on pinniped telemetry",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "These methodological refinements have significantly improved ecological inference, though model selection remains sensitive to parameterization and data quality [8].",
+    "refNo": 8,
+    "title": "Limitations of GPS telemetry in marine environments: a review",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Comparative studies have shown that HMMs outperform heuristic thresholds in complex environments but may misclassify states when behavioural transitions are abrupt or poorly sampled [9].",
+    "refNo": 9,
+    "title": "Accuracy of dive behavior classification from TDR data in pinnipeds",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Random forests, in particular, have been successfully applied to classify foraging behaviour using multi-sensor data (e.g., acceleration, depth, and GPS) by leveraging ensemble decision trees to reduce overfitting and estimate feature importance [1].",
+    "refNo": 1,
+    "title": "Satellite tracking of marine mammals: methods, applications, and limitations",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "SVMs, with their capacity to find optimal separating hyperplanes in high-dimensional spaces, have demonstrated strong performance in distinguishing foraging from non-foraging states in seabirds and pinnipeds when trained on labeled movement features [2].",
+    "refNo": 2,
+    "title": "Dive behavior and foraging ecology of pinnipeds: insights from time-depth recorders",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "These methods often outperform traditional heuristic thresholds in complex environments where behavioural transitions are subtle or context-dependent [3].",
+    "refNo": 3,
+    "title": "Integrated satellite and depth-sensing tags for marine predator research",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Recent studies have integrated machine learning with environmental covariates to improve classification accuracy; for instance, random forests have been used to model foraging probability as a function of sea surface temperature and bathymetry, revealing context-specific foraging strategies in marine predators [4].",
+    "refNo": 4,
+    "title": "Accelerometry reveals fine-scale foraging behavior in Antarctic seals",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "SVMs have also been adapted for imbalanced datasets common in telemetry studies, where foraging events are rare relative to traveling or resting states [5].",
+    "refNo": 5,
+    "title": "Saltwater immersion sensors for distinguishing foraging and resting in pinnipeds",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "However, these approaches often lack explicit temporal structure, potentially misclassifying short-duration behavioural events if temporal autocorrelation is ignored [6].",
+    "refNo": 6,
+    "title": "Satellite relay data loggers for monitoring southern elephant seals",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Validation remains challenging due to limited ground-truth data, though supervised learning models benefit from direct observations or video-tagging to train classifiers [7].",
+    "refNo": 7,
+    "title": "Miniaturization of biologging devices and its impact on pinniped telemetry",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Hybrid approaches combining machine learning with HMMs have emerged to retain temporal coherence while leveraging feature-rich predictions [8].",
+    "refNo": 8,
+    "title": "Limitations of GPS telemetry in marine environments: a review",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Despite their predictive power, black-box nature and sensitivity to training data quality necessitate careful calibration and cross-validation to avoid ecological misinterpretation [9].",
+    "refNo": 9,
+    "title": "Accuracy of dive behavior classification from TDR data in pinnipeds",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "While video tags provide direct observational validation of foraging events, their deployment is logistically constrained and often limited to short durations, introducing sampling bias ref [18].",
+    "refNo": 18,
+    "title": "Multivariate hidden Markov models for integrating accelerometry and environmental data in marine predator behaviour",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Even when available, video data may not capture subtle behavioural transitions or environmental context critical for model calibration, leading to misclassification in sensor-based models ref [13].",
+    "refNo": 13,
+    "title": "Foraging efficiency and prey encounter rates in marine mammals: integrating movement and energy models",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Temporal autocorrelation in biologging data further complicates validation, as models trained on non-independent observations may overfit and generalize poorly to new individuals or environments ref [32].",
+    "refNo": 32,
+    "title": "Bias and uncertainty in machine learning-based behavioural classification: challenges for ecological inference",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "This issue is exacerbated when training datasets are derived from a small number of individuals, limiting the representativeness of learned behavioural states ref [13].",
+    "refNo": 13,
+    "title": "Foraging efficiency and prey encounter rates in marine mammals: integrating movement and energy models",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Class imbalance—where foraging events are rare relative to resting or transiting states—also distorts model performance metrics, requiring careful resampling or cost-sensitive learning approaches ref [19].",
+    "refNo": 19,
+    "title": "Joint modeling of animal movement and behaviour using hidden Markov models and state-space frameworks",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Some studies rely on expert heuristic labels from limited dive profiles, while others use proxy variables such as saltwater immersion or acceleration variance without independent verification ref [29].",
+    "refNo": 29,
+    "title": "Temporal autocorrelation and its impact on machine learning models in movement ecology",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Emerging efforts to integrate multi-sensor validation frameworks and citizen-science video annotations offer promise but remain underutilized in large-scale telemetry studies ref [18].",
+    "refNo": 18,
+    "title": "Multivariate hidden Markov models for integrating accelerometry and environmental data in marine predator behaviour",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Marine predators such as pinnipeds and seabirds exhibit area-restricted search behavior in regions of high prey density, but the spatial aggregation of prey is rarely uniform and is influenced by oceanographic features like fronts, upwelling zones, and bathymetric features ref [11].",
+    "refNo": 11,
+    "title": "Area-restricted search behavior in marine predators: a review of methods and ecological implications",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Studies using high-resolution acoustic surveys and biologging have shown that foraging success correlates more strongly with prey patch characteristics (e.g., density, depth, size) than with bulk prey abundance ref [13].",
+    "refNo": 13,
+    "title": "Foraging efficiency and prey encounter rates in marine mammals: integrating movement and energy models",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "In Antarctic systems, spatial heterogeneity in krill distribution drives individual variation in foraging paths, with some individuals specializing in exploiting localized hotspots ref [12].",
+    "refNo": 12,
+    "title": "Oceanographic correlates of foraging success in Antarctic fur seals",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Similarly, in pelagic systems, the patchiness of mesopelagic fish and squid influences dive depth and duration patterns, with predators adjusting search intensity based on prey layering ref [2].",
+    "refNo": 2,
+    "title": "Dive behavior and foraging ecology of pinnipeds: insights from time-depth recorders",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "For instance, area-restricted search (ARS) detected via telemetry may reflect navigation through low-density areas rather than active foraging, leading to false positives ref [9].",
+    "refNo": 9,
+    "title": "Accuracy of dive behavior classification from TDR data in pinnipeds",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Integrating environmental covariates such as sea surface temperature gradients and chlorophyll-a anomalies improves the accuracy of foraging inference by identifying regions where prey aggregation is likely ref [27].",
+    "refNo": 27,
+    "title": "Environmental context improves random forest classification of foraging behaviour in Antarctic penguins",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "Multi-sensor approaches combining accelerometry with environmental data have demonstrated that prey encounter rates are better predicted when spatial heterogeneity is explicitly modeled ref [18].",
+    "refNo": 18,
+    "title": "Multivariate hidden Markov models for integrating accelerometry and environmental data in marine predator behaviour",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Furthermore, prey distribution can vary diurnally and vertically, necessitating context-aware models that account for both spatial and temporal dimensions of prey availability ref [3].",
+    "refNo": 3,
+    "title": "Integrated satellite and depth-sensing tags for marine predator research",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "For instance, shifts in sea surface temperature and upwelling intensity can trigger trophic mismatches, causing marine predators to exhibit high activity in areas with low prey density, as documented in Antarctic penguins during El Niño events [1].",
+    "refNo": 1,
+    "title": "Satellite tracking of marine mammals: methods, applications, and limitations",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Similarly, interannual fluctuations in krill biomass in the Southern Ocean have been shown to drive divergent foraging strategies in Antarctic fur seals, with individuals switching between central-place and wide-ranging foraging modes depending on prey availability [2].",
+    "refNo": 2,
+    "title": "Dive behavior and foraging ecology of pinnipeds: insights from time-depth recorders",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "In northern hemisphere species, such as northern elephant seals, seasonal changes in mesopelagic prey vertical migration patterns modulate dive depth and duration, leading to misclassification of foraging states if environmental context is ignored [3].",
+    "refNo": 3,
+    "title": "Integrated satellite and depth-sensing tags for marine predator research",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Long-term biologging studies reveal that foraging efficiency in species like Atlantic puffins and black-legged kittiwakes declines significantly during warm years when prey shifts offshore or to deeper layers, reducing encounter rates despite increased movement effort [4].",
+    "refNo": 4,
+    "title": "Accelerometry reveals fine-scale foraging behavior in Antarctic seals",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "In marine mammals, such as harbor seals, interannual variability in coastal productivity alters the spatial fidelity of foraging grounds, with individuals exhibiting plasticity in habitat use that is not always predictive of energetic gain [5].",
+    "refNo": 5,
+    "title": "Saltwater immersion sensors for distinguishing foraging and resting in pinnipeds",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "These dynamics underscore the necessity of incorporating multi-year environmental datasets—such as sea surface height anomalies and chlorophyll-a concentrations—into behavioral classification models to avoid spurious inferences [6].",
+    "refNo": 6,
+    "title": "Satellite relay data loggers for monitoring southern elephant seals",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Failure to account for such variability can lead to erroneous conclusions about individual fitness or population-level trends [7].",
+    "refNo": 7,
+    "title": "Miniaturization of biologging devices and its impact on pinniped telemetry",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "For instance, southern elephant seals exhibit high habitat use in productive frontal zones, yet foraging success varies significantly within these areas due to fine-scale prey patchiness and encounter rates [1].",
+    "refNo": 1,
+    "title": "Satellite tracking of marine mammals: methods, applications, and limitations",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Similarly, in seabirds, the use of specific oceanographic features such as eddies or upwelling zones does not guarantee higher prey capture rates, as behavioral state and prey density must be decoupled to infer true foraging efficiency [2].",
+    "refNo": 2,
+    "title": "Dive behavior and foraging ecology of pinnipeds: insights from time-depth recorders",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Accelerometry and video tagging have demonstrated that animals can spend considerable time in high-use habitats without engaging in foraging behaviors, while brief excursions into low-use areas may yield high energy intake [3].",
+    "refNo": 3,
+    "title": "Integrated satellite and depth-sensing tags for marine predator research",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "This disconnect is further complicated by individual variation in foraging strategies, where some individuals optimize for encounter rate while others prioritize handling efficiency, leading to divergent success despite similar habitat use patterns [4].",
+    "refNo": 4,
+    "title": "Accelerometry reveals fine-scale foraging behavior in Antarctic seals",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "For example, combining dive depth profiles with prey encounter models improved foraging success inference in penguins beyond habitat-based indices alone [5].",
+    "refNo": 5,
+    "title": "Saltwater immersion sensors for distinguishing foraging and resting in pinnipeds",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Such approaches underscore that habitat use must be contextualized with behavioral and physiological data to avoid misinterpretation of ecological patterns [6].",
+    "refNo": 6,
+    "title": "Satellite relay data loggers for monitoring southern elephant seals",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Phocids, such as elephant and Weddell seals, are deep-diving, aerobic specialists that often forage over continental shelves and slopes, relying on prolonged dives and efficient oxygen storage to exploit benthic and mesopelagic prey ref [2].",
+    "refNo": 2,
+    "title": "Dive behavior and foraging ecology of pinnipeds: insights from time-depth recorders",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "In contrast, otariids like fur and sea lions are more agile, surface-oriented foragers that use foreflipper propulsion to pursue prey in pelagic and coastal zones, often exhibiting shorter, more frequent dives and higher metabolic rates ref [13].",
+    "refNo": 13,
+    "title": "Foraging efficiency and prey encounter rates in marine mammals: integrating movement and energy models",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "These differences are reflected in their dive profiles, with phocids showing deeper and longer dives compared to the shallower, more variable dive patterns of otariids ref [23].",
+    "refNo": 23,
+    "title": "Comparative performance of hidden Markov models and heuristic methods in classifying marine predator foraging behaviour",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Their foraging is highly localized and substrate-dependent, often occurring in shallow Arctic shelves with high benthic biomass ref [43].",
+    "refNo": 43,
+    "title": "Walrus foraging ecology in the Bering Sea: insights from satellite telemetry and dive records",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "Unlike phocids and otariids, walruses exhibit low dive efficiency and high energy expenditure per foraging event, necessitating frequent returns to haul-outs ref [44].",
+    "refNo": 44,
+    "title": "Energetic costs of benthic foraging in the Pacific walrus",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "These ecological distinctions are further modulated by prey type and habitat structure, with phocids targeting energy-rich cephalopods and fish, otariids pursuing schooling fish and krill, and odobenids specializing in epibenthic invertebrates ref [45].",
+    "refNo": 45,
+    "title": "Prey selection and foraging strategies in Arctic marine mammals",
+    "marker_text": "[45]"
+  },
+  {
+    "sentence": "Comparative studies using biologging technologies reveal that phocids prioritize energy conservation and dive efficiency, otariids emphasize search intensity and prey mobility, and odobenids rely on spatial fidelity to productive benthic patches ref [3].",
+    "refNo": 3,
+    "title": "Integrated satellite and depth-sensing tags for marine predator research",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "These divergent strategies reflect evolutionary trade-offs in locomotion, sensory systems, and metabolic constraints, underscoring the limitations of generalizing foraging behavior across pinniped clades ref [46].",
+    "refNo": 46,
+    "title": "Phylogenetic constraints on foraging behavior in pinnipeds",
+    "marker_text": "[46]"
+  },
+  {
+    "sentence": "Recent work integrating multi-sensor tags has confirmed that even within similar oceanographic regions, foraging modes remain phylogenetically constrained ref [40].",
+    "refNo": 40,
+    "title": "Multi-scale habitat use and foraging success in marine predators: a case study of northern fur seals",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "In species such as the northern elephant seal, males undertake longer, deeper foraging trips during non-breeding periods to accumulate energy reserves for territorial competition, while females prioritize efficiency and proximity to breeding colonies to support lactation ref [47].",
+    "refNo": 47,
+    "title": "Sexual dimorphism in foraging behavior of northern elephant seals: implications for population dynamics",
+    "marker_text": "[47]"
+  },
+  {
+    "sentence": "Similarly, in Antarctic fur seals, females exhibit more restricted foraging ranges during pup-rearing, whereas males forage farther offshore and at greater depths, reflecting their lower reproductive investment and higher mass-specific energy needs ref [48].",
+    "refNo": 48,
+    "title": "Sex-specific foraging strategies in Antarctic fur seals: links to reproductive investment and prey availability",
+    "marker_text": "[48]"
+  },
+  {
+    "sentence": "Juvenile southern elephant seals, for instance, initially adopt shallower, more exploratory dives before gradually adopting adult-like deep-diving strategies, suggesting a learning process in prey detection and energy optimization ref [49].",
+    "refNo": 49,
+    "title": "Ontogeny of diving behavior in juvenile southern elephant seals: learning to forage in the Southern Ocean",
+    "marker_text": "[49]"
+  },
+  {
+    "sentence": "In Steller sea lions, reproductive females reduce foraging range and increase dive frequency during lactation, whereas non-breeding individuals and males show greater flexibility and broader habitat use ref [50].",
+    "refNo": 50,
+    "title": "Life-history stage influences on foraging ecology of Steller sea lions in the eastern Bering Sea",
+    "marker_text": "[50]"
+  },
+  {
+    "sentence": "These differences are not merely behavioral but have energetic and survival consequences, with reproductive females often experiencing higher mass loss and lower foraging success under poor environmental conditions, highlighting the trade-offs between reproduction and self-maintenance ref [51].",
+    "refNo": 51,
+    "title": "Energetic trade-offs during lactation in pinnipeds: consequences for maternal survival and pup growth",
+    "marker_text": "[51]"
+  },
+  {
+    "sentence": "For instance, some southern elephant seals consistently target deep benthic zones while others forage pelagically, even within the same population and breeding season ref [31].",
+    "refNo": 31,
+    "title": "Hybrid hidden Markov and random forest models for improved behavioural state classification",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "Similar patterns of individual consistency have been documented in harbor seals, where individuals show repeatable differences in dive depth and duration across multiple foraging trips ref [47].",
+    "refNo": 47,
+    "title": "Sexual dimorphism in foraging behavior of northern elephant seals: implications for population dynamics",
+    "marker_text": "[47]"
+  },
+  {
+    "sentence": "Grey seals, for example, adjust their foraging ranges and habitat use in response to changes in prey availability across productivity gradients ref [47].",
+    "refNo": 47,
+    "title": "Sexual dimorphism in foraging behavior of northern elephant seals: implications for population dynamics",
+    "marker_text": "[47]"
+  },
+  {
+    "sentence": "In northern fur seals, juveniles exhibit both individual-specific foraging signatures and rapid behavioral adjustments as they transition to independence, indicating a balance between innate tendencies and environmental learning ref [38].",
+    "refNo": 38,
+    "title": "Integrating multi-year oceanographic data into behavioral state models for marine predators",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Mixed-effects hidden Markov models have proven effective in quantifying both fixed individual traits and dynamic responses to environmental covariates ref [43].",
+    "refNo": 43,
+    "title": "Walrus foraging ecology in the Bering Sea: insights from satellite telemetry and dive records",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "Long-term biologging studies confirm that individual specialization can persist despite environmental stochasticity, yet plasticity enables survival under changing conditions, highlighting the importance of behavioral diversity for population resilience ref [10].",
+    "refNo": 10,
+    "title": "Calibrating telemetry-derived foraging proxies with direct observation and isotopic analysis",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Coarse GPS fixes (e.g., >1 hour intervals) obscure fine-scale movement patterns critical for identifying area-restricted search behavior, leading to misclassification of foraging events ref [19].",
+    "refNo": 19,
+    "title": "Joint modeling of animal movement and behaviour using hidden Markov models and state-space frameworks",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Similarly, depth-sensing tags with low sampling rates (e.g., <1 Hz) fail to capture rapid dive transitions or brief prey encounters, underestimating foraging effort ref [39].",
+    "refNo": 39,
+    "title": "Temporal environmental variability confounds inference of foraging success from movement data in marine vertebrates",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "Temporal autocorrelation in high-frequency data can also inflate apparent behavioral persistence, biasing state classification models ref [28].",
+    "refNo": 28,
+    "title": "Handling class imbalance in animal behaviour classification using support vector machines",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "These limitations are exacerbated in marine environments where animal movements occur across scales from meters to hundreds of kilometers and seconds to hours, often outpacing the temporal resolution of available sensors ref [27].",
+    "refNo": 27,
+    "title": "Environmental context improves random forest classification of foraging behaviour in Antarctic penguins",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "Miniaturization efforts have improved data density, but trade-offs remain: higher sampling rates reduce battery life and data storage, forcing compromises in deployment duration ref [20].",
+    "refNo": 20,
+    "title": "Hidden Markov models for binary sensor data: applications to foraging detection in pinnipeds",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "For example, accelerometers capturing 10–50 Hz data enable precise foraging event detection, yet their use in long-term studies remains limited by power constraints ref [8].",
+    "refNo": 8,
+    "title": "Limitations of GPS telemetry in marine environments: a review",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Moreover, spatial interpolation between infrequent GPS fixes introduces positional error that propagates into habitat use models, particularly in dynamic oceanographic regimes ref [19].",
+    "refNo": 19,
+    "title": "Joint modeling of animal movement and behaviour using hidden Markov models and state-space frameworks",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "In pinnipeds, the mismatch between prey patch dynamics (minutes to hours) and tag sampling intervals (hours to days) can decouple observed movement from actual foraging success ref [29].",
+    "refNo": 29,
+    "title": "Temporal autocorrelation and its impact on machine learning models in movement ecology",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "These constraints are especially problematic for juvenile or small-bodied species, where high metabolic demands necessitate fine-scale foraging decisions that are poorly resolved by standard telemetry ref [46].",
+    "refNo": 46,
+    "title": "Phylogenetic constraints on foraging behavior in pinnipeds",
+    "marker_text": "[46]"
+  },
+  {
+    "sentence": "Studies using video tags have revealed that many putative foraging dives lack prey capture events, highlighting how low-resolution data misrepresent behavioral outcomes ref [10].",
+    "refNo": 10,
+    "title": "Calibrating telemetry-derived foraging proxies with direct observation and isotopic analysis",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Accelerometry-based classifiers, for instance, may misclassify high-energy swimming or territorial patrols as foraging, leading to false positives, particularly when prey encounter rates are low or when animals exhibit non-foraging behaviors with similar kinematic signatures ref [17].",
+    "refNo": 17,
+    "title": "Hidden semi-Markov models for animal movement: accounting for state duration in behavioural classification",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Conversely, cryptic foraging events—such as suction feeding or benthic probing—may generate minimal sensor signatures, resulting in false negatives that underestimate foraging effort ref [28].",
+    "refNo": 28,
+    "title": "Handling class imbalance in animal behaviour classification using support vector machines",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "These errors are exacerbated by sensor noise, sampling rate limitations, and the use of training datasets that lack ecological diversity, especially in understudied species or habitats ref [45].",
+    "refNo": 45,
+    "title": "Prey selection and foraging strategies in Arctic marine mammals",
+    "marker_text": "[45]"
+  },
+  {
+    "sentence": "For example, support vector machines applied to accelerometer data have shown high false negative rates when classifying foraging in species with low-impact feeding strategies, such as some penguins and seals ref [55].",
+    "refNo": 55,
+    "title": "Sex-specific responses to prey scarcity in California sea lions: implications for population resilience",
+    "marker_text": "[55]"
+  },
+  {
+    "sentence": "Similarly, hidden Markov models can misassign states when transition probabilities are poorly estimated, particularly in data with high temporal autocorrelation or sparse observations ref [14].",
+    "refNo": 14,
+    "title": "Individual variation in foraging strategies of marine mammals: implications for conservation",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "The prevalence of class imbalance in behavioral datasets further skews classification performance, with rare foraging events frequently overlooked by algorithms optimized for overall accuracy ref [21].",
+    "refNo": 21,
+    "title": "Bayesian hidden Markov models for quantifying uncertainty in animal behavioural classification",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Validation through video-tagged observations remains critical but is logistically constrained, leading to widespread reliance on indirect proxies that amplify misclassification risk ref [28].",
+    "refNo": 28,
+    "title": "Handling class imbalance in animal behaviour classification using support vector machines",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Without robust calibration against direct observation, even sophisticated hybrid models may propagate systematic errors across large-scale studies, distorting inferences about foraging success, energy budgets, and population-level trends ref [17].",
+    "refNo": 17,
+    "title": "Hidden semi-Markov models for animal movement: accounting for state duration in behavioural classification",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Device attachment methods, such as harnesses or glue, can alter animal locomotion, dive profiles, and energy expenditure, leading to misclassification of foraging events ref [15].",
+    "refNo": 15,
+    "title": "Identifying behavioural states from animal movement data: a review of hidden Markov models and their applications",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Similarly, sensor drift, calibration errors, and inadequate sampling rates may introduce spurious patterns that mimic foraging behavior, particularly in accelerometer and depth-sensing systems ref [14].",
+    "refNo": 14,
+    "title": "Individual variation in foraging strategies of marine mammals: implications for conservation",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "The use of satellite relay data loggers, while enabling broad-scale tracking, often sacrifices temporal resolution, conflating brief foraging bouts with prolonged resting or transit states ref [31].",
+    "refNo": 31,
+    "title": "Hybrid hidden Markov and random forest models for improved behavioural state classification",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "Moreover, the deployment of tags on animals during specific life-history stages (e.g., lactation or molting) may bias behavioral interpretations by capturing non-representative foraging strategies ref [44].",
+    "refNo": 44,
+    "title": "Energetic costs of benthic foraging in the Pacific walrus",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "For instance, the use of fixed thresholds to define dive events can misclassify shallow feeding attempts as non-foraging, especially in species with variable dive geometries ref [9].",
+    "refNo": 9,
+    "title": "Accuracy of dive behavior classification from TDR data in pinnipeds",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Additionally, the omission of environmental covariates (e.g., sea surface temperature, bathymetry) during classification may cause models to attribute behavioral states to intrinsic factors when they are, in fact, responses to anthropogenic noise or fishing activity ref [12].",
+    "refNo": 12,
+    "title": "Oceanographic correlates of foraging success in Antarctic fur seals",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Tag-induced changes in foraging efficiency have been documented in pinnipeds, where increased drag from external devices reduces prey capture success, thereby underestimating foraging success ref [15].",
+    "refNo": 15,
+    "title": "Identifying behavioural states from animal movement data: a review of hidden Markov models and their applications",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Finally, the widespread use of machine learning models trained on limited or non-representative ground-truth data can amplify these artifacts, particularly when training datasets are derived from captive or tagged individuals under artificial conditions ref [6].",
+    "refNo": 6,
+    "title": "Satellite relay data loggers for monitoring southern elephant seals",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "For instance, combining accelerometer data with heart rate proxies enables estimation of oxygen consumption during diving and locomotion, allowing direct assessment of foraging costs in pinnipeds and seabirds ref [40].",
+    "refNo": 40,
+    "title": "Multi-scale habitat use and foraging success in marine predators: a case study of northern fur seals",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "Such approaches have revealed that benthic foraging imposes higher energetic demands than pelagic hunting, influencing habitat selection and reproductive trade-offs ref [24].",
+    "refNo": 24,
+    "title": "Machine learning approaches for classifying animal behaviour from biologging data: a review",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Recent advances incorporate environmental variables such as water temperature, prey density, and ocean currents into mechanistic models to predict how climate variability alters energy acquisition and allocation ref [39].",
+    "refNo": 39,
+    "title": "Temporal environmental variability confounds inference of foraging success from movement data in marine vertebrates",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "Bayesian frameworks now allow for the simultaneous estimation of behavioral states and physiological parameters while accounting for individual heterogeneity and measurement error ref [36].",
+    "refNo": 36,
+    "title": "Effects of ocean warming on foraging efficiency and breeding success in North Atlantic seabirds",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "These models have been successfully applied to quantify the energetic consequences of lactation in seals, where maternal foraging effort directly impacts pup growth and survival ref [24].",
+    "refNo": 24,
+    "title": "Machine learning approaches for classifying animal behaviour from biologging data: a review",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Integration with isotopic and hormonal data further validates model outputs by linking physiological states to long-term dietary and stress responses ref [16].",
+    "refNo": 16,
+    "title": "Mixed-effects hidden Markov models for analyzing individual variation in animal behaviour",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "The adoption of community-driven standards such as the Animal Movement and Behavior Archive (AMBA) and the Darwin Core standard for ecological data has improved interoperability across datasets [1].",
+    "refNo": 1,
+    "title": "Satellite tracking of marine mammals: methods, applications, and limitations",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Without such frameworks, inconsistent tagging protocols, sensor calibration methods, and behavioral state definitions hinder meta-analyses and limit the generalizability of findings [2].",
+    "refNo": 2,
+    "title": "Dive behavior and foraging ecology of pinnipeds: insights from time-depth recorders",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Open science practices—including pre-registration of hypotheses, public sharing of raw sensor data, and code repositories—have been shown to reduce analytical bias and enhance validation rigor [3].",
+    "refNo": 3,
+    "title": "Integrated satellite and depth-sensing tags for marine predator research",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Initiatives like Movebank and the Ocean Biogeographic Information System (OBIS) now host thousands of curated biologging datasets, enabling large-scale comparative studies [4].",
+    "refNo": 4,
+    "title": "Accelerometry reveals fine-scale foraging behavior in Antarctic seals",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Many studies still rely on proprietary software or undocumented algorithms, limiting transparency [5].",
+    "refNo": 5,
+    "title": "Saltwater immersion sensors for distinguishing foraging and resting in pinnipeds",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "The lack of standardized reporting guidelines for machine learning models in behavioral classification further exacerbates reproducibility challenges [6].",
+    "refNo": 6,
+    "title": "Satellite relay data loggers for monitoring southern elephant seals",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Recent efforts to develop open-source toolkits such as AnimalTrack and Biotracks have begun to address these gaps by providing modular, well-documented pipelines for data processing and state classification [7].",
+    "refNo": 7,
+    "title": "Miniaturization of biologging devices and its impact on pinniped telemetry",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Collaborative workshops, such as those organized by the International Biologging Society, have promoted consensus on best practices for data curation and metadata annotation [8].",
+    "refNo": 8,
+    "title": "Limitations of GPS telemetry in marine environments: a review",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "To further strengthen inference reliability, journals and funding agencies are increasingly mandating data and code deposition as a condition of publication or grant award [9].",
+    "refNo": 9,
+    "title": "Accuracy of dive behavior classification from TDR data in pinnipeds",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "These policies, when paired with training in open science principles, can catalyze a cultural shift toward transparency and collaboration in movement ecology [10].",
+    "refNo": 10,
+    "title": "Calibrating telemetry-derived foraging proxies with direct observation and isotopic analysis",
+    "marker_text": "[10]"
+  }
+]

@@ -1,0 +1,917 @@
+[
+  {
+    "sentence": "This systems perspective underpins the emergence of wastewater-based epidemiology as a tool for inferring spatially aggregated disease dynamics from urban infrastructure ref [1], ref [2].",
+    "refNo": 1,
+    "title": "Sewage epidemiology and illicit drug research: the development of ethical research guidelines"
+  },
+  {
+    "sentence": "This systems perspective underpins the emergence of wastewater-based epidemiology as a tool for inferring spatially aggregated disease dynamics from urban infrastructure ref [1], ref [2].",
+    "refNo": 2,
+    "title": "Wastewater-based epidemiology: current status and future prospects"
+  },
+  {
+    "sentence": "Early work on population biomarkers and illicit drug residues established the methodological basis for treating wastewater as an index of collective human activity, while subsequent infectious-disease applications extended this logic to viral surveillance ref [1], ref [3].",
+    "refNo": 1,
+    "title": "Sewage epidemiology and illicit drug research: the development of ethical research guidelines"
+  },
+  {
+    "sentence": "Early work on population biomarkers and illicit drug residues established the methodological basis for treating wastewater as an index of collective human activity, while subsequent infectious-disease applications extended this logic to viral surveillance ref [1], ref [3].",
+    "refNo": 3,
+    "title": "Surveillance of poliovirus circulation by environmental sampling in the Global Polio Eradication Initiative"
+  },
+  {
+    "sentence": "Such an expanded lens is important because signal persistence, attenuation, and representativeness are shaped by infrastructure configuration and environmental processes, making interpretation inseparable from urban hydrology and sanitation conditions ref [4], ref [5].",
+    "refNo": 4,
+    "title": "A review of the fate of SARS-CoV-2 in wastewater and sludge"
+  },
+  {
+    "sentence": "Such an expanded lens is important because signal persistence, attenuation, and representativeness are shaped by infrastructure configuration and environmental processes, making interpretation inseparable from urban hydrology and sanitation conditions ref [4], ref [5].",
+    "refNo": 5,
+    "title": "Urban water systems and the COVID-19 pandemic: Towards a more comprehensive conceptual framework"
+  },
+  {
+    "sentence": "This shift is especially important where healthcare access, testing behavior, or reporting practices produce systematic surveillance blind spots ref [6], ref [7].",
+    "refNo": 6,
+    "title": "Sewage chemical-information mining (SCIM): a new approach to epidemiology and public health studies using wastewater analysis"
+  },
+  {
+    "sentence": "This shift is especially important where healthcare access, testing behavior, or reporting practices produce systematic surveillance blind spots ref [6], ref [7].",
+    "refNo": 7,
+    "title": "Sewage reflects the population genetic composition on a global scale"
+  },
+  {
+    "sentence": "Experiences from enteric and vaccine-preventable pathogens showed that environmental surveillance can reveal circulation even when clinical incidence is low or under-ascertained, thereby functioning as an early warning and situational awareness tool ref [8].",
+    "refNo": 8,
+    "title": "Environmental surveillance for Salmonella Typhi as a tool to estimate the incidence of typhoid fever in low-income populations"
+  },
+  {
+    "sentence": "During COVID-19, this logic was rapidly generalized to SARS-CoV-2, with multi-site studies showing that wastewater RNA trends tracked—and in some cases anticipated—reported case dynamics, supporting its role as a complementary rather than substitutive surveillance modality ref [9], ref [10].",
+    "refNo": 9,
+    "title": "First proof of the capability of wastewater surveillance for COVID-19 in the community"
+  },
+  {
+    "sentence": "During COVID-19, this logic was rapidly generalized to SARS-CoV-2, with multi-site studies showing that wastewater RNA trends tracked—and in some cases anticipated—reported case dynamics, supporting its role as a complementary rather than substitutive surveillance modality ref [9], ref [10].",
+    "refNo": 10,
+    "title": "Wastewater surveillance of SARS-CoV-2 across 40 U.S. states"
+  },
+  {
+    "sentence": "This expands the detectable signal from clinically recognized cases to a broader pool that includes presymptomatic, asymptomatic, and recovering individuals ref [11], ref [12].",
+    "refNo": 11,
+    "title": "Clinical Characteristics of Hospitalized Patients With SARS-CoV-2 Infection and Evidence of the Intestinal Tropism of SARS-CoV-2"
+  },
+  {
+    "sentence": "This expands the detectable signal from clinically recognized cases to a broader pool that includes presymptomatic, asymptomatic, and recovering individuals ref [11], ref [12].",
+    "refNo": 12,
+    "title": "Temporal profiles of viral load in posterior oropharyngeal saliva samples and serum antibody responses during infection by SARS-CoV-2: an observational cohort study"
+  },
+  {
+    "sentence": "These findings explain why sewer networks integrate biologically meaningful population-level signals, even when individual testing is incomplete ref [11], ref [13].",
+    "refNo": 11,
+    "title": "Clinical Characteristics of Hospitalized Patients With SARS-CoV-2 Infection and Evidence of the Intestinal Tropism of SARS-CoV-2"
+  },
+  {
+    "sentence": "These findings explain why sewer networks integrate biologically meaningful population-level signals, even when individual testing is incomplete ref [11], ref [13].",
+    "refNo": 13,
+    "title": "SARS-CoV-2 productively infects human gut enterocytes"
+  },
+  {
+    "sentence": "Thus, detectability in water systems reflects a combination of host shedding biology and environmental persistence, supporting wastewater surveillance primarily as an indicator of community infection dynamics rather than direct waterborne transmission risk ref [14], ref [15].",
+    "refNo": 14,
+    "title": "Persistence of coronaviruses in water and wastewater"
+  },
+  {
+    "sentence": "Thus, detectability in water systems reflects a combination of host shedding biology and environmental persistence, supporting wastewater surveillance primarily as an indicator of community infection dynamics rather than direct waterborne transmission risk ref [14], ref [15].",
+    "refNo": 15,
+    "title": "Occurrence and persistence of coronaviruses in water environments: a review"
+  },
+  {
+    "sentence": "Building-level and sewershed monitoring demonstrated that SARS-CoV-2 trends can be localized to campuses, institutions, and subcatchments, creating actionable information for targeted testing, risk communication, and operational responses rather than relying solely on citywide aggregates ref [16], ref [17].",
+    "refNo": 16,
+    "title": "COVID-19 wastewater epidemiology: A model to estimate infected populations"
+  },
+  {
+    "sentence": "Building-level and sewershed monitoring demonstrated that SARS-CoV-2 trends can be localized to campuses, institutions, and subcatchments, creating actionable information for targeted testing, risk communication, and operational responses rather than relying solely on citywide aggregates ref [16], ref [17].",
+    "refNo": 17,
+    "title": "Building-level wastewater surveillance using tampon swabs and RT-LAMP for rapid SARS-CoV-2 outbreak detection"
+  },
+  {
+    "sentence": "At larger scales, the rapid expansion of national and multi-site wastewater monitoring showed that environmental data can support public health decision-making across heterogeneous urban systems, including places where clinical testing is delayed, uneven, or declining ref [18], ref [19].",
+    "refNo": 18,
+    "title": "Nationwide wastewater surveillance for SARS-CoV-2 across 40 U.S. states"
+  },
+  {
+    "sentence": "At larger scales, the rapid expansion of national and multi-site wastewater monitoring showed that environmental data can support public health decision-making across heterogeneous urban systems, including places where clinical testing is delayed, uneven, or declining ref [18], ref [19].",
+    "refNo": 19,
+    "title": "Wastewater surveillance can have a second act in COVID-19 vaccine distribution"
+  },
+  {
+    "sentence": "Sewer connectivity, dilution, industrial inputs, stormwater intrusion, and demographic differences in on-site sanitation can all distort comparisons between places, while the increasing spatial granularity of monitoring raises ethical questions about stigmatization and appropriate use of data ref [1].",
+    "refNo": 1,
+    "title": "Sewage epidemiology and illicit drug research: the development of ethical research guidelines"
+  },
+  {
+    "sentence": "Reviews published early in the pandemic also show that evidence on virus occurrence, persistence, and detectability outside raw wastewater was rapidly assembled from heterogeneous methods and often extrapolated from surrogate coronaviruses or limited field datasets rather than from systematically comparable urban water observations ref [4], ref [5].",
+    "refNo": 4,
+    "title": "A review of the fate of SARS-CoV-2 in wastewater and sludge"
+  },
+  {
+    "sentence": "Reviews published early in the pandemic also show that evidence on virus occurrence, persistence, and detectability outside raw wastewater was rapidly assembled from heterogeneous methods and often extrapolated from surrogate coronaviruses or limited field datasets rather than from systematically comparable urban water observations ref [4], ref [5].",
+    "refNo": 5,
+    "title": "Urban water systems and the COVID-19 pandemic: Towards a more comprehensive conceptual framework"
+  },
+  {
+    "sentence": "Interlaboratory assessments demonstrated substantial variability in measured SARS-CoV-2 concentrations even when analyzing common samples, underscoring that much of the literature is more reliable for within-site temporal tracking than for absolute comparisons across cities or countries ref [20].",
+    "refNo": 20,
+    "title": "Reproducibility and sensitivity of 36 methods to quantify the SARS-CoV-2 genetic signal in raw wastewater: findings from an interlaboratory methods evaluation in the U.S."
+  },
+  {
+    "sentence": "As a result, current knowledge supports wastewater surveillance as a useful component of urban epidemiological monitoring, but it provides a less complete basis for generalizing across the full urban water cycle or for drawing uniform planning conclusions across diverse urban environments ref [5], ref [21].",
+    "refNo": 5,
+    "title": "Urban water systems and the COVID-19 pandemic: Towards a more comprehensive conceptual framework"
+  },
+  {
+    "sentence": "As a result, current knowledge supports wastewater surveillance as a useful component of urban epidemiological monitoring, but it provides a less complete basis for generalizing across the full urban water cycle or for drawing uniform planning conclusions across diverse urban environments ref [5], ref [21].",
+    "refNo": 21,
+    "title": "Wastewater surveillance for population-wide Covid-19: the present and future"
+  },
+  {
+    "sentence": "Early wastewater studies rapidly confirmed that these excreted markers aggregate at the community scale and can be detected at sewer inlets and treatment plant influents, establishing the mechanistic basis for wastewater-based epidemiology ref [13], ref [12], ref [9].",
+    "refNo": 13,
+    "title": "SARS-CoV-2 productively infects human gut enterocytes"
+  },
+  {
+    "sentence": "Early wastewater studies rapidly confirmed that these excreted markers aggregate at the community scale and can be detected at sewer inlets and treatment plant influents, establishing the mechanistic basis for wastewater-based epidemiology ref [13], ref [12], ref [9].",
+    "refNo": 12,
+    "title": "Temporal profiles of viral load in posterior oropharyngeal saliva samples and serum antibody responses during infection by SARS-CoV-2: an observational cohort study"
+  },
+  {
+    "sentence": "Early wastewater studies rapidly confirmed that these excreted markers aggregate at the community scale and can be detected at sewer inlets and treatment plant influents, establishing the mechanistic basis for wastewater-based epidemiology ref [13], ref [12], ref [9].",
+    "refNo": 9,
+    "title": "First proof of the capability of wastewater surveillance for COVID-19 in the community"
+  },
+  {
+    "sentence": "Building- and neighborhood-scale studies showed that upstream sampling can capture localized shedding signals, but they also highlighted the strong dependence of detectability on occupancy, plumbing configuration, and dilution within the connected network ref [17], ref [19].",
+    "refNo": 17,
+    "title": "Building-level wastewater surveillance using tampon swabs and RT-LAMP for rapid SARS-CoV-2 outbreak detection"
+  },
+  {
+    "sentence": "Building- and neighborhood-scale studies showed that upstream sampling can capture localized shedding signals, but they also highlighted the strong dependence of detectability on occupancy, plumbing configuration, and dilution within the connected network ref [17], ref [19].",
+    "refNo": 19,
+    "title": "Wastewater surveillance can have a second act in COVID-19 vaccine distribution"
+  },
+  {
+    "sentence": "Large multicity datasets further show that temporal trends are interpretable at population scale, but signal stability depends on sewershed size, sampling frequency, and normalization choices ref [16], ref [18].",
+    "refNo": 16,
+    "title": "COVID-19 wastewater epidemiology: A model to estimate infected populations"
+  },
+  {
+    "sentence": "Large multicity datasets further show that temporal trends are interpretable at population scale, but signal stability depends on sewershed size, sampling frequency, and normalization choices ref [16], ref [18].",
+    "refNo": 18,
+    "title": "Nationwide wastewater surveillance for SARS-CoV-2 across 40 U.S. states"
+  },
+  {
+    "sentence": "Building- and neighborhood-scale surveillance has demonstrated that finer spatial resolution can improve outbreak localization, but it also increases sensitivity to stochastic occupancy and intermittent shedding, making representativeness more fragile than at treatment-plant influents ref [17], ref [21].",
+    "refNo": 17,
+    "title": "Building-level wastewater surveillance using tampon swabs and RT-LAMP for rapid SARS-CoV-2 outbreak detection"
+  },
+  {
+    "sentence": "Building- and neighborhood-scale surveillance has demonstrated that finer spatial resolution can improve outbreak localization, but it also increases sensitivity to stochastic occupancy and intermittent shedding, making representativeness more fragile than at treatment-plant influents ref [17], ref [21].",
+    "refNo": 21,
+    "title": "Wastewater surveillance for population-wide Covid-19: the present and future"
+  },
+  {
+    "sentence": "National-scale surveillance frameworks have underscored the value of standardized sampling and interpretation protocols to separate true public-health trends from sewer-system noise ref [18], ref [10].",
+    "refNo": 18,
+    "title": "Nationwide wastewater surveillance for SARS-CoV-2 across 40 U.S. states"
+  },
+  {
+    "sentence": "National-scale surveillance frameworks have underscored the value of standardized sampling and interpretation protocols to separate true public-health trends from sewer-system noise ref [18], ref [10].",
+    "refNo": 10,
+    "title": "Wastewater surveillance of SARS-CoV-2 across 40 U.S. states"
+  },
+  {
+    "sentence": "Enveloped coronaviruses generally lose infectivity relatively quickly in aqueous environments, with persistence strongly modulated by temperature, organic matter, and matrix composition; by contrast, RNA fragments can remain detectable after infectivity has decayed, which is why wastewater surveillance is typically interpreted as tracking genetic markers rather than viable virus ref [14], ref [15].",
+    "refNo": 14,
+    "title": "Persistence of coronaviruses in water and wastewater"
+  },
+  {
+    "sentence": "Enveloped coronaviruses generally lose infectivity relatively quickly in aqueous environments, with persistence strongly modulated by temperature, organic matter, and matrix composition; by contrast, RNA fragments can remain detectable after infectivity has decayed, which is why wastewater surveillance is typically interpreted as tracking genetic markers rather than viable virus ref [14], ref [15].",
+    "refNo": 15,
+    "title": "Occurrence and persistence of coronaviruses in water environments: a review"
+  },
+  {
+    "sentence": "Reviews of coronavirus persistence in water and wastewater consistently indicate faster inactivation at higher temperatures and in biologically active matrices ref [14], ref [15].",
+    "refNo": 14,
+    "title": "Persistence of coronaviruses in water and wastewater"
+  },
+  {
+    "sentence": "Reviews of coronavirus persistence in water and wastewater consistently indicate faster inactivation at higher temperatures and in biologically active matrices ref [14], ref [15].",
+    "refNo": 15,
+    "title": "Occurrence and persistence of coronaviruses in water environments: a review"
+  },
+  {
+    "sentence": "In a detailed wastewater fractionation study, viral RNA was found to associate disproportionately with the solid phase, helping explain why solids-rich samples often yield stronger and more stable signals than liquid influent alone ref [22].",
+    "refNo": 22,
+    "title": "Respiratory viruses in municipal wastewater — nested PCR detection of adenovirus, reovirus, and rotavirus with evidence of selective adsorption to solids"
+  },
+  {
+    "sentence": "Consequently, temporal comparisons in wastewater epidemiology are most robust when analytical workflows account for matrix-specific losses and when interpretation recognizes that RNA persistence does not equate to sustained infectivity or direct transmission risk ref [15], ref [4].",
+    "refNo": 15,
+    "title": "Occurrence and persistence of coronaviruses in water environments: a review"
+  },
+  {
+    "sentence": "Consequently, temporal comparisons in wastewater epidemiology are most robust when analytical workflows account for matrix-specific losses and when interpretation recognizes that RNA persistence does not equate to sustained infectivity or direct transmission risk ref [15], ref [4].",
+    "refNo": 4,
+    "title": "A review of the fate of SARS-CoV-2 in wastewater and sludge"
+  },
+  {
+    "sentence": "These hydraulic disruptions were highlighted in conceptual assessments of urban water pathways for COVID-19 and in field-scale surveillance studies that noted weather-sensitive variation in sewer signals ref [5], ref [18].",
+    "refNo": 5,
+    "title": "Urban water systems and the COVID-19 pandemic: Towards a more comprehensive conceptual framework"
+  },
+  {
+    "sentence": "These hydraulic disruptions were highlighted in conceptual assessments of urban water pathways for COVID-19 and in field-scale surveillance studies that noted weather-sensitive variation in sewer signals ref [5], ref [18].",
+    "refNo": 18,
+    "title": "Nationwide wastewater surveillance for SARS-CoV-2 across 40 U.S. states"
+  },
+  {
+    "sentence": "Because enveloped virus surrogates and coronavirus RNA often partition to particulate matter, storm-driven resuspension may transiently elevate or redistribute detectable signals even as bulk wastewater is diluted ref [22].",
+    "refNo": 22,
+    "title": "Respiratory viruses in municipal wastewater — nested PCR detection of adenovirus, reovirus, and rotavirus with evidence of selective adsorption to solids"
+  },
+  {
+    "sentence": "Observations from river and wastewater interfaces further suggest that wet-weather events can transfer SARS-CoV-2 RNA to surface waters downstream of urban discharges, although such detections generally reflect marker transport rather than demonstrated infectivity ref [23].",
+    "refNo": 23,
+    "title": "First detection of SARS-CoV-2 RNA in wastewater and river water in Japan"
+  },
+  {
+    "sentence": "Early plant-scale studies reported consistent influent detection with much weaker or absent signals after secondary and tertiary treatment, indicating substantial removal through a combination of solids partitioning, biological treatment, and disinfection rather than persistence in the aqueous phase alone ref [24], ref [25].",
+    "refNo": 24,
+    "title": "First detection of SARS-CoV-2 RNA in wastewater in North America: A study in Louisiana, USA"
+  },
+  {
+    "sentence": "Early plant-scale studies reported consistent influent detection with much weaker or absent signals after secondary and tertiary treatment, indicating substantial removal through a combination of solids partitioning, biological treatment, and disinfection rather than persistence in the aqueous phase alone ref [24], ref [25].",
+    "refNo": 25,
+    "title": "Fate of SARS-CoV-2 during wastewater treatment monitored by RT-qPCR in wastewater and sludge"
+  },
+  {
+    "sentence": "Primary sludge measurements have shown strong temporal correspondence with community case dynamics, supporting the view that solids concentration can improve detectability and damp short-term variability caused by hydraulic dilution in influent wastewater ref [26], ref [27].",
+    "refNo": 26,
+    "title": "SARS-CoV-2 RNA concentrations in primary municipal sewage sludge as a leading indicator of COVID-19 outbreak dynamics"
+  },
+  {
+    "sentence": "Primary sludge measurements have shown strong temporal correspondence with community case dynamics, supporting the view that solids concentration can improve detectability and damp short-term variability caused by hydraulic dilution in influent wastewater ref [26], ref [27].",
+    "refNo": 27,
+    "title": "The detection and stability of the SARS-CoV-2 RNA biomarkers in wastewater influent in Helsinki, Finland"
+  },
+  {
+    "sentence": "Consequently, interpretation of sludge and biosolids monitoring should distinguish between molecular persistence and viable-virus risk, especially when comparing treatment performance across plants using different solids handling trains ref [4].",
+    "refNo": 4,
+    "title": "A review of the fate of SARS-CoV-2 in wastewater and sludge"
+  },
+  {
+    "sentence": "Early field evidence from Japan demonstrated SARS-CoV-2 RNA in river water alongside detections in wastewater, illustrating that receiving waters can transiently register community infection signals where hydraulic connectivity and discharge conditions permit ref [23].",
+    "refNo": 23,
+    "title": "First detection of SARS-CoV-2 RNA in wastewater and river water in Japan"
+  },
+  {
+    "sentence": "Similar observations in low-sanitation settings further suggest that environmental contamination may extend beyond formal outfalls, especially where untreated or partially treated wastewaters reach surface waters directly ref [28].",
+    "refNo": 28,
+    "title": "First detection of SARS-CoV-2 in untreated wastewaters in Brazil"
+  },
+  {
+    "sentence": "Coronaviruses are enveloped and generally less stable in environmental waters than many non-enveloped enteric viruses, so infectivity is expected to decline rapidly under oxidizing treatment, UV exposure, and ambient outdoor conditions ref [14].",
+    "refNo": 14,
+    "title": "Persistence of coronaviruses in water and wastewater"
+  },
+  {
+    "sentence": "Reviews of waterborne occurrence have emphasized that interpretation must account for hydrology, residence time, salinity, sunlight, and solids interactions, all of which influence detectability and the distance over which SARS-CoV-2 RNA can be traced after discharge ref [15].",
+    "refNo": 15,
+    "title": "Occurrence and persistence of coronaviruses in water environments: a review"
+  },
+  {
+    "sentence": "Early studies also showed that suspended solids and primary sludge can carry a stronger viral signal than matched liquid influent, motivating matrix-specific strategies when higher sensitivity or temporal smoothing is desired ref [26], ref [22].",
+    "refNo": 26,
+    "title": "SARS-CoV-2 RNA concentrations in primary municipal sewage sludge as a leading indicator of COVID-19 outbreak dynamics"
+  },
+  {
+    "sentence": "Early studies also showed that suspended solids and primary sludge can carry a stronger viral signal than matched liquid influent, motivating matrix-specific strategies when higher sensitivity or temporal smoothing is desired ref [26], ref [22].",
+    "refNo": 22,
+    "title": "Respiratory viruses in municipal wastewater — nested PCR detection of adenovirus, reovirus, and rotavirus with evidence of selective adsorption to solids"
+  },
+  {
+    "sentence": "Practical programs therefore often combine fixed sentinel sites with risk-based targeted sampling, an approach consistent with broader wastewater-based epidemiology frameworks and with experience from environmental surveillance in other pathogens ref [17], ref [2].",
+    "refNo": 17,
+    "title": "Building-level wastewater surveillance using tampon swabs and RT-LAMP for rapid SARS-CoV-2 outbreak detection"
+  },
+  {
+    "sentence": "Practical programs therefore often combine fixed sentinel sites with risk-based targeted sampling, an approach consistent with broader wastewater-based epidemiology frameworks and with experience from environmental surveillance in other pathogens ref [17], ref [2].",
+    "refNo": 2,
+    "title": "Wastewater-based epidemiology: current status and future prospects"
+  },
+  {
+    "sentence": "Cross-jurisdictional comparability further benefits from documenting sewer catchment characteristics, sample timing, storage, and transport conditions alongside analytical results ref [18], ref [2].",
+    "refNo": 18,
+    "title": "Nationwide wastewater surveillance for SARS-CoV-2 across 40 U.S. states"
+  },
+  {
+    "sentence": "Cross-jurisdictional comparability further benefits from documenting sewer catchment characteristics, sample timing, storage, and transport conditions alongside analytical results ref [18], ref [2].",
+    "refNo": 2,
+    "title": "Wastewater-based epidemiology: current status and future prospects"
+  },
+  {
+    "sentence": "Early COVID-19 wastewater studies adapted virus recovery workflows from enteric virology, most commonly polyethylene glycol (PEG) precipitation, ultrafiltration, electronegative membrane adsorption–extraction, and centrifugation-based enrichment of solids ref [9], ref [24].",
+    "refNo": 9,
+    "title": "First proof of the capability of wastewater surveillance for COVID-19 in the community"
+  },
+  {
+    "sentence": "Early COVID-19 wastewater studies adapted virus recovery workflows from enteric virology, most commonly polyethylene glycol (PEG) precipitation, ultrafiltration, electronegative membrane adsorption–extraction, and centrifugation-based enrichment of solids ref [9], ref [24].",
+    "refNo": 24,
+    "title": "First detection of SARS-CoV-2 RNA in wastewater in North America: A study in Louisiana, USA"
+  },
+  {
+    "sentence": "Comparative evidence indicates that no single approach is universally optimal; performance depends on wastewater composition, target fraction analyzed, throughput needs, and whether the workflow prioritizes RNA yield, inhibitor removal, or processing speed ref [20].",
+    "refNo": 20,
+    "title": "Reproducibility and sensitivity of 36 methods to quantify the SARS-CoV-2 genetic signal in raw wastewater: findings from an interlaboratory methods evaluation in the U.S."
+  },
+  {
+    "sentence": "SARS-CoV-2 RNA is frequently enriched in particulate material, making direct extraction from primary sludge or pelleted solids attractive for sensitivity gains, although this can increase co-extraction of PCR inhibitors and complicate normalization across sites ref [25], ref [27].",
+    "refNo": 25,
+    "title": "Fate of SARS-CoV-2 during wastewater treatment monitored by RT-qPCR in wastewater and sludge"
+  },
+  {
+    "sentence": "SARS-CoV-2 RNA is frequently enriched in particulate material, making direct extraction from primary sludge or pelleted solids attractive for sensitivity gains, although this can increase co-extraction of PCR inhibitors and complicate normalization across sites ref [25], ref [27].",
+    "refNo": 27,
+    "title": "The detection and stability of the SARS-CoV-2 RNA biomarkers in wastewater influent in Helsinki, Finland"
+  },
+  {
+    "sentence": "Interlaboratory work suggests that recovery correction and rigorous process controls may matter more for data comparability than the nominal concentration method itself, provided the protocol is implemented consistently ref [20].",
+    "refNo": 20,
+    "title": "Reproducibility and sensitivity of 36 methods to quantify the SARS-CoV-2 genetic signal in raw wastewater: findings from an interlaboratory methods evaluation in the U.S."
+  },
+  {
+    "sentence": "Early wastewater studies demonstrated that RT-qPCR could consistently recover actionable community signals despite complex matrices and low target abundance, helping establish wastewater surveillance as a practical epidemiological tool ref [24], ref [28].",
+    "refNo": 24,
+    "title": "First detection of SARS-CoV-2 RNA in wastewater in North America: A study in Louisiana, USA"
+  },
+  {
+    "sentence": "Early wastewater studies demonstrated that RT-qPCR could consistently recover actionable community signals despite complex matrices and low target abundance, helping establish wastewater surveillance as a practical epidemiological tool ref [24], ref [28].",
+    "refNo": 28,
+    "title": "First detection of SARS-CoV-2 in untreated wastewaters in Brazil"
+  },
+  {
+    "sentence": "By partitioning reactions into thousands of droplets and using end-point counting, ddPCR can improve tolerance to wastewater-associated inhibition and support more precise quantification at low copy number, although throughput, instrument cost, and assay harmonization remain constraints ref [29].",
+    "refNo": 29,
+    "title": "RT-ddPCR in COVID-19 wastewater surveillance: a sensitive and robust method for SARS-CoV-2 detection in wastewater"
+  },
+  {
+    "sentence": "Comparative work in wastewater has therefore positioned RT-qPCR as the high-throughput routine platform and ddPCR as a valuable confirmatory or low-abundance quantification tool rather than a universal replacement ref [29], ref [20].",
+    "refNo": 29,
+    "title": "RT-ddPCR in COVID-19 wastewater surveillance: a sensitive and robust method for SARS-CoV-2 detection in wastewater"
+  },
+  {
+    "sentence": "Comparative work in wastewater has therefore positioned RT-qPCR as the high-throughput routine platform and ddPCR as a valuable confirmatory or low-abundance quantification tool rather than a universal replacement ref [29], ref [20].",
+    "refNo": 20,
+    "title": "Reproducibility and sensitivity of 36 methods to quantify the SARS-CoV-2 genetic signal in raw wastewater: findings from an interlaboratory methods evaluation in the U.S."
+  },
+  {
+    "sentence": "Reverse-transcription loop-mediated isothermal amplification (RT-LAMP) can shorten turnaround time and simplify instrumentation, making it attractive for near-source surveillance, but performance is generally more matrix-dependent and less standardized than PCR-based methods ref [17].",
+    "refNo": 17,
+    "title": "Building-level wastewater surveillance using tampon swabs and RT-LAMP for rapid SARS-CoV-2 outbreak detection"
+  },
+  {
+    "sentence": "Human fecal indicators such as pepper mild mottle virus (PMMoV) and crAssphage are commonly used to adjust for changes in fecal strength, although their value is context dependent and may not always improve epidemiological correlations when hydraulic variability is limited or when biomarker shedding is itself variable ref [30], ref [31].",
+    "refNo": 30,
+    "title": "Population normalization with ammonium in wastewater-based epidemiology: application to illicit drug monitoring"
+  },
+  {
+    "sentence": "Human fecal indicators such as pepper mild mottle virus (PMMoV) and crAssphage are commonly used to adjust for changes in fecal strength, although their value is context dependent and may not always improve epidemiological correlations when hydraulic variability is limited or when biomarker shedding is itself variable ref [30], ref [31].",
+    "refNo": 31,
+    "title": "Relationships between SARS-CoV-2 in wastewater and COVID-19 clinical cases and hospitalizations, with and without normalization against indicators of human waste"
+  },
+  {
+    "sentence": "Experience from multi-laboratory method evaluations showed that recovery efficiencies can vary by several orders of magnitude across methods, making matrix spikes and recovery correction critical for comparing data within and across programs ref [32].",
+    "refNo": 32,
+    "title": "Interlaboratory evaluation of methods for quantification of SARS-CoV-2 genetic signal in raw wastewater"
+  },
+  {
+    "sentence": "Digital and quantitative PCR platforms also require transparent reporting of assay limits, replicate consistency, and censoring rules for non-detects to avoid overinterpretation of low-level signals ref [33].",
+    "refNo": 33,
+    "title": "Making waves: Defining the lead time of wastewater-based epidemiology for COVID-19"
+  },
+  {
+    "sentence": "Guidance documents for wastewater surveillance have recommended harmonized reporting of sample type, storage, concentration method, recovery surrogate, inhibition results, and normalization approach so that temporal trends can be distinguished from analytical artifacts ref [34].",
+    "refNo": 34,
+    "title": "Wastewater surveillance testing methods"
+  },
+  {
+    "sentence": "Early demonstrations showed that wastewater sequencing could recover epidemiologically meaningful viral diversity and support population-scale tracking of variant turnover ref [35], ref [36].",
+    "refNo": 35,
+    "title": "High-throughput sequencing of SARS-CoV-2 in wastewater provides insights into circulating variants"
+  },
+  {
+    "sentence": "Early demonstrations showed that wastewater sequencing could recover epidemiologically meaningful viral diversity and support population-scale tracking of variant turnover ref [35], ref [36].",
+    "refNo": 36,
+    "title": "COVID-19 infection dynamics revealed by SARS-CoV-2 wastewater sequencing analysis and deconvolution"
+  },
+  {
+    "sentence": "In practice, enrichment of shorter amplicons and computational approaches for mixed-sample reconstruction have been important for improving lineage assignment from degraded wastewater RNA ref [36], ref [37].",
+    "refNo": 36,
+    "title": "COVID-19 infection dynamics revealed by SARS-CoV-2 wastewater sequencing analysis and deconvolution"
+  },
+  {
+    "sentence": "In practice, enrichment of shorter amplicons and computational approaches for mixed-sample reconstruction have been important for improving lineage assignment from degraded wastewater RNA ref [36], ref [37].",
+    "refNo": 37,
+    "title": "Detection of SARS-CoV-2 variants in Switzerland by genomic analysis of wastewater samples"
+  },
+  {
+    "sentence": "In several settings, new variants were detected in sewage before or alongside their recognition in clinical surveillance, highlighting the value of wastewater for monitoring under-ascertained transmission and uneven clinical sequencing coverage ref [37], ref [38].",
+    "refNo": 37,
+    "title": "Detection of SARS-CoV-2 variants in Switzerland by genomic analysis of wastewater samples"
+  },
+  {
+    "sentence": "In several settings, new variants were detected in sewage before or alongside their recognition in clinical surveillance, highlighting the value of wastewater for monitoring under-ascertained transmission and uneven clinical sequencing coverage ref [37], ref [38].",
+    "refNo": 38,
+    "title": "Wastewater sequencing reveals early cryptic SARS-CoV-2 variant transmission"
+  },
+  {
+    "sentence": "Nevertheless, interpretation remains constrained by composite sampling, low-frequency variant detection limits, and the challenge of distinguishing true novel signals from sequencing artifacts, underscoring the need for harmonized bioinformatic pipelines and confirmation across replicate samples or orthogonal assays ref [35], ref [38].",
+    "refNo": 35,
+    "title": "High-throughput sequencing of SARS-CoV-2 in wastewater provides insights into circulating variants"
+  },
+  {
+    "sentence": "Nevertheless, interpretation remains constrained by composite sampling, low-frequency variant detection limits, and the challenge of distinguishing true novel signals from sequencing artifacts, underscoring the need for harmonized bioinformatic pipelines and confirmation across replicate samples or orthogonal assays ref [35], ref [38].",
+    "refNo": 38,
+    "title": "Wastewater sequencing reveals early cryptic SARS-CoV-2 variant transmission"
+  },
+  {
+    "sentence": "methods evaluation spanning 36 procedures, most approaches generated comparable concentration patterns despite substantial variability in absolute recovery, underscoring that harmonized quality controls may be more important than strict procedural uniformity for many surveillance objectives ref [20].",
+    "refNo": 20,
+    "title": "Reproducibility and sensitivity of 36 methods to quantify the SARS-CoV-2 genetic signal in raw wastewater: findings from an interlaboratory methods evaluation in the U.S."
+  },
+  {
+    "sentence": "A related interlaboratory assessment emphasized that comparability improves when laboratories standardize core metadata and analytical performance metrics, including matrix type, sample fraction analyzed, limits of detection/quantification, inhibition assessment, and recovery surrogate behavior ref [32].",
+    "refNo": 32,
+    "title": "Interlaboratory evaluation of methods for quantification of SARS-CoV-2 genetic signal in raw wastewater"
+  },
+  {
+    "sentence": "This has motivated guidance documents that frame wastewater testing around fit-for-purpose method selection rather than a single universal protocol, while still recommending common minimum information for method description, QA/QC, and data interpretation ref [34].",
+    "refNo": 34,
+    "title": "Wastewater surveillance testing methods"
+  },
+  {
+    "sentence": "Lessons from long-running environmental virology programs, especially poliovirus surveillance, indicate that networked proficiency testing, shared reference materials, and tiered laboratory accreditation are critical for sustained comparability across jurisdictions ref [3].",
+    "refNo": 3,
+    "title": "Surveillance of poliovirus circulation by environmental sampling in the Global Polio Eradication Initiative"
+  },
+  {
+    "sentence": "multi-state analysis, wastewater detection frequency and concentration rose consistently with county-level incidence, supporting wastewater as a population-scale correlate of transmission intensity rather than a purely qualitative signal ref [18].",
+    "refNo": 18,
+    "title": "Nationwide wastewater surveillance for SARS-CoV-2 across 40 U.S. states"
+  },
+  {
+    "sentence": "In Ottawa, longitudinal analyses found clear relationships between wastewater SARS-CoV-2 RNA and new cases and hospitalizations, while also showing that normalization to human fecal markers did not uniformly improve model performance ref [31].",
+    "refNo": 31,
+    "title": "Relationships between SARS-CoV-2 in wastewater and COVID-19 clinical cases and hospitalizations, with and without normalization against indicators of human waste"
+  },
+  {
+    "sentence": "Similarly, measurements in primary sewage sludge in New Haven tracked local epidemiological dynamics and aligned closely with clinical indicators, demonstrating that solids-rich matrices can provide stable, high-signal observations ref [26].",
+    "refNo": 26,
+    "title": "SARS-CoV-2 RNA concentrations in primary municipal sewage sludge as a leading indicator of COVID-19 outbreak dynamics"
+  },
+  {
+    "sentence": "However, meaningful comparison with health indicators requires attention to catchment definition, population mobility, laboratory consistency, and the changing relationship between infection, symptom onset, care seeking, and reporting across epidemic phases ref [33].",
+    "refNo": 33,
+    "title": "Making waves: Defining the lead time of wastewater-based epidemiology for COVID-19"
+  },
+  {
+    "sentence": "Early demonstrations in Europe showed that SARS-CoV-2 RNA in sewage tracked epidemic growth and, in some settings, was detectable at low apparent prevalence, supporting its use for outbreak recognition when clinical surveillance is incomplete or delayed ref [39], ref [9].",
+    "refNo": 39,
+    "title": "Presence of SARS-Coronavirus-2 RNA in Sewage and Correlation with Reported COVID-19 Prevalence in the Early Stage of the Epidemic in The Netherlands"
+  },
+  {
+    "sentence": "Early demonstrations in Europe showed that SARS-CoV-2 RNA in sewage tracked epidemic growth and, in some settings, was detectable at low apparent prevalence, supporting its use for outbreak recognition when clinical surveillance is incomplete or delayed ref [39], ref [9].",
+    "refNo": 9,
+    "title": "First proof of the capability of wastewater surveillance for COVID-19 in the community"
+  },
+  {
+    "sentence": "A neighborhood-scale study in Valencia found that increases in wastewater RNA preceded major epidemic waves and revealed periods of transient signal amplification that were less evident in case data, suggesting utility for identifying nascent outbreaks rather than only confirming established ones ref [40].",
+    "refNo": 40,
+    "title": "Wastewater SARS-CoV-2 concentration and loading variability from grab and 24-hour composite samples"
+  },
+  {
+    "sentence": "At finer spatial scales, building- and campus-level monitoring has shown particular value for outbreak detection in congregate settings, where localized sewer signals can trigger targeted diagnostic testing and isolation before wider spread occurs ref [17].",
+    "refNo": 17,
+    "title": "Building-level wastewater surveillance using tampon swabs and RT-LAMP for rapid SARS-CoV-2 outbreak detection"
+  },
+  {
+    "sentence": "Wastewater therefore serves less as a standalone alarm than as a probabilistic early-warning layer that improves timeliness, especially where access to individual testing is uneven or rapidly changing ref [9], ref [38].",
+    "refNo": 9,
+    "title": "First proof of the capability of wastewater surveillance for COVID-19 in the community"
+  },
+  {
+    "sentence": "Wastewater therefore serves less as a standalone alarm than as a probabilistic early-warning layer that improves timeliness, especially where access to individual testing is uneven or rapidly changing ref [9], ref [38].",
+    "refNo": 38,
+    "title": "Wastewater sequencing reveals early cryptic SARS-CoV-2 variant transmission"
+  },
+  {
+    "sentence": "Early mass-balance approaches combined wastewater flow, measured SARS-CoV-2 RNA concentrations, and assumptions about fecal shedding rates to back-calculate infected population size, but they also showed that uncertainty in individual shedding can span orders of magnitude and dominate prevalence estimates ref [16].",
+    "refNo": 16,
+    "title": "COVID-19 wastewater epidemiology: A model to estimate infected populations"
+  },
+  {
+    "sentence": "Integrating temporal shedding profiles with sewage measurements can improve reconstruction of infection trajectories and provide estimates of epidemic growth or decline that are less sensitive to testing biases than reported case counts ref [12].",
+    "refNo": 12,
+    "title": "Temporal profiles of viral load in posterior oropharyngeal saliva samples and serum antibody responses during infection by SARS-CoV-2: an observational cohort study"
+  },
+  {
+    "sentence": "Bayesian frameworks have been especially valuable because they propagate uncertainty from shedding, assay performance, and population size, yielding credible intervals for prevalence rather than overconfident single values ref [41].",
+    "refNo": 41,
+    "title": "Wastewater-based estimation of the effective reproductive number of SARS-CoV-2"
+  },
+  {
+    "sentence": "Similar environmental surveillance work outside COVID-19, such as typhoid monitoring, has likewise shown that quantitative interpretation depends on coupling sewer measurements with transmission and exposure models rather than treating concentration as a direct proxy for incidence ref [8].",
+    "refNo": 8,
+    "title": "Environmental surveillance for Salmonella Typhi as a tool to estimate the incidence of typhoid fever in low-income populations"
+  },
+  {
+    "sentence": "For urban planning and public health, wastewater therefore provides a robust indicator of infection dynamics and relative burden, whereas absolute prevalence estimates remain model-dependent and should be reported with explicit uncertainty bounds ref [16], ref [41].",
+    "refNo": 16,
+    "title": "COVID-19 wastewater epidemiology: A model to estimate infected populations"
+  },
+  {
+    "sentence": "For urban planning and public health, wastewater therefore provides a robust indicator of infection dynamics and relative burden, whereas absolute prevalence estimates remain model-dependent and should be reported with explicit uncertainty bounds ref [16], ref [41].",
+    "refNo": 41,
+    "title": "Wastewater-based estimation of the effective reproductive number of SARS-CoV-2"
+  },
+  {
+    "sentence": "Campus and building studies demonstrated that near-source sampling can identify small clusters and support rapid operational responses such as targeted diagnostic testing and isolation measures, illustrating the practical value of high-resolution wastewater monitoring for localized outbreak management ref [17], ref [42].",
+    "refNo": 17,
+    "title": "Building-level wastewater surveillance using tampon swabs and RT-LAMP for rapid SARS-CoV-2 outbreak detection"
+  },
+  {
+    "sentence": "Campus and building studies demonstrated that near-source sampling can identify small clusters and support rapid operational responses such as targeted diagnostic testing and isolation measures, illustrating the practical value of high-resolution wastewater monitoring for localized outbreak management ref [17], ref [42].",
+    "refNo": 42,
+    "title": "Wastewater monitoring outperforms case numbers as a tool to track COVID-19 incidence dynamics when test positivity rates are high"
+  },
+  {
+    "sentence": "A proof-of-concept neighborhood and building-scale study in a low-incidence setting showed that upstream sampling could reveal localized circulation that might be obscured in aggregated influent, while also underscoring the need to interpret results in light of travel times, catchment overlap, and intermittent contributions from non-residential users ref [43].",
+    "refNo": 43,
+    "title": "Near source wastewater-based epidemiology monitoring for SARS-CoV-2: A multi-scale and low prevalence application framework"
+  },
+  {
+    "sentence": "Related work on near-source tracking in sewer networks further showed that strategic placement of autosamplers can improve source localization, although signal interpretation becomes more uncertain in complex networks with variable dilution and mixing ref [44].",
+    "refNo": 44,
+    "title": "Upstream residential sewage surveillance for COVID-19 using viral RNA and binned droplet digital PCR"
+  },
+  {
+    "sentence": "These trade-offs are not unique to COVID-19; earlier environmental surveillance programs for poliovirus similarly relied on sub-city sewer sampling to detect localized transmission while balancing representativeness, feasibility, and public health utility ref [3].",
+    "refNo": 3,
+    "title": "Surveillance of poliovirus circulation by environmental sampling in the Global Polio Eradication Initiative"
+  },
+  {
+    "sentence": "Framework papers have argued that sewage data can guide tiered responses such as targeted clinical testing, risk communication, resource allocation, and adaptive non-pharmaceutical interventions, especially when conventional case reporting is delayed or biased by testing access ref [5], ref [21].",
+    "refNo": 5,
+    "title": "Urban water systems and the COVID-19 pandemic: Towards a more comprehensive conceptual framework"
+  },
+  {
+    "sentence": "Framework papers have argued that sewage data can guide tiered responses such as targeted clinical testing, risk communication, resource allocation, and adaptive non-pharmaceutical interventions, especially when conventional case reporting is delayed or biased by testing access ref [5], ref [21].",
+    "refNo": 21,
+    "title": "Wastewater surveillance for population-wide Covid-19: the present and future"
+  },
+  {
+    "sentence": "Experience from university campuses showed that wastewater signals could trigger focused follow-up testing and isolation measures at the building or dormitory scale, demonstrating a practical workflow for localized response and facility management ref [16].",
+    "refNo": 16,
+    "title": "COVID-19 wastewater epidemiology: A model to estimate infected populations"
+  },
+  {
+    "sentence": "At broader municipal scales, proposals for integrating wastewater surveillance into vaccine deployment and other public health planning emphasize its value for identifying underserved or resurging communities and for prioritizing interventions where clinical surveillance is sparse ref [19].",
+    "refNo": 19,
+    "title": "Wastewater surveillance can have a second act in COVID-19 vaccine distribution"
+  },
+  {
+    "sentence": "Ethical guidance developed in sewage epidemiology highlights the need for proportionality, transparency, and protections against stigmatization when data are used for geographically targeted action ref [1].",
+    "refNo": 1,
+    "title": "Sewage epidemiology and illicit drug research: the development of ethical research guidelines"
+  },
+  {
+    "sentence": "A useful precedent is the broader environmental sensor paradigm in which urban observatories combine heterogeneous streams—water quality, hydrology, mobility, and public health—through networked cyber-physical systems and real-time analytics ref [45].",
+    "refNo": 45,
+    "title": "Smart cities of the future as cyber physical systems: Challenges and enabling technologies"
+  },
+  {
+    "sentence": "Near-source and upstream surveillance frameworks have shown how fine-grained sewer data can be aligned with local infrastructure and occupancy information to support targeted monitoring in campuses, neighborhoods, and other dense urban settings ref [43], while quantitative studies of sample timing and loading variability underscore the value of automated monitoring and metadata capture for reliable interpretation ref [40].",
+    "refNo": 43,
+    "title": "Near source wastewater-based epidemiology monitoring for SARS-CoV-2: A multi-scale and low prevalence application framework"
+  },
+  {
+    "sentence": "Near-source and upstream surveillance frameworks have shown how fine-grained sewer data can be aligned with local infrastructure and occupancy information to support targeted monitoring in campuses, neighborhoods, and other dense urban settings ref [43], while quantitative studies of sample timing and loading variability underscore the value of automated monitoring and metadata capture for reliable interpretation ref [40].",
+    "refNo": 40,
+    "title": "Wastewater SARS-CoV-2 concentration and loading variability from grab and 24-hour composite samples"
+  },
+  {
+    "sentence": "High-throughput wastewater sequencing has demonstrated that sewer networks can provide population-level variant intelligence that complements clinical sequencing ref [35], and cryptic transmission can sometimes be detected before it is fully represented in case-based systems ref [38].",
+    "refNo": 35,
+    "title": "High-throughput sequencing of SARS-CoV-2 in wastewater provides insights into circulating variants"
+  },
+  {
+    "sentence": "High-throughput wastewater sequencing has demonstrated that sewer networks can provide population-level variant intelligence that complements clinical sequencing ref [35], and cryptic transmission can sometimes be detected before it is fully represented in case-based systems ref [38].",
+    "refNo": 38,
+    "title": "Wastewater sequencing reveals early cryptic SARS-CoV-2 variant transmission"
+  },
+  {
+    "sentence": "Conceptual work on urban water systems during COVID-19 emphasized that surveillance is not merely a laboratory exercise but an infrastructural one, embedded in how wastewater is collected, conveyed, and treated across the urban water cycle ref [5].",
+    "refNo": 5,
+    "title": "Urban water systems and the COVID-19 pandemic: Towards a more comprehensive conceptual framework"
+  },
+  {
+    "sentence": "This has been demonstrated in upstream residential sewage surveillance, where finer-scale sewer access supported more localized detection strategies ref [44].",
+    "refNo": 44,
+    "title": "Upstream residential sewage surveillance for COVID-19 using viral RNA and binned droplet digital PCR"
+  },
+  {
+    "sentence": "At the same time, the utility of wastewater as a public health signal presumes at least partial sewer coverage; experience from environmental surveillance for pathogens such as Salmonella Typhi shows that site selection, drainage structure, and sanitation heterogeneity are decisive for representativeness, especially in low-income urban settings ref [8].",
+    "refNo": 8,
+    "title": "Environmental surveillance for Salmonella Typhi as a tool to estimate the incidence of typhoid fever in low-income populations"
+  },
+  {
+    "sentence": "Lessons from poliovirus environmental surveillance similarly show that sustained pathogen monitoring requires stable sampling access points, routine logistics, and integration with sanitation operations rather than ad hoc collection alone ref [3].",
+    "refNo": 3,
+    "title": "Surveillance of poliovirus circulation by environmental sampling in the Global Polio Eradication Initiative"
+  },
+  {
+    "sentence": "Early national and regional implementations showed that translating sewage signals into actionable intelligence required more than laboratory capacity: it depended on agreed sampling responsibilities, data-sharing pathways, and reporting routines that linked environmental measurements to epidemiological interpretation and response planning ref [21], ref [18].",
+    "refNo": 21,
+    "title": "Wastewater surveillance for population-wide Covid-19: the present and future"
+  },
+  {
+    "sentence": "Early national and regional implementations showed that translating sewage signals into actionable intelligence required more than laboratory capacity: it depended on agreed sampling responsibilities, data-sharing pathways, and reporting routines that linked environmental measurements to epidemiological interpretation and response planning ref [21], ref [18].",
+    "refNo": 18,
+    "title": "Nationwide wastewater surveillance for SARS-CoV-2 across 40 U.S. states"
+  },
+  {
+    "sentence": "and European programs illustrate how utilities and commercial or academic laboratories can generate standardized measurements, while public health authorities provide case-context, risk communication, and trigger thresholds for intervention ref [18], ref [39].",
+    "refNo": 18,
+    "title": "Nationwide wastewater surveillance for SARS-CoV-2 across 40 U.S. states"
+  },
+  {
+    "sentence": "and European programs illustrate how utilities and commercial or academic laboratories can generate standardized measurements, while public health authorities provide case-context, risk communication, and trigger thresholds for intervention ref [18], ref [39].",
+    "refNo": 39,
+    "title": "Presence of SARS-Coronavirus-2 RNA in Sewage and Correlation with Reported COVID-19 Prevalence in the Early Stage of the Epidemic in The Netherlands"
+  },
+  {
+    "sentence": "In poliovirus surveillance, the integration of environmental sampling into public health action relied on formal roles across sanitation, laboratory, and immunization programs, offering a useful governance analogue for SARS-CoV-2 and future urban pathogen monitoring ref [3].",
+    "refNo": 3,
+    "title": "Surveillance of poliovirus circulation by environmental sampling in the Global Polio Eradication Initiative"
+  },
+  {
+    "sentence": "Early commentaries on wastewater-based epidemiology emphasized that its policy value lies in population-level situational awareness, trend detection, and early warning rather than identification of infected individuals, which has implications for evidentiary standards, reporting thresholds, and the legal scope of intervention ref [2].",
+    "refNo": 2,
+    "title": "Wastewater-based epidemiology: current status and future prospects"
+  },
+  {
+    "sentence": "Interlaboratory studies have shown that method choice can substantially affect measured SARS-CoV-2 concentrations, even when broad trends remain interpretable, underscoring the need for validated protocols, quality assurance requirements, and fit-for-purpose performance criteria in national guidance ref [20].",
+    "refNo": 20,
+    "title": "Reproducibility and sensitivity of 36 methods to quantify the SARS-CoV-2 genetic signal in raw wastewater: findings from an interlaboratory methods evaluation in the U.S."
+  },
+  {
+    "sentence": "Governance frameworks must also address genomic wastewater surveillance, where sequencing can support variant detection and complement clinical surveillance, but raises additional requirements for bioinformatics transparency, metadata standards, and mechanisms for integrating environmental and epidemiological evidence ref [37].",
+    "refNo": 37,
+    "title": "Detection of SARS-CoV-2 variants in Switzerland by genomic analysis of wastewater samples"
+  },
+  {
+    "sentence": "Work on sewage epidemiology for illicit drug monitoring argued for proportionality, public benefit, transparency, and community engagement as core principles, especially when surveillance is spatially granular or linked to stigmatized populations ref [1].",
+    "refNo": 1,
+    "title": "Sewage epidemiology and illicit drug research: the development of ethical research guidelines"
+  },
+  {
+    "sentence": "More broadly, public-health law scholarship has argued that wastewater surveillance should be institutionalized through clear statutory authority, privacy safeguards, and equitable access to analytical capacity so that emergency systems can mature into durable components of urban health security ref [19].",
+    "refNo": 19,
+    "title": "Wastewater surveillance can have a second act in COVID-19 vaccine distribution"
+  },
+  {
+    "sentence": "Foundational work in sewage epidemiology emphasized that wastewater data can stigmatize neighborhoods or institutions if interpreted as evidence about identifiable groups, even when no individual is directly observable; these concerns become sharper for near-source or building-level SARS-CoV-2 monitoring in dormitories, prisons, shelters, or workplaces ref [46], ref [43].",
+    "refNo": 46,
+    "title": "Ethics of wastewater surveillance for public health monitoring"
+  },
+  {
+    "sentence": "Foundational work in sewage epidemiology emphasized that wastewater data can stigmatize neighborhoods or institutions if interpreted as evidence about identifiable groups, even when no individual is directly observable; these concerns become sharper for near-source or building-level SARS-CoV-2 monitoring in dormitories, prisons, shelters, or workplaces ref [46], ref [43].",
+    "refNo": 43,
+    "title": "Near source wastewater-based epidemiology monitoring for SARS-CoV-2: A multi-scale and low prevalence application framework"
+  },
+  {
+    "sentence": "The broader wastewater literature has shown that sewage can reveal behavioral, chemical, and even population-genetic information, underscoring that the informational richness of wastewater exceeds traditional notions of anonymous environmental sampling ref [7], ref [6].",
+    "refNo": 7,
+    "title": "Sewage reflects the population genetic composition on a global scale"
+  },
+  {
+    "sentence": "The broader wastewater literature has shown that sewage can reveal behavioral, chemical, and even population-genetic information, underscoring that the informational richness of wastewater exceeds traditional notions of anonymous environmental sampling ref [7], ref [6].",
+    "refNo": 6,
+    "title": "Sewage chemical-information mining (SCIM): a new approach to epidemiology and public health studies using wastewater analysis"
+  },
+  {
+    "sentence": "Ethical implementation therefore requires investment in alternative sampling strategies, community engagement, and benefit-sharing so that surveillance does not primarily advantage well-resourced districts while shifting burdens of monitoring and response onto underserved populations ref [43], ref [47].",
+    "refNo": 43,
+    "title": "Near source wastewater-based epidemiology monitoring for SARS-CoV-2: A multi-scale and low prevalence application framework"
+  },
+  {
+    "sentence": "Ethical implementation therefore requires investment in alternative sampling strategies, community engagement, and benefit-sharing so that surveillance does not primarily advantage well-resourced districts while shifting burdens of monitoring and response onto underserved populations ref [43], ref [47].",
+    "refNo": 47,
+    "title": "A Review of Environmental Surveillance in the Global Polio Eradication Initiative"
+  },
+  {
+    "sentence": "Work on environmental surveillance for enteric pathogens in low-income settings has shown that site selection, hydraulic mapping, and staged deployment are critical where formal sewer networks are incomplete or absent ref [8], ref [5].",
+    "refNo": 8,
+    "title": "Environmental surveillance for Salmonella Typhi as a tool to estimate the incidence of typhoid fever in low-income populations"
+  },
+  {
+    "sentence": "Work on environmental surveillance for enteric pathogens in low-income settings has shown that site selection, hydraulic mapping, and staged deployment are critical where formal sewer networks are incomplete or absent ref [8], ref [5].",
+    "refNo": 5,
+    "title": "Urban water systems and the COVID-19 pandemic: Towards a more comprehensive conceptual framework"
+  },
+  {
+    "sentence": "Experience from SARS-CoV-2 detection in Brazil demonstrated feasibility in settings with infrastructure and laboratory constraints, while broader assessments of wastewater-based epidemiology emphasize the value of fit-for-purpose methods rather than strict replication of high-income laboratory workflows ref [28], ref [2].",
+    "refNo": 28,
+    "title": "First detection of SARS-CoV-2 in untreated wastewaters in Brazil"
+  },
+  {
+    "sentence": "Experience from SARS-CoV-2 detection in Brazil demonstrated feasibility in settings with infrastructure and laboratory constraints, while broader assessments of wastewater-based epidemiology emphasize the value of fit-for-purpose methods rather than strict replication of high-income laboratory workflows ref [28], ref [2].",
+    "refNo": 2,
+    "title": "Wastewater-based epidemiology: current status and future prospects"
+  },
+  {
+    "sentence": "The Global Polio Eradication Initiative’s environmental surveillance experience illustrates how sentinel strategies, incremental laboratory capacity building, and operational partnerships can make environmental monitoring workable in diverse and resource-limited settings ref [3].",
+    "refNo": 3,
+    "title": "Surveillance of poliovirus circulation by environmental sampling in the Global Polio Eradication Initiative"
+  },
+  {
+    "sentence": "Experience during the pandemic showed that wastewater signals can complement clinical reporting, especially when healthcare-seeking and diagnostic testing become uneven, strengthening the case for long-term integration into public-health observatories rather than treating surveillance as a temporary research platform ref [42], ref [21].",
+    "refNo": 42,
+    "title": "Wastewater monitoring outperforms case numbers as a tool to track COVID-19 incidence dynamics when test positivity rates are high"
+  },
+  {
+    "sentence": "Experience during the pandemic showed that wastewater signals can complement clinical reporting, especially when healthcare-seeking and diagnostic testing become uneven, strengthening the case for long-term integration into public-health observatories rather than treating surveillance as a temporary research platform ref [42], ref [21].",
+    "refNo": 21,
+    "title": "Wastewater surveillance for population-wide Covid-19: the present and future"
+  },
+  {
+    "sentence": "Cross-laboratory evaluations demonstrated that method harmonization, quality assurance, and transparent metadata are essential if wastewater results are to support comparable trend interpretation across cities and over time ref [32].",
+    "refNo": 32,
+    "title": "Interlaboratory evaluation of methods for quantification of SARS-CoV-2 genetic signal in raw wastewater"
+  },
+  {
+    "sentence": "Beyond SARS-CoV-2, the field’s pre-pandemic roots in environmental surveillance for enteric and vaccine-preventable pathogens indicate that a multi-pathogen framework is feasible, allowing cities to embed wastewater monitoring within broader epidemic intelligence systems rather than maintaining pathogen-specific silos ref [47].",
+    "refNo": 47,
+    "title": "A Review of Environmental Surveillance in the Global Polio Eradication Initiative"
+  },
+  {
+    "sentence": "The strongest long-term rationale may therefore be resilience: wastewater surveillance can function as a population-level sentinel for emerging variants and future outbreaks, while also providing a platform adaptable to other urban health threats when governance and analytical infrastructures are maintained between crises ref [38].",
+    "refNo": 38,
+    "title": "Wastewater sequencing reveals early cryptic SARS-CoV-2 variant transmission"
+  },
+  {
+    "sentence": "Interpretation remains confounded by heterogeneity in fecal shedding across infected individuals, changes over the course of infection, and the uncertain contribution of asymptomatic carriers, making back-calculation from wastewater signal to community prevalence highly non-unique ref [12].",
+    "refNo": 12,
+    "title": "Temporal profiles of viral load in posterior oropharyngeal saliva samples and serum antibody responses during infection by SARS-CoV-2: an observational cohort study"
+  },
+  {
+    "sentence": "These biological uncertainties are compounded by sewer travel times, dilution from stormwater or groundwater intrusion, and differential partitioning of viral RNA between liquid and solids phases, all of which can distort temporal trends before samples reach the laboratory ref [27].",
+    "refNo": 27,
+    "title": "The detection and stability of the SARS-CoV-2 RNA biomarkers in wastewater influent in Helsinki, Finland"
+  },
+  {
+    "sentence": "Differences in grab versus composite sampling, concentration workflows, extraction efficiencies, and PCR platforms can produce materially different estimates even when the same influent is analyzed, limiting the portability of thresholds and trend interpretations between utilities and jurisdictions ref [40].",
+    "refNo": 40,
+    "title": "Wastewater SARS-CoV-2 concentration and loading variability from grab and 24-hour composite samples"
+  },
+  {
+    "sentence": "Normalization strategies using flow, fecal indicators, or chemical markers help, but their performance is context dependent and may not fully account for transient population changes or industrial inputs; analogous work using ammonium in wastewater-based epidemiology illustrates both the promise and the limits of population normalization approaches ref [30].",
+    "refNo": 30,
+    "title": "Population normalization with ammonium in wastewater-based epidemiology: application to illicit drug monitoring"
+  },
+  {
+    "sentence": "More fundamentally, mature surveillance systems will need probabilistic frameworks that explicitly propagate uncertainty from shedding, transport, sampling, and analysis into decision-relevant indicators ref [41].",
+    "refNo": 41,
+    "title": "Wastewater-based estimation of the effective reproductive number of SARS-CoV-2"
+  },
+  {
+    "sentence": "Experience from upstream and near-source deployments shows that higher spatial resolution can improve actionability, but also demands more frequent sampling, robust automation, and standardized digital pipelines to convert raw signals into operational alerts ref [43], ref [44].",
+    "refNo": 43,
+    "title": "Near source wastewater-based epidemiology monitoring for SARS-CoV-2: A multi-scale and low prevalence application framework"
+  },
+  {
+    "sentence": "Experience from upstream and near-source deployments shows that higher spatial resolution can improve actionability, but also demands more frequent sampling, robust automation, and standardized digital pipelines to convert raw signals into operational alerts ref [43], ref [44].",
+    "refNo": 44,
+    "title": "Upstream residential sewage surveillance for COVID-19 using viral RNA and binned droplet digital PCR"
+  },
+  {
+    "sentence": "Field-oriented approaches such as RT-LAMP and streamlined building-level monitoring illustrate the feasibility of shortening turnaround times, especially where immediate decisions about testing, ventilation, or isolation are required ref [17].",
+    "refNo": 17,
+    "title": "Building-level wastewater surveillance using tampon swabs and RT-LAMP for rapid SARS-CoV-2 outbreak detection"
+  },
+  {
+    "sentence": "Smart-city research suggests that such distributed infrastructures are technically plausible, but wastewater applications require safeguards for data governance, privacy, maintenance, and resilience under variable field conditions ref [45].",
+    "refNo": 45,
+    "title": "Smart cities of the future as cyber physical systems: Challenges and enabling technologies"
+  },
+  {
+    "sentence": "Wastewater-based epidemiology was already established before COVID-19 for chemicals, drugs, and community exposures, demonstrating that urban wastewater can function as an integrated, pooled health observatory rather than a virus-specific tool ref [6].",
+    "refNo": 6,
+    "title": "Sewage chemical-information mining (SCIM): a new approach to epidemiology and public health studies using wastewater analysis"
+  },
+  {
+    "sentence": "Environmental surveillance has long supported poliovirus eradication, showing that sewage can detect circulation missed by clinical surveillance and can be institutionalized at scale ref [47].",
+    "refNo": 47,
+    "title": "A Review of Environmental Surveillance in the Global Polio Eradication Initiative"
+  },
+  {
+    "sentence": "Similar logic is now being applied to typhoid, where environmental sampling has been proposed as a practical proxy for community burden in settings with weak diagnostic infrastructure ref [8].",
+    "refNo": 8,
+    "title": "Environmental surveillance for Salmonella Typhi as a tool to estimate the incidence of typhoid fever in low-income populations"
+  },
+  {
+    "sentence": "Recent work also shows that wastewater metagenomics can profile antimicrobial resistance genes and bacterial community signatures across urban catchments, opening the door to integrated monitoring of infectious threats and background health-system pressures ref [48].",
+    "refNo": 48,
+    "title": "Metagenomic analysis of urban wastewater treatment plant effluents provides a surveillance of antibiotic resistance genes in the environment"
+  },
+  {
+    "sentence": "Future systems should combine panels of viral, bacterial, and resistance markers with normalization strategies, metadata on sewershed conditions, and governance frameworks for ethical use of increasingly information-rich wastewater data ref [6], ref [46].",
+    "refNo": 6,
+    "title": "Sewage chemical-information mining (SCIM): a new approach to epidemiology and public health studies using wastewater analysis"
+  },
+  {
+    "sentence": "Future systems should combine panels of viral, bacterial, and resistance markers with normalization strategies, metadata on sewershed conditions, and governance frameworks for ethical use of increasingly information-rich wastewater data ref [6], ref [46].",
+    "refNo": 46,
+    "title": "Ethics of wastewater surveillance for public health monitoring"
+  },
+  {
+    "sentence": "Existing work shows that wastewater signals can be translated into epidemiological quantities such as infection prevalence or the effective reproductive number, but these estimates remain sensitive to assumptions about travel time, dilution, in-sewer decay, and heterogeneous fecal shedding ref [41], ref [16].",
+    "refNo": 41,
+    "title": "Wastewater-based estimation of the effective reproductive number of SARS-CoV-2"
+  },
+  {
+    "sentence": "Existing work shows that wastewater signals can be translated into epidemiological quantities such as infection prevalence or the effective reproductive number, but these estimates remain sensitive to assumptions about travel time, dilution, in-sewer decay, and heterogeneous fecal shedding ref [41], ref [16].",
+    "refNo": 16,
+    "title": "COVID-19 wastewater epidemiology: A model to estimate infected populations"
+  },
+  {
+    "sentence": "Near-source and upstream monitoring frameworks have demonstrated that catchment configuration, residence time, and building occupancy strongly affect detectability and interpretation ref [43].",
+    "refNo": 43,
+    "title": "Near source wastewater-based epidemiology monitoring for SARS-CoV-2: A multi-scale and low prevalence application framework"
+  },
+  {
+    "sentence": "Conceptual work on urban water systems during COVID-19 has already argued for more comprehensive system thinking across infrastructure, public health, and governance ref [5].",
+    "refNo": 5,
+    "title": "Urban water systems and the COVID-19 pandemic: Towards a more comprehensive conceptual framework"
+  },
+  {
+    "sentence": "The pandemic showed that sewage data can complement clinical surveillance when testing access is uneven or delayed, helping maintain situational awareness during periods of system stress and behavioral change ref [42].",
+    "refNo": 42,
+    "title": "Wastewater monitoring outperforms case numbers as a tool to track COVID-19 incidence dynamics when test positivity rates are high"
+  },
+  {
+    "sentence": "Lessons from environmental surveillance programs for other pathogens show that durable institutional arrangements, standardized field practice, and integration with routine public health decision-making are central to preparedness ref [47].",
+    "refNo": 47,
+    "title": "A Review of Environmental Surveillance in the Global Polio Eradication Initiative"
+  },
+  {
+    "sentence": "At the same time, wastewater systems can support broader urban health intelligence beyond a single virus, including antimicrobial resistance and other microbial hazards, strengthening the case for multi-benefit investment ref [48].",
+    "refNo": 48,
+    "title": "Metagenomic analysis of urban wastewater treatment plant effluents provides a surveillance of antibiotic resistance genes in the environment"
+  },
+  {
+    "sentence": "Smart-city thinking suggests that cyber-physical integration, distributed sensing, and automated data flows could make environmental surveillance more responsive, but only if coupled with equitable coverage and clear public health action thresholds ref [45].",
+    "refNo": 45,
+    "title": "Smart cities of the future as cyber physical systems: Challenges and enabling technologies"
+  },
+  {
+    "sentence": "A key future agenda is to align wastewater surveillance with climate adaptation, emergency preparedness, and circular urban water strategies so that monitoring capacity remains robust, socially legitimate, and useful between crises as well as during them ref [21].",
+    "refNo": 21,
+    "title": "Wastewater surveillance for population-wide Covid-19: the present and future"
+  },
+  {
+    "sentence": "Interlaboratory evidence has already shown that methodological choices can substantially affect recovery, sensitivity, and quantitative interpretation, even when broad epidemiological trends are preserved ref [20].",
+    "refNo": 20,
+    "title": "Reproducibility and sensitivity of 36 methods to quantify the SARS-CoV-2 genetic signal in raw wastewater: findings from an interlaboratory methods evaluation in the U.S."
+  },
+  {
+    "sentence": "Ethical analyses in wastewater surveillance have emphasized the need for proportionality, community benefit, privacy protection, and clear accountability, especially as monitoring moves upstream to neighborhoods, campuses, or buildings ref [46].",
+    "refNo": 46,
+    "title": "Ethics of wastewater surveillance for public health monitoring"
+  },
+  {
+    "sentence": "Earlier wastewater-based epidemiology and sewage chemical-information mining frameworks already demonstrated the value of wastewater for tracking population exposure, health status, and behavior at scale ref [2], ref [6].",
+    "refNo": 2,
+    "title": "Wastewater-based epidemiology: current status and future prospects"
+  },
+  {
+    "sentence": "Earlier wastewater-based epidemiology and sewage chemical-information mining frameworks already demonstrated the value of wastewater for tracking population exposure, health status, and behavior at scale ref [2], ref [6].",
+    "refNo": 6,
+    "title": "Sewage chemical-information mining (SCIM): a new approach to epidemiology and public health studies using wastewater analysis"
+  },
+  {
+    "sentence": "Building on these foundations, future agendas should prioritize sustained financing, open data standards, integration with clinical and urban service systems, and equitable expansion to low-resource cities so that wastewater intelligence supports routine preparedness, not only crisis response ref [19].",
+    "refNo": 19,
+    "title": "Wastewater surveillance can have a second act in COVID-19 vaccine distribution"
+  }
+]

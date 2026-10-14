@@ -1,0 +1,350 @@
+[
+  {
+    "sentence": "The national mapping initiative conducted between 2013 and 2015 provided critical epidemiological data, revealing a 3.5% prevalence of Schistosoma mansoni among schoolchildren and guiding targeted MDA deployment in endemic woredas, particularly in western and northeastern regions ref [2].",
+    "refNo": 2,
+    "title": "National mapping of soil-transmitted helminth and schistosome infections in Ethiopia",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Diagnostic strategies during this mapping phase optimized sensitivity through pooled stool examination techniques, enhancing cost-efficiency and scalability for large-scale surveillance ref [5].",
+    "refNo": 5,
+    "title": "Schistosoma mansoni infection and associated determinant factors among school children in Sanja town, Northwest Ethiopia",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Despite progress, coverage remains suboptimal, with challenges in drug delivery, community compliance, and sustained funding limiting the impact of MDA alone ref [1].",
+    "refNo": 1,
+    "title": "A new global strategy for the elimination of schistosomiasis",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Recent policy frameworks emphasize moving beyond chemotherapy toward integrated, community-based approaches that include environmental modification and health education, reflecting global calls for sustainable elimination strategies ref [1].",
+    "refNo": 1,
+    "title": "A new global strategy for the elimination of schistosomiasis",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Poor personal hygiene practices, including infrequent handwashing before meals and after defecation, significantly increase infection risk, as demonstrated in a study from Medebay Zana wereda where these behaviors were associated with adjusted odds ratios of 9.0 and 5.77, respectively ref [4].",
+    "refNo": 4,
+    "title": "Prevalence of intestinal helminths and associated factors among school children of Medebay Zana wereda",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Similarly, consumption of unwashed vegetables was identified as a key risk factor, with an AOR of 5.67 ref [4].",
+    "refNo": 4,
+    "title": "Prevalence of intestinal helminths and associated factors among school children of Medebay Zana wereda",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Environmental exposure to contaminated freshwater sources remains a critical determinant, particularly in regions where children swim, bathe, or wash clothes in rivers inhabited by infected snails; in Sanja Town, such activities were strongly correlated with S. mansoni infection prevalence of 89.9% ref [5].",
+    "refNo": 5,
+    "title": "Schistosoma mansoni infection and associated determinant factors among school children in Sanja town, Northwest Ethiopia",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Additionally, open defecation near water bodies and walking barefoot in endemic areas further facilitate transmission ref [4].",
+    "refNo": 4,
+    "title": "Prevalence of intestinal helminths and associated factors among school children of Medebay Zana wereda",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Socioeconomic factors, particularly low maternal education, have also been linked to higher infection rates, likely due to reduced health literacy and inadequate sanitation practices ref [4].",
+    "refNo": 4,
+    "title": "Prevalence of intestinal helminths and associated factors among school children of Medebay Zana wereda",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "In 2013, an estimated 261 million people required preventive chemotherapy for schistosomiasis, with 92% of this burden concentrated in sub-Saharan Africa, yet only 12.7% of at-risk individuals received treatment ref [7].",
+    "refNo": 7,
+    "title": "Building a global schistosomiasis alliance: an opportunity to join forces to fight inequality and rural poverty",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "The disease is associated with substantial morbidity and mortality, with annual deaths in Africa alone estimated at up to 280,000 ref [7].",
+    "refNo": 7,
+    "title": "Building a global schistosomiasis alliance: an opportunity to join forces to fight inequality and rural poverty",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Schistosomiasis ranks second only to malaria in terms of parasitic disease burden in the region, contributing to 57 million disability-adjusted life-years (DALYs) lost annually across all neglected tropical diseases ref [6].",
+    "refNo": 6,
+    "title": "Impact of human schistosomiasis in sub-Saharan Africa",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Children are disproportionately affected, with chronic infection impairing cognitive development, school performance, and physical growth, thereby perpetuating cycles of poverty ref [6].",
+    "refNo": 6,
+    "title": "Impact of human schistosomiasis in sub-Saharan Africa",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Despite global efforts, including the World Health Assembly’s Resolution WHA65.21 calling for 75% treatment coverage of school-age children by 2020, implementation remains inadequate, with schistosomiasis showing the lowest levels of preventive chemotherapy coverage among all neglected tropical diseases ref [7].",
+    "refNo": 7,
+    "title": "Building a global schistosomiasis alliance: an opportunity to join forces to fight inequality and rural poverty",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "The Schistosomiasis Control Initiative (SCI), launched in 2002, has played a pivotal role in scaling up mass drug administration in several African countries, yet coverage gaps persist due to limited resources, weak health systems, and persistent transmission in endemic areas ref [8].",
+    "refNo": 8,
+    "title": "The schistosomiasis control initiative (SCI): rationale, development and implementation from",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "While progress has been made in countries like Brazil, China, and Egypt toward elimination, most sub-Saharan nations continue to struggle with sustained control ref [6].",
+    "refNo": 6,
+    "title": "Impact of human schistosomiasis in sub-Saharan Africa",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "The formation of the Global Schistosomiasis Alliance in 2015 aimed to galvanize coordinated action, but challenges in funding, political commitment, and surveillance infrastructure hinder progress ref [7].",
+    "refNo": 7,
+    "title": "Building a global schistosomiasis alliance: an opportunity to join forces to fight inequality and rural poverty",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "A systematic review and meta-analysis of 94 studies reported a national pooled prevalence of 18.0% (95% CI: 14.0–23.0), with the southern region exhibiting a higher burden at 25.9% (95% CI: 14.9–41.1) ref [9].",
+    "refNo": 9,
+    "title": "Prevalence of Schistosoma mansoni infection in Ethiopia: a systematic review and meta-analysis",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Regional cross-sectional studies further highlight this heterogeneity, with prevalence reaching 44.8% in Southwest Ethiopia (Mizan-Aman) ref [12], 37.9% in Zarima Town (Northwest) ref [16], and 79.5% among boys in Sanja Town (Amhara) ref [11], underscoring localized transmission hotspots.",
+    "refNo": 12,
+    "title": "Epidemiology of Schistosoma mansoni infection and associated risk factors among school children attending primary schools nearby rivers in Jimma town, an urban setting, Southwest Ethiopia",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Regional cross-sectional studies further highlight this heterogeneity, with prevalence reaching 44.8% in Southwest Ethiopia (Mizan-Aman) ref [12], 37.9% in Zarima Town (Northwest) ref [16], and 79.5% among boys in Sanja Town (Amhara) ref [11], underscoring localized transmission hotspots.",
+    "refNo": 16,
+    "title": "Epidemiological study on Schistosoma mansoni infection in Sanja area",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Regional cross-sectional studies further highlight this heterogeneity, with prevalence reaching 44.8% in Southwest Ethiopia (Mizan-Aman) ref [12], 37.9% in Zarima Town (Northwest) ref [16], and 79.5% among boys in Sanja Town (Amhara) ref [11], underscoring localized transmission hotspots.",
+    "refNo": 11,
+    "title": "High prevalence of Schistosoma mansoni and other intestinal parasites among elementary school children in Southwest Ethiopia: a cross-sectional study",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Urban settings are not exempt, as evidenced by a study in Jimma town reporting substantial infection rates despite urbanization, indicating expanding transmission dynamics ref [13].",
+    "refNo": 13,
+    "title": "Epidemiology of soil-transmitted helminths and Schistosoma mansoni: a base-line survey among school children, Ejaji, Ethiopia",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Gender disparities are consistent, with males showing higher infection rates in multiple studies, likely due to increased water contact behaviors ref [10].",
+    "refNo": 10,
+    "title": "Prevalence of Schistosomiasis (S. mansoni and S. haematobium) and its association with gender of school age children in Ethiopia: a systematic review and meta-analysis",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Age-related trends indicate higher prevalence among children aged 5–14 years, with peak infection intensities observed in younger schoolchildren ref [11].",
+    "refNo": 11,
+    "title": "High prevalence of Schistosoma mansoni and other intestinal parasites among elementary school children in Southwest Ethiopia: a cross-sectional study",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "A baseline survey in Ejaji found a 12.94% prevalence, with swimming and river bathing identified as key risk factors ref [14], while in rural Bahir Dar, prevalence was 8.0% but significantly higher among children using river water for domestic purposes ref [10].",
+    "refNo": 14,
+    "title": "Soil transmitted helminths and Schistosoma mansoni infections among school children in zarima town",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "A baseline survey in Ejaji found a 12.94% prevalence, with swimming and river bathing identified as key risk factors ref [14], while in rural Bahir Dar, prevalence was 8.0% but significantly higher among children using river water for domestic purposes ref [10].",
+    "refNo": 10,
+    "title": "Prevalence of Schistosomiasis (S. mansoni and S. haematobium) and its association with gender of school age children in Ethiopia: a systematic review and meta-analysis",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "In Sanja Town, Northwest Ethiopia, a cross-sectional study reported an alarmingly high prevalence of 89.9% among school children, with swimming in contaminated rivers and washing clothes or utensils in river water identified as key risk factors ref [5].",
+    "refNo": 5,
+    "title": "Schistosoma mansoni infection and associated determinant factors among school children in Sanja town, Northwest Ethiopia",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Similarly, in Medebay Zana wereda, Tigray, the overall prevalence of intestinal helminths was 12.7%, with S. mansoni being the most prevalent species, strongly associated with poor hand hygiene, open defecation, and consumption of unwashed vegetables ref [4].",
+    "refNo": 4,
+    "title": "Prevalence of intestinal helminths and associated factors among school children of Medebay Zana wereda",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "A pivotal study by Leta et al. compared individual and pooled stool examination strategies during Ethiopia’s national mapping, demonstrating that pooled Kato-Katz significantly improved diagnostic efficiency and cost-effectiveness without substantial loss in sensitivity, making it suitable for large-scale surveys ref [3].",
+    "refNo": 3,
+    "title": "Comparison of individual and pooled diagnostic examination strategies during the national mapping of soil-transmitted helminths and Schistosoma mansoni in Ethiopia",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Multiple SCORE-funded evaluations have validated the POC-CCA assay for mapping S. mansoni across varying prevalence levels, highlighting its utility in identifying residual infections missed by KK, especially in pre-elimination contexts ref [17].",
+    "refNo": 17,
+    "title": "Evaluation, validation, and recognition of the point-of-care circulating cathodic antigen, urine-based assay for mapping Schistosoma mansoni infections",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Although primarily applied in Sierra Leone, the methodological framework using model-based geostatistics to link S. mansoni prevalence with elevation and population density offers a transferable model for Ethiopia’s diverse ecological zones ref [5].",
+    "refNo": 5,
+    "title": "Schistosoma mansoni infection and associated determinant factors among school children in Sanja town, Northwest Ethiopia",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Praziquantel (PZQ) coverage among school-age children (SAC) in Ethiopia remains suboptimal, with national estimates indicating that only 75.5% of targeted children received treatment in 2019, despite mass drug administration (MDA) programs being in place ref [19].",
+    "refNo": 19,
+    "title": "Praziquantel treatment coverage among school age children against Schistosomiasis and associated factors in Ethiopia: a cross-sectional survey",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Coverage varied significantly by district, with integrated treatment approaches—combining schistosomiasis and soil-transmitted helminth interventions—achieving 87.5% coverage compared to 72.5% under vertical programs (p < 0.001) ref [19].",
+    "refNo": 19,
+    "title": "Praziquantel treatment coverage among school age children against Schistosomiasis and associated factors in Ethiopia: a cross-sectional survey",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Factors such as school enrollment (AOR = 20.90), male sex (AOR = 1.27), and older age (10–14 years; AOR = 1.45) were strongly associated with higher PZQ uptake ref [19].",
+    "refNo": 19,
+    "title": "Praziquantel treatment coverage among school age children against Schistosomiasis and associated factors in Ethiopia: a cross-sectional survey",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "The efficacy of PZQ against Schistosoma mansoni in Ethiopian children remains high, with a pooled cure rate of 86.65% (95% CI: 83.4–93.9) and an egg reduction rate exceeding 87% across multiple studies ref [20].",
+    "refNo": 20,
+    "title": "Efficacy of praziquantel treatment for Schistosoma mansoni infection among children in Ethiopia: systematic review and metaanalysis",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Subgroup analyses revealed slightly higher cure rates in Amhara (88.58%) than in Oromia (84.79%), suggesting regional variations in treatment response, possibly due to transmission intensity or drug delivery logistics ref [20].",
+    "refNo": 20,
+    "title": "Efficacy of praziquantel treatment for Schistosoma mansoni infection among children in Ethiopia: systematic review and metaanalysis",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Despite high heterogeneity (I² = 93.4%), no evidence of clinical resistance was detected, and infection prevalence dropped from 55.77% to 11.29% post-treatment ref [20].",
+    "refNo": 20,
+    "title": "Efficacy of praziquantel treatment for Schistosoma mansoni infection among children in Ethiopia: systematic review and metaanalysis",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Despite these achievements, challenges persist in sustaining coverage and ensuring treatment adherence, as highlighted by the global critique that current MDA-only strategies yield limited long-term impact due to low compliance and reinfection rates ref [1].",
+    "refNo": 1,
+    "title": "A new global strategy for the elimination of schistosomiasis",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Ethiopia’s 2020 elimination targets for schistosomiasis were ambitious, and while MDA coverage reached near-universal levels in mapped areas, the absence of complementary interventions—such as water, sanitation, and hygiene (WASH) infrastructure and snail control—limits the potential for true elimination ref [1].",
+    "refNo": 1,
+    "title": "A new global strategy for the elimination of schistosomiasis",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Access to safe water and adequate sanitation remains a key protective factor, with meta-analytic evidence showing that improved sanitation reduces the odds of S. mansoni infection by 41% (OR=0.59, 95% CI: 0.47–0.73) ref [22].",
+    "refNo": 22,
+    "title": "The relationship between water, sanitation and schistosomiasis: a systematic review and meta-analysis",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "In eastern Ethiopia, community-level awareness gaps significantly increase infection risk, with individuals unaware of transmission routes or prevention methods being over five times more likely to be infected ref [4].",
+    "refNo": 4,
+    "title": "Prevalence of intestinal helminths and associated factors among school children of Medebay Zana wereda",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Behavioral factors, particularly frequent water contact through swimming or bathing in contaminated rivers, are strongly associated with higher infection rates (adjusted OR=6.41) ref [4].",
+    "refNo": 4,
+    "title": "Prevalence of intestinal helminths and associated factors among school children of Medebay Zana wereda",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Spatial analyses reveal that high local population density within 1 km of residential areas correlates with increased transmission, likely due to intensified contamination of freshwater sources ref [24].",
+    "refNo": 24,
+    "title": "Clinicoepidemiology, malacology and community awareness of Schistosoma mansoni in Haradenaba and Dertoramis kebeles in Bedeno district, eastern Ethiopia",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Malacological surveys confirm the presence of Biomphalaria pfeifferi snails—essential intermediate hosts—in all major water contact points in endemic kebeles, reinforcing the link between environmental suitability and infection hotspots ref [4].",
+    "refNo": 4,
+    "title": "Prevalence of intestinal helminths and associated factors among school children of Medebay Zana wereda",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "The southern region exhibits the highest pooled prevalence at 25.9% (95% CI: 14.9–41.1), surpassing the national average of 18.0%, likely due to favorable climatic conditions for intermediate snail hosts and high water contact rates ref [9].",
+    "refNo": 9,
+    "title": "Prevalence of Schistosoma mansoni infection in Ethiopia: a systematic review and meta-analysis",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Amhara and Oromia regions account for the majority of survey sites, with adjusted prevalence rates exceeding 50% in 36.8% of locations, indicating intense transmission hotspots ref [5].",
+    "refNo": 5,
+    "title": "Schistosoma mansoni infection and associated determinant factors among school children in Sanja town, Northwest Ethiopia",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "In contrast, regions such as Tigray and the Afar lowlands report substantially lower prevalence, often below 10%, attributed to arid conditions and limited aquatic habitats for Biomphalaria snails ref [5].",
+    "refNo": 5,
+    "title": "Schistosoma mansoni infection and associated determinant factors among school children in Sanja town, Northwest Ethiopia",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "School-based studies further confirm elevated infection rates in rural, riverside communities, particularly in the Rift Valley and western lowlands, where access to clean water and sanitation remains limited ref [10].",
+    "refNo": 10,
+    "title": "Prevalence of Schistosomiasis (S. mansoni and S. haematobium) and its association with gender of school age children in Ethiopia: a systematic review and meta-analysis",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Gender disparities are less pronounced in children compared to adults, though some regional analyses suggest slightly higher infection rates among boys due to increased water-related activities ref [10].",
+    "refNo": 10,
+    "title": "Prevalence of Schistosomiasis (S. mansoni and S. haematobium) and its association with gender of school age children in Ethiopia: a systematic review and meta-analysis",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Geospatial mapping reveals a strong correlation between S. mansoni prevalence and elevation (847–2,100 m), vegetation index, and proximity to permanent freshwater bodies, reinforcing the biogeographical determinants of transmission ref [5].",
+    "refNo": 5,
+    "title": "Schistosoma mansoni infection and associated determinant factors among school children in Sanja town, Northwest Ethiopia",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Funding for schistosomiasis control and research in Ethiopia has been primarily driven by international partnerships and donor-funded initiatives, with the Schistosomiasis Control Initiative (SCI) playing a pivotal role in scaling up preventive chemotherapy and mapping efforts ref [25].",
+    "refNo": 25,
+    "title": "Biogeographical characteristics of Schistosoma mansoni endemic areas in Ethiopia: a systematic review and meta analysis",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "The Ethiopian government, in alignment with national NTD roadmaps, has increasingly mobilized domestic resources to complement external funding, particularly through the Ministry of Health’s integrated neglected tropical disease programs ref [14].",
+    "refNo": 14,
+    "title": "Soil transmitted helminths and Schistosoma mansoni infections among school children in zarima town",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Multilateral agencies such as the World Bank and the Global Fund have supported large-scale school-based deworming campaigns, enabling sustained praziquantel distribution to school-age children ref [1].",
+    "refNo": 1,
+    "title": "A new global strategy for the elimination of schistosomiasis",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "However, funding gaps persist, particularly in remote endemic zones where health infrastructure is weak and surveillance systems under-resourced ref [15].",
+    "refNo": 15,
+    "title": "Multivariate analysis of factors associated with Schistosoma mansoni and hookworm infection among primary school children in rural Bahir Dar, Northwest Ethiopia",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Recent studies highlight that inconsistent funding cycles have undermined longitudinal monitoring and the transition from control to elimination phases ref [10].",
+    "refNo": 10,
+    "title": "Prevalence of Schistosomiasis (S. mansoni and S. haematobium) and its association with gender of school age children in Ethiopia: a systematic review and meta-analysis",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Moreover, the adoption of point-of-care diagnostic tools like the CCA urine assay has been constrained by limited financial allocation for new technologies, despite their superior sensitivity in low-prevalence settings ref [15].",
+    "refNo": 15,
+    "title": "Multivariate analysis of factors associated with Schistosoma mansoni and hookworm infection among primary school children in rural Bahir Dar, Northwest Ethiopia",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Strengthening local financial stewardship and integrating schistosomiasis funding into broader health financing frameworks remains critical for sustainability ref [25].",
+    "refNo": 25,
+    "title": "Biogeographical characteristics of Schistosoma mansoni endemic areas in Ethiopia: a systematic review and meta analysis",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Innovative financing models, including results-based financing and public-private partnerships, have been piloted in select regions but lack nationwide scalability due to insufficient policy support and data infrastructure ref [14].",
+    "refNo": 14,
+    "title": "Soil transmitted helminths and Schistosoma mansoni infections among school children in zarima town",
+    "marker_text": "[14]"
+  }
+]

@@ -1,0 +1,650 @@
+[
+  {
+    "sentence": "Type 2 diabetes mellitus (T2DM), generally termed as diabetes, is one of the major endocrine diseases which affects millions of people in the industrial and developing countries ref [1].",
+    "refNo": 1,
+    "title": "Food pattern, lifestyle and diabetes mellitus",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Dietary and lifestyle factors (Obesity, weight gain, physical inactivity and low fiber diet with a high glycemic index) play a significant role in the development of diabetes ref [1].",
+    "refNo": 1,
+    "title": "Food pattern, lifestyle and diabetes mellitus",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "We reviewed the literature and collected data on the explored regions of Morocco (Beni Mellal region, Rabat, Western Anti-Atlas, Izarene forest ref [4], Oriental Morocco, Northwestern Morocco, Sefrou region, Central Middle Atlas ref [3], Tizi n' Test Region, Al Haouz-Rhamna, Tan-Tan, Meknes-Tafilalet ref [5] and Fez-Boulemane).",
+    "refNo": 4,
+    "title": "Étude ethnobotanique des plantes médicinales utilisées dans le traitement du diabète, et des maladies cardiaques dans la région d'Izarène (Nord du Maroc)",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "We reviewed the literature and collected data on the explored regions of Morocco (Beni Mellal region, Rabat, Western Anti-Atlas, Izarene forest ref [4], Oriental Morocco, Northwestern Morocco, Sefrou region, Central Middle Atlas ref [3], Tizi n' Test Region, Al Haouz-Rhamna, Tan-Tan, Meknes-Tafilalet ref [5] and Fez-Boulemane).",
+    "refNo": 3,
+    "title": "Contribution to the ethnobotanical study of antidiabetic medicinal plants of the central middle atlas region (Morocco)",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "We reviewed the literature and collected data on the explored regions of Morocco (Beni Mellal region, Rabat, Western Anti-Atlas, Izarene forest ref [4], Oriental Morocco, Northwestern Morocco, Sefrou region, Central Middle Atlas ref [3], Tizi n' Test Region, Al Haouz-Rhamna, Tan-Tan, Meknes-Tafilalet ref [5] and Fez-Boulemane).",
+    "refNo": 5,
+    "title": "Étude ethnopharmacologique de quelques plantes utilisées dans le traitement du diabète dans la région de Meknès-Tafilalet (Maroc)",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "About 750 literature references were studied, and only 240 ethnobotanical articles and pharmacology papers were included in this review, including ethnopharmacological and ethnobotanical surveys conducted in towns and regions such as Sidi Slimane ref [2], Central Middle Atlas ref [3], Izarene forest ref [4], and Meknes-Tafilalet ref [5].",
+    "refNo": 2,
+    "title": "Ethnopharmacological survey of plants used for the treatment of diabetes in the town of Sidi Slimane (Morocco)",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "About 750 literature references were studied, and only 240 ethnobotanical articles and pharmacology papers were included in this review, including ethnopharmacological and ethnobotanical surveys conducted in towns and regions such as Sidi Slimane ref [2], Central Middle Atlas ref [3], Izarene forest ref [4], and Meknes-Tafilalet ref [5].",
+    "refNo": 3,
+    "title": "Contribution to the ethnobotanical study of antidiabetic medicinal plants of the central middle atlas region (Morocco)",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "About 750 literature references were studied, and only 240 ethnobotanical articles and pharmacology papers were included in this review, including ethnopharmacological and ethnobotanical surveys conducted in towns and regions such as Sidi Slimane ref [2], Central Middle Atlas ref [3], Izarene forest ref [4], and Meknes-Tafilalet ref [5].",
+    "refNo": 4,
+    "title": "Étude ethnobotanique des plantes médicinales utilisées dans le traitement du diabète, et des maladies cardiaques dans la région d'Izarène (Nord du Maroc)",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "About 750 literature references were studied, and only 240 ethnobotanical articles and pharmacology papers were included in this review, including ethnopharmacological and ethnobotanical surveys conducted in towns and regions such as Sidi Slimane ref [2], Central Middle Atlas ref [3], Izarene forest ref [4], and Meknes-Tafilalet ref [5].",
+    "refNo": 5,
+    "title": "Étude ethnopharmacologique de quelques plantes utilisées dans le traitement du diabète dans la région de Meknès-Tafilalet (Maroc)",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "We studied in detail only the six plants most used for the treatment of diabetes in Morocco, as reflected by regional ethnopharmacological survey data from Sidi Slimane ref [2], Central Middle Atlas ref [3], Izarene ref [4], and Meknes-Tafilalet ref [5].",
+    "refNo": 2,
+    "title": "Ethnopharmacological survey of plants used for the treatment of diabetes in the town of Sidi Slimane (Morocco)",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "We studied in detail only the six plants most used for the treatment of diabetes in Morocco, as reflected by regional ethnopharmacological survey data from Sidi Slimane ref [2], Central Middle Atlas ref [3], Izarene ref [4], and Meknes-Tafilalet ref [5].",
+    "refNo": 3,
+    "title": "Contribution to the ethnobotanical study of antidiabetic medicinal plants of the central middle atlas region (Morocco)",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "We studied in detail only the six plants most used for the treatment of diabetes in Morocco, as reflected by regional ethnopharmacological survey data from Sidi Slimane ref [2], Central Middle Atlas ref [3], Izarene ref [4], and Meknes-Tafilalet ref [5].",
+    "refNo": 4,
+    "title": "Étude ethnobotanique des plantes médicinales utilisées dans le traitement du diabète, et des maladies cardiaques dans la région d'Izarène (Nord du Maroc)",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "We studied in detail only the six plants most used for the treatment of diabetes in Morocco, as reflected by regional ethnopharmacological survey data from Sidi Slimane ref [2], Central Middle Atlas ref [3], Izarene ref [4], and Meknes-Tafilalet ref [5].",
+    "refNo": 5,
+    "title": "Étude ethnopharmacologique de quelques plantes utilisées dans le traitement du diabète dans la région de Meknès-Tafilalet (Maroc)",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Herbal medicine has developed as an alternative for the treatment of diabetes because oral hypoglycemic agents are expensive and tagged with several side effects (nausea, skin reactions, liver disease, heart failure diarrhea, etc.) ref [6].",
+    "refNo": 6,
+    "title": "Herbal medicines use among diabetic patients in oriental Morocco",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "In Morocco, there are numerous medicinal plants described for treatment of diabetes ref [6].",
+    "refNo": 6,
+    "title": "Herbal medicines use among diabetic patients in oriental Morocco",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "We reviewed the literature and collected data on the explored regions of Morocco (Beni Mellal region, Rabat, Western Anti-Atlas, Izarene forest, Oriental Morocco, Northwestern Morocco, Sefrou region, Central Middle Atlas, Tizi n' Test Region, Al Haouz-Rhamna, Tan-Tan, Meknes-Tafilalet and Fez-Boulemane) ref [6].",
+    "refNo": 6,
+    "title": "Herbal medicines use among diabetic patients in oriental Morocco",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Type 2 diabetes mellitus (T2DM), generally termed as diabetes, is one of the major endocrine diseases which affects millions of people in the industrial and developing countries ref [7], ref [8].",
+    "refNo": 7,
+    "title": "Traditional medicinal plants used for the treatment of diabetes in the Sudan: a review",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Type 2 diabetes mellitus (T2DM), generally termed as diabetes, is one of the major endocrine diseases which affects millions of people in the industrial and developing countries ref [7], ref [8].",
+    "refNo": 8,
+    "title": "Diabetes mellitus and medicinal plants-a review",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "It is projected that the total number of people with diabetes worldwide is expected to increase to 592 million by 2035 ref [8].",
+    "refNo": 8,
+    "title": "Diabetes mellitus and medicinal plants-a review",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Diabetes is a metabolic disease characterized by insufficient insulin secretion, impaired cellular action of the insulin or both ref [8].",
+    "refNo": 8,
+    "title": "Diabetes mellitus and medicinal plants-a review",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "The characteristic symptoms of diabetes are pruritus, polydipsia, weight loss, polyphagia, wasting, blurred vision, polyuria, tachycardia and hypotension ref [8].",
+    "refNo": 8,
+    "title": "Diabetes mellitus and medicinal plants-a review",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Dietary and lifestyle factors (Obesity, weight gain, physical inactivity and low fiber diet with a high glycemic index) play a significant role in the development of diabetes ref [8].",
+    "refNo": 8,
+    "title": "Diabetes mellitus and medicinal plants-a review",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Prolonged uncontrolled hyperglycemic level causes an increase in oxidative stress activation of the polyol pathway, coronary artery disease, peripheral arterial disease, stroke, diabetic nephropathy, neuropathy, peripheral neuropathy, retinopathy, retinopathy leading to vision loss, chronic kidney disease, urinary problems, sexual dysfunction, and skin infections ref [8].",
+    "refNo": 8,
+    "title": "Diabetes mellitus and medicinal plants-a review",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Herbal medicine has developed as an alternative for the treatment of diabetes because oral hypoglycemic agents are expensive and tagged with several side effects (nausea, skin reactions, liver disease, heart failure diarrhea, etc.) ref [7], ref [8].",
+    "refNo": 7,
+    "title": "Traditional medicinal plants used for the treatment of diabetes in the Sudan: a review",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Herbal medicine has developed as an alternative for the treatment of diabetes because oral hypoglycemic agents are expensive and tagged with several side effects (nausea, skin reactions, liver disease, heart failure diarrhea, etc.) ref [7], ref [8].",
+    "refNo": 8,
+    "title": "Diabetes mellitus and medicinal plants-a review",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "In Morocco, there are numerous medicinal plants described for treatment of diabetes ref [7], ref [8].",
+    "refNo": 7,
+    "title": "Traditional medicinal plants used for the treatment of diabetes in the Sudan: a review",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "In Morocco, there are numerous medicinal plants described for treatment of diabetes ref [7], ref [8].",
+    "refNo": 8,
+    "title": "Diabetes mellitus and medicinal plants-a review",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Three researchers searched Google Scholar, Elsevier, Medline, Web of Science, SCOPUS and Pubmed bibliographic databases from January 2019 to July 2019 to extract all data about the use of plants in folklore medicine for treatment and management of diabetes in Morocco published in the period from January 1980 to June 2019, using English, French and Arabic keywords ref [7], ref [8].",
+    "refNo": 7,
+    "title": "Traditional medicinal plants used for the treatment of diabetes in the Sudan: a review",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Three researchers searched Google Scholar, Elsevier, Medline, Web of Science, SCOPUS and Pubmed bibliographic databases from January 2019 to July 2019 to extract all data about the use of plants in folklore medicine for treatment and management of diabetes in Morocco published in the period from January 1980 to June 2019, using English, French and Arabic keywords ref [7], ref [8].",
+    "refNo": 8,
+    "title": "Diabetes mellitus and medicinal plants-a review",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Type 2 diabetes mellitus (T2DM), generally termed as diabetes, is one of the major endocrine diseases which affects millions of people in the industrial and developing countries ref [10].",
+    "refNo": 10,
+    "title": "Effects of Petroselinum crispum extract on pancreatic B cells and blood glucose of streptozotocin-induced diabetic rats",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Diabetes is a metabolic disease characterized by insufficient insulin secretion, impaired cellular action of the insulin or both ref [10].",
+    "refNo": 10,
+    "title": "Effects of Petroselinum crispum extract on pancreatic B cells and blood glucose of streptozotocin-induced diabetic rats",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "The treatment of diabetes mellitus is based on insulin, diet modification and oral hypoglycemic agents ref [10].",
+    "refNo": 10,
+    "title": "Effects of Petroselinum crispum extract on pancreatic B cells and blood glucose of streptozotocin-induced diabetic rats",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Herbal medicine has developed as an alternative for the treatment of diabetes because oral hypoglycemic agents are expensive and tagged with several side effects (nausea, skin reactions, liver disease, heart failure diarrhea, etc.) ref [10].",
+    "refNo": 10,
+    "title": "Effects of Petroselinum crispum extract on pancreatic B cells and blood glucose of streptozotocin-induced diabetic rats",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "In Morocco, there are numerous medicinal plants described for treatment of diabetes ref [9], ref [10].",
+    "refNo": 9,
+    "title": "Hypoglycemic effects and mechanisms of Portulaca oleracea L. in alloxan-induced diabetic rats",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "In Morocco, there are numerous medicinal plants described for treatment of diabetes ref [9], ref [10].",
+    "refNo": 10,
+    "title": "Effects of Petroselinum crispum extract on pancreatic B cells and blood glucose of streptozotocin-induced diabetic rats",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Compositae was the most frequently cited plant family, which is consistent with the predominance of this plant family in the results of various studies conducted in other countries ref [11].",
+    "refNo": 11,
+    "title": "Traditional medicines of plant origin used for the treatment of inflammatory disorders in Pakistan: a review",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Compositae has been designated as the largest plant family of flowering plants worldwide, comprising 23,000 species and 1535 genera, including many with considerable medicinal importance ref [11].",
+    "refNo": 11,
+    "title": "Traditional medicines of plant origin used for the treatment of inflammatory disorders in Pakistan: a review",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "The traditional medicinal applications of several Compositae species have been recorded in the literature ref [11].",
+    "refNo": 11,
+    "title": "Traditional medicines of plant origin used for the treatment of inflammatory disorders in Pakistan: a review",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Several bioactive compounds have been evaluated for their biological activities ref [11].",
+    "refNo": 11,
+    "title": "Traditional medicines of plant origin used for the treatment of inflammatory disorders in Pakistan: a review",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Further, plants belonging to the Compositae family contain a group of active phytochemical constituents and some bitter-tasting secondary metabolites such as sesquiterpene lactones ref [11].",
+    "refNo": 11,
+    "title": "Traditional medicines of plant origin used for the treatment of inflammatory disorders in Pakistan: a review",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Diabetics have discovered the disease by suggestive symptoms or by a screening test ref [12].",
+    "refNo": 12,
+    "title": "Traditional therapies used to manage diabetes and related complications in Mauritius: a comparative ethnoreligious study",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Plants growing in wild are most commonly [18] Amaryllidaceae Allium ampeloprasum L. Borro Bulb Raw 2 [18,25] Amaryllidaceae Allium cepa L.",
+    "refNo": 18,
+    "title": "Methanolic extract of Marrubium vulgare ameliorates hyperglycemia and dyslipidemia in streptozotocin-induced diabetic rats",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Plants growing in wild are most commonly [18] Amaryllidaceae Allium ampeloprasum L. Borro Bulb Raw 2 [18,25] Amaryllidaceae Allium cepa L.",
+    "refNo": 18,
+    "title": "Methanolic extract of Marrubium vulgare ameliorates hyperglycemia and dyslipidemia in streptozotocin-induced diabetic rats",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Plants growing in wild are most commonly [18] Amaryllidaceae Allium ampeloprasum L. Borro Bulb Raw 2 [18,25] Amaryllidaceae Allium cepa L.",
+    "refNo": 25,
+    "title": "",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Raw and juice 14 ref [2], ref [3], ref [4], ref [13] Amaryllidaceae Allium sativum L. Hexane, ethylacetate, methanolic and aqueous extracts of the seeds 250 mg/kg BW Streptozotocin-induced diabetic rats (STZ) The aqueous extract has shown maximal blood glucose lowering effect in diabetic rats [142] Poaceae The extract exerted a significant (P < 0.05) hypoglycaemic effect in normal rabbits which was however short-lived.",
+    "refNo": 2,
+    "title": "Ethnopharmacological survey of plants used for the treatment of diabetes in the town of Sidi Slimane (Morocco)",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Raw and juice 14 ref [2], ref [3], ref [4], ref [13] Amaryllidaceae Allium sativum L. Hexane, ethylacetate, methanolic and aqueous extracts of the seeds 250 mg/kg BW Streptozotocin-induced diabetic rats (STZ) The aqueous extract has shown maximal blood glucose lowering effect in diabetic rats [142] Poaceae The extract exerted a significant (P < 0.05) hypoglycaemic effect in normal rabbits which was however short-lived.",
+    "refNo": 3,
+    "title": "Contribution to the ethnobotanical study of antidiabetic medicinal plants of the central middle atlas region (Morocco)",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Raw and juice 14 ref [2], ref [3], ref [4], ref [13] Amaryllidaceae Allium sativum L. Hexane, ethylacetate, methanolic and aqueous extracts of the seeds 250 mg/kg BW Streptozotocin-induced diabetic rats (STZ) The aqueous extract has shown maximal blood glucose lowering effect in diabetic rats [142] Poaceae The extract exerted a significant (P < 0.05) hypoglycaemic effect in normal rabbits which was however short-lived.",
+    "refNo": 4,
+    "title": "Étude ethnobotanique des plantes médicinales utilisées dans le traitement du diabète, et des maladies cardiaques dans la région d'Izarène (Nord du Maroc)",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Raw and juice 14 ref [2], ref [3], ref [4], ref [13] Amaryllidaceae Allium sativum L. Hexane, ethylacetate, methanolic and aqueous extracts of the seeds 250 mg/kg BW Streptozotocin-induced diabetic rats (STZ) The aqueous extract has shown maximal blood glucose lowering effect in diabetic rats [142] Poaceae The extract exerted a significant (P < 0.05) hypoglycaemic effect in normal rabbits which was however short-lived.",
+    "refNo": 13,
+    "title": "Ethnobotanical survey of medicinal plants used for the treatment of diabetes in the Tizi n'Test region (Taroudant Province, Morocco)",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Raw and juice 14 ref [2], ref [3], ref [4], ref [13] Amaryllidaceae Allium sativum L. Hexane, ethylacetate, methanolic and aqueous extracts of the seeds 250 mg/kg BW Streptozotocin-induced diabetic rats (STZ) The aqueous extract has shown maximal blood glucose lowering effect in diabetic rats [142] Poaceae The extract exerted a significant (P < 0.05) hypoglycaemic effect in normal rabbits which was however short-lived.",
+    "refNo": 142,
+    "title": "",
+    "marker_text": "[142]"
+  },
+  {
+    "sentence": "The hypoglycaemic effect was not significant (P > 0.1) in alloxan-treated rabbits [150] Plants used most frequently for the treatment of diabetes in Morocco Trigonella foenum-graecum L. ref [2], ref [3], ref [4], ref [5], ref [13].",
+    "refNo": 150,
+    "title": "",
+    "marker_text": "[150]"
+  },
+  {
+    "sentence": "The hypoglycaemic effect was not significant (P > 0.1) in alloxan-treated rabbits [150] Plants used most frequently for the treatment of diabetes in Morocco Trigonella foenum-graecum L. ref [2], ref [3], ref [4], ref [5], ref [13].",
+    "refNo": 2,
+    "title": "Ethnopharmacological survey of plants used for the treatment of diabetes in the town of Sidi Slimane (Morocco)",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "The hypoglycaemic effect was not significant (P > 0.1) in alloxan-treated rabbits [150] Plants used most frequently for the treatment of diabetes in Morocco Trigonella foenum-graecum L. ref [2], ref [3], ref [4], ref [5], ref [13].",
+    "refNo": 3,
+    "title": "Contribution to the ethnobotanical study of antidiabetic medicinal plants of the central middle atlas region (Morocco)",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "The hypoglycaemic effect was not significant (P > 0.1) in alloxan-treated rabbits [150] Plants used most frequently for the treatment of diabetes in Morocco Trigonella foenum-graecum L. ref [2], ref [3], ref [4], ref [5], ref [13].",
+    "refNo": 4,
+    "title": "Étude ethnobotanique des plantes médicinales utilisées dans le traitement du diabète, et des maladies cardiaques dans la région d'Izarène (Nord du Maroc)",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "The hypoglycaemic effect was not significant (P > 0.1) in alloxan-treated rabbits [150] Plants used most frequently for the treatment of diabetes in Morocco Trigonella foenum-graecum L. ref [2], ref [3], ref [4], ref [5], ref [13].",
+    "refNo": 5,
+    "title": "Étude ethnopharmacologique de quelques plantes utilisées dans le traitement du diabète dans la région de Meknès-Tafilalet (Maroc)",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "The hypoglycaemic effect was not significant (P > 0.1) in alloxan-treated rabbits [150] Plants used most frequently for the treatment of diabetes in Morocco Trigonella foenum-graecum L. ref [2], ref [3], ref [4], ref [5], ref [13].",
+    "refNo": 13,
+    "title": "Ethnobotanical survey of medicinal plants used for the treatment of diabetes in the Tizi n'Test region (Taroudant Province, Morocco)",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Aqueous extract of the aerial parts 20 mg/kg BW Streptozotocin-induced diabetic rats (STZ) The blood glucose levels were decreased from 6.1 ± 0.06 mmol/l to 4.6 ± 0.17 mmol/l (P < 0.01) and from 21.1 ± 1.31 mmol/l to 13.7 ± 0.90 mmol/l (P < 0.01) in normal and STZ diabetic rats, respectively, after 15 days of treatment ref [6].",
+    "refNo": 6,
+    "title": "Herbal medicines use among diabetic patients in oriental Morocco",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Hydroalcoholic, water, and ethanol extracts of the leaves 2 and g/kg BW Streptozotocin-induced diabetic rats (STZ) The ethanolic extract of leaves (2 g/kg) had a better hypoglycemic effect in diabetic rats compared with the aqueous extract (p < 0.05) [134] Myrtaceae.",
+    "refNo": 134,
+    "title": "",
+    "marker_text": "[134]"
+  },
+  {
+    "sentence": "Ethanolic extract of the seeds 500 mg/kg BW Streptozotocin-induced diabetic rats (STZ) A significant decrease in the elevated blood glucose and increase in the lowered insulin and glycogen levels ref [7] Plantaginaceae Globularia alypum L.",
+    "refNo": 7,
+    "title": "Traditional medicinal plants used for the treatment of diabetes in the Sudan: a review",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "It lowers blood glucose level around 31% after 4 h of administration in normal rats ref [16], ref [3] [140] Poaceae Hordeum vulgare L.",
+    "refNo": 16,
+    "title": "A review on therapeutic potentials of Trigonella foenum graecum (fenugreek) and its chemical constituents in neurological disorders: complementary roles to its hypolipidemic, hypoglycemic, and antioxidant potential",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "It lowers blood glucose level around 31% after 4 h of administration in normal rats ref [16], ref [3] [140] Poaceae Hordeum vulgare L.",
+    "refNo": 3,
+    "title": "Contribution to the ethnobotanical study of antidiabetic medicinal plants of the central middle atlas region (Morocco)",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "It lowers blood glucose level around 31% after 4 h of administration in normal rats ref [16], ref [3] [140] Poaceae Hordeum vulgare L.",
+    "refNo": 140,
+    "title": "",
+    "marker_text": "[140]"
+  },
+  {
+    "sentence": "Marrubium vulgare is rich in phytochemicals like amino acids, polysaccharides, tannins, phenols, flavonoids, alkaloids, steroids, lactones and, in particular, terpenes ref [18].",
+    "refNo": 18,
+    "title": "Methanolic extract of Marrubium vulgare ameliorates hyperglycemia and dyslipidemia in streptozotocin-induced diabetic rats",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "The plant is reported to possess hypoglycemic, vasorelaxant, analgesic, antioxidant, antierdematogenic, anti-inflammatory, vasodilator and antihypertensive properties ref [18].",
+    "refNo": 18,
+    "title": "Methanolic extract of Marrubium vulgare ameliorates hyperglycemia and dyslipidemia in streptozotocin-induced diabetic rats",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Horehound used in Morocco in the treatment of diabetes ref [18].",
+    "refNo": 18,
+    "title": "Methanolic extract of Marrubium vulgare ameliorates hyperglycemia and dyslipidemia in streptozotocin-induced diabetic rats",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "It is cited as used in the treatment of diabetes in Morocco ref [2], ref [4], ref [3], ref [5].",
+    "refNo": 2,
+    "title": "Ethnopharmacological survey of plants used for the treatment of diabetes in the town of Sidi Slimane (Morocco)",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "It is cited as used in the treatment of diabetes in Morocco ref [2], ref [4], ref [3], ref [5].",
+    "refNo": 4,
+    "title": "Étude ethnobotanique des plantes médicinales utilisées dans le traitement du diabète, et des maladies cardiaques dans la région d'Izarène (Nord du Maroc)",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "It is cited as used in the treatment of diabetes in Morocco ref [2], ref [4], ref [3], ref [5].",
+    "refNo": 3,
+    "title": "Contribution to the ethnobotanical study of antidiabetic medicinal plants of the central middle atlas region (Morocco)",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "It is cited as used in the treatment of diabetes in Morocco ref [2], ref [4], ref [3], ref [5].",
+    "refNo": 5,
+    "title": "Étude ethnopharmacologique de quelques plantes utilisées dans le traitement du diabète dans la région de Meknès-Tafilalet (Maroc)",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Nigella sativa L. (Family Ranunculaceae), commonly known as black seed or Kalonji seed, is widely grown medicinal plant throughout the world ref [20].",
+    "refNo": 20,
+    "title": "A review on therapeutic potential of Nigella sativa (kalonji) seeds",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Seeds and their oil have many food and medicinal uses ref [20].",
+    "refNo": 20,
+    "title": "A review on therapeutic potential of Nigella sativa (kalonji) seeds",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "It has received attention for its potential application in the treatment and prevention of a number of diseases, such as fever, asthma, diarrhoea, dyslipidaemia, common cold, headache, warts, stings of scorpions, bites of snake and rheumatic diseases ref [20].",
+    "refNo": 20,
+    "title": "A review on therapeutic potential of Nigella sativa (kalonji) seeds",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Moreover, a variety of secondary metabolites has been identified in this species, such as fixed oil, protein, alkaloid, saponin, isochinoline alkaloids (nigellimin and nigellimin-N-oxide), pyrazol alkaloids (nigellidin and nigellicin), thymoquinone, pcymene, pinene, dithymoquinone, thymohydroquinone, carvacrol, carvone, limonene, 4-terpineol and citronellol ref [20].",
+    "refNo": 20,
+    "title": "A review on therapeutic potential of Nigella sativa (kalonji) seeds",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "It has been reported to possess potent antiinflammatory, anti-hyperlipidemic, anti-microbial, anticancer, anti-oxidant, anti-diabetic, anti-hypertensive, hepatoprotective, antiparasitic, analgesic, anti-nociceptive, anti-ulcer, anti-histaminic and wound healing activities ref [20].",
+    "refNo": 20,
+    "title": "A review on therapeutic potential of Nigella sativa (kalonji) seeds",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Nigella sativa used in Morocco in the treatment of diabetes ref [19] ref [20] ref [22] ref [5].",
+    "refNo": 19,
+    "title": "Protective and antidiabetic effects of extract from Nigella sativa on blood glucose concentrations against streptozotocin (STZ)-induced diabetic in rats: an experimental study with histopathological evaluation",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Nigella sativa used in Morocco in the treatment of diabetes ref [19] ref [20] ref [22] ref [5].",
+    "refNo": 20,
+    "title": "A review on therapeutic potential of Nigella sativa (kalonji) seeds",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Nigella sativa used in Morocco in the treatment of diabetes ref [19] ref [20] ref [22] ref [5].",
+    "refNo": 22,
+    "title": "Hypoglycemic effects of the volatile oil of Nigella sativa seeds",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Nigella sativa used in Morocco in the treatment of diabetes ref [19] ref [20] ref [22] ref [5].",
+    "refNo": 5,
+    "title": "Étude ethnopharmacologique de quelques plantes utilisées dans le traitement du diabète dans la région de Meknès-Tafilalet (Maroc)",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Many Moroccan medicinal plants are reported to have blood sugar lowering properties that make them useful for the management of diabetes ref [7], ref [20], ref [22].",
+    "refNo": 7,
+    "title": "Traditional medicinal plants used for the treatment of diabetes in the Sudan: a review",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Many Moroccan medicinal plants are reported to have blood sugar lowering properties that make them useful for the management of diabetes ref [7], ref [20], ref [22].",
+    "refNo": 20,
+    "title": "A review on therapeutic potential of Nigella sativa (kalonji) seeds",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Many Moroccan medicinal plants are reported to have blood sugar lowering properties that make them useful for the management of diabetes ref [7], ref [20], ref [22].",
+    "refNo": 22,
+    "title": "Hypoglycemic effects of the volatile oil of Nigella sativa seeds",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "We have reported 255 medicinal plants species belonging to 70 families in this study for the treatment of diabetes ref [3], ref [2], ref [4], ref [5], ref [12].",
+    "refNo": 3,
+    "title": "Contribution to the ethnobotanical study of antidiabetic medicinal plants of the central middle atlas region (Morocco)",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "We have reported 255 medicinal plants species belonging to 70 families in this study for the treatment of diabetes ref [3], ref [2], ref [4], ref [5], ref [12].",
+    "refNo": 2,
+    "title": "Ethnopharmacological survey of plants used for the treatment of diabetes in the town of Sidi Slimane (Morocco)",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "We have reported 255 medicinal plants species belonging to 70 families in this study for the treatment of diabetes ref [3], ref [2], ref [4], ref [5], ref [12].",
+    "refNo": 4,
+    "title": "Étude ethnobotanique des plantes médicinales utilisées dans le traitement du diabète, et des maladies cardiaques dans la région d'Izarène (Nord du Maroc)",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "We have reported 255 medicinal plants species belonging to 70 families in this study for the treatment of diabetes ref [3], ref [2], ref [4], ref [5], ref [12].",
+    "refNo": 5,
+    "title": "Étude ethnopharmacologique de quelques plantes utilisées dans le traitement du diabète dans la région de Meknès-Tafilalet (Maroc)",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "We have reported 255 medicinal plants species belonging to 70 families in this study for the treatment of diabetes ref [3], ref [2], ref [4], ref [5], ref [12].",
+    "refNo": 12,
+    "title": "Traditional therapies used to manage diabetes and related complications in Mauritius: a comparative ethnoreligious study",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Plants from the Compositae family were used most often in Morocco ref [3], ref [4], ref [12].",
+    "refNo": 3,
+    "title": "Contribution to the ethnobotanical study of antidiabetic medicinal plants of the central middle atlas region (Morocco)",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Plants from the Compositae family were used most often in Morocco ref [3], ref [4], ref [12].",
+    "refNo": 4,
+    "title": "Étude ethnobotanique des plantes médicinales utilisées dans le traitement du diabète, et des maladies cardiaques dans la région d'Izarène (Nord du Maroc)",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Plants from the Compositae family were used most often in Morocco ref [3], ref [4], ref [12].",
+    "refNo": 12,
+    "title": "Traditional therapies used to manage diabetes and related complications in Mauritius: a comparative ethnoreligious study",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "The role of 135 Moroccan medicinal plants in the treatment of diabetes has been reviewed by several authors ref [7], ref [20], ref [22].",
+    "refNo": 7,
+    "title": "Traditional medicinal plants used for the treatment of diabetes in the Sudan: a review",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "The role of 135 Moroccan medicinal plants in the treatment of diabetes has been reviewed by several authors ref [7], ref [20], ref [22].",
+    "refNo": 20,
+    "title": "A review on therapeutic potential of Nigella sativa (kalonji) seeds",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "The role of 135 Moroccan medicinal plants in the treatment of diabetes has been reviewed by several authors ref [7], ref [20], ref [22].",
+    "refNo": 22,
+    "title": "Hypoglycemic effects of the volatile oil of Nigella sativa seeds",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "However, 120 medicinal plants that are used for the treatment of diabetes in Morocco have not yet been studied in great detail for their antidiabetic properties ref [3], ref [2], ref [4], ref [5], ref [12].",
+    "refNo": 3,
+    "title": "Contribution to the ethnobotanical study of antidiabetic medicinal plants of the central middle atlas region (Morocco)",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "However, 120 medicinal plants that are used for the treatment of diabetes in Morocco have not yet been studied in great detail for their antidiabetic properties ref [3], ref [2], ref [4], ref [5], ref [12].",
+    "refNo": 2,
+    "title": "Ethnopharmacological survey of plants used for the treatment of diabetes in the town of Sidi Slimane (Morocco)",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "However, 120 medicinal plants that are used for the treatment of diabetes in Morocco have not yet been studied in great detail for their antidiabetic properties ref [3], ref [2], ref [4], ref [5], ref [12].",
+    "refNo": 4,
+    "title": "Étude ethnobotanique des plantes médicinales utilisées dans le traitement du diabète, et des maladies cardiaques dans la région d'Izarène (Nord du Maroc)",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "However, 120 medicinal plants that are used for the treatment of diabetes in Morocco have not yet been studied in great detail for their antidiabetic properties ref [3], ref [2], ref [4], ref [5], ref [12].",
+    "refNo": 5,
+    "title": "Étude ethnopharmacologique de quelques plantes utilisées dans le traitement du diabète dans la région de Meknès-Tafilalet (Maroc)",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "However, 120 medicinal plants that are used for the treatment of diabetes in Morocco have not yet been studied in great detail for their antidiabetic properties ref [3], ref [2], ref [4], ref [5], ref [12].",
+    "refNo": 12,
+    "title": "Traditional therapies used to manage diabetes and related complications in Mauritius: a comparative ethnoreligious study",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Furthermore, there are very few scientific reports of toxicological properties of these plants which would guarantee the safety of patients ref [6], ref [20], ref [21].",
+    "refNo": 6,
+    "title": "Herbal medicines use among diabetic patients in oriental Morocco",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Furthermore, there are very few scientific reports of toxicological properties of these plants which would guarantee the safety of patients ref [6], ref [20], ref [21].",
+    "refNo": 20,
+    "title": "A review on therapeutic potential of Nigella sativa (kalonji) seeds",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Furthermore, there are very few scientific reports of toxicological properties of these plants which would guarantee the safety of patients ref [6], ref [20], ref [21].",
+    "refNo": 21,
+    "title": "Effects of methanolic extract and commercial oil of Nigella sativa L. on blood glucose and antioxidant capacity in alloxan-induced diabetic rats",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "In general, the literature search showed that some users of medicinal plants have only little information about toxic plants ref [6].",
+    "refNo": 6,
+    "title": "Herbal medicines use among diabetic patients in oriental Morocco",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "In order to prevent the usage of toxic plants by the greater population, we have reported the major plants that have side effects according to toxicological documentations ref [6], ref [21].",
+    "refNo": 6,
+    "title": "Herbal medicines use among diabetic patients in oriental Morocco",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "In order to prevent the usage of toxic plants by the greater population, we have reported the major plants that have side effects according to toxicological documentations ref [6], ref [21].",
+    "refNo": 21,
+    "title": "Effects of methanolic extract and commercial oil of Nigella sativa L. on blood glucose and antioxidant capacity in alloxan-induced diabetic rats",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Despite the therapeutic effects of medicinal plantsthey may have a toxicity risk which is related to a variety of causes including, contamination, misidentification, mistaken use of the wrong species, incorrect dosing and errors in use ref [21].",
+    "refNo": 21,
+    "title": "Effects of methanolic extract and commercial oil of Nigella sativa L. on blood glucose and antioxidant capacity in alloxan-induced diabetic rats",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Another problem, which may occur, is the possibility of adverse interaction between conventional medication and plant remedies ref [6], ref [21].",
+    "refNo": 6,
+    "title": "Herbal medicines use among diabetic patients in oriental Morocco",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Another problem, which may occur, is the possibility of adverse interaction between conventional medication and plant remedies ref [6], ref [21].",
+    "refNo": 21,
+    "title": "Effects of methanolic extract and commercial oil of Nigella sativa L. on blood glucose and antioxidant capacity in alloxan-induced diabetic rats",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "However, many of the plant species mentioned require further pharmacological and clinical studies in order to validate any effective plant remedies to treat diabetes ref [7], ref [20], ref [22].",
+    "refNo": 7,
+    "title": "Traditional medicinal plants used for the treatment of diabetes in the Sudan: a review",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "However, many of the plant species mentioned require further pharmacological and clinical studies in order to validate any effective plant remedies to treat diabetes ref [7], ref [20], ref [22].",
+    "refNo": 20,
+    "title": "A review on therapeutic potential of Nigella sativa (kalonji) seeds",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "However, many of the plant species mentioned require further pharmacological and clinical studies in order to validate any effective plant remedies to treat diabetes ref [7], ref [20], ref [22].",
+    "refNo": 22,
+    "title": "Hypoglycemic effects of the volatile oil of Nigella sativa seeds",
+    "marker_text": "[22]"
+  }
+]

@@ -1,0 +1,1595 @@
+[
+  {
+    "sentence": "For many years, the prevalent theory maintained that callosal axons first cross the midline toward the anterior end and callosal development proceeds posteriorly, with the rostrum added last (ref [2]).",
+    "refNo": 2,
+    "title": "Development of the corpus callosum and cavum septi in man",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "However, evidence from both earlier neuroanatomic literature and recent neuroimaging studies of human embryology indicates that callosal connections begin more centrally in the hippocampal primordium and the subsequent growth progresses bidirectionally both anterior and posterior, with more prominent anterior growth (ref [1], ref [3], ref [2], ref [4]).",
+    "refNo": 1,
+    "title": "Anatomical characterization of human fetal brain development with diffusion tensor magnetic resonance imaging",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "However, evidence from both earlier neuroanatomic literature and recent neuroimaging studies of human embryology indicates that callosal connections begin more centrally in the hippocampal primordium and the subsequent growth progresses bidirectionally both anterior and posterior, with more prominent anterior growth (ref [1], ref [3], ref [2], ref [4]).",
+    "refNo": 3,
+    "title": "Imaging, anatomical, and molecular analysis of callosal formation in the developing human fetal brain",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "However, evidence from both earlier neuroanatomic literature and recent neuroimaging studies of human embryology indicates that callosal connections begin more centrally in the hippocampal primordium and the subsequent growth progresses bidirectionally both anterior and posterior, with more prominent anterior growth (ref [1], ref [3], ref [2], ref [4]).",
+    "refNo": 2,
+    "title": "Development of the corpus callosum and cavum septi in man",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "However, evidence from both earlier neuroanatomic literature and recent neuroimaging studies of human embryology indicates that callosal connections begin more centrally in the hippocampal primordium and the subsequent growth progresses bidirectionally both anterior and posterior, with more prominent anterior growth (ref [1], ref [3], ref [2], ref [4]).",
+    "refNo": 4,
+    "title": "Growth of the human corpus callosum: modular and laminar morphogenetic zones",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Although some callosal connections are inhibitory (allowing the hemispheres to inhibit each other to maximize independent function), the majority are excitatory (integrating information across hemispheres) (ref [2]) and thus most research on functional callosal connectivity examines excitatory interhemispheric transfer (IHT).",
+    "refNo": 2,
+    "title": "Development of the corpus callosum and cavum septi in man",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "The corpus callosum is topographically organized, such that fibers connecting a given cortical area are adjacent (ref [9]).",
+    "refNo": 9,
+    "title": "Simple reaction times to lateralized light flashes. Varieties of interhemispheric communication routes",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "However, diffusion-weighted magnetic resonance imaging (dMRI) analyzed in conjunction with histologic data has provided clarification of callosal microstructure and connectivity, resulting in an updated variation of Witelson's segmentation ( Fig. 1) (ref [6]).",
+    "refNo": 6,
+    "title": "Corpus callosal microstructural integrity influences interhemispheric processing: a diffusion tensor imaging study",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Callosal area is positively correlated with density of small fibers but is not correlated with density of large fibers (ref [10]).",
+    "refNo": 10,
+    "title": "Topography of the human corpus callosum revisited-comprehensive fiber tractography using diffusion tensor magnetic resonance imaging",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "However, callosal area is not a meaningful indicator of axon density in the posterior midbody and posterior splenium, areas that connect primary motor cortices, and occipital lobes, respectively (ref [10], ref [12], ref [5], ref [7]).",
+    "refNo": 10,
+    "title": "Topography of the human corpus callosum revisited-comprehensive fiber tractography using diffusion tensor magnetic resonance imaging",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "However, callosal area is not a meaningful indicator of axon density in the posterior midbody and posterior splenium, areas that connect primary motor cortices, and occipital lobes, respectively (ref [10], ref [12], ref [5], ref [7]).",
+    "refNo": 12,
+    "title": "Topography of the human corpus callosum",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "However, callosal area is not a meaningful indicator of axon density in the posterior midbody and posterior splenium, areas that connect primary motor cortices, and occipital lobes, respectively (ref [10], ref [12], ref [5], ref [7]).",
+    "refNo": 5,
+    "title": "Integrity of white matter in the corpus callosum correlates with bimanual co-ordination skills",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "However, callosal area is not a meaningful indicator of axon density in the posterior midbody and posterior splenium, areas that connect primary motor cortices, and occipital lobes, respectively (ref [10], ref [12], ref [5], ref [7]).",
+    "refNo": 7,
+    "title": "Temporal-callosal pathway diffusivity predicts phonological skills in children",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Fig. 2 Examples of mid-sagittal MRI images and statistical outcomes from several of the conditions described in this review.",
+    "refNo": 2,
+    "title": "Development of the corpus callosum and cavum septi in man",
+    "marker_text": "2",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "All images are oriented with anterior to the left; a complete AgCC; b partial AgCC; c statistical significance of smaller CC area in 22qDS than controls ( Fig. 4d in (Machado et al. 2007)); d CC hypoplasia in an individual born preterm ( Fig. 2 in (Nosarti et al. 2004)); e significance of mean local CC area reveals significantly smaller anterior third of callosum in autistic subjects relative to control subjects ( Fig. 2c in (Vidal et al. 2006.",
+    "refNo": 4,
+    "title": "Growth of the human corpus callosum: modular and laminar morphogenetic zones",
+    "marker_text": "4",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "All images are oriented with anterior to the left; a complete AgCC; b partial AgCC; c statistical significance of smaller CC area in 22qDS than controls ( Fig. 4d in (Machado et al. 2007)); d CC hypoplasia in an individual born preterm ( Fig. 2 in (Nosarti et al. 2004)); e significance of mean local CC area reveals significantly smaller anterior third of callosum in autistic subjects relative to control subjects ( Fig. 2c in (Vidal et al. 2006.",
+    "refNo": 2,
+    "title": "Development of the corpus callosum and cavum septi in man",
+    "marker_text": "2",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Studies integrating these methods may provide internal validation of their own findings (ref [15]; ref [5]; ref [7]).",
+    "refNo": 15,
+    "title": "Development of the human corpus callosum during childhood and adolescence: a longitudinal MRI study",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Studies integrating these methods may provide internal validation of their own findings (ref [15]; ref [5]; ref [7]).",
+    "refNo": 5,
+    "title": "Integrity of white matter in the corpus callosum correlates with bimanual co-ordination skills",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Studies integrating these methods may provide internal validation of their own findings (ref [15]; ref [5]; ref [7]).",
+    "refNo": 7,
+    "title": "Temporal-callosal pathway diffusivity predicts phonological skills in children",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "AgCC is typically accompanied by a characteristic dilatation of posterior lateral ventricles (colpocephaly; (Baker and Barkovich 1992;Mori 1992) and often the presence of atypical fiber bundles (Probst Bundles) that run anterior to posterior just lateral to the interhemispheric fissure (ref [17]).",
+    "refNo": 17,
+    "title": "Neuroplasticity in human callosal dysgenesis: a diffusion tensor imaging study",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "The 22q11.2 deletion syndrome (22qDS; also called velocardiofacial/DiGeorge syndrome) results from a hemizygous deletion at chromosome 22q11.2 (ref [18]).",
+    "refNo": 18,
+    "title": "Agenesis of the corpus callosum in Turner syndrome with ring X",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "In addition to atypical facial morphometry and multiple medical complications (ref [18]), individuals with 22qDS typically demonstrate relatively stronger language than visuospatial skills (ref [18]).",
+    "refNo": 18,
+    "title": "Agenesis of the corpus callosum in Turner syndrome with ring X",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "In addition to atypical facial morphometry and multiple medical complications (ref [18]), individuals with 22qDS typically demonstrate relatively stronger language than visuospatial skills (ref [18]).",
+    "refNo": 18,
+    "title": "Agenesis of the corpus callosum in Turner syndrome with ring X",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Specific deficits in visuospatial cognition, arithmetic (ref [18]; ref [13]; ref [20]; ref [16]), and spatial attentional orienting (ref [13]) are common.",
+    "refNo": 18,
+    "title": "Agenesis of the corpus callosum in Turner syndrome with ring X",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Specific deficits in visuospatial cognition, arithmetic (ref [18]; ref [13]; ref [20]; ref [16]), and spatial attentional orienting (ref [13]) are common.",
+    "refNo": 13,
+    "title": "Functional organization of human occipital-callosal fiber tracts",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Specific deficits in visuospatial cognition, arithmetic (ref [18]; ref [13]; ref [20]; ref [16]), and spatial attentional orienting (ref [13]) are common.",
+    "refNo": 20,
+    "title": "Ullrich-Turner syndrome with agenesis of the corpus callosum",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Specific deficits in visuospatial cognition, arithmetic (ref [18]; ref [13]; ref [20]; ref [16]), and spatial attentional orienting (ref [13]) are common.",
+    "refNo": 16,
+    "title": "Microstructural integrity of the corpus callosum linked with neuropsychological performance in Adolescents",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Specific deficits in visuospatial cognition, arithmetic (ref [18]; ref [13]; ref [20]; ref [16]), and spatial attentional orienting (ref [13]) are common.",
+    "refNo": 13,
+    "title": "Functional organization of human occipital-callosal fiber tracts",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "There is also a high incidence of psychopathology in this population, including attention-deficit hyperactivity disorder (ref [13]; ref [20]; ref [18]), obsessive-compulsive disorder (ref [13]), autistic spectrum disorder (ref [28]; ref [13]; ref [20]; ref [18]); schizophrenia (ref [18]), and bipolar disorder (ref [18]).",
+    "refNo": 13,
+    "title": "Functional organization of human occipital-callosal fiber tracts",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "There is also a high incidence of psychopathology in this population, including attention-deficit hyperactivity disorder (ref [13]; ref [20]; ref [18]), obsessive-compulsive disorder (ref [13]), autistic spectrum disorder (ref [28]; ref [13]; ref [20]; ref [18]); schizophrenia (ref [18]), and bipolar disorder (ref [18]).",
+    "refNo": 20,
+    "title": "Ullrich-Turner syndrome with agenesis of the corpus callosum",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "There is also a high incidence of psychopathology in this population, including attention-deficit hyperactivity disorder (ref [13]; ref [20]; ref [18]), obsessive-compulsive disorder (ref [13]), autistic spectrum disorder (ref [28]; ref [13]; ref [20]; ref [18]); schizophrenia (ref [18]), and bipolar disorder (ref [18]).",
+    "refNo": 18,
+    "title": "Agenesis of the corpus callosum in Turner syndrome with ring X",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "There is also a high incidence of psychopathology in this population, including attention-deficit hyperactivity disorder (ref [13]; ref [20]; ref [18]), obsessive-compulsive disorder (ref [13]), autistic spectrum disorder (ref [28]; ref [13]; ref [20]; ref [18]); schizophrenia (ref [18]), and bipolar disorder (ref [18]).",
+    "refNo": 13,
+    "title": "Functional organization of human occipital-callosal fiber tracts",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "There is also a high incidence of psychopathology in this population, including attention-deficit hyperactivity disorder (ref [13]; ref [20]; ref [18]), obsessive-compulsive disorder (ref [13]), autistic spectrum disorder (ref [28]; ref [13]; ref [20]; ref [18]); schizophrenia (ref [18]), and bipolar disorder (ref [18]).",
+    "refNo": 28,
+    "title": "Some limits to interhemispheric integration in cases of callosal agenesis and partial commissurotomy",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "There is also a high incidence of psychopathology in this population, including attention-deficit hyperactivity disorder (ref [13]; ref [20]; ref [18]), obsessive-compulsive disorder (ref [13]), autistic spectrum disorder (ref [28]; ref [13]; ref [20]; ref [18]); schizophrenia (ref [18]), and bipolar disorder (ref [18]).",
+    "refNo": 13,
+    "title": "Functional organization of human occipital-callosal fiber tracts",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "There is also a high incidence of psychopathology in this population, including attention-deficit hyperactivity disorder (ref [13]; ref [20]; ref [18]), obsessive-compulsive disorder (ref [13]), autistic spectrum disorder (ref [28]; ref [13]; ref [20]; ref [18]); schizophrenia (ref [18]), and bipolar disorder (ref [18]).",
+    "refNo": 20,
+    "title": "Ullrich-Turner syndrome with agenesis of the corpus callosum",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "There is also a high incidence of psychopathology in this population, including attention-deficit hyperactivity disorder (ref [13]; ref [20]; ref [18]), obsessive-compulsive disorder (ref [13]), autistic spectrum disorder (ref [28]; ref [13]; ref [20]; ref [18]); schizophrenia (ref [18]), and bipolar disorder (ref [18]).",
+    "refNo": 18,
+    "title": "Agenesis of the corpus callosum in Turner syndrome with ring X",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "There is also a high incidence of psychopathology in this population, including attention-deficit hyperactivity disorder (ref [13]; ref [20]; ref [18]), obsessive-compulsive disorder (ref [13]), autistic spectrum disorder (ref [28]; ref [13]; ref [20]; ref [18]); schizophrenia (ref [18]), and bipolar disorder (ref [18]).",
+    "refNo": 18,
+    "title": "Agenesis of the corpus callosum in Turner syndrome with ring X",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "There is also a high incidence of psychopathology in this population, including attention-deficit hyperactivity disorder (ref [13]; ref [20]; ref [18]), obsessive-compulsive disorder (ref [13]), autistic spectrum disorder (ref [28]; ref [13]; ref [20]; ref [18]); schizophrenia (ref [18]), and bipolar disorder (ref [18]).",
+    "refNo": 18,
+    "title": "Agenesis of the corpus callosum in Turner syndrome with ring X",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Corpus callosum size in children with developmental language disorder (DLD) of the phonologic-syntactic type showed no significant anatomical differences compared to age- and gender-matched controls, even after accounting for smaller forebrain volume; however, a tendency toward larger anterior and middle corpus callosum regions relative to forebrain volume was observed ref [34].",
+    "refNo": 34,
+    "title": "Corpus callosum size in children with developmental language disorder",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "In contrast, a deficit in interhemispheric transfer of tactile information was demonstrated in children with DLD, who made significantly more errors than controls in crossed localization tasks, suggesting impaired callosal function despite normal callosal size ref [35].",
+    "refNo": 35,
+    "title": "A callosal transfer deficit in children with developmental language disorder",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "Furthermore, individual differences in brain anatomy, including corpus callosum morphology, have been linked to distinct profiles of language and reading impairments, with symmetrical brain structures associated with severe comprehension deficits typical of DLD ref [36].",
+    "refNo": 36,
+    "title": "Individual differences in anatomy predict reading and oral language impairments in children",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "Children born significantly preterm (≤33 weeks) often exhibit behaviors such as withdrawal, thought disorganization, attention problems, aggression, and social problems (ref [38]; ref [5]).",
+    "refNo": 38,
+    "title": "Localization of white matter volume increase in autism and developmental language disorder",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Children born significantly preterm (≤33 weeks) often exhibit behaviors such as withdrawal, thought disorganization, attention problems, aggression, and social problems (ref [38]; ref [5]).",
+    "refNo": 5,
+    "title": "Integrity of white matter in the corpus callosum correlates with bimanual co-ordination skills",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Diffuse white matter damage is the most common neural abnormality evident on MRIs of preterm infants (ref [38]; ref [5]) and may be associated with regional volume reductions and developmental impairment (ref [38]).",
+    "refNo": 38,
+    "title": "Localization of white matter volume increase in autism and developmental language disorder",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Diffuse white matter damage is the most common neural abnormality evident on MRIs of preterm infants (ref [38]; ref [5]) and may be associated with regional volume reductions and developmental impairment (ref [38]).",
+    "refNo": 5,
+    "title": "Integrity of white matter in the corpus callosum correlates with bimanual co-ordination skills",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Diffuse white matter damage is the most common neural abnormality evident on MRIs of preterm infants (ref [38]; ref [5]) and may be associated with regional volume reductions and developmental impairment (ref [38]).",
+    "refNo": 38,
+    "title": "Localization of white matter volume increase in autism and developmental language disorder",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Neurodevelopmental impairments in infants born preterm appear to be related to CC size (ref [38]; ref [5]), as well as regionally specific microstructural callosal abnormalities (ref [38]).",
+    "refNo": 38,
+    "title": "Localization of white matter volume increase in autism and developmental language disorder",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Neurodevelopmental impairments in infants born preterm appear to be related to CC size (ref [38]; ref [5]), as well as regionally specific microstructural callosal abnormalities (ref [38]).",
+    "refNo": 5,
+    "title": "Integrity of white matter in the corpus callosum correlates with bimanual co-ordination skills",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Neurodevelopmental impairments in infants born preterm appear to be related to CC size (ref [38]; ref [5]), as well as regionally specific microstructural callosal abnormalities (ref [38]).",
+    "refNo": 38,
+    "title": "Localization of white matter volume increase in autism and developmental language disorder",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Specifically, reductions in callosal area are most evident in the posterior body of preterm infants (ref [38]; ref [5]).",
+    "refNo": 38,
+    "title": "Localization of white matter volume increase in autism and developmental language disorder",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Specifically, reductions in callosal area are most evident in the posterior body of preterm infants (ref [38]; ref [5]).",
+    "refNo": 5,
+    "title": "Integrity of white matter in the corpus callosum correlates with bimanual co-ordination skills",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Although regional CC size and microstructure may vary somewhat by gestational age at birth, callosal abnormalities typically persist into adolescence (ref [38]), and have long-term consequences on behavior (ref [38]; ref [5]).",
+    "refNo": 38,
+    "title": "Localization of white matter volume increase in autism and developmental language disorder",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Although regional CC size and microstructure may vary somewhat by gestational age at birth, callosal abnormalities typically persist into adolescence (ref [38]), and have long-term consequences on behavior (ref [38]; ref [5]).",
+    "refNo": 38,
+    "title": "Localization of white matter volume increase in autism and developmental language disorder",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Although regional CC size and microstructure may vary somewhat by gestational age at birth, callosal abnormalities typically persist into adolescence (ref [38]), and have long-term consequences on behavior (ref [38]; ref [5]).",
+    "refNo": 5,
+    "title": "Integrity of white matter in the corpus callosum correlates with bimanual co-ordination skills",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Taken together, these findings suggest that neuroprotective strategies may be most effective when administered immediately after birth (ref [38]; ref [5]), but are unlikely to provide complete recovery of callosal structure.",
+    "refNo": 38,
+    "title": "Localization of white matter volume increase in autism and developmental language disorder",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Taken together, these findings suggest that neuroprotective strategies may be most effective when administered immediately after birth (ref [38]; ref [5]), but are unlikely to provide complete recovery of callosal structure.",
+    "refNo": 5,
+    "title": "Integrity of white matter in the corpus callosum correlates with bimanual co-ordination skills",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Five-minute APGAR score correlated positively with size of the CC midbody (ref [38]).",
+    "refNo": 38,
+    "title": "Localization of white matter volume increase in autism and developmental language disorder",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "In every preterm boys, total midsagittal CC area and the mid-posterior quarter area correlated positively with verbal IQ and verbal fluency (ref [38]).",
+    "refNo": 38,
+    "title": "Localization of white matter volume increase in autism and developmental language disorder",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Other studies have found that CC size after preterm birth is positively correlated with verbal and performance IQ (ref [38]), motor function (ref [38]), and visual-motor integration (ref [38]), all of which are consistent with indications that posterior callosal area is positively correlated with volume of the related projection areas (sensorimotor, midtemporal, and occipital (ref [38]).",
+    "refNo": 38,
+    "title": "Localization of white matter volume increase in autism and developmental language disorder",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Other studies have found that CC size after preterm birth is positively correlated with verbal and performance IQ (ref [38]), motor function (ref [38]), and visual-motor integration (ref [38]), all of which are consistent with indications that posterior callosal area is positively correlated with volume of the related projection areas (sensorimotor, midtemporal, and occipital (ref [38]).",
+    "refNo": 38,
+    "title": "Localization of white matter volume increase in autism and developmental language disorder",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Other studies have found that CC size after preterm birth is positively correlated with verbal and performance IQ (ref [38]), motor function (ref [38]), and visual-motor integration (ref [38]), all of which are consistent with indications that posterior callosal area is positively correlated with volume of the related projection areas (sensorimotor, midtemporal, and occipital (ref [38]).",
+    "refNo": 38,
+    "title": "Localization of white matter volume increase in autism and developmental language disorder",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Other studies have found that CC size after preterm birth is positively correlated with verbal and performance IQ (ref [38]), motor function (ref [38]), and visual-motor integration (ref [38]), all of which are consistent with indications that posterior callosal area is positively correlated with volume of the related projection areas (sensorimotor, midtemporal, and occipital (ref [38]).",
+    "refNo": 38,
+    "title": "Localization of white matter volume increase in autism and developmental language disorder",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Neurodevelopmental impairments in infants born preterm also appear to be related to microstructural abnormalities in specific regions of the corpus callosum (ref [38]).",
+    "refNo": 38,
+    "title": "Localization of white matter volume increase in autism and developmental language disorder",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Around term-corrected age, microstructure in brains of preterm infants is less directionally specific on average than their term-born peers (i.e., lower FA values; ref [38]), with most marked reductions of FA in the genu (ref [38]).",
+    "refNo": 38,
+    "title": "Localization of white matter volume increase in autism and developmental language disorder",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Around term-corrected age, microstructure in brains of preterm infants is less directionally specific on average than their term-born peers (i.e., lower FA values; ref [38]), with most marked reductions of FA in the genu (ref [38]).",
+    "refNo": 38,
+    "title": "Localization of white matter volume increase in autism and developmental language disorder",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "In infants born before 28 PCW, genu FA was even more significantly reduced and reduced FA was evident in the callosal body and isthmus (ref [38]).",
+    "refNo": 38,
+    "title": "Localization of white matter volume increase in autism and developmental language disorder",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Preterm infants with diffuse excessive high signal intensity on MRI exhibited significantly elevated diffusion coefficients in the splenium (ref [38]).",
+    "refNo": 38,
+    "title": "Localization of white matter volume increase in autism and developmental language disorder",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "In preterm infants tested at 2 years of age, FA values in the isthmus and body were significantly positively correlated with developmental quotient scores, performance subscores, and eye-hand coordination (ref [38]).",
+    "refNo": 38,
+    "title": "Localization of white matter volume increase in autism and developmental language disorder",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Therefore, they concluded that decreased anisotropy is likely to be related to one or the combination of (1) reduced axon diameter, (2) fewer axons, and (3) poorer myelination (ref [38]).",
+    "refNo": 38,
+    "title": "Localization of white matter volume increase in autism and developmental language disorder",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Therefore, they concluded that decreased anisotropy is likely to be related to one or the combination of (1) reduced axon diameter, (2) fewer axons, and (3) poorer myelination (ref [38]).",
+    "refNo": 1,
+    "title": "Anatomical characterization of human fetal brain development with diffusion tensor magnetic resonance imaging",
+    "marker_text": "(1)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Therefore, they concluded that decreased anisotropy is likely to be related to one or the combination of (1) reduced axon diameter, (2) fewer axons, and (3) poorer myelination (ref [38]).",
+    "refNo": 2,
+    "title": "Development of the corpus callosum and cavum septi in man",
+    "marker_text": "(2)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Therefore, they concluded that decreased anisotropy is likely to be related to one or the combination of (1) reduced axon diameter, (2) fewer axons, and (3) poorer myelination (ref [38]).",
+    "refNo": 3,
+    "title": "Imaging, anatomical, and molecular analysis of callosal formation in the developing human fetal brain",
+    "marker_text": "(3)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "For example, relative to preterm subjects without callosal damage and normal-term control subjects, a sample of preterm subjects with callosal damage demonstrated intact accuracy on bilateral matching across visual fields indicating capacity for callosal transfer, significant slowing on both the within and between visual-field conditions indicating a general impairment in processing speed, and finally a bilateral field disadvantage indicative of reduced callosal transfer (ref [38]). fMRI results indicated that control subjects did not have any regions of greater activation when matching across visual fields than within.",
+    "refNo": 38,
+    "title": "Localization of white matter volume increase in autism and developmental language disorder",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "FASD commonly involves cognitive and psychosocial abnormalities consistent with FAS, including slowed information processing and impaired executive control (ref [38]; ref [5]).",
+    "refNo": 38,
+    "title": "Localization of white matter volume increase in autism and developmental language disorder",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "FASD commonly involves cognitive and psychosocial abnormalities consistent with FAS, including slowed information processing and impaired executive control (ref [38]; ref [5]).",
+    "refNo": 5,
+    "title": "Integrity of white matter in the corpus callosum correlates with bimanual co-ordination skills",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Among the remainder of the FAS population, area reductions of anterior and posterior callosal regions is common (ref [38]; ref [5]), as well as displacement of the posterior callosal regions to more anterior and inferior positions (ref [38]).",
+    "refNo": 38,
+    "title": "Localization of white matter volume increase in autism and developmental language disorder",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Among the remainder of the FAS population, area reductions of anterior and posterior callosal regions is common (ref [38]; ref [5]), as well as displacement of the posterior callosal regions to more anterior and inferior positions (ref [38]).",
+    "refNo": 5,
+    "title": "Integrity of white matter in the corpus callosum correlates with bimanual co-ordination skills",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Among the remainder of the FAS population, area reductions of anterior and posterior callosal regions is common (ref [38]; ref [5]), as well as displacement of the posterior callosal regions to more anterior and inferior positions (ref [38]).",
+    "refNo": 38,
+    "title": "Localization of white matter volume increase in autism and developmental language disorder",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "In adolescents with FASD, there is evidence of reduced FA in the CC overall (ref [38]), specifically in posterior midbody and isthmus (ref [38]) and the splenium (ref [38]).",
+    "refNo": 38,
+    "title": "Localization of white matter volume increase in autism and developmental language disorder",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "In adolescents with FASD, there is evidence of reduced FA in the CC overall (ref [38]), specifically in posterior midbody and isthmus (ref [38]) and the splenium (ref [38]).",
+    "refNo": 38,
+    "title": "Localization of white matter volume increase in autism and developmental language disorder",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "In adolescents with FASD, there is evidence of reduced FA in the CC overall (ref [38]), specifically in posterior midbody and isthmus (ref [38]) and the splenium (ref [38]).",
+    "refNo": 38,
+    "title": "Localization of white matter volume increase in autism and developmental language disorder",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "As demand for interhemispheric coordination increased, performance of the FASD group became more variable and inaccurate (ref [38]).",
+    "refNo": 38,
+    "title": "Localization of white matter volume increase in autism and developmental language disorder",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "There is also evidence that white matter integrity of posterior CC is positively correlated with visualmotor integration performance but not with reading scores in FASD groups (ref [38]; ref [5]).",
+    "refNo": 38,
+    "title": "Localization of white matter volume increase in autism and developmental language disorder",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "There is also evidence that white matter integrity of posterior CC is positively correlated with visualmotor integration performance but not with reading scores in FASD groups (ref [38]; ref [5]).",
+    "refNo": 5,
+    "title": "Integrity of white matter in the corpus callosum correlates with bimanual co-ordination skills",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "However, white matter density measures did not correlate with visual-motor integration or reading in FASD (ref [38]).",
+    "refNo": 38,
+    "title": "Localization of white matter volume increase in autism and developmental language disorder",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Globally, hemispheric and lobar volume is less asymmetric in individuals with DLD compared with controls, but volumetric analysis of functionally-specific cortical regions revealed that DLD involves more significantly asymmetric regions (ref [5]).",
+    "refNo": 5,
+    "title": "Integrity of white matter in the corpus callosum correlates with bimanual co-ordination skills",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "While individuals with DLD have sigificantly greater total volume of right-asymmetric regions and significantly reduced total volume of left-asymmetric regions relative to controls, the group difference is smaller for left-lateralized regions than for right-lateralized regions, resulting in aggregate decrease of lateralized cortical volume in DLD (i.e., the combination of a small reduction in left-lateralization and a larger increase in right-lateralization results in an overall decrease of lateralized area; (ref [5]).",
+    "refNo": 5,
+    "title": "Integrity of white matter in the corpus callosum correlates with bimanual co-ordination skills",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Thus, increased hemispheric asymmetry in DLD is consistent with the finding that in DLD the volume of frontal, temporal, and occipital radiate white matter is increased, while volume of deep white matter is retained (ref [5]; ref [38]).",
+    "refNo": 5,
+    "title": "Integrity of white matter in the corpus callosum correlates with bimanual co-ordination skills",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Thus, increased hemispheric asymmetry in DLD is consistent with the finding that in DLD the volume of frontal, temporal, and occipital radiate white matter is increased, while volume of deep white matter is retained (ref [5]; ref [38]).",
+    "refNo": 38,
+    "title": "Localization of white matter volume increase in autism and developmental language disorder",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Children with DLD do not exhibit abnormalities in absolute area of the total CC, CC subareas, or the ratio of subarea to total (ref [38]).",
+    "refNo": 38,
+    "title": "Localization of white matter volume increase in autism and developmental language disorder",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "However, they tend to have a smaller splenium relative to the entire CC area, as might be expected given that increased asymmetry was greatest in temporal cortex of DLD group (ref [5]).",
+    "refNo": 5,
+    "title": "Integrity of white matter in the corpus callosum correlates with bimanual co-ordination skills",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "One study documented reduced FA in the genu of children ages 2.5 to 6.5 years with DLD (ref [38]) and suggested that their finding may reflect a delay in CC development.",
+    "refNo": 38,
+    "title": "Localization of white matter volume increase in autism and developmental language disorder",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Using a simple sensory-motor IHT test, 7-12-year olds with DLD (both receptive and expressive types) performed significantly worse on the IHT task than the within-hemisphere task, whereas controls' performance did not differ significantly between conditions (ref [38]).",
+    "refNo": 38,
+    "title": "Localization of white matter volume increase in autism and developmental language disorder",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Children born significantly preterm (≤33 weeks) often exhibit behaviors such as withdrawal, thought disorganization, attention problems, aggression, and social problems (ref [41]; ref [43]; ref [12]).",
+    "refNo": 41,
+    "title": "Corpus callosum size and very preterm birth: relationship to neuropsychological outcome",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "Children born significantly preterm (≤33 weeks) often exhibit behaviors such as withdrawal, thought disorganization, attention problems, aggression, and social problems (ref [41]; ref [43]; ref [12]).",
+    "refNo": 43,
+    "title": "Larger corpus callosum size with better motor performance in prematurely born children",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "Children born significantly preterm (≤33 weeks) often exhibit behaviors such as withdrawal, thought disorganization, attention problems, aggression, and social problems (ref [41]; ref [43]; ref [12]).",
+    "refNo": 12,
+    "title": "Topography of the human corpus callosum",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Diffuse white matter damage is the most common neural abnormality evident on MRIs of preterm infants (ref [10]; ref [12]) and may be associated with regional volume reductions (ref [43]) and developmental impairment (ref [11]).",
+    "refNo": 10,
+    "title": "Topography of the human corpus callosum revisited-comprehensive fiber tractography using diffusion tensor magnetic resonance imaging",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Diffuse white matter damage is the most common neural abnormality evident on MRIs of preterm infants (ref [10]; ref [12]) and may be associated with regional volume reductions (ref [43]) and developmental impairment (ref [11]).",
+    "refNo": 12,
+    "title": "Topography of the human corpus callosum",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Diffuse white matter damage is the most common neural abnormality evident on MRIs of preterm infants (ref [10]; ref [12]) and may be associated with regional volume reductions (ref [43]) and developmental impairment (ref [11]).",
+    "refNo": 43,
+    "title": "Larger corpus callosum size with better motor performance in prematurely born children",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "Diffuse white matter damage is the most common neural abnormality evident on MRIs of preterm infants (ref [10]; ref [12]) and may be associated with regional volume reductions (ref [43]) and developmental impairment (ref [11]).",
+    "refNo": 11,
+    "title": "Human motor corpus callosum: topography, somatotopy, and link between microstructure and function",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Neurodevelopmental impairments in infants born preterm appear to be related to CC size (ref [42]; ref [43]; ref [44]), as well as regionally specific microstructural callosal abnormalities (ref [11]).",
+    "refNo": 42,
+    "title": "Regional brain volume abnormalities and long-term cognitive outcome in preterm infants",
+    "marker_text": "[42]"
+  },
+  {
+    "sentence": "Neurodevelopmental impairments in infants born preterm appear to be related to CC size (ref [42]; ref [43]; ref [44]), as well as regionally specific microstructural callosal abnormalities (ref [11]).",
+    "refNo": 43,
+    "title": "Larger corpus callosum size with better motor performance in prematurely born children",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "Neurodevelopmental impairments in infants born preterm appear to be related to CC size (ref [42]; ref [43]; ref [44]), as well as regionally specific microstructural callosal abnormalities (ref [11]).",
+    "refNo": 44,
+    "title": "Axial and radial diffusivity in preterm infants who have diffuse white matter changes on magnetic resonance imaging at term-equivalent age",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "Neurodevelopmental impairments in infants born preterm appear to be related to CC size (ref [42]; ref [43]; ref [44]), as well as regionally specific microstructural callosal abnormalities (ref [11]).",
+    "refNo": 11,
+    "title": "Human motor corpus callosum: topography, somatotopy, and link between microstructure and function",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Specifically, reductions in callosal area are most evident in the posterior body of preterm infants (ref [42]; ref [43]; ref [44]; ref [10]; ref [12]).",
+    "refNo": 42,
+    "title": "Regional brain volume abnormalities and long-term cognitive outcome in preterm infants",
+    "marker_text": "[42]"
+  },
+  {
+    "sentence": "Specifically, reductions in callosal area are most evident in the posterior body of preterm infants (ref [42]; ref [43]; ref [44]; ref [10]; ref [12]).",
+    "refNo": 43,
+    "title": "Larger corpus callosum size with better motor performance in prematurely born children",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "Specifically, reductions in callosal area are most evident in the posterior body of preterm infants (ref [42]; ref [43]; ref [44]; ref [10]; ref [12]).",
+    "refNo": 44,
+    "title": "Axial and radial diffusivity in preterm infants who have diffuse white matter changes on magnetic resonance imaging at term-equivalent age",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "Specifically, reductions in callosal area are most evident in the posterior body of preterm infants (ref [42]; ref [43]; ref [44]; ref [10]; ref [12]).",
+    "refNo": 10,
+    "title": "Topography of the human corpus callosum revisited-comprehensive fiber tractography using diffusion tensor magnetic resonance imaging",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Specifically, reductions in callosal area are most evident in the posterior body of preterm infants (ref [42]; ref [43]; ref [44]; ref [10]; ref [12]).",
+    "refNo": 12,
+    "title": "Topography of the human corpus callosum",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Although regional CC size and microstructure may vary somewhat by gestational age at birth, callosal abnormalities typically persist into adolescence (ref [41]), and have long-term consequences on behavior (ref [42]; ref [11]; ref [12]; ref [43]; ref [44]).",
+    "refNo": 41,
+    "title": "Corpus callosum size and very preterm birth: relationship to neuropsychological outcome",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "Although regional CC size and microstructure may vary somewhat by gestational age at birth, callosal abnormalities typically persist into adolescence (ref [41]), and have long-term consequences on behavior (ref [42]; ref [11]; ref [12]; ref [43]; ref [44]).",
+    "refNo": 42,
+    "title": "Regional brain volume abnormalities and long-term cognitive outcome in preterm infants",
+    "marker_text": "[42]"
+  },
+  {
+    "sentence": "Although regional CC size and microstructure may vary somewhat by gestational age at birth, callosal abnormalities typically persist into adolescence (ref [41]), and have long-term consequences on behavior (ref [42]; ref [11]; ref [12]; ref [43]; ref [44]).",
+    "refNo": 11,
+    "title": "Human motor corpus callosum: topography, somatotopy, and link between microstructure and function",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Although regional CC size and microstructure may vary somewhat by gestational age at birth, callosal abnormalities typically persist into adolescence (ref [41]), and have long-term consequences on behavior (ref [42]; ref [11]; ref [12]; ref [43]; ref [44]).",
+    "refNo": 12,
+    "title": "Topography of the human corpus callosum",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Although regional CC size and microstructure may vary somewhat by gestational age at birth, callosal abnormalities typically persist into adolescence (ref [41]), and have long-term consequences on behavior (ref [42]; ref [11]; ref [12]; ref [43]; ref [44]).",
+    "refNo": 43,
+    "title": "Larger corpus callosum size with better motor performance in prematurely born children",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "Although regional CC size and microstructure may vary somewhat by gestational age at birth, callosal abnormalities typically persist into adolescence (ref [41]), and have long-term consequences on behavior (ref [42]; ref [11]; ref [12]; ref [43]; ref [44]).",
+    "refNo": 44,
+    "title": "Axial and radial diffusivity in preterm infants who have diffuse white matter changes on magnetic resonance imaging at term-equivalent age",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "Taken together, these findings suggest that neuroprotective strategies may be most effective when administered immediately after birth (ref [12]), but are unlikely to provide complete recovery of callosal structure.",
+    "refNo": 12,
+    "title": "Topography of the human corpus callosum",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Five-minute APGAR score correlated positively with size of the CC midbody (ref [43]).",
+    "refNo": 43,
+    "title": "Larger corpus callosum size with better motor performance in prematurely born children",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "In every preterm boys, total midsagittal CC area and the mid-posterior quarter area correlated positively with verbal IQ and verbal fluency (ref [42]).",
+    "refNo": 42,
+    "title": "Regional brain volume abnormalities and long-term cognitive outcome in preterm infants",
+    "marker_text": "[42]"
+  },
+  {
+    "sentence": "Other studies have found that CC size after preterm birth is positively correlated with verbal and performance IQ (ref [43]), motor function (ref [44]), and visual-motor integration (ref [43]; ref [44]), all of which are consistent with indications that posterior callosal area is positively correlated with volume of the related projection areas (sensorimotor, midtemporal, and occipital (ref [43]).",
+    "refNo": 43,
+    "title": "Larger corpus callosum size with better motor performance in prematurely born children",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "Other studies have found that CC size after preterm birth is positively correlated with verbal and performance IQ (ref [43]), motor function (ref [44]), and visual-motor integration (ref [43]; ref [44]), all of which are consistent with indications that posterior callosal area is positively correlated with volume of the related projection areas (sensorimotor, midtemporal, and occipital (ref [43]).",
+    "refNo": 44,
+    "title": "Axial and radial diffusivity in preterm infants who have diffuse white matter changes on magnetic resonance imaging at term-equivalent age",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "Other studies have found that CC size after preterm birth is positively correlated with verbal and performance IQ (ref [43]), motor function (ref [44]), and visual-motor integration (ref [43]; ref [44]), all of which are consistent with indications that posterior callosal area is positively correlated with volume of the related projection areas (sensorimotor, midtemporal, and occipital (ref [43]).",
+    "refNo": 43,
+    "title": "Larger corpus callosum size with better motor performance in prematurely born children",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "Other studies have found that CC size after preterm birth is positively correlated with verbal and performance IQ (ref [43]), motor function (ref [44]), and visual-motor integration (ref [43]; ref [44]), all of which are consistent with indications that posterior callosal area is positively correlated with volume of the related projection areas (sensorimotor, midtemporal, and occipital (ref [43]).",
+    "refNo": 44,
+    "title": "Axial and radial diffusivity in preterm infants who have diffuse white matter changes on magnetic resonance imaging at term-equivalent age",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "Other studies have found that CC size after preterm birth is positively correlated with verbal and performance IQ (ref [43]), motor function (ref [44]), and visual-motor integration (ref [43]; ref [44]), all of which are consistent with indications that posterior callosal area is positively correlated with volume of the related projection areas (sensorimotor, midtemporal, and occipital (ref [43]).",
+    "refNo": 43,
+    "title": "Larger corpus callosum size with better motor performance in prematurely born children",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "Neurodevelopmental impairments in infants born preterm also appear to be related to microstructural abnormalities in specific regions of the corpus callosum (ref [11]).",
+    "refNo": 11,
+    "title": "Human motor corpus callosum: topography, somatotopy, and link between microstructure and function",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Around term-corrected age, microstructure in brains of preterm infants is less directionally specific on average than their term-born peers (i.e., lower FA values; ref [39]; ref [10]; ref [11]), with most marked reductions of FA in the genu (ref [11]).",
+    "refNo": 39,
+    "title": "Microstructural development of human newborn cerebral white matter assessed in vivo by diffusion tensor magnetic resonance imaging",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "Around term-corrected age, microstructure in brains of preterm infants is less directionally specific on average than their term-born peers (i.e., lower FA values; ref [39]; ref [10]; ref [11]), with most marked reductions of FA in the genu (ref [11]).",
+    "refNo": 10,
+    "title": "Topography of the human corpus callosum revisited-comprehensive fiber tractography using diffusion tensor magnetic resonance imaging",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Around term-corrected age, microstructure in brains of preterm infants is less directionally specific on average than their term-born peers (i.e., lower FA values; ref [39]; ref [10]; ref [11]), with most marked reductions of FA in the genu (ref [11]).",
+    "refNo": 11,
+    "title": "Human motor corpus callosum: topography, somatotopy, and link between microstructure and function",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Around term-corrected age, microstructure in brains of preterm infants is less directionally specific on average than their term-born peers (i.e., lower FA values; ref [39]; ref [10]; ref [11]), with most marked reductions of FA in the genu (ref [11]).",
+    "refNo": 11,
+    "title": "Human motor corpus callosum: topography, somatotopy, and link between microstructure and function",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "In infants born before 28 PCW, genu FA was even more significantly reduced and reduced FA was evident in the callosal body and isthmus (ref [11]).",
+    "refNo": 11,
+    "title": "Human motor corpus callosum: topography, somatotopy, and link between microstructure and function",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Preterm infants with diffuse excessive high signal intensity on MRI exhibited significantly elevated diffusion coefficients in the splenium (ref [10]).",
+    "refNo": 10,
+    "title": "Topography of the human corpus callosum revisited-comprehensive fiber tractography using diffusion tensor magnetic resonance imaging",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "In preterm infants tested at 2 years of age, FA values in the isthmus and body were significantly positively correlated with developmental quotient scores, performance subscores, and eye-hand coordination (ref [11]).",
+    "refNo": 11,
+    "title": "Human motor corpus callosum: topography, somatotopy, and link between microstructure and function",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Therefore, they concluded that decreased anisotropy is likely to be related to one or the combination of (1) reduced axon diameter, (2) fewer axons, and (3) poorer myelination (ref [41]).",
+    "refNo": 41,
+    "title": "Corpus callosum size and very preterm birth: relationship to neuropsychological outcome",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "Therefore, they concluded that decreased anisotropy is likely to be related to one or the combination of (1) reduced axon diameter, (2) fewer axons, and (3) poorer myelination (ref [41]).",
+    "refNo": 1,
+    "title": "Anatomical characterization of human fetal brain development with diffusion tensor magnetic resonance imaging",
+    "marker_text": "(1)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Therefore, they concluded that decreased anisotropy is likely to be related to one or the combination of (1) reduced axon diameter, (2) fewer axons, and (3) poorer myelination (ref [41]).",
+    "refNo": 2,
+    "title": "Development of the corpus callosum and cavum septi in man",
+    "marker_text": "(2)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "Therefore, they concluded that decreased anisotropy is likely to be related to one or the combination of (1) reduced axon diameter, (2) fewer axons, and (3) poorer myelination (ref [41]).",
+    "refNo": 3,
+    "title": "Imaging, anatomical, and molecular analysis of callosal formation in the developing human fetal brain",
+    "marker_text": "(3)",
+    "extraction_method": "paren_numeric"
+  },
+  {
+    "sentence": "For example, relative to preterm subjects without callosal damage and normal-term control subjects, a sample of preterm subjects with callosal damage demonstrated intact accuracy on bilateral matching across visual fields indicating capacity for callosal transfer, significant slowing on both the within and between visual-field conditions indicating a general impairment in processing speed, and finally a bilateral field disadvantage indicative of reduced callosal transfer (ref [41]). fMRI results indicated that control subjects did not have any regions of greater activation when matching across visual fields than within.",
+    "refNo": 41,
+    "title": "Corpus callosum size and very preterm birth: relationship to neuropsychological outcome",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "Studies of corpus callosum morphology in children and adolescents with attention deficit hyperactivity disorder (ADHD) have consistently reported structural differences compared to typically developing controls, particularly in the splenium and rostral body, with gender-specific patterns emerging in meta-analytic reviews ref [47].",
+    "refNo": 47,
+    "title": "Corpus callosum morphology in children and adolescents with attention deficit hyperactivity disorder: a meta-analytic review",
+    "marker_text": "[47]"
+  },
+  {
+    "sentence": "Quantitative MRI studies in children with neurofibromatosis-1 and comorbid ADHD have further demonstrated that callosal size correlates with attention symptom severity, though no significant differences were found between neurofibromatosis-only and neurofibromatosis-plus-ADHD groups, suggesting complex interactions between genetic and neuroanatomical factors ref [48].",
+    "refNo": 48,
+    "title": "Quantitative morphology of the corpus callosum in children with neurofibromatosis and attention-deficit hyperactivity disorder",
+    "marker_text": "[48]"
+  },
+  {
+    "sentence": "Neurophysiological investigations using transcranial magnetic stimulation have revealed disturbed transcallosally mediated motor inhibition in ADHD, evidenced by prolonged ipsilateral silent period (iSP) latencies and shortened iSP durations, which may reflect defective myelination or imbalanced cortical inhibition ref [49].",
+    "refNo": 49,
+    "title": "Disturbed transcallosally mediated motor inhibition in children with attention deficit hyperactivity disorder (ADHD)",
+    "marker_text": "[49]"
+  },
+  {
+    "sentence": "These deficits in transcallosal inhibition are modulated by methylphenidate treatment, which significantly prolongs iSP duration and reduces latency, correlating with clinical symptom improvement ref [50].",
+    "refNo": 50,
+    "title": "Modulation of transcallosally mediated motor inhibition in children with attention deficit hyperactivity disorder (ADHD) by medication with methylphenidate (MPH)",
+    "marker_text": "[50]"
+  },
+  {
+    "sentence": "Additionally, drug-naive children with ADHD exhibit deficient intracortical inhibition within the motor cortex, a deficit that is enhanced following methylphenidate administration, pointing to a core neurophysiological impairment in cortical inhibitory circuits ref [19].",
+    "refNo": 19,
+    "title": "Turner's syndrome with agenesis of the corpus callosum, Hashimoto's thyroiditis and horseshoe kidney",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Functional imaging studies suggest that ADHD involves widespread reductions in cerebral and cerebellar volumes, with altered activation patterns in fronto-striatal and posterior cortical networks during cognitive tasks, implicating broader neural circuit dysfunction beyond the corpus callosum ref [51].",
+    "refNo": 51,
+    "title": "A review of the biological bases of ADHD: what have we learned from imaging studies?",
+    "marker_text": "[51]"
+  },
+  {
+    "sentence": "Furthermore, cortical disinhibition, as measured by short-interval intracortical inhibition (SICI), is significantly associated with ADHD symptom severity in children with Tourette syndrome, independent of tic severity, reinforcing the role of inhibitory deficits in ADHD pathophysiology ref [17].",
+    "refNo": 17,
+    "title": "Neuroplasticity in human callosal dysgenesis: a diffusion tensor imaging study",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Working memory impairments in ADHD, linked to disrupted prefrontal-parietal connectivity, may also reflect downstream consequences of callosal and cortico-cortical communication deficits ref [18].",
+    "refNo": 18,
+    "title": "Agenesis of the corpus callosum in Turner syndrome with ring X",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Callosal involvement in autism is supported by evidence of reduced CC cross-sectional volume (total and all regions) (ref [8]; ref [9]; ref [11]; ref [62]) and reduced FA of fibers throughout the callosum (ref [9]).",
+    "refNo": 8,
+    "title": "The role of the corpus callosum in interhemispheric transfer of information: excitation or inhibition?",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Callosal involvement in autism is supported by evidence of reduced CC cross-sectional volume (total and all regions) (ref [8]; ref [9]; ref [11]; ref [62]) and reduced FA of fibers throughout the callosum (ref [9]).",
+    "refNo": 9,
+    "title": "Simple reaction times to lateralized light flashes. Varieties of interhemispheric communication routes",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Callosal involvement in autism is supported by evidence of reduced CC cross-sectional volume (total and all regions) (ref [8]; ref [9]; ref [11]; ref [62]) and reduced FA of fibers throughout the callosum (ref [9]).",
+    "refNo": 11,
+    "title": "Human motor corpus callosum: topography, somatotopy, and link between microstructure and function",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Callosal involvement in autism is supported by evidence of reduced CC cross-sectional volume (total and all regions) (ref [8]; ref [9]; ref [11]; ref [62]) and reduced FA of fibers throughout the callosum (ref [9]).",
+    "refNo": 62,
+    "title": "Mapping corpus callosum deficits in autism: an index of aberrant cortical connectivity",
+    "marker_text": "[62]"
+  },
+  {
+    "sentence": "Callosal involvement in autism is supported by evidence of reduced CC cross-sectional volume (total and all regions) (ref [8]; ref [9]; ref [11]; ref [62]) and reduced FA of fibers throughout the callosum (ref [9]).",
+    "refNo": 9,
+    "title": "Simple reaction times to lateralized light flashes. Varieties of interhemispheric communication routes",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Reduced cross-sectional area and volume have been identified in anterior (ref [59]; ref [64]; ref [62]; ref [63]; ref [8]; ref [11]), midbody (ref [59]; ref [63]; ref [62]), and posterior regions (ref [63]; ref [11]; ref [65]; ref [64]; ref [8]).",
+    "refNo": 59,
+    "title": "Regional Callosal Morphology in Autism and Macrocephaly",
+    "marker_text": "[59]"
+  },
+  {
+    "sentence": "Reduced cross-sectional area and volume have been identified in anterior (ref [59]; ref [64]; ref [62]; ref [63]; ref [8]; ref [11]), midbody (ref [59]; ref [63]; ref [62]), and posterior regions (ref [63]; ref [11]; ref [65]; ref [64]; ref [8]).",
+    "refNo": 64,
+    "title": "Diffusion tensor imaging of the corpus callosum in Autism",
+    "marker_text": "[64]"
+  },
+  {
+    "sentence": "Reduced cross-sectional area and volume have been identified in anterior (ref [59]; ref [64]; ref [62]; ref [63]; ref [8]; ref [11]), midbody (ref [59]; ref [63]; ref [62]), and posterior regions (ref [63]; ref [11]; ref [65]; ref [64]; ref [8]).",
+    "refNo": 62,
+    "title": "Mapping corpus callosum deficits in autism: an index of aberrant cortical connectivity",
+    "marker_text": "[62]"
+  },
+  {
+    "sentence": "Reduced cross-sectional area and volume have been identified in anterior (ref [59]; ref [64]; ref [62]; ref [63]; ref [8]; ref [11]), midbody (ref [59]; ref [63]; ref [62]), and posterior regions (ref [63]; ref [11]; ref [65]; ref [64]; ref [8]).",
+    "refNo": 63,
+    "title": "Corpus callosum morphometrics in young children with autism spectrum disorder",
+    "marker_text": "[63]"
+  },
+  {
+    "sentence": "Reduced cross-sectional area and volume have been identified in anterior (ref [59]; ref [64]; ref [62]; ref [63]; ref [8]; ref [11]), midbody (ref [59]; ref [63]; ref [62]), and posterior regions (ref [63]; ref [11]; ref [65]; ref [64]; ref [8]).",
+    "refNo": 8,
+    "title": "The role of the corpus callosum in interhemispheric transfer of information: excitation or inhibition?",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Reduced cross-sectional area and volume have been identified in anterior (ref [59]; ref [64]; ref [62]; ref [63]; ref [8]; ref [11]), midbody (ref [59]; ref [63]; ref [62]), and posterior regions (ref [63]; ref [11]; ref [65]; ref [64]; ref [8]).",
+    "refNo": 11,
+    "title": "Human motor corpus callosum: topography, somatotopy, and link between microstructure and function",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Reduced cross-sectional area and volume have been identified in anterior (ref [59]; ref [64]; ref [62]; ref [63]; ref [8]; ref [11]), midbody (ref [59]; ref [63]; ref [62]), and posterior regions (ref [63]; ref [11]; ref [65]; ref [64]; ref [8]).",
+    "refNo": 59,
+    "title": "Regional Callosal Morphology in Autism and Macrocephaly",
+    "marker_text": "[59]"
+  },
+  {
+    "sentence": "Reduced cross-sectional area and volume have been identified in anterior (ref [59]; ref [64]; ref [62]; ref [63]; ref [8]; ref [11]), midbody (ref [59]; ref [63]; ref [62]), and posterior regions (ref [63]; ref [11]; ref [65]; ref [64]; ref [8]).",
+    "refNo": 63,
+    "title": "Corpus callosum morphometrics in young children with autism spectrum disorder",
+    "marker_text": "[63]"
+  },
+  {
+    "sentence": "Reduced cross-sectional area and volume have been identified in anterior (ref [59]; ref [64]; ref [62]; ref [63]; ref [8]; ref [11]), midbody (ref [59]; ref [63]; ref [62]), and posterior regions (ref [63]; ref [11]; ref [65]; ref [64]; ref [8]).",
+    "refNo": 62,
+    "title": "Mapping corpus callosum deficits in autism: an index of aberrant cortical connectivity",
+    "marker_text": "[62]"
+  },
+  {
+    "sentence": "Reduced cross-sectional area and volume have been identified in anterior (ref [59]; ref [64]; ref [62]; ref [63]; ref [8]; ref [11]), midbody (ref [59]; ref [63]; ref [62]), and posterior regions (ref [63]; ref [11]; ref [65]; ref [64]; ref [8]).",
+    "refNo": 63,
+    "title": "Corpus callosum morphometrics in young children with autism spectrum disorder",
+    "marker_text": "[63]"
+  },
+  {
+    "sentence": "Reduced cross-sectional area and volume have been identified in anterior (ref [59]; ref [64]; ref [62]; ref [63]; ref [8]; ref [11]), midbody (ref [59]; ref [63]; ref [62]), and posterior regions (ref [63]; ref [11]; ref [65]; ref [64]; ref [8]).",
+    "refNo": 11,
+    "title": "Human motor corpus callosum: topography, somatotopy, and link between microstructure and function",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Reduced cross-sectional area and volume have been identified in anterior (ref [59]; ref [64]; ref [62]; ref [63]; ref [8]; ref [11]), midbody (ref [59]; ref [63]; ref [62]), and posterior regions (ref [63]; ref [11]; ref [65]; ref [64]; ref [8]).",
+    "refNo": 65,
+    "title": "Reduced size of corpus callosum in autism",
+    "marker_text": "[65]"
+  },
+  {
+    "sentence": "Reduced cross-sectional area and volume have been identified in anterior (ref [59]; ref [64]; ref [62]; ref [63]; ref [8]; ref [11]), midbody (ref [59]; ref [63]; ref [62]), and posterior regions (ref [63]; ref [11]; ref [65]; ref [64]; ref [8]).",
+    "refNo": 64,
+    "title": "Diffusion tensor imaging of the corpus callosum in Autism",
+    "marker_text": "[64]"
+  },
+  {
+    "sentence": "Reduced cross-sectional area and volume have been identified in anterior (ref [59]; ref [64]; ref [62]; ref [63]; ref [8]; ref [11]), midbody (ref [59]; ref [63]; ref [62]), and posterior regions (ref [63]; ref [11]; ref [65]; ref [64]; ref [8]).",
+    "refNo": 8,
+    "title": "The role of the corpus callosum in interhemispheric transfer of information: excitation or inhibition?",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Although agenesis of the corpus callosum is rare in Turner syndrome, it has been documented in multiple cases with distinct karyotypes, including 45,X [ref [19]], 45,X/46,X,r(X) mosaicism [ref [18]], and 45,X Ullrich-Turner syndrome [ref [20]].",
+    "refNo": 19,
+    "title": "Turner's syndrome with agenesis of the corpus callosum, Hashimoto's thyroiditis and horseshoe kidney",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Although agenesis of the corpus callosum is rare in Turner syndrome, it has been documented in multiple cases with distinct karyotypes, including 45,X [ref [19]], 45,X/46,X,r(X) mosaicism [ref [18]], and 45,X Ullrich-Turner syndrome [ref [20]].",
+    "refNo": 18,
+    "title": "Agenesis of the corpus callosum in Turner syndrome with ring X",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Although agenesis of the corpus callosum is rare in Turner syndrome, it has been documented in multiple cases with distinct karyotypes, including 45,X [ref [19]], 45,X/46,X,r(X) mosaicism [ref [18]], and 45,X Ullrich-Turner syndrome [ref [20]].",
+    "refNo": 20,
+    "title": "Ullrich-Turner syndrome with agenesis of the corpus callosum",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Neuroimaging studies further reveal that even in the absence of complete agenesis, structural alterations such as reduced genu area and disrupted interhemispheric connectivity are common in Turner syndrome [ref [22]].",
+    "refNo": 22,
+    "title": "Abnormalities of the corpus callosum in nonpsychotic children with chromosome 22q11 deletion syndrome",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Similar callosal anomalies, including dysgenesis and altered morphometry, are also observed in other genetic syndromes such as 22q11.2 deletion syndrome, where an increased total corpus callosum area and isthmus size have been reported in nonpsychotic children [ref [19]], and in Williams syndrome, where the corpus callosum is smaller overall, particularly in the splenium and caudal body, with increased voxel intensity suggesting aberrant myelination or water content [ref [20]].",
+    "refNo": 19,
+    "title": "Turner's syndrome with agenesis of the corpus callosum, Hashimoto's thyroiditis and horseshoe kidney",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Similar callosal anomalies, including dysgenesis and altered morphometry, are also observed in other genetic syndromes such as 22q11.2 deletion syndrome, where an increased total corpus callosum area and isthmus size have been reported in nonpsychotic children [ref [19]], and in Williams syndrome, where the corpus callosum is smaller overall, particularly in the splenium and caudal body, with increased voxel intensity suggesting aberrant myelination or water content [ref [20]].",
+    "refNo": 20,
+    "title": "Ullrich-Turner syndrome with agenesis of the corpus callosum",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Rostral body area enlarged ref [41] Anterior and posterior midbody area enlarged ref [41] No significant findings CC size was inversely correlated with visual-spatial skills, motor skills, academic achievement; CC enlargement correlates positively with better attention ref [43] Fragile ref [68] Small genu area in children and teens ref [68]; enlarged genu area in adults ref [68] No significant findings Small splenium area in adults ref [68] No information available 22qDS Enlarged area ref [68] Longer and larger rostrum and small genu area in children ref [68]; reduced bilateral genu volume ref [68] Reduced bilateral volume ref [68] On enumeration and subitizing tests, genu area correlated with faster performance and area of select regions in posterior midbody and splenium was negatively correlated with performance speed ref [68] Williams syndrome Less concave in shape ref [68] No significant findings Small area in caudal region of the callosal body ref [68] Small area of isthmus and splenium ref [68] Subtle loss of interhemispheric connectivity and elevated intrahemispheric connections;.",
+    "refNo": 41,
+    "title": "Corpus callosum size and very preterm birth: relationship to neuropsychological outcome",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "Rostral body area enlarged ref [41] Anterior and posterior midbody area enlarged ref [41] No significant findings CC size was inversely correlated with visual-spatial skills, motor skills, academic achievement; CC enlargement correlates positively with better attention ref [43] Fragile ref [68] Small genu area in children and teens ref [68]; enlarged genu area in adults ref [68] No significant findings Small splenium area in adults ref [68] No information available 22qDS Enlarged area ref [68] Longer and larger rostrum and small genu area in children ref [68]; reduced bilateral genu volume ref [68] Reduced bilateral volume ref [68] On enumeration and subitizing tests, genu area correlated with faster performance and area of select regions in posterior midbody and splenium was negatively correlated with performance speed ref [68] Williams syndrome Less concave in shape ref [68] No significant findings Small area in caudal region of the callosal body ref [68] Small area of isthmus and splenium ref [68] Subtle loss of interhemispheric connectivity and elevated intrahemispheric connections;.",
+    "refNo": 41,
+    "title": "Corpus callosum size and very preterm birth: relationship to neuropsychological outcome",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "Rostral body area enlarged ref [41] Anterior and posterior midbody area enlarged ref [41] No significant findings CC size was inversely correlated with visual-spatial skills, motor skills, academic achievement; CC enlargement correlates positively with better attention ref [43] Fragile ref [68] Small genu area in children and teens ref [68]; enlarged genu area in adults ref [68] No significant findings Small splenium area in adults ref [68] No information available 22qDS Enlarged area ref [68] Longer and larger rostrum and small genu area in children ref [68]; reduced bilateral genu volume ref [68] Reduced bilateral volume ref [68] On enumeration and subitizing tests, genu area correlated with faster performance and area of select regions in posterior midbody and splenium was negatively correlated with performance speed ref [68] Williams syndrome Less concave in shape ref [68] No significant findings Small area in caudal region of the callosal body ref [68] Small area of isthmus and splenium ref [68] Subtle loss of interhemispheric connectivity and elevated intrahemispheric connections;.",
+    "refNo": 43,
+    "title": "Larger corpus callosum size with better motor performance in prematurely born children",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "Rostral body area enlarged ref [41] Anterior and posterior midbody area enlarged ref [41] No significant findings CC size was inversely correlated with visual-spatial skills, motor skills, academic achievement; CC enlargement correlates positively with better attention ref [43] Fragile ref [68] Small genu area in children and teens ref [68]; enlarged genu area in adults ref [68] No significant findings Small splenium area in adults ref [68] No information available 22qDS Enlarged area ref [68] Longer and larger rostrum and small genu area in children ref [68]; reduced bilateral genu volume ref [68] Reduced bilateral volume ref [68] On enumeration and subitizing tests, genu area correlated with faster performance and area of select regions in posterior midbody and splenium was negatively correlated with performance speed ref [68] Williams syndrome Less concave in shape ref [68] No significant findings Small area in caudal region of the callosal body ref [68] Small area of isthmus and splenium ref [68] Subtle loss of interhemispheric connectivity and elevated intrahemispheric connections;.",
+    "refNo": 68,
+    "title": "Abnormalities of the corpus callosum in children prenatally exposed to alcohol",
+    "marker_text": "[68]"
+  },
+  {
+    "sentence": "Rostral body area enlarged ref [41] Anterior and posterior midbody area enlarged ref [41] No significant findings CC size was inversely correlated with visual-spatial skills, motor skills, academic achievement; CC enlargement correlates positively with better attention ref [43] Fragile ref [68] Small genu area in children and teens ref [68]; enlarged genu area in adults ref [68] No significant findings Small splenium area in adults ref [68] No information available 22qDS Enlarged area ref [68] Longer and larger rostrum and small genu area in children ref [68]; reduced bilateral genu volume ref [68] Reduced bilateral volume ref [68] On enumeration and subitizing tests, genu area correlated with faster performance and area of select regions in posterior midbody and splenium was negatively correlated with performance speed ref [68] Williams syndrome Less concave in shape ref [68] No significant findings Small area in caudal region of the callosal body ref [68] Small area of isthmus and splenium ref [68] Subtle loss of interhemispheric connectivity and elevated intrahemispheric connections;.",
+    "refNo": 68,
+    "title": "Abnormalities of the corpus callosum in children prenatally exposed to alcohol",
+    "marker_text": "[68]"
+  },
+  {
+    "sentence": "Rostral body area enlarged ref [41] Anterior and posterior midbody area enlarged ref [41] No significant findings CC size was inversely correlated with visual-spatial skills, motor skills, academic achievement; CC enlargement correlates positively with better attention ref [43] Fragile ref [68] Small genu area in children and teens ref [68]; enlarged genu area in adults ref [68] No significant findings Small splenium area in adults ref [68] No information available 22qDS Enlarged area ref [68] Longer and larger rostrum and small genu area in children ref [68]; reduced bilateral genu volume ref [68] Reduced bilateral volume ref [68] On enumeration and subitizing tests, genu area correlated with faster performance and area of select regions in posterior midbody and splenium was negatively correlated with performance speed ref [68] Williams syndrome Less concave in shape ref [68] No significant findings Small area in caudal region of the callosal body ref [68] Small area of isthmus and splenium ref [68] Subtle loss of interhemispheric connectivity and elevated intrahemispheric connections;.",
+    "refNo": 68,
+    "title": "Abnormalities of the corpus callosum in children prenatally exposed to alcohol",
+    "marker_text": "[68]"
+  },
+  {
+    "sentence": "Rostral body area enlarged ref [41] Anterior and posterior midbody area enlarged ref [41] No significant findings CC size was inversely correlated with visual-spatial skills, motor skills, academic achievement; CC enlargement correlates positively with better attention ref [43] Fragile ref [68] Small genu area in children and teens ref [68]; enlarged genu area in adults ref [68] No significant findings Small splenium area in adults ref [68] No information available 22qDS Enlarged area ref [68] Longer and larger rostrum and small genu area in children ref [68]; reduced bilateral genu volume ref [68] Reduced bilateral volume ref [68] On enumeration and subitizing tests, genu area correlated with faster performance and area of select regions in posterior midbody and splenium was negatively correlated with performance speed ref [68] Williams syndrome Less concave in shape ref [68] No significant findings Small area in caudal region of the callosal body ref [68] Small area of isthmus and splenium ref [68] Subtle loss of interhemispheric connectivity and elevated intrahemispheric connections;.",
+    "refNo": 68,
+    "title": "Abnormalities of the corpus callosum in children prenatally exposed to alcohol",
+    "marker_text": "[68]"
+  },
+  {
+    "sentence": "Rostral body area enlarged ref [41] Anterior and posterior midbody area enlarged ref [41] No significant findings CC size was inversely correlated with visual-spatial skills, motor skills, academic achievement; CC enlargement correlates positively with better attention ref [43] Fragile ref [68] Small genu area in children and teens ref [68]; enlarged genu area in adults ref [68] No significant findings Small splenium area in adults ref [68] No information available 22qDS Enlarged area ref [68] Longer and larger rostrum and small genu area in children ref [68]; reduced bilateral genu volume ref [68] Reduced bilateral volume ref [68] On enumeration and subitizing tests, genu area correlated with faster performance and area of select regions in posterior midbody and splenium was negatively correlated with performance speed ref [68] Williams syndrome Less concave in shape ref [68] No significant findings Small area in caudal region of the callosal body ref [68] Small area of isthmus and splenium ref [68] Subtle loss of interhemispheric connectivity and elevated intrahemispheric connections;.",
+    "refNo": 68,
+    "title": "Abnormalities of the corpus callosum in children prenatally exposed to alcohol",
+    "marker_text": "[68]"
+  },
+  {
+    "sentence": "Rostral body area enlarged ref [41] Anterior and posterior midbody area enlarged ref [41] No significant findings CC size was inversely correlated with visual-spatial skills, motor skills, academic achievement; CC enlargement correlates positively with better attention ref [43] Fragile ref [68] Small genu area in children and teens ref [68]; enlarged genu area in adults ref [68] No significant findings Small splenium area in adults ref [68] No information available 22qDS Enlarged area ref [68] Longer and larger rostrum and small genu area in children ref [68]; reduced bilateral genu volume ref [68] Reduced bilateral volume ref [68] On enumeration and subitizing tests, genu area correlated with faster performance and area of select regions in posterior midbody and splenium was negatively correlated with performance speed ref [68] Williams syndrome Less concave in shape ref [68] No significant findings Small area in caudal region of the callosal body ref [68] Small area of isthmus and splenium ref [68] Subtle loss of interhemispheric connectivity and elevated intrahemispheric connections;.",
+    "refNo": 68,
+    "title": "Abnormalities of the corpus callosum in children prenatally exposed to alcohol",
+    "marker_text": "[68]"
+  },
+  {
+    "sentence": "Rostral body area enlarged ref [41] Anterior and posterior midbody area enlarged ref [41] No significant findings CC size was inversely correlated with visual-spatial skills, motor skills, academic achievement; CC enlargement correlates positively with better attention ref [43] Fragile ref [68] Small genu area in children and teens ref [68]; enlarged genu area in adults ref [68] No significant findings Small splenium area in adults ref [68] No information available 22qDS Enlarged area ref [68] Longer and larger rostrum and small genu area in children ref [68]; reduced bilateral genu volume ref [68] Reduced bilateral volume ref [68] On enumeration and subitizing tests, genu area correlated with faster performance and area of select regions in posterior midbody and splenium was negatively correlated with performance speed ref [68] Williams syndrome Less concave in shape ref [68] No significant findings Small area in caudal region of the callosal body ref [68] Small area of isthmus and splenium ref [68] Subtle loss of interhemispheric connectivity and elevated intrahemispheric connections;.",
+    "refNo": 68,
+    "title": "Abnormalities of the corpus callosum in children prenatally exposed to alcohol",
+    "marker_text": "[68]"
+  },
+  {
+    "sentence": "Rostral body area enlarged ref [41] Anterior and posterior midbody area enlarged ref [41] No significant findings CC size was inversely correlated with visual-spatial skills, motor skills, academic achievement; CC enlargement correlates positively with better attention ref [43] Fragile ref [68] Small genu area in children and teens ref [68]; enlarged genu area in adults ref [68] No significant findings Small splenium area in adults ref [68] No information available 22qDS Enlarged area ref [68] Longer and larger rostrum and small genu area in children ref [68]; reduced bilateral genu volume ref [68] Reduced bilateral volume ref [68] On enumeration and subitizing tests, genu area correlated with faster performance and area of select regions in posterior midbody and splenium was negatively correlated with performance speed ref [68] Williams syndrome Less concave in shape ref [68] No significant findings Small area in caudal region of the callosal body ref [68] Small area of isthmus and splenium ref [68] Subtle loss of interhemispheric connectivity and elevated intrahemispheric connections;.",
+    "refNo": 68,
+    "title": "Abnormalities of the corpus callosum in children prenatally exposed to alcohol",
+    "marker_text": "[68]"
+  },
+  {
+    "sentence": "Rostral body area enlarged ref [41] Anterior and posterior midbody area enlarged ref [41] No significant findings CC size was inversely correlated with visual-spatial skills, motor skills, academic achievement; CC enlargement correlates positively with better attention ref [43] Fragile ref [68] Small genu area in children and teens ref [68]; enlarged genu area in adults ref [68] No significant findings Small splenium area in adults ref [68] No information available 22qDS Enlarged area ref [68] Longer and larger rostrum and small genu area in children ref [68]; reduced bilateral genu volume ref [68] Reduced bilateral volume ref [68] On enumeration and subitizing tests, genu area correlated with faster performance and area of select regions in posterior midbody and splenium was negatively correlated with performance speed ref [68] Williams syndrome Less concave in shape ref [68] No significant findings Small area in caudal region of the callosal body ref [68] Small area of isthmus and splenium ref [68] Subtle loss of interhemispheric connectivity and elevated intrahemispheric connections;.",
+    "refNo": 68,
+    "title": "Abnormalities of the corpus callosum in children prenatally exposed to alcohol",
+    "marker_text": "[68]"
+  },
+  {
+    "sentence": "Rostral body area enlarged ref [41] Anterior and posterior midbody area enlarged ref [41] No significant findings CC size was inversely correlated with visual-spatial skills, motor skills, academic achievement; CC enlargement correlates positively with better attention ref [43] Fragile ref [68] Small genu area in children and teens ref [68]; enlarged genu area in adults ref [68] No significant findings Small splenium area in adults ref [68] No information available 22qDS Enlarged area ref [68] Longer and larger rostrum and small genu area in children ref [68]; reduced bilateral genu volume ref [68] Reduced bilateral volume ref [68] On enumeration and subitizing tests, genu area correlated with faster performance and area of select regions in posterior midbody and splenium was negatively correlated with performance speed ref [68] Williams syndrome Less concave in shape ref [68] No significant findings Small area in caudal region of the callosal body ref [68] Small area of isthmus and splenium ref [68] Subtle loss of interhemispheric connectivity and elevated intrahemispheric connections;.",
+    "refNo": 68,
+    "title": "Abnormalities of the corpus callosum in children prenatally exposed to alcohol",
+    "marker_text": "[68]"
+  },
+  {
+    "sentence": "Rostral body area enlarged ref [41] Anterior and posterior midbody area enlarged ref [41] No significant findings CC size was inversely correlated with visual-spatial skills, motor skills, academic achievement; CC enlargement correlates positively with better attention ref [43] Fragile ref [68] Small genu area in children and teens ref [68]; enlarged genu area in adults ref [68] No significant findings Small splenium area in adults ref [68] No information available 22qDS Enlarged area ref [68] Longer and larger rostrum and small genu area in children ref [68]; reduced bilateral genu volume ref [68] Reduced bilateral volume ref [68] On enumeration and subitizing tests, genu area correlated with faster performance and area of select regions in posterior midbody and splenium was negatively correlated with performance speed ref [68] Williams syndrome Less concave in shape ref [68] No significant findings Small area in caudal region of the callosal body ref [68] Small area of isthmus and splenium ref [68] Subtle loss of interhemispheric connectivity and elevated intrahemispheric connections;.",
+    "refNo": 68,
+    "title": "Abnormalities of the corpus callosum in children prenatally exposed to alcohol",
+    "marker_text": "[68]"
+  },
+  {
+    "sentence": "Rostral body area enlarged ref [41] Anterior and posterior midbody area enlarged ref [41] No significant findings CC size was inversely correlated with visual-spatial skills, motor skills, academic achievement; CC enlargement correlates positively with better attention ref [43] Fragile ref [68] Small genu area in children and teens ref [68]; enlarged genu area in adults ref [68] No significant findings Small splenium area in adults ref [68] No information available 22qDS Enlarged area ref [68] Longer and larger rostrum and small genu area in children ref [68]; reduced bilateral genu volume ref [68] Reduced bilateral volume ref [68] On enumeration and subitizing tests, genu area correlated with faster performance and area of select regions in posterior midbody and splenium was negatively correlated with performance speed ref [68] Williams syndrome Less concave in shape ref [68] No significant findings Small area in caudal region of the callosal body ref [68] Small area of isthmus and splenium ref [68] Subtle loss of interhemispheric connectivity and elevated intrahemispheric connections;.",
+    "refNo": 68,
+    "title": "Abnormalities of the corpus callosum in children prenatally exposed to alcohol",
+    "marker_text": "[68]"
+  },
+  {
+    "sentence": "Although Rostral body area enlarged (ref [59]).",
+    "refNo": 59,
+    "title": "Regional Callosal Morphology in Autism and Macrocephaly",
+    "marker_text": "[59]"
+  },
+  {
+    "sentence": "Anterior and posterior midbody area enlarged (ref [59]).",
+    "refNo": 59,
+    "title": "Regional Callosal Morphology in Autism and Macrocephaly",
+    "marker_text": "[59]"
+  },
+  {
+    "sentence": "No significant findings CC size was inversely correlated with visual-spatial skills, motor skills, academic achievement; CC enlargement correlates positively with better attention (ref [59]).",
+    "refNo": 59,
+    "title": "Regional Callosal Morphology in Autism and Macrocephaly",
+    "marker_text": "[59]"
+  },
+  {
+    "sentence": "Fragile (ref [72]).",
+    "refNo": 72,
+    "title": "Corpus callosum size in autism",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "Small genu area in children and teens (ref [60]); enlarged genu area in adults (ref [72]).",
+    "refNo": 60,
+    "title": "An MRI study of the corpus callosum and cerebellum in mentally retarded autistic individuals",
+    "marker_text": "[60]"
+  },
+  {
+    "sentence": "Small genu area in children and teens (ref [60]); enlarged genu area in adults (ref [72]).",
+    "refNo": 72,
+    "title": "Corpus callosum size in autism",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "No significant findings Small splenium area in adults (ref [72]).",
+    "refNo": 72,
+    "title": "Corpus callosum size in autism",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "No information available 22qDS Enlarged area (ref [72]).",
+    "refNo": 72,
+    "title": "Corpus callosum size in autism",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "Longer and larger rostrum and small genu area in children (ref [72]); reduced bilateral genu volume (ref [72]).",
+    "refNo": 72,
+    "title": "Corpus callosum size in autism",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "Longer and larger rostrum and small genu area in children (ref [72]); reduced bilateral genu volume (ref [72]).",
+    "refNo": 72,
+    "title": "Corpus callosum size in autism",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "Reduced bilateral volume (ref [72]).",
+    "refNo": 72,
+    "title": "Corpus callosum size in autism",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "On enumeration and subitizing tests, genu area correlated with faster performance and area of select regions in posterior midbody and splenium was negatively correlated with performance speed (ref [72]).",
+    "refNo": 72,
+    "title": "Corpus callosum size in autism",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "Williams syndrome Less concave in shape (ref [72]).",
+    "refNo": 72,
+    "title": "Corpus callosum size in autism",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "No significant findings Small area in caudal region of the callosal body (ref [72]).",
+    "refNo": 72,
+    "title": "Corpus callosum size in autism",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "Small area of isthmus and splenium (ref [72]).",
+    "refNo": 72,
+    "title": "Corpus callosum size in autism",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "Subtle loss of interhemispheric connectivity and elevated intrahemispheric connections; IHT does not improve with age (ref [72]); after age 30 years, PIQ positively correlated with genu and splenium area Preterm birth Reduced area across all regions at 8 years old (ref [72]) and in adolescence (ref [72]).",
+    "refNo": 72,
+    "title": "Corpus callosum size in autism",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "Subtle loss of interhemispheric connectivity and elevated intrahemispheric connections; IHT does not improve with age (ref [72]); after age 30 years, PIQ positively correlated with genu and splenium area Preterm birth Reduced area across all regions at 8 years old (ref [72]) and in adolescence (ref [72]).",
+    "refNo": 72,
+    "title": "Corpus callosum size in autism",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "Subtle loss of interhemispheric connectivity and elevated intrahemispheric connections; IHT does not improve with age (ref [72]); after age 30 years, PIQ positively correlated with genu and splenium area Preterm birth Reduced area across all regions at 8 years old (ref [72]) and in adolescence (ref [72]).",
+    "refNo": 72,
+    "title": "Corpus callosum size in autism",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "Low FA in genu of infants (ref [72]) and at 8 years old (ref [72]); enlarged genu relative to total CC area by ages 14-15 years (ref [72]).",
+    "refNo": 72,
+    "title": "Corpus callosum size in autism",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "Low FA in genu of infants (ref [72]) and at 8 years old (ref [72]); enlarged genu relative to total CC area by ages 14-15 years (ref [72]).",
+    "refNo": 72,
+    "title": "Corpus callosum size in autism",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "Low FA in genu of infants (ref [72]) and at 8 years old (ref [72]); enlarged genu relative to total CC area by ages 14-15 years (ref [72]).",
+    "refNo": 72,
+    "title": "Corpus callosum size in autism",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "Small posterior body area in infants (ref [72]); low FA in CC body of infants born at <28 PCW (ref [72]).",
+    "refNo": 72,
+    "title": "Corpus callosum size in autism",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "Small posterior body area in infants (ref [72]); low FA in CC body of infants born at <28 PCW (ref [72]).",
+    "refNo": 72,
+    "title": "Corpus callosum size in autism",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "Small splenium area relative to total CC area in 14-15-year olds (ref [72]); low FA in splenium of infants with diffuse excessive high signal intensity; low FA in isthmus of infants born at <28 PCW (ref [72]).",
+    "refNo": 72,
+    "title": "Corpus callosum size in autism",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "Small splenium area relative to total CC area in 14-15-year olds (ref [72]); low FA in splenium of infants with diffuse excessive high signal intensity; low FA in isthmus of infants born at <28 PCW (ref [72]).",
+    "refNo": 72,
+    "title": "Corpus callosum size in autism",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "In 2-year olds, FA of CC body and isthmus area correlated positively with developmental quotient and eye-hand coordination (ref [72]).",
+    "refNo": 72,
+    "title": "Corpus callosum size in autism",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "In adolescents, CC area correlated positively w/VIQ, PIQ, and visuomotor integration (ref [72]); in adolescents, bilateral-visual field matching was slowed with an atypical bilateral disadvantage-fMRI during this task revealed areas of splenial structure correlates with language skills in typical subjects, in developmentally impaired populations both over-and under-development of the splenium results in impairments of visuospatial skills, attention, and motor coordination.",
+    "refNo": 72,
+    "title": "Corpus callosum size in autism",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "Finally, these methods should be applied to all developmental and behavioral syndromes which involve callosal malformation (including conditions not described here such as retardation syndrome (ref [72]) and obsessive-compulsive disorder (ref [72])).",
+    "refNo": 72,
+    "title": "Corpus callosum size in autism",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "Finally, these methods should be applied to all developmental and behavioral syndromes which involve callosal malformation (including conditions not described here such as retardation syndrome (ref [72]) and obsessive-compulsive disorder (ref [72])).",
+    "refNo": 72,
+    "title": "Corpus callosum size in autism",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "Language function, executive function and social cognition seem to be three domains that deserve special interest, and that are also some of the most prominent contributors to the real-life impairments patients' (ref [72]).",
+    "refNo": 72,
+    "title": "Corpus callosum size in autism",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "FAS 6.8% incidence of callosal agenesis (ref [72]); reduced FA in the CC overall (ref [72]).",
+    "refNo": 72,
+    "title": "Corpus callosum size in autism",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "FAS 6.8% incidence of callosal agenesis (ref [72]); reduced FA in the CC overall (ref [72]).",
+    "refNo": 72,
+    "title": "Corpus callosum size in autism",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "Reduced area (ref [72]); reduced FA in the isthmus (ref [72]) and splenium (ref [72]); posterior CC is displaced more anteriorly and inferiorly (ref [72]).",
+    "refNo": 72,
+    "title": "Corpus callosum size in autism",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "Reduced area (ref [72]); reduced FA in the isthmus (ref [72]) and splenium (ref [72]); posterior CC is displaced more anteriorly and inferiorly (ref [72]).",
+    "refNo": 72,
+    "title": "Corpus callosum size in autism",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "Reduced area (ref [72]); reduced FA in the isthmus (ref [72]) and splenium (ref [72]); posterior CC is displaced more anteriorly and inferiorly (ref [72]).",
+    "refNo": 72,
+    "title": "Corpus callosum size in autism",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "Reduced area (ref [72]); reduced FA in the isthmus (ref [72]) and splenium (ref [72]); posterior CC is displaced more anteriorly and inferiorly (ref [72]).",
+    "refNo": 72,
+    "title": "Corpus callosum size in autism",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "White matter integrity of posterior CC is positively correlated with visual-motor integration performance in FASD groups (ref [72]). (ref [72]).",
+    "refNo": 72,
+    "title": "Corpus callosum size in autism",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "White matter integrity of posterior CC is positively correlated with visual-motor integration performance in FASD groups (ref [72]). (ref [72]).",
+    "refNo": 72,
+    "title": "Corpus callosum size in autism",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "No significant findings Slightly smaller splenium (ref [72]).",
+    "refNo": 72,
+    "title": "Corpus callosum size in autism",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "Sensory-motor deficits during IHT task in children (ref [72]).",
+    "refNo": 72,
+    "title": "Corpus callosum size in autism",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "Dyslexia No significant findings No significant findings No significant findings Enlarged splenium (ref [72]).",
+    "refNo": 72,
+    "title": "Corpus callosum size in autism",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "Phonological processing skill correlates with IHT of tactile info in dyslexic adults (ref [72]); in families with reading disorder, total CC area and area of CC body correlated positively with oral reading skill, even when controlling for gender and IQ (ref [72]); in children with a range of reading skill, FA of splenium correlated negatively correlated with reading skill (ref [72]).",
+    "refNo": 72,
+    "title": "Corpus callosum size in autism",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "Phonological processing skill correlates with IHT of tactile info in dyslexic adults (ref [72]); in families with reading disorder, total CC area and area of CC body correlated positively with oral reading skill, even when controlling for gender and IQ (ref [72]); in children with a range of reading skill, FA of splenium correlated negatively correlated with reading skill (ref [72]).",
+    "refNo": 72,
+    "title": "Corpus callosum size in autism",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "Phonological processing skill correlates with IHT of tactile info in dyslexic adults (ref [72]); in families with reading disorder, total CC area and area of CC body correlated positively with oral reading skill, even when controlling for gender and IQ (ref [72]); in children with a range of reading skill, FA of splenium correlated negatively correlated with reading skill (ref [72]).",
+    "refNo": 72,
+    "title": "Corpus callosum size in autism",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "ADHD Case reports involving callosal dysgenesis and ADHD (ref [72]); Small area (ref [72]).",
+    "refNo": 72,
+    "title": "Corpus callosum size in autism",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "ADHD Case reports involving callosal dysgenesis and ADHD (ref [72]); Small area (ref [72]).",
+    "refNo": 72,
+    "title": "Corpus callosum size in autism",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "Small rostral body in males (ref [72]).",
+    "refNo": 72,
+    "title": "Corpus callosum size in autism",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "No significant findings Smaller splenium in mixed-gender sample but no difference from controls in male-only studies (ref [72]); Splenium area did not differ from controls when comorbid conditions were excluded (ref [72]).",
+    "refNo": 72,
+    "title": "Corpus callosum size in autism",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "No significant findings Smaller splenium in mixed-gender sample but no difference from controls in male-only studies (ref [72]); Splenium area did not differ from controls when comorbid conditions were excluded (ref [72]).",
+    "refNo": 72,
+    "title": "Corpus callosum size in autism",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "Reduced left to right transcallosally mediated motor inhibition in children with ADHD (ref [72]); Slower right-to-left transfer in adults with inattentive-type ADHD and faster left-to-right transfer in adults with combined-type ADHD (ref [72]); rostrum area was negatively correlated with hyperactivity and impulsivity in males children with ADHD ).",
+    "refNo": 72,
+    "title": "Corpus callosum size in autism",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "Reduced left to right transcallosally mediated motor inhibition in children with ADHD (ref [72]); Slower right-to-left transfer in adults with inattentive-type ADHD and faster left-to-right transfer in adults with combined-type ADHD (ref [72]); rostrum area was negatively correlated with hyperactivity and impulsivity in males children with ADHD ).",
+    "refNo": 72,
+    "title": "Corpus callosum size in autism",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "Autism Small area (ref [73], ref [59], ref [60], ref [61], ref [65]); Low FA (ref [73]).",
+    "refNo": 73,
+    "title": "A developmental study of the structural integrity of white matter in autism",
+    "marker_text": "[73]"
+  },
+  {
+    "sentence": "Autism Small area (ref [73], ref [59], ref [60], ref [61], ref [65]); Low FA (ref [73]).",
+    "refNo": 59,
+    "title": "Regional Callosal Morphology in Autism and Macrocephaly",
+    "marker_text": "[59]"
+  },
+  {
+    "sentence": "Autism Small area (ref [73], ref [59], ref [60], ref [61], ref [65]); Low FA (ref [73]).",
+    "refNo": 60,
+    "title": "An MRI study of the corpus callosum and cerebellum in mentally retarded autistic individuals",
+    "marker_text": "[60]"
+  },
+  {
+    "sentence": "Autism Small area (ref [73], ref [59], ref [60], ref [61], ref [65]); Low FA (ref [73]).",
+    "refNo": 61,
+    "title": "An MRI study of the corpus callosum in autism",
+    "marker_text": "[61]"
+  },
+  {
+    "sentence": "Autism Small area (ref [73], ref [59], ref [60], ref [61], ref [65]); Low FA (ref [73]).",
+    "refNo": 65,
+    "title": "Reduced size of corpus callosum in autism",
+    "marker_text": "[65]"
+  },
+  {
+    "sentence": "Autism Small area (ref [73], ref [59], ref [60], ref [61], ref [65]); Low FA (ref [73]).",
+    "refNo": 73,
+    "title": "A developmental study of the structural integrity of white matter in autism",
+    "marker_text": "[73]"
+  },
+  {
+    "sentence": "Small anterior area (ref [60], ref [65], ref [59], ref [61], ref [73]); Low FA of genu (ref [73], ref [59], ref [61]).",
+    "refNo": 60,
+    "title": "An MRI study of the corpus callosum and cerebellum in mentally retarded autistic individuals",
+    "marker_text": "[60]"
+  },
+  {
+    "sentence": "Small anterior area (ref [60], ref [65], ref [59], ref [61], ref [73]); Low FA of genu (ref [73], ref [59], ref [61]).",
+    "refNo": 65,
+    "title": "Reduced size of corpus callosum in autism",
+    "marker_text": "[65]"
+  },
+  {
+    "sentence": "Small anterior area (ref [60], ref [65], ref [59], ref [61], ref [73]); Low FA of genu (ref [73], ref [59], ref [61]).",
+    "refNo": 59,
+    "title": "Regional Callosal Morphology in Autism and Macrocephaly",
+    "marker_text": "[59]"
+  },
+  {
+    "sentence": "Small anterior area (ref [60], ref [65], ref [59], ref [61], ref [73]); Low FA of genu (ref [73], ref [59], ref [61]).",
+    "refNo": 61,
+    "title": "An MRI study of the corpus callosum in autism",
+    "marker_text": "[61]"
+  },
+  {
+    "sentence": "Small anterior area (ref [60], ref [65], ref [59], ref [61], ref [73]); Low FA of genu (ref [73], ref [59], ref [61]).",
+    "refNo": 73,
+    "title": "A developmental study of the structural integrity of white matter in autism",
+    "marker_text": "[73]"
+  },
+  {
+    "sentence": "Small anterior area (ref [60], ref [65], ref [59], ref [61], ref [73]); Low FA of genu (ref [73], ref [59], ref [61]).",
+    "refNo": 73,
+    "title": "A developmental study of the structural integrity of white matter in autism",
+    "marker_text": "[73]"
+  },
+  {
+    "sentence": "Small anterior area (ref [60], ref [65], ref [59], ref [61], ref [73]); Low FA of genu (ref [73], ref [59], ref [61]).",
+    "refNo": 59,
+    "title": "Regional Callosal Morphology in Autism and Macrocephaly",
+    "marker_text": "[59]"
+  },
+  {
+    "sentence": "Small anterior area (ref [60], ref [65], ref [59], ref [61], ref [73]); Low FA of genu (ref [73], ref [59], ref [61]).",
+    "refNo": 61,
+    "title": "An MRI study of the corpus callosum in autism",
+    "marker_text": "[61]"
+  },
+  {
+    "sentence": "Low FA in body (ref [73]) and posterior midbody Small posterior area (ref [61], ref [65], ref [60], ref [73], ref [59]); Low FA in splenium (ref [73]).",
+    "refNo": 73,
+    "title": "A developmental study of the structural integrity of white matter in autism",
+    "marker_text": "[73]"
+  },
+  {
+    "sentence": "Low FA in body (ref [73]) and posterior midbody Small posterior area (ref [61], ref [65], ref [60], ref [73], ref [59]); Low FA in splenium (ref [73]).",
+    "refNo": 61,
+    "title": "An MRI study of the corpus callosum in autism",
+    "marker_text": "[61]"
+  },
+  {
+    "sentence": "Low FA in body (ref [73]) and posterior midbody Small posterior area (ref [61], ref [65], ref [60], ref [73], ref [59]); Low FA in splenium (ref [73]).",
+    "refNo": 65,
+    "title": "Reduced size of corpus callosum in autism",
+    "marker_text": "[65]"
+  },
+  {
+    "sentence": "Low FA in body (ref [73]) and posterior midbody Small posterior area (ref [61], ref [65], ref [60], ref [73], ref [59]); Low FA in splenium (ref [73]).",
+    "refNo": 60,
+    "title": "An MRI study of the corpus callosum and cerebellum in mentally retarded autistic individuals",
+    "marker_text": "[60]"
+  },
+  {
+    "sentence": "Low FA in body (ref [73]) and posterior midbody Small posterior area (ref [61], ref [65], ref [60], ref [73], ref [59]); Low FA in splenium (ref [73]).",
+    "refNo": 73,
+    "title": "A developmental study of the structural integrity of white matter in autism",
+    "marker_text": "[73]"
+  },
+  {
+    "sentence": "Low FA in body (ref [73]) and posterior midbody Small posterior area (ref [61], ref [65], ref [60], ref [73], ref [59]); Low FA in splenium (ref [73]).",
+    "refNo": 59,
+    "title": "Regional Callosal Morphology in Autism and Macrocephaly",
+    "marker_text": "[59]"
+  },
+  {
+    "sentence": "Low FA in body (ref [73]) and posterior midbody Small posterior area (ref [61], ref [65], ref [60], ref [73], ref [59]); Low FA in splenium (ref [73]).",
+    "refNo": 73,
+    "title": "A developmental study of the structural integrity of white matter in autism",
+    "marker_text": "[73]"
+  },
+  {
+    "sentence": "Genu area positively correlated with frontoparietal connectivity Tourette's Small area and low FA for entire CC (ref [72]).",
+    "refNo": 72,
+    "title": "Corpus callosum size in autism",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "No significant findings No significant findings No significant findings Non-significant positive correlation between tic severity and both area and FA of the anterior callosal sections (ref [72]) face.",
+    "refNo": 72,
+    "title": "Corpus callosum size in autism",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "Reduced left to right transcallosally mediated motor inhibition in children with ADHD (Buchmann et al. 2003;Gilbert et al. 2004;Moll et al. 2000); Slower right-to-left transfer in adults with inattentive-type ADHD and faster left-to-right transfer in adults with combined-type ADHD (Rolfe et al. 2007); rostrum area was negatively correlated with hyperactivity and impulsivity in male children with ADHD ref [74] ref [47] ref [75] ref [9] ref [11] ref [7] Autism Small area (Alexander et al. 2007;Egaas et al. 1995;Manes et al. 1999;Boger-Megiddo et al. 2006); Low FA (Alexander et al. 2007).",
+    "refNo": 74,
+    "title": "Magnetic resonance imaging correlates of attention deficit/ hyperactivity disorder in children",
+    "marker_text": "[74]"
+  },
+  {
+    "sentence": "Reduced left to right transcallosally mediated motor inhibition in children with ADHD (Buchmann et al. 2003;Gilbert et al. 2004;Moll et al. 2000); Slower right-to-left transfer in adults with inattentive-type ADHD and faster left-to-right transfer in adults with combined-type ADHD (Rolfe et al. 2007); rostrum area was negatively correlated with hyperactivity and impulsivity in male children with ADHD ref [74] ref [47] ref [75] ref [9] ref [11] ref [7] Autism Small area (Alexander et al. 2007;Egaas et al. 1995;Manes et al. 1999;Boger-Megiddo et al. 2006); Low FA (Alexander et al. 2007).",
+    "refNo": 47,
+    "title": "Corpus callosum morphology in children and adolescents with attention deficit hyperactivity disorder: a meta-analytic review",
+    "marker_text": "[47]"
+  },
+  {
+    "sentence": "Reduced left to right transcallosally mediated motor inhibition in children with ADHD (Buchmann et al. 2003;Gilbert et al. 2004;Moll et al. 2000); Slower right-to-left transfer in adults with inattentive-type ADHD and faster left-to-right transfer in adults with combined-type ADHD (Rolfe et al. 2007); rostrum area was negatively correlated with hyperactivity and impulsivity in male children with ADHD ref [74] ref [47] ref [75] ref [9] ref [11] ref [7] Autism Small area (Alexander et al. 2007;Egaas et al. 1995;Manes et al. 1999;Boger-Megiddo et al. 2006); Low FA (Alexander et al. 2007).",
+    "refNo": 75,
+    "title": "Attention-deficit hyperactivity disorder: Magnetic resonance imaging morphometric analysis of the corpus callosum",
+    "marker_text": "[75]"
+  },
+  {
+    "sentence": "Reduced left to right transcallosally mediated motor inhibition in children with ADHD (Buchmann et al. 2003;Gilbert et al. 2004;Moll et al. 2000); Slower right-to-left transfer in adults with inattentive-type ADHD and faster left-to-right transfer in adults with combined-type ADHD (Rolfe et al. 2007); rostrum area was negatively correlated with hyperactivity and impulsivity in male children with ADHD ref [74] ref [47] ref [75] ref [9] ref [11] ref [7] Autism Small area (Alexander et al. 2007;Egaas et al. 1995;Manes et al. 1999;Boger-Megiddo et al. 2006); Low FA (Alexander et al. 2007).",
+    "refNo": 9,
+    "title": "Simple reaction times to lateralized light flashes. Varieties of interhemispheric communication routes",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Reduced left to right transcallosally mediated motor inhibition in children with ADHD (Buchmann et al. 2003;Gilbert et al. 2004;Moll et al. 2000); Slower right-to-left transfer in adults with inattentive-type ADHD and faster left-to-right transfer in adults with combined-type ADHD (Rolfe et al. 2007); rostrum area was negatively correlated with hyperactivity and impulsivity in male children with ADHD ref [74] ref [47] ref [75] ref [9] ref [11] ref [7] Autism Small area (Alexander et al. 2007;Egaas et al. 1995;Manes et al. 1999;Boger-Megiddo et al. 2006); Low FA (Alexander et al. 2007).",
+    "refNo": 11,
+    "title": "Human motor corpus callosum: topography, somatotopy, and link between microstructure and function",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Reduced left to right transcallosally mediated motor inhibition in children with ADHD (Buchmann et al. 2003;Gilbert et al. 2004;Moll et al. 2000); Slower right-to-left transfer in adults with inattentive-type ADHD and faster left-to-right transfer in adults with combined-type ADHD (Rolfe et al. 2007); rostrum area was negatively correlated with hyperactivity and impulsivity in male children with ADHD ref [74] ref [47] ref [75] ref [9] ref [11] ref [7] Autism Small area (Alexander et al. 2007;Egaas et al. 1995;Manes et al. 1999;Boger-Megiddo et al. 2006); Low FA (Alexander et al. 2007).",
+    "refNo": 7,
+    "title": "Temporal-callosal pathway diffusivity predicts phonological skills in children",
+    "marker_text": "[7]"
+  }
+]

@@ -1,0 +1,428 @@
+[
+  {
+    "sentence": "In most health technology assessment systems, benefits are compared against costs using outcome measures such as the quality-adjusted life year (QALY), which combines survival and health-related quality of life into a common metric ref [9].",
+    "refNo": 9,
+    "title": "The Estimation of a Preference-Based Measure of Health From the SF-12",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "This framework is attractive because it allows comparison across diseases and interventions, but it also creates tension in the ultra-orphan context, where very high cost per QALY ratios are common even when treatments address severe, otherwise neglected conditions ref [9].",
+    "refNo": 9,
+    "title": "The Estimation of a Preference-Based Measure of Health From the SF-12",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Work on condition-specific quality-of-life measurement, such as the development of DEMQOL for dementia, illustrates both the importance and the methodological difficulty of constructing instruments sensitive to complex, non-standard health states ref [2].",
+    "refNo": 2,
+    "title": "Measurement of health-related quality of life for people with dementia: development of a new instrument (DEMQOL) and an evaluation of current methodology.",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Research on multimorbidity and quality of life in primary care shows that health status is shaped by interacting burdens rather than by a single disease dimension ref [8].",
+    "refNo": 8,
+    "title": "Multiattribute and Single‐Attribute Utility Functions for the Health Utilities Index Mark 3 System",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "As argued in the commentary on discrepancies between patient and public evaluations, the choice of whose quality-of-life judgments count is not merely technical but ethically consequential: patients and non-patients may assign meaningfully different values to the same health state, with implications for reimbursement and priority setting ref [4].",
+    "refNo": 4,
+    "title": "Whose quality of life? A commentary exploring discrepancies between health state evaluations of patients and the general public",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "For ultra-orphan products, where evidence bases are already sparse and patient populations are extremely small, such valuation discrepancies can have amplified policy effects by shaping perceived incremental benefit and, in turn, acceptable price thresholds ref [4].",
+    "refNo": 4,
+    "title": "Whose quality of life? A commentary exploring discrepancies between health state evaluations of patients and the general public",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Instrument-development work such as Neuro-QOL and the PROMIS social health measures illustrates the breadth of domains that may matter to patients with severe and disabling conditions, including many rare disorders, and therefore highlights why standard utility instruments may incompletely represent treatment benefit in ultra-orphan settings [7], ref [8].",
+    "refNo": 7,
+    "title": "Valuation of the Child Health Utility 9D Index",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Instrument-development work such as Neuro-QOL and the PROMIS social health measures illustrates the breadth of domains that may matter to patients with severe and disabling conditions, including many rare disorders, and therefore highlights why standard utility instruments may incompletely represent treatment benefit in ultra-orphan settings [7], ref [8].",
+    "refNo": 8,
+    "title": "Multiattribute and Single‐Attribute Utility Functions for the Health Utilities Index Mark 3 System",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Studies on utility valuation, such as the Child Health Utility 9D, also underscore that preference-based estimates depend on instrument design and elicitation methods, reinforcing that 'value' is partly constructed by the measurement approach itself [5].",
+    "refNo": 5,
+    "title": "Neuro-QOL: quality of life item banks for adults with neurological disorders: item development and calibrations based upon clinical and general population testing",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "The broader health-economics literature underscores that valuing outcomes in such settings is itself methodologically demanding, because preference-based utility estimation often requires specialized instruments and mapping strategies rather than simple generic endpoints ref [4], ref [5].",
+    "refNo": 4,
+    "title": "Whose quality of life? A commentary exploring discrepancies between health state evaluations of patients and the general public",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "The broader health-economics literature underscores that valuing outcomes in such settings is itself methodologically demanding, because preference-based utility estimation often requires specialized instruments and mapping strategies rather than simple generic endpoints ref [4], ref [5].",
+    "refNo": 5,
+    "title": "Neuro-QOL: quality of life item banks for adults with neurological disorders: item development and calibrations based upon clinical and general population testing",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "The available conceptual literature supports caution: sophisticated health-state measurement can be resource intensive ref [4], ref [5], yet this does not by itself validate any particular launch price.",
+    "refNo": 4,
+    "title": "Whose quality of life? A commentary exploring discrepancies between health state evaluations of patients and the general public",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "The available conceptual literature supports caution: sophisticated health-state measurement can be resource intensive ref [4], ref [5], yet this does not by itself validate any particular launch price.",
+    "refNo": 5,
+    "title": "Neuro-QOL: quality of life item banks for adults with neurological disorders: item development and calibrations based upon clinical and general population testing",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "More generally, economic evaluations in health care repeatedly show that uncertainty in evidence generation, model structure, and long-run outcomes can materially affect estimated value, which is particularly salient when trials are small and surrogate endpoints are common ref [7].",
+    "refNo": 7,
+    "title": "Valuation of the Child Health Utility 9D Index",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Systematic reviews of economic evaluation across very different interventions show that uncertainty is pervasive in health technology development and not unique to ultra-rare diseases; many technologies require extrapolation, sensitivity analysis, and assumptions about durability of benefit ref [5], ref [6].",
+    "refNo": 5,
+    "title": "Neuro-QOL: quality of life item banks for adults with neurological disorders: item development and calibrations based upon clinical and general population testing",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Systematic reviews of economic evaluation across very different interventions show that uncertainty is pervasive in health technology development and not unique to ultra-rare diseases; many technologies require extrapolation, sensitivity analysis, and assumptions about durability of benefit ref [5], ref [6].",
+    "refNo": 6,
+    "title": "Measuring social health in the patient-reported outcomes measurement information system (PROMIS): item bank development and testing",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "More generally, burden-of-disease frameworks show that conditions can generate substantial disability even when mortality is limited, as illustrated by work on migraine and by pathogen attribution studies that rank harms using composite burden measures rather than simple case counts alone [5], [1].",
+    "refNo": 5,
+    "title": "Neuro-QOL: quality of life item banks for adults with neurological disorders: item development and calibrations based upon clinical and general population testing",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "More generally, burden-of-disease frameworks show that conditions can generate substantial disability even when mortality is limited, as illustrated by work on migraine and by pathogen attribution studies that rank harms using composite burden measures rather than simple case counts alone [5], [1].",
+    "refNo": 1,
+    "title": "Health outcomes in economic evaluation: the QALY and utilities.",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Evidence from disease-specific quality-of-life research, such as longitudinal work following deep vein thrombosis, underscores that burden and recovery trajectories must be empirically measured rather than assumed [2].",
+    "refNo": 2,
+    "title": "Measurement of health-related quality of life for people with dementia: development of a new instrument (DEMQOL) and an evaluation of current methodology.",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Evidence from cost-effectiveness research in other areas illustrates that high spending is not automatically warranted unless meaningful health gains are produced relative to alternatives and system constraints ref [10], ref [11].",
+    "refNo": 10,
+    "title": "Systematic review of the use and value of computer simulation modelling in population health and health care delivery.",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Evidence from cost-effectiveness research in other areas illustrates that high spending is not automatically warranted unless meaningful health gains are produced relative to alternatives and system constraints ref [10], ref [11].",
+    "refNo": 11,
+    "title": "Laparoscopic surgery for inguinal hernia repair: systematic review of effectiveness and economic evaluation.",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Work on multidimensional quality of life and determinants of health-related quality of life indicates that patient benefit is heterogeneous and shaped by social and functional domains as well as symptoms ref [17], ref [6].",
+    "refNo": 17,
+    "title": "Cost-effectiveness of a multicondition collaborative care intervention: a randomized controlled trial.",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Work on multidimensional quality of life and determinants of health-related quality of life indicates that patient benefit is heterogeneous and shaped by social and functional domains as well as symptoms ref [17], ref [6].",
+    "refNo": 6,
+    "title": "Measuring social health in the patient-reported outcomes measurement information system (PROMIS): item bank development and testing",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "The QALY framework aggregates survival and health-related quality of life into a single metric, allowing comparison across interventions and disease areas; however, its practical application in ultra-rare diseases is immediately constrained by sparse data, heterogeneous clinical presentation, and uncertainty over whether generic preference-based instruments capture the most relevant dimensions of benefit ref [9].",
+    "refNo": 9,
+    "title": "The Estimation of a Preference-Based Measure of Health From the SF-12",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Systems such as the Health Utilities Index Mark 3 operationalize health status through multiattribute utility functions across predefined domains, while preference-based measures can also be derived from generic surveys such as the SF-12 to support QALY estimation ref [4], ref [5].",
+    "refNo": 4,
+    "title": "Whose quality of life? A commentary exploring discrepancies between health state evaluations of patients and the general public",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Systems such as the Health Utilities Index Mark 3 operationalize health status through multiattribute utility functions across predefined domains, while preference-based measures can also be derived from generic surveys such as the SF-12 to support QALY estimation ref [4], ref [5].",
+    "refNo": 5,
+    "title": "Neuro-QOL: quality of life item banks for adults with neurological disorders: item development and calibrations based upon clinical and general population testing",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "This tension underpins later debates about whether ultra-orphan products require modified thresholds, supplementary elements of value, or alternative decision frameworks beyond standard cost-effectiveness analysis ref [9], ref [4].",
+    "refNo": 9,
+    "title": "The Estimation of a Preference-Based Measure of Health From the SF-12",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "This tension underpins later debates about whether ultra-orphan products require modified thresholds, supplementary elements of value, or alternative decision frameworks beyond standard cost-effectiveness analysis ref [9], ref [4].",
+    "refNo": 4,
+    "title": "Whose quality of life? A commentary exploring discrepancies between health state evaluations of patients and the general public",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "The valuation work underlying the ICECAP capability index illustrates how preference-based methods can extend beyond narrow health utility measurement, thereby offering a potentially richer account of benefit in contexts where treatment effects include social participation, independence, or reduced caregiver dependence as much as direct symptom change ref [10].",
+    "refNo": 10,
+    "title": "Systematic review of the use and value of computer simulation modelling in population health and health care delivery.",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Simulation modelling has therefore become an important supplementary tool: systematic review evidence shows that modelling can synthesize sparse data, extrapolate long-term outcomes, and compare policy options where direct empirical evidence is unavailable ref [7].",
+    "refNo": 7,
+    "title": "Valuation of the Child Health Utility 9D Index",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "This discrepancy matters because it can materially alter estimated QALY gains and therefore the apparent cost-effectiveness of treatment, raising questions about whether standard preference elicitation methods systematically understate benefits in ultra-rare diseases ref [4].",
+    "refNo": 4,
+    "title": "Whose quality of life? A commentary exploring discrepancies between health state evaluations of patients and the general public",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "The Quality of Health Economic Studies framework highlights the importance of transparency, handling of uncertainty, and internal consistency when interpreting analyses that may otherwise appear precise despite fragile evidence foundations ref [11].",
+    "refNo": 11,
+    "title": "Laparoscopic surgery for inguinal hernia repair: systematic review of effectiveness and economic evaluation.",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Rather, decision makers may need to interpret QALY-based results alongside scrutiny of whose quality-of-life values are being used and how robust the underlying economic evidence is, particularly where conventional methods risk misrepresenting both patient experience and evidentiary uncertainty ref [4]; ref [11].",
+    "refNo": 4,
+    "title": "Whose quality of life? A commentary exploring discrepancies between health state evaluations of patients and the general public",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Rather, decision makers may need to interpret QALY-based results alongside scrutiny of whose quality-of-life values are being used and how robust the underlying economic evidence is, particularly where conventional methods risk misrepresenting both patient experience and evidentiary uncertainty ref [4]; ref [11].",
+    "refNo": 11,
+    "title": "Laparoscopic surgery for inguinal hernia repair: systematic review of effectiveness and economic evaluation.",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "The valuation of the Child Health Utility 9D (CHU9D) illustrates an attempt to generate child-specific utility weights rather than simply extrapolating from adult health-state preferences, thereby improving the conceptual fit of quality-adjusted life-year estimation in childhood disease contexts ref [5].",
+    "refNo": 5,
+    "title": "Neuro-QOL: quality of life item banks for adults with neurological disorders: item development and calibrations based upon clinical and general population testing",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Child-centered utility instruments such as the CHU9D therefore provide a partial methodological response, although they do not resolve broader problems of sparse evidence, caregiver spillovers, and the ethical weight often attached to severity and unmet need in ultra-orphan indications ref [5].",
+    "refNo": 5,
+    "title": "Neuro-QOL: quality of life item banks for adults with neurological disorders: item development and calibrations based upon clinical and general population testing",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "In practice, distributive claims are often framed through quality-adjusted life-years (QALYs), which aggregate survival and health-related quality of life into a common metric for comparing interventions across patient groups ref [9].",
+    "refNo": 9,
+    "title": "The Estimation of a Preference-Based Measure of Health From the SF-12",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Preference-based systems such as the Health Utilities Index Mark 3 and the 15D were designed to translate diverse health states into utility values suitable for economic evaluation ref [4], ref [6].",
+    "refNo": 4,
+    "title": "Whose quality of life? A commentary exploring discrepancies between health state evaluations of patients and the general public",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Preference-based systems such as the Health Utilities Index Mark 3 and the 15D were designed to translate diverse health states into utility values suitable for economic evaluation ref [4], ref [6].",
+    "refNo": 6,
+    "title": "Measuring social health in the patient-reported outcomes measurement information system (PROMIS): item bank development and testing",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "This tension sets up the broader ethical debate: special protection for very small patient groups may express compassion and collective commitment, but without principled limits it risks unfairly displacing larger aggregate health gains elsewhere in the health system ref [9], ref [6].",
+    "refNo": 9,
+    "title": "The Estimation of a Preference-Based Measure of Health From the SF-12",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "This tension sets up the broader ethical debate: special protection for very small patient groups may express compassion and collective commitment, but without principled limits it risks unfairly displacing larger aggregate health gains elsewhere in the health system ref [9], ref [6].",
+    "refNo": 6,
+    "title": "Measuring social health in the patient-reported outcomes measurement information system (PROMIS): item bank development and testing",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "The commentary by McTaggart-Cowan highlights persistent discrepancies between patients’ and the general public’s evaluations of health states, showing that patients often report higher quality of life than outside observers would predict, partly because of adaptation, coping, and changed expectations ref [4].",
+    "refNo": 4,
+    "title": "Whose quality of life? A commentary exploring discrepancies between health state evaluations of patients and the general public",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "This does not entail unconditional acceptance of ultra-high prices; rather, it implies that distributive decisions should be transparent about whose quality of life is being measured and how that choice affects judgments of equity, solidarity, and reasonable reward for innovation ref [4].",
+    "refNo": 4,
+    "title": "Whose quality of life? A commentary exploring discrepancies between health state evaluations of patients and the general public",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Work on health disparities emphasizes that place is not a neutral backdrop: residential segregation and the spatial concentration of resources shape exposure to disadvantage and access to care, thereby influencing who benefits from ostensibly universal health systems ref [4].",
+    "refNo": 4,
+    "title": "Whose quality of life? A commentary exploring discrepancies between health state evaluations of patients and the general public",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "In that sense, rarity alone has limited moral significance unless accompanied by attention to equitable access across regions and social groups ref [4].",
+    "refNo": 4,
+    "title": "Whose quality of life? A commentary exploring discrepancies between health state evaluations of patients and the general public",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "From a justice-oriented standpoint, exceptional pricing is harder to justify when health systems do not simultaneously address the place-based barriers that determine which rare-disease patients are actually rescued ref [4].",
+    "refNo": 4,
+    "title": "Whose quality of life? A commentary exploring discrepancies between health state evaluations of patients and the general public",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "This creates pressure for appraisal bodies to adapt evidentiary expectations while still anchoring decisions in broadly comparable utility-based frameworks ref [9].",
+    "refNo": 9,
+    "title": "The Estimation of a Preference-Based Measure of Health From the SF-12",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Instruments such as the Health Utilities Index Mark 3 provide multiattribute and single-attribute utility functions intended to capture diverse dimensions of morbidity, which is especially relevant where ultra-rare disorders affect multiple functional domains ref [4].",
+    "refNo": 4,
+    "title": "Whose quality of life? A commentary exploring discrepancies between health state evaluations of patients and the general public",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Likewise, the 15D instrument offers a broad health-related quality-of-life profile and utility structure that can be useful when disease impact extends beyond narrowly defined clinical endpoints ref [6].",
+    "refNo": 6,
+    "title": "Measuring social health in the patient-reported outcomes measurement information system (PROMIS): item bank development and testing",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "The central issue is therefore methodological accommodation within reimbursement, rather than abandonment of value assessment altogether ref [6], ref [9].",
+    "refNo": 6,
+    "title": "Measuring social health in the patient-reported outcomes measurement information system (PROMIS): item bank development and testing",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "The central issue is therefore methodological accommodation within reimbursement, rather than abandonment of value assessment altogether ref [6], ref [9].",
+    "refNo": 9,
+    "title": "The Estimation of a Preference-Based Measure of Health From the SF-12",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Reviews of methadone and buprenorphine treatment and of laparoscopic hernia repair both illustrate how economic evidence can inform coverage even when effectiveness estimates, service configurations, and long-term outcomes remain heterogeneous ref [6], ref [5].",
+    "refNo": 6,
+    "title": "Measuring social health in the patient-reported outcomes measurement information system (PROMIS): item bank development and testing",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Reviews of methadone and buprenorphine treatment and of laparoscopic hernia repair both illustrate how economic evidence can inform coverage even when effectiveness estimates, service configurations, and long-term outcomes remain heterogeneous ref [6], ref [5].",
+    "refNo": 5,
+    "title": "Neuro-QOL: quality of life item banks for adults with neurological disorders: item development and calibrations based upon clinical and general population testing",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "The logic is similar to that seen in systematic reviews of palliative care and glaucoma screening, where decision makers must weigh imperfect evidence, downstream resource consequences, and broader clinical need rather than relying on a single static incremental cost-effectiveness ratio ref [25], ref [11].",
+    "refNo": 25,
+    "title": "The clinical effectiveness and cost-effectiveness of screening for open angle glaucoma: a systematic review and economic evaluation.",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "The logic is similar to that seen in systematic reviews of palliative care and glaucoma screening, where decision makers must weigh imperfect evidence, downstream resource consequences, and broader clinical need rather than relying on a single static incremental cost-effectiveness ratio ref [25], ref [11].",
+    "refNo": 11,
+    "title": "Laparoscopic surgery for inguinal hernia repair: systematic review of effectiveness and economic evaluation.",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "The logic resembles broader efforts to derive actionable signals from routinely collected data, including claims-based indicators used to characterize patterns of high-intensity care near the end of life, where measurement feasibility often precedes perfect causal inference ref [10].",
+    "refNo": 10,
+    "title": "Systematic review of the use and value of computer simulation modelling in population health and health care delivery.",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Evidence from telehealth evaluations shows that socio-economic consequences can extend beyond direct clinical endpoints, suggesting that managed entry agreements should specify broader outcome domains and implementation metrics rather than relying narrowly on short-term biomedical markers ref [9].",
+    "refNo": 9,
+    "title": "The Estimation of a Preference-Based Measure of Health From the SF-12",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "A user-centered framework for redesigning health care interfaces therefore has direct relevance to the feasibility of managed access arrangements: if data systems are poorly aligned with clinical practice, outcome-based reimbursement becomes costly to administer and weak as a negotiating instrument ref [7].",
+    "refNo": 7,
+    "title": "Valuation of the Child Health Utility 9D Index",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "The development of disease-relevant and neurologic quality-of-life instruments illustrates why such arrangements can be valuable: they can capture dimensions of benefit that matter to patients but are frequently missed in pre-approval trials, thereby informing continuation rules, reassessment, and price revision over time ref [5], ref [7].",
+    "refNo": 5,
+    "title": "Neuro-QOL: quality of life item banks for adults with neurological disorders: item development and calibrations based upon clinical and general population testing",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "The development of disease-relevant and neurologic quality-of-life instruments illustrates why such arrangements can be valuable: they can capture dimensions of benefit that matter to patients but are frequently missed in pre-approval trials, thereby informing continuation rules, reassessment, and price revision over time ref [5], ref [7].",
+    "refNo": 7,
+    "title": "Valuation of the Child Health Utility 9D Index",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Instruments aimed at social health and multidimensional quality of life suggest that treatment value in very rare diseases may extend beyond survival or short-term biomedical change to autonomy, role functioning, and participation in everyday life ref [8], ref [30].",
+    "refNo": 8,
+    "title": "Multiattribute and Single‐Attribute Utility Functions for the Health Utilities Index Mark 3 System",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Instruments aimed at social health and multidimensional quality of life suggest that treatment value in very rare diseases may extend beyond survival or short-term biomedical change to autonomy, role functioning, and participation in everyday life ref [8], ref [30].",
+    "refNo": 30,
+    "title": "Evaluation of outcomes in chronic venous disorders of the leg: development of a scientifically rigorous, patient-reported measure of symptoms and quality of life.",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "This creates a risk that the measured value of treatment reflects instrument convenience rather than true patient benefit ref [9].",
+    "refNo": 9,
+    "title": "The Estimation of a Preference-Based Measure of Health From the SF-12",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Instruments derived from generic health status systems, such as the SF-12 preference-based estimator, and broader multidimensional systems such as the 15D differ in descriptive content and valuation structure, which can yield materially different utility estimates for the same health state ref [5], ref [6].",
+    "refNo": 5,
+    "title": "Neuro-QOL: quality of life item banks for adults with neurological disorders: item development and calibrations based upon clinical and general population testing",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Instruments derived from generic health status systems, such as the SF-12 preference-based estimator, and broader multidimensional systems such as the 15D differ in descriptive content and valuation structure, which can yield materially different utility estimates for the same health state ref [5], ref [6].",
+    "refNo": 6,
+    "title": "Measuring social health in the patient-reported outcomes measurement information system (PROMIS): item bank development and testing",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "More generally, simulation methods can be useful when direct evidence is limited, but their value depends on transparent structure, explicit assumptions, and rigorous validation; without these features, modelling may amplify rather than resolve uncertainty about long-term benefit, budget impact, and opportunity cost in ultra-orphan indications [7].",
+    "refNo": 7,
+    "title": "Valuation of the Child Health Utility 9D Index",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Capability-based approaches illustrate one route for broadening assessment beyond narrow health utility, by valuing what individuals are able to do and be rather than only their reported health states [10].",
+    "refNo": 10,
+    "title": "Systematic review of the use and value of computer simulation modelling in population health and health care delivery.",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Policy development should therefore prioritize decision frameworks that are both broader and more disciplined: broader in incorporating non-health and family effects where relevant, and more disciplined in stress-testing structural assumptions, uncertainty, and transferability across very small populations [7,10].",
+    "refNo": 7,
+    "title": "Valuation of the Child Health Utility 9D Index",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Policy development should therefore prioritize decision frameworks that are both broader and more disciplined: broader in incorporating non-health and family effects where relevant, and more disciplined in stress-testing structural assumptions, uncertainty, and transferability across very small populations [7,10].",
+    "refNo": 10,
+    "title": "Systematic review of the use and value of computer simulation modelling in population health and health care delivery.",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "More systematic appraisal frameworks, such as the Quality of Health Economic Studies approach, are therefore important not merely for technical quality control but for exposing where model structure, transparency, and handling of uncertainty are inadequate for high-stakes reimbursement claims ref [11].",
+    "refNo": 11,
+    "title": "Laparoscopic surgery for inguinal hernia repair: systematic review of effectiveness and economic evaluation.",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "For ultra-orphan conditions, especially severe lifelong disorders, patient and public valuations of health states may diverge substantially, with adaptation, coping, and lived experience shaping patient assessments in ways not captured by general-population elicitation ref [4].",
+    "refNo": 4,
+    "title": "Whose quality of life? A commentary exploring discrepancies between health state evaluations of patients and the general public",
+    "marker_text": "[4]"
+  }
+]

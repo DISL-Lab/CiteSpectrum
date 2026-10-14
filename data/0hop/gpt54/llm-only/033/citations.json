@@ -1,0 +1,442 @@
+[
+  {
+    "sentence": "Early foundational work framed SCRM as a coordinated approach for understanding and managing risks that affect supply chain continuity and performance, rather than merely reacting to isolated disruptions ref [1].",
+    "refNo": 1,
+    "title": "Understanding supply chain risk: a self-assessment workbook"
+  },
+  {
+    "sentence": "This broad scope reflects the distinction between operational risks arising from normal variability and disruption risks associated with rare but severe events, a distinction that has become central in the SCRM literature ref [2].",
+    "refNo": 2,
+    "title": "Managing Risk to Avoid Supply-Chain Breakdown"
+  },
+  {
+    "sentence": "This distinction is analytically important because the two classes differ in time scale, observability, and appropriate mitigation logic: operational risks are often managed through continuous control and optimization, whereas disruption risks require resilience, redundancy, and recovery planning ref [2].",
+    "refNo": 2,
+    "title": "Managing Risk to Avoid Supply-Chain Breakdown"
+  },
+  {
+    "sentence": "Jüttner, Peck, and Christopher further emphasize that risks can emerge from the structure of the network itself, including inter-organizational dependencies, concentration, and the bullwhip-like amplification of disturbances across tiers ref [3].",
+    "refNo": 3,
+    "title": "Supply chain risk management: outlining an agenda for future research"
+  },
+  {
+    "sentence": "The broader transition from traditional business analytics toward predictive and prescriptive analytics has been well documented in operations and supply chain research, highlighting the growing role of data-intensive methods in decision support ref [4].",
+    "refNo": 4,
+    "title": "Big data analytics in operations and supply chain management"
+  },
+  {
+    "sentence": "Recent reviews of machine learning in supply chain management show growing use in forecasting, supplier evaluation, inventory control, and transportation planning, suggesting that ML-enabled risk management should be understood as a complement to—not a replacement for—optimization, simulation, and managerial judgment ref [5].",
+    "refNo": 5,
+    "title": "Applications of machine learning in supply chain management: a systematic review"
+  },
+  {
+    "sentence": "Jüttner, Peck, and Christopher emphasize that supply chain risk is shaped by environmental uncertainty and by the networked nature of buyer-supplier relationships, making vulnerability a function of both exposure and connectivity ref [3].",
+    "refNo": 3,
+    "title": "Supply chain risk management: outlining an agenda for future research"
+  },
+  {
+    "sentence": "argue that disruption severity depends not only on the triggering event but also on network density, node criticality, and the structure of interfirm interactions ref [6].",
+    "refNo": 6,
+    "title": "The severity of supply chain disruptions: design characteristics and mitigation capabilities"
+  },
+  {
+    "sentence": "In this sense, the survey focuses on machine learning as an enabling layer within broader risk management processes, rather than as an isolated forecasting tool, consistent with the growing emphasis on data-rich, digitally connected supply chains ref [7].",
+    "refNo": 7,
+    "title": "Digital supply chain transformation toward blockchain integration"
+  },
+  {
+    "sentence": "Fifth, what methodological and governance gaps remain, especially regarding data scarcity, non-stationarity, explainability, and deployment in complex interdependent networks ref [8]?",
+    "refNo": 8,
+    "title": "Supply chain risk management and artificial intelligence: state of the art and future research directions"
+  },
+  {
+    "sentence": "The growing use of digital traceability technologies also expands the data landscape: IoT-enabled sensing and cyber-physical monitoring generate high-frequency observations on location, condition, and asset utilization, thereby improving real-time visibility and responsiveness in logistics and supply networks ref [9].",
+    "refNo": 9,
+    "title": "The impact of the Internet of Things on supply chains"
+  },
+  {
+    "sentence": "Recent reviews on supply chain analytics and digitalization emphasize that value creation depends on integrating firm-internal data with external ecosystem data to support predictive and prescriptive decisions under uncertainty ref [10], ref [7].",
+    "refNo": 10,
+    "title": "Data science and big data analytics in supply chain management: A review"
+  },
+  {
+    "sentence": "Recent reviews on supply chain analytics and digitalization emphasize that value creation depends on integrating firm-internal data with external ecosystem data to support predictive and prescriptive decisions under uncertainty ref [10], ref [7].",
+    "refNo": 7,
+    "title": "Digital supply chain transformation toward blockchain integration"
+  },
+  {
+    "sentence": "The value of this modality is illustrated by event-driven supply chain research that mines public information to identify disruptions and their operational consequences, including studies linking disruption events to firm performance and risk propagation in supply networks [1].",
+    "refNo": 1,
+    "title": "Understanding supply chain risk: a self-assessment workbook"
+  },
+  {
+    "sentence": "Recent industrial analytics research emphasizes that data streams demand online learning, rapid filtering, and scalable event processing rather than batch-only pipelines [2].",
+    "refNo": 2,
+    "title": "Managing Risk to Avoid Supply-Chain Breakdown"
+  },
+  {
+    "sentence": "Research on information processing in supply chains has long argued that better information sharing and integration improve coordination and responsiveness under uncertainty ref [13].",
+    "refNo": 13,
+    "title": "Information processing in supply chains: an organizational information processing theory perspective"
+  },
+  {
+    "sentence": "The broader Industry 4.0 literature emphasizes interoperability as a core design principle for cyber-physical production and logistics ecosystems ref [14], and this insight applies directly to supply chain risk analytics, where predictive performance is inseparable from the ability to connect diverse systems into a coherent, machine-readable risk representation.",
+    "refNo": 14,
+    "title": "Industry 4.0"
+  },
+  {
+    "sentence": "Sequence models such as long short-term memory networks are useful for capturing evolving order, shipment, and demand patterns, thereby reducing the need for manually specified temporal features ref [15].",
+    "refNo": 15,
+    "title": "Long Short-Term Memory"
+  },
+  {
+    "sentence": "Graph neural networks provide a principled way to learn node- and network-level representations from such interdependent structures ref [16].",
+    "refNo": 16,
+    "title": "Semi-Supervised Classification with Graph Convolutional Networks"
+  },
+  {
+    "sentence": "In parallel, cyber-physical production environments associated with Industry 4.0 increase the granularity of operational data and create feedback loops between sensing, prediction, and control, thereby improving the practical value of predictive risk models [1].",
+    "refNo": 1,
+    "title": "Understanding supply chain risk: a self-assessment workbook"
+  },
+  {
+    "sentence": "Reviews of blockchain in supply chains emphasize its role in visibility, traceability, and inter-organizational information sharing, while also noting scalability, standardization, and governance constraints that limit direct deployment [2].",
+    "refNo": 2,
+    "title": "Managing Risk to Avoid Supply-Chain Breakdown"
+  },
+  {
+    "sentence": "Privacy-preserving approaches such as federated learning can enable joint model development without centralizing raw data, although they introduce trade-offs in communication cost, statistical heterogeneity, and residual leakage risk ref [19].",
+    "refNo": 19,
+    "title": "Advances and Open Problems in Federated Learning"
+  },
+  {
+    "sentence": "For traceability-sensitive applications, blockchain-based architectures have been proposed to strengthen provenance and transparency, though scalability and interoperability remain open concerns ref [20].",
+    "refNo": 20,
+    "title": "When Blockchain Meets Supply Chain: A Systematic Literature Review on Current Development and Potential Applications"
+  },
+  {
+    "sentence": "More broadly, comparative evidence from applied machine learning shows that algorithm selection should be driven by data characteristics, imbalance, and error costs rather than by any single universally best model, a point emphasized in benchmark studies such as ref [21].",
+    "refNo": 21,
+    "title": "Do we Need Hundreds of Classifiers to Solve Real World Classification Problems?"
+  },
+  {
+    "sentence": "These considerations are consistent with the broader predictive analytics perspective in supply chain management summarized by ref [22].",
+    "refNo": 22,
+    "title": "Machine learning in supply chain management: an overview and applications"
+  },
+  {
+    "sentence": "For example, the isolation principle underlying Isolation Forest enables efficient anomaly scoring by exploiting the relative ease of isolating anomalous points in random partitioning trees ref [23].",
+    "refNo": 23,
+    "title": "Isolation Forest"
+  },
+  {
+    "sentence": "Autoencoder-based models learn compressed reconstructions of normal behavior and treat large reconstruction errors as indicators of abnormality; this paradigm has been surveyed extensively in the anomaly-detection literature ref [24].",
+    "refNo": 24,
+    "title": "Deep Learning for Anomaly Detection: A Survey"
+  },
+  {
+    "sentence": "In practice, recurrent and convolutional sequence models are useful for disruption forecasting, delay prediction, and failure-risk scoring when the underlying drivers evolve over time and exhibit complex lag structures ref [15].",
+    "refNo": 15,
+    "title": "Long Short-Term Memory"
+  },
+  {
+    "sentence": "For sequential risk prediction, long short-term memory (LSTM) networks are widely used because they address long-range dependencies and vanishing-gradient problems that limit conventional recurrent models ref [15].",
+    "refNo": 15,
+    "title": "Long Short-Term Memory"
+  },
+  {
+    "sentence": "More recently, transformer-based architectures have improved modeling of long horizons and heterogeneous covariates through attention mechanisms, making them attractive for early warning systems that integrate prices, weather, mobility, and textual event signals ref [25].",
+    "refNo": 25,
+    "title": "Attention Is All You Need"
+  },
+  {
+    "sentence": "Event-driven text mining has long been recognized as a scalable mechanism for detecting crisis-relevant developments in open-source data streams, providing a useful foundation for supply chain monitoring systems that depend on timely external intelligence ref [26].",
+    "refNo": 26,
+    "title": "Global Real-Time News Event Extraction for End-to-End Humanitarian Applications"
+  },
+  {
+    "sentence": "More broadly, transformer-based language models have shown strong performance across information extraction tasks that are directly relevant to operational risk sensing and alert generation ref [27].",
+    "refNo": 27,
+    "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding"
+  },
+  {
+    "sentence": "Graph convolutional approaches can exploit sparse supply network structure for node classification or link prediction, while attention-based variants allow the model to weight more influential partners or routes when estimating risk signals ref [16], ref [28].",
+    "refNo": 16,
+    "title": "Semi-Supervised Classification with Graph Convolutional Networks"
+  },
+  {
+    "sentence": "Graph convolutional approaches can exploit sparse supply network structure for node classification or link prediction, while attention-based variants allow the model to weight more influential partners or routes when estimating risk signals ref [16], ref [28].",
+    "refNo": 28,
+    "title": "Graph Attention Networks"
+  },
+  {
+    "sentence": "Foundational formulations such as Q-learning provide a model-free basis for learning risk-sensitive control policies from interaction data or simulation, even when transition dynamics are only partially known ref [29].",
+    "refNo": 29,
+    "title": "Q-learning"
+  },
+  {
+    "sentence": "A representative example is the application of deep reinforcement learning to multi-echelon inventory optimization, which demonstrates the ability of policy-learning methods to capture non-linear interdependencies and long-horizon trade-offs across network stages ref [30].",
+    "refNo": 30,
+    "title": "Deep Reinforcement Learning for Inventory Optimization"
+  },
+  {
+    "sentence": "Related work in operations research has shown how integrating prediction quality with downstream decision objectives can outperform pipelines that optimize only predictive accuracy, particularly when errors have asymmetric operational consequences ref [31].",
+    "refNo": 31,
+    "title": "From Predictive to Prescriptive Analytics"
+  },
+  {
+    "sentence": "This logic is consistent with simulation-based prescriptive analytics for complex systems, where learning models act as fast emulators inside search or policy evaluation loops ref [32].",
+    "refNo": 32,
+    "title": "Simulation Optimization: A Review of Algorithms and Applications"
+  },
+  {
+    "sentence": "Local attribution methods such as LIME and SHAP are widely used to approximate feature contributions for individual predictions, supporting analyst review and exception handling ref [33], ref [34].",
+    "refNo": 33,
+    "title": "“Why Should I Trust You?”: Explaining the Predictions of Any Classifier"
+  },
+  {
+    "sentence": "Local attribution methods such as LIME and SHAP are widely used to approximate feature contributions for individual predictions, supporting analyst review and exception handling ref [33], ref [34].",
+    "refNo": 34,
+    "title": "A Unified Approach to Interpreting Model Predictions"
+  },
+  {
+    "sentence": "The importance of network structure for disruption transmission was highlighted by the evidence on geographically concentrated supplier links after the Great East Japan Earthquake in ref [35].",
+    "refNo": 35,
+    "title": "The Ripple Effect: Trade Disruption and the Propagation of Shocks through Production Networks"
+  },
+  {
+    "sentence": "More broadly, data-driven supply network mapping and graph-based analytics support the identification of critical nodes, structurally important intermediaries, and common-cause vulnerabilities that are difficult to detect from dyadic buyer-supplier records alone, as discussed in ref [36].",
+    "refNo": 36,
+    "title": "Supply chain visibility: A review of the literature and implications for research"
+  },
+  {
+    "sentence": "For example, the DeepAR framework showed that autoregressive recurrent networks can produce probabilistic forecasts for large collections of related demand series, supporting risk-aware decisions through full predictive distributions rather than single expected values ref [37].",
+    "refNo": 37,
+    "title": "DeepAR: Probabilistic Forecasting with Autoregressive Recurrent Networks"
+  },
+  {
+    "sentence": "The Temporal Fusion Transformer was proposed for multi-horizon forecasting with variable selection and interpretable attention, making it attractive for demand sensing and scenario analysis in uncertain retail and operations environments ref [38].",
+    "refNo": 38,
+    "title": "Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting"
+  },
+  {
+    "sentence": "highlights how data-driven prognostics and health management methods support predictive maintenance, reducing unplanned downtime and the associated capacity and service risks in industrial systems ref [39].",
+    "refNo": 39,
+    "title": "A systematic literature review of machine learning methods applied to predictive maintenance"
+  },
+  {
+    "sentence": "At the planning level, Bertsimas and Kallus show how predictive models can be embedded into prescriptive decision-making, a logic directly relevant to inventory positioning and production planning under uncertainty because it links learned demand or failure patterns to downstream operational actions ref [31].",
+    "refNo": 31,
+    "title": "From Predictive to Prescriptive Analytics"
+  },
+  {
+    "sentence": "In parallel, reinforcement learning has been explored for adaptive production and inventory control in stochastic environments, with Powell emphasizing the broader methodological shift toward learning-based sequential decision policies for high-dimensional operations problems ref [40].",
+    "refNo": 40,
+    "title": "A Unified Framework for Optimization under Uncertainty"
+  },
+  {
+    "sentence": "For example, deep sequence models have been used to capture temporal and spatial dependencies in traffic conditions, improving short-term travel-time prediction over conventional approaches and thereby supporting more reliable transport planning ref [41].",
+    "refNo": 41,
+    "title": "DeepTransport: Learning Spatial-Temporal Dependency for Traffic Condition Forecasting"
+  },
+  {
+    "sentence": "Related work on citywide crowd-flow and mobility prediction similarly shows how external variables and network interactions can be integrated to identify emerging bottlenecks before they materialize into distribution failures ref [42].",
+    "refNo": 42,
+    "title": "Deep Spatio-Temporal Residual Networks for Citywide Crowd Flows Prediction"
+  },
+  {
+    "sentence": "For example, graph-based neural approaches have been proposed to model dependencies among firms and tiers so that risk signals can be propagated through supplier networks and used for anticipatory disruption prediction, improving visibility beyond direct suppliers ref [43].",
+    "refNo": 43,
+    "title": "Graph Neural Networks for Supply Chain Risk Propagation"
+  },
+  {
+    "sentence": "More broadly, machine learning for supply chain risk management has been reviewed as particularly valuable for anomaly detection, event classification, and dynamic warning generation under high-volume unstructured data, including text and social media streams ref [44].",
+    "refNo": 44,
+    "title": "Machine learning in supply chain management: a systematic literature review"
+  },
+  {
+    "sentence": "A foundational stream is credit-risk modeling, where ensemble learners such as random forests often improve default prediction relative to traditional scorecards, illustrating how nonlinear interactions among financial indicators can enhance early warning for procurement and supplier financing decisions ref [45].",
+    "refNo": 45,
+    "title": "Benchmarking state-of-the-art classification algorithms for credit scoring: An update of research"
+  },
+  {
+    "sentence": "Related evidence from the credit-scoring literature shows that machine-learning models can materially raise screening accuracy while preserving operational interpretability when appropriately constrained and validated ref [46].",
+    "refNo": 46,
+    "title": "Explainable artificial intelligence (XAI) for credit risk management"
+  },
+  {
+    "sentence": "For example, machine-learning analysis of spatial data has been used to detect commodity-driven tropical deforestation, creating actionable warning signals for firms exposed to agricultural and forestry supply chains ref [47].",
+    "refNo": 47,
+    "title": "Combining satellite data and machine learning to identify patterns in need of protection"
+  },
+  {
+    "sentence": "Complementing geospatial approaches, natural language processing and text classification can extract ESG-relevant events from unstructured disclosures and media, supporting automated controversy detection and adverse-event screening; benchmark evidence from financial text analytics shows that machine learning can outperform simpler rule-based approaches for identifying ESG information in corporate reporting ref [48].",
+    "refNo": 48,
+    "title": "A Review of Finance Applications of Natural Language Processing"
+  },
+  {
+    "sentence": "Ivanov and Dolgui argue that supply chain viability requires intertwined sensing, adaptation, and recovery capabilities, and they highlight analytics and digital twins as enablers of resilient redesign and continuity-oriented decision making under epidemic-scale disruptions ref [49].",
+    "refNo": 49,
+    "title": "Viability of intertwined supply networks: extending the supply chain resilience angles towards survivability. A position paper motivated by COVID-19 outbreak"
+  },
+  {
+    "sentence": "Related work on the ripple effect further shows that disruption propagation and recovery are strongly path dependent, motivating ML models that can update risk states online as disruption consequences unfold across tiers and over time ref [50].",
+    "refNo": 50,
+    "title": "Ripple effect and supply chain disruption management: new trends and research directions"
+  },
+  {
+    "sentence": "Because disruption events are typically rare, metrics such as precision, recall, F1, area under the precision–recall curve, and expected cost are often more informative than accuracy alone; ROC-based measures can remain useful but may overstate performance in highly skewed settings ref [51].",
+    "refNo": 51,
+    "title": "The Precision-Recall Plot Is More Informative than the ROC Plot When Evaluating Binary Classifiers on Imbalanced Datasets"
+  },
+  {
+    "sentence": "This emphasis is consistent with broader arguments that ML systems should be assessed in terms of task-specific value and downstream decision quality, not only statistical fit ref [52].",
+    "refNo": 52,
+    "title": "Hidden Technical Debt in Machine Learning Systems"
+  },
+  {
+    "sentence": "More broadly, the predictive modeling literature has shown that inappropriate validation protocols can substantially inflate performance estimates, especially when temporal dependence or information leakage is ignored ref [53].",
+    "refNo": 53,
+    "title": "Leakage in Data Mining: Formulation, Detection, and Avoidance"
+  },
+  {
+    "sentence": "Evidence from transportability and external-validity research in machine learning suggests that performance commonly degrades under distribution shift, making domain adaptation, reweighting, and periodic model recalibration central to credible deployment ref [54].",
+    "refNo": 54,
+    "title": "A Survey on Dataset Shift in Machine Learning"
+  },
+  {
+    "sentence": "Case-based work on predictive analytics in supply chains emphasizes that value materializes only when analytical outputs are aligned with specific decision processes, data ownership arrangements, and cross-functional governance structures ref [55].",
+    "refNo": 55,
+    "title": "Predictive analytics for supply chain management"
+  },
+  {
+    "sentence": "The digital supply chain literature also highlights the importance of visibility architectures and end-to-end information sharing as prerequisites for making ML-generated risk signals actionable across organizational boundaries ref [56].",
+    "refNo": 56,
+    "title": "The digital supply chain: a literature review and a research agenda"
+  },
+  {
+    "sentence": "This view is consistent with broader work on interpretable machine learning, which argues that human oversight is especially important when prediction errors are costly and when models are used under distributional uncertainty ref [57].",
+    "refNo": 57,
+    "title": "Why Should I Trust You?: Explaining the Predictions of Any Classifier"
+  },
+  {
+    "sentence": "Research on interactive machine learning emphasizes that performance can improve when expert corrections are incorporated during model use, not only during initial training ref [58].",
+    "refNo": 58,
+    "title": "Interactive Machine Learning: The Human Role in Machine Learning"
+  },
+  {
+    "sentence": "Research on analytics capability emphasizes that value arises not merely from possessing data or tools, but from complementary organizational processes, managerial skills, and a data-driven culture that supports evidence-based action ref [59].",
+    "refNo": 59,
+    "title": "Big data analytics and firm performance: Effects of dynamic capabilities"
+  },
+  {
+    "sentence": "Studies of big data analytics in supply chains show that performance gains are strongest when analytics investments are embedded in broader sensing, seizing, and reconfiguration capabilities rather than treated as isolated IT projects ref [60].",
+    "refNo": 60,
+    "title": "Supply chain analytics: an examination of the development of a research field and future directions"
+  },
+  {
+    "sentence": "More broadly, digital transformation in supply chains is often slowed by legacy IT architectures, uneven analytics maturity, and the absence of clear governance mechanisms for cross-functional data sharing and model ownership ref [61].",
+    "refNo": 61,
+    "title": "The impact of the digital transformation on business model innovation"
+  },
+  {
+    "sentence": "Research on analytics assimilation suggests that value is not created by technical deployment alone, but by embedding analytical outputs into routines, incentives, and decision rights; without such alignment, adoption remains superficial or symbolic ref [62].",
+    "refNo": 62,
+    "title": "The Impact of Business Analytics on Supply Chain Performance"
+  },
+  {
+    "sentence": "More broadly, opaque optimization and prediction pipelines can make it difficult to justify why a supplier was flagged or deprioritized, undermining procedural fairness and managerial accountability ref [63].",
+    "refNo": 63,
+    "title": "The Ethical Algorithm: The Science of Socially Aware Algorithm Design"
+  },
+  {
+    "sentence": "The GDPR has become especially influential because automated profiling and decision support may trigger obligations around transparency, contestability, and governance of high-impact processing, even when systems are formally advisory rather than fully autonomous ref [64].",
+    "refNo": 64,
+    "title": "The EU General Data Protection Regulation (GDPR)"
+  },
+  {
+    "sentence": "Recent work on disruption prediction from unstructured text illustrates the feasibility of near-real-time external risk sensing, but also highlights the need for robust event extraction, temporal updating, and decision coupling rather than isolated prediction modules [1].",
+    "refNo": 1,
+    "title": "Understanding supply chain risk: a self-assessment workbook"
+  },
+  {
+    "sentence": "Reinforcement learning and related sequential decision methods are especially promising because supply chain risk mitigation is inherently dynamic, with delayed rewards, interacting constraints, and exploration-exploitation trade-offs; however, most existing studies remain stylized and detached from operational uncertainty, safety constraints, and organizational override requirements [2].",
+    "refNo": 2,
+    "title": "Managing Risk to Avoid Supply-Chain Breakdown"
+  },
+  {
+    "sentence": "This agenda is consistent with evidence that supply networks contain substantial hidden vulnerabilities beyond first-tier visibility and that these blind spots materially shape disruption outcomes ref [67].",
+    "refNo": 67,
+    "title": "The Ripple Effect in Supply Chains: Trade-Offs or Opportunities?"
+  },
+  {
+    "sentence": "In particular, future work can build on network perspectives showing that the structure of supply networks conditions firms’ resilience and performance under disruption, suggesting that topological features should become first-class inputs to predictive and prescriptive models ref [68].",
+    "refNo": 68,
+    "title": "Supply network structure and firm performance: Evidence from the U.S. airline industry"
+  },
+  {
+    "sentence": "The broader causal inference literature provides a useful foundation for such work, particularly the emphasis on graphical models, interventions, and counterfactual queries for decision support ref [69].",
+    "refNo": 69,
+    "title": "Causal inference in statistics: An overview"
+  },
+  {
+    "sentence": "This orientation aligns with the potential-outcomes framework for estimating treatment effects from observational data ref [70], and with recent work on heterogeneous treatment estimation using representation learning, which can help identify which suppliers, lanes, or products benefit most from particular mitigation actions ref [71].",
+    "refNo": 70,
+    "title": "Causal Inference for Statistics, Social, and Biomedical Sciences: An Introduction"
+  },
+  {
+    "sentence": "This orientation aligns with the potential-outcomes framework for estimating treatment effects from observational data ref [70], and with recent work on heterogeneous treatment estimation using representation learning, which can help identify which suppliers, lanes, or products benefit most from particular mitigation actions ref [71].",
+    "refNo": 71,
+    "title": "Representation Learning for Counterfactual Inference"
+  },
+  {
+    "sentence": "Recent reviews of sustainable supply chain management emphasize that digital analytics can improve visibility and decision quality, but they also note a persistent gap between data-driven prediction and multi-objective decision design that jointly accounts for robustness, recovery, emissions, and social outcomes ref [72].",
+    "refNo": 72,
+    "title": "Supply chain sustainability in the era of digitalization: A systematic literature review"
+  },
+  {
+    "sentence": "The broader resilience literature also suggests that redundancy, flexibility, and collaboration can enhance disruption recovery but may create economic or environmental trade-offs if modeled too narrowly ref [73].",
+    "refNo": 73,
+    "title": "Building a more resilient supply chain"
+  },
+  {
+    "sentence": "Transformer-based language models have already shown that large-scale pretraining can produce transferable representations for diverse downstream tasks, suggesting strong potential for early warning, disruption summarization, supplier intelligence, and cross-lingual monitoring in globally distributed supply networks ref [25].",
+    "refNo": 25,
+    "title": "Attention Is All You Need"
+  },
+  {
+    "sentence": "Recent work on retrieval-augmented generation highlights one practical path toward grounding model outputs in verifiable external evidence, but rigorous evaluation, human oversight, and governance remain essential ref [74].",
+    "refNo": 74,
+    "title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks"
+  },
+  {
+    "sentence": "The foundational formulation of federated learning demonstrates how decentralized optimization can support such cross-organizational model building at scale ref [75].",
+    "refNo": 75,
+    "title": "Communication-Efficient Learning of Deep Networks from Decentralized Data"
+  },
+  {
+    "sentence": "Communication-efficient training and robustness to client drift are especially relevant in globally distributed supply networks with intermittent connectivity and asynchronous decision cycles ref [19].",
+    "refNo": 19,
+    "title": "Advances and Open Problems in Federated Learning"
+  },
+  {
+    "sentence": "Lessons from broader machine learning research show that dataset curation and benchmark design strongly shape what models learn and how progress is measured, making infrastructure development a substantive research priority rather than a purely technical one ref [76].",
+    "refNo": 76,
+    "title": "A Survey of Data Augmentation Approaches for NLP"
+  },
+  {
+    "sentence": "Established evidence from computational science demonstrates that reproducibility failures are widespread and systematic, underscoring the need for executable workflows, versioned data, and transparent reporting standards ref [77].",
+    "refNo": 77,
+    "title": "The case for open computer programs"
+  },
+  {
+    "sentence": "The broader supply-chain literature has already emphasized that efficiency-driven designs can undermine resilience and generate hidden systemic exposure ref [78].",
+    "refNo": 78,
+    "title": "Building a More Resilient U.S. Supply Chain"
+  },
+  {
+    "sentence": "This aligns with emerging principles for trustworthy AI that stress human agency, technical robustness, transparency, and societal well-being ref [79].",
+    "refNo": 79,
+    "title": "The Ethics of AI: The Case for a Human-Centric Approach"
+  }
+]

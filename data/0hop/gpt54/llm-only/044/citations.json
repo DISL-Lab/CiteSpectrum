@@ -1,0 +1,877 @@
+[
+  {
+    "sentence": "A broad overview of alloy classes, strengthening routes, and application drivers is provided in ref [1].",
+    "refNo": 1,
+    "title": "Magnesium Alloys as Structural Materials"
+  },
+  {
+    "sentence": "Recent alloy design strategies therefore emphasize texture control, precipitation engineering, and solute effects to overcome these intrinsic deformation constraints, as discussed in ref [2].",
+    "refNo": 2,
+    "title": "Development of high-strength magnesium alloys"
+  },
+  {
+    "sentence": "However, rapid corrosion and associated hydrogen evolution remain central barriers to broader use, requiring careful control of composition, impurity level, and microstructure ref [3].",
+    "refNo": 3,
+    "title": "Magnesium and its alloys as orthopedic biomaterials: A review"
+  },
+  {
+    "sentence": "This design freedom is particularly relevant for biomedical and weight-critical engineering applications, where magnesium’s combination of low elastic modulus, biodegradability, or high specific stiffness can be exploited more fully through tailored porous or complex geometries ref [4], ref [5].",
+    "refNo": 4,
+    "title": "Selective laser melting of magnesium and magnesium alloy powders: a review"
+  },
+  {
+    "sentence": "This design freedom is particularly relevant for biomedical and weight-critical engineering applications, where magnesium’s combination of low elastic modulus, biodegradability, or high specific stiffness can be exploited more fully through tailored porous or complex geometries ref [4], ref [5].",
+    "refNo": 5,
+    "title": "Additive manufacturing of biodegradable metals: Current research status and future perspectives"
+  },
+  {
+    "sentence": "In this sense, SLM is not merely a shaping technique, but also a microstructure-engineering tool that may enable improved strength, controlled degradation, and functional performance in alloys designed specifically for additive manufacturing ref [6], ref [7].",
+    "refNo": 6,
+    "title": "Microstructure and mechanical properties of selective laser melted Mg–9%Al powder"
+  },
+  {
+    "sentence": "In this sense, SLM is not merely a shaping technique, but also a microstructure-engineering tool that may enable improved strength, controlled degradation, and functional performance in alloys designed specifically for additive manufacturing ref [6], ref [7].",
+    "refNo": 7,
+    "title": "Selective laser melting of biodegradable metals: Current research status and future perspectives"
+  },
+  {
+    "sentence": "These effects narrow the usable process window and make defect suppression substantially more demanding than for less reactive structural alloys ref [8], ref [9].",
+    "refNo": 8,
+    "title": "Selective laser melting of magnesium alloys: A review"
+  },
+  {
+    "sentence": "These effects narrow the usable process window and make defect suppression substantially more demanding than for less reactive structural alloys ref [8], ref [9].",
+    "refNo": 9,
+    "title": "Additive manufacturing of magnesium alloys by selective laser melting: A review"
+  },
+  {
+    "sentence": "Because evaporation changes local composition and intensifies plume formation, process parameters cannot be transferred straightforwardly from aluminum, titanium, or steels; scan strategy, layer thickness, and shielding atmosphere must be tailored specifically for Mg-based systems ref [9], ref [10].",
+    "refNo": 9,
+    "title": "Additive manufacturing of magnesium alloys by selective laser melting: A review"
+  },
+  {
+    "sentence": "Because evaporation changes local composition and intensifies plume formation, process parameters cannot be transferred straightforwardly from aluminum, titanium, or steels; scan strategy, layer thickness, and shielding atmosphere must be tailored specifically for Mg-based systems ref [9], ref [10].",
+    "refNo": 10,
+    "title": "Selective laser melting of biodegradable metals"
+  },
+  {
+    "sentence": "Consequently, successful SLM of magnesium requires simultaneous control of powder quality, atmosphere purity, laser energy input, and thermal history rather than simple densification optimization alone ref [8], ref [10].",
+    "refNo": 8,
+    "title": "Selective laser melting of magnesium alloys: A review"
+  },
+  {
+    "sentence": "Consequently, successful SLM of magnesium requires simultaneous control of powder quality, atmosphere purity, laser energy input, and thermal history rather than simple densification optimization alone ref [8], ref [10].",
+    "refNo": 10,
+    "title": "Selective laser melting of biodegradable metals"
+  },
+  {
+    "sentence": "A recognizable early milestone was the demonstration that dense Mg-rich parts could be fabricated by selective laser melting and that process parameters strongly controlled porosity, grain refinement, and strength, as shown for Mg–9Al powders in one of the first detailed experimental studies in this area ref [6].",
+    "refNo": 6,
+    "title": "Microstructure and mechanical properties of selective laser melted Mg–9%Al powder"
+  },
+  {
+    "sentence": "Studies on WE43 established the feasibility of producing rare-earth-containing magnesium alloys with refined microstructures and competitive mechanical response by selective laser melting, while also clarifying the roles of energy density, evaporation losses, and cracking susceptibility ref [11].",
+    "refNo": 11,
+    "title": "Selective laser melting of magnesium alloy WE43: processing, microstructure and mechanical properties"
+  },
+  {
+    "sentence": "In parallel, biomedical interest accelerated the field because additive manufacturing offers patient-specific porous architectures for biodegradable implants, linking process science to corrosion and biocompatibility requirements ref [5].",
+    "refNo": 5,
+    "title": "Additive manufacturing of biodegradable metals: Current research status and future perspectives"
+  },
+  {
+    "sentence": "In contrast to broader overviews of additive manufacturing for biodegradable or lightweight metals, the present survey focuses specifically on the scientific issues that arise from magnesium’s high chemical reactivity, low boiling temperature, and narrow processing window under laser irradiation ref [8], ref [4].",
+    "refNo": 8,
+    "title": "Selective laser melting of magnesium alloys: A review"
+  },
+  {
+    "sentence": "In contrast to broader overviews of additive manufacturing for biodegradable or lightweight metals, the present survey focuses specifically on the scientific issues that arise from magnesium’s high chemical reactivity, low boiling temperature, and narrow processing window under laser irradiation ref [8], ref [4].",
+    "refNo": 4,
+    "title": "Selective laser melting of magnesium and magnesium alloy powders: a review"
+  },
+  {
+    "sentence": "Particular attention is given to how energy density, scan strategy, atmosphere control, and feedstock condition influence evaporation, spatter, porosity, cracking susceptibility, texture development, and anisotropy, as well as how these features govern tensile response, fatigue resistance, degradation behavior, and biocompatibility in service ref [12].",
+    "refNo": 12,
+    "title": "Laser additive manufacturing of magnesium alloys: a review"
+  },
+  {
+    "sentence": "The final sections synthesize unresolved scientific questions and translational barriers, highlighting priorities for future research such as in situ monitoring, composition design for printability, and standardized evaluation protocols for structural and biomedical uses ref [9].",
+    "refNo": 9,
+    "title": "Additive manufacturing of magnesium alloys by selective laser melting: A review"
+  },
+  {
+    "sentence": "Studies on SLM of magnesium alloys commonly attribute improved densification and reduced lack-of-fusion defects to powders with high sphericity, limited satellites, and a narrow size fraction suited to the recoating system and laser spot size ref [11], ref [6].",
+    "refNo": 11,
+    "title": "Selective laser melting of magnesium alloy WE43: processing, microstructure and mechanical properties"
+  },
+  {
+    "sentence": "Studies on SLM of magnesium alloys commonly attribute improved densification and reduced lack-of-fusion defects to powders with high sphericity, limited satellites, and a narrow size fraction suited to the recoating system and laser spot size ref [11], ref [6].",
+    "refNo": 6,
+    "title": "Microstructure and mechanical properties of selective laser melted Mg–9%Al powder"
+  },
+  {
+    "sentence": "Investigations on WE43 and related Mg alloys processed by SLM show that feedstock characteristics strongly interact with volumetric energy density to determine pore formation, evaporation behavior, and final microstructure ref [10].",
+    "refNo": 10,
+    "title": "Selective laser melting of biodegradable metals"
+  },
+  {
+    "sentence": "More critically, oxidation of fine particles increases the risk of spatter, smoke generation, and powder ignition during handling and processing, so surface condition becomes a central part of feedstock qualification rather than a secondary storage issue ref [13], ref [14].",
+    "refNo": 13,
+    "title": "On the ignition and combustion of magnesium powders"
+  },
+  {
+    "sentence": "More critically, oxidation of fine particles increases the risk of spatter, smoke generation, and powder ignition during handling and processing, so surface condition becomes a central part of feedstock qualification rather than a secondary storage issue ref [13], ref [14].",
+    "refNo": 14,
+    "title": "A review of magnesium oxidation"
+  },
+  {
+    "sentence": "For magnesium, this balance is especially delicate because oxidation kinetics are rapid and strongly accelerated by humidity; exposure to air can convert surface MgO toward hydroxylated products, which modifies flowability and can introduce hydrogen-bearing species relevant to porosity formation during melting ref [14], ref [15].",
+    "refNo": 14,
+    "title": "A review of magnesium oxidation"
+  },
+  {
+    "sentence": "For magnesium, this balance is especially delicate because oxidation kinetics are rapid and strongly accelerated by humidity; exposure to air can convert surface MgO toward hydroxylated products, which modifies flowability and can introduce hydrogen-bearing species relevant to porosity formation during melting ref [14], ref [15].",
+    "refNo": 15,
+    "title": "Magnesium corrosion: a framework for the mechanistic understanding of Mg corrosion"
+  },
+  {
+    "sentence": "Powder reuse must also be monitored through oxygen pickup, changes in particle surface chemistry, and the accumulation of partially oxidized fines, since these changes can progressively narrow the safe processing window and reduce part quality ref [13], ref [16].",
+    "refNo": 13,
+    "title": "On the ignition and combustion of magnesium powders"
+  },
+  {
+    "sentence": "Powder reuse must also be monitored through oxygen pickup, changes in particle surface chemistry, and the accumulation of partially oxidized fines, since these changes can progressively narrow the safe processing window and reduce part quality ref [13], ref [16].",
+    "refNo": 16,
+    "title": "Review on use of recycled powders in laser powder bed fusion additive manufacturing"
+  },
+  {
+    "sentence": "Studies on SLM of pure magnesium therefore commonly report a stronger sensitivity to energy density and shielding conditions than is typical for established Mg alloys ref [17].",
+    "refNo": 17,
+    "title": "Selective laser melting of pure magnesium"
+  },
+  {
+    "sentence": "In particular, WE43 has become a prominent benchmark feedstock in powder-bed fusion because it combines comparatively good printability with high as-built strength and a refined cellular or equiaxed microstructure under rapid solidification ref [11].",
+    "refNo": 11,
+    "title": "Selective laser melting of magnesium alloy WE43: processing, microstructure and mechanical properties"
+  },
+  {
+    "sentence": "Accordingly, powder selection is not simply a comparison between pure and alloyed Mg, but a balance among processability, defect tolerance, target microstructure, and service environment ref [3], ref [2].",
+    "refNo": 3,
+    "title": "Magnesium and its alloys as orthopedic biomaterials: A review"
+  },
+  {
+    "sentence": "Accordingly, powder selection is not simply a comparison between pure and alloyed Mg, but a balance among processability, defect tolerance, target microstructure, and service environment ref [3], ref [2].",
+    "refNo": 2,
+    "title": "Development of high-strength magnesium alloys"
+  },
+  {
+    "sentence": "In parallel, rare-earth-bearing systems such as WE43 emerged as especially attractive because their solidification behavior, precipitation response, and good biocompatibility made them suitable for both lightweight structural and biodegradable implant applications ref [6], ref [5].",
+    "refNo": 6,
+    "title": "Microstructure and mechanical properties of selective laser melted Mg–9%Al powder"
+  },
+  {
+    "sentence": "In parallel, rare-earth-bearing systems such as WE43 emerged as especially attractive because their solidification behavior, precipitation response, and good biocompatibility made them suitable for both lightweight structural and biodegradable implant applications ref [6], ref [5].",
+    "refNo": 5,
+    "title": "Additive manufacturing of biodegradable metals: Current research status and future perspectives"
+  },
+  {
+    "sentence": "By contrast, WE43 has become the de facto reference alloy for magnesium LPBF/SLM, with studies reporting fine cellular-to-equiaxed microstructures, high strength in the as-built state, and substantial sensitivity to process-induced evaporation of Mg and redistribution of rare-earth elements ref [11].",
+    "refNo": 11,
+    "title": "Selective laser melting of magnesium alloy WE43: processing, microstructure and mechanical properties"
+  },
+  {
+    "sentence": "Consequently, conventional AZ-, ZK-, and WE-type powders are valuable baseline feedstocks, yet they also motivate the alloy redesign strategies discussed in the following subsection ref [5], ref [1].",
+    "refNo": 5,
+    "title": "Additive manufacturing of biodegradable metals: Current research status and future perspectives"
+  },
+  {
+    "sentence": "Consequently, conventional AZ-, ZK-, and WE-type powders are valuable baseline feedstocks, yet they also motivate the alloy redesign strategies discussed in the following subsection ref [5], ref [1].",
+    "refNo": 1,
+    "title": "Magnesium Alloys as Structural Materials"
+  },
+  {
+    "sentence": "Rare-earth-containing systems such as WE-type alloys are attractive in this respect because they combine comparatively good laser processability with fine equiaxed microstructures and useful age-hardening potential after fabrication ref [11].",
+    "refNo": 11,
+    "title": "Selective laser melting of magnesium alloy WE43: processing, microstructure and mechanical properties"
+  },
+  {
+    "sentence": "More broadly, high-strength magnesium alloy development has shown that alloy chemistries based on rare earths, Zn, Ca, and Zr can simultaneously refine grains, stabilize precipitate populations, and improve elevated-temperature response; these principles are directly relevant when adapting compositions for the rapid solidification conditions of SLM ref [2].",
+    "refNo": 2,
+    "title": "Development of high-strength magnesium alloys"
+  },
+  {
+    "sentence": "Recent reviews of laser additive manufacturing of magnesium alloys therefore emphasize composition design as a process-enabling tool rather than a purely performance-driven choice: optimized chemistry can reduce evaporation-induced defects, improve powder-bed fusion consistency, and create microstructures better suited to post-build heat treatment and service requirements ref [12], ref [8].",
+    "refNo": 12,
+    "title": "Laser additive manufacturing of magnesium alloys: a review"
+  },
+  {
+    "sentence": "Recent reviews of laser additive manufacturing of magnesium alloys therefore emphasize composition design as a process-enabling tool rather than a purely performance-driven choice: optimized chemistry can reduce evaporation-induced defects, improve powder-bed fusion consistency, and create microstructures better suited to post-build heat treatment and service requirements ref [12], ref [8].",
+    "refNo": 8,
+    "title": "Selective laser melting of magnesium alloys: A review"
+  },
+  {
+    "sentence": "A broader LPBF literature has therefore emphasized that reused powders must be evaluated not only for particle size and flowability, but also for chemistry, morphology, and safety-related changes during storage and recirculation ref [16].",
+    "refNo": 16,
+    "title": "Review on use of recycled powders in laser powder bed fusion additive manufacturing"
+  },
+  {
+    "sentence": "Because magnesium oxidation kinetics are strongly affected by temperature, humidity, and defect structure in the surface film, even small deviations in powder handling practice can have disproportionate effects on process stability ref [14].",
+    "refNo": 14,
+    "title": "A review of magnesium oxidation"
+  },
+  {
+    "sentence": "This issue is particularly important for fine fractions, which possess higher specific surface area and are more susceptible to oxidation and ignition hazards ref [13].",
+    "refNo": 13,
+    "title": "On the ignition and combustion of magnesium powders"
+  },
+  {
+    "sentence": "At present, systematic reuse datasets for Mg alloy powders remain scarce, so qualification protocols are still largely inferred from general LPBF powder-management practice rather than from magnesium-specific lifecycle studies ref [16], ref [9].",
+    "refNo": 16,
+    "title": "Review on use of recycled powders in laser powder bed fusion additive manufacturing"
+  },
+  {
+    "sentence": "At present, systematic reuse datasets for Mg alloy powders remain scarce, so qualification protocols are still largely inferred from general LPBF powder-management practice rather than from magnesium-specific lifecycle studies ref [16], ref [9].",
+    "refNo": 9,
+    "title": "Additive manufacturing of magnesium alloys by selective laser melting: A review"
+  },
+  {
+    "sentence": "Relative to many engineering alloys, magnesium powders absorb a smaller fraction of incident near-infrared laser energy at room temperature, so efficient melting often depends on multiple scattering within the powder bed, local oxidation state, and the progressive increase in absorptivity as particles heat and begin to melt ref [17], ref [4].",
+    "refNo": 17,
+    "title": "Selective laser melting of pure magnesium"
+  },
+  {
+    "sentence": "Relative to many engineering alloys, magnesium powders absorb a smaller fraction of incident near-infrared laser energy at room temperature, so efficient melting often depends on multiple scattering within the powder bed, local oxidation state, and the progressive increase in absorptivity as particles heat and begin to melt ref [17], ref [4].",
+    "refNo": 4,
+    "title": "Selective laser melting of magnesium and magnesium alloy powders: a review"
+  },
+  {
+    "sentence": "Once melting initiates, the transition from discrete particles to a continuous liquid track markedly changes energy coupling; however, excessive local energy density can rapidly promote evaporation, recoil effects, and spatter because magnesium has a comparatively low latent barrier to vaporization ref [4], ref [12].",
+    "refNo": 4,
+    "title": "Selective laser melting of magnesium and magnesium alloy powders: a review"
+  },
+  {
+    "sentence": "Once melting initiates, the transition from discrete particles to a continuous liquid track markedly changes energy coupling; however, excessive local energy density can rapidly promote evaporation, recoil effects, and spatter because magnesium has a comparatively low latent barrier to vaporization ref [4], ref [12].",
+    "refNo": 12,
+    "title": "Laser additive manufacturing of magnesium alloys: a review"
+  },
+  {
+    "sentence": "For magnesium, robust processing therefore requires explicit attention to absorptivity evolution and powder-state effects, rather than assuming the laser-material coupling behavior established for denser, less volatile alloys ref [17], ref [10].",
+    "refNo": 17,
+    "title": "Selective laser melting of pure magnesium"
+  },
+  {
+    "sentence": "For magnesium, robust processing therefore requires explicit attention to absorptivity evolution and powder-state effects, rather than assuming the laser-material coupling behavior established for denser, less volatile alloys ref [17], ref [10].",
+    "refNo": 10,
+    "title": "Selective laser melting of biodegradable metals"
+  },
+  {
+    "sentence": "As a result, magnesium processing often operates close to the boundary between insufficient fusion and excessive vaporization, with melt track continuity strongly affected by wetting, capillarity, and transient denudation of surrounding powder ref [17], ref [12].",
+    "refNo": 17,
+    "title": "Selective laser melting of pure magnesium"
+  },
+  {
+    "sentence": "As a result, magnesium processing often operates close to the boundary between insufficient fusion and excessive vaporization, with melt track continuity strongly affected by wetting, capillarity, and transient denudation of surrounding powder ref [17], ref [12].",
+    "refNo": 12,
+    "title": "Laser additive manufacturing of magnesium alloys: a review"
+  },
+  {
+    "sentence": "Numerical and experimental studies on LPBF melt pools have shown that conduction-mode melting, Marangoni-driven flow, and recoil-pressure-induced depression can coexist over narrow parameter ranges, helping explain the abrupt transition from stable tracks to balling, lack-of-fusion, or keyhole-related porosity when process conditions shift slightly ref [12], ref [18].",
+    "refNo": 12,
+    "title": "Laser additive manufacturing of magnesium alloys: a review"
+  },
+  {
+    "sentence": "Numerical and experimental studies on LPBF melt pools have shown that conduction-mode melting, Marangoni-driven flow, and recoil-pressure-induced depression can coexist over narrow parameter ranges, helping explain the abrupt transition from stable tracks to balling, lack-of-fusion, or keyhole-related porosity when process conditions shift slightly ref [12], ref [18].",
+    "refNo": 18,
+    "title": "Metal vaporization mechanism in laser powder bed fusion additive manufacturing"
+  },
+  {
+    "sentence": "Short scan vectors, moderated overlap, and parameter sets that suppress excessive peak temperatures are generally favored to stabilize the melt pool while preserving sufficient remelting for metallurgical bonding ref [17], ref [9].",
+    "refNo": 17,
+    "title": "Selective laser melting of pure magnesium"
+  },
+  {
+    "sentence": "Short scan vectors, moderated overlap, and parameter sets that suppress excessive peak temperatures are generally favored to stabilize the melt pool while preserving sufficient remelting for metallurgical bonding ref [17], ref [9].",
+    "refNo": 9,
+    "title": "Additive manufacturing of magnesium alloys by selective laser melting: A review"
+  },
+  {
+    "sentence": "Experimental studies on pure Mg and WE43 consistently show that dense builds are obtained only within a restricted combination of moderate power and sufficiently high but not excessive scanning velocity, rather than by maximizing nominal energy input alone ref [17], ref [11].",
+    "refNo": 17,
+    "title": "Selective laser melting of pure magnesium"
+  },
+  {
+    "sentence": "Experimental studies on pure Mg and WE43 consistently show that dense builds are obtained only within a restricted combination of moderate power and sufficiently high but not excessive scanning velocity, rather than by maximizing nominal energy input alone ref [17], ref [11].",
+    "refNo": 11,
+    "title": "Selective laser melting of magnesium alloy WE43: processing, microstructure and mechanical properties"
+  },
+  {
+    "sentence": "Reviews of SLM processing of Mg alloys emphasize that alloy-specific absorptivity, powder morphology, and vaporization behavior shift the window substantially between compositions such as pure Mg, AZ-series alloys, and WE43 ref [4], ref [8].",
+    "refNo": 4,
+    "title": "Selective laser melting of magnesium and magnesium alloy powders: a review"
+  },
+  {
+    "sentence": "Reviews of SLM processing of Mg alloys emphasize that alloy-specific absorptivity, powder morphology, and vaporization behavior shift the window substantially between compositions such as pure Mg, AZ-series alloys, and WE43 ref [4], ref [8].",
+    "refNo": 8,
+    "title": "Selective laser melting of magnesium alloys: A review"
+  },
+  {
+    "sentence": "In practice, argon is generally preferred over nitrogen because it minimizes chemical reactivity and helps suppress exothermic oxidation of entrained spatter or condensate; low residual oxygen and moisture are likewise essential to reduce oxide-film growth on powder particles and melt tracks, which otherwise degrades wetting and promotes lack-of-fusion defects ref [14], ref [16].",
+    "refNo": 14,
+    "title": "A review of magnesium oxidation"
+  },
+  {
+    "sentence": "In practice, argon is generally preferred over nitrogen because it minimizes chemical reactivity and helps suppress exothermic oxidation of entrained spatter or condensate; low residual oxygen and moisture are likewise essential to reduce oxide-film growth on powder particles and melt tracks, which otherwise degrades wetting and promotes lack-of-fusion defects ref [14], ref [16].",
+    "refNo": 16,
+    "title": "Review on use of recycled powders in laser powder bed fusion additive manufacturing"
+  },
+  {
+    "sentence": "Magnesium powder is combustible, and the hazard increases strongly with decreasing particle size and increasing surface area; powder dispersion, filter loading, and post-build powder recovery therefore require strict ignition-source control and dedicated fire-response protocols, since conventional extinguishing approaches are often ineffective for burning Mg ref [13].",
+    "refNo": 13,
+    "title": "On the ignition and combustion of magnesium powders"
+  },
+  {
+    "sentence": "For magnesium alloys, this links atmosphere management directly to powder recyclability, defect suppression, and reproducible part quality, reinforcing the need for tightly controlled inerting, sealed storage, and traceable powder reuse protocols ref [16], ref [12].",
+    "refNo": 16,
+    "title": "Review on use of recycled powders in laser powder bed fusion additive manufacturing"
+  },
+  {
+    "sentence": "For magnesium alloys, this links atmosphere management directly to powder recyclability, defect suppression, and reproducible part quality, reinforcing the need for tightly controlled inerting, sealed storage, and traceable powder reuse protocols ref [16], ref [12].",
+    "refNo": 12,
+    "title": "Laser additive manufacturing of magnesium alloys: a review"
+  },
+  {
+    "sentence": "At the opposite extreme, excessive energy input intensifies evaporation and recoil pressure, destabilizing the melt pool and encouraging keyhole-type porosity, spatter generation, and surface denudation; these mechanisms have been reported in both pure Mg and Mg alloy builds ref [17], ref [6].",
+    "refNo": 17,
+    "title": "Selective laser melting of pure magnesium"
+  },
+  {
+    "sentence": "At the opposite extreme, excessive energy input intensifies evaporation and recoil pressure, destabilizing the melt pool and encouraging keyhole-type porosity, spatter generation, and surface denudation; these mechanisms have been reported in both pure Mg and Mg alloy builds ref [17], ref [6].",
+    "refNo": 6,
+    "title": "Microstructure and mechanical properties of selective laser melted Mg–9%Al powder"
+  },
+  {
+    "sentence": "In WE43, for example, processing-dependent porosity and cracking have been linked to scan strategy and energy density through their control of melt pool continuity and residual stress accumulation ref [11].",
+    "refNo": 11,
+    "title": "Selective laser melting of magnesium alloy WE43: processing, microstructure and mechanical properties"
+  },
+  {
+    "sentence": "More broadly, reviews of magnesium powder-bed fusion emphasize that porosity, cracking, oxidation-related inclusions, and dimensional distortion are strongly coupled outcomes of melt pool instability and atmosphere sensitivity rather than isolated defects ref [4].",
+    "refNo": 4,
+    "title": "Selective laser melting of magnesium and magnesium alloy powders: a review"
+  },
+  {
+    "sentence": "These signatures can be correlated with lack-of-fusion, keyholing, and balling phenomena, enabling anomaly detection during the build rather than only after ex situ inspection ref [19], ref [20].",
+    "refNo": 19,
+    "title": "In-situ monitoring of laser additive manufacturing using optical techniques: A review"
+  },
+  {
+    "sentence": "These signatures can be correlated with lack-of-fusion, keyholing, and balling phenomena, enabling anomaly detection during the build rather than only after ex situ inspection ref [19], ref [20].",
+    "refNo": 20,
+    "title": "Melt pool monitoring and analysis for laser powder bed fusion: A review"
+  },
+  {
+    "sentence": "Melt-pool monitoring has already been shown in metal additive manufacturing to provide statistically meaningful indicators of porosity formation and track instability, supporting closed-loop or supervisory control architectures ref [20], ref [21].",
+    "refNo": 20,
+    "title": "Melt pool monitoring and analysis for laser powder bed fusion: A review"
+  },
+  {
+    "sentence": "Melt-pool monitoring has already been shown in metal additive manufacturing to provide statistically meaningful indicators of porosity formation and track instability, supporting closed-loop or supervisory control architectures ref [20], ref [21].",
+    "refNo": 21,
+    "title": "Monitoring and control of laser-based additive manufacturing using optical sensors"
+  },
+  {
+    "sentence": "Broader metal AM reviews emphasize that integrating monitoring, defect prediction, and feedback control is becoming central to qualification of safety-critical builds, and this need is even more acute for reactive alloys such as magnesium ref [21], ref [22].",
+    "refNo": 21,
+    "title": "Monitoring and control of laser-based additive manufacturing using optical sensors"
+  },
+  {
+    "sentence": "Broader metal AM reviews emphasize that integrating monitoring, defect prediction, and feedback control is becoming central to qualification of safety-critical builds, and this need is even more acute for reactive alloys such as magnesium ref [21], ref [22].",
+    "refNo": 22,
+    "title": "Metal additive manufacturing process monitoring and control: A review"
+  },
+  {
+    "sentence": "Accordingly, most simulations adapt the broader laser powder bed fusion framework—transient heat transfer, melt-pool fluid flow, and phase-change formulations—to predict track geometry, cooling rate, and defect susceptibility under magnesium-specific thermophysical constraints ref [12], ref [23].",
+    "refNo": 12,
+    "title": "Laser additive manufacturing of magnesium alloys: a review"
+  },
+  {
+    "sentence": "Accordingly, most simulations adapt the broader laser powder bed fusion framework—transient heat transfer, melt-pool fluid flow, and phase-change formulations—to predict track geometry, cooling rate, and defect susceptibility under magnesium-specific thermophysical constraints ref [12], ref [23].",
+    "refNo": 23,
+    "title": "Modeling of additive manufacturing processes for metals: challenges and opportunities"
+  },
+  {
+    "sentence": "Reviews on metal AM modeling emphasize that incorporating temperature-dependent properties, latent heat, free-surface effects, and vaporization is essential for physically meaningful predictions, although these features are still simplified in many practical LPBF simulations ref [23], ref [18].",
+    "refNo": 23,
+    "title": "Modeling of additive manufacturing processes for metals: challenges and opportunities"
+  },
+  {
+    "sentence": "Reviews on metal AM modeling emphasize that incorporating temperature-dependent properties, latent heat, free-surface effects, and vaporization is essential for physically meaningful predictions, although these features are still simplified in many practical LPBF simulations ref [23], ref [18].",
+    "refNo": 18,
+    "title": "Metal vaporization mechanism in laser powder bed fusion additive manufacturing"
+  },
+  {
+    "sentence": "Future progress will depend on coupling multi-scale models with calibrated evaporation/oxidation sub-models and process-monitoring data, so that simulation can move from qualitative process interpretation toward robust process-window optimization for magnesium powders ref [12], ref [18], ref [24].",
+    "refNo": 12,
+    "title": "Laser additive manufacturing of magnesium alloys: a review"
+  },
+  {
+    "sentence": "Future progress will depend on coupling multi-scale models with calibrated evaporation/oxidation sub-models and process-monitoring data, so that simulation can move from qualitative process interpretation toward robust process-window optimization for magnesium powders ref [12], ref [18], ref [24].",
+    "refNo": 18,
+    "title": "Metal vaporization mechanism in laser powder bed fusion additive manufacturing"
+  },
+  {
+    "sentence": "Future progress will depend on coupling multi-scale models with calibrated evaporation/oxidation sub-models and process-monitoring data, so that simulation can move from qualitative process interpretation toward robust process-window optimization for magnesium powders ref [12], ref [18], ref [24].",
+    "refNo": 24,
+    "title": "Residual stress in metal additive manufacturing"
+  },
+  {
+    "sentence": "In early studies on SLM of pure Mg and Mg-based alloys, the resulting microstructures were consistently much finer than cast counterparts, with submicron to few-micron structural features attributed to the high cooling rates inherent to layerwise laser processing ref [17], ref [6].",
+    "refNo": 17,
+    "title": "Selective laser melting of pure magnesium"
+  },
+  {
+    "sentence": "In early studies on SLM of pure Mg and Mg-based alloys, the resulting microstructures were consistently much finer than cast counterparts, with submicron to few-micron structural features attributed to the high cooling rates inherent to layerwise laser processing ref [17], ref [6].",
+    "refNo": 6,
+    "title": "Microstructure and mechanical properties of selective laser melted Mg–9%Al powder"
+  },
+  {
+    "sentence": "In SLM-built WE43, for example, the rapid thermal cycle was associated with a fine α-Mg matrix and a markedly modified distribution of rare-earth-containing secondary phases relative to conventionally processed material, indicating incomplete equilibrium phase selection during solidification and repeated reheating ref [11].",
+    "refNo": 11,
+    "title": "Selective laser melting of magnesium alloy WE43: processing, microstructure and mechanical properties"
+  },
+  {
+    "sentence": "Comparable behavior has been reported in SLM Mg-Al alloys, where rapid solidification produced refined microstructures and altered β-phase development compared with slower-cooled routes ref [25].",
+    "refNo": 25,
+    "title": "Selective laser melting of AZ91D magnesium alloy"
+  },
+  {
+    "sentence": "Studies on LPBF/SLM WE43 have shown that rapid solidification can suppress coarse cast-like grains and generate a refined microstructure with clear melt-pool-scale heterogeneity, while subsequent thermal cycling modifies the as-solidified grain network and local boundary character ref [11], ref [26].",
+    "refNo": 11,
+    "title": "Selective laser melting of magnesium alloy WE43: processing, microstructure and mechanical properties"
+  },
+  {
+    "sentence": "Studies on LPBF/SLM WE43 have shown that rapid solidification can suppress coarse cast-like grains and generate a refined microstructure with clear melt-pool-scale heterogeneity, while subsequent thermal cycling modifies the as-solidified grain network and local boundary character ref [11], ref [26].",
+    "refNo": 26,
+    "title": "Microstructure, texture and mechanical properties of magnesium processed by high pressure torsion"
+  },
+  {
+    "sentence": "Texture control through path planning is therefore not merely a microstructural issue but a route to mitigating the intrinsic plastic anisotropy of hcp Mg alloys, consistent with broader understanding of texture-property relations in magnesium ref [27], ref [28].",
+    "refNo": 27,
+    "title": "Texture and anisotropy in magnesium alloys"
+  },
+  {
+    "sentence": "Texture control through path planning is therefore not merely a microstructural issue but a route to mitigating the intrinsic plastic anisotropy of hcp Mg alloys, consistent with broader understanding of texture-property relations in magnesium ref [27], ref [28].",
+    "refNo": 28,
+    "title": "The effect of texture on the mechanical properties of magnesium alloy AZ31"
+  },
+  {
+    "sentence": "For Al-containing compositions, rapid solidification can refine or partially suppress the coarse Mg17Al12 network typical of cast material, whereas subsequent layer-by-layer remelting may re-precipitate fine interdendritic particles and metastable intermetallic distributions that differ markedly from equilibrium solidification products ref [6], ref [25].",
+    "refNo": 6,
+    "title": "Microstructure and mechanical properties of selective laser melted Mg–9%Al powder"
+  },
+  {
+    "sentence": "For Al-containing compositions, rapid solidification can refine or partially suppress the coarse Mg17Al12 network typical of cast material, whereas subsequent layer-by-layer remelting may re-precipitate fine interdendritic particles and metastable intermetallic distributions that differ markedly from equilibrium solidification products ref [6], ref [25].",
+    "refNo": 25,
+    "title": "Selective laser melting of AZ91D magnesium alloy"
+  },
+  {
+    "sentence": "Post-build heat treatment therefore becomes a key lever for transforming the as-built segregated structure into a more stable precipitate population through dissolution, redistribution, and re-precipitation of strengthening phases ref [11], ref [2].",
+    "refNo": 11,
+    "title": "Selective laser melting of magnesium alloy WE43: processing, microstructure and mechanical properties"
+  },
+  {
+    "sentence": "Post-build heat treatment therefore becomes a key lever for transforming the as-built segregated structure into a more stable precipitate population through dissolution, redistribution, and re-precipitation of strengthening phases ref [11], ref [2].",
+    "refNo": 2,
+    "title": "Development of high-strength magnesium alloys"
+  },
+  {
+    "sentence": "These changes are amplified at high volumetric energy density, where keyhole-like depression, recoil pressure, and spatter ejection increase mass loss and compositional instability ref [18], ref [16].",
+    "refNo": 18,
+    "title": "Metal vaporization mechanism in laser powder bed fusion additive manufacturing"
+  },
+  {
+    "sentence": "These changes are amplified at high volumetric energy density, where keyhole-like depression, recoil pressure, and spatter ejection increase mass loss and compositional instability ref [18], ref [16].",
+    "refNo": 16,
+    "title": "Review on use of recycled powders in laser powder bed fusion additive manufacturing"
+  },
+  {
+    "sentence": "Process maps developed for magnesium LPBF therefore commonly emphasize a narrow energy-input window that balances densification against elemental burn-off and oxidation-related mass loss ref [10], ref [12].",
+    "refNo": 10,
+    "title": "Selective laser melting of biodegradable metals"
+  },
+  {
+    "sentence": "Process maps developed for magnesium LPBF therefore commonly emphasize a narrow energy-input window that balances densification against elemental burn-off and oxidation-related mass loss ref [10], ref [12].",
+    "refNo": 12,
+    "title": "Laser additive manufacturing of magnesium alloys: a review"
+  },
+  {
+    "sentence": "Quantitative composition verification of both built parts and recycled powder is consequently essential when interpreting phase constitution and comparing nominally identical SLM-processed magnesium alloys ref [16], ref [12].",
+    "refNo": 16,
+    "title": "Review on use of recycled powders in laser powder bed fusion additive manufacturing"
+  },
+  {
+    "sentence": "Quantitative composition verification of both built parts and recycled powder is consequently essential when interpreting phase constitution and comparing nominally identical SLM-processed magnesium alloys ref [16], ref [12].",
+    "refNo": 12,
+    "title": "Laser additive manufacturing of magnesium alloys: a review"
+  },
+  {
+    "sentence": "More broadly, residual-stress development in metal additive manufacturing is strongly coupled to scan strategy, part geometry, and restraint conditions, and can therefore vary substantially even when porosity appears low ref [24].",
+    "refNo": 24,
+    "title": "Residual stress in metal additive manufacturing"
+  },
+  {
+    "sentence": "Process optimization that reduces energy-density extremes and stabilizes melt-pool geometry is therefore important not only for densification but also for controlling stress-defect interactions ref [17], ref [10].",
+    "refNo": 17,
+    "title": "Selective laser melting of pure magnesium"
+  },
+  {
+    "sentence": "Process optimization that reduces energy-density extremes and stabilizes melt-pool geometry is therefore important not only for densification but also for controlling stress-defect interactions ref [17], ref [10].",
+    "refNo": 10,
+    "title": "Selective laser melting of biodegradable metals"
+  },
+  {
+    "sentence": "Integrated experimental and modeling studies in additive manufacturing increasingly emphasize this process-structure-stress coupling as a prerequisite for reliable qualification of lightweight Mg components ref [24], ref [23].",
+    "refNo": 24,
+    "title": "Residual stress in metal additive manufacturing"
+  },
+  {
+    "sentence": "Integrated experimental and modeling studies in additive manufacturing increasingly emphasize this process-structure-stress coupling as a prerequisite for reliable qualification of lightweight Mg components ref [24], ref [23].",
+    "refNo": 23,
+    "title": "Modeling of additive manufacturing processes for metals: challenges and opportunities"
+  },
+  {
+    "sentence": "More broadly, heat treatment in Mg alloys is known to alter precipitation state, grain boundary chemistry, and texture-dependent deformation response, so its effects in SLM material are often amplified by the initially refined and metastable microstructure ref [2], ref [1].",
+    "refNo": 2,
+    "title": "Development of high-strength magnesium alloys"
+  },
+  {
+    "sentence": "More broadly, heat treatment in Mg alloys is known to alter precipitation state, grain boundary chemistry, and texture-dependent deformation response, so its effects in SLM material are often amplified by the initially refined and metastable microstructure ref [2], ref [1].",
+    "refNo": 1,
+    "title": "Magnesium Alloys as Structural Materials"
+  },
+  {
+    "sentence": "Studies on additively manufactured WE43 indicate that subsequent thermal treatment can modify grain morphology and second-phase distribution, with implications for both strength and corrosion behavior; in parallel, deformation-based post-processing routes such as hot isostatic pressing or severe plastic deformation can further close internal porosity and reconfigure texture through recrystallization-assisted grain refinement ref [11], ref [26].",
+    "refNo": 11,
+    "title": "Selective laser melting of magnesium alloy WE43: processing, microstructure and mechanical properties"
+  },
+  {
+    "sentence": "Studies on additively manufactured WE43 indicate that subsequent thermal treatment can modify grain morphology and second-phase distribution, with implications for both strength and corrosion behavior; in parallel, deformation-based post-processing routes such as hot isostatic pressing or severe plastic deformation can further close internal porosity and reconfigure texture through recrystallization-assisted grain refinement ref [11], ref [26].",
+    "refNo": 26,
+    "title": "Microstructure, texture and mechanical properties of magnesium processed by high pressure torsion"
+  },
+  {
+    "sentence": "While moderate post-processing may stabilize the microstructure and improve ductility by relieving residual stress concentrations and reducing melt-pool-scale heterogeneity, excessive thermal exposure can coarsen strengthening precipitates, reduce the benefit of rapid-solidification grain refinement, and diminish the distinct nonequilibrium features that initially differentiate SLM magnesium from conventionally processed counterparts ref [2], ref [11].",
+    "refNo": 2,
+    "title": "Development of high-strength magnesium alloys"
+  },
+  {
+    "sentence": "While moderate post-processing may stabilize the microstructure and improve ductility by relieving residual stress concentrations and reducing melt-pool-scale heterogeneity, excessive thermal exposure can coarsen strengthening precipitates, reduce the benefit of rapid-solidification grain refinement, and diminish the distinct nonequilibrium features that initially differentiate SLM magnesium from conventionally processed counterparts ref [2], ref [11].",
+    "refNo": 11,
+    "title": "Selective laser melting of magnesium alloy WE43: processing, microstructure and mechanical properties"
+  },
+  {
+    "sentence": "Reviews of laser processing of Mg alloys consistently emphasize that near-full densification is achievable only within a tightly controlled balance among laser power, scan speed, hatch spacing, layer thickness, and shielding conditions ref [12], ref [4].",
+    "refNo": 12,
+    "title": "Laser additive manufacturing of magnesium alloys: a review"
+  },
+  {
+    "sentence": "Reviews of laser processing of Mg alloys consistently emphasize that near-full densification is achievable only within a tightly controlled balance among laser power, scan speed, hatch spacing, layer thickness, and shielding conditions ref [12], ref [4].",
+    "refNo": 4,
+    "title": "Selective laser melting of magnesium and magnesium alloy powders: a review"
+  },
+  {
+    "sentence": "Process optimization therefore requires not only densification-oriented parameter selection but also attention to scan strategy and powder characteristics, since particle size distribution and flowability affect layer uniformity and the reproducibility of part geometry ref [4], ref [16].",
+    "refNo": 4,
+    "title": "Selective laser melting of magnesium and magnesium alloy powders: a review"
+  },
+  {
+    "sentence": "Process optimization therefore requires not only densification-oriented parameter selection but also attention to scan strategy and powder characteristics, since particle size distribution and flowability affect layer uniformity and the reproducibility of part geometry ref [4], ref [16].",
+    "refNo": 16,
+    "title": "Review on use of recycled powders in laser powder bed fusion additive manufacturing"
+  },
+  {
+    "sentence": "Because surface-connected defects are especially detrimental in biodegradable or load-bearing Mg components, post-processing such as machining, polishing, or chemical treatment is often necessary to decouple the beneficial bulk microstructure from the unfavorable as-built surface state ref [12], ref [5].",
+    "refNo": 12,
+    "title": "Laser additive manufacturing of magnesium alloys: a review"
+  },
+  {
+    "sentence": "Because surface-connected defects are especially detrimental in biodegradable or load-bearing Mg components, post-processing such as machining, polishing, or chemical treatment is often necessary to decouple the beneficial bulk microstructure from the unfavorable as-built surface state ref [12], ref [5].",
+    "refNo": 5,
+    "title": "Additive manufacturing of biodegradable metals: Current research status and future perspectives"
+  },
+  {
+    "sentence": "In WE43 processed by selective laser melting, high strengths were associated with substantial grain refinement and rare-earth-containing phases formed under rapid cooling, although elongation deteriorated when process-induced defects persisted ref [11].",
+    "refNo": 11,
+    "title": "Selective laser melting of magnesium alloy WE43: processing, microstructure and mechanical properties"
+  },
+  {
+    "sentence": "Similar behavior has been reported for SLM Mg–9Al, where refined microstructures increased hardness and strength, but tensile scatter reflected porosity and incomplete fusion ref [6].",
+    "refNo": 6,
+    "title": "Microstructure and mechanical properties of selective laser melted Mg–9%Al powder"
+  },
+  {
+    "sentence": "For pure Mg produced by SLM, the best mechanical performance has similarly been achieved only within a narrow processing window that suppresses balling and porosity; outside this window, strength and especially elongation decline rapidly despite fine grain size ref [17].",
+    "refNo": 17,
+    "title": "Selective laser melting of pure magnesium"
+  },
+  {
+    "sentence": "This general defect-controlled framework has been emphasized in broader analyses of additive-manufacturing fatigue and residual stress, and is directly relevant to magnesium because of its limited room-temperature slip and pronounced notch sensitivity under cyclic loading ref [29], ref [24].",
+    "refNo": 29,
+    "title": "Fatigue performance of additive manufactured metallic parts"
+  },
+  {
+    "sentence": "This general defect-controlled framework has been emphasized in broader analyses of additive-manufacturing fatigue and residual stress, and is directly relevant to magnesium because of its limited room-temperature slip and pronounced notch sensitivity under cyclic loading ref [29], ref [24].",
+    "refNo": 24,
+    "title": "Residual stress in metal additive manufacturing"
+  },
+  {
+    "sentence": "Reviews focused on magnesium additive manufacturing have accordingly identified fatigue data as a major knowledge gap and highlighted hot isostatic pressing, machining/polishing, and stress-relief treatments as probable routes to improve endurance performance ref [12], ref [9].",
+    "refNo": 12,
+    "title": "Laser additive manufacturing of magnesium alloys: a review"
+  },
+  {
+    "sentence": "Reviews focused on magnesium additive manufacturing have accordingly identified fatigue data as a major knowledge gap and highlighted hot isostatic pressing, machining/polishing, and stress-relief treatments as probable routes to improve endurance performance ref [12], ref [9].",
+    "refNo": 9,
+    "title": "Additive manufacturing of magnesium alloys by selective laser melting: A review"
+  },
+  {
+    "sentence": "In magnesium alloys generally, tribological response is governed by the competition between plastic smearing of the soft matrix, delamination, oxidative wear, and the load-bearing role of intermetallic phases; thus, SLM-induced grain refinement, solute supersaturation, and defect populations are all expected to shift wear behavior by modifying hardness, oxide stability, and crack-initiation susceptibility under sliding ref [1], ref [2].",
+    "refNo": 1,
+    "title": "Magnesium Alloys as Structural Materials"
+  },
+  {
+    "sentence": "In magnesium alloys generally, tribological response is governed by the competition between plastic smearing of the soft matrix, delamination, oxidative wear, and the load-bearing role of intermetallic phases; thus, SLM-induced grain refinement, solute supersaturation, and defect populations are all expected to shift wear behavior by modifying hardness, oxide stability, and crack-initiation susceptibility under sliding ref [1], ref [2].",
+    "refNo": 2,
+    "title": "Development of high-strength magnesium alloys"
+  },
+  {
+    "sentence": "Reviews of magnesium biomaterials and corrosion consistently note that protective surface layers on Mg are unstable in chloride-containing solutions; under sliding contact, this instability can intensify both wear debris generation and localized degradation, making tribological assessment essential for realistic service evaluation of SLM Mg implants ref [15], ref [3].",
+    "refNo": 15,
+    "title": "Magnesium corrosion: a framework for the mechanistic understanding of Mg corrosion"
+  },
+  {
+    "sentence": "Reviews of magnesium biomaterials and corrosion consistently note that protective surface layers on Mg are unstable in chloride-containing solutions; under sliding contact, this instability can intensify both wear debris generation and localized degradation, making tribological assessment essential for realistic service evaluation of SLM Mg implants ref [15], ref [3].",
+    "refNo": 3,
+    "title": "Magnesium and its alloys as orthopedic biomaterials: A review"
+  },
+  {
+    "sentence": "Studies on additively manufactured biodegradable metals have therefore emphasized that corrosion performance cannot be inferred from density alone, but must be linked to pore morphology, surface condition, and post-processing history ref [10], ref [5].",
+    "refNo": 10,
+    "title": "Selective laser melting of biodegradable metals"
+  },
+  {
+    "sentence": "Studies on additively manufactured biodegradable metals have therefore emphasized that corrosion performance cannot be inferred from density alone, but must be linked to pore morphology, surface condition, and post-processing history ref [10], ref [5].",
+    "refNo": 5,
+    "title": "Additive manufacturing of biodegradable metals: Current research status and future perspectives"
+  },
+  {
+    "sentence": "For magnesium alloys such as WE43, the corrosion response is also strongly influenced by SLM-induced segregation of rare-earth-containing phases and by the as-built rough surface, which increases true exposed area and favors early pit initiation; polishing, hot isostatic pressing, or suitable heat treatment can reduce these effects, although excessive coarsening of second phases may be detrimental ref [11].",
+    "refNo": 11,
+    "title": "Selective laser melting of magnesium alloy WE43: processing, microstructure and mechanical properties"
+  },
+  {
+    "sentence": "In physiological environments, the resulting biodegradation behavior further controls hydrogen evolution, alkalization, and ion release, all of which feed back into cytocompatibility and osseointegration ref [30].",
+    "refNo": 30,
+    "title": "Biodegradable metals for cardiovascular stent application: Interests and new opportunities"
+  },
+  {
+    "sentence": "Magnesium is intrinsically attractive for temporary implants because it is biodegradable and its elastic modulus is closer to that of bone than that of permanent metallic biomaterials; however, excessive degradation can generate rapid alkalization, hydrogen evolution, and local particle release, all of which influence cell attachment and tissue tolerance ref [3], ref [30].",
+    "refNo": 3,
+    "title": "Magnesium and its alloys as orthopedic biomaterials: A review"
+  },
+  {
+    "sentence": "Magnesium is intrinsically attractive for temporary implants because it is biodegradable and its elastic modulus is closer to that of bone than that of permanent metallic biomaterials; however, excessive degradation can generate rapid alkalization, hydrogen evolution, and local particle release, all of which influence cell attachment and tissue tolerance ref [3], ref [30].",
+    "refNo": 30,
+    "title": "Biodegradable metals for cardiovascular stent application: Interests and new opportunities"
+  },
+  {
+    "sentence": "Rare-earth-containing Mg alloys such as WE43 have received particular attention because they combine printability with mechanical integrity, and porous or lattice architectures enabled by additive manufacturing can further promote bone ingrowth and mass transport when degradation is sufficiently controlled ref [5].",
+    "refNo": 5,
+    "title": "Additive manufacturing of biodegradable metals: Current research status and future perspectives"
+  },
+  {
+    "sentence": "More broadly, the biological performance of biodegradable metals is highly application specific: orthopedic uses benefit from osteoconductive topography and gradual load transfer, whereas cardiovascular devices require far tighter control of corrosion rate, endothelial compatibility, and thrombogenicity ref [10].",
+    "refNo": 10,
+    "title": "Selective laser melting of biodegradable metals"
+  },
+  {
+    "sentence": "At the same time, the resulting anisotropy depends on the solidification texture, which is especially important in hcp Mg because deformation mode activation is highly orientation-sensitive ref [27], ref [28].",
+    "refNo": 27,
+    "title": "Texture and anisotropy in magnesium alloys"
+  },
+  {
+    "sentence": "At the same time, the resulting anisotropy depends on the solidification texture, which is especially important in hcp Mg because deformation mode activation is highly orientation-sensitive ref [27], ref [28].",
+    "refNo": 28,
+    "title": "The effect of texture on the mechanical properties of magnesium alloy AZ31"
+  },
+  {
+    "sentence": "Consequently, the beneficial effects of refined microstructure can only be realized when volumetric energy input and scan strategy suppress these defects without causing excessive evaporation or compositional instability ref [24].",
+    "refNo": 24,
+    "title": "Residual stress in metal additive manufacturing"
+  },
+  {
+    "sentence": "For biomedical Mg alloys such as WE43, this means that process optimization must target a coupled property space in which texture, grain size, precipitate state, and defect density are simultaneously managed to balance strength, degradation rate, and biological reliability ref [11].",
+    "refNo": 11,
+    "title": "Selective laser melting of magnesium alloy WE43: processing, microstructure and mechanical properties"
+  },
+  {
+    "sentence": "Broad reviews of magnesium biomaterials and biodegradable metals for AM have identified patient-specific geometry, controlled porosity, and locally tailored degradation as key advantages of powder-bed-based processing for this application space ref [3], ref [5].",
+    "refNo": 3,
+    "title": "Magnesium and its alloys as orthopedic biomaterials: A review"
+  },
+  {
+    "sentence": "Broad reviews of magnesium biomaterials and biodegradable metals for AM have identified patient-specific geometry, controlled porosity, and locally tailored degradation as key advantages of powder-bed-based processing for this application space ref [3], ref [5].",
+    "refNo": 5,
+    "title": "Additive manufacturing of biodegradable metals: Current research status and future perspectives"
+  },
+  {
+    "sentence": "In this regard, rare-earth-containing systems such as WE43 have attracted attention because they are among the few AM magnesium alloys to show a usable processing window and comparatively strong as-built properties, although their long-term biological assessment remains application-specific and more complex than that of high-purity Mg-based systems ref [10].",
+    "refNo": 10,
+    "title": "Selective laser melting of biodegradable metals"
+  },
+  {
+    "sentence": "Reviews on biodegradable metallic stents have highlighted magnesium as a leading candidate, but also emphasize that localized corrosion, mechanical reliability under cyclic loading, and surface-state control are decisive barriers to translation ref [30].",
+    "refNo": 30,
+    "title": "Biodegradable metals for cardiovascular stent application: Interests and new opportunities"
+  },
+  {
+    "sentence": "Classical assessments of magnesium alloys as structural materials already identify transportation, aerospace, and portable-device housings as application spaces in which mass reduction can translate directly into fuel, payload, or ergonomic benefits ref [1].",
+    "refNo": 1,
+    "title": "Magnesium Alloys as Structural Materials"
+  },
+  {
+    "sentence": "Reviews of high-strength magnesium alloy development show that alloy design in Mg is constrained by hexagonal crystal plasticity, temperature sensitivity, and corrosion-environment interactions ref [2]; these same constraints imply that SLM magnesium will likely find earlier adoption in brackets, housings, UAV components, sacrificial lightweight fixtures, and thermally responsive enclosures rather than in highly fatigue-critical primary structures.",
+    "refNo": 2,
+    "title": "Development of high-strength magnesium alloys"
+  },
+  {
+    "sentence": "At the same time, the process can generate fine microstructures and non-equilibrium phase distributions, offering pathways to tune stiffness-to-weight ratio, damping response, and potentially functional behavior if microstructure and defect populations are tightly controlled ref [6].",
+    "refNo": 6,
+    "title": "Microstructure and mechanical properties of selective laser melted Mg–9%Al powder"
+  },
+  {
+    "sentence": "This is consistent with broader assessments of additive magnesium, which emphasize that the practical niche of SLM Mg will depend on linking process windows and post-processing to component-specific performance envelopes rather than pursuing strength alone ref [9].",
+    "refNo": 9,
+    "title": "Additive manufacturing of magnesium alloys by selective laser melting: A review"
+  },
+  {
+    "sentence": "This creates a coupled design problem in which architecture, process window, and degradation behavior must be optimized simultaneously rather than sequentially ref [10], ref [5].",
+    "refNo": 10,
+    "title": "Selective laser melting of biodegradable metals"
+  },
+  {
+    "sentence": "This creates a coupled design problem in which architecture, process window, and degradation behavior must be optimized simultaneously rather than sequentially ref [10], ref [5].",
+    "refNo": 5,
+    "title": "Additive manufacturing of biodegradable metals: Current research status and future perspectives"
+  },
+  {
+    "sentence": "For biodegradable scaffolds and fixation devices, the target is often not maximum static strength alone, but controlled loss of mechanical support synchronized with tissue healing, which motivates functionally graded porosity and spatially heterogeneous architectures ref [10], ref [31].",
+    "refNo": 10,
+    "title": "Selective laser melting of biodegradable metals"
+  },
+  {
+    "sentence": "For biodegradable scaffolds and fixation devices, the target is often not maximum static strength alone, but controlled loss of mechanical support synchronized with tissue healing, which motivates functionally graded porosity and spatially heterogeneous architectures ref [10], ref [31].",
+    "refNo": 31,
+    "title": "A review of topology optimization for additive manufacturing: Status and challenges"
+  },
+  {
+    "sentence": "Realizing this vision will require tighter coupling between computational design, process simulation, and in vitro/in vivo validation, as emphasized more generally in additive manufacturing research on topology optimization and architected materials ref [31], ref [32].",
+    "refNo": 31,
+    "title": "A review of topology optimization for additive manufacturing: Status and challenges"
+  },
+  {
+    "sentence": "Realizing this vision will require tighter coupling between computational design, process simulation, and in vitro/in vivo validation, as emphasized more generally in additive manufacturing research on topology optimization and architected materials ref [31], ref [32].",
+    "refNo": 32,
+    "title": "Mechanical behavior of additively manufactured micro-/nano-architected materials"
+  },
+  {
+    "sentence": "The broader rationale for thermal post-processing in additively manufactured metals is well established in the residual-stress literature, and the exceptional sensitivity of magnesium alloys to texture and phase constitution makes these treatments especially consequential ref [24], ref [27].",
+    "refNo": 24,
+    "title": "Residual stress in metal additive manufacturing"
+  },
+  {
+    "sentence": "The broader rationale for thermal post-processing in additively manufactured metals is well established in the residual-stress literature, and the exceptional sensitivity of magnesium alloys to texture and phase constitution makes these treatments especially consequential ref [24], ref [27].",
+    "refNo": 27,
+    "title": "Texture and anisotropy in magnesium alloys"
+  },
+  {
+    "sentence": "In biodegradable magnesium, this is particularly important because rough, partially sintered surface features can accelerate localized degradation; conversely, carefully designed coatings or anodized/conversion layers may delay early corrosion while preserving the long-term resorbability required for implants ref [3].",
+    "refNo": 3,
+    "title": "Magnesium and its alloys as orthopedic biomaterials: A review"
+  },
+  {
+    "sentence": "For conventional AM alloys, such combined routes have already shown strong benefits for defect closure and fatigue enhancement, suggesting a useful template for SLM magnesium provided oxidation, vaporization-related chemistry changes, and corrosion-sensitive microstructures are simultaneously controlled ref [29].",
+    "refNo": 29,
+    "title": "Fatigue performance of additive manufactured metallic parts"
+  },
+  {
+    "sentence": "More broadly, process qualification frameworks developed for metal additive manufacturing increasingly emphasize in situ sensing, data fusion, and closed-loop control as prerequisites for robust certification, especially when alloy-specific instability is expected ref [22], ref [20].",
+    "refNo": 22,
+    "title": "Metal additive manufacturing process monitoring and control: A review"
+  },
+  {
+    "sentence": "More broadly, process qualification frameworks developed for metal additive manufacturing increasingly emphasize in situ sensing, data fusion, and closed-loop control as prerequisites for robust certification, especially when alloy-specific instability is expected ref [22], ref [20].",
+    "refNo": 20,
+    "title": "Melt pool monitoring and analysis for laser powder bed fusion: A review"
+  },
+  {
+    "sentence": "For biomedical uses, qualification must also bridge conventional AM metrics with implant-specific evidence on degradation behavior, cytocompatibility, and sterilization compatibility, highlighting the need for dedicated consensus standards and interlaboratory benchmarking ref [5].",
+    "refNo": 5,
+    "title": "Additive manufacturing of biodegradable metals: Current research status and future perspectives"
+  },
+  {
+    "sentence": "This requires digital process records, robust monitoring of melt-pool signatures, and predictive models linking process signatures to defect formation and final properties ref [20], ref [23].",
+    "refNo": 20,
+    "title": "Melt pool monitoring and analysis for laser powder bed fusion: A review"
+  },
+  {
+    "sentence": "This requires digital process records, robust monitoring of melt-pool signatures, and predictive models linking process signatures to defect formation and final properties ref [20], ref [23].",
+    "refNo": 23,
+    "title": "Modeling of additive manufacturing processes for metals: challenges and opportunities"
+  },
+  {
+    "sentence": "More generally, powder reuse in laser powder bed fusion can alter particle size distribution, flowability, chemistry, and defect susceptibility, making closed-loop powder management an important lever for both resource efficiency and quality assurance ref [16].",
+    "refNo": 16,
+    "title": "Review on use of recycled powders in laser powder bed fusion additive manufacturing"
+  },
+  {
+    "sentence": "Reviews on magnesium oxidation and on ignition/combustion of magnesium powders show that particle size, oxide condition, moisture, and thermal history strongly influence flammability, underscoring the need for rigorous inert-gas control, powder handling protocols, and explosion-mitigation strategies across storage, sieving, and build-chamber operations ref [14], ref [13].",
+    "refNo": 14,
+    "title": "A review of magnesium oxidation"
+  },
+  {
+    "sentence": "Reviews on magnesium oxidation and on ignition/combustion of magnesium powders show that particle size, oxide condition, moisture, and thermal history strongly influence flammability, underscoring the need for rigorous inert-gas control, powder handling protocols, and explosion-mitigation strategies across storage, sieving, and build-chamber operations ref [14], ref [13].",
+    "refNo": 13,
+    "title": "On the ignition and combustion of magnesium powders"
+  },
+  {
+    "sentence": "This need is especially acute for biodegradable devices, where additive manufacturing offers unique control over porous architectures but also introduces unresolved questions regarding local chemistry, defect populations, and their influence on in vivo performance ref [5], ref [30].",
+    "refNo": 5,
+    "title": "Additive manufacturing of biodegradable metals: Current research status and future perspectives"
+  },
+  {
+    "sentence": "This need is especially acute for biodegradable devices, where additive manufacturing offers unique control over porous architectures but also introduces unresolved questions regarding local chemistry, defect populations, and their influence on in vivo performance ref [5], ref [30].",
+    "refNo": 30,
+    "title": "Biodegradable metals for cardiovascular stent application: Interests and new opportunities"
+  },
+  {
+    "sentence": "More predictive multiscale modeling frameworks are needed to connect melt-pool phenomena with mesoscale defect formation and component-scale properties, while sensing and closed-loop control remain underdeveloped for highly reactive Mg powders ref [23], ref [22].",
+    "refNo": 23,
+    "title": "Modeling of additive manufacturing processes for metals: challenges and opportunities"
+  },
+  {
+    "sentence": "More predictive multiscale modeling frameworks are needed to connect melt-pool phenomena with mesoscale defect formation and component-scale properties, while sensing and closed-loop control remain underdeveloped for highly reactive Mg powders ref [23], ref [22].",
+    "refNo": 22,
+    "title": "Metal additive manufacturing process monitoring and control: A review"
+  },
+  {
+    "sentence": "Progress will likely come from integrating alloy design, process monitoring, and application-led testing under realistic service environments rather than relying on room-temperature coupon data alone ref [30], ref [23].",
+    "refNo": 30,
+    "title": "Biodegradable metals for cardiovascular stent application: Interests and new opportunities"
+  },
+  {
+    "sentence": "Progress will likely come from integrating alloy design, process monitoring, and application-led testing under realistic service environments rather than relying on room-temperature coupon data alone ref [30], ref [23].",
+    "refNo": 23,
+    "title": "Modeling of additive manufacturing processes for metals: challenges and opportunities"
+  }
+]

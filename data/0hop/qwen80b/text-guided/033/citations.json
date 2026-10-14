@@ -1,0 +1,166 @@
+[
+  {
+    "sentence": "Past outbreaks of infectious diseases, earthquakes, and other natural catastrophic events have put the supply chain at risk on a small scale (ref [1]; ref [2]).",
+    "refNo": 1,
+    "title": "Supply chain risk management: A literature review",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Past outbreaks of infectious diseases, earthquakes, and other natural catastrophic events have put the supply chain at risk on a small scale (ref [1]; ref [2]).",
+    "refNo": 2,
+    "title": "A Novel Classification of Supply Chain Risks",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Although ML concepts have been emerging since the late 1990 s, there have been fruitful results in other areas (ref [1]).",
+    "refNo": 1,
+    "title": "Supply chain risk management: A literature review",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Fig. 6 shows the co-occurrence network of keywords in recent years and indicates that researchers in the first few years had not yet formed a specific concept of ML algorithms.",
+    "refNo": 6,
+    "title": "Forecasting and planning during a pandemic: COVID-19 growth rates, supply chain disruptions, and governmental decisions",
+    "marker_text": "6",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "Fig. 5 shows the top 10 contributing journals from the 67 articles reviewed.",
+    "refNo": 5,
+    "title": "A decision support system for demand management in healthcare supply chains considering the epidemic outbreaks: A case study of coronavirus disease 2019 (COVID-19)",
+    "marker_text": "5",
+    "extraction_method": "naked_numeric"
+  },
+  {
+    "sentence": "This may be due to the explosion in popularity of ML since 2016 ref [7].",
+    "refNo": 7,
+    "title": "Machine learning and deep learning",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Bayesian Networks have been employed to model risk propagation in supply networks, capturing inter-dependencies among risks and network structure ref [16].",
+    "refNo": 16,
+    "title": "Impact of drivers of change, including climatic factors, on the occurrence of chemical food safety hazards in fruits and vegetables: A Bayesian Network approach",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Furthermore, Bayesian Networks have been successfully applied to quantify the influence of climatic, economic, and agronomic factors on food safety hazards in supply chains, demonstrating their adaptability to complex, multi-dimensional risk environments ref [17].",
+    "refNo": 17,
+    "title": "XAI Evaluation: Evaluating Black-Box Model Explanations for Prediction",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "To enhance decision transparency, Explainable AI (XAI) methods are critical for interpreting black-box ML models used in risk assessment; recent frameworks for evaluating XAI outputs have been proposed to improve model reliability and user trust ref [5].",
+    "refNo": 5,
+    "title": "A decision support system for demand management in healthcare supply chains considering the epidemic outbreaks: A case study of coronavirus disease 2019 (COVID-19)",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "In particular, the Shapley value approach has been utilized to explain anomaly detection outcomes in ML-based systems, offering granular insight into the contribution of individual events to risk predictions ref [7].",
+    "refNo": 7,
+    "title": "Machine learning and deep learning",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "The risk coefficient estimated is close to the actual risk coefficient, which effectively improves supply chain efficiency. ref [22].",
+    "refNo": 22,
+    "title": "Predicting China's SME Credit Risk in Supply Chain Finance Based on",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "This approach greatly reduces the probability of negative effects on bank profits. ref [19].",
+    "refNo": 19,
+    "title": "A credit risk assessment model based on SVM for small and medium enterprises in supply chain finance",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "ref [10] It can be seen from the above factors that the ML algorithm can objectively and quickly assess risk events. ref [24].",
+    "refNo": 10,
+    "title": "Text Mining Approaches for Postmarket Food Safety Surveillance Using Online Media",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "ref [10] It can be seen from the above factors that the ML algorithm can objectively and quickly assess risk events. ref [24].",
+    "refNo": 24,
+    "title": "Forecasting SMEs' credit risk in supply chain finance with an enhanced hybrid ensemble machine learning approach",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "ref [25] ref [26] ref [23] ref [12].",
+    "refNo": 25,
+    "title": "Quantitative analysis of enterprise chain risk based on SVM algorithm and mathematical fuzzy set",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "ref [25] ref [26] ref [23] ref [12].",
+    "refNo": 26,
+    "title": "Research on Supply Chain Financial Risk Assessment Based on Blockchain and Fuzzy Neural Networks",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "ref [25] ref [26] ref [23] ref [12].",
+    "refNo": 23,
+    "title": "Comparison of individual, ensemble and integrated ensemble machine learning methods to predict China's SME credit risk in supply chain finance",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "ref [25] ref [26] ref [23] ref [12].",
+    "refNo": 12,
+    "title": "Applying machine learning to the dynamic selection of replenishment policies in fast-changing supply chain environments",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Software, such as VOSviewer, is widely used in bibliometric analyses and has gradually become an important way for many scholars to conduct literature reviews ref [26].",
+    "refNo": 26,
+    "title": "Research on Supply Chain Financial Risk Assessment Based on Blockchain and Fuzzy Neural Networks",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "This section uses software to conduct bibliometric analysis, including citation and keyword analyses, to obtain convincing results ref [11], ref [12], ref [13], ref [14], ref [15], ref [16], ref [17], ref [18].",
+    "refNo": 11,
+    "title": "Enabling blockchain based scm systems with a real time event monitoring function for preemptive risk management",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "This section uses software to conduct bibliometric analysis, including citation and keyword analyses, to obtain convincing results ref [11], ref [12], ref [13], ref [14], ref [15], ref [16], ref [17], ref [18].",
+    "refNo": 12,
+    "title": "Applying machine learning to the dynamic selection of replenishment policies in fast-changing supply chain environments",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "This section uses software to conduct bibliometric analysis, including citation and keyword analyses, to obtain convincing results ref [11], ref [12], ref [13], ref [14], ref [15], ref [16], ref [17], ref [18].",
+    "refNo": 13,
+    "title": "Prediction-Based Multi-Objective Optimization for Oil Purchasing and Distribution with the NSGA-II Algorithm",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "This section uses software to conduct bibliometric analysis, including citation and keyword analyses, to obtain convincing results ref [11], ref [12], ref [13], ref [14], ref [15], ref [16], ref [17], ref [18].",
+    "refNo": 14,
+    "title": "From predictive to prescriptive analytics: A datadriven multi-item newsvendor model",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "This section uses software to conduct bibliometric analysis, including citation and keyword analyses, to obtain convincing results ref [11], ref [12], ref [13], ref [14], ref [15], ref [16], ref [17], ref [18].",
+    "refNo": 15,
+    "title": "Verizon Uses Advanced Analytics to Rationalize Its Tail Spend Suppliers",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "This section uses software to conduct bibliometric analysis, including citation and keyword analyses, to obtain convincing results ref [11], ref [12], ref [13], ref [14], ref [15], ref [16], ref [17], ref [18].",
+    "refNo": 16,
+    "title": "Impact of drivers of change, including climatic factors, on the occurrence of chemical food safety hazards in fruits and vegetables: A Bayesian Network approach",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "This section uses software to conduct bibliometric analysis, including citation and keyword analyses, to obtain convincing results ref [11], ref [12], ref [13], ref [14], ref [15], ref [16], ref [17], ref [18].",
+    "refNo": 17,
+    "title": "XAI Evaluation: Evaluating Black-Box Model Explanations for Prediction",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "This section uses software to conduct bibliometric analysis, including citation and keyword analyses, to obtain convincing results ref [11], ref [12], ref [13], ref [14], ref [15], ref [16], ref [17], ref [18].",
+    "refNo": 18,
+    "title": "Explainable AI: Using Shapley value to explain complex anomaly detection ML-based systems",
+    "marker_text": "[18]"
+  }
+]

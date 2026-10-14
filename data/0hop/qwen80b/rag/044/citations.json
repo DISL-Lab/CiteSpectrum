@@ -1,0 +1,344 @@
+[
+  {
+    "sentence": "Comprehensive characterization and stringent control of powder properties are therefore essential to mitigate process instability and ensure reproducibility, as emphasized in the context of general metal AM systems ref [15].",
+    "refNo": 15,
+    "title": "Precipitation behavior of aluminum alloy 2139 fabricated using additive manufacturing",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Advanced in-situ monitoring and modeling of these thermal transients are vital for process optimization, as demonstrated in studies of laser-assisted additive manufacturing ref [24].",
+    "refNo": 24,
+    "title": "Rationalization of Microstructure Heterogeneity in INCONEL 718 Builds Made by the Direct Laser Additive Manufacturing Process",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Advanced modeling approaches, such as free surface lattice Boltzmann methods, have been employed to simulate evaporation dynamics and melt pool behavior under laser exposure, providing insights into vapor-induced flow instabilities and their impact on microstructure development ref [9].",
+    "refNo": 9,
+    "title": "Infrared thermography for laser-based powder bed fusion additive manufacturing processes",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Additionally, the thermal deformation induced by localized heating and rapid cooling cycles contributes to residual stresses and dimensional inaccuracies, particularly in thin-walled or complex geometries ref [19].",
+    "refNo": 19,
+    "title": "Effect of Thermal Deformation on Part Errors in Metal Powder Based Additive Manufacturing Processes",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Ref [20] provides a foundational comparison of temperature profiles and melt geometry across common engineering materials, enabling extrapolation to magnesium’s unique thermal behavior.",
+    "refNo": 20,
+    "title": "Numerical Modeling of the Additive Manufacturing (AM) Processes of Titanium Alloy",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Furthermore, ref [14] presents an integrated computational framework for additive manufacturing processes, which can be adapted to simulate the coupled thermal-fluid-metallurgical phenomena specific to magnesium alloys under SLM conditions, thereby supporting process optimization and defect prediction.",
+    "refNo": 14,
+    "title": "Investigations on the influence of composition in the development of Ni-Ti shape memory alloy using laser based additive manufacturing",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Ref [21] demonstrates how infrared imaging can capture transient thermal events that correlate with defect formation, providing actionable feedback for process optimization.",
+    "refNo": 21,
+    "title": "Selective laser melting additive manufacturing of Inconel 718 superalloy parts: Densification, microstructure and properties",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Ref [8] highlights the role of powder rheology in determining the consistency of powder bed formation, which is especially consequential for reactive metals like magnesium where inhomogeneous layers can lead to porosity and oxidation.",
+    "refNo": 8,
+    "title": "Toward an integrated computational system for describing the additive manufacturing process for metallic materials",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "The interplay between powder characteristics and processability is further complicated by the alloying elements used to enhance mechanical performance, which can alter melting behavior and thermal conductivity ref [12].",
+    "refNo": 12,
+    "title": "Review of selective laser melting : materials and applications",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Comprehensive understanding of these relationships is essential for optimizing feedstock design in magnesium SLM, as outlined in broader assessments of metal additive manufacturing systems ref [6].",
+    "refNo": 6,
+    "title": "Heat transfer and fluid flow in additive manufacturing",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Characterization of these attributes is essential for process stability, as highlighted in comprehensive studies on powder property control for additive manufacturing ref [15].",
+    "refNo": 15,
+    "title": "Precipitation behavior of aluminum alloy 2139 fabricated using additive manufacturing",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Furthermore, real-time monitoring of powder bed conditions—including particle displacement and layer thickness variations—remains a key challenge, with emerging measurement science offering pathways for adaptive control to mitigate defects arising from feedstock inconsistencies ref [18].",
+    "refNo": 18,
+    "title": "Porosity Measurements and Analysis for Metal Additive Manufacturing Process Control",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "For instance, ref [27] elucidates the precipitation behavior in aluminum alloy 2139 under additive manufacturing conditions, offering a mechanistic framework applicable to magnesium systems where similar intermetallic phases form during fast cooling.",
+    "refNo": 27,
+    "title": "Characterization of microstructure and residual stress in a 3D H13 tool steel component produced by additive manufacturing",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "Similarly, ref [22] highlights how composition-driven phase evolution in Ni-Ti shape memory alloys under laser processing informs the design of magnesium alloys with tailored phase stability.",
+    "refNo": 22,
+    "title": "An Experimental Investigation into Additive Manufacturing-Induced Residual Stresses in 316L Stainless Steel",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Ref [20] offers a comparative analysis of laser and electron-beam melting processes, highlighting how material-specific thermal properties affect melt pool stability—a key consideration for magnesium’s susceptibility to vaporization and oxide formation.",
+    "refNo": 20,
+    "title": "Numerical Modeling of the Additive Manufacturing (AM) Processes of Titanium Alloy",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Ref [22] demonstrates how reinforcement weight fraction alters fluid dynamics and solidification kinetics, a principle applicable to Mg-based composites where ceramic reinforcements or alloying elements can be strategically employed to stabilize the melt pool and suppress defects.",
+    "refNo": 22,
+    "title": "An Experimental Investigation into Additive Manufacturing-Induced Residual Stresses in 316L Stainless Steel",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Although much of the foundational work in powder rheology has focused on aluminum and titanium systems, the principles established in ref [8] are directly transferable to magnesium alloys, offering a pathway to standardize feedstock evaluation protocols.",
+    "refNo": 8,
+    "title": "Toward an integrated computational system for describing the additive manufacturing process for metallic materials",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Furthermore, insights from ref [16] on the manipulation of powder precursor chemistry and surface engineering, while developed for titanium, highlight the potential for analogous surface modification strategies in magnesium powders to improve flowability and reduce agglomeration without compromising alloy purity.",
+    "refNo": 16,
+    "title": "Thermal evolution behavior and fluid dynamics during laser additive manufacturing of Al-based nanocomposites: Underlying role of reinforcement weight fraction",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "These phenomena are well-documented in broader metal AM literature, where parameter-induced melt pool fluctuations are linked to defect nucleation mechanisms ref [15].",
+    "refNo": 15,
+    "title": "Precipitation behavior of aluminum alloy 2139 fabricated using additive manufacturing",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Additionally, the sensitivity of magnesium alloys to thermal cycling underscores the need for parameter optimization tailored to their unique thermophysical properties, as highlighted in comparative reviews of SLM process fundamentals ref [6].",
+    "refNo": 6,
+    "title": "Heat transfer and fluid flow in additive manufacturing",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Recent efforts to quantify melt pool evolution have leveraged high-fidelity thermal modeling and in-situ measurements, with ref [24] providing detailed spatial mapping of temperature and solidification gradients during laser-assisted additive manufacturing, offering insights into the root causes of micro-porosity in magnesium systems.",
+    "refNo": 24,
+    "title": "Rationalization of Microstructure Heterogeneity in INCONEL 718 Builds Made by the Direct Laser Additive Manufacturing Process",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Furthermore, ref [17] presents a comprehensive framework for porosity measurement and analysis, enabling quantitative correlation between process parameters and defect density, which is essential for process control in magnesium SLM where porosity significantly compromises mechanical integrity.",
+    "refNo": 17,
+    "title": "Manipulation and Characterization of a Novel Titanium Powder Precursor for Additive Manufacturing Applications",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Ref [6] provides a comprehensive framework for quantifying thermal deformation-induced part errors in metal powder bed fusion, highlighting the role of substrate adhesion and layer-by-layer stress accumulation.",
+    "refNo": 6,
+    "title": "Heat transfer and fluid flow in additive manufacturing",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Meanwhile, ref [19] offers foundational insights into heat transfer and fluid flow dynamics that underpin the thermal history governing distortion, emphasizing the interplay between conduction, convection, and phase change in powder beds.",
+    "refNo": 19,
+    "title": "Effect of Thermal Deformation on Part Errors in Metal Powder Based Additive Manufacturing Processes",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Ref [22] provides a foundational framework for analyzing how reinforcement content alters thermal evolution and fluid behavior in Al-based nanocomposites, offering transferable insights into the role of alloy composition and thermal conductivity in Mg systems.",
+    "refNo": 22,
+    "title": "An Experimental Investigation into Additive Manufacturing-Induced Residual Stresses in 316L Stainless Steel",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Similarly, ref [14] presents an integrated computational approach for modeling AM processes that captures coupled thermal, fluidic, and solidification effects, enabling predictive analysis of melt pool stability and defect nucleation in magnesium alloys despite their unique thermophysical properties.",
+    "refNo": 14,
+    "title": "Investigations on the influence of composition in the development of Ni-Ti shape memory alloy using laser based additive manufacturing",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Ref [21] demonstrates how infrared imaging can capture transient thermal signatures in powder bed fusion processes, providing actionable data for process feedback control.",
+    "refNo": 21,
+    "title": "Selective laser melting additive manufacturing of Inconel 718 superalloy parts: Densification, microstructure and properties",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Furthermore, while direct studies on magnesium are limited, numerical modeling frameworks developed for titanium alloys offer valuable insights into thermal stress accumulation and distortion mechanisms under similar thermal cycling conditions, as highlighted in ref [23].",
+    "refNo": 23,
+    "title": "Additive Manufacturing of 17-4 PH Stainless Steel: Post-processing Heat Treatment to Achieve Uniform Reproducible Microstructure",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Studies on analogous high-strength alloys, such as Inconel 718 and Ti6Al4V, have demonstrated that SLM-induced microstructures exhibit strong texture development and epitaxial grain growth along the build direction, a phenomenon also observed in magnesium alloys under similar thermal conditions ref [19].",
+    "refNo": 19,
+    "title": "Effect of Thermal Deformation on Part Errors in Metal Powder Based Additive Manufacturing Processes",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Furthermore, the presence of residual stresses in SLM-processed metals, as quantified in 316L stainless steel, underscores the need for careful thermal management to mitigate cracking and distortion in magnesium systems ref [24].",
+    "refNo": 24,
+    "title": "Rationalization of Microstructure Heterogeneity in INCONEL 718 Builds Made by the Direct Laser Additive Manufacturing Process",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "For instance, post-processing heat treatments in 17-4 PH stainless steel have been shown to achieve uniform and reproducible microstructures by controlling aging kinetics and precipitate distribution, offering a strategic framework applicable to magnesium systems ref [19].",
+    "refNo": 19,
+    "title": "Effect of Thermal Deformation on Part Errors in Metal Powder Based Additive Manufacturing Processes",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Similarly, the rationalization of microstructure heterogeneity in INCONEL 718 via controlled thermal exposure highlights the importance of thermal history management in mitigating grain boundary segregation and anisotropy—principles that are transferable to magnesium alloys subjected to similar rapid solidification conditions ref [25].",
+    "refNo": 25,
+    "title": "Laser polishing of additive laser manufacturing surfaces",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "For instance, ref [17] demonstrates that laser polishing can effectively reduce surface roughness and near-surface porosity in laser-additively manufactured components, indirectly improving microstructural continuity and reducing stress concentrators.",
+    "refNo": 17,
+    "title": "Manipulation and Characterization of a Novel Titanium Powder Precursor for Additive Manufacturing Applications",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Similarly, ref [27] reveals how precipitation behavior in aluminum alloys under additive manufacturing conditions is highly sensitive to thermal cycling, suggesting analogous mechanisms may govern secondary phase evolution in magnesium alloys during post-processing.",
+    "refNo": 27,
+    "title": "Characterization of microstructure and residual stress in a 3D H13 tool steel component produced by additive manufacturing",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "Phase-field modeling, as demonstrated in ref [13], offers a powerful framework for simulating microstructure development under rapid cooling conditions, particularly in electron beam processes where thermal profiles differ significantly from laser-based systems.",
+    "refNo": 13,
+    "title": "Measurement Science Needs for Real-time Control of Additive Manufacturing Powder Bed Fusion Processes",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Furthermore, integrated computational systems that couple thermal, fluid, and microstructural models—such as the framework proposed in ref [14]—can bridge the gap between process parameters and final microstructure in magnesium systems.",
+    "refNo": 14,
+    "title": "Investigations on the influence of composition in the development of Ni-Ti shape memory alloy using laser based additive manufacturing",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "For instance, characterization of residual stress and microstructure in H13 tool steel components produced via additive manufacturing provides a valuable framework for understanding how thermal cycling and phase transformations influence stress redistribution in high-strength alloys, which can be adapted to magnesium systems with analogous phase behavior ref [11].",
+    "refNo": 11,
+    "title": "Laser additive manufacturing of metallic components: materials, processes and mechanisms",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Furthermore, numerical modeling of titanium alloy AM processes offers insights into thermal gradient evolution and solidification kinetics that are transferable to magnesium alloys, enabling predictive optimization of post-processing parameters such as heating rates and dwell times ref [23].",
+    "refNo": 23,
+    "title": "Additive Manufacturing of 17-4 PH Stainless Steel: Post-processing Heat Treatment to Achieve Uniform Reproducible Microstructure",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Although direct mechanical data for SLM magnesium alloys remain limited, the principles of densification and microstructure control established in SLM of Inconel 718 (ref [19]) and residual stress characterization in 316L stainless steel (ref [24]) provide valuable frameworks for interpreting performance trends in magnesium systems.",
+    "refNo": 19,
+    "title": "Effect of Thermal Deformation on Part Errors in Metal Powder Based Additive Manufacturing Processes",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Although direct mechanical data for SLM magnesium alloys remain limited, the principles of densification and microstructure control established in SLM of Inconel 718 (ref [19]) and residual stress characterization in 316L stainless steel (ref [24]) provide valuable frameworks for interpreting performance trends in magnesium systems.",
+    "refNo": 24,
+    "title": "Rationalization of Microstructure Heterogeneity in INCONEL 718 Builds Made by the Direct Laser Additive Manufacturing Process",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Ref [17] provides a comprehensive framework for porosity measurement and analysis in metal AM, enabling reliable defect characterization through X-ray computed tomography and image analysis techniques that are directly transferable to magnesium systems.",
+    "refNo": 17,
+    "title": "Manipulation and Characterization of a Novel Titanium Powder Precursor for Additive Manufacturing Applications",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Furthermore, real-time monitoring of powder bed fusion processes, as outlined in ref [18], offers opportunities to detect and mitigate porosity formation during SLM by tracking thermal signatures and melt pool dynamics, thereby improving reproducibility and reducing post-processing needs.",
+    "refNo": 18,
+    "title": "Porosity Measurements and Analysis for Metal Additive Manufacturing Process Control",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Numerical optimization of open-porous structures has demonstrated that tailored pore geometries can effectively match the stiffness of human cortical bone, reducing stress shielding and enhancing osseointegration ref [28].",
+    "refNo": 28,
+    "title": "Numerical optimization of open-porous bone scaffold structures to match the elastic properties of human cortical bone.",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Furthermore, the relationship between volume porosity and Young’s modulus in additive manufacturing processes provides a predictive framework for designing magnesium scaffolds with controlled mechanical compliance, enabling customization for load-bearing orthopedic implants ref [31].",
+    "refNo": 31,
+    "title": "Chemical polishing of scaffolds made of Ti-6Al-7Nb alloy by additive manufacturing",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "While cellular architectures in metallic materials have been extensively studied via three-dimensional printing, direct application to magnesium alloys remains underexplored, presenting an opportunity for future research to adapt established design principles from titanium and stainless steel systems ref [10].",
+    "refNo": 10,
+    "title": "The Application of Powder Rheology in Additive Manufacturing",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "The surface finish and post-processing of such porous scaffolds, though demonstrated in Ti-6Al-7Nb via chemical polishing, may also benefit similar treatments in magnesium to control degradation kinetics and improve biocompatibility ref [25].",
+    "refNo": 25,
+    "title": "Laser polishing of additive laser manufacturing surfaces",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "As highlighted in a critical perspective on additive manufacturing in orthopedics, the gap between laboratory success and clinical adoption remains substantial, with few SLM magnesium devices progressing beyond preclinical validation despite decades of research ref [20].",
+    "refNo": 20,
+    "title": "Numerical Modeling of the Additive Manufacturing (AM) Processes of Titanium Alloy",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "As noted in broader additive manufacturing reviews, the reactivity of magnesium powders and susceptibility to oxidation during SLM necessitate stringent environmental controls, which complicate scalable production ref [17].",
+    "refNo": 17,
+    "title": "Manipulation and Characterization of a Novel Titanium Powder Precursor for Additive Manufacturing Applications",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Furthermore, the lack of standardized processing protocols and qualification frameworks for magnesium alloys hinders their integration into regulated industries, a gap highlighted in recent assessments of AM’s current state and future needs ref [17].",
+    "refNo": 17,
+    "title": "Manipulation and Characterization of a Novel Titanium Powder Precursor for Additive Manufacturing Applications",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "In aerospace, SLM enables topology-optimized designs that reduce mass without compromising structural integrity, aligning with sustainability goals through material efficiency and reduced fuel consumption ref [4].",
+    "refNo": 4,
+    "title": "Spatial variation of melt pool geometry, peak temperature and solidification parameters during laser assisted additive manufacturing process",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "The design freedom afforded by additive manufacturing allows for patient-specific geometries and internal lattice structures that mimic natural bone, as emphasized in recent design theory frameworks ref [14].",
+    "refNo": 14,
+    "title": "Investigations on the influence of composition in the development of Ni-Ti shape memory alloy using laser based additive manufacturing",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Ref [6] provides a foundational analysis of thermal deformation mechanisms in metal powder-based AM, highlighting how process-induced stresses propagate and manifest as geometric errors in magnesium systems, where low melting point and high thermal conductivity exacerbate these effects.",
+    "refNo": 6,
+    "title": "Heat transfer and fluid flow in additive manufacturing",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Ref [12] introduces a systematic identification method for constraining enclosed voids in AM design, enabling the generation of manufacturable topologies that avoid trapped powder regions while preserving functional performance—essential for magnesium scaffolds in orthopedic implants where porosity must be both controlled and accessible for tissue ingrowth.",
+    "refNo": 12,
+    "title": "Review of selective laser melting : materials and applications",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Functionally graded architectures, where composition and microstructure vary spatially to optimize mechanical performance and biocompatibility, have been successfully demonstrated in additive manufacturing systems, offering a pathway to overcome the inherent trade-offs between strength and ductility in conventional magnesium alloys ref [7].",
+    "refNo": 7,
+    "title": "Temperature distribution and melt geometry in laser and electron-beam melting processes – A comparison among common materials",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "However, the design of overhangs, internal channels, and support structures in magnesium alloys remains challenging due to their low melting point and high thermal conductivity, which exacerbate distortion and require careful geometric consideration ref [19].",
+    "refNo": 19,
+    "title": "Effect of Thermal Deformation on Part Errors in Metal Powder Based Additive Manufacturing Processes",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "As highlighted in recent assessments, the gap between technological promise and clinical reality in additive manufacturing is particularly acute in orthopedics, where long-term performance and batch-to-batch consistency are non-negotiable ref [20].",
+    "refNo": 20,
+    "title": "Numerical Modeling of the Additive Manufacturing (AM) Processes of Titanium Alloy",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "A state-of-the-discipline report on NDE in additive manufacturing underscores the need for multi-modal, in-situ inspection strategies that can detect subsurface heterogeneities and residual stress gradients critical to implant integrity ref [10].",
+    "refNo": 10,
+    "title": "The Application of Powder Rheology in Additive Manufacturing",
+    "marker_text": "[10]"
+  }
+]

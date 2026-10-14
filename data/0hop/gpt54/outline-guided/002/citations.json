@@ -1,0 +1,584 @@
+[
+  {
+    "sentence": "Scientifically, the core strategy is blastocyst complementation: pluripotent stem cells are introduced into an organ-deficient host embryo so that donor cells occupy an otherwise empty developmental niche and generate the missing tissue or organ ref [1].",
+    "refNo": 1,
+    "title": "Chimera research and stem cell therapies for human neurodegenerative disorders",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Foundational rodent studies showed that interspecies complementation could generate a rat pancreas in mouse and, conversely, functional mouse islets in rat, establishing proof of principle for organogenesis across species barriers ref [3], ref [4].",
+    "refNo": 3,
+    "title": "Creating chimeras for organs is legal in Switzerland",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Foundational rodent studies showed that interspecies complementation could generate a rat pancreas in mouse and, conversely, functional mouse islets in rat, establishing proof of principle for organogenesis across species barriers ref [3], ref [4].",
+    "refNo": 4,
+    "title": "How to write a systematic review of reasons",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Reviews of xenogeneic chimera research argue that patient-specific induced pluripotent stem cells, in principle, could be used to grow recipient-tailored organs in large animals such as pigs, thereby expanding organ supply while potentially improving histocompatibility ref [1], ref [5], ref [6].",
+    "refNo": 1,
+    "title": "Chimera research and stem cell therapies for human neurodegenerative disorders",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Reviews of xenogeneic chimera research argue that patient-specific induced pluripotent stem cells, in principle, could be used to grow recipient-tailored organs in large animals such as pigs, thereby expanding organ supply while potentially improving histocompatibility ref [1], ref [5], ref [6].",
+    "refNo": 5,
+    "title": "Constructing a systematic review for argument-based clinical ethics literature: the example of concealed medications",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Reviews of xenogeneic chimera research argue that patient-specific induced pluripotent stem cells, in principle, could be used to grow recipient-tailored organs in large animals such as pigs, thereby expanding organ supply while potentially improving histocompatibility ref [1], ref [5], ref [6].",
+    "refNo": 6,
+    "title": "The moral insignificance of crossing species boundaries",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Large-animal work has reinforced this translational horizon: apancreatic cloned pigs have been complemented to generate exogenic pancreas in vivo, and early human–pig chimera experiments demonstrated limited but real integration of human pluripotent cells in porcine embryos ref [7], ref [8].",
+    "refNo": 7,
+    "title": "In defense of the moral relevance of species boundaries",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Large-animal work has reinforced this translational horizon: apancreatic cloned pigs have been complemented to generate exogenic pancreas in vivo, and early human–pig chimera experiments demonstrated limited but real integration of human pluripotent cells in porcine embryos ref [7], ref [8].",
+    "refNo": 8,
+    "title": "At the edge of humanity: human stem cells, chimeras, and moral status",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Chimera-based approaches have been proposed to study human neural development in vivo, assess differentiation, survival, and tumorigenicity of transplanted cells, and create more predictive platforms for neurodegenerative research ref [2], ref [9].",
+    "refNo": 2,
+    "title": "Fearing a non-existing minotaur? The ethical challenges of research on cytoplasmic hybrid embryos",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Chimera-based approaches have been proposed to study human neural development in vivo, assess differentiation, survival, and tumorigenicity of transplanted cells, and create more predictive platforms for neurodegenerative research ref [2], ref [9].",
+    "refNo": 9,
+    "title": "Part-human chimeras: worrying the facts, probing the ethics",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Experimental work on stem-cell-derived neurons in mouse brains and broader translational analyses of stem-cell therapy for neurodegeneration support this motivation, while also highlighting the gap between proof-of-concept engraftment and clinically reliable therapies ref [10], ref [11].",
+    "refNo": 10,
+    "title": "Moral confusion and developmental essentialism in part-human hybrid research",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Experimental work on stem-cell-derived neurons in mouse brains and broader translational analyses of stem-cell therapy for neurodegeneration support this motivation, while also highlighting the gap between proof-of-concept engraftment and clinically reliable therapies ref [10], ref [11].",
+    "refNo": 11,
+    "title": "No real categories, only chimeras and illusions: the interplay between morality and science in debates over embryonic chimeras",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "A recurrent theme is that the symbolic force of “chimera” language can distort analysis by invoking mythic boundary transgressions rather than biologically precise entities; this critique has been made explicitly in discussions of cytoplasmic hybrids, where sensational labels were argued to generate moral prejudice rather than clarify the object of evaluation ref [2].",
+    "refNo": 2,
+    "title": "Fearing a non-existing minotaur? The ethical challenges of research on cytoplasmic hybrid embryos",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "More generally, commentators distinguish concerns grounded in public unease or disgust from arguments based on identifiable harms, insisting that ethical assessment should track specific research pathways and outcomes rather than rhetoric alone ref [2], ref [2].",
+    "refNo": 2,
+    "title": "Fearing a non-existing minotaur? The ethical challenges of research on cytoplasmic hybrid embryos",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "More generally, commentators distinguish concerns grounded in public unease or disgust from arguments based on identifiable harms, insisting that ethical assessment should track specific research pathways and outcomes rather than rhetoric alone ref [2], ref [2].",
+    "refNo": 2,
+    "title": "Fearing a non-existing minotaur? The ethical challenges of research on cytoplasmic hybrid embryos",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Bourret et al. synthesize these as “worst-case scenarios”: enhanced consciousness or cognition, production of human gametes, and visible humanization, all of which could alter the animal’s perceived moral status and undermine widely accepted human–animal distinctions ref [2].",
+    "refNo": 2,
+    "title": "Fearing a non-existing minotaur? The ethical challenges of research on cytoplasmic hybrid embryos",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Related literature on human neural-cell chimeras similarly asks whether extensive human neural integration might create beings owed stronger protections, even if many authors judge robust “humanization” biologically unlikely in common host species ref [2].",
+    "refNo": 2,
+    "title": "Fearing a non-existing minotaur? The ethical challenges of research on cytoplasmic hybrid embryos",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Proponents emphasize severe organ scarcity and argue that targeted blastocyst complementation may be ethically defensible if accompanied by limits on gestation, breeding, neural contribution, and transparent public oversight ref [2].",
+    "refNo": 2,
+    "title": "Fearing a non-existing minotaur? The ethical challenges of research on cytoplasmic hybrid embryos",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Critics remain concerned about zoonotic risk, animal instrumentalization, and slippery-slope normalization of increasingly intimate forms of species mixing ref [2], ref [2].",
+    "refNo": 2,
+    "title": "Fearing a non-existing minotaur? The ethical challenges of research on cytoplasmic hybrid embryos",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Critics remain concerned about zoonotic risk, animal instrumentalization, and slippery-slope normalization of increasingly intimate forms of species mixing ref [2], ref [2].",
+    "refNo": 2,
+    "title": "Fearing a non-existing minotaur? The ethical challenges of research on cytoplasmic hybrid embryos",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Across the literature, the emerging consensus is not that chimera research is straightforwardly permissible or impermissible, but that its ethical acceptability depends on purpose, developmental stage, degree and site of human cell contribution, and the governance mechanisms used to control morally salient outcomes ref [2], ref [2].",
+    "refNo": 2,
+    "title": "Fearing a non-existing minotaur? The ethical challenges of research on cytoplasmic hybrid embryos",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Across the literature, the emerging consensus is not that chimera research is straightforwardly permissible or impermissible, but that its ethical acceptability depends on purpose, developmental stage, degree and site of human cell contribution, and the governance mechanisms used to control morally salient outcomes ref [2], ref [2].",
+    "refNo": 2,
+    "title": "Fearing a non-existing minotaur? The ethical challenges of research on cytoplasmic hybrid embryos",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Switzerland is illustrative of this layered approach: legal analysis has argued that creating interspecies chimeras for organ generation can be permissible under Swiss law, provided that constitutional protections for human dignity and animal welfare, as well as statutory limits on reproductive uses, are respected ref [3].",
+    "refNo": 3,
+    "title": "Creating chimeras for organs is legal in Switzerland",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "The National Academies’ 2005 guidelines and subsequent updates by the International Society for Stem Cell Research (ISSCR) framed human–animal chimera research as acceptable under specialized review, while recommending heightened scrutiny for experiments involving substantial human contribution to animal brains or germ lines ref [2], ref [3], ref [4].",
+    "refNo": 2,
+    "title": "Fearing a non-existing minotaur? The ethical challenges of research on cytoplasmic hybrid embryos",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "The National Academies’ 2005 guidelines and subsequent updates by the International Society for Stem Cell Research (ISSCR) framed human–animal chimera research as acceptable under specialized review, while recommending heightened scrutiny for experiments involving substantial human contribution to animal brains or germ lines ref [2], ref [3], ref [4].",
+    "refNo": 3,
+    "title": "Creating chimeras for organs is legal in Switzerland",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "The National Academies’ 2005 guidelines and subsequent updates by the International Society for Stem Cell Research (ISSCR) framed human–animal chimera research as acceptable under specialized review, while recommending heightened scrutiny for experiments involving substantial human contribution to animal brains or germ lines ref [2], ref [3], ref [4].",
+    "refNo": 4,
+    "title": "How to write a systematic review of reasons",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "NIH policy also became a de facto regulatory lever when the agency announced a moratorium, and later proposed case-by-case review, for certain forms of human pluripotent stem-cell introduction into non-human vertebrate embryos ref [5], ref [6].",
+    "refNo": 5,
+    "title": "Constructing a systematic review for argument-based clinical ethics literature: the example of concealed medications",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "NIH policy also became a de facto regulatory lever when the agency announced a moratorium, and later proposed case-by-case review, for certain forms of human pluripotent stem-cell introduction into non-human vertebrate embryos ref [5], ref [6].",
+    "refNo": 6,
+    "title": "The moral insignificance of crossing species boundaries",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Comparative policy analysis shows that common legal fault lines concern developmental stage limits, bans on gestating chimeric embryos to term, restrictions on breeding animals with potential humanized germ cells, and special oversight for neural chimeras ref [3], ref [4], ref [7], ref [8].",
+    "refNo": 3,
+    "title": "Creating chimeras for organs is legal in Switzerland",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Comparative policy analysis shows that common legal fault lines concern developmental stage limits, bans on gestating chimeric embryos to term, restrictions on breeding animals with potential humanized germ cells, and special oversight for neural chimeras ref [3], ref [4], ref [7], ref [8].",
+    "refNo": 4,
+    "title": "How to write a systematic review of reasons",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Comparative policy analysis shows that common legal fault lines concern developmental stage limits, bans on gestating chimeric embryos to term, restrictions on breeding animals with potential humanized germ cells, and special oversight for neural chimeras ref [3], ref [4], ref [7], ref [8].",
+    "refNo": 7,
+    "title": "In defense of the moral relevance of species boundaries",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Comparative policy analysis shows that common legal fault lines concern developmental stage limits, bans on gestating chimeric embryos to term, restrictions on breeding animals with potential humanized germ cells, and special oversight for neural chimeras ref [3], ref [4], ref [7], ref [8].",
+    "refNo": 8,
+    "title": "At the edge of humanity: human stem cells, chimeras, and moral status",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "For ethics reviews, this means that legal permissibility is highly jurisdiction-dependent and often turns on procedural safeguards rather than on categorical acceptance or rejection of chimera science ref [3], ref [7], ref [8].",
+    "refNo": 3,
+    "title": "Creating chimeras for organs is legal in Switzerland",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "For ethics reviews, this means that legal permissibility is highly jurisdiction-dependent and often turns on procedural safeguards rather than on categorical acceptance or rejection of chimera science ref [3], ref [7], ref [8].",
+    "refNo": 7,
+    "title": "In defense of the moral relevance of species boundaries",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "For ethics reviews, this means that legal permissibility is highly jurisdiction-dependent and often turns on procedural safeguards rather than on categorical acceptance or rejection of chimera science ref [3], ref [7], ref [8].",
+    "refNo": 8,
+    "title": "At the edge of humanity: human stem cells, chimeras, and moral status",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Strech and Sofaer argue that, for bioethics, the latter is methodologically preferable because it better captures the structure, variation, and contestability of ethical debate, especially where reasonable disagreement persists ref [4].",
+    "refNo": 4,
+    "title": "How to write a systematic review of reasons",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "By contrast, McCullough, Coverdale, and Chervenak proposed an earlier model for argument-based clinical ethics that adapts the familiar four-step logic of systematic review to normative literature, emphasizing focused questions, transparent searching, appraisal, and synthesis ref [5].",
+    "refNo": 5,
+    "title": "Constructing a systematic review for argument-based clinical ethics literature: the example of concealed medications",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Following Strech and Sofaer, the review should therefore formulate a factual review question such as which reasons have been given for permitting, limiting, or prohibiting specific forms of chimera research, define explicit eligibility criteria, search across multiple disciplinary databases, and document selection with reproducible procedures ref [4].",
+    "refNo": 4,
+    "title": "How to write a systematic review of reasons",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Consistent with broader standards for transparent reviewing, reporting should make search strings, screening stages, and inclusion decisions auditable, while acknowledging the indexing and retrieval difficulties characteristic of qualitative and ethics literatures ref [4].",
+    "refNo": 4,
+    "title": "How to write a systematic review of reasons",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Data extraction in ethics review should code not only publication characteristics but also individual reason-mentions, their broad and narrow types, their alleged implications, and whether authors endorse, reject, or qualify them ref [4].",
+    "refNo": 4,
+    "title": "How to write a systematic review of reasons",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "At the same time, the subsection must note the limits identified in both methodological papers: appraisal of argumentative quality remains less standardized than risk-of-bias appraisal in empirical reviews, coding is interpretive, and frequency counts of reasons do not establish normative weight ref [4], ref [5].",
+    "refNo": 4,
+    "title": "How to write a systematic review of reasons",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "At the same time, the subsection must note the limits identified in both methodological papers: appraisal of argumentative quality remains less standardized than risk-of-bias appraisal in empirical reviews, coding is interpretive, and frequency counts of reasons do not establish normative weight ref [4], ref [5].",
+    "refNo": 5,
+    "title": "Constructing a systematic review for argument-based clinical ethics literature: the example of concealed medications",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "One influential line argues that species membership has little direct moral force: what matters are capacities such as sentience, interests, rationality, or person-like cognition, so crossing a human/nonhuman boundary is not itself a moral wrong ref [6].",
+    "refNo": 6,
+    "title": "The moral insignificance of crossing species boundaries",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "By contrast, defenders of species boundaries maintain that species categories can retain moral relevance even if biologically fuzzy, partly because they structure practices of protection, dignity, and social meaning, and because public unease cannot be reduced to mere irrationality or epistemic confusion ref [7].",
+    "refNo": 7,
+    "title": "In defense of the moral relevance of species boundaries",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Streiffer argues that the central issue is whether some human stem-cell interventions could enhance the resulting animal’s moral status—especially by affecting neural development or higher cognitive capacities—and thereby generate obligations more akin to those owed to beings with human-like standing ref [8].",
+    "refNo": 8,
+    "title": "At the edge of humanity: human stem cells, chimeras, and moral status",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Relatedly, Baylis and Robert emphasize that concerns about part-human chimeras are often framed less as a violation of biology than as possible “moral confusion” about how to classify and treat novel beings, while also cautioning that many simple anti-mixture arguments are philosophically weak ref [9].",
+    "refNo": 9,
+    "title": "Part-human chimeras: worrying the facts, probing the ethics",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Benham and Haber argue that appeals to “inexorable moral confusion” often rest on developmental essentialism: the mistaken assumption that the presence of human biological material itself determines moral kind, rather than the capacities and welfare-relevant features actually produced ref [10].",
+    "refNo": 10,
+    "title": "Moral confusion and developmental essentialism in part-human hybrid research",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Across this debate, a broad convergence emerges: species boundaries may have symbolic or regulatory importance, but moral status cannot be read directly from species origin alone; it must be assessed through the characteristics, interests, and social vulnerability of the resulting chimera ref [6], ref [8], ref [10].",
+    "refNo": 6,
+    "title": "The moral insignificance of crossing species boundaries",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Across this debate, a broad convergence emerges: species boundaries may have symbolic or regulatory importance, but moral status cannot be read directly from species origin alone; it must be assessed through the characteristics, interests, and social vulnerability of the resulting chimera ref [6], ref [8], ref [10].",
+    "refNo": 8,
+    "title": "At the edge of humanity: human stem cells, chimeras, and moral status",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Across this debate, a broad convergence emerges: species boundaries may have symbolic or regulatory importance, but moral status cannot be read directly from species origin alone; it must be assessed through the characteristics, interests, and social vulnerability of the resulting chimera ref [6], ref [8], ref [10].",
+    "refNo": 10,
+    "title": "Moral confusion and developmental essentialism in part-human hybrid research",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "A recurring concern is that embryonic chimeras destabilize supposedly natural classificatory schemes, revealing that species categories are partly pragmatic and socially negotiated rather than morally self-interpreting ref [11].",
+    "refNo": 11,
+    "title": "No real categories, only chimeras and illusions: the interplay between morality and science in debates over embryonic chimeras",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "On this view, the moral difficulty lies not only in biological mixture itself, but in uncertainty about how far scientific redefinition of categories should guide normative judgment ref [11].",
+    "refNo": 11,
+    "title": "No real categories, only chimeras and illusions: the interplay between morality and science in debates over embryonic chimeras",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "In the more specific context of cytoplasmic hybrid embryo research, commentators identify three main clusters of objections: destruction of embryos for stem-cell derivation, symbolic and moral unease about mixing human and animal material, and the possibility that such work could normalize progressively more controversial interspecies practices ref [12].",
+    "refNo": 12,
+    "title": "Animal eggs for stem cell research: a path not worth taking",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Baylis argues that these concerns are not exhausted by appeals to mere disgust: they include anxieties about moral confusion, human dignity, and regulatory slippage toward other forms of human-animal embryo creation ref [12].",
+    "refNo": 12,
+    "title": "Animal eggs for stem cell research: a path not worth taking",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "At the same time, policy bodies have often treated some of these objections as insufficiently determinate unless tied to concrete harms or developmental outcomes ref [12].",
+    "refNo": 12,
+    "title": "Animal eggs for stem cell research: a path not worth taking",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Baylis contends that using animal eggs to overcome shortages of human oocytes is ethically unattractive not only because it crosses species boundaries, but because successful cytoplasmic-hybrid research may ultimately intensify demand for human eggs in cloning-based regenerative medicine, thereby amplifying risks of coercion, exploitation, undue inducement, and physical harm to providers ref [12].",
+    "refNo": 12,
+    "title": "Animal eggs for stem cell research: a path not worth taking",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Thus, embryonic chimera debates broaden from abstract questions about moral status to concerns about labor, justice, and the research infrastructure that makes stem-cell translation possible ref [12].",
+    "refNo": 12,
+    "title": "Animal eggs for stem cell research: a path not worth taking",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "The strongest justificatory claim is consequentialist: generating patient-matched organs in pigs could address chronic organ scarcity while reducing immune rejection and perhaps some zoonotic risks associated with conventional xenotransplantation ref [13], ref [14].",
+    "refNo": 13,
+    "title": "Creating human organs in chimaera pigs: an ethical source of immunocompatible organs",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "The strongest justificatory claim is consequentialist: generating patient-matched organs in pigs could address chronic organ scarcity while reducing immune rejection and perhaps some zoonotic risks associated with conventional xenotransplantation ref [13], ref [14].",
+    "refNo": 14,
+    "title": "Humananimal chimeras: ethical issues about farming chimeric animals bearing human organs",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "This literature typically treats pigs as the most plausible host species because of organ size, husbandry familiarity, and prior xenotransplantation experience ref [13], ref [14].",
+    "refNo": 13,
+    "title": "Creating human organs in chimaera pigs: an ethical source of immunocompatible organs",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "This literature typically treats pigs as the most plausible host species because of organ size, husbandry familiarity, and prior xenotransplantation experience ref [13], ref [14].",
+    "refNo": 14,
+    "title": "Humananimal chimeras: ethical issues about farming chimeric animals bearing human organs",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Both reviews emphasize that organ-generation protocols raise familiar but sharpened concerns about instrumentalization of animals, large-scale sacrifice, and the burdens of highly controlled breeding environments ref [13], ref [14].",
+    "refNo": 13,
+    "title": "Creating human organs in chimaera pigs: an ethical source of immunocompatible organs",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Both reviews emphasize that organ-generation protocols raise familiar but sharpened concerns about instrumentalization of animals, large-scale sacrifice, and the burdens of highly controlled breeding environments ref [13], ref [14].",
+    "refNo": 14,
+    "title": "Humananimal chimeras: ethical issues about farming chimeric animals bearing human organs",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "They also connect transplantation goals to boundary-policing worries: contributors repeatedly single out the risks of substantial human cell contribution to the brain, the emergence of human-like external traits, and the production of human gametes as morally significant limiting cases requiring monitoring or technical prevention ref [13], ref [14].",
+    "refNo": 13,
+    "title": "Creating human organs in chimaera pigs: an ethical source of immunocompatible organs",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "They also connect transplantation goals to boundary-policing worries: contributors repeatedly single out the risks of substantial human cell contribution to the brain, the emergence of human-like external traits, and the production of human gametes as morally significant limiting cases requiring monitoring or technical prevention ref [13], ref [14].",
+    "refNo": 14,
+    "title": "Humananimal chimeras: ethical issues about farming chimeric animals bearing human organs",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Bourret and colleagues argue that social acceptability will depend not only on safety and welfare protections but also on public reassurance that clear thresholds of permissible chimerism are enforced and that alternatives, such as organoids or improved xenotransplantation, remain under development ref [14].",
+    "refNo": 14,
+    "title": "Humananimal chimeras: ethical issues about farming chimeric animals bearing human organs",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Shaw and colleagues similarly conclude that the moral case for organ-bearing pigs is strongest only if expected clinical benefits are substantial and no comparably effective, less harmful route to solving organ scarcity is available ref [13].",
+    "refNo": 13,
+    "title": "Creating human organs in chimaera pigs: an ethical source of immunocompatible organs",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Overall, the organ-generation literature is more pragmatic than the embryonic-chimera debate: it tends to accept some human-animal mixing in principle while disputing the conditions under which breeding, rearing, and killing chimeric animals for human benefit can be justified ref [13], ref [14].",
+    "refNo": 13,
+    "title": "Creating human organs in chimaera pigs: an ethical source of immunocompatible organs",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Overall, the organ-generation literature is more pragmatic than the embryonic-chimera debate: it tends to accept some human-animal mixing in principle while disputing the conditions under which breeding, rearing, and killing chimeric animals for human benefit can be justified ref [13], ref [14].",
+    "refNo": 14,
+    "title": "Humananimal chimeras: ethical issues about farming chimeric animals bearing human organs",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "In clinical germline genome modification, van Dijke et al. identified 169 distinct reasons across 13 domains, ranging from safety, dignity, and social justice to species-level concerns and implementation issues ref [15].",
+    "refNo": 15,
+    "title": "The ethics of clinical applications of germline genome modification: a systematic review of reasons",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Likewise, the systematic review of genome editing in non-human animals found 115 reasons organized around human health, animal welfare, animal dignity, environmental impact, and public acceptability ref [16].",
+    "refNo": 16,
+    "title": "The ethics of genome editing in non-human animals: a systematic review of reasons reported in the academic literature",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "In germline editing, debates increasingly concentrated on safety, clinical need, misuse, commercialization, reproductive autonomy, and regulation, while also highlighting difficulties in defining therapy versus enhancement and in deciding who should govern implementation ref [15].",
+    "refNo": 15,
+    "title": "The ethics of clinical applications of germline genome modification: a systematic review of reasons",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "In animal genome editing, many concerns similarly focused on uncertainty, proportionality, subsidiarity, public engagement, and the gap between expert and public discourse, rather than on a single intrinsic objection to genetic intervention ref [16].",
+    "refNo": 16,
+    "title": "The ethics of genome editing in non-human animals: a systematic review of reasons reported in the academic literature",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "They also indicate the importance of examining underrepresented perspectives—especially animal interests, distributive justice, commercialization, and public trust—when assessing the moral permissibility of translational chimera research ref [15], ref [16].",
+    "refNo": 15,
+    "title": "The ethics of clinical applications of germline genome modification: a systematic review of reasons",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "They also indicate the importance of examining underrepresented perspectives—especially animal interests, distributive justice, commercialization, and public trust—when assessing the moral permissibility of translational chimera research ref [15], ref [16].",
+    "refNo": 16,
+    "title": "The ethics of genome editing in non-human animals: a systematic review of reasons reported in the academic literature",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Hübner argues that two families of species-based reasoning are conceptually intertwined yet normatively opposed: individual species arguments extend protection to sufficiently human-like chimeras, whereas group species arguments defend the integrity of species boundaries and can therefore cast the very existence of such beings as morally troubling ref [17].",
+    "refNo": 17,
+    "title": "Human-animal chimeras and hybrids: an ethical paradox behind moral confusion?",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "This helps explain why the same entity may be framed both as a vulnerable subject of care and as a destabilizing challenge to moral classification ref [17], ref [2], ref [3].",
+    "refNo": 17,
+    "title": "Human-animal chimeras and hybrids: an ethical paradox behind moral confusion?",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "This helps explain why the same entity may be framed both as a vulnerable subject of care and as a destabilizing challenge to moral classification ref [17], ref [2], ref [3].",
+    "refNo": 2,
+    "title": "Fearing a non-existing minotaur? The ethical challenges of research on cytoplasmic hybrid embryos",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "This helps explain why the same entity may be framed both as a vulnerable subject of care and as a destabilizing challenge to moral classification ref [17], ref [2], ref [3].",
+    "refNo": 3,
+    "title": "Creating chimeras for organs is legal in Switzerland",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Some authors defend species boundaries as ethically relevant markers for human dignity, rights attribution, or social order ref [4], ref [5], while others reject boundary-crossing as intrinsically problematic and instead locate moral status in capacities such as sentience, cognition, or autonomy ref [6], ref [7].",
+    "refNo": 4,
+    "title": "How to write a systematic review of reasons",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Some authors defend species boundaries as ethically relevant markers for human dignity, rights attribution, or social order ref [4], ref [5], while others reject boundary-crossing as intrinsically problematic and instead locate moral status in capacities such as sentience, cognition, or autonomy ref [6], ref [7].",
+    "refNo": 5,
+    "title": "Constructing a systematic review for argument-based clinical ethics literature: the example of concealed medications",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Some authors defend species boundaries as ethically relevant markers for human dignity, rights attribution, or social order ref [4], ref [5], while others reject boundary-crossing as intrinsically problematic and instead locate moral status in capacities such as sentience, cognition, or autonomy ref [6], ref [7].",
+    "refNo": 6,
+    "title": "The moral insignificance of crossing species boundaries",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Some authors defend species boundaries as ethically relevant markers for human dignity, rights attribution, or social order ref [4], ref [5], while others reject boundary-crossing as intrinsically problematic and instead locate moral status in capacities such as sentience, cognition, or autonomy ref [6], ref [7].",
+    "refNo": 7,
+    "title": "In defense of the moral relevance of species boundaries",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "A related line of criticism warns that appeals to hybridity can rest on developmental essentialism or category anxiety rather than principled ethical distinctions ref [8], ref [9].",
+    "refNo": 8,
+    "title": "At the edge of humanity: human stem cells, chimeras, and moral status",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "A related line of criticism warns that appeals to hybridity can rest on developmental essentialism or category anxiety rather than principled ethical distinctions ref [8], ref [9].",
+    "refNo": 9,
+    "title": "Part-human chimeras: worrying the facts, probing the ethics",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "The resulting dispute is not merely semantic: it concerns whether moral protection should track biological kind, functional capacities, or broader political commitments against discrimination ref [17], ref [6].",
+    "refNo": 17,
+    "title": "Human-animal chimeras and hybrids: an ethical paradox behind moral confusion?",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "The resulting dispute is not merely semantic: it concerns whether moral protection should track biological kind, functional capacities, or broader political commitments against discrimination ref [17], ref [6].",
+    "refNo": 6,
+    "title": "The moral insignificance of crossing species boundaries",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "If species boundaries are treated as morally foundational, chimeras threaten those foundations; if they are treated as morally insignificant, objections must be reformulated in terms of welfare, instrumentalization, or governance ref [10], ref [11].",
+    "refNo": 10,
+    "title": "Moral confusion and developmental essentialism in part-human hybrid research",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "If species boundaries are treated as morally foundational, chimeras threaten those foundations; if they are treated as morally insignificant, objections must be reformulated in terms of welfare, instrumentalization, or governance ref [10], ref [11].",
+    "refNo": 11,
+    "title": "No real categories, only chimeras and illusions: the interplay between morality and science in debates over embryonic chimeras",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "The literature therefore suggests that ethical clarity will not come from invoking 'natural kinds' alone, but from specifying which moral interests are at stake, why boundary-crossing matters, and when social unease reflects genuine harm rather than moral confusion ref [17], ref [9], ref [12].",
+    "refNo": 17,
+    "title": "Human-animal chimeras and hybrids: an ethical paradox behind moral confusion?",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "The literature therefore suggests that ethical clarity will not come from invoking 'natural kinds' alone, but from specifying which moral interests are at stake, why boundary-crossing matters, and when social unease reflects genuine harm rather than moral confusion ref [17], ref [9], ref [12].",
+    "refNo": 9,
+    "title": "Part-human chimeras: worrying the facts, probing the ethics",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "The literature therefore suggests that ethical clarity will not come from invoking 'natural kinds' alone, but from specifying which moral interests are at stake, why boundary-crossing matters, and when social unease reflects genuine harm rather than moral confusion ref [17], ref [9], ref [12].",
+    "refNo": 12,
+    "title": "Animal eggs for stem cell research: a path not worth taking",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "From a practical ethics perspective, chimeric organ farming is usually justified by the severity of transplantable organ scarcity and the prospect of generating patient-matched organs through blastocyst complementation in large animals, especially pigs ref [14].",
+    "refNo": 14,
+    "title": "Humananimal chimeras: ethical issues about farming chimeric animals bearing human organs",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "A recurring concern is that organs grown in animals may carry residual animal cells, proteins, or infectious agents, including porcine endogenous retroviral risks, thereby complicating informed consent and first-in-human trials ref [14].",
+    "refNo": 14,
+    "title": "Humananimal chimeras: ethical issues about farming chimeric animals bearing human organs",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Relatedly, proposals to genetically disable neural or germline contribution of human cells, sterilize host animals, and quantify chimerism thresholds are ethically significant because they operationalize moral limits rather than merely asserting them ref [14].",
+    "refNo": 14,
+    "title": "Humananimal chimeras: ethical issues about farming chimeric animals bearing human organs",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Even if pigs are already used for food and biomedical research, farming them as bioreactors for human organs may intensify instrumentalization and demands species-specific welfare protections throughout gestation, husbandry, and harvesting procedures ref [14].",
+    "refNo": 14,
+    "title": "Humananimal chimeras: ethical issues about farming chimeric animals bearing human organs",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "The practical ethical balance is therefore conditional: chimeric organ farming is more defensible when no comparably effective alternative exists, when welfare burdens are minimized, and when public oversight accompanies scientific decision-making ref [14].",
+    "refNo": 14,
+    "title": "Humananimal chimeras: ethical issues about farming chimeric animals bearing human organs",
+    "marker_text": "[14]"
+  }
+]

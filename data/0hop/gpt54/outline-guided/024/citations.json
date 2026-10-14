@@ -1,0 +1,902 @@
+[
+  {
+    "sentence": "Nano-enabled and bio-based carriers—including nanoemulsions, liposomes, micelles, solid lipid nanoparticles, polysaccharide matrices, and mesoporous materials—can improve solubility, protect labile compounds from oxidation or digestion, and enable controlled release of vitamins, amino acids, antioxidants, and trace minerals ref [1], ref [2].",
+    "refNo": 1,
+    "title": "Potential of nanomaterial applications in dietary supplements and foods for special medical purposes",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Nano-enabled and bio-based carriers—including nanoemulsions, liposomes, micelles, solid lipid nanoparticles, polysaccharide matrices, and mesoporous materials—can improve solubility, protect labile compounds from oxidation or digestion, and enable controlled release of vitamins, amino acids, antioxidants, and trace minerals ref [1], ref [2].",
+    "refNo": 2,
+    "title": "Nanodelivery: an emerging avenue for nutraceuticals and drug delivery",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "In broader nutraceutical science, these systems have been developed specifically to enhance bioavailability, preserve bioactivity, and reduce the dose required for physiological efficacy, concepts that are directly relevant to poultry feeds, water-administered supplements, and hatchery interventions ref [1], ref [2].",
+    "refNo": 1,
+    "title": "Potential of nanomaterial applications in dietary supplements and foods for special medical purposes",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "In broader nutraceutical science, these systems have been developed specifically to enhance bioavailability, preserve bioactivity, and reduce the dose required for physiological efficacy, concepts that are directly relevant to poultry feeds, water-administered supplements, and hatchery interventions ref [1], ref [2].",
+    "refNo": 2,
+    "title": "Nanodelivery: an emerging avenue for nutraceuticals and drug delivery",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Encapsulation can reduce antagonistic interactions within the feed matrix, minimize leaching or degradation during storage, and improve intestinal delivery under variable pH conditions ref [1], ref [2].",
+    "refNo": 1,
+    "title": "Potential of nanomaterial applications in dietary supplements and foods for special medical purposes",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Encapsulation can reduce antagonistic interactions within the feed matrix, minimize leaching or degradation during storage, and improve intestinal delivery under variable pH conditions ref [1], ref [2].",
+    "refNo": 2,
+    "title": "Nanodelivery: an emerging avenue for nutraceuticals and drug delivery",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Evidence that in ovo administration of sulfur-containing amino acids attenuated heat-stress biomarkers, improved antioxidant indices, and upregulated glutathione peroxidase-related responses in newly hatched broilers supports the broader rationale for embryo-targeted nutraceutical delivery ref [19].",
+    "refNo": 19,
+    "title": "Dietary arginine: metabolic, environmental, immunological and physiological interrelationships",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Reviews of nanomaterial use in dietary supplements emphasize that improved absorption must be balanced against toxicological uncertainty and the need for rigorous characterization of nanoformulations ref [1], ref [2].",
+    "refNo": 1,
+    "title": "Potential of nanomaterial applications in dietary supplements and foods for special medical purposes",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Reviews of nanomaterial use in dietary supplements emphasize that improved absorption must be balanced against toxicological uncertainty and the need for rigorous characterization of nanoformulations ref [1], ref [2].",
+    "refNo": 2,
+    "title": "Nanodelivery: an emerging avenue for nutraceuticals and drug delivery",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Accordingly, the next generation of poultry nutraceuticals is likely to combine efficacy-oriented formulation design with safety-by-design principles, favoring biodegradable, food-grade, and application-specific platforms for heat stress management, gut health support, and micronutrient optimization ref [1], ref [2], ref [19].",
+    "refNo": 1,
+    "title": "Potential of nanomaterial applications in dietary supplements and foods for special medical purposes",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Accordingly, the next generation of poultry nutraceuticals is likely to combine efficacy-oriented formulation design with safety-by-design principles, favoring biodegradable, food-grade, and application-specific platforms for heat stress management, gut health support, and micronutrient optimization ref [1], ref [2], ref [19].",
+    "refNo": 2,
+    "title": "Nanodelivery: an emerging avenue for nutraceuticals and drug delivery",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Accordingly, the next generation of poultry nutraceuticals is likely to combine efficacy-oriented formulation design with safety-by-design principles, favoring biodegradable, food-grade, and application-specific platforms for heat stress management, gut health support, and micronutrient optimization ref [1], ref [2], ref [19].",
+    "refNo": 19,
+    "title": "Dietary arginine: metabolic, environmental, immunological and physiological interrelationships",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Aronson argued that no internationally accepted definition adequately separates nutraceuticals from foods, fortified foods, dietary supplements, or medicinal products, and recommended more precise terminology instead of using a vague umbrella label ref [4].",
+    "refNo": 4,
+    "title": "Defining 'nutraceuticals': neither nutritious nor pharmaceutical",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "For poultry science, however, the term still has practical value as a functional category for feed-derived bioactive compounds that deliver benefits beyond meeting basal nutrient requirements, especially when discussing amino acids, vitamins, minerals, probiotics, phytogenics, organic acids, and related feed additives ref [5].",
+    "refNo": 5,
+    "title": "Role of nutraceuticals in gut health and growth performance of poultry",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Reviews of antibiotic alternatives describe nutraceuticals as dietary tools that can stabilize gut ecology, improve mucosal barrier function, modulate immunity, and sustain growth performance under commercial stressors ref [5], ref [6].",
+    "refNo": 5,
+    "title": "Role of nutraceuticals in gut health and growth performance of poultry",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Reviews of antibiotic alternatives describe nutraceuticals as dietary tools that can stabilize gut ecology, improve mucosal barrier function, modulate immunity, and sustain growth performance under commercial stressors ref [5], ref [6].",
+    "refNo": 6,
+    "title": "Exploring alternatives to antibiotics as health promoting agents in poultry-a review",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "This framing is particularly important because antibiotic restriction has intensified interest in non-antibiotic interventions that preserve health and productivity while limiting antimicrobial resistance pressures ref [6].",
+    "refNo": 6,
+    "title": "Exploring alternatives to antibiotics as health promoting agents in poultry-a review",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "At the same time, evidence from raised-without-antibiotics systems indicates that removing antimicrobial tools without effective alternatives may increase welfare risks and disease burden, underscoring the need for robust nutraceutical strategies rather than simple ingredient substitution ref [7].",
+    "refNo": 7,
+    "title": "Raised without antibiotics: impact on animal welfare and implications for food policy",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Their relevance extends from gut health and pathogen control to oxidative balance, stress mitigation, skeletal integrity, and immune competence, thereby positioning essential amino acids, vitamins, and minerals not only as nutrients but also as functional modulators of poultry biology ref [5], ref [6].",
+    "refNo": 5,
+    "title": "Role of nutraceuticals in gut health and growth performance of poultry",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Their relevance extends from gut health and pathogen control to oxidative balance, stress mitigation, skeletal integrity, and immune competence, thereby positioning essential amino acids, vitamins, and minerals not only as nutrients but also as functional modulators of poultry biology ref [5], ref [6].",
+    "refNo": 6,
+    "title": "Exploring alternatives to antibiotics as health promoting agents in poultry-a review",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "This functional definition is especially useful for evaluating evidence across conventional, antibiotic-reduced, and antibiotic-free production systems ref [7], ref [4].",
+    "refNo": 7,
+    "title": "Raised without antibiotics: impact on animal welfare and implications for food policy",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "This functional definition is especially useful for evaluating evidence across conventional, antibiotic-reduced, and antibiotic-free production systems ref [7], ref [4].",
+    "refNo": 4,
+    "title": "Defining 'nutraceuticals': neither nutritious nor pharmaceutical",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Early microbial succession after hatch strongly shapes this ecosystem, while dysbiosis diverts nutrients toward inflammation, increases toxic fermentation products, and depresses feed efficiency and growth ref [9].",
+    "refNo": 9,
+    "title": "Strategies to modulate the intestinal microbiota and their effects on nutrient utilization, performance, and health of poultry",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Consequently, nutraceutical strategies that stabilize microbial ecology are now integral to antibiotic-reduction programs in poultry ref [9], ref [10].",
+    "refNo": 9,
+    "title": "Strategies to modulate the intestinal microbiota and their effects on nutrient utilization, performance, and health of poultry",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Consequently, nutraceutical strategies that stabilize microbial ecology are now integral to antibiotic-reduction programs in poultry ref [9], ref [10].",
+    "refNo": 10,
+    "title": "Prebiotics, probiotics, synbiotics, and the immune system: experimental data and clinical evidence",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "They act through competitive exclusion, antagonism against enteropathogens, modulation of digestive activity, and stimulation of mucosal and systemic immunity ref [8], ref [10].",
+    "refNo": 8,
+    "title": "The role of probiotics in the poultry industry",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "They act through competitive exclusion, antagonism against enteropathogens, modulation of digestive activity, and stimulation of mucosal and systemic immunity ref [8], ref [10].",
+    "refNo": 10,
+    "title": "Prebiotics, probiotics, synbiotics, and the immune system: experimental data and clinical evidence",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "In poultry, probiotic supplementation has been associated with reduced Salmonella and Campylobacter colonization, improved cecal microflora composition, enhanced villus architecture, and better performance, although responses are strain-, dose-, and management-dependent ref [8], ref [9].",
+    "refNo": 8,
+    "title": "The role of probiotics in the poultry industry",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "In poultry, probiotic supplementation has been associated with reduced Salmonella and Campylobacter colonization, improved cecal microflora composition, enhanced villus architecture, and better performance, although responses are strain-, dose-, and management-dependent ref [8], ref [9].",
+    "refNo": 9,
+    "title": "Strategies to modulate the intestinal microbiota and their effects on nutrient utilization, performance, and health of poultry",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Prebiotics and synbiotics complement these effects by selectively enriching beneficial taxa, increasing short-chain fatty acid production, and reinforcing immune tolerance and epithelial integrity ref [9], ref [10].",
+    "refNo": 9,
+    "title": "Strategies to modulate the intestinal microbiota and their effects on nutrient utilization, performance, and health of poultry",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Prebiotics and synbiotics complement these effects by selectively enriching beneficial taxa, increasing short-chain fatty acid production, and reinforcing immune tolerance and epithelial integrity ref [9], ref [10].",
+    "refNo": 10,
+    "title": "Prebiotics, probiotics, synbiotics, and the immune system: experimental data and clinical evidence",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Cinnamon oil, rich in cinnamaldehyde and related phenolics, shows antimicrobial activity against E. coli, Salmonella, and other poultry pathogens while often increasing Lactobacillus and Bifidobacterium abundance and improving feed conversion and antioxidant status ref [11].",
+    "refNo": 11,
+    "title": "Cinnamon (Cinnamomum zeylanicum) oil as a potential alternative to antibiotics in poultry",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Importantly, gut-modulating additives may also alter drug disposition; dietary probiotic or prebiotic inclusion increased florfenicol exposure and tissue persistence in broilers, underscoring the need to integrate microbiome-targeted nutraceuticals with antimicrobial stewardship and residue management ref [6].",
+    "refNo": 6,
+    "title": "Exploring alternatives to antibiotics as health promoting agents in poultry-a review",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "A recent review shows that supranutritional vitamin A, E, and C, together with Zn and Se, consistently improve redox balance and performance under high environmental temperature, with combined supplementation often outperforming single nutrients ref [13].",
+    "refNo": 13,
+    "title": "Impact of selected antioxidant vitamins (vitamin A, E, and C) and microminerals (Zn, Se) on the antioxidant status and performance under high environmental temperature in poultry; a review",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "In broilers, organic trace mineral programs have been associated with better growth, carcass traits, and immune responses than inorganic forms ref [15].",
+    "refNo": 15,
+    "title": "Water amino acid-chelated trace mineral supplementation decreases circulating and intestinal HSP70 and proinflammatory cytokine gene expression in heat-stressed broiler chickens",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Under heat stress, zinc-methionine improved weight gain, feed efficiency, protein utilization, glutathione peroxidase activity, humoral immunity, muscle Zn deposition, and reduced malondialdehyde, indicating tighter control of oxidative injury ref [17].",
+    "refNo": 17,
+    "title": "Effects of in ovo methionine-cysteine injection on embryonic development, antioxidant status, IGF-I and TLR4 gene expression, and jejunum histomorphometry in newly hatched broiler chicks exposed to heat stress during incubation",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Water-delivered amino acid-chelated trace minerals reduced circulating corticosterone, HSP70, FITC-dextran leakage, and pro-inflammatory cytokine expression in heat-stressed broilers, suggesting benefits at the gut–immune–stress axis ref [16].",
+    "refNo": 16,
+    "title": "Effect of dietary zinc-methionine supplementation on growth performance, nutrient utilization, antioxidative properties and immune response in broiler chickens under high ambient temperature",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Developmental programming may also contribute: in ovo methionine-cysteine administration during thermal challenge increased total antioxidant capacity and glutathione, lowered HSP90, and enhanced IGF-I, TLR4, and jejunal morphometry in hatchlings ref [8].",
+    "refNo": 8,
+    "title": "The role of probiotics in the poultry industry",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Collectively, antioxidants and bioavailable trace minerals function as practical nutraceutical tools to improve resilience, welfare, and productivity during environmental and metabolic stress ref [13], ref [15]-ref [17], ref [8].",
+    "refNo": 13,
+    "title": "Impact of selected antioxidant vitamins (vitamin A, E, and C) and microminerals (Zn, Se) on the antioxidant status and performance under high environmental temperature in poultry; a review",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Collectively, antioxidants and bioavailable trace minerals function as practical nutraceutical tools to improve resilience, welfare, and productivity during environmental and metabolic stress ref [13], ref [15]-ref [17], ref [8].",
+    "refNo": 15,
+    "title": "Water amino acid-chelated trace mineral supplementation decreases circulating and intestinal HSP70 and proinflammatory cytokine gene expression in heat-stressed broiler chickens",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Collectively, antioxidants and bioavailable trace minerals function as practical nutraceutical tools to improve resilience, welfare, and productivity during environmental and metabolic stress ref [13], ref [15]-ref [17], ref [8].",
+    "refNo": 17,
+    "title": "Effects of in ovo methionine-cysteine injection on embryonic development, antioxidant status, IGF-I and TLR4 gene expression, and jejunum histomorphometry in newly hatched broiler chicks exposed to heat stress during incubation",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Collectively, antioxidants and bioavailable trace minerals function as practical nutraceutical tools to improve resilience, welfare, and productivity during environmental and metabolic stress ref [13], ref [15]-ref [17], ref [8].",
+    "refNo": 8,
+    "title": "The role of probiotics in the poultry industry",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Trophic amino acids such as threonine, arginine, and glutamine are particularly relevant because the intestine has high nutrient demands and rapid epithelial turnover, especially during coccidiosis or necrotic enteritis challenge ref [18], ref [12].",
+    "refNo": 18,
+    "title": "Threonine, arginine, and glutamine: Influences on intestinal physiology, immunology, and microbiology in broilers",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Trophic amino acids such as threonine, arginine, and glutamine are particularly relevant because the intestine has high nutrient demands and rapid epithelial turnover, especially during coccidiosis or necrotic enteritis challenge ref [18], ref [12].",
+    "refNo": 12,
+    "title": "Effects of the dietary inclusion of a probiotic or prebiotic on florfenicol pharmacokinetic profile in broiler chicken",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "More broadly, amino acids influence leukocyte activation, cytokine production, redox balance, and barrier maintenance, supporting the concept that requirement estimates based solely on growth may underestimate needs under commercial stress conditions ref [12].",
+    "refNo": 12,
+    "title": "Effects of the dietary inclusion of a probiotic or prebiotic on florfenicol pharmacokinetic profile in broiler chicken",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Threonine is central to mucin synthesis and mucosal defense; higher dietary threonine improves gut morphology, supports Ig-related responses, and can enhance growth and immune performance when protein supply or sanitary conditions are suboptimal ref [10], ref [13], ref [18].",
+    "refNo": 10,
+    "title": "Prebiotics, probiotics, synbiotics, and the immune system: experimental data and clinical evidence",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Threonine is central to mucin synthesis and mucosal defense; higher dietary threonine improves gut morphology, supports Ig-related responses, and can enhance growth and immune performance when protein supply or sanitary conditions are suboptimal ref [10], ref [13], ref [18].",
+    "refNo": 13,
+    "title": "Impact of selected antioxidant vitamins (vitamin A, E, and C) and microminerals (Zn, Se) on the antioxidant status and performance under high environmental temperature in poultry; a review",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Threonine is central to mucin synthesis and mucosal defense; higher dietary threonine improves gut morphology, supports Ig-related responses, and can enhance growth and immune performance when protein supply or sanitary conditions are suboptimal ref [10], ref [13], ref [18].",
+    "refNo": 18,
+    "title": "Threonine, arginine, and glutamine: Influences on intestinal physiology, immunology, and microbiology in broilers",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Arginine is indispensable in birds because of limited endogenous synthesis, and serves as a precursor for nitric oxide and polyamines, thereby linking vasoregulation, immune activation, and epithelial restitution ref [20], ref [12].",
+    "refNo": 20,
+    "title": "Influence of dietary glutamine supplementation on growth performance, small intestinal morphology, immune response and some blood parameters of broiler chickens",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Arginine is indispensable in birds because of limited endogenous synthesis, and serves as a precursor for nitric oxide and polyamines, thereby linking vasoregulation, immune activation, and epithelial restitution ref [20], ref [12].",
+    "refNo": 12,
+    "title": "Effects of the dietary inclusion of a probiotic or prebiotic on florfenicol pharmacokinetic profile in broiler chicken",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "In challenged broilers, supplemental arginine attenuates villus damage and reduces inflammatory signaling during coccidial insult, indicating a clear nutraceutical role beyond growth promotion ref [25], ref [18].",
+    "refNo": 25,
+    "title": "Growth and immune response of broilers in relation to varying dietary levels of methionine and threonine",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "In challenged broilers, supplemental arginine attenuates villus damage and reduces inflammatory signaling during coccidial insult, indicating a clear nutraceutical role beyond growth promotion ref [25], ref [18].",
+    "refNo": 18,
+    "title": "Threonine, arginine, and glutamine: Influences on intestinal physiology, immunology, and microbiology in broilers",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Its supplementation has been associated with improved villus architecture, immune indices, and performance in broilers, particularly when intestinal integrity is compromised ref [22], ref [18], ref [12].",
+    "refNo": 22,
+    "title": "Supplemental dietery L-arginine attenuates intestinal mucosal disruption during a coccidial vaccine challenge in broiler chickens",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Its supplementation has been associated with improved villus architecture, immune indices, and performance in broilers, particularly when intestinal integrity is compromised ref [22], ref [18], ref [12].",
+    "refNo": 18,
+    "title": "Threonine, arginine, and glutamine: Influences on intestinal physiology, immunology, and microbiology in broilers",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Its supplementation has been associated with improved villus architecture, immune indices, and performance in broilers, particularly when intestinal integrity is compromised ref [22], ref [18], ref [12].",
+    "refNo": 12,
+    "title": "Effects of the dietary inclusion of a probiotic or prebiotic on florfenicol pharmacokinetic profile in broiler chicken",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Sulfur amino acids also display functional benefits: methionine supports antioxidant defenses and immune responsiveness, while methionine or methionine dipeptide supplementation mitigates Eimeria-induced oxidative stress in the jejunum ref [24], ref [13].",
+    "refNo": 24,
+    "title": "Amino acids and immune function",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Sulfur amino acids also display functional benefits: methionine supports antioxidant defenses and immune responsiveness, while methionine or methionine dipeptide supplementation mitigates Eimeria-induced oxidative stress in the jejunum ref [24], ref [13].",
+    "refNo": 13,
+    "title": "Impact of selected antioxidant vitamins (vitamin A, E, and C) and microminerals (Zn, Se) on the antioxidant status and performance under high environmental temperature in poultry; a review",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Collectively, these data position selected amino acids as practical nutraceutical tools for precision support of gut health, immunity, and recovery in antibiotic-constrained poultry systems ref [18], ref [20], ref [22].",
+    "refNo": 18,
+    "title": "Threonine, arginine, and glutamine: Influences on intestinal physiology, immunology, and microbiology in broilers",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Collectively, these data position selected amino acids as practical nutraceutical tools for precision support of gut health, immunity, and recovery in antibiotic-constrained poultry systems ref [18], ref [20], ref [22].",
+    "refNo": 20,
+    "title": "Influence of dietary glutamine supplementation on growth performance, small intestinal morphology, immune response and some blood parameters of broiler chickens",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Collectively, these data position selected amino acids as practical nutraceutical tools for precision support of gut health, immunity, and recovery in antibiotic-constrained poultry systems ref [18], ref [20], ref [22].",
+    "refNo": 22,
+    "title": "Supplemental dietery L-arginine attenuates intestinal mucosal disruption during a coccidial vaccine challenge in broiler chickens",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Selenium is central to this network because it supports selenoproteins such as glutathione peroxidases and thioredoxin reductases, while also sparing or recycling non-enzymatic antioxidants including vitamin E and glutathione; thus, Se status can modify responses to vitamin supplementation and oxidative challenge ref [26].",
+    "refNo": 26,
+    "title": "Nutritional modulation of the antioxidant capacities in poultry: the case of selenium",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "Under heat stress, combined use of antioxidant vitamins (A, E, C) with Zn and Se is generally more effective than single-nutrient supplementation for limiting lipid peroxidation, sustaining enzyme activity, and preserving performance ref [13].",
+    "refNo": 13,
+    "title": "Impact of selected antioxidant vitamins (vitamin A, E, and C) and microminerals (Zn, Se) on the antioxidant status and performance under high environmental temperature in poultry; a review",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "This complementarity explains why organic trace minerals often strengthen antioxidant defence despite lower inclusion rates than inorganic salts ref [16].",
+    "refNo": 16,
+    "title": "Effect of dietary zinc-methionine supplementation on growth performance, nutrient utilization, antioxidative properties and immune response in broiler chickens under high ambient temperature",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "In layers, methionine hydroxy analog-chelated Cu/Mn/Zn increased carbonic anhydrase, ceruloplasmin and Mn-superoxide dismutase activities, while improving shell quality and mineral retention, indicating that mineral form influences both oxidative metabolism and productive traits ref [15].",
+    "refNo": 15,
+    "title": "Water amino acid-chelated trace mineral supplementation decreases circulating and intestinal HSP70 and proinflammatory cytokine gene expression in heat-stressed broiler chickens",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Replacing inorganic Zn with zinc-methionine improved lymphocyte proportions, reduced heterophil:lymphocyte ratio, and enhanced vaccine and secondary antibody responses in broilers ref [17].",
+    "refNo": 17,
+    "title": "Effects of in ovo methionine-cysteine injection on embryonic development, antioxidant status, IGF-I and TLR4 gene expression, and jejunum histomorphometry in newly hatched broiler chicks exposed to heat stress during incubation",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Under high ambient temperature, zinc-methionine further improved growth, protein utilization, glutathione peroxidase activity, meat Zn deposition, and reduced malondialdehyde, illustrating how organic Zn can amplify antioxidant and immune outcomes when birds face redox imbalance ref [19].",
+    "refNo": 19,
+    "title": "Dietary arginine: metabolic, environmental, immunological and physiological interrelationships",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Collectively, these data support form-specific, combination-based vitamin–mineral strategies as a practical nutraceutical approach in poultry production ref [26], ref [13], ref [16].",
+    "refNo": 26,
+    "title": "Nutritional modulation of the antioxidant capacities in poultry: the case of selenium",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "Collectively, these data support form-specific, combination-based vitamin–mineral strategies as a practical nutraceutical approach in poultry production ref [26], ref [13], ref [16].",
+    "refNo": 13,
+    "title": "Impact of selected antioxidant vitamins (vitamin A, E, and C) and microminerals (Zn, Se) on the antioxidant status and performance under high environmental temperature in poultry; a review",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Collectively, these data support form-specific, combination-based vitamin–mineral strategies as a practical nutraceutical approach in poultry production ref [26], ref [13], ref [16].",
+    "refNo": 16,
+    "title": "Effect of dietary zinc-methionine supplementation on growth performance, nutrient utilization, antioxidative properties and immune response in broiler chickens under high ambient temperature",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Vitamins are foundational nutraceuticals in poultry because they participate directly in energy metabolism, epithelial integrity, skeletal development, reproduction, antioxidant protection, and immune regulation; however, their practical value depends on bioavailability, ingredient stability, bird age, health status, and production objectives rather than simple inclusion above requirement tables ref [30], ref [32].",
+    "refNo": 30,
+    "title": "Vitamins in feedstuffs",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "Vitamins are foundational nutraceuticals in poultry because they participate directly in energy metabolism, epithelial integrity, skeletal development, reproduction, antioxidant protection, and immune regulation; however, their practical value depends on bioavailability, ingredient stability, bird age, health status, and production objectives rather than simple inclusion above requirement tables ref [30], ref [32].",
+    "refNo": 32,
+    "title": "Effects of retinoids on immune responses in birds",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "In cereal–soy diets, natural vitamin supply is variable and losses during ingredient storage, pelleting, oxidation, and prolonged feed handling can be substantial, which justifies routine premix use as a preventive nutritional strategy ref [30].",
+    "refNo": 30,
+    "title": "Vitamins in feedstuffs",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "This is especially clear for vitamin A, where inadequate intake compromises mucosal barriers, antibody production, T-cell responsiveness, and resistance to bacterial, viral, and protozoal challenge, whereas excessive intake may also depress immunity and induce toxicity-related tissue damage ref [32].",
+    "refNo": 32,
+    "title": "Effects of retinoids on immune responses in birds",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "Vitamin D is classically linked to calcium–phosphorus homeostasis and bone integrity, but its broader endocrine and immunomodulatory roles suggest that adequacy may influence disease resistance and metabolic robustness beyond rickets prevention ref [31].",
+    "refNo": 31,
+    "title": "Vitamin D: importance in the prevention of cancers, type 1 diabetes, heart disease, and osteoporosis",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "More broadly, modern genotypes, intensive growth, environmental stress, and vaccination pressure may shift practical vitamin needs upward relative to minimal historical requirements, supporting the nutraceutical concept of targeted safety margins and strategic multivitamin fortification in commercial poultry systems ref [30], ref [31], ref [32].",
+    "refNo": 30,
+    "title": "Vitamins in feedstuffs",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "More broadly, modern genotypes, intensive growth, environmental stress, and vaccination pressure may shift practical vitamin needs upward relative to minimal historical requirements, supporting the nutraceutical concept of targeted safety margins and strategic multivitamin fortification in commercial poultry systems ref [30], ref [31], ref [32].",
+    "refNo": 31,
+    "title": "Vitamin D: importance in the prevention of cancers, type 1 diabetes, heart disease, and osteoporosis",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "More broadly, modern genotypes, intensive growth, environmental stress, and vaccination pressure may shift practical vitamin needs upward relative to minimal historical requirements, supporting the nutraceutical concept of targeted safety margins and strategic multivitamin fortification in commercial poultry systems ref [30], ref [31], ref [32].",
+    "refNo": 32,
+    "title": "Effects of retinoids on immune responses in birds",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "Vitamin C is the best studied example: although poultry can synthesize ascorbate, supplemental inclusion is repeatedly reported to improve growth, nutrient utilization, carcass quality, bone characteristics, and several immune indices under commercial or stressful conditions, particularly heat load [3], ref [38].",
+    "refNo": 3,
+    "title": "Effects of in ovo injection of sulfur-containing amino acids on heat shock protein 70, corticosterone hormone, antioxidant indices, and lipid profile of newly hatched broiler chicks exposed to heat stress during incubation",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Vitamin C is the best studied example: although poultry can synthesize ascorbate, supplemental inclusion is repeatedly reported to improve growth, nutrient utilization, carcass quality, bone characteristics, and several immune indices under commercial or stressful conditions, particularly heat load [3], ref [38].",
+    "refNo": 38,
+    "title": "Effects of thiamine and clenbuterol on body composition, plasma metabolites and hepatic oxygen consumption in broiler chicks",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "In broilers, graded dietary ascorbic acid increased weight gain and digestibility and improved selected lymphocyte subsets and post-vaccinal infectious bursal disease antibody titers, with benefits most evident at higher supplementation levels [3].",
+    "refNo": 3,
+    "title": "Effects of in ovo injection of sulfur-containing amino acids on heat shock protein 70, corticosterone hormone, antioxidant indices, and lipid profile of newly hatched broiler chicks exposed to heat stress during incubation",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Under high stocking density, dietary vitamin C also improved performance, moderated adverse blood biochemical changes, and upregulated heat-shock-response transcripts, indicating a role in stress resilience [8].",
+    "refNo": 8,
+    "title": "The role of probiotics in the poultry industry",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Multivitamin administration in drinking water, especially when combined with enzymes, improved body weight and erythrocyte-related hematological indices in broilers, suggesting better nutrient utilization and metabolic status under field conditions [1].",
+    "refNo": 1,
+    "title": "Potential of nanomaterial applications in dietary supplements and foods for special medical purposes",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "In ovo delivery of vitamin C, pyridoxine, or cyanocobalamin in Japanese quail enhanced early growth, improved protein and lipid profiles, and increased thymus and bursa development, despite variable hatchability responses [10].",
+    "refNo": 10,
+    "title": "Prebiotics, probiotics, synbiotics, and the immune system: experimental data and clinical evidence",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Thiamine has also been linked with altered energy metabolism, lower plasma triglycerides, and greater hepatic oxygen consumption, consistent with effects on oxidative metabolism and muscle accretion [12].",
+    "refNo": 12,
+    "title": "Effects of the dietary inclusion of a probiotic or prebiotic on florfenicol pharmacokinetic profile in broiler chicken",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "In White Pekin ducks, supplemental cyanocobalamin did not markedly change weight gain over 21 d, but significantly improved leukocyte, erythrocyte, hemoglobin, hematocrit, and platelet indices, supporting its value for blood formation and early physiological robustness [13].",
+    "refNo": 13,
+    "title": "Impact of selected antioxidant vitamins (vitamin A, E, and C) and microminerals (Zn, Se) on the antioxidant status and performance under high environmental temperature in poultry; a review",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Collectively, current evidence suggests that water-soluble vitamin supplementation is most defensible as a precision nutraceutical strategy during early life, incubation, heat or density stress, and periods of immune challenge, whereas routine blanket overuse remains insufficiently justified [3], ref [38], [10], [13].",
+    "refNo": 3,
+    "title": "Effects of in ovo injection of sulfur-containing amino acids on heat shock protein 70, corticosterone hormone, antioxidant indices, and lipid profile of newly hatched broiler chicks exposed to heat stress during incubation",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Collectively, current evidence suggests that water-soluble vitamin supplementation is most defensible as a precision nutraceutical strategy during early life, incubation, heat or density stress, and periods of immune challenge, whereas routine blanket overuse remains insufficiently justified [3], ref [38], [10], [13].",
+    "refNo": 38,
+    "title": "Effects of thiamine and clenbuterol on body composition, plasma metabolites and hepatic oxygen consumption in broiler chicks",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Collectively, current evidence suggests that water-soluble vitamin supplementation is most defensible as a precision nutraceutical strategy during early life, incubation, heat or density stress, and periods of immune challenge, whereas routine blanket overuse remains insufficiently justified [3], ref [38], [10], [13].",
+    "refNo": 10,
+    "title": "Prebiotics, probiotics, synbiotics, and the immune system: experimental data and clinical evidence",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Collectively, current evidence suggests that water-soluble vitamin supplementation is most defensible as a precision nutraceutical strategy during early life, incubation, heat or density stress, and periods of immune challenge, whereas routine blanket overuse remains insufficiently justified [3], ref [38], [10], [13].",
+    "refNo": 13,
+    "title": "Impact of selected antioxidant vitamins (vitamin A, E, and C) and microminerals (Zn, Se) on the antioxidant status and performance under high environmental temperature in poultry; a review",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Vitamin A is essential for epithelial integrity, reproduction and immune regulation, yet its response is dose-dependent: moderate supplementation improved egg production and some immune indices in heat-stressed layers, whereas excessive inclusion in broiler breeders impaired eggshell quality, hatchability, liver-related indices and lymphocyte responses ref [18], ref [20].",
+    "refNo": 18,
+    "title": "Threonine, arginine, and glutamine: Influences on intestinal physiology, immunology, and microbiology in broilers",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Vitamin A is essential for epithelial integrity, reproduction and immune regulation, yet its response is dose-dependent: moderate supplementation improved egg production and some immune indices in heat-stressed layers, whereas excessive inclusion in broiler breeders impaired eggshell quality, hatchability, liver-related indices and lymphocyte responses ref [18], ref [20].",
+    "refNo": 20,
+    "title": "Influence of dietary glutamine supplementation on growth performance, small intestinal morphology, immune response and some blood parameters of broiler chickens",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "These findings reinforce that vitamin A is beneficial within a physiologically appropriate range, but oversupply can become counterproductive ref [18], ref [20].",
+    "refNo": 18,
+    "title": "Threonine, arginine, and glutamine: Influences on intestinal physiology, immunology, and microbiology in broilers",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "These findings reinforce that vitamin A is beneficial within a physiologically appropriate range, but oversupply can become counterproductive ref [18], ref [20].",
+    "refNo": 20,
+    "title": "Influence of dietary glutamine supplementation on growth performance, small intestinal morphology, immune response and some blood parameters of broiler chickens",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "In layers, supplemental vitamin D3, D2 or 25-hydroxyvitamin D3 improved calcium and phosphorus utilization, although effects on egg quality and bone mineral density were limited when basal Ca, P and vitamin D supply was already adequate ref [11].",
+    "refNo": 11,
+    "title": "Cinnamon (Cinnamomum zeylanicum) oil as a potential alternative to antibiotics in poultry",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "In broilers, source and level are important: 25-hydroxyvitamin D3 generally supported superior growth, tibia ash and lower tibial dyschondroplasia than cholecalciferol at equivalent nominal activity, while vitamin D3 metabolites can also improve bone traits and, in some cases, meat quality ref [13], ref [14].",
+    "refNo": 13,
+    "title": "Impact of selected antioxidant vitamins (vitamin A, E, and C) and microminerals (Zn, Se) on the antioxidant status and performance under high environmental temperature in poultry; a review",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "In broilers, source and level are important: 25-hydroxyvitamin D3 generally supported superior growth, tibia ash and lower tibial dyschondroplasia than cholecalciferol at equivalent nominal activity, while vitamin D3 metabolites can also improve bone traits and, in some cases, meat quality ref [13], ref [14].",
+    "refNo": 14,
+    "title": "Comparative effects of inorganic and three forms of organic trace minerals on growth performance, carcass traits, immunity, and profitability of broilers",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Beyond mineral homeostasis, vitamin D shows clear immunomodulatory activity in chickens, with effects shaped by dose and dietary calcium-phosphorus status ref [12].",
+    "refNo": 12,
+    "title": "Effects of the dietary inclusion of a probiotic or prebiotic on florfenicol pharmacokinetic profile in broiler chicken",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Current perspectives emphasize that tocopherols and tocotrienols are not biologically redundant, and source or isoform may influence antioxidant potency and downstream physiological outcomes ref [47].",
+    "refNo": 47,
+    "title": "Effect of dietary vitamin A on reproductive performance and immune response of broiler breeders",
+    "marker_text": "[47]"
+  },
+  {
+    "sentence": "Vitamin K, although less discussed than A, D or E, is indispensable for osteocalcin carboxylation and bone mineralization; graded menadione supplementation improved bone breaking strength, mineral density and bone ash in broilers, with early growth appearing especially responsive ref [16].",
+    "refNo": 16,
+    "title": "Effect of dietary zinc-methionine supplementation on growth performance, nutrient utilization, antioxidative properties and immune response in broiler chickens under high ambient temperature",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Nanoformulations, nanoemulsions, liposomes, solid lipid nanoparticles, polymeric carriers, and encapsulated mineral systems can protect labile actives during feed processing and gastrointestinal transit, enable controlled release, and improve epithelial uptake while potentially lowering required inclusion rates ref [1].",
+    "refNo": 1,
+    "title": "Potential of nanomaterial applications in dietary supplements and foods for special medical purposes",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "These principles are especially relevant for poultry, where rapid digesta passage and heterogeneous gut pH can limit the efficiency of conventional nutraceutical supplementation ref [48].",
+    "refNo": 48,
+    "title": "Nutritional and immunological effects of nanoparticles in commercial poultry birds",
+    "marker_text": "[48]"
+  },
+  {
+    "sentence": "In poultry, nanoparticle-based supplementation has been associated with improved growth, antioxidant status, immune modulation, and pathogen control, although responses remain strongly material- and dose-dependent ref [48].",
+    "refNo": 48,
+    "title": "Nutritional and immunological effects of nanoparticles in commercial poultry birds",
+    "marker_text": "[48]"
+  },
+  {
+    "sentence": "Reviews of commercial applications indicate promising outcomes for ZnO, Se, Cu, Ag, chitosan-based carriers, and calcium-phosphate nanoparticles, including better mineral utilization, enhanced immune indices, and reduced enteropathogen burden, but they also emphasize the need to balance efficacy with toxicological safety, tissue retention, and regulatory compliance ref [48].",
+    "refNo": 48,
+    "title": "Nutritional and immunological effects of nanoparticles in commercial poultry birds",
+    "marker_text": "[48]"
+  },
+  {
+    "sentence": "Similar translational considerations have been highlighted more broadly for nanoformulated dietary supplements and foods, where particle size, surface properties, and carrier composition determine both bioaccessibility and risk profiles ref [1].",
+    "refNo": 1,
+    "title": "Potential of nanomaterial applications in dietary supplements and foods for special medical purposes",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "A practical example of advanced delivery in broilers is the feed supplementation of a formulation combining ascorbic acid with a solid dispersion of curcumin in polyvinylpyrrolidone plus boric acid, which significantly reduced Salmonella Enteritidis colonization and partially mitigated necrotic enteritis-associated intestinal dysfunction ref [49].",
+    "refNo": 49,
+    "title": "Evaluation of the dietary supplementation of a formulation containing ascorbic acid and a solid dispersion of curcumin with boric acid against Salmonella Enteritidis and necrotic eneteris in broiler chickens",
+    "marker_text": "[49]"
+  },
+  {
+    "sentence": "This study illustrates how dispersion engineering can enhance the biological action of poorly soluble phytochemicals and support synergistic combinations of antioxidant and antimicrobial nutraceuticals ref [49].",
+    "refNo": 49,
+    "title": "Evaluation of the dietary supplementation of a formulation containing ascorbic acid and a solid dispersion of curcumin with boric acid against Salmonella Enteritidis and necrotic eneteris in broiler chickens",
+    "marker_text": "[49]"
+  },
+  {
+    "sentence": "Overall, next-generation delivery platforms offer a credible route to precision nutraceutical use in poultry, but further work is needed on dose optimization, stability in commercial feed manufacture, residue-free safety, and cost-effective scale-up ref [1], ref [48].",
+    "refNo": 1,
+    "title": "Potential of nanomaterial applications in dietary supplements and foods for special medical purposes",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Overall, next-generation delivery platforms offer a credible route to precision nutraceutical use in poultry, but further work is needed on dose optimization, stability in commercial feed manufacture, residue-free safety, and cost-effective scale-up ref [1], ref [48].",
+    "refNo": 48,
+    "title": "Nutritional and immunological effects of nanoparticles in commercial poultry birds",
+    "marker_text": "[48]"
+  },
+  {
+    "sentence": "In low-crude-protein programs, strategic inclusion of essential and nonessential amino acids can sustain growth while improving nitrogen efficiency, whereas inadequate methionine depresses gain and feed efficiency and alters amino-acid transporter expression and digestibility patterns, underscoring the need for functional rather than merely total amino acid formulation ref [54], ref [10].",
+    "refNo": 54,
+    "title": "Dietary methionine level alters growth, digestibility, and gene expression of amino acid transporters in meat-type chickens",
+    "marker_text": "[54]"
+  },
+  {
+    "sentence": "In low-crude-protein programs, strategic inclusion of essential and nonessential amino acids can sustain growth while improving nitrogen efficiency, whereas inadequate methionine depresses gain and feed efficiency and alters amino-acid transporter expression and digestibility patterns, underscoring the need for functional rather than merely total amino acid formulation ref [54], ref [10].",
+    "refNo": 10,
+    "title": "Prebiotics, probiotics, synbiotics, and the immune system: experimental data and clinical evidence",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Threonine is particularly responsive to diet context: requirements rise when protein digestibility is compromised, and supplementation above conventional recommendations improves feed conversion, villus architecture, ileal amino-acid digestibility, and immune organ development, especially in birds fed canola meal or other less digestible protein sources ref [51], ref [55].",
+    "refNo": 51,
+    "title": "Increasing zinc levels in phytase supplemented diets improves the performance and nutrient utilization of broiler chicken",
+    "marker_text": "[51]"
+  },
+  {
+    "sentence": "Threonine is particularly responsive to diet context: requirements rise when protein digestibility is compromised, and supplementation above conventional recommendations improves feed conversion, villus architecture, ileal amino-acid digestibility, and immune organ development, especially in birds fed canola meal or other less digestible protein sources ref [51], ref [55].",
+    "refNo": 55,
+    "title": "Effects of dietary supplementation of Lcarnitine and excess lysine-methionine on growth performance, carcass characteristics, and immunity markers of broiler chicken",
+    "marker_text": "[55]"
+  },
+  {
+    "sentence": "In phytase-supplemented diets, increasing zinc from marginal to moderate levels can improve body weight gain, phosphorus utilization, and net energy retention without suppressing phytase efficacy, although Zn retention patterns remain dose-dependent ref [23].",
+    "refNo": 23,
+    "title": "The threonine requirements and its effects on growth performance and gut morphology of broiler chicken fed different levels of protein",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Likewise, organic and chelated trace minerals often outperform inorganic salts in growth, carcass traits, immune indices, and profitability, reflecting improved stability and reduced antagonism in the gut ref [14].",
+    "refNo": 14,
+    "title": "Comparative effects of inorganic and three forms of organic trace minerals on growth performance, carcass traits, immunity, and profitability of broilers",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "This is especially relevant under elevated copper, where chelated zinc supports superior feed intake and weight gain relative to inorganic Zn, indicating better resilience to mineral-mineral competition ref [9].",
+    "refNo": 9,
+    "title": "Strategies to modulate the intestinal microbiota and their effects on nutrient utilization, performance, and health of poultry",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Methionine-lysine optimization, sometimes combined with L-carnitine, has been associated with improved growth efficiency and selective effects on carcass traits and vaccine-related immune responses, although responses depend on dose and background diet ref [11].",
+    "refNo": 11,
+    "title": "Cinnamon (Cinnamomum zeylanicum) oil as a potential alternative to antibiotics in poultry",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Collectively, these studies support a shift from fixed safety margins toward phase-specific, ingredient-sensitive, and source-specific nutrient delivery that integrates digestibility, bioavailability, and immunometabolic outcomes ref [14], ref [51], ref [23], ref [10].",
+    "refNo": 14,
+    "title": "Comparative effects of inorganic and three forms of organic trace minerals on growth performance, carcass traits, immunity, and profitability of broilers",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Collectively, these studies support a shift from fixed safety margins toward phase-specific, ingredient-sensitive, and source-specific nutrient delivery that integrates digestibility, bioavailability, and immunometabolic outcomes ref [14], ref [51], ref [23], ref [10].",
+    "refNo": 51,
+    "title": "Increasing zinc levels in phytase supplemented diets improves the performance and nutrient utilization of broiler chicken",
+    "marker_text": "[51]"
+  },
+  {
+    "sentence": "Collectively, these studies support a shift from fixed safety margins toward phase-specific, ingredient-sensitive, and source-specific nutrient delivery that integrates digestibility, bioavailability, and immunometabolic outcomes ref [14], ref [51], ref [23], ref [10].",
+    "refNo": 23,
+    "title": "The threonine requirements and its effects on growth performance and gut morphology of broiler chicken fed different levels of protein",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Collectively, these studies support a shift from fixed safety margins toward phase-specific, ingredient-sensitive, and source-specific nutrient delivery that integrates digestibility, bioavailability, and immunometabolic outcomes ref [14], ref [51], ref [23], ref [10].",
+    "refNo": 10,
+    "title": "Prebiotics, probiotics, synbiotics, and the immune system: experimental data and clinical evidence",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "This concept links poultry nutrition to public health by creating foods with altered lipid profiles, reduced cholesterol burden, or enhanced concentrations of vitamins, trace minerals, and antioxidant pigments [1], [3].",
+    "refNo": 1,
+    "title": "Potential of nanomaterial applications in dietary supplements and foods for special medical purposes",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "This concept links poultry nutrition to public health by creating foods with altered lipid profiles, reduced cholesterol burden, or enhanced concentrations of vitamins, trace minerals, and antioxidant pigments [1], [3].",
+    "refNo": 3,
+    "title": "Effects of in ovo injection of sulfur-containing amino acids on heat shock protein 70, corticosterone hormone, antioxidant indices, and lipid profile of newly hatched broiler chicks exposed to heat stress during incubation",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Inclusion of flaxseed, fish oil, microalgae, or stearidonic acid-rich oils can substantially increase yolk ALA, EPA, and DHA, although transfer efficiency depends strongly on source and dose and often plateaus at higher inclusion levels [3].",
+    "refNo": 3,
+    "title": "Effects of in ovo injection of sulfur-containing amino acids on heat shock protein 70, corticosterone hormone, antioxidant indices, and lipid profile of newly hatched broiler chicks exposed to heat stress during incubation",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Parallel approaches have produced selenium-, vitamin E-, carotenoid-, lutein-, and zeaxanthin-enriched eggs, improving their value as carriers of nutrients that are frequently inadequate in human diets [1], [3].",
+    "refNo": 1,
+    "title": "Potential of nanomaterial applications in dietary supplements and foods for special medical purposes",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Parallel approaches have produced selenium-, vitamin E-, carotenoid-, lutein-, and zeaxanthin-enriched eggs, improving their value as carriers of nutrients that are frequently inadequate in human diets [1], [3].",
+    "refNo": 3,
+    "title": "Effects of in ovo injection of sulfur-containing amino acids on heat shock protein 70, corticosterone hormone, antioxidant indices, and lipid profile of newly hatched broiler chicks exposed to heat stress during incubation",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Organic selenium is particularly effective for egg selenium fortification, while plant- and algae-derived pigments can enhance both yolk coloration and xanthophyll delivery [3].",
+    "refNo": 3,
+    "title": "Effects of in ovo injection of sulfur-containing amino acids on heat shock protein 70, corticosterone hormone, antioxidant indices, and lipid profile of newly hatched broiler chicks exposed to heat stress during incubation",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Designer eggs with improved n-6:n-3 ratios, added antioxidants, or lower yolk cholesterol have been positioned as functional foods for cardiovascular and ocular health, whereas emerging applications include enrichment with bioactives such as conjugated linoleic acid, phytoestrogen-related compounds, L-carnitine, GABA, and even egg-yolk antibodies (IgY) for immunonutritional use [3].",
+    "refNo": 3,
+    "title": "Effects of in ovo injection of sulfur-containing amino acids on heat shock protein 70, corticosterone hormone, antioxidant indices, and lipid profile of newly hatched broiler chicks exposed to heat stress during incubation",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Nevertheless, commercial translation requires balancing enrichment efficacy, sensory quality, oxidative stability, production cost, and transparent labeling, especially because nutrient deposition into eggs or meat is biologically constrained and consumer acceptance depends on clearly demonstrated health benefit [1], [3].",
+    "refNo": 1,
+    "title": "Potential of nanomaterial applications in dietary supplements and foods for special medical purposes",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Nevertheless, commercial translation requires balancing enrichment efficacy, sensory quality, oxidative stability, production cost, and transparent labeling, especially because nutrient deposition into eggs or meat is biologically constrained and consumer acceptance depends on clearly demonstrated health benefit [1], [3].",
+    "refNo": 3,
+    "title": "Effects of in ovo injection of sulfur-containing amino acids on heat shock protein 70, corticosterone hormone, antioxidant indices, and lipid profile of newly hatched broiler chicks exposed to heat stress during incubation",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Broader functional-food literature emphasizes that bioactive nutrients act through interconnected antioxidant, anti-inflammatory, and metabolic pathways rather than through simple nutrient replacement alone, a concept highly applicable to poultry exposed to heat stress, enteric challenge, and intensive production pressures ref [59], ref [5], ref [6].",
+    "refNo": 59,
+    "title": "The role of functional foods, nutraceuticals, and food supplements in intestinal health",
+    "marker_text": "[59]"
+  },
+  {
+    "sentence": "Broader functional-food literature emphasizes that bioactive nutrients act through interconnected antioxidant, anti-inflammatory, and metabolic pathways rather than through simple nutrient replacement alone, a concept highly applicable to poultry exposed to heat stress, enteric challenge, and intensive production pressures ref [59], ref [5], ref [6].",
+    "refNo": 5,
+    "title": "Role of nutraceuticals in gut health and growth performance of poultry",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Broader functional-food literature emphasizes that bioactive nutrients act through interconnected antioxidant, anti-inflammatory, and metabolic pathways rather than through simple nutrient replacement alone, a concept highly applicable to poultry exposed to heat stress, enteric challenge, and intensive production pressures ref [59], ref [5], ref [6].",
+    "refNo": 6,
+    "title": "Exploring alternatives to antibiotics as health promoting agents in poultry-a review",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "In this context, amino acids, vitamins, trace minerals, probiotics, prebiotics, phytochemicals, and mixed nutraceutical formulations can be viewed as health-supportive components within a systems framework rather than isolated additives ref [5], ref [6].",
+    "refNo": 5,
+    "title": "Role of nutraceuticals in gut health and growth performance of poultry",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "In this context, amino acids, vitamins, trace minerals, probiotics, prebiotics, phytochemicals, and mixed nutraceutical formulations can be viewed as health-supportive components within a systems framework rather than isolated additives ref [5], ref [6].",
+    "refNo": 6,
+    "title": "Exploring alternatives to antibiotics as health promoting agents in poultry-a review",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Reviews of nutraceuticals and gut-directed functional foods show that probiotic, prebiotic, and synbiotic strategies can stabilize microbiota, reinforce epithelial barrier function, and regulate mucosal immunity ref [5], ref [44], ref [52].",
+    "refNo": 5,
+    "title": "Role of nutraceuticals in gut health and growth performance of poultry",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Reviews of nutraceuticals and gut-directed functional foods show that probiotic, prebiotic, and synbiotic strategies can stabilize microbiota, reinforce epithelial barrier function, and regulate mucosal immunity ref [5], ref [44], ref [52].",
+    "refNo": 44,
+    "title": "Use of vitamin D3 and its metabolites in broiler chicken feed on performance, bone parameters and meat quality",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "Reviews of nutraceuticals and gut-directed functional foods show that probiotic, prebiotic, and synbiotic strategies can stabilize microbiota, reinforce epithelial barrier function, and regulate mucosal immunity ref [5], ref [44], ref [52].",
+    "refNo": 52,
+    "title": "Effects of supplementing broiler diets low in crude protein with essential and nonessential amino acids",
+    "marker_text": "[52]"
+  },
+  {
+    "sentence": "This aligns closely with poultry evidence that gut-focused nutraceuticals improve resilience against dysbiosis and inflammatory enteropathies, while amino acids such as threonine, glutamine, and arginine further support mucin synthesis, epithelial repair, and immune signaling ref [47], ref [48], ref [53], ref [36], ref [50].",
+    "refNo": 47,
+    "title": "Effect of dietary vitamin A on reproductive performance and immune response of broiler breeders",
+    "marker_text": "[47]"
+  },
+  {
+    "sentence": "This aligns closely with poultry evidence that gut-focused nutraceuticals improve resilience against dysbiosis and inflammatory enteropathies, while amino acids such as threonine, glutamine, and arginine further support mucin synthesis, epithelial repair, and immune signaling ref [47], ref [48], ref [53], ref [36], ref [50].",
+    "refNo": 48,
+    "title": "Nutritional and immunological effects of nanoparticles in commercial poultry birds",
+    "marker_text": "[48]"
+  },
+  {
+    "sentence": "This aligns closely with poultry evidence that gut-focused nutraceuticals improve resilience against dysbiosis and inflammatory enteropathies, while amino acids such as threonine, glutamine, and arginine further support mucin synthesis, epithelial repair, and immune signaling ref [47], ref [48], ref [53], ref [36], ref [50].",
+    "refNo": 53,
+    "title": "Superior growth performance in broiler chicken fed chelated compared to inorganic zinc in presence of elevated dietary copper",
+    "marker_text": "[53]"
+  },
+  {
+    "sentence": "This aligns closely with poultry evidence that gut-focused nutraceuticals improve resilience against dysbiosis and inflammatory enteropathies, while amino acids such as threonine, glutamine, and arginine further support mucin synthesis, epithelial repair, and immune signaling ref [47], ref [48], ref [53], ref [36], ref [50].",
+    "refNo": 36,
+    "title": "Influence of dietary vitamin c on growth performance, blood biochemical parameters and transcript levels of heat shock proteins in high stocking density reared broiler chickens",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "This aligns closely with poultry evidence that gut-focused nutraceuticals improve resilience against dysbiosis and inflammatory enteropathies, while amino acids such as threonine, glutamine, and arginine further support mucin synthesis, epithelial repair, and immune signaling ref [47], ref [48], ref [53], ref [36], ref [50].",
+    "refNo": 50,
+    "title": "Interactive effects of threonine levels and protein source on growth performance and carcass traits, gut morphology, ileal digestibility of protein and amino acids, and immunity in broilers",
+    "marker_text": "[50]"
+  },
+  {
+    "sentence": "Such integration is especially relevant to antibiotic-reduced systems, where nutritional modulation is increasingly expected to complement biosecurity and vaccination ref [32], ref [46].",
+    "refNo": 32,
+    "title": "Effects of retinoids on immune responses in birds",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "Such integration is especially relevant to antibiotic-reduced systems, where nutritional modulation is increasingly expected to complement biosecurity and vaccination ref [32], ref [46].",
+    "refNo": 46,
+    "title": "Effect of dietary supplemental levels of vitamin A on the egg production and immune responses of heat-stressed laying hens",
+    "marker_text": "[46]"
+  },
+  {
+    "sentence": "Human functional-food scholarship consistently warns that these products are not panaceas and that benefit claims should rest on robust, reproducible data and attention to dose, matrix, and safety ref [6], ref [10].",
+    "refNo": 6,
+    "title": "Exploring alternatives to antibiotics as health promoting agents in poultry-a review",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Human functional-food scholarship consistently warns that these products are not panaceas and that benefit claims should rest on robust, reproducible data and attention to dose, matrix, and safety ref [6], ref [10].",
+    "refNo": 10,
+    "title": "Prebiotics, probiotics, synbiotics, and the immune system: experimental data and clinical evidence",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "For poultry, this argues for moving beyond performance-only endpoints toward validated biomarkers of oxidative stress, inflammation, intestinal function, and product nutritional quality, thereby enabling more credible translation from feed intervention to animal health benefit and, ultimately, to functional animal-derived foods with human relevance ref [59], ref [5], ref [42], ref [43].",
+    "refNo": 59,
+    "title": "The role of functional foods, nutraceuticals, and food supplements in intestinal health",
+    "marker_text": "[59]"
+  },
+  {
+    "sentence": "For poultry, this argues for moving beyond performance-only endpoints toward validated biomarkers of oxidative stress, inflammation, intestinal function, and product nutritional quality, thereby enabling more credible translation from feed intervention to animal health benefit and, ultimately, to functional animal-derived foods with human relevance ref [59], ref [5], ref [42], ref [43].",
+    "refNo": 5,
+    "title": "Role of nutraceuticals in gut health and growth performance of poultry",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "For poultry, this argues for moving beyond performance-only endpoints toward validated biomarkers of oxidative stress, inflammation, intestinal function, and product nutritional quality, thereby enabling more credible translation from feed intervention to animal health benefit and, ultimately, to functional animal-derived foods with human relevance ref [59], ref [5], ref [42], ref [43].",
+    "refNo": 42,
+    "title": "The immunomodulatory effect of vitamin D in chickens is dose-dependent and influenced by calcium and phosphorus levels",
+    "marker_text": "[42]"
+  },
+  {
+    "sentence": "For poultry, this argues for moving beyond performance-only endpoints toward validated biomarkers of oxidative stress, inflammation, intestinal function, and product nutritional quality, thereby enabling more credible translation from feed intervention to animal health benefit and, ultimately, to functional animal-derived foods with human relevance ref [59], ref [5], ref [42], ref [43].",
+    "refNo": 43,
+    "title": "Effect of source and level of vitamin D on live performance and bone development in growing broilers",
+    "marker_text": "[43]"
+  }
+]

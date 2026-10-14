@@ -1,0 +1,986 @@
+[
+  {
+    "sentence": "AMD, characterized by drusen accumulation and geographic atrophy or neovascularization, affects over 196 million individuals globally and is a primary contributor to central vision loss in the elderly [1].",
+    "refNo": 1,
+    "title": "Global prevalence of age-related macular degeneration and disease burden projection for 2020 and 2040: a systematic review and meta-analysis",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Diabetic retinopathy, arising from microvascular damage due to chronic hyperglycemia, manifests as microaneurysms, hemorrhages, and exudates, with proliferative forms leading to tractional retinal detachment [2].",
+    "refNo": 2,
+    "title": "Diabetic retinopathy: a global perspective on a growing epidemic",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Glaucoma, often asymptomatic until advanced stages, involves progressive optic neuropathy with characteristic retinal nerve fiber layer thinning and optic disc cupping [3].",
+    "refNo": 3,
+    "title": "Glaucoma: a review of current diagnostic and therapeutic approaches",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Cataracts, the most prevalent cause of reversible blindness, result from lens opacification due to protein aggregation and oxidative stress [4].",
+    "refNo": 4,
+    "title": "Molecular mechanisms of cataract formation",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Retinal vein occlusion, particularly branch and central types, induces hemorrhages, edema, and ischemia, frequently complicating with neovascularization [5].",
+    "refNo": 5,
+    "title": "Retinal vein occlusion: pathogenesis, clinical features, and management",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Amblyopia, typically developing in childhood, stems from abnormal visual experience leading to cortical suppression [6].",
+    "refNo": 6,
+    "title": "Amblyopia: current concepts and future directions",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Retinopathy of prematurity, affecting preterm infants, involves aberrant vascular development in the retina [7].",
+    "refNo": 7,
+    "title": "Retinopathy of prematurity: from pathophysiology to prevention",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Uveitis, an inflammatory condition of the uveal tract, can lead to cataracts, glaucoma, or macular edema if untreated [8].",
+    "refNo": 8,
+    "title": "Uveitis: epidemiology, diagnosis, and treatment",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "These pathologies often coexist, particularly in aging or diabetic populations, complicating clinical assessment [9].",
+    "refNo": 9,
+    "title": "Comorbidity of ocular diseases in the elderly: implications for screening",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Early detection remains critical, as many conditions are treatable in initial stages but cause irreversible damage if neglected [10].",
+    "refNo": 10,
+    "title": "Early detection of sight-threatening eye diseases: a public health imperative",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "These modalities are standardized in screening programs to ensure reproducibility across settings, particularly in resource-limited environments where specialist access is scarce ref [11].",
+    "refNo": 11,
+    "title": "Teleophthalmology for diabetic retinopathy screening: a systematic review and meta-analysis",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "In diabetic retinopathy screening, for instance, teleophthalmology protocols rely on graded fundus images interpreted by trained graders or automated systems, reducing delays in diagnosis ref [12].",
+    "refNo": 12,
+    "title": "Implementation of diabetic retinopathy screening programs in primary care: challenges and opportunities",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "For glaucoma, workflows integrate tonometry, visual field testing, and optic nerve head analysis via OCT, with progression tracked over time using longitudinal data ref [13].",
+    "refNo": 13,
+    "title": "Longitudinal monitoring of glaucoma progression using optical coherence tomography: a clinical perspective",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Age-related macular degeneration (AMD) diagnosis often combines color fundus photography with spectral-domain OCT to detect drusen, geographic atrophy, or neovascularization ref [14].",
+    "refNo": 14,
+    "title": "Optical coherence tomography in the diagnosis and management of age-related macular degeneration",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Uveitis evaluation includes slit-lamp examination, anterior chamber analysis, and sometimes fluorescein angiography to assess vascular leakage ref [15].",
+    "refNo": 15,
+    "title": "Fluorescein angiography in the diagnosis of uveitis: current indications and interpretation",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "These workflows are often fragmented across clinics, leading to inconsistent application and delayed referrals, particularly in primary care settings ref [16].",
+    "refNo": 16,
+    "title": "Barriers to timely ophthalmic referral in primary care: a qualitative study",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Standardization efforts, such as those by the International Council of Ophthalmology, aim to harmonize protocols globally ref [17].",
+    "refNo": 17,
+    "title": "International standards for ophthalmic screening programs: guidelines from the International Council of Ophthalmology",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "The increasing burden of chronic ocular diseases has prompted the integration of digital health tools into routine workflows, including AI-assisted triage systems that prioritize high-risk cases for specialist review ref [18].",
+    "refNo": 18,
+    "title": "Artificial intelligence in clinical workflows for retinal disease detection: implementation and impact",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "However, workflow adoption varies significantly by region, with low-income countries facing infrastructural and training barriers ref [19].",
+    "refNo": 19,
+    "title": "Access to eye care in low- and middle-income countries: a global health priority",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Furthermore, the absence of unified electronic health record integration often impedes longitudinal monitoring and data sharing ref [20].",
+    "refNo": 20,
+    "title": "Electronic health record integration in ophthalmology: current gaps and future directions",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Recent studies highlight the potential of workflow redesign to improve diagnostic efficiency, particularly when combined with point-of-care OCT and mobile imaging platforms ref [21].",
+    "refNo": 21,
+    "title": "Point-of-care optical coherence tomography in community-based eye screening",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Despite advances, human interpretation remains the final gatekeeper in most clinical pathways, underscoring the need for tools that augment—not replace—clinician decision-making ref [22].",
+    "refNo": 22,
+    "title": "Human-AI collaboration in clinical ophthalmology: a framework for decision support",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Inter- and intra-observer agreement in diagnosing conditions such as diabetic retinopathy, glaucoma, and age-related macular degeneration has been shown to be moderate at best, with kappa statistics often falling below 0.6, indicating only fair to substantial concordance ref [23].",
+    "refNo": 23,
+    "title": "Interobserver variability in the grading of diabetic retinopathy: a systematic review",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Fatigue, cognitive load, and time constraints in high-volume clinical settings further degrade diagnostic accuracy, particularly in screening contexts where rapid triage is required ref [24].",
+    "refNo": 24,
+    "title": "Impact of workload and fatigue on diagnostic accuracy in retinal image interpretation",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Studies have demonstrated that clinicians may overlook subtle signs of pathology, such as microaneurysms or retinal nerve fiber layer thinning, especially when images are of suboptimal quality or when screening volumes exceed 50 examinations per day ref [25].",
+    "refNo": 25,
+    "title": "Detection rates of early diabetic retinopathy by non-specialists in community screening programs",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Moreover, subjective thresholds for intervention—such as when to classify a glaucomatous optic disc as suspicious—lack standardization across practitioners, contributing to inconsistent referral patterns ref [26].",
+    "refNo": 26,
+    "title": "Subjective thresholds in glaucoma diagnosis: implications for clinical decision-making",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "The reliance on qualitative assessment rather than quantitative metrics exacerbates these issues, as human observers are prone to anchoring bias and confirmation bias during image evaluation ref [27].",
+    "refNo": 27,
+    "title": "Cognitive biases in ophthalmic image interpretation: a review of psychological factors affecting diagnostic accuracy",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "These limitations are particularly acute in resource-limited settings where specialist access is scarce and non-specialists are tasked with interpreting complex retinal images ref [28].",
+    "refNo": 28,
+    "title": "Diagnostic accuracy of non-ophthalmologists in teleophthalmology screening for retinal disease",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Tracking subtle changes over time, such as progression of drusen in AMD or cup-to-disc ratio in glaucoma, demands sustained attention and memory of prior findings, which human clinicians often cannot maintain reliably across multiple visits ref [29].",
+    "refNo": 29,
+    "title": "Long-term consistency in clinical assessment of macular degeneration progression",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Training and experience do not fully mitigate these shortcomings; even fellowship-trained retinal specialists exhibit measurable variability in grading retinal lesions when re-evaluating the same images weeks apart ref [30].",
+    "refNo": 30,
+    "title": "Reproducibility of retinal lesion grading among expert ophthalmologists: a longitudinal study",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "These inherent limitations underscore the need for objective, reproducible, and scalable decision-support tools to augment, rather than replace, clinical judgment ref [31].",
+    "refNo": 31,
+    "title": "Optical coherence tomography angiography in the evaluation of retinal vascular diseases",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "Fundus photography remains the cornerstone for screening diabetic retinopathy and age-related macular degeneration, offering high-resolution color images of the retina, optic disc, and vasculature [1].",
+    "refNo": 1,
+    "title": "Global prevalence of age-related macular degeneration and disease burden projection for 2020 and 2040: a systematic review and meta-analysis",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Optical coherence tomography (OCT) provides cross-sectional, micrometer-scale resolution of retinal layers, enabling precise quantification of thickness changes in conditions like glaucoma and macular edema [2].",
+    "refNo": 2,
+    "title": "Diabetic retinopathy: a global perspective on a growing epidemic",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "OCT angiography (OCTA) extends this capability by visualizing retinal and choroidal vasculature without dye injection, enhancing detection of microvascular abnormalities [3].",
+    "refNo": 3,
+    "title": "Glaucoma: a review of current diagnostic and therapeutic approaches",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Fluorescein and indocyanine green angiography remain gold standards for evaluating vascular leakage and perfusion deficits in uveitis and choroidal neovascularization [4].",
+    "refNo": 4,
+    "title": "Molecular mechanisms of cataract formation",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Slit-lamp biomicroscopy and anterior segment OCT are essential for assessing corneal pathologies, cataracts, and angle closure glaucoma [5].",
+    "refNo": 5,
+    "title": "Retinal vein occlusion: pathogenesis, clinical features, and management",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Ultrasound biomicroscopy and B-scan ultrasonography are indispensable in cases of media opacity, such as dense cataracts or vitreous hemorrhage, allowing visualization of posterior segment structures [6].",
+    "refNo": 6,
+    "title": "Amblyopia: current concepts and future directions",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "For fundus images, adaptive histogram equalization and retinal vessel segmentation have been employed to improve lesion visibility, particularly in diabetic retinopathy screening systems [1].",
+    "refNo": 1,
+    "title": "Global prevalence of age-related macular degeneration and disease burden projection for 2020 and 2040: a systematic review and meta-analysis",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "In optical coherence tomography (OCT), denoising via non-local means or deep learning-based autoencoders has been shown to preserve structural details while suppressing speckle noise [2].",
+    "refNo": 2,
+    "title": "Diabetic retinopathy: a global perspective on a growing epidemic",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "B-scan alignment and motion artifact correction are routinely applied in volumetric OCT data to ensure accurate layer segmentation [3].",
+    "refNo": 3,
+    "title": "Glaucoma: a review of current diagnostic and therapeutic approaches",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "For anterior segment imaging, geometric distortion correction and iris segmentation are essential for reliable corneal thickness mapping [4].",
+    "refNo": 4,
+    "title": "Molecular mechanisms of cataract formation",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Standardized preprocessing pipelines have been developed for multi-center datasets to ensure consistency across imaging platforms [5].",
+    "refNo": 5,
+    "title": "Retinal vein occlusion: pathogenesis, clinical features, and management",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Additionally, intensity normalization across scanners and manufacturers improves generalizability of deep learning models [6].",
+    "refNo": 6,
+    "title": "Amblyopia: current concepts and future directions",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "In retinal angiography, background subtraction and vessel enhancement filters are used to highlight vascular anomalies [7].",
+    "refNo": 7,
+    "title": "Retinopathy of prematurity: from pathophysiology to prevention",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Preprocessing also includes spatial resampling to standardize resolution and aspect ratio, particularly when integrating data from diverse sources [8].",
+    "refNo": 8,
+    "title": "Uveitis: epidemiology, diagnosis, and treatment",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Recent work has demonstrated that data augmentation during preprocessing, such as simulated blur or contrast variation, improves model robustness without requiring additional labeled data [9].",
+    "refNo": 9,
+    "title": "Comorbidity of ocular diseases in the elderly: implications for screening",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Finally, automated quality control modules, trained to flag low-quality images prior to analysis, reduce false positives in CAD systems [10].",
+    "refNo": 10,
+    "title": "Early detection of sight-threatening eye diseases: a public health imperative",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Standardization of preprocessing protocols across public benchmarks has been shown to reduce performance variance in algorithmic comparisons [11].",
+    "refNo": 11,
+    "title": "Teleophthalmology for diabetic retinopathy screening: a systematic review and meta-analysis",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Emerging approaches integrate preprocessing directly into end-to-end deep learning architectures, enabling joint optimization of enhancement and classification [12].",
+    "refNo": 12,
+    "title": "Implementation of diabetic retinopathy screening programs in primary care: challenges and opportunities",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "In diabetic retinopathy screening, features such as vessel tortuosity, exudate texture, and lesion morphology were extracted from fundus images using techniques like Gabor filters, wavelet transforms, and morphological operations, then classified using support vector machines (SVMs) or random forests [1].",
+    "refNo": 1,
+    "title": "Global prevalence of age-related macular degeneration and disease burden projection for 2020 and 2040: a systematic review and meta-analysis",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "The MESSIDOR dataset was widely used to benchmark these methods, enabling comparative studies on sensitivity and specificity for referable disease [2].",
+    "refNo": 2,
+    "title": "Diabetic retinopathy: a global perspective on a growing epidemic",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "For glaucoma detection, optic disc and cup parameters derived from image segmentation were fed into linear discriminant analysis or AdaBoost classifiers to distinguish healthy from glaucomatous eyes [3].",
+    "refNo": 3,
+    "title": "Glaucoma: a review of current diagnostic and therapeutic approaches",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "In cataract grading, color histogram features and local binary patterns were employed with k-nearest neighbors to classify lens opacity severity [4].",
+    "refNo": 4,
+    "title": "Molecular mechanisms of cataract formation",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "These methods often required extensive domain expertise for feature engineering and were sensitive to image quality variations, limiting generalizability across imaging devices [5].",
+    "refNo": 5,
+    "title": "Retinal vein occlusion: pathogenesis, clinical features, and management",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Despite their limitations, traditional approaches demonstrated feasibility in resource-constrained settings where computational power was limited, and they laid the groundwork for later deep learning innovations [6].",
+    "refNo": 6,
+    "title": "Amblyopia: current concepts and future directions",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Studies on retinopathy of prematurity (ROP) utilized shape and texture descriptors from fundus images combined with decision trees to identify abnormal vascular patterns [7].",
+    "refNo": 7,
+    "title": "Retinopathy of prematurity: from pathophysiology to prevention",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Similarly, in age-related macular degeneration (AMD), features such as drusen count, size, and reflectivity were extracted using region-based segmentation and classified via ensemble methods [8].",
+    "refNo": 8,
+    "title": "Uveitis: epidemiology, diagnosis, and treatment",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "The STARE dataset was instrumental in validating these approaches for hemorrhage and lesion detection [9].",
+    "refNo": 9,
+    "title": "Comorbidity of ocular diseases in the elderly: implications for screening",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "While these methods achieved moderate diagnostic accuracy, their performance plateaued due to the inability to capture high-level, non-linear patterns inherent in complex retinal pathologies [10].",
+    "refNo": 10,
+    "title": "Early detection of sight-threatening eye diseases: a public health imperative",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "The transition to deep learning was thus driven by the need for end-to-end learning that could automatically discover discriminative features without manual intervention [11].",
+    "refNo": 11,
+    "title": "Teleophthalmology for diabetic retinopathy screening: a systematic review and meta-analysis",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Nevertheless, traditional ML models remain relevant in low-resource environments and as interpretable baselines for evaluating newer architectures [12].",
+    "refNo": 12,
+    "title": "Implementation of diabetic retinopathy screening programs in primary care: challenges and opportunities",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Early CNN architectures, such as those applied to diabetic retinopathy screening on the MESSIDOR-2 dataset, demonstrated performance comparable to expert ophthalmologists, establishing CNNs as a dominant paradigm in retinal image analysis [52].",
+    "refNo": 52,
+    "title": "Resolution standardization and image resizing strategies in ophthalmic image datasets",
+    "marker_text": "[52]"
+  },
+  {
+    "sentence": "The adoption of pre-trained models like VGG, ResNet, and Inception further improved generalization, particularly in multi-class classification tasks for diabetic retinopathy, macular edema, and glaucoma [32].",
+    "refNo": 32,
+    "title": "Anterior segment optical coherence tomography in clinical practice: a review",
+    "marker_text": "[32]"
+  },
+  {
+    "sentence": "Architectural innovations, including attention mechanisms embedded within CNNs and multi-scale feature fusion, enhanced detection of subtle pathologies such as microaneurysms and exudates [29].",
+    "refNo": 29,
+    "title": "Long-term consistency in clinical assessment of macular degeneration progression",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "CNNs have also been successfully deployed on optical coherence tomography (OCT) volumes, where 3D convolutions capture volumetric structural changes associated with age-related macular degeneration and diabetic macular edema [55].",
+    "refNo": 55,
+    "title": "Impact of preprocessing standardization on algorithm benchmarking in retinal image analysis",
+    "marker_text": "[55]"
+  },
+  {
+    "sentence": "Studies leveraging the REFUGE challenge dataset showed that CNN-based glaucoma detection significantly outperformed traditional feature-based methods [57].",
+    "refNo": 57,
+    "title": "Diabetic retinopathy detection using machine learning: a comparative study of feature extraction techniques",
+    "marker_text": "[57]"
+  },
+  {
+    "sentence": "Moreover, CNNs trained on diverse, multi-center datasets have demonstrated robustness to imaging device variability through cross-device normalization techniques [28].",
+    "refNo": 28,
+    "title": "Diagnostic accuracy of non-ophthalmologists in teleophthalmology screening for retinal disease",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Recent work has extended CNNs to multi-modal inputs, integrating fundus photography with OCT for joint disease classification, improving diagnostic accuracy in complex cases [39].",
+    "refNo": 39,
+    "title": "REFUGE challenge: a benchmark for glaucoma detection from fundus images",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "Despite their success, CNNs remain limited by their local receptive fields and lack of explicit modeling of long-range dependencies, prompting the emergence of hybrid and transformer-based architectures in subsequent developments [64].",
+    "refNo": 64,
+    "title": "The evolution of automated retinal image analysis: from traditional ML to deep learning",
+    "marker_text": "[64]"
+  },
+  {
+    "sentence": "Nevertheless, CNNs continue to serve as foundational components in clinical AI systems due to their computational efficiency, interpretability via activation maps, and proven scalability in real-world screening programs [19].",
+    "refNo": 19,
+    "title": "Access to eye care in low- and middle-income countries: a global health priority",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Vision Transformers (ViTs) applied to fundus images have demonstrated competitive performance in diabetic retinopathy and glaucoma classification, with models like TransRetina leveraging self-attention to identify subtle pathological patterns across the entire image field [1].",
+    "refNo": 1,
+    "title": "Global prevalence of age-related macular degeneration and disease burden projection for 2020 and 2040: a systematic review and meta-analysis",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Hybrid architectures combining CNNs with Transformers, such as CNN-Transformer fusion networks, have further improved feature extraction by integrating local texture details with global contextual relationships, achieving state-of-the-art results on the REFUGE and MESSIDOR-2 datasets [2].",
+    "refNo": 2,
+    "title": "Diabetic retinopathy: a global perspective on a growing epidemic",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "These models often employ CNN backbones for initial feature encoding, followed by Transformer layers for relational reasoning, enhancing robustness to image artifacts and variability in acquisition protocols [3].",
+    "refNo": 3,
+    "title": "Glaucoma: a review of current diagnostic and therapeutic approaches",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "In OCT analysis, hybrid models like OCTFormer integrate 2D attention over B-scans with 3D convolutional encoders to model volumetric structural changes, improving detection of macular edema and geographic atrophy [4].",
+    "refNo": 4,
+    "title": "Molecular mechanisms of cataract formation",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Multi-scale Transformer variants, such as Swin Transformers, have been adapted for retinal image analysis to reduce computational cost while preserving hierarchical feature learning [5].",
+    "refNo": 5,
+    "title": "Retinal vein occlusion: pathogenesis, clinical features, and management",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Recent innovations include cross-modal Transformers that fuse fundus photography with OCT data, enabling joint representation learning for multi-disease diagnosis [6].",
+    "refNo": 6,
+    "title": "Amblyopia: current concepts and future directions",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Hybrid models incorporating attention mechanisms with graph neural networks have also emerged to model anatomical relationships between retinal layers and lesions [7].",
+    "refNo": 7,
+    "title": "Retinopathy of prematurity: from pathophysiology to prevention",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "In clinical validation studies, Transformer-based systems have shown improved generalization across diverse imaging devices compared to CNN-only models, particularly when trained on multi-center datasets [8].",
+    "refNo": 8,
+    "title": "Uveitis: epidemiology, diagnosis, and treatment",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Attention visualization in these models has revealed alignment with clinically relevant regions, enhancing interpretability for ophthalmologists [9].",
+    "refNo": 9,
+    "title": "Comorbidity of ocular diseases in the elderly: implications for screening",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Despite their promise, challenges remain in training efficiency and data hunger, prompting research into lightweight Transformer variants and knowledge distillation techniques tailored for resource-constrained settings [10].",
+    "refNo": 10,
+    "title": "Early detection of sight-threatening eye diseases: a public health imperative",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "The integration of Transformers into clinical workflows is now being explored in real-time screening systems, with pilot deployments showing promise in teleophthalmology platforms [11].",
+    "refNo": 11,
+    "title": "Teleophthalmology for diabetic retinopathy screening: a systematic review and meta-analysis",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Recent work has demonstrated that fusing fundus and OCT data improves diagnostic accuracy for diabetic macular edema and age-related macular degeneration by leveraging cross-modal dependencies, as shown in the Cross-modal Transformer for Joint Fundus and OCT Analysis in Diabetic Macular Edema Detection [37].",
+    "refNo": 37,
+    "title": "The Age-Related Eye Disease Study 2 (AREDS2): design and baseline characteristics",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "Similarly, OCT angiography and standard OCT have been jointly modeled to enhance detection of vascular abnormalities in retinal vein occlusion and diabetic retinopathy [66].",
+    "refNo": 66,
+    "title": "TransRetina: Vision Transformer for Diabetic Retinopathy Detection in Fundus Images",
+    "marker_text": "[66]"
+  },
+  {
+    "sentence": "For instance, models that jointly classify diabetic retinopathy, glaucoma, and macular degeneration from fundus images have shown improved performance over single-task baselines by sharing latent representations [14].",
+    "refNo": 14,
+    "title": "Optical coherence tomography in the diagnosis and management of age-related macular degeneration",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Graph-based networks have also been employed to model relationships between retinal layers and lesions across modalities, improving interpretability and diagnostic precision [50].",
+    "refNo": 50,
+    "title": "Cross-device intensity normalization in retinal imaging for deep learning applications",
+    "marker_text": "[50]"
+  },
+  {
+    "sentence": "These metrics are frequently evaluated on standardized datasets like MESSIDOR [15], DRIVE [44], and REFUGE [20], which provide ground-truth labels for algorithm benchmarking.",
+    "refNo": 15,
+    "title": "Fluorescein angiography in the diagnosis of uveitis: current indications and interpretation",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "These metrics are frequently evaluated on standardized datasets like MESSIDOR [15], DRIVE [44], and REFUGE [20], which provide ground-truth labels for algorithm benchmarking.",
+    "refNo": 44,
+    "title": "ROP-1000: a public dataset for retinopathy of prematurity screening",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "These metrics are frequently evaluated on standardized datasets like MESSIDOR [15], DRIVE [44], and REFUGE [20], which provide ground-truth labels for algorithm benchmarking.",
+    "refNo": 20,
+    "title": "Electronic health record integration in ophthalmology: current gaps and future directions",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Studies have emphasized the importance of reporting precision-recall curves and average precision to better reflect real-world performance, especially in screening contexts with low disease prevalence [42].",
+    "refNo": 42,
+    "title": "ICGA and FA datasets for vascular retinal disease analysis: acquisition and annotation protocols",
+    "marker_text": "[42]"
+  },
+  {
+    "sentence": "For multi-class grading systems, such as those used in age-related macular degeneration or retinopathy of prematurity, weighted kappa coefficients and intraclass correlation coefficients are preferred to quantify inter-rater agreement between algorithms and expert graders [68].",
+    "refNo": 68,
+    "title": "Attention-based fusion of local and global features for retinal disease classification",
+    "marker_text": "[68]"
+  },
+  {
+    "sentence": "Recent work has also advocated for calibration metrics, such as expected calibration error, to assess the reliability of predicted probabilities in clinical decision-making [58].",
+    "refNo": 58,
+    "title": "Automated glaucoma detection using optic disc and cup features extracted from fundus images",
+    "marker_text": "[58]"
+  },
+  {
+    "sentence": "Metrics such as net benefit analysis and decision curve analysis are increasingly adopted to quantify the clinical impact of CAD systems relative to alternative strategies [57].",
+    "refNo": 57,
+    "title": "Diabetic retinopathy detection using machine learning: a comparative study of feature extraction techniques",
+    "marker_text": "[57]"
+  },
+  {
+    "sentence": "Furthermore, the use of task-specific metrics—such as lesion-level detection rates in OCT segmentation or vessel tortuosity indices in vascular analysis—has been proposed to align algorithmic outputs with clinician workflows [34].",
+    "refNo": 34,
+    "title": "Diabetic retinopathy detection using deep learning: a systematic review and meta-analysis",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "For instance, models trained on MESSIDOR-2 showed marked degradation in accuracy when evaluated on the REFUGE challenge dataset due to differences in image resolution and contrast normalization [1].",
+    "refNo": 1,
+    "title": "Global prevalence of age-related macular degeneration and disease burden projection for 2020 and 2040: a systematic review and meta-analysis",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Similarly, the Generalization of Vision Transformers Across Imaging Devices in Retinal Disease Screening revealed that transformer-based architectures, while powerful, remain sensitive to device-specific artifacts without explicit domain adaptation [2].",
+    "refNo": 2,
+    "title": "Diabetic retinopathy: a global perspective on a growing epidemic",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "The Standardized preprocessing pipeline for multi-center retinal image analysis introduced a unified framework that improved cross-dataset consistency across five independent cohorts [3].",
+    "refNo": 3,
+    "title": "Glaucoma: a review of current diagnostic and therapeutic approaches",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Furthermore, Cross-device intensity normalization in retinal imaging for deep learning applications demonstrated that intensity calibration significantly enhances model robustness when applied prior to training [4].",
+    "refNo": 4,
+    "title": "Molecular mechanisms of cataract formation",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Despite these advances, many published models still rely on internal validation or single-dataset benchmarks, leading to overoptimistic performance estimates [5].",
+    "refNo": 5,
+    "title": "Retinal vein occlusion: pathogenesis, clinical features, and management",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "S. Food and Drug Administration (FDA) has issued guidance for AI-based medical devices, emphasizing the need for well-defined performance thresholds and post-market surveillance [1].",
+    "refNo": 1,
+    "title": "Global prevalence of age-related macular degeneration and disease burden projection for 2020 and 2040: a systematic review and meta-analysis",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Several CAD systems for diabetic retinopathy screening, such as IDx-DR, have received FDA de novo clearance based on prospective multicenter trials showing non-inferiority to human graders [2].",
+    "refNo": 2,
+    "title": "Diabetic retinopathy: a global perspective on a growing epidemic",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Similar pathways have been pursued in the European Union under the Medical Device Regulation (MDR), requiring conformity assessments through notified bodies [3].",
+    "refNo": 3,
+    "title": "Glaucoma: a review of current diagnostic and therapeutic approaches",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "However, trials often lack representation from low-resource settings, limiting generalizability [4].",
+    "refNo": 4,
+    "title": "Molecular mechanisms of cataract formation",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Recent efforts have advocated for adaptive trial designs that incorporate real-world data streams to accelerate validation while maintaining scientific rigor [5].",
+    "refNo": 5,
+    "title": "Retinal vein occlusion: pathogenesis, clinical features, and management",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Regulatory pathways for AI in ophthalmology are evolving to accommodate iterative model updates, yet current frameworks remain largely static, posing challenges for continuously learning systems [6].",
+    "refNo": 6,
+    "title": "Amblyopia: current concepts and future directions",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "The World Health Organization has proposed a framework for AI in health that emphasizes equity, transparency, and clinical utility, particularly relevant for global screening programs [7].",
+    "refNo": 7,
+    "title": "Retinopathy of prematurity: from pathophysiology to prevention",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Trials must also address human-AI interaction dynamics, including clinician override rates and decision latency, which impact workflow integration [8].",
+    "refNo": 8,
+    "title": "Uveitis: epidemiology, diagnosis, and treatment",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "The AREDS2 trial design, while not AI-specific, offers a model for longitudinal, multi-center validation with standardized grading protocols [9].",
+    "refNo": 9,
+    "title": "Comorbidity of ocular diseases in the elderly: implications for screening",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Furthermore, harmonization of endpoints—such as sensitivity for sight-threatening disease rather than overall accuracy—is critical for regulatory alignment [10].",
+    "refNo": 10,
+    "title": "Early detection of sight-threatening eye diseases: a public health imperative",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Without standardized trial protocols and regulatory harmonization, even high-performing algorithms risk delayed or fragmented adoption [11].",
+    "refNo": 11,
+    "title": "Teleophthalmology for diabetic retinopathy screening: a systematic review and meta-analysis",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Techniques such as attention maps have been successfully applied to visualize regions of interest in fundus images, enabling clinicians to validate model decisions against known pathological signatures [29].",
+    "refNo": 29,
+    "title": "Long-term consistency in clinical assessment of macular degeneration progression",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Similarly, gradient-based methods like Grad-CAM have been used to highlight retinal lesions in diabetic retinopathy classification, aligning model activations with expert-annotated regions [28].",
+    "refNo": 28,
+    "title": "Diagnostic accuracy of non-ophthalmologists in teleophthalmology screening for retinal disease",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Vision Transformers, despite their complexity, have demonstrated interpretable attention patterns that correspond to anatomical structures such as the optic disc and macula [19].",
+    "refNo": 19,
+    "title": "Access to eye care in low- and middle-income countries: a global health priority",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "However, these visualizations must be validated against ground-truth clinical annotations to avoid misleading interpretations [29].",
+    "refNo": 29,
+    "title": "Long-term consistency in clinical assessment of macular degeneration progression",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Recent work has emphasized the need for human-centered interpretability, where explanations are tailored to the cognitive workflows of ophthalmologists rather than algorithmic transparency alone [28].",
+    "refNo": 28,
+    "title": "Diagnostic accuracy of non-ophthalmologists in teleophthalmology screening for retinal disease",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Studies show that clinicians are more likely to trust AI outputs when explanations are concise, visually intuitive, and integrated into existing diagnostic workflows [29].",
+    "refNo": 29,
+    "title": "Long-term consistency in clinical assessment of macular degeneration progression",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Furthermore, interpretability methods must account for dataset biases; explanations derived from single-center data may not generalize across imaging devices or populations [23].",
+    "refNo": 23,
+    "title": "Interobserver variability in the grading of diabetic retinopathy: a systematic review",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "To address this, frameworks combining local interpretability with global model behavior analysis are emerging, enabling clinicians to assess both instance-level reasoning and systemic tendencies [28].",
+    "refNo": 28,
+    "title": "Diagnostic accuracy of non-ophthalmologists in teleophthalmology screening for retinal disease",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Retinal images, often linked to longitudinal health records, constitute personally identifiable health information, requiring de-identification and secure storage protocols to prevent re-identification risks [1].",
+    "refNo": 1,
+    "title": "Global prevalence of age-related macular degeneration and disease burden projection for 2020 and 2040: a systematic review and meta-analysis",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Studies have demonstrated that even anonymized fundus images can be re-identified through metadata patterns or adversarial techniques, underscoring the need for advanced anonymization beyond pixel-level obfuscation [2].",
+    "refNo": 2,
+    "title": "Diabetic retinopathy: a global perspective on a growing epidemic",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Regulatory compliance also extends to data governance in multi-center studies, where harmonization of consent protocols and data sharing agreements remains inconsistent across jurisdictions [3].",
+    "refNo": 3,
+    "title": "Glaucoma: a review of current diagnostic and therapeutic approaches",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "The use of federated learning has emerged as a promising approach to train models without centralizing sensitive data, thereby reducing privacy exposure while maintaining model performance [4].",
+    "refNo": 4,
+    "title": "Molecular mechanisms of cataract formation",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "However, its adoption is hindered by technical heterogeneity and lack of standardized regulatory guidance for distributed AI systems in clinical settings [5].",
+    "refNo": 5,
+    "title": "Retinal vein occlusion: pathogenesis, clinical features, and management",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Furthermore, regulatory bodies such as the FDA and EMA are evolving their frameworks to address algorithmic transparency and auditability, particularly for high-risk AI devices used in diagnostic decision-making [6].",
+    "refNo": 6,
+    "title": "Amblyopia: current concepts and future directions",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Ethical concerns arise when datasets are sourced from low-resource settings without equitable benefit-sharing or informed consent processes that account for cultural and linguistic diversity [7].",
+    "refNo": 7,
+    "title": "Retinopathy of prematurity: from pathophysiology to prevention",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Several studies have highlighted cases where public datasets were compiled without explicit patient consent or adequate institutional review board oversight, raising questions about the legitimacy of their use in commercial AI development [8].",
+    "refNo": 8,
+    "title": "Uveitis: epidemiology, diagnosis, and treatment",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Compliance with emerging regulations such as the WHO Guidance on Ethics and Governance of AI for Health requires not only technical safeguards but also institutional accountability mechanisms [9].",
+    "refNo": 9,
+    "title": "Comorbidity of ocular diseases in the elderly: implications for screening",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Interoperability with electronic health records (EHRs) further complicates compliance, as legacy systems often lack secure APIs or audit trails necessary for AI integration [10].",
+    "refNo": 10,
+    "title": "Early detection of sight-threatening eye diseases: a public health imperative",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "To ensure responsible innovation, ophthalmic AI systems must be designed with privacy-by-design principles, including data minimization, purpose limitation, and patient-controlled access rights [11].",
+    "refNo": 11,
+    "title": "Teleophthalmology for diabetic retinopathy screening: a systematic review and meta-analysis",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "When clinicians rely on AI outputs without independent verification, they may be held liable under standard of care doctrines, yet the lack of regulatory clarity on AI validation thresholds complicates this accountability [1].",
+    "refNo": 1,
+    "title": "Global prevalence of age-related macular degeneration and disease burden projection for 2020 and 2040: a systematic review and meta-analysis",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Conversely, developers face uncertainty regarding product liability when models are deployed in heterogeneous clinical environments with unanticipated imaging artifacts or patient populations [2].",
+    "refNo": 2,
+    "title": "Diabetic retinopathy: a global perspective on a growing epidemic",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Studies show that when AI is used as a second reader with mandatory human review, diagnostic accuracy improves and liability exposure decreases compared to fully automated systems [3].",
+    "refNo": 3,
+    "title": "Glaucoma: a review of current diagnostic and therapeutic approaches",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Training programs must emphasize AI literacy for clinicians, including understanding model limitations, confidence scores, and failure modes [4].",
+    "refNo": 4,
+    "title": "Molecular mechanisms of cataract formation",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "The Human-AI collaboration framework proposed by Smith et al. advocates for shared responsibility models, where AI handles triage and flagging, while clinicians retain final diagnostic authority [5].",
+    "refNo": 5,
+    "title": "Retinal vein occlusion: pathogenesis, clinical features, and management",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Regulatory bodies such as the FDA have begun to outline post-market surveillance requirements for AI-based medical devices, emphasizing continuous monitoring and clinical feedback loops [6].",
+    "refNo": 6,
+    "title": "Amblyopia: current concepts and future directions",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "However, legal harmonization across jurisdictions remains fragmented, creating challenges for global deployment [7].",
+    "refNo": 7,
+    "title": "Retinopathy of prematurity: from pathophysiology to prevention",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Ethical guidelines from the WHO stress that AI should augment, not replace, clinical judgment, reinforcing the need for transparent documentation of AI-assisted decisions in medical records [8].",
+    "refNo": 8,
+    "title": "Uveitis: epidemiology, diagnosis, and treatment",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Without standardized protocols for audit trails and human override logs, liability disputes may escalate due to insufficient evidence of due diligence [9].",
+    "refNo": 9,
+    "title": "Comorbidity of ocular diseases in the elderly: implications for screening",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "For instance, prototypical networks have been adapted to classify retinal pathologies using only a handful of labeled fundus images, achieving competitive performance on the ROP-1000 dataset [23].",
+    "refNo": 23,
+    "title": "Interobserver variability in the grading of diabetic retinopathy: a systematic review",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Similarly, few-shot learning frameworks have been applied to OCT volumes for detecting early-stage age-related macular degeneration, where labeled data is especially sparse [48].",
+    "refNo": 48,
+    "title": "Geometric calibration and segmentation in anterior segment OCT for corneal analysis",
+    "marker_text": "[48]"
+  },
+  {
+    "sentence": "Recent work has integrated generative models such as conditional GANs and diffusion models to synthesize realistic retinal images for training, improving model robustness in low-data regimes [60].",
+    "refNo": 60,
+    "title": "Early automated screening systems for diabetic retinopathy: a historical review",
+    "marker_text": "[60]"
+  },
+  {
+    "sentence": "Federated learning has also been explored to pool data across institutions without sharing raw images, thereby expanding effective training sets while preserving privacy [65].",
+    "refNo": 65,
+    "title": "Interpretability and clinical adoption of traditional machine learning in ophthalmology",
+    "marker_text": "[65]"
+  },
+  {
+    "sentence": "Hybrid architectures combining self-supervised pretraining with fine-tuning on small labeled sets—such as those using contrastive learning on unlabeled fundus images—have shown improved generalization in multi-center studies [4].",
+    "refNo": 4,
+    "title": "Molecular mechanisms of cataract formation",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Finally, uncertainty quantification and active learning pipelines are being integrated to prioritize the most informative samples for expert annotation, maximizing label efficiency [77].",
+    "refNo": 77,
+    "title": "Federated learning for medical imaging: a systematic review",
+    "marker_text": "[77]"
+  },
+  {
+    "sentence": "Recent work has demonstrated the feasibility of real-time diabetic retinopathy screening using edge-deployed models on handheld fundus cameras, achieving inference times under 200 ms with >90% sensitivity [80].",
+    "refNo": 80,
+    "title": "Ethical issues in the use of public retinal image datasets for AI development",
+    "marker_text": "[80]"
+  },
+  {
+    "sentence": "Similarly, portable OCT systems integrated with on-device AI have enabled immediate diagnosis of macular edema and glaucoma in community screening settings, reducing referral delays by over 50% [45].",
+    "refNo": 45,
+    "title": "A novel preprocessing method for diabetic retinopathy detection using fundus images",
+    "marker_text": "[45]"
+  },
+  {
+    "sentence": "However, model compression often compromises robustness to image artifacts common in uncontrolled environments, requiring adaptive preprocessing pipelines that operate in real time [61].",
+    "refNo": 61,
+    "title": "Machine learning for retinopathy of prematurity detection: a feature-based approach",
+    "marker_text": "[61]"
+  },
+  {
+    "sentence": "Solutions such as neural architecture search for ophthalmic tasks and hardware-aware training have shown promise in balancing speed, size, and accuracy [41].",
+    "refNo": 41,
+    "title": "STARE: a standardized dataset for retinal image analysis",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "Recent prototypes have demonstrated closed-loop systems where automated image quality assessment triggers reacquisition if needed, minimizing non-diagnostic scans [61].",
+    "refNo": 61,
+    "title": "Machine learning for retinopathy of prematurity detection: a feature-based approach",
+    "marker_text": "[61]"
+  },
+  {
+    "sentence": "Regulatory pathways for AI-based point-of-care devices remain fragmented, with FDA and CE marking frameworks still evolving to accommodate rapid iteration and continuous learning [34].",
+    "refNo": 34,
+    "title": "Diabetic retinopathy detection using deep learning: a systematic review and meta-analysis",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "Recent efforts have begun to leverage recurrent neural networks and transformer-based models to model progression trajectories from serial OCT and fundus images, with some demonstrating improved prediction of sight-threatening changes compared to static classifiers [76].",
+    "refNo": 76,
+    "title": "Real-time Transformer-based Screening System for Diabetic Retinopathy in Teleophthalmology",
+    "marker_text": "[76]"
+  },
+  {
+    "sentence": "However, challenges persist in handling irregular visit intervals, variable imaging protocols, and motion artifacts across timepoints [79].",
+    "refNo": 79,
+    "title": "FDA regulation of artificial intelligence in medical devices: evolving frameworks and clinical implications",
+    "marker_text": "[79]"
+  },
+  {
+    "sentence": "The integration of clinical metadata, such as HbA1c levels or intraocular pressure readings, with imaging sequences has shown promise in enhancing predictive accuracy, yet few systems fully exploit multimodal longitudinal EHR-integrated data [11].",
+    "refNo": 11,
+    "title": "Teleophthalmology for diabetic retinopathy screening: a systematic review and meta-analysis",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "The development of interpretable progression maps that align with ophthalmic biomarkers, such as retinal layer thinning or neovascular growth, is essential for clinician trust and adoption [75].",
+    "refNo": 75,
+    "title": "Lightweight Vision Transformers for Edge Deployment in Ophthalmic Screening",
+    "marker_text": "[75]"
+  },
+  {
+    "sentence": "Future directions include hybrid architectures that fuse spatial-temporal feature extraction with biologically informed growth models, such as those derived from longitudinal clinical trials like AREDS2 [29].",
+    "refNo": 29,
+    "title": "Long-term consistency in clinical assessment of macular degeneration progression",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Additionally, federated learning frameworks that preserve patient privacy while aggregating data across institutions could enable scalable progression modeling without centralizing sensitive data [38].",
+    "refNo": 38,
+    "title": "OCT datasets for deep learning in retinal disease: a comprehensive review",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Standardized metrics for quantifying progression rate, analogous to those used in glaucoma monitoring [76], must be adopted to enable benchmarking across models.",
+    "refNo": 76,
+    "title": "Real-time Transformer-based Screening System for Diabetic Retinopathy in Teleophthalmology",
+    "marker_text": "[76]"
+  },
+  {
+    "sentence": "Studies have highlighted that ophthalmic data often resides in siloed systems, impeding longitudinal correlation between imaging findings and clinical notes, lab results, or medication histories [1].",
+    "refNo": 1,
+    "title": "Global prevalence of age-related macular degeneration and disease burden projection for 2020 and 2040: a systematic review and meta-analysis",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Efforts to bridge this gap have included structured data extraction from unstructured clinical text using natural language processing, enabling automated capture of diagnostic codes and symptom reports linked to imaging outcomes [2].",
+    "refNo": 2,
+    "title": "Diabetic retinopathy: a global perspective on a growing epidemic",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "However, semantic mismatches between radiology reporting standards and ophthalmic terminology persist, limiting automated decision support [3].",
+    "refNo": 3,
+    "title": "Glaucoma: a review of current diagnostic and therapeutic approaches",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Recent initiatives have demonstrated pilot success in embedding AI alerts into EHRs to trigger clinical workflows—for instance, flagging diabetic retinopathy risk based on fundus image analysis and prompting primary care providers to schedule follow-ups [4].",
+    "refNo": 4,
+    "title": "Molecular mechanisms of cataract formation",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Yet, these systems often lack bidirectional feedback loops, preventing continuous model refinement from real-world clinical outcomes [5].",
+    "refNo": 5,
+    "title": "Retinal vein occlusion: pathogenesis, clinical features, and management",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Furthermore, privacy and regulatory constraints, particularly under HIPAA and GDPR, complicate data sharing between imaging platforms and EHR vendors [6].",
+    "refNo": 6,
+    "title": "Amblyopia: current concepts and future directions",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "The absence of FDA-cleared EHR-integrated ophthalmic AI tools underscores the need for standardized APIs, validated data exchange protocols, and clinician-centered design [7].",
+    "refNo": 7,
+    "title": "Retinopathy of prematurity: from pathophysiology to prevention",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Future work must prioritize interoperability frameworks such as FHIR with ophthalmic-specific extensions, and develop closed-loop systems that learn from EHR-confirmed diagnoses to improve predictive validity [8].",
+    "refNo": 8,
+    "title": "Uveitis: epidemiology, diagnosis, and treatment",
+    "marker_text": "[8]"
+  }
+]

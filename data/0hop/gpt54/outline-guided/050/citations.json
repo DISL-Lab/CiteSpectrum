@@ -1,0 +1,464 @@
+[
+  {
+    "sentence": "This policy architecture has been central to shifting rare diseases from neglected conditions to a recognizable field of therapeutic innovation ref [1].",
+    "refNo": 1,
+    "title": "Orphan drug development: an economically viable strategy for biopharma R&D",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Hennekam emphasizes that ultra-rare conditions may require transnational, virtual, and highly specialized care models because conventional national centers cannot accumulate sufficient case volume or expertise for each disorder ref [3].",
+    "refNo": 3,
+    "title": "Care for patients with ultra-rare disorders",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "From an innovation perspective, orphan therapeutics have moved from a niche humanitarian domain to a strategic segment of biopharmaceutical R&D. Industry interest has expanded because rare disease programs can combine strong unmet need with development incentives, smaller trials, and commercially viable returns despite small patient populations ref [1].",
+    "refNo": 1,
+    "title": "Orphan drug development: an economically viable strategy for biopharma R&D",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "This shift has also attracted large pharmaceutical firms, reinforcing the need to distinguish between the social rationale for orphan drug policy and the market dynamics now shaping the rare disease therapeutic landscape ref [2].",
+    "refNo": 2,
+    "title": "Big Pharma's new model in orphan drugs and rare diseases",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "This helps explain why some orphan products exhibit discontinuous and very large price increases after market entry, raising questions about whether observed prices reflect innovation incentives or monopoly leverage ref [4].",
+    "refNo": 4,
+    "title": "Extraordinary pricing of orphan drugs: is it a socially responsible strategy for the US pharmaceutical industry",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "P. Acthar Gel, whose dramatic price escalation occurred despite the drug’s longstanding clinical use, suggesting that rarity-based market positioning can be exploited even when prices are not tightly linked to contemporaneous R&D expenditure ref [5].",
+    "refNo": 5,
+    "title": "Orphan economics: the downside of supplyside pharmacology",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Hemphill similarly argues that extraordinary orphan-drug price increases may fail tests of social responsibility when they impair timely access to life-sustaining treatment, unless justified by genuine cost or availability constraints ref [4].",
+    "refNo": 4,
+    "title": "Extraordinary pricing of orphan drugs: is it a socially responsible strategy for the US pharmaceutical industry",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "In this framing, conventional utilitarian cost-per-QALY reasoning is informative but incomplete, since it may undervalue interventions for very small populations whose claims are grounded in equity, non-abandonment, and the moral importance of treating serious illness despite weak economies of scale ref [7].",
+    "refNo": 7,
+    "title": "Developing and paying for medicines for orphan indications in oncology: utilitarian regulation vs equitable care?",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "The Brazilian experience with laronidase for mucopolysaccharidosis type I illustrates how absent or incomplete policy can shift access from transparent prioritization toward litigation or ad hoc administrative pathways, raising concerns about procedural justice, regional inequity, and the mismatch between legal entitlement and sustainable allocation ref [6].",
+    "refNo": 6,
+    "title": "Ethical issues related to the access to orphan drugs in Brazil: the case of mucopolysaccharidosis type I",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "European analyses emphasize that any assessment of ultra-high prices must consider coherence, predictability, and sustainability across national systems, alongside fairness to patients facing otherwise unmet need ref [8].",
+    "refNo": 8,
+    "title": "Access to orphan drugs in Europe: current and future issues",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Schlander and Beck describe ERT for MPS VI as clinically meaningful for a severely debilitating disorder, yet associated with annual per-patient costs of roughly €150,000 to €450,000 and marked cross-national variation in reimbursement access despite European authorization ref [9].",
+    "refNo": 9,
+    "title": "Expensive drugs for rare disorders: to treat or not to treat? The case of enzyme replacement therapy for mucopolysaccharidosis VI",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Their discussion also highlights a recurring feature of ultra-orphan decision-making: when evidence bases are small and disease heterogeneity is substantial, coverage criteria may become restrictive or seemingly arbitrary, raising concerns about both procedural fairness and exclusion of patients who may still benefit ref [9].",
+    "refNo": 9,
+    "title": "Expensive drugs for rare disorders: to treat or not to treat? The case of enzyme replacement therapy for mucopolysaccharidosis VI",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "The history of imiglucerase shows that an ultra-orphan therapy can become commercially transformative, with Cerezyme evolving into a flagship biotechnology product and a paradigm for orphan-drug business models ref [10].",
+    "refNo": 10,
+    "title": "Imiglucerase in the treatment of Gaucher disease: a history and perspective",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Taken together, MPS VI and Gaucher disease illustrate the core policy dilemma of this review: whether ultra-high prices reflect justified reward for innovation in ultra-rare disease, or whether they exceed what can be defended on evidentiary, distributive, and health-system grounds ref [9], ref [10].",
+    "refNo": 9,
+    "title": "Expensive drugs for rare disorders: to treat or not to treat? The case of enzyme replacement therapy for mucopolysaccharidosis VI",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Taken together, MPS VI and Gaucher disease illustrate the core policy dilemma of this review: whether ultra-high prices reflect justified reward for innovation in ultra-rare disease, or whether they exceed what can be defended on evidentiary, distributive, and health-system grounds ref [9], ref [10].",
+    "refNo": 10,
+    "title": "Imiglucerase in the treatment of Gaucher disease: a history and perspective",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "This concern was vividly reflected in calls from Dutch clinicians for an independent EU-level assessment of high-cost orphan drugs, arguing that reimbursement decisions should not rest on incomplete national evidence bases or fragmented registries ref [11].",
+    "refNo": 11,
+    "title": "Dutch doctors call for EU evaluation of cost effectiveness of high cost orphan drugs",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "They argue that policy evaluation may require greater tolerance of uncertainty, conditional reimbursement, and stronger real-world data collection rather than a mechanical application of conventional thresholds ref [2].",
+    "refNo": 2,
+    "title": "Big Pharma's new model in orphan drugs and rare diseases",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "The policy debate thus increasingly centers on managed entry agreements, registry-based reassessment, and multi-criteria frameworks that incorporate severity, unmet need, and equity alongside cost per QALY, while still demanding transparent justification for ultra-high prices ref [11], ref [2].",
+    "refNo": 11,
+    "title": "Dutch doctors call for EU evaluation of cost effectiveness of high cost orphan drugs",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "The policy debate thus increasingly centers on managed entry agreements, registry-based reassessment, and multi-criteria frameworks that incorporate severity, unmet need, and equity alongside cost per QALY, while still demanding transparent justification for ultra-high prices ref [11], ref [2].",
+    "refNo": 2,
+    "title": "Big Pharma's new model in orphan drugs and rare diseases",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "A European quantitative analysis found that orphan drug prices vary systematically with disease prevalence, treatment population size, therapeutic area, and product characteristics, indicating that manufacturers differentiate prices according to both market size and the perceived clinical or strategic value of the product rather than applying a uniform “rare disease premium” ref [12].",
+    "refNo": 12,
+    "title": "Quantitative Analysis of the Influence of Disease and Product Characteristics on Orphan Drug Prices in Europe",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "In practice, prices also tend to reflect whether the medicine delivers symptomatic management or a disease-modifying effect, as well as whether evidence generation is constrained by small trials and surrogate endpoints, which can increase uncertainty but also reinforce arguments for premium pricing in the context of limited options ref [12].",
+    "refNo": 12,
+    "title": "Quantitative Analysis of the Influence of Disease and Product Characteristics on Orphan Drug Prices in Europe",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "This distinction matters because it implies that assessments of justified pricing should examine the specific value proposition and cost structure of each ultra-orphan product, not merely the size of the patient population ref [12].",
+    "refNo": 12,
+    "title": "Quantitative Analysis of the Influence of Disease and Product Characteristics on Orphan Drug Prices in Europe",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "In Europe, orphan designation is granted at the supranational level, but price setting and reimbursement remain national competences, creating a fragmented access landscape in which identical products can be reimbursed quickly in some countries and delayed or restricted in others ref [8].",
+    "refNo": 8,
+    "title": "Access to orphan drugs in Europe: current and future issues",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Because many orphan products enter markets with limited clinical evidence, no close therapeutic substitutes, and strong claims based on disease severity or unmet need, payers frequently supplement standard economic evaluation with broader social and ethical criteria ref [13].",
+    "refNo": 13,
+    "title": "Pricing and reimbursement of orphan drugs: the need for more transparency",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "First, the small budget impact per disease can encourage coverage despite poor conventional value-for-money ratios; second, cumulative fiscal pressure across many high-priced rare-disease therapies has prompted calls for more coherent, predictable, and evidence-based reimbursement rules ref [8], ref [13].",
+    "refNo": 8,
+    "title": "Access to orphan drugs in Europe: current and future issues",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "First, the small budget impact per disease can encourage coverage despite poor conventional value-for-money ratios; second, cumulative fiscal pressure across many high-priced rare-disease therapies has prompted calls for more coherent, predictable, and evidence-based reimbursement rules ref [8], ref [13].",
+    "refNo": 13,
+    "title": "Pricing and reimbursement of orphan drugs: the need for more transparency",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Firms can combine premium pricing with lower development burdens: orphan programs often rely on smaller trials, shorter timelines, regulatory fee waivers, tax advantages, and market exclusivity, which together improve expected returns relative to many mass-market programs ref [1].",
+    "refNo": 1,
+    "title": "Orphan drug development: an economically viable strategy for biopharma R&D",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "As traditional blockbuster opportunities weakened under patent expiry and generic competition, larger pharmaceutical companies increasingly turned toward rare diseases as a defensible niche characterized by high unmet need, lower direct competition, and stronger pricing power ref [2].",
+    "refNo": 2,
+    "title": "Big Pharma's new model in orphan drugs and rare diseases",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Improved access to accelerated approval pathways, particularly through acceptance of surrogate endpoints, has been estimated to substantially reduce development costs and increase the number of economically viable rare-disease programs ref [14].",
+    "refNo": 14,
+    "title": "The potential investment impact of improved access to accelerated approval on the development of treatments for low prevalence rare diseases",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "This argument draws on the broader pharmaceutical literature showing high average development costs, including the cost of failures and the cost of capital, although these estimates are not specific to ultra-orphan products and therefore cannot by themselves validate any particular price level ref [16].",
+    "refNo": 16,
+    "title": "The price of innovation: new estimates of drug development costs",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "The US Orphan Drug Act and subsequent European and Japanese frameworks were explicitly designed to correct a perceived market failure by offering exclusivity and other incentives to stimulate investment in conditions that industry had previously neglected ref [15].",
+    "refNo": 15,
+    "title": "Rare diseases, orphan drugs and their regulation: questions and misconceptions",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "As one of the earliest and most commercially successful enzyme replacement therapies, Cerezyme helped demonstrate that a treatment for an ultra-rare disorder could achieve blockbuster revenues, thereby setting expectations for subsequent orphan launches ref [10].",
+    "refNo": 10,
+    "title": "Imiglucerase in the treatment of Gaucher disease: a history and perspective",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "In rare disease markets where patient numbers are extremely limited, the effective monopoly created by exclusivity can be especially strong because the market may be too small to support parallel entrants even after approval pathways are available ref [2].",
+    "refNo": 2,
+    "title": "Big Pharma's new model in orphan drugs and rare diseases",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "In a Belgian comparison of drugs used for rare disease indications, designated orphan drugs had substantially higher median prices than comparable non-designated drugs, indicating that orphan designation functions not only as a developmental incentive but also as a market signal that may legitimize premium pricing ref [17].",
+    "refNo": 17,
+    "title": "Drugs for rare diseases: influence of orphan designation status on price",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Hemphill documents cases of extraordinary price increases among orphan products, arguing that manufacturers can exploit the combination of low competitive pressure and high clinical necessity to impose very large price rises once market position is secured ref [4].",
+    "refNo": 4,
+    "title": "Extraordinary pricing of orphan drugs: is it a socially responsible strategy for the US pharmaceutical industry",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Evidence from a European quantitative analysis shows that orphan drug prices vary systematically with observable disease and product attributes rather than uniformly across the category ref [12].",
+    "refNo": 12,
+    "title": "Quantitative Analysis of the Influence of Disease and Product Characteristics on Orphan Drug Prices in Europe",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Higher prices tend to be associated with factors such as very low prevalence, chronic or lifelong treatment patterns, greater disease severity, and limited therapeutic alternatives, while product-level features such as route of administration and the degree of demonstrated clinical benefit also contribute to variation ref [12].",
+    "refNo": 12,
+    "title": "Quantitative Analysis of the Influence of Disease and Product Characteristics on Orphan Drug Prices in Europe",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "European experience also suggests that orphan products can retain strong market positions because they are frequently viewed as indispensable therapies and because national reimbursement systems may continue to prioritize continuity of treatment over active price erosion ref [8].",
+    "refNo": 8,
+    "title": "Access to orphan drugs in Europe: current and future issues",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Evidence from the EU generic medicines literature highlights several well-documented barriers: patent litigation, defensive patenting or 'evergreening', patent linkage practices, third-party interventions, and delays in national pricing and reimbursement decisions can all postpone entry after nominal loss of exclusivity ref [18].",
+    "refNo": 18,
+    "title": "Overcoming challenges in market access of generic medicines in the European Union",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "The policy implication is that assessments of orphan pricing power should distinguish between formal exclusivity and the broader set of institutional constraints that govern actual contestability ref [8], ref [18].",
+    "refNo": 8,
+    "title": "Access to orphan drugs in Europe: current and future issues",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "The policy implication is that assessments of orphan pricing power should distinguish between formal exclusivity and the broader set of institutional constraints that govern actual contestability ref [8], ref [18].",
+    "refNo": 18,
+    "title": "Overcoming challenges in market access of generic medicines in the European Union",
+    "marker_text": "[18]"
+  },
+  {
+    "sentence": "Reviews of orphan-drug pricing note that exclusivity, sparse therapeutic alternatives, and weak payer bargaining together created conditions in which manufacturers could set prices far above those seen in larger markets, while also framing such prices as necessary to recover investment from limited patient numbers ref [13].",
+    "refNo": 13,
+    "title": "Pricing and reimbursement of orphan drugs: the need for more transparency",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "What began as a landmark ultra-orphan biotechnology success became a paradigmatic example of how a single product in a highly specialized market could generate blockbuster revenues, helping to shape industry expectations about the commercial potential of rare-disease portfolios ref [10].",
+    "refNo": 10,
+    "title": "Imiglucerase in the treatment of Gaucher disease: a history and perspective",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Analyses of the EU orphan-drug system argue that governments are not only reacting to high launch prices, but also to perceived strategic use of orphan designation and the difficulty of applying standard cost-effectiveness thresholds under conditions of low evidence and high unmet need ref [19].",
+    "refNo": 19,
+    "title": "Paying for the Orphan Drug System: break or bend? Is it time for a new evaluation system for payers in Europe to take account of new rare disease treatments?",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "From this perspective, current controversy over ultra-high prices is inseparable from the historical design of orphan policy itself: exclusivity successfully stimulated entry, but it also institutionalized a form of regulated scarcity that can preserve substantial pricing power unless counterbalanced by greater transparency and tailored assessment rules ref [13], ref [19].",
+    "refNo": 13,
+    "title": "Pricing and reimbursement of orphan drugs: the need for more transparency",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "From this perspective, current controversy over ultra-high prices is inseparable from the historical design of orphan policy itself: exclusivity successfully stimulated entry, but it also institutionalized a form of regulated scarcity that can preserve substantial pricing power unless counterbalanced by greater transparency and tailored assessment rules ref [13], ref [19].",
+    "refNo": 19,
+    "title": "Paying for the Orphan Drug System: break or bend? Is it time for a new evaluation system for payers in Europe to take account of new rare disease treatments?",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Commentary on enzyme replacement therapy for mucopolysaccharidosis VI illustrates how severe morbidity, heterogeneous progression, and absence of substitutes can create strong pressure to reimburse despite very high annual per-patient costs, while also exposing the arbitrariness of some access criteria when evidence is limited ref [9].",
+    "refNo": 9,
+    "title": "Expensive drugs for rare disorders: to treat or not to treat? The case of enzyme replacement therapy for mucopolysaccharidosis VI",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Hughes et al. argue that support for ultra-orphan drugs has frequently rested on the intuition that conditions that are both severe and exceptionally rare constitute a special case for funding; however, rarity alone does not establish greater clinical benefit or social priority, and standard cost-effectiveness frameworks tend to perform poorly in this context ref [4].",
+    "refNo": 4,
+    "title": "Extraordinary pricing of orphan drugs: is it a socially responsible strategy for the US pharmaceutical industry",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Hennekam emphasizes that for ultra-rare disorders, fragmented knowledge, dispersed patients, and the lack of sustainable specialist infrastructures complicate both recognition of disease burden and delivery of care ref [20].",
+    "refNo": 20,
+    "title": "Drugs for exceptionally rare diseases: do they deserve special status for funding?",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "By contrast, equity-oriented views argue that rarity should not translate into systematic exclusion, particularly where patients face profound unmet need and no therapeutic alternatives ref [21], ref [4].",
+    "refNo": 21,
+    "title": "Orphan Drugs for Rare Diseases: Grounds for Special Status",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "By contrast, equity-oriented views argue that rarity should not translate into systematic exclusion, particularly where patients face profound unmet need and no therapeutic alternatives ref [21], ref [4].",
+    "refNo": 4,
+    "title": "Extraordinary pricing of orphan drugs: is it a socially responsible strategy for the US pharmaceutical industry",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Picavet et al. emphasize balancing financial stewardship with social and ethical motives, while Pinxten et al. propose a fair-distribution framework in which rare-disease patients should receive a defensible share of collective resources rather than automatic priority or categorical denial ref [22], ref [4].",
+    "refNo": 22,
+    "title": "A fair share for the orphans: ethical guidelines for a fair distribution of resources within the bounds of the 10-year-old European Orphan Drug Regulation",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Picavet et al. emphasize balancing financial stewardship with social and ethical motives, while Pinxten et al. propose a fair-distribution framework in which rare-disease patients should receive a defensible share of collective resources rather than automatic priority or categorical denial ref [22], ref [4].",
+    "refNo": 4,
+    "title": "Extraordinary pricing of orphan drugs: is it a socially responsible strategy for the US pharmaceutical industry",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "In practice, ethically defensible access is more likely to rely on moderated exceptionalism: transparent deliberation, explicit opportunity-cost reasoning, and conditional coverage or risk-sharing arrangements that recognize both the special claims of ultra-rare patients and the legitimacy of budget constraints ref [22], ref [4].",
+    "refNo": 22,
+    "title": "A fair share for the orphans: ethical guidelines for a fair distribution of resources within the bounds of the 10-year-old European Orphan Drug Regulation",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "In practice, ethically defensible access is more likely to rely on moderated exceptionalism: transparent deliberation, explicit opportunity-cost reasoning, and conditional coverage or risk-sharing arrangements that recognize both the special claims of ultra-rare patients and the legitimacy of budget constraints ref [22], ref [4].",
+    "refNo": 4,
+    "title": "Extraordinary pricing of orphan drugs: is it a socially responsible strategy for the US pharmaceutical industry",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "This has fueled proposals for modified or dedicated evaluation pathways for orphan medicines, not necessarily to exempt them from scrutiny, but to make assessment more proportionate to the evidentiary realities of rare diseases ref [23].",
+    "refNo": 23,
+    "title": "Early access: analysis of the French ATU system",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Greater transparency has been repeatedly advocated because opaque negotiations and inconsistent appraisal standards can obscure the relationship between clinical benefit, price, and public affordability, especially for products benefiting from orphan incentives and limited competition ref [19].",
+    "refNo": 19,
+    "title": "Paying for the Orphan Drug System: break or bend? Is it time for a new evaluation system for payers in Europe to take account of new rare disease treatments?",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "The French ATU system illustrates how temporary authorization before full pricing and reimbursement can accelerate treatment availability for patients with severe rare diseases, while also creating pressures around ex post price setting, budget control, and alignment between early clinical promise and later demonstrated value ref [5].",
+    "refNo": 5,
+    "title": "Orphan economics: the downside of supplyside pharmacology",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "However, empirical work from Europe suggests that price formation is not explained by rarity alone: disease and product characteristics jointly shape launch prices, implying that ultra-rarity is only one driver within a broader value- and market-based pricing logic rather than a sufficient explanation for ultra-high prices by itself ref [12].",
+    "refNo": 12,
+    "title": "Quantitative Analysis of the Influence of Disease and Product Characteristics on Orphan Drug Prices in Europe",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "European modelling projected that orphan medicines would rise to a modest share of total pharmaceutical spending overall, peaking at around 4.6% of pharmaceutical expenditure, which challenges narratives that orphan drugs as a class are fiscally overwhelming ref [25].",
+    "refNo": 25,
+    "title": "Budget impact analysis of orphan drugs in Belgium: estimates from 2008 to 2013",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Yet national analyses show why individual health systems still experience acute pressure: in Belgium, orphan medicines already accounted for 5% of the hospital drug budget in 2008, with forecasts of substantial growth thereafter ref [5].",
+    "refNo": 5,
+    "title": "Orphan economics: the downside of supplyside pharmacology",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Orphan drug policy created a commercially attractive niche in which exclusivity, limited competition, strong unmet need, and inelastic demand can sustain high prices and make rare-disease portfolios strategically appealing even to large firms ref [2].",
+    "refNo": 2,
+    "title": "Big Pharma's new model in orphan drugs and rare diseases",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "A recurrent policy proposal is therefore to refine orphan regulation with clearer rules on profitability, post-launch evidence generation, and possible withdrawal or recalibration of favorable conditions when returns become disproportionate to residual uncertainty or unmet need ref [26], ref [28].",
+    "refNo": 26,
+    "title": "What is wrong with orphan drug policies? Suggestions for ways forward",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "A recurrent policy proposal is therefore to refine orphan regulation with clearer rules on profitability, post-launch evidence generation, and possible withdrawal or recalibration of favorable conditions when returns become disproportionate to residual uncertainty or unmet need ref [26], ref [28].",
+    "refNo": 28,
+    "title": "Are rare diseases still orphans or happily adopted? The challenges of developing and using orphan medicinal products",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Empirical work on top-selling orphan drugs has shown that, for several products, prescribing associated with non-orphan diagnoses grew faster than use for the original orphan indication, illustrating how market size can expand beyond the population that grounded the original policy rationale ref [27].",
+    "refNo": 27,
+    "title": "The prevalence and cost of unapproved uses of top-selling orphan drugs",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "Gaucher disease is often cited as a paradigmatic case: imiglucerase delivered major clinical benefit and helped validate the orphan model, but it also became an emblem of how an ultra-orphan therapy can achieve extraordinary commercial success under protected market conditions ref [10].",
+    "refNo": 10,
+    "title": "Imiglucerase in the treatment of Gaucher disease: a history and perspective",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "As a result, willingness to pay may reflect desperation and monopoly conditions as much as social value ref [29].",
+    "refNo": 29,
+    "title": "Priceless goods: how should life-saving drugs be priced?",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "Maitland argues that life-saving medicines should not automatically be insulated from market pricing, because returns are needed to sustain innovation in areas of high unmet need ref [29].",
+    "refNo": 29,
+    "title": "Priceless goods: how should life-saving drugs be priced?",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "By contrast, Hemphill highlights cases of extraordinary orphan-drug price escalation, including very large single-step increases, and argues that such behavior is difficult to defend as socially responsible when patient need is urgent and therapeutic alternatives are absent ref [4].",
+    "refNo": 4,
+    "title": "Extraordinary pricing of orphan drugs: is it a socially responsible strategy for the US pharmaceutical industry",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Without such safeguards, very high prices risk shifting the burden of rarity onto patients and payers rather than sharing it across innovation policy, reimbursement design, and broader social financing arrangements ref [4].",
+    "refNo": 4,
+    "title": "Extraordinary pricing of orphan drugs: is it a socially responsible strategy for the US pharmaceutical industry",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Hughes et al. argue that ultra-orphan products are almost inevitably disadvantaged by standard cost-effectiveness thresholds, so reimbursement decisions often shift toward broader considerations of severity, unmet need, and equity rather than narrow efficiency alone ref [9].",
+    "refNo": 9,
+    "title": "Expensive drugs for rare disorders: to treat or not to treat? The case of enzyme replacement therapy for mucopolysaccharidosis VI",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Schlander and Beck describe how, despite regulatory approval and meaningful clinical benefit, access depended heavily on country-specific reimbursement rules and on treatment initiation or continuation criteria that could appear arbitrary in relation to disease heterogeneity ref [20].",
+    "refNo": 20,
+    "title": "Drugs for exceptionally rare diseases: do they deserve special status for funding?",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "The rationale is not to exempt ultra-orphan therapies from scrutiny, but to evaluate them through decision frameworks that explicitly balance equity and financial sustainability while reducing postcode inequities in access ref [9].",
+    "refNo": 9,
+    "title": "Expensive drugs for rare disorders: to treat or not to treat? The case of enzyme replacement therapy for mucopolysaccharidosis VI",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Accordingly, proposed reforms emphasize clearer criteria for when an orphan product is “sufficiently profitable,” better post-launch data collection, and mechanisms to revisit the continuation of special protections or favorable conditions when market performance substantially exceeds expectations [2].",
+    "refNo": 2,
+    "title": "Big Pharma's new model in orphan drugs and rare diseases",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Modeling work suggests that expanding practical access to accelerated approval could lower development costs by roughly 60% and enable substantially more low-prevalence rare disease programs to be financed with the same capital base [1].",
+    "refNo": 1,
+    "title": "Orphan drug development: an economically viable strategy for biopharma R&D",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Such a design could preserve innovation incentives for ultra-orphan therapies while improving legitimacy, affordability, and long-run sustainability of reimbursement systems [1][2].",
+    "refNo": 1,
+    "title": "Orphan drug development: an economically viable strategy for biopharma R&D",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Such a design could preserve innovation incentives for ultra-orphan therapies while improving legitimacy, affordability, and long-run sustainability of reimbursement systems [1][2].",
+    "refNo": 2,
+    "title": "Big Pharma's new model in orphan drugs and rare diseases",
+    "marker_text": "[2]"
+  }
+]

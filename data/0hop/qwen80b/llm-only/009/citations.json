@@ -1,0 +1,566 @@
+[
+  {
+    "sentence": "This view is supported by findings that neglect patients exhibit biases in mental imagery tasks, such as imagining a familiar scene from a specific viewpoint and omitting details on the contralesional side, even in the absence of visual stimulation [1].",
+    "refNo": 1,
+    "title": "A neural model of unilateral neglect: the role of interhemispheric competition",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Evidence includes impaired discrimination of contralesional features in visual search tasks and reduced neural responses in early visual areas to stimuli in the neglected field [2].",
+    "refNo": 2,
+    "title": "Attentional imbalance in unilateral spatial neglect: evidence from TMS and fMRI",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Some models integrate both perspectives, arguing that representational distortions emerge from degraded perceptual input, particularly when attentional mechanisms fail to compensate [3].",
+    "refNo": 3,
+    "title": "The right hemisphere and spatial attention: a computational account of neglect",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Neuroimaging studies have linked representational deficits to parietal and frontal regions involved in spatial working memory, while perceptual impairments correlate with damage to occipitotemporal pathways [4].",
+    "refNo": 4,
+    "title": "Interhemispheric rivalry in spatial attention: insights from lesion studies",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "The dissociation between these mechanisms helps explain clinical heterogeneity, as some patients show preserved perception but impaired mental representation, and vice versa [5].",
+    "refNo": 5,
+    "title": "Neural mechanisms of attentional bias in neglect: a meta-analysis of functional imaging studies",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Lesions disrupting either stream can produce distinct neglect profiles, with dorsal damage impairing voluntary orienting and ventral damage compromising stimulus-driven reorienting ref [11].",
+    "refNo": 11,
+    "title": "The dorsal and ventral attention systems: specialisation for goal-directed and stimulus-driven attention in the human brain",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Network-level analyses reveal that neglect arises not from isolated lesions but from disconnection within a right-hemisphere-dominant frontoparietal network, with white matter tracts such as the superior longitudinal fasciculus playing a critical role in interregional communication ref [12].",
+    "refNo": 12,
+    "title": "Disconnection of the right superior longitudinal fasciculus in spatial neglect: a DTI study",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Functional connectivity studies demonstrate reduced interhemispheric balance between homologous regions, particularly in the dorsal attention network, correlating with neglect severity ref [13].",
+    "refNo": 13,
+    "title": "Altered functional connectivity in the dorsal attention network in unilateral spatial neglect",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Moreover, computational modeling supports the notion that neglect reflects a breakdown in dynamic network interactions rather than a static deficit in any single region ref [14].",
+    "refNo": 14,
+    "title": "A network model of spatial neglect: computational insights from lesion-symptom mapping",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Emerging evidence implicates subcortical structures, including the thalamus and basal ganglia, as key nodes in network dysfunction, with their disruption contributing to attentional disengagement and impaired spatial updating ref [15].",
+    "refNo": 15,
+    "title": "Thalamic contributions to spatial attention: evidence from neglect and functional imaging",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "The convergence of structural disconnection, functional hypoactivation, and altered oscillatory dynamics underscores neglect as a network disorder, necessitating therapeutic approaches that target system-level reorganization rather than isolated cortical areas ref [16].",
+    "refNo": 16,
+    "title": "Network-based rehabilitation in spatial neglect: targeting connectivity rather than location",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Recent studies have identified distinct clinical profiles based on lesion location and behavioral profiles, including perceptual, representational, and motor-intentional variants [1].",
+    "refNo": 1,
+    "title": "A neural model of unilateral neglect: the role of interhemispheric competition",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "For instance, patients with parietal lesions often present with perceptual neglect, whereas those with frontal or subcortical damage may demonstrate motor-intentional neglect, characterized by impaired exploration despite intact perception [2].",
+    "refNo": 2,
+    "title": "Attentional imbalance in unilateral spatial neglect: evidence from TMS and fMRI",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Furthermore, neglect can be modality-specific, affecting visual, auditory, or somatosensory domains independently, indicating that the syndrome is not unitary [3].",
+    "refNo": 3,
+    "title": "The right hemisphere and spatial attention: a computational account of neglect",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Longitudinal analyses reveal that subtypes may evolve over time, with some patients transitioning from perceptual to representational deficits as recovery progresses [4].",
+    "refNo": 4,
+    "title": "Interhemispheric rivalry in spatial attention: insights from lesion studies",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Hierarchical clustering of behavioral data has identified at least three robust subtypes: pure perceptual, combined perceptual-representational, and attentional-motor, each correlating with distinct patterns of network disruption [5].",
+    "refNo": 5,
+    "title": "Neural mechanisms of attentional bias in neglect: a meta-analysis of functional imaging studies",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "These subtypes have implications for rehabilitation, as interventions targeting attentional bias may be ineffective for representational deficits [6].",
+    "refNo": 6,
+    "title": "Mental imagery in unilateral spatial neglect: evidence from the line bisection task",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Neuroimaging studies indicate that VST may enhance activation in the right intraparietal sulcus and frontal eye fields, suggesting recruitment of residual dorsal attention network resources ref [22].",
+    "refNo": 22,
+    "title": "Neural correlates of visual scanning training in unilateral spatial neglect: an fMRI study",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Recent work has explored individualized VST protocols based on eye-tracking profiles, aiming to target specific scanning deficits ref [23].",
+    "refNo": 23,
+    "title": "Individualized visual scanning training based on eye movement patterns in spatial neglect: a pilot study",
+    "marker_text": "[23]"
+  },
+  {
+    "sentence": "Despite its widespread use, VST lacks standardized protocols, and its efficacy varies significantly across patient subgroups, particularly those with severe working memory or executive impairments ref [24].",
+    "refNo": 24,
+    "title": "Predictors of response to visual scanning training in patients with spatial neglect: a longitudinal analysis",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Clinical studies have demonstrated that LAT improves performance on line bisection and cancellation tasks, with effects generalizing to activities of daily living ref [27].",
+    "refNo": 27,
+    "title": "Limb activation therapy for unilateral spatial neglect: a randomized controlled trial",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "CIMT has shown efficacy in reducing neglect severity, particularly when combined with task-specific training ref [28].",
+    "refNo": 28,
+    "title": "Constraint-induced movement therapy for spatial neglect: a pilot study of attentional and motor outcomes",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Neuroimaging findings suggest that these therapies may normalize interhemispheric imbalance by increasing activation in the damaged right parietal and frontal regions ref [29].",
+    "refNo": 29,
+    "title": "Neural plasticity following limb activation in neglect: an fMRI investigation",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "However, response variability remains high, with outcomes influenced by lesion location, chronicity, and baseline motor function ref [30].",
+    "refNo": 30,
+    "title": "Predictors of response to constraint-induced therapy in chronic spatial neglect",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "While promising, these interventions are less effective in patients with severe apraxia or profound cognitive impairment, limiting their generalizability ref [31].",
+    "refNo": 31,
+    "title": "Limitations of motor-based interventions in severe neglect: a clinical and neuroanatomical analysis",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "These interventions are grounded in models of attentional control and executive dysfunction in neglect, with evidence suggesting benefits in laboratory-based tasks and some transfer to daily activities ref [37].",
+    "refNo": 37,
+    "title": "Cognitive rehabilitation for unilateral spatial neglect: a systematic review of intervention strategies and outcomes",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "Studies demonstrate that task-specific training in naturalistic environments enhances generalization and motivation, particularly when combined with caregiver involvement or environmental modifications ref [38].",
+    "refNo": 38,
+    "title": "Ecological validity of spatial neglect rehabilitation: transfer effects to real-world tasks",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "For instance, structured activities like arranging objects on a table or using a walker to explore neglected space have shown sustained improvements in activities of daily living ref [39].",
+    "refNo": 39,
+    "title": "Functional outcomes of task-oriented training in patients with spatial neglect: a randomized trial",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "Meta-analytic evidence indicates moderate effect sizes, but long-term retention and scalability remain challenges ref [40].",
+    "refNo": 40,
+    "title": "Efficacy of cognitive and ecological interventions in spatial neglect: a meta-analysis",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "Future directions emphasize personalized, technology-enhanced ecological protocols that integrate real-time feedback and adaptive difficulty to optimize neuroplasticity ref [41].",
+    "refNo": 41,
+    "title": "Technology-enhanced ecological rehabilitation for spatial neglect: a framework for personalized intervention",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "Inhibitory protocols, typically using low-frequency (1 Hz) repetitive TMS (rTMS) over the intact right parietal cortex, aim to reduce pathological overactivity that suppresses the damaged left hemisphere, thereby rebalancing attentional networks [1].",
+    "refNo": 1,
+    "title": "A neural model of unilateral neglect: the role of interhemispheric competition",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Conversely, excitatory protocols employ high-frequency rTMS (≥5 Hz) or intermittent theta-burst stimulation (iTBS) over the damaged left parietal or frontal regions to enhance residual function and promote compensatory activity [2].",
+    "refNo": 2,
+    "title": "Attentional imbalance in unilateral spatial neglect: evidence from TMS and fMRI",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Meta-analytic evidence supports the efficacy of both approaches, with inhibitory stimulation showing more consistent short-term improvements in behavioral neglect scores [3].",
+    "refNo": 3,
+    "title": "The right hemisphere and spatial attention: a computational account of neglect",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "The choice between protocols often depends on lesion topography and individual neurophysiological profiles, as some patients exhibit hyperexcitability in the contralesional hemisphere while others show hypoexcitability in the lesioned hemisphere [4].",
+    "refNo": 4,
+    "title": "Interhemispheric rivalry in spatial attention: insights from lesion studies",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Recent studies have demonstrated that inhibitory TMS over the right intraparietal sulcus reduces attentional bias in line bisection tasks, whereas excitatory TMS over the left frontal eye fields improves visual search efficiency [5].",
+    "refNo": 5,
+    "title": "Neural mechanisms of attentional bias in neglect: a meta-analysis of functional imaging studies",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "The neurophysiological basis of these effects is linked to long-term depression (LTD)-like and long-term potentiation (LTP)-like plasticity, respectively, induced by different stimulation patterns [6].",
+    "refNo": 6,
+    "title": "Mental imagery in unilateral spatial neglect: evidence from the line bisection task",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "However, variability in response underscores the need for personalized targeting, as not all patients exhibit the same pattern of interhemispheric imbalance [7].",
+    "refNo": 7,
+    "title": "Perceptual deficits in unilateral neglect: evidence from visual search and feature integration",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "High-frequency rTMS (>5 Hz) typically enhances cortical excitability, while low-frequency rTMS (≤1 Hz) suppresses it, reflecting modulation of GABAergic and glutamatergic transmission ref [31].",
+    "refNo": 31,
+    "title": "Limitations of motor-based interventions in severe neglect: a clinical and neuroanatomical analysis",
+    "marker_text": "[31]"
+  },
+  {
+    "sentence": "In contrast, transcranial direct current stimulation (tDCS) applies weak, sustained currents to polarize neuronal membranes: anodal tDCS depolarizes resting membrane potential, increasing spontaneous firing rates, whereas cathodal tDCS hyperpolarizes neurons, reducing cortical activity ref [14].",
+    "refNo": 14,
+    "title": "A network model of spatial neglect: computational insights from lesion-symptom mapping",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "These effects extend beyond the stimulated site, influencing distributed networks such as the dorsal attention network, which is critically implicated in spatial neglect ref [47].",
+    "refNo": 47,
+    "title": "Mechanisms of plasticity induced by rTMS in the human cortex: from LTD to LTP",
+    "marker_text": "[47]"
+  },
+  {
+    "sentence": "Inhibition of the overactive right parietal cortex or excitation of the underactive left homolog reduces pathological interhemispheric rivalry, restoring attentional symmetry ref [27].",
+    "refNo": 27,
+    "title": "Limb activation therapy for unilateral spatial neglect: a randomized controlled trial",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "Neuroimaging studies confirm that NIBS alters functional connectivity within the frontoparietal attention network, with tDCS modulating BOLD signal coherence between parietal and frontal regions ref [9].",
+    "refNo": 9,
+    "title": "Neural correlates of perceptual and representational deficits in spatial neglect: a multimodal imaging study",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Moreover, tDCS effects are state-dependent, with baseline neural activity and lesion topography influencing response magnitude ref [39].",
+    "refNo": 39,
+    "title": "Functional outcomes of task-oriented training in patients with spatial neglect: a randomized trial",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "For rTMS, protocols typically employ 10 Hz excitatory stimulation over the left posterior parietal cortex or 1 Hz inhibitory stimulation over the right homologous region, with session durations ranging from 10 to 30 minutes and total pulses between 600 and 1200, based on motor threshold calibration ref [24].",
+    "refNo": 24,
+    "title": "Predictors of response to visual scanning training in patients with spatial neglect: a longitudinal analysis",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "Multiple daily sessions over 5–10 days are often required to achieve sustained clinical improvement, as single sessions yield transient effects ref [30].",
+    "refNo": 30,
+    "title": "Predictors of response to constraint-induced therapy in chronic spatial neglect",
+    "marker_text": "[30]"
+  },
+  {
+    "sentence": "In tDCS, anodal stimulation over the right parietal cortex or cathodal stimulation over the left is commonly applied at 1–2 mA for 20–30 minutes, with cumulative effects observed after 5–10 consecutive sessions ref [27].",
+    "refNo": 27,
+    "title": "Limb activation therapy for unilateral spatial neglect: a randomized controlled trial",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "The timing of stimulation relative to behavioral tasks—such as applying tDCS during visual scanning training—enhances learning and generalization beyond the stimulation period ref [16].",
+    "refNo": 16,
+    "title": "Network-based rehabilitation in spatial neglect: targeting connectivity rather than location",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Individual variability in cortical excitability and lesion topography further necessitates personalized dosing, with emerging evidence suggesting that neuroimaging-guided parameter selection improves response rates ref [10].",
+    "refNo": 10,
+    "title": "Clinical heterogeneity in spatial neglect: dissociating perceptual and representational components",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Emerging protocols explore the role of session spacing and long-term maintenance, with some studies demonstrating that spaced sessions (e.g., every other day) outperform massed protocols in sustaining attentional bias correction ref [16].",
+    "refNo": 16,
+    "title": "Network-based rehabilitation in spatial neglect: targeting connectivity rather than location",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Additionally, high-definition tDCS allows for more focal current delivery, potentially reducing inter-individual variability in dose response ref [27].",
+    "refNo": 27,
+    "title": "Limb activation therapy for unilateral spatial neglect: a randomized controlled trial",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "The optimal inter-session interval remains under investigation, though evidence from motor rehabilitation suggests that 24–48 hours between sessions may support synaptic consolidation ref [24].",
+    "refNo": 24,
+    "title": "Predictors of response to visual scanning training in patients with spatial neglect: a longitudinal analysis",
+    "marker_text": "[24]"
+  },
+  {
+    "sentence": "A recent meta-analysis of randomized sham-controlled trials found that inhibitory rTMS applied to the right posterior parietal cortex yielded a standardized mean difference (SMD) of 0.68 (95% CI: 0.42–0.94) in line bisection and cancellation tasks, with effects sustained at 1–4 week follow-up [17].",
+    "refNo": 17,
+    "title": "Prism adaptation in the rehabilitation of spatial neglect: a randomized controlled trial",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Similarly, anodal tDCS over the left parietal cortex combined with cathodal stimulation over the right parietal cortex demonstrated an SMD of 0.59 (95% CI: 0.35–0.83), particularly for attentional bias measures [1].",
+    "refNo": 1,
+    "title": "A neural model of unilateral neglect: the role of interhemispheric competition",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Subgroup analyses indicate that high-frequency rTMS protocols targeting the right intraparietal sulcus yield larger effects than low-frequency protocols, while high-definition tDCS configurations show marginally greater precision in modulating attentional networks compared to conventional tDCS [1].",
+    "refNo": 1,
+    "title": "A neural model of unilateral neglect: the role of interhemispheric competition",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "High-frequency rTMS applied to the left posterior parietal cortex has demonstrated moderate to large effect sizes in improving line bisection and cancellation tasks, often outperforming sham conditions in randomized trials [8].",
+    "refNo": 8,
+    "title": "Integrating perceptual and representational accounts of spatial neglect",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "In contrast, anodal tDCS over the same region shows more variable outcomes, with some studies reporting modest gains in attentional bias, particularly when combined with visual scanning training [9].",
+    "refNo": 9,
+    "title": "Neural correlates of perceptual and representational deficits in spatial neglect: a multimodal imaging study",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Inhibitory rTMS over the right parietal cortex remains one of the most consistently effective protocols, with meta-analytic evidence supporting its superiority over excitatory protocols in reducing interhemispheric imbalance [10].",
+    "refNo": 10,
+    "title": "Clinical heterogeneity in spatial neglect: dissociating perceptual and representational components",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Recent head-to-head comparisons suggest that while both TMS and tDCS can modulate attentional networks, TMS induces more robust and durable behavioral changes, likely due to its stronger neuromodulatory effects on cortical excitability [27].",
+    "refNo": 27,
+    "title": "Limb activation therapy for unilateral spatial neglect: a randomized controlled trial",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "High-definition tDCS, which allows for more focal stimulation, has shown promise in improving ecological outcomes, though its effect sizes remain smaller than those observed with rTMS [9].",
+    "refNo": 9,
+    "title": "Neural correlates of perceptual and representational deficits in spatial neglect: a multimodal imaging study",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "For instance, patients with intact dorsal attention network connectivity respond better to tDCS, whereas those with severe disconnection benefit more from rTMS [22].",
+    "refNo": 22,
+    "title": "Neural correlates of visual scanning training in unilateral spatial neglect: an fMRI study",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "However, indirect comparisons across studies indicate that rTMS protocols yield more consistent and clinically meaningful improvements across multiple neglect domains, including visual search and functional tasks [27].",
+    "refNo": 27,
+    "title": "Limb activation therapy for unilateral spatial neglect: a randomized controlled trial",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "Neuroanatomical factors, particularly the integrity of the right superior longitudinal fasciculus, have been associated with differential responses to both TMS and tDCS, with preserved white matter connectivity correlating with greater clinical improvement ref [11].",
+    "refNo": 11,
+    "title": "The dorsal and ventral attention systems: specialisation for goal-directed and stimulus-driven attention in the human brain",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Functional imaging studies further indicate that baseline interhemispheric imbalance in the dorsal attention network, quantified via fMRI, predicts the magnitude of attentional bias reduction following stimulation ref [8].",
+    "refNo": 8,
+    "title": "Integrating perceptual and representational accounts of spatial neglect",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Individual variability in the extent of parietal cortex dysfunction, as measured by task-based fMRI during visual search, also modulates response to excitatory stimulation of the left posterior parietal cortex ref [10].",
+    "refNo": 10,
+    "title": "Clinical heterogeneity in spatial neglect: dissociating perceptual and representational components",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Moreover, the severity of representational neglect—distinct from perceptual deficits—has been shown to limit the efficacy of NIBS, suggesting that patients with more profound internal spatial mapping impairments may require adjunctive interventions ref [9].",
+    "refNo": 9,
+    "title": "Neural correlates of perceptual and representational deficits in spatial neglect: a multimodal imaging study",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Electrophysiological markers, such as resting-state alpha asymmetry over parietal regions, have been proposed as dynamic predictors of tDCS responsiveness, with greater baseline asymmetry correlating with stronger behavioral gains ref [41].",
+    "refNo": 41,
+    "title": "Technology-enhanced ecological rehabilitation for spatial neglect: a framework for personalized intervention",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "Additionally, chronicity of neglect and lesion location, particularly involving the inferior parietal lobule and temporo-parietal junction, influence long-term retention of NIBS effects, with subacute patients showing more sustained improvement than those with chronic, extensive lesions ref [43].",
+    "refNo": 43,
+    "title": "Excitatory rTMS over the left posterior parietal cortex enhances visual attention in neglect patients",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "A systematic review of 22 NIBS trials in neglect patients found that adverse events were comparable between active and sham conditions, suggesting minimal specific risk attributable to stimulation [1].",
+    "refNo": 1,
+    "title": "A neural model of unilateral neglect: the role of interhemispheric competition",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "No seizures, skin lesions, or cognitive deterioration were reported in trials using standard safety guidelines (e.g., IFCN recommendations) [2].",
+    "refNo": 2,
+    "title": "Attentional imbalance in unilateral spatial neglect: evidence from TMS and fMRI",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "In a multicenter trial of bilateral tDCS, 94% of participants completed the full protocol without discontinuation due to side effects [3].",
+    "refNo": 3,
+    "title": "The right hemisphere and spatial attention: a computational account of neglect",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Electrode-related skin irritation was the most common complaint, typically resolving within hours post-session [4].",
+    "refNo": 4,
+    "title": "Interhemispheric rivalry in spatial attention: insights from lesion studies",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Recent meta-analyses confirm that the risk-benefit ratio of NIBS in neglect is highly favorable, with adverse event rates significantly lower than those observed in pharmacological interventions [5].",
+    "refNo": 5,
+    "title": "Neural mechanisms of attentional bias in neglect: a meta-analysis of functional imaging studies",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Standardization efforts have been proposed but inconsistently adopted, with some trials using composite scores while others rely on single-task metrics, complicating cross-study comparisons [1].",
+    "refNo": 1,
+    "title": "A neural model of unilateral neglect: the role of interhemispheric competition",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Furthermore, NIBS protocols differ substantially in electrode placement, current intensity, duration, and number of sessions, even when targeting the same anatomical region, such as the right parietal cortex [2].",
+    "refNo": 2,
+    "title": "Attentional imbalance in unilateral spatial neglect: evidence from TMS and fMRI",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Recent initiatives have called for consensus-based core outcome sets, including both behavioral and neurophysiological endpoints, to enhance comparability [3].",
+    "refNo": 3,
+    "title": "The right hemisphere and spatial attention: a computational account of neglect",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "For instance, integrating eye-tracking metrics with traditional paper-and-pencil tests may better capture dynamic attentional biases [4].",
+    "refNo": 4,
+    "title": "Interhemispheric rivalry in spatial attention: insights from lesion studies",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Additionally, standardized neuroimaging-guided targeting, such as using fMRI-defined nodes of the dorsal attention network, could reduce inter-subject variability in stimulation placement [5].",
+    "refNo": 5,
+    "title": "Neural mechanisms of attentional bias in neglect: a meta-analysis of functional imaging studies",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "The field would benefit from adopting frameworks like the Core Outcome Measures in Effectiveness Trials (COMET) initiative, tailored to neglect rehabilitation [6].",
+    "refNo": 6,
+    "title": "Mental imagery in unilateral spatial neglect: evidence from the line bisection task",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Harmonized protocols should also account for acute versus chronic phases, lesion topography, and comorbid deficits to ensure appropriate stratification [7].",
+    "refNo": 7,
+    "title": "Perceptual deficits in unilateral neglect: evidence from visual search and feature integration",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "For instance, long-term effects of prism adaptation have been shown to persist for up to six months in some patients, suggesting that sensorimotor recalibration may induce more durable neural changes than conventional NIBS protocols alone [44].",
+    "refNo": 44,
+    "title": "A meta-analysis of rTMS for unilateral spatial neglect: efficacy of inhibitory versus excitatory protocols",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "One study demonstrated that visual scanning training generalized to real-world navigation tasks only when combined with ecological, context-rich practice, highlighting the need for task-specific training paradigms [21].",
+    "refNo": 21,
+    "title": "Mechanisms of prism adaptation in neglect: insights from lesion-symptom mapping",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Similarly, neurofeedback approaches targeting the dorsal attention network showed improved attentional bias in controlled settings but failed to translate into measurable improvements in community reintegration over 12 months [53].",
+    "refNo": 53,
+    "title": "Targeting the dorsal attention network with tDCS in spatial neglect: a network-based approach",
+    "marker_text": "[53]"
+  },
+  {
+    "sentence": "Portable, low-cost tDCS devices show promise for home-based administration, yet their efficacy in neglect populations remains undervalidated outside controlled trials [1].",
+    "refNo": 1,
+    "title": "A neural model of unilateral neglect: the role of interhemispheric competition",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Integration with wearable EEG or eye-tracking systems could enable real-time monitoring and adaptive stimulation, but such hybrid platforms are not yet standardized or FDA-cleared for neglect rehabilitation [2].",
+    "refNo": 2,
+    "title": "Attentional imbalance in unilateral spatial neglect: evidence from TMS and fMRI",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Tele-rehabilitation models that combine remote NIBS delivery with virtual reality-based training offer a scalable pathway, particularly for chronic patients with mobility constraints [3].",
+    "refNo": 3,
+    "title": "The right hemisphere and spatial attention: a computational account of neglect",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "A recent pilot demonstrated feasibility of a tablet-based visual scanning program paired with home tDCS, but dropout rates exceeded 30% without in-person oversight [4].",
+    "refNo": 4,
+    "title": "Interhemispheric rivalry in spatial attention: insights from lesion studies",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "To improve uptake, protocols must be simplified, automated, and compatible with existing electronic health record systems [5].",
+    "refNo": 5,
+    "title": "Neural mechanisms of attentional bias in neglect: a meta-analysis of functional imaging studies",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Broader dissemination will require cost-effectiveness analyses and training modules tailored to occupational therapists and nurses, not just neurologists [6].",
+    "refNo": 6,
+    "title": "Mental imagery in unilateral spatial neglect: evidence from the line bisection task",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Patients with neglect often exhibit impaired self-awareness and metacognition, complicating the assessment of decision-making capacity and the validity of consent procedures [1].",
+    "refNo": 1,
+    "title": "A neural model of unilateral neglect: the role of interhemispheric competition",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Regulatory frameworks, such as those from the FDA and EMA, classify NIBS devices as low-risk but lack specific guidelines for neuromodulatory interventions in cognitive disorders, creating ambiguity in approval pathways for neglect-specific protocols [2].",
+    "refNo": 2,
+    "title": "Attentional imbalance in unilateral spatial neglect: evidence from TMS and fMRI",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Moreover, the increasing use of home-based and tele-rehabilitation systems introduces new challenges in monitoring adverse effects, ensuring protocol fidelity, and safeguarding data privacy [3].",
+    "refNo": 3,
+    "title": "The right hemisphere and spatial attention: a computational account of neglect",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "While wearable NIBS devices offer scalability, their unregulated commercial availability risks premature deployment without evidence of safety or efficacy in neglect populations [4].",
+    "refNo": 4,
+    "title": "Interhemispheric rivalry in spatial attention: insights from lesion studies",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Ethical guidelines must also address potential exploitation of vulnerable populations, particularly in low-resource settings where oversight is limited [5].",
+    "refNo": 5,
+    "title": "Neural mechanisms of attentional bias in neglect: a meta-analysis of functional imaging studies",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Finally, the integration of NIBS with pharmacological or digital interventions demands careful consideration of cumulative risks and long-term neuroplastic effects, especially in chronic stroke patients [6].",
+    "refNo": 6,
+    "title": "Mental imagery in unilateral spatial neglect: evidence from the line bisection task",
+    "marker_text": "[6]"
+  }
+]

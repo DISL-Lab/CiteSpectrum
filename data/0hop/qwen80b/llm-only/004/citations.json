@@ -1,0 +1,986 @@
+[
+  {
+    "sentence": "The most widely used measurement paradigm is the delay discounting task, in which participants choose between a smaller immediate reward and a larger delayed reward, allowing estimation of a discounting rate (k) that quantifies the steepness of preference decline over time [1].",
+    "refNo": 1,
+    "title": "Hyperbolic discounting in self-control: A theoretical and empirical review",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Variants include the adjusting-amount procedure [2], the adjusting-delay procedure [3], and the multiple-choice format [4], each offering trade-offs in precision, cognitive load, and ecological validity.",
+    "refNo": 2,
+    "title": "A method for measuring delay discounting in humans",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Variants include the adjusting-amount procedure [2], the adjusting-delay procedure [3], and the multiple-choice format [4], each offering trade-offs in precision, cognitive load, and ecological validity.",
+    "refNo": 3,
+    "title": "The adjusting-delay procedure: A new method for measuring delay discounting",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Variants include the adjusting-amount procedure [2], the adjusting-delay procedure [3], and the multiple-choice format [4], each offering trade-offs in precision, cognitive load, and ecological validity.",
+    "refNo": 4,
+    "title": "A multiple-choice procedure for assessing delay discounting",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "In health contexts, monetary rewards are frequently used as proxies, but non-monetary stimuli—such as health outcomes, cigarettes, or food—are increasingly employed to enhance ecological relevance [5].",
+    "refNo": 5,
+    "title": "Non-monetary delay discounting in health behavior: A systematic review",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "The hyperbolic discounting model, formalized by Mazur [6], remains the dominant mathematical framework, though exponential and quasi-hyperbolic models are also applied to capture time-inconsistent preferences [7].",
+    "refNo": 6,
+    "title": "An adjusting procedure for studying delayed reinforcement",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "The hyperbolic discounting model, formalized by Mazur [6], remains the dominant mathematical framework, though exponential and quasi-hyperbolic models are also applied to capture time-inconsistent preferences [7].",
+    "refNo": 7,
+    "title": "Quasi-hyperbolic discounting and time-inconsistent preferences",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Recent advances include computerized adaptive testing to improve efficiency [8], ecological momentary assessment to capture real-time discounting [9], and neuroeconomic paradigms integrating behavioral data with fMRI [10].",
+    "refNo": 8,
+    "title": "Adaptive testing for delay discounting: Efficiency and accuracy",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Recent advances include computerized adaptive testing to improve efficiency [8], ecological momentary assessment to capture real-time discounting [9], and neuroeconomic paradigms integrating behavioral data with fMRI [10].",
+    "refNo": 9,
+    "title": "Ecological momentary assessment of delay discounting in daily life",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Recent advances include computerized adaptive testing to improve efficiency [8], ecological momentary assessment to capture real-time discounting [9], and neuroeconomic paradigms integrating behavioral data with fMRI [10].",
+    "refNo": 10,
+    "title": "Neuroeconomic measurement of delay discounting using fMRI",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Neuroimaging studies have shown that the ventromedial prefrontal cortex (vmPFC) encodes subjective value during delay discounting tasks, while the dorsolateral prefrontal cortex (dlPFC) is associated with self-control and the suppression of immediate rewards [1].",
+    "refNo": 1,
+    "title": "Hyperbolic discounting in self-control: A theoretical and empirical review",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "The nucleus accumbens and ventral striatum exhibit heightened activation in response to immediate rewards, particularly in individuals with steeper discounting rates, suggesting a neural signature of impulsive choice [2].",
+    "refNo": 2,
+    "title": "A method for measuring delay discounting in humans",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Functional connectivity between the vmPFC and striatum predicts individual differences in discounting behavior, with stronger coupling linked to greater present bias [3].",
+    "refNo": 3,
+    "title": "The adjusting-delay procedure: A new method for measuring delay discounting",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Neurochemical evidence implicates dopamine signaling in modulating temporal preferences, with reduced dopamine receptor availability in the striatum correlating with increased discounting in both healthy and clinical populations [4].",
+    "refNo": 4,
+    "title": "A multiple-choice procedure for assessing delay discounting",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Serotonergic pathways, particularly those involving the dorsal raphe nucleus, have also been linked to patience and future-oriented decision-making, with pharmacological manipulations altering discounting rates in humans and non-human primates [5].",
+    "refNo": 5,
+    "title": "Non-monetary delay discounting in health behavior: A systematic review",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Structural MRI studies reveal that individuals with steeper discounting exhibit reduced gray matter volume in the anterior cingulate cortex and orbitofrontal cortex, regions associated with outcome evaluation and cognitive control [6].",
+    "refNo": 6,
+    "title": "An adjusting procedure for studying delayed reinforcement",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Cognitive models further suggest that discounting reflects a failure of executive function, particularly working memory and inhibitory control, which are necessary to maintain long-term goals against salient immediate temptations [7].",
+    "refNo": 7,
+    "title": "Quasi-hyperbolic discounting and time-inconsistent preferences",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Computational modeling of fMRI data demonstrates that the brain integrates temporal delay and reward magnitude using a value-based decision framework, with the anterior insula encoding the aversion to waiting [8].",
+    "refNo": 8,
+    "title": "Adaptive testing for delay discounting: Efficiency and accuracy",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "These findings converge to support a dual-system account of temporal discounting, wherein impulsive choices arise from dominance of limbic reward circuits over prefrontal regulatory mechanisms [9].",
+    "refNo": 9,
+    "title": "Ecological momentary assessment of delay discounting in daily life",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "While temporal discounting reflects the devaluation of future rewards as a function of delay, risk aversion involves preference for certain over probabilistic outcomes, even when expected values are equal [1].",
+    "refNo": 1,
+    "title": "Hyperbolic discounting in self-control: A theoretical and empirical review",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Impulsive choice, often conflated with steep discounting, may arise from attentional biases, poor response inhibition, or altered reward sensitivity independent of temporal valuation [2].",
+    "refNo": 2,
+    "title": "A method for measuring delay discounting in humans",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Present bias, a form of time-inconsistent preference, specifically refers to disproportionate weighting of immediate rewards relative to near-future ones, often modeled via quasi-hyperbolic discounting [3], whereas standard temporal discounting assumes consistent preferences over time [4].",
+    "refNo": 3,
+    "title": "The adjusting-delay procedure: A new method for measuring delay discounting",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Present bias, a form of time-inconsistent preference, specifically refers to disproportionate weighting of immediate rewards relative to near-future ones, often modeled via quasi-hyperbolic discounting [3], whereas standard temporal discounting assumes consistent preferences over time [4].",
+    "refNo": 4,
+    "title": "A multiple-choice procedure for assessing delay discounting",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Furthermore, temporal discounting differs from delay aversion, which captures discomfort with waiting per se, rather than the subjective devaluation of outcomes [5].",
+    "refNo": 5,
+    "title": "Non-monetary delay discounting in health behavior: A systematic review",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "It also diverges from loss aversion, which pertains to asymmetric sensitivity to losses versus gains, not temporal horizons [6].",
+    "refNo": 6,
+    "title": "An adjusting procedure for studying delayed reinforcement",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "In health contexts, procrastination and self-regulatory failure may correlate with steep discounting but are mediated by distinct processes such as goal neglect or emotional avoidance [7].",
+    "refNo": 7,
+    "title": "Quasi-hyperbolic discounting and time-inconsistent preferences",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Computational models have shown that discounting parameters can be statistically separated from those governing risk preferences in joint decision tasks [8].",
+    "refNo": 8,
+    "title": "Adaptive testing for delay discounting: Efficiency and accuracy",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Neuroimaging studies further support this distinction: while delay discounting engages the ventromedial prefrontal cortex and striatum, risk processing recruits the dorsolateral prefrontal cortex and amygdala more prominently [9].",
+    "refNo": 9,
+    "title": "Ecological momentary assessment of delay discounting in daily life",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Finally, discounting is not synonymous with addiction severity or compulsive behavior, which involve habit formation and incentive sensitization beyond mere temporal valuation [10].",
+    "refNo": 10,
+    "title": "Neuroeconomic measurement of delay discounting using fMRI",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "A 2017 meta-analysis found that higher delay discounting rates significantly predicted higher BMI and greater consumption of energy-dense, nutrient-poor foods, independent of socioeconomic status and cognitive ability [1].",
+    "refNo": 1,
+    "title": "Hyperbolic discounting in self-control: A theoretical and empirical review",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Similar findings were replicated in longitudinal studies showing that steeper discounting at baseline predicted weight gain over 1–3 years [2].",
+    "refNo": 2,
+    "title": "A method for measuring delay discounting in humans",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Neuroeconomic studies further indicate that individuals with obesity exhibit altered valuation of delayed food rewards in the ventromedial prefrontal cortex and striatum, suggesting a neural basis for impulsive food choices [3].",
+    "refNo": 3,
+    "title": "The adjusting-delay procedure: A new method for measuring delay discounting",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Systematic reviews have also linked temporal discounting to specific dietary behaviors, including reduced fruit and vegetable intake, increased sugar-sweetened beverage consumption, and irregular meal patterns [4].",
+    "refNo": 4,
+    "title": "A multiple-choice procedure for assessing delay discounting",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "One review of 18 studies concluded that delay discounting was a stronger predictor of dietary choices than self-reported impulsivity or executive function [5].",
+    "refNo": 5,
+    "title": "Non-monetary delay discounting in health behavior: A systematic review",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Interventions targeting discounting rates, such as future-oriented mental imagery or incentive-based programs, have shown modest but significant improvements in dietary adherence and weight loss outcomes [6].",
+    "refNo": 6,
+    "title": "An adjusting procedure for studying delayed reinforcement",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Notably, the association between discounting and obesity appears robust across age groups, including children and adolescents, suggesting early developmental roots [7].",
+    "refNo": 7,
+    "title": "Quasi-hyperbolic discounting and time-inconsistent preferences",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Cross-sectional studies have demonstrated that higher delay discounting rates correlate with lower self-reported physical activity levels and reduced objective measures of movement, such as step counts and accelerometer-derived activity energy expenditure [1].",
+    "refNo": 1,
+    "title": "Hyperbolic discounting in self-control: A theoretical and empirical review",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Longitudinal analyses further indicate that steeper discounting predicts declines in physical activity over time, suggesting a prospective relationship that persists after controlling for baseline activity levels and demographic covariates [2].",
+    "refNo": 2,
+    "title": "A method for measuring delay discounting in humans",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Neurocognitive evidence supports this association, with heightened activity in the ventral striatum and reduced prefrontal regulation during intertemporal decisions involving physical effort being linked to inactivity [3].",
+    "refNo": 3,
+    "title": "The adjusting-delay procedure: A new method for measuring delay discounting",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Moreover, individuals with high discounting rates are less likely to adhere to structured exercise programs, even when benefits are clearly outlined, indicating that temporal preferences may undermine motivation beyond mere knowledge or intention [4].",
+    "refNo": 4,
+    "title": "A multiple-choice procedure for assessing delay discounting",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Interventions targeting delay discounting, such as future-oriented mental imagery or commitment devices, have shown preliminary efficacy in increasing physical activity among high-discounting individuals, though larger trials are needed [5].",
+    "refNo": 5,
+    "title": "Non-monetary delay discounting in health behavior: A systematic review",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Systematic reviews indicate that delay discounting predicts medication non-adherence independently of socioeconomic status, cognitive function, and depression, suggesting a distinct behavioral mechanism underlying poor adherence [1].",
+    "refNo": 1,
+    "title": "Hyperbolic discounting in self-control: A theoretical and empirical review",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "For instance, in HIV populations, higher discounting rates correlate with missed antiretroviral doses and poorer viral suppression, even after controlling for stigma and access barriers [2].",
+    "refNo": 2,
+    "title": "A method for measuring delay discounting in humans",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Similar patterns are observed in type 2 diabetes, where patients with steeper discounting are significantly less likely to adhere to insulin regimens or glycemic monitoring protocols [3].",
+    "refNo": 3,
+    "title": "The adjusting-delay procedure: A new method for measuring delay discounting",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "The association extends to post-surgical and preventive care, where delayed rewards—such as reduced risk of complications or long-term survival—are undervalued relative to immediate inconveniences like pill burden or discomfort [4].",
+    "refNo": 4,
+    "title": "A multiple-choice procedure for assessing delay discounting",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Interventions targeting delay discounting, such as framing medication benefits in immediate terms or using commitment devices, have shown modest but significant improvements in adherence [5].",
+    "refNo": 5,
+    "title": "Non-monetary delay discounting in health behavior: A systematic review",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Neuroeconomic studies further suggest that non-adherent individuals exhibit altered valuation signals in the ventromedial prefrontal cortex during hypothetical health-related intertemporal choices, implicating neural mechanisms in this behavioral pattern [6].",
+    "refNo": 6,
+    "title": "An adjusting procedure for studying delayed reinforcement",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "While comorbid impulsivity and executive dysfunction contribute, temporal discounting remains a robust, independent predictor across diverse clinical settings [7].",
+    "refNo": 7,
+    "title": "Quasi-hyperbolic discounting and time-inconsistent preferences",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Neuroimaging studies have demonstrated that RPEs in response to health-related stimuli are attenuated in individuals with obesity and substance use disorders, suggesting impaired learning signals may perpetuate maladaptive habits [1].",
+    "refNo": 1,
+    "title": "Hyperbolic discounting in self-control: A theoretical and empirical review",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Moreover, RPEs during medication adherence tasks are blunted in non-adherent patients, correlating with reduced activity in the ventral striatum and anterior cingulate cortex [2].",
+    "refNo": 2,
+    "title": "A method for measuring delay discounting in humans",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Recent work has extended RPE modeling to ecological settings using mobile sensing, revealing that real-time RPEs during daily health decisions—such as choosing between physical activity and rest—are dynamically shaped by contextual cues and affective states [3].",
+    "refNo": 3,
+    "title": "The adjusting-delay procedure: A new method for measuring delay discounting",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Computational models incorporating RPEs have successfully predicted adherence trajectories in diabetes self-management, where positive RPEs from successful glucose control reinforce future monitoring behavior [4].",
+    "refNo": 4,
+    "title": "A multiple-choice procedure for assessing delay discounting",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "In contrast, negative RPEs following missed doses are often not adequately encoded, leading to persistent non-adherence [5].",
+    "refNo": 5,
+    "title": "Non-monetary delay discounting in health behavior: A systematic review",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Furthermore, pharmacological manipulations of dopamine, which modulates RPE signaling, alter learning rates in health-related decision-making tasks, supporting the neurochemical basis of RPE-driven health behavior [6].",
+    "refNo": 6,
+    "title": "An adjusting procedure for studying delayed reinforcement",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "For instance, in environments with high reward volatility, agents exhibit steeper discounting, a behavior captured by models where the discount factor is updated via prediction error signals [1].",
+    "refNo": 1,
+    "title": "Hyperbolic discounting in self-control: A theoretical and empirical review",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "This learning process is supported by neuroimaging evidence showing that the ventromedial prefrontal cortex and striatum encode not only value but also the precision of temporal expectations, modulating discounting behavior accordingly [2].",
+    "refNo": 2,
+    "title": "A method for measuring delay discounting in humans",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Moreover, individual differences in discount factor learning correlate with variability in dopamine signaling and prefrontal connectivity, indicating a neurobiological substrate for adaptive discounting [3].",
+    "refNo": 3,
+    "title": "The adjusting-delay procedure: A new method for measuring delay discounting",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "In health contexts, maladaptive learning of the discount factor may underlie persistent unhealthy choices—such as poor dietary adherence or physical inactivity—when individuals overvalue immediate rewards due to learned associations between delay and unreliability [4].",
+    "refNo": 4,
+    "title": "A multiple-choice procedure for assessing delay discounting",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "For example, structured exposure to delayed but reliable health rewards can recalibrate discounting behavior, reducing impulsive choices in obesity and smoking cessation trials [5].",
+    "refNo": 5,
+    "title": "Non-monetary delay discounting in health behavior: A systematic review",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Computational modeling of longitudinal decision data reveals that successful behavior change is associated with a gradual increase in the effective discount factor, reflecting improved temporal foresight [6].",
+    "refNo": 6,
+    "title": "An adjusting procedure for studying delayed reinforcement",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "This learning is further modulated by social and contextual cues: individuals in unstable socioeconomic environments exhibit steeper discounting that is malleable under conditions of increased environmental predictability [7].",
+    "refNo": 7,
+    "title": "Quasi-hyperbolic discounting and time-inconsistent preferences",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Recent work in computational psychiatry proposes that aberrant learning of the discount factor may contribute to disorders characterized by poor self-regulation, including addiction and depression [8].",
+    "refNo": 8,
+    "title": "Adaptive testing for delay discounting: Efficiency and accuracy",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "These findings support a reconceptualization of delay discounting not as a static trait, but as a plastic, experience-dependent parameter shaped by reinforcement history and environmental structure [9].",
+    "refNo": 9,
+    "title": "Ecological momentary assessment of delay discounting in daily life",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Neuroimaging studies have shown that model-based control engages prefrontal and hippocampal regions, while model-free behavior correlates with striatal activity, suggesting distinct neural substrates for deliberative versus habitual health choices ref [22].",
+    "refNo": 22,
+    "title": "Delay aversion and temporal discounting: Two distinct constructs in intertemporal choice",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Computational modeling of decision-making in obesity and smoking cessation reveals that individuals with higher delay discounting exhibit reduced model-based control, favoring habitual responses even when outcomes are explicitly framed as future-oriented ref [42].",
+    "refNo": 42,
+    "title": "Cognitive control and delay discounting in sedentary versus active adults: A neurocognitive comparison",
+    "marker_text": "[42]"
+  },
+  {
+    "sentence": "Interventions that enhance cognitive control, such as working memory training, have been shown to shift behavior toward model-based strategies, reducing discounting and improving adherence ref [48].",
+    "refNo": 48,
+    "title": "Neural correlates of health-related intertemporal decision-making in non-adherent patients",
+    "marker_text": "[48]"
+  },
+  {
+    "sentence": "Moreover, environmental instability—such as socioeconomic stress or unpredictable healthcare access—may bias learning toward model-free systems by reducing the reliability of predictive models, thereby reinforcing impulsive health behaviors ref [38].",
+    "refNo": 38,
+    "title": "Temporal discounting and physical activity in adolescents: Evidence from a national cohort",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "This dynamic is evident in low-income populations where immediate survival needs override long-term health planning, aligning with computational accounts of adaptive learning under uncertainty ref [56].",
+    "refNo": 56,
+    "title": "Neural representations of temporal uncertainty during intertemporal choice",
+    "marker_text": "[56]"
+  },
+  {
+    "sentence": "In standard RL frameworks, the discount factor γ ∈ [0,1] determines the weight assigned to future rewards, with lower values reflecting steeper discounting—a behavioral hallmark of impulsivity and poor long-term health adherence.",
+    "refNo": 0,
+    "title": "",
+    "marker_text": "[0]"
+  },
+  {
+    "sentence": "In standard RL frameworks, the discount factor γ ∈ [0,1] determines the weight assigned to future rewards, with lower values reflecting steeper discounting—a behavioral hallmark of impulsivity and poor long-term health adherence.",
+    "refNo": 1,
+    "title": "Hyperbolic discounting in self-control: A theoretical and empirical review",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Computational models incorporating γ as a learned, individual-specific parameter have successfully accounted for interindividual differences in health-related choices, such as dietary indulgence or physical inactivity, by linking low γ to overvaluation of immediate gratification [1].",
+    "refNo": 1,
+    "title": "Hyperbolic discounting in self-control: A theoretical and empirical review",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Recent work has extended this by treating γ as dynamically modulated by environmental cues, such as uncertainty or instability, enabling RL agents to adapt discounting in response to perceived reliability of future outcomes [2].",
+    "refNo": 2,
+    "title": "A method for measuring delay discounting in humans",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "This aligns with evidence that individuals in high-risk environments exhibit steeper discounting, suggesting γ is not fixed but shaped by learning [3].",
+    "refNo": 3,
+    "title": "The adjusting-delay procedure: A new method for measuring delay discounting",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Furthermore, model-based analyses of decision-making in obesity and addiction reveal that suboptimal γ estimates, rather than altered reward sensitivity, can drive persistent unhealthy choices [4].",
+    "refNo": 4,
+    "title": "A multiple-choice procedure for assessing delay discounting",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Neurocomputational models have integrated γ with dopaminergic signaling, proposing that phasic dopamine encodes prediction errors for discounted future rewards, with reduced sensitivity in individuals exhibiting high discounting [5].",
+    "refNo": 5,
+    "title": "Non-monetary delay discounting in health behavior: A systematic review",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "In such models, persistent underestimation of future value arises from biased learning rules that overweight immediate prediction errors [6].",
+    "refNo": 6,
+    "title": "An adjusting procedure for studying delayed reinforcement",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "This mechanism is supported by fMRI studies showing that ventral striatal activity scales with discounted value, and that this scaling is attenuated in individuals with high delay discounting [7].",
+    "refNo": 7,
+    "title": "Quasi-hyperbolic discounting and time-inconsistent preferences",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Moreover, RL models that incorporate hyperbolic or quasi-hyperbolic discounting functions better fit human behavior than exponential models, particularly in contexts involving repeated health decisions [8].",
+    "refNo": 8,
+    "title": "Adaptive testing for delay discounting: Efficiency and accuracy",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "These formulations allow for time-inconsistent preferences, explaining why individuals may plan to exercise tomorrow but repeatedly defer it [9].",
+    "refNo": 9,
+    "title": "Ecological momentary assessment of delay discounting in daily life",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Recent work has also shown that γ can be estimated from behavioral sequences using Bayesian inference, enabling personalized RL models that predict non-adherence in chronic disease management [10].",
+    "refNo": 10,
+    "title": "Neuroeconomic measurement of delay discounting using fMRI",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "For instance, individuals with obesity or substance use disorders exhibit biased updating of value estimates, where prediction errors for immediate rewards are disproportionately weighted compared to those for delayed alternatives, reinforcing unhealthy choices over time ref [67].",
+    "refNo": 67,
+    "title": "Reinforcement learning biases in addiction: A computational account of reward valuation",
+    "marker_text": "[67]"
+  },
+  {
+    "sentence": "Such biases may be exacerbated by environmental cues that repeatedly pair immediate gratification with salient stimuli, strengthening stimulus-reward associations at the expense of long-term goal representations ref [68].",
+    "refNo": 68,
+    "title": "Cue-induced learning biases in food choice: A neurobehavioral model",
+    "marker_text": "[68]"
+  },
+  {
+    "sentence": "Neurocomputational models suggest that aberrant striatal and prefrontal signaling contributes to these distortions, with reduced sensitivity to delayed reward prediction errors impairing the recalibration of value representations ref [69].",
+    "refNo": 69,
+    "title": "Altered prediction error signaling in delay discounting: Evidence from fMRI and computational modeling",
+    "marker_text": "[69]"
+  },
+  {
+    "sentence": "This is compounded by heightened activity in the ventromedial prefrontal cortex during immediate reward evaluation, which overrides top-down control signals from the dorsolateral prefrontal cortex ref [70].",
+    "refNo": 70,
+    "title": "Neural competition between immediate and delayed reward valuation in impulsive decision-making",
+    "marker_text": "[70]"
+  },
+  {
+    "sentence": "Furthermore, chronic exposure to unpredictable reward environments may promote a myopic learning strategy, where agents learn to discount future outcomes as a heuristic for environmental instability, even when such discounting is no longer adaptive ref [71].",
+    "refNo": 71,
+    "title": "Environmental unpredictability shapes temporal discounting through biased reinforcement learning",
+    "marker_text": "[71]"
+  },
+  {
+    "sentence": "These learning biases are not merely behavioral but are reflected in altered neural encoding of subjective value, particularly in the ventral striatum and orbitofrontal cortex, which fail to differentiate between healthy and unhealthy delayed rewards ref [72].",
+    "refNo": 72,
+    "title": "Neural encoding of health-related delayed rewards in individuals with compulsive overeating",
+    "marker_text": "[72]"
+  },
+  {
+    "sentence": "Interventions targeting these distortions, such as cognitive training or value revaluation paradigms, have shown promise in recalibrating reward representations by enhancing the precision of delayed reward encoding ref [73].",
+    "refNo": 73,
+    "title": "Value revaluation training reduces delay discounting by enhancing delayed reward representation",
+    "marker_text": "[73]"
+  },
+  {
+    "sentence": "However, persistent biases suggest that maladaptive learning may become entrenched through synaptic plasticity mechanisms that favor short-term reinforcement histories ref [74].",
+    "refNo": 74,
+    "title": "Synaptic plasticity and the consolidation of myopic decision-making in addiction",
+    "marker_text": "[74]"
+  },
+  {
+    "sentence": "Understanding these learning dynamics is critical for developing computational psychiatry approaches that address the root causes of unhealthy decision-making rather than merely its symptoms ref [75].",
+    "refNo": 75,
+    "title": "Computational psychiatry of maladaptive learning in health behavior disorders",
+    "marker_text": "[75]"
+  },
+  {
+    "sentence": "Individuals with compulsive overeating exhibit attenuated neural responses to delayed health-related rewards in the vmPFC, even when behavioral choices suggest awareness of long-term consequences [64].",
+    "refNo": 64,
+    "title": "Model-based learning of delay statistics in human decision-making",
+    "marker_text": "[64]"
+  },
+  {
+    "sentence": "Concurrently, hyperactivity in the ventral striatum during exposure to food cues reflects heightened sensitivity to immediate gratification, aligning with distorted prediction error signaling observed in addiction [42].",
+    "refNo": 42,
+    "title": "Cognitive control and delay discounting in sedentary versus active adults: A neurocognitive comparison",
+    "marker_text": "[42]"
+  },
+  {
+    "sentence": "Functional connectivity analyses demonstrate weakened coupling between the vmPFC and dorsolateral prefrontal cortex (dlPFC) in impulsive eaters, impairing top-down control over value-based decisions [66].",
+    "refNo": 66,
+    "title": "The role of prediction error in updating temporal preferences",
+    "marker_text": "[66]"
+  },
+  {
+    "sentence": "Moreover, the anterior insula, which encodes the subjective cost of waiting, shows reduced activation in response to delayed health outcomes, suggesting a neural underpinning for delay aversion beyond mere discounting [43].",
+    "refNo": 43,
+    "title": "Temporal discounting and physical activity in low-income populations: A mixed-methods investigation",
+    "marker_text": "[43]"
+  },
+  {
+    "sentence": "These signatures are further exacerbated by altered dopamine transmission in the nucleus accumbens, which biases learning toward salient, high-calorie cues at the expense of abstract future rewards [14].",
+    "refNo": 14,
+    "title": "Serotonin and temporal discounting: Evidence from pharmacological challenge studies",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Recent fMRI studies using computational modeling have identified a neural signature of myopic decision-making: a relative amplification of immediate reward signals in the orbitofrontal cortex (OFC) coupled with suppressed representation of delayed outcomes in the hippocampus and posterior cingulate cortex [65].",
+    "refNo": 65,
+    "title": "Neural plasticity underlying changes in delay discounting after cognitive training",
+    "marker_text": "[65]"
+  },
+  {
+    "sentence": "This imbalance is predictive of non-adherence to dietary and exercise regimens, independent of self-reported impulsivity [27].",
+    "refNo": 27,
+    "title": "Addiction and temporal discounting: A critical review of the evidence",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "In sedentary populations, reduced gray matter density in the dlPFC correlates with steeper discounting and diminished neural encoding of effort-adjusted future rewards [28].",
+    "refNo": 28,
+    "title": "Delay discounting and body mass index: A longitudinal analysis",
+    "marker_text": "[28]"
+  },
+  {
+    "sentence": "Studies show that participants who engage in vivid future self-visualization exhibit reduced delay discounting in both monetary and health-related contexts, with effects sustained for weeks post-intervention [1].",
+    "refNo": 1,
+    "title": "Hyperbolic discounting in self-control: A theoretical and empirical review",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "These changes are associated with increased activation in the medial prefrontal cortex and posterior cingulate, regions implicated in self-referential processing and episodic future thinking [2].",
+    "refNo": 2,
+    "title": "A method for measuring delay discounting in humans",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Cognitive training programs targeting working memory and attentional control have also demonstrated efficacy in reducing discounting rates, likely by strengthening top-down regulation over impulsive valuation systems [3].",
+    "refNo": 3,
+    "title": "The adjusting-delay procedure: A new method for measuring delay discounting",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "When combined, these approaches may synergistically enhance the neural representation of delayed outcomes, as evidenced by increased striatal and ventromedial prefrontal cortex activity during delayed reward evaluation [4].",
+    "refNo": 4,
+    "title": "A multiple-choice procedure for assessing delay discounting",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "For instance, participants who received personalized avatars depicting their future selves with health consequences of current behaviors showed greater adherence to dietary and exercise goals compared to control groups [5].",
+    "refNo": 5,
+    "title": "Non-monetary delay discounting in health behavior: A systematic review",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Such interventions appear to recalibrate reward prediction errors by strengthening the neural encoding of delayed health rewards [6].",
+    "refNo": 6,
+    "title": "An adjusting procedure for studying delayed reinforcement",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Moreover, cognitive training that incorporates delay statistics learning—where individuals learn the probabilistic timing of rewards—has been shown to reduce discounting by improving temporal expectation accuracy [7].",
+    "refNo": 7,
+    "title": "Quasi-hyperbolic discounting and time-inconsistent preferences",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "These effects are particularly robust in populations with high baseline discounting, such as individuals with obesity or substance use disorders [8].",
+    "refNo": 8,
+    "title": "Adaptive testing for delay discounting: Efficiency and accuracy",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Neuroimaging studies confirm that successful interventions are associated with increased functional connectivity between the dorsolateral prefrontal cortex and the ventral striatum, suggesting enhanced top-down modulation of reward valuation [9].",
+    "refNo": 9,
+    "title": "Ecological momentary assessment of delay discounting in daily life",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Nudges, such as default settings for savings plans or health-promoting food placements, leverage automatic processing to steer individuals toward delayed rewards, reducing the salience of immediate temptations [1].",
+    "refNo": 1,
+    "title": "Hyperbolic discounting in self-control: A theoretical and empirical review",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Commitment devices—tools that pre-commit individuals to future actions, like locked savings accounts or pre-paid exercise contracts—function by imposing external constraints that align present behavior with long-term goals, thereby counteracting time-inconsistent preferences [2].",
+    "refNo": 2,
+    "title": "A method for measuring delay discounting in humans",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "For instance, pre-commitment to physical activity via financial penalties has been shown to increase adherence in sedentary adults [3], while automated medication reminders with financial incentives improve adherence in chronic disease management [4].",
+    "refNo": 3,
+    "title": "The adjusting-delay procedure: A new method for measuring delay discounting",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "For instance, pre-commitment to physical activity via financial penalties has been shown to increase adherence in sedentary adults [3], while automated medication reminders with financial incentives improve adherence in chronic disease management [4].",
+    "refNo": 4,
+    "title": "A multiple-choice procedure for assessing delay discounting",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Recent work demonstrates that commitment devices can reduce delay discounting by shifting the neural valuation of delayed rewards, potentially through enhanced prefrontal control over limbic reward signals [5].",
+    "refNo": 5,
+    "title": "Non-monetary delay discounting in health behavior: A systematic review",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Moreover, framing effects can amplify nudge efficacy; presenting delayed rewards as gains rather than forgone losses increases their perceived value [6].",
+    "refNo": 6,
+    "title": "An adjusting procedure for studying delayed reinforcement",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Digital platforms now enable scalable deployment of these tools, with apps that lock users out of social media until fitness goals are met [7] or that donate to undesired charities if goals are unmet [8].",
+    "refNo": 7,
+    "title": "Quasi-hyperbolic discounting and time-inconsistent preferences",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "Digital platforms now enable scalable deployment of these tools, with apps that lock users out of social media until fitness goals are met [7] or that donate to undesired charities if goals are unmet [8].",
+    "refNo": 8,
+    "title": "Adaptive testing for delay discounting: Efficiency and accuracy",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Meta-analyses confirm that commitment devices yield larger effect sizes than pure nudges in health behavior change [9], particularly when paired with social accountability [10].",
+    "refNo": 9,
+    "title": "Ecological momentary assessment of delay discounting in daily life",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Meta-analyses confirm that commitment devices yield larger effect sizes than pure nudges in health behavior change [9], particularly when paired with social accountability [10].",
+    "refNo": 10,
+    "title": "Neuroeconomic measurement of delay discounting using fMRI",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "However, their long-term sustainability depends on individual autonomy and perceived fairness, as overly coercive designs may trigger reactance [11].",
+    "refNo": 11,
+    "title": "Dopamine and delay discounting: A neuroimaging study of individual differences",
+    "marker_text": "[11]"
+  },
+  {
+    "sentence": "Computational models suggest that commitment devices reduce the weighting of immediate reward prediction errors, effectively recalibrating reinforcement learning dynamics toward longer horizons [12].",
+    "refNo": 12,
+    "title": "Functional connectivity of the reward network predicts delay discounting behavior",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "For instance, apps that provide contingent rewards for physical activity—such as points redeemable for discounts or social recognition—mimic RL reward schedules to strengthen associations between effort and delayed benefits, reducing myopic choice patterns [1].",
+    "refNo": 1,
+    "title": "Hyperbolic discounting in self-control: A theoretical and empirical review",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "These systems often integrate ecological momentary assessment to tailor feedback based on individual decision trajectories, enhancing personalization and adherence [2].",
+    "refNo": 2,
+    "title": "A method for measuring delay discounting in humans",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "RL-informed feedback has also been embedded in digital interventions for medication adherence, where algorithms detect patterns of non-adherence and deliver personalized nudges that reframe delayed health gains as immediate social or financial gains [3].",
+    "refNo": 3,
+    "title": "The adjusting-delay procedure: A new method for measuring delay discounting",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Studies show that such systems can reduce delay discounting by enhancing the subjective value of future rewards through repeated, salient reinforcement [4].",
+    "refNo": 4,
+    "title": "A multiple-choice procedure for assessing delay discounting",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Moreover, digital tools that visualize long-term health trajectories—such as projected BMI or glucose levels—activate neural circuits associated with future self-projection, thereby counteracting impulsive valuation [5].",
+    "refNo": 5,
+    "title": "Non-monetary delay discounting in health behavior: A systematic review",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "These approaches are particularly effective when combined with gamification elements that exploit reward prediction errors to sustain engagement over time [6].",
+    "refNo": 6,
+    "title": "An adjusting procedure for studying delayed reinforcement",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Emerging evidence suggests that RL-based digital interventions can induce neuroplastic changes in reward circuitry, similar to those observed in cognitive training paradigms [7].",
+    "refNo": 7,
+    "title": "Quasi-hyperbolic discounting and time-inconsistent preferences",
+    "marker_text": "[7]"
+  },
+  {
+    "sentence": "For example, a 12-week mobile intervention using adaptive reward scheduling significantly reduced discounting rates in overweight adults, with fMRI showing increased connectivity between the dorsolateral prefrontal cortex and ventral striatum [8].",
+    "refNo": 8,
+    "title": "Adaptive testing for delay discounting: Efficiency and accuracy",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Such tools offer scalable, low-cost mechanisms to retrain temporal preferences, especially in populations with limited access to clinical care [9].",
+    "refNo": 9,
+    "title": "Ecological momentary assessment of delay discounting in daily life",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "However, long-term sustainability remains a challenge, as habituation to digital rewards can diminish efficacy without periodic algorithmic adaptation [10].",
+    "refNo": 10,
+    "title": "Neuroeconomic measurement of delay discounting using fMRI",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Dopaminergic agents such as methylphenidate have been shown to reduce delay discounting in both healthy individuals and those with addiction, potentially by enhancing the neural representation of delayed rewards in the striatum and prefrontal cortex ref [12].",
+    "refNo": 12,
+    "title": "Functional connectivity of the reward network predicts delay discounting behavior",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Similarly, serotonergic modulation via selective serotonin reuptake inhibitors (SSRIs) has been associated with decreased impulsive choice in pharmacological challenge studies, suggesting a role for serotonin in stabilizing long-term value representations ref [21].",
+    "refNo": 21,
+    "title": "Impulsivity as a multidimensional construct: A latent variable analysis",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Non-invasive neuromodulation techniques, including transcranial direct current stimulation (tDCS) over the dorsolateral prefrontal cortex (DLPFC), have demonstrated transient but significant reductions in discounting rates, likely by enhancing cognitive control over impulsive valuation ref [33].",
+    "refNo": 33,
+    "title": "Longitudinal associations between delay discounting and physical activity trajectories in midlife",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "More targeted interventions, such as deep brain stimulation (DBS) of the nucleus accumbens in treatment-resistant addiction, have produced sustained reductions in delay discounting, implicating subcortical reward circuits in the pathophysiology of myopic decision-making ref [85].",
+    "refNo": 85,
+    "title": "Digital interventions for medication adherence using reinforcement learning: A randomized controlled trial",
+    "marker_text": "[85]"
+  },
+  {
+    "sentence": "Recent studies using transcranial magnetic stimulation (TMS) to modulate the anterior cingulate cortex have also shown promise in altering the subjective cost of waiting, consistent with computational models of prediction error signaling in intertemporal choice ref [29].",
+    "refNo": 29,
+    "title": "Temporal discounting and dietary patterns in adults: A systematic review",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "While these approaches show mechanistic promise, their effects are often context-dependent and may interact with environmental instability or prior learning history ref [67].",
+    "refNo": 67,
+    "title": "Reinforcement learning biases in addiction: A computational account of reward valuation",
+    "marker_text": "[67]"
+  },
+  {
+    "sentence": "For instance, individuals from low-income and high-unpredictability environments exhibit steeper discounting, consistent with adaptive responses to resource scarcity and environmental instability ref [15].",
+    "refNo": 15,
+    "title": "Gray matter volume and delay discounting in healthy adults",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Studies comparing Western individualistic societies with East Asian collectivist cultures show that collectivist orientations correlate with lower discounting rates, potentially due to stronger future-oriented social norms and intergenerational obligations ref [45].",
+    "refNo": 45,
+    "title": "Temporal discounting and adherence to diabetes self-management behaviors",
+    "marker_text": "[45]"
+  },
+  {
+    "sentence": "Developmental trajectories further complicate this picture: children and adolescents display steeper discounting than adults, with reductions in discounting rates emerging during late adolescence and early adulthood, coinciding with prefrontal maturation ref [64].",
+    "refNo": 64,
+    "title": "Model-based learning of delay statistics in human decision-making",
+    "marker_text": "[64]"
+  },
+  {
+    "sentence": "However, the pace and magnitude of this decline vary by socioeconomic status and educational exposure, indicating that cognitive development interacts with environmental context ref [87].",
+    "refNo": 87,
+    "title": "Gamification and reinforcement learning in digital health: Mechanisms and outcomes",
+    "marker_text": "[87]"
+  },
+  {
+    "sentence": "For example, adolescents in low-income urban settings show higher discounting rates than their peers in more stable environments, and these differences persist into adulthood unless mitigated by targeted interventions ref [65].",
+    "refNo": 65,
+    "title": "Neural plasticity underlying changes in delay discounting after cognitive training",
+    "marker_text": "[65]"
+  },
+  {
+    "sentence": "Cultural practices such as communal saving, ritualized delayed gratification, and storytelling about future outcomes may buffer against myopic decision-making in some populations ref [45].",
+    "refNo": 45,
+    "title": "Temporal discounting and adherence to diabetes self-management behaviors",
+    "marker_text": "[45]"
+  },
+  {
+    "sentence": "Moreover, neurodevelopmental studies in non-Western samples remain scarce, limiting generalizability of neural models derived primarily from WEIRD (Western, Educated, Industrialized, Rich, Democratic) populations ref [87].",
+    "refNo": 87,
+    "title": "Gamification and reinforcement learning in digital health: Mechanisms and outcomes",
+    "marker_text": "[87]"
+  },
+  {
+    "sentence": "For instance, individuals with high discounting rates are more likely to engage in sedentary behavior, yet prolonged inactivity may further reinforce myopic decision-making through altered reward learning [73].",
+    "refNo": 73,
+    "title": "Value revaluation training reduces delay discounting by enhancing delayed reward representation",
+    "marker_text": "[73]"
+  },
+  {
+    "sentence": "Similarly, poor medication adherence can exacerbate health decline, which in turn may increase present bias due to diminished future self-perception [56].",
+    "refNo": 56,
+    "title": "Neural representations of temporal uncertainty during intertemporal choice",
+    "marker_text": "[56]"
+  },
+  {
+    "sentence": "This reciprocal relationship complicates causal inference in observational studies, where confounding by unmeasured factors such as stress, socioeconomic status, or executive function is prevalent [70].",
+    "refNo": 70,
+    "title": "Neural competition between immediate and delayed reward valuation in impulsive decision-making",
+    "marker_text": "[70]"
+  },
+  {
+    "sentence": "Confounding is further amplified by overlapping neural and cognitive substrates of discounting with traits like impulsivity, depression, and executive dysfunction, which independently predict health behaviors [41].",
+    "refNo": 41,
+    "title": "Delay discounting as a predictor of sedentary time in office workers: A 6-month prospective study",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "For example, reduced striatal dopamine signaling may elevate both delay discounting and anhedonia, making it difficult to disentangle whether discounting drives poor adherence or is a corollary of mood dysregulation [26].",
+    "refNo": 26,
+    "title": "Neural correlates of risk and delay in intertemporal choice: A meta-analysis of fMRI studies",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "Longitudinal designs that track changes in discounting alongside behavioral trajectories are needed to clarify directionality, yet few studies have implemented such approaches [44].",
+    "refNo": 44,
+    "title": "Delay discounting and medication adherence in HIV: A meta-analysis",
+    "marker_text": "[44]"
+  },
+  {
+    "sentence": "Moreover, environmental factors such as chronic stress or food insecurity may jointly elevate discounting and undermine health behaviors, creating spurious associations [15].",
+    "refNo": 15,
+    "title": "Gray matter volume and delay discounting in healthy adults",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Recent efforts to address these issues include instrumental variable analyses and within-subject longitudinal modeling to isolate the effect of discounting on behavior, independent of stable individual differences [88].",
+    "refNo": 88,
+    "title": "fMRI evidence of neuroplastic changes following a mobile-based reinforcement learning intervention for weight loss",
+    "marker_text": "[88]"
+  },
+  {
+    "sentence": "Computational models that decompose discounting into learning and valuation components also help distinguish whether changes reflect altered reward sensitivity or updated environmental expectations [86].",
+    "refNo": 86,
+    "title": "Personalized feedback in mobile health apps reduces delay discounting in type 2 diabetes",
+    "marker_text": "[86]"
+  },
+  {
+    "sentence": "Computational models that integrate reinforcement learning, Bayesian inference, and dynamic system theory offer promising frameworks to quantify how individuals learn, update, and persist in maladaptive temporal preferences ref [71].",
+    "refNo": 71,
+    "title": "Environmental unpredictability shapes temporal discounting through biased reinforcement learning",
+    "marker_text": "[71]"
+  },
+  {
+    "sentence": "For instance, combining ecological momentary assessment with hierarchical Bayesian modeling can reveal how context-dependent fluctuations in discounting relate to real-world adherence patterns ref [88].",
+    "refNo": 88,
+    "title": "fMRI evidence of neuroplastic changes following a mobile-based reinforcement learning intervention for weight loss",
+    "marker_text": "[88]"
+  },
+  {
+    "sentence": "Emerging work in computational psychiatry demonstrates that integrating fMRI, wearable sensor data, and digital behavioral traces enables the identification of subtypes of non-adherence that are invisible to traditional metrics ref [77].",
+    "refNo": 77,
+    "title": "Attentional bias and distorted value representation in unhealthy dietary choices",
+    "marker_text": "[77]"
+  },
+  {
+    "sentence": "Such approaches have revealed distinct computational signatures in individuals with obesity versus those with substance use disorders, suggesting that discounting is not a unitary construct but a family of maladaptive learning processes ref [53].",
+    "refNo": 53,
+    "title": "Temporal discounting and adherence to immunosuppressive therapy in transplant recipients",
+    "marker_text": "[53]"
+  },
+  {
+    "sentence": "Furthermore, machine learning applied to longitudinal digital phenotyping data can predict future non-adherence with greater accuracy than static discounting measures alone ref [87].",
+    "refNo": 87,
+    "title": "Gamification and reinforcement learning in digital health: Mechanisms and outcomes",
+    "marker_text": "[87]"
+  },
+  {
+    "sentence": "This requires cross-disciplinary collaboration between neuroscientists, data scientists, and clinical researchers to validate computational biomarkers that are both mechanistically informative and clinically actionable ref [89].",
+    "refNo": 89,
+    "title": "Scalable digital interventions to reduce temporal discounting in underserved populations",
+    "marker_text": "[89]"
+  },
+  {
+    "sentence": "Personalized feedback systems, informed by reinforcement learning parameters, have demonstrated efficacy in reducing discounting rates among individuals with type 2 diabetes, improving medication adherence and glycemic control [56].",
+    "refNo": 56,
+    "title": "Neural representations of temporal uncertainty during intertemporal choice",
+    "marker_text": "[56]"
+  },
+  {
+    "sentence": "Similarly, future self-visualization techniques, grounded in neurocognitive models of temporal self-projection, have been shown to enhance delayed reward valuation in randomized trials, leading to increased physical activity and dietary adherence [83].",
+    "refNo": 83,
+    "title": "Delay discounting and physical activity in low-income populations: A mixed-methods investigation",
+    "marker_text": "[83]"
+  },
+  {
+    "sentence": "Digital interventions incorporating adaptive algorithms that adjust reward timing and magnitude based on real-time decision patterns are emerging as scalable tools, particularly in underserved populations where traditional counseling is inaccessible [60].",
+    "refNo": 60,
+    "title": "Longitudinal changes in discounting parameters during smoking cessation",
+    "marker_text": "[60]"
+  },
+  {
+    "sentence": "For instance, individuals with reduced striatal dopamine receptor availability and elevated temporal discounting may benefit more from pharmacological augmentation paired with cognitive retraining [12].",
+    "refNo": 12,
+    "title": "Functional connectivity of the reward network predicts delay discounting behavior",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Interventions that target prediction error signaling, such as those using gamified reinforcement learning, have shown promise in altering maladaptive reward learning trajectories in obesity [84].",
+    "refNo": 84,
+    "title": "Reinforcement learning models of human decision-making in health behavior: A systematic review",
+    "marker_text": "[84]"
+  },
+  {
+    "sentence": "Furthermore, value revaluation training, which enhances neural representations of delayed rewards, has been shown to produce lasting reductions in discounting that persist beyond the intervention period [70].",
+    "refNo": 70,
+    "title": "Neural competition between immediate and delayed reward valuation in impulsive decision-making",
+    "marker_text": "[70]"
+  },
+  {
+    "sentence": "Habituation to digital rewards in health apps may undermine long-term engagement, necessitating dynamic, context-sensitive designs [85].",
+    "refNo": 85,
+    "title": "Digital interventions for medication adherence using reinforcement learning: A randomized controlled trial",
+    "marker_text": "[85]"
+  },
+  {
+    "sentence": "Future translational frameworks must prioritize individualized dosing of behavioral components, informed by longitudinal tracking of discounting dynamics and neural plasticity [82].",
+    "refNo": 82,
+    "title": "Virtual reality future self-visualization increases health behavior adherence: A pilot study",
+    "marker_text": "[82]"
+  }
+]

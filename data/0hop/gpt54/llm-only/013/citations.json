@@ -1,0 +1,1597 @@
+[
+  {
+    "sentence": "Early formulations emphasized continuous or periodic observation to detect abnormal changes, but later work clarified that SHM spans a hierarchy of objectives ranging from damage detection and localization to severity assessment, prognosis, and decision support ref [1], ref [2].",
+    "refNo": 1,
+    "title": "A review of structural health monitoring literature: 1996–2001"
+  },
+  {
+    "sentence": "Early formulations emphasized continuous or periodic observation to detect abnormal changes, but later work clarified that SHM spans a hierarchy of objectives ranging from damage detection and localization to severity assessment, prognosis, and decision support ref [1], ref [2].",
+    "refNo": 2,
+    "title": "An Introduction to Structural Health Monitoring"
+  },
+  {
+    "sentence": "In this sense, sensing is not an end in itself: it is the information backbone for model validation, uncertainty reduction, and risk-informed asset management across the life of civil, aerospace, and mechanical systems ref [3], ref [4].",
+    "refNo": 3,
+    "title": "A Review of Structural Health Monitoring with Applications to Aerospace Structures"
+  },
+  {
+    "sentence": "In this sense, sensing is not an end in itself: it is the information backbone for model validation, uncertainty reduction, and risk-informed asset management across the life of civil, aerospace, and mechanical systems ref [3], ref [4].",
+    "refNo": 4,
+    "title": "Structural Health Monitoring: A Machine Learning Perspective"
+  },
+  {
+    "sentence": "and Worden and Farrar linked SHM to statistical pattern recognition, highlighting the need to separate environmental and operational variability from genuine damage-sensitive features ref [2], ref [5], ref [6].",
+    "refNo": 2,
+    "title": "An Introduction to Structural Health Monitoring"
+  },
+  {
+    "sentence": "and Worden and Farrar linked SHM to statistical pattern recognition, highlighting the need to separate environmental and operational variability from genuine damage-sensitive features ref [2], ref [5], ref [6].",
+    "refNo": 5,
+    "title": "Feature Extraction for Damage Detection in Structures: A Review"
+  },
+  {
+    "sentence": "and Worden and Farrar linked SHM to statistical pattern recognition, highlighting the need to separate environmental and operational variability from genuine damage-sensitive features ref [2], ref [5], ref [6].",
+    "refNo": 6,
+    "title": "Vibration-based structural health monitoring on bridges: review and case studies"
+  },
+  {
+    "sentence": "For large infrastructure, this lifecycle perspective also connects monitoring to inspection planning and performance management, as illustrated in bridge and infrastructure SHM reviews ref [7], ref [8].",
+    "refNo": 7,
+    "title": "Structural Health Monitoring of Civil Infrastructure Systems"
+  },
+  {
+    "sentence": "For large infrastructure, this lifecycle perspective also connects monitoring to inspection planning and performance management, as illustrated in bridge and infrastructure SHM reviews ref [7], ref [8].",
+    "refNo": 8,
+    "title": "On the Use of Outlier Analysis for the Diagnosis of Damage in a Laboratory Structure"
+  },
+  {
+    "sentence": "If the goal is model updating, sensors should maximize identifiability of modal or state parameters; if the goal is damage diagnosis or prognosis, placement should instead favor sensitivity to likely damage scenarios, robustness to noise, and practical maintainability over decades of operation ref [3], ref [4], ref [9].",
+    "refNo": 3,
+    "title": "A Review of Structural Health Monitoring with Applications to Aerospace Structures"
+  },
+  {
+    "sentence": "If the goal is model updating, sensors should maximize identifiability of modal or state parameters; if the goal is damage diagnosis or prognosis, placement should instead favor sensitivity to likely damage scenarios, robustness to noise, and practical maintainability over decades of operation ref [3], ref [4], ref [9].",
+    "refNo": 4,
+    "title": "Structural Health Monitoring: A Machine Learning Perspective"
+  },
+  {
+    "sentence": "If the goal is model updating, sensors should maximize identifiability of modal or state parameters; if the goal is damage diagnosis or prognosis, placement should instead favor sensitivity to likely damage scenarios, robustness to noise, and practical maintainability over decades of operation ref [3], ref [4], ref [9].",
+    "refNo": 9,
+    "title": "The Fundamental Axioms of Structural Health Monitoring"
+  },
+  {
+    "sentence": "Thus, optimal sensor placement is best understood as a lifecycle design problem in which sensing strategies must remain informative under changing structural states, environmental conditions, and decision requirements ref [1], ref [10].",
+    "refNo": 1,
+    "title": "A review of structural health monitoring literature: 1996–2001"
+  },
+  {
+    "sentence": "Thus, optimal sensor placement is best understood as a lifecycle design problem in which sensing strategies must remain informative under changing structural states, environmental conditions, and decision requirements ref [1], ref [10].",
+    "refNo": 10,
+    "title": "Structural health monitoring system of Tsing Ma bridge"
+  },
+  {
+    "sentence": "Civil SHM has focused heavily on long-span bridges, where ambient and traffic-induced vibration, temperature variation, and local deterioration interact across large spatial scales; representative deployments include cable-stayed and suspension bridges such as the Tsing Ma Bridge and the Guangzhou New TV Tower, which illustrate the need for multi-type sensing over distributed geometries ref [10], ref [11].",
+    "refNo": 10,
+    "title": "Structural health monitoring system of Tsing Ma bridge"
+  },
+  {
+    "sentence": "Civil SHM has focused heavily on long-span bridges, where ambient and traffic-induced vibration, temperature variation, and local deterioration interact across large spatial scales; representative deployments include cable-stayed and suspension bridges such as the Tsing Ma Bridge and the Guangzhou New TV Tower, which illustrate the need for multi-type sensing over distributed geometries ref [10], ref [11].",
+    "refNo": 11,
+    "title": "Structural health monitoring for Guangzhou New TV Tower"
+  },
+  {
+    "sentence": "Building structures, especially tall buildings and base-isolated systems, emphasize wind and seismic response, occupant safety, and post-event rapid assessment, motivating configurations tailored to modal identification and interstory drift estimation ref [7], ref [12].",
+    "refNo": 7,
+    "title": "Structural Health Monitoring of Civil Infrastructure Systems"
+  },
+  {
+    "sentence": "Building structures, especially tall buildings and base-isolated systems, emphasize wind and seismic response, occupant safety, and post-event rapid assessment, motivating configurations tailored to modal identification and interstory drift estimation ref [7], ref [12].",
+    "refNo": 12,
+    "title": "Smart structural health monitoring technology for civil structures: A review"
+  },
+  {
+    "sentence": "This distinction affects acceptable power consumption, data bandwidth, and redundancy, and therefore changes the sensor placement objective from persistent damage detectability to transient capture or diagnosis under sparse instrumentation ref [1], ref [13].",
+    "refNo": 1,
+    "title": "A review of structural health monitoring literature: 1996–2001"
+  },
+  {
+    "sentence": "This distinction affects acceptable power consumption, data bandwidth, and redundancy, and therefore changes the sensor placement objective from persistent damage detectability to transient capture or diagnosis under sparse instrumentation ref [1], ref [13].",
+    "refNo": 13,
+    "title": "A statistical pattern recognition paradigm for vibration-based structural health monitoring"
+  },
+  {
+    "sentence": "Offshore platforms and wind turbines add further complexity because hydrodynamic loading, rotating components, and difficult maintenance environments favor robust layouts with fault tolerance and remote communication capability ref [14], ref [15].",
+    "refNo": 14,
+    "title": "Structural health monitoring of offshore structures using wireless sensor networks"
+  },
+  {
+    "sentence": "Offshore platforms and wind turbines add further complexity because hydrodynamic loading, rotating components, and difficult maintenance environments favor robust layouts with fault tolerance and remote communication capability ref [14], ref [15].",
+    "refNo": 15,
+    "title": "Structural health monitoring of wind turbines: systems and approaches"
+  },
+  {
+    "sentence": "Similar issues arise in aerospace composite structures, where guided-wave and strain-based sensing are often localized around damage-prone regions rather than distributed globally ref [16].",
+    "refNo": 16,
+    "title": "Guided wave structural health monitoring by piezoelectric transducers"
+  },
+  {
+    "sentence": "Piezoelectric sensing, in particular, enables both passive and active interrogation through guided waves and electromechanical impedance, making it attractive for detecting small cracks and debonding in metallic and composite components ref [1], ref [17].",
+    "refNo": 1,
+    "title": "A review of structural health monitoring literature: 1996–2001"
+  },
+  {
+    "sentence": "Piezoelectric sensing, in particular, enables both passive and active interrogation through guided waves and electromechanical impedance, making it attractive for detecting small cracks and debonding in metallic and composite components ref [1], ref [17].",
+    "refNo": 17,
+    "title": "Electromechanical impedance method for structural health monitoring of composite structures using piezoelectric actuators/sensors"
+  },
+  {
+    "sentence": "Fiber Bragg grating sensors support multiplexed strain and temperature measurements with electromagnetic immunity and have been widely studied for civil infrastructure and aerospace structures ref [18].",
+    "refNo": 18,
+    "title": "Fiber optic sensors for structural health monitoring"
+  },
+  {
+    "sentence": "More generally, fiber-optic SHM systems can provide quasi-distributed or fully distributed measurements over long distances, which is valuable for pipelines, bridges, and large-area composites ref [19].",
+    "refNo": 19,
+    "title": "Recent progress in distributed fiber optic sensors"
+  },
+  {
+    "sentence": "At the global scale, wireless sensor networks reduce cabling cost and enable scalable deployment, although power management, synchronization, and data loss become integral design constraints ref [20], ref [21].",
+    "refNo": 20,
+    "title": "Design of wireless sensor networks for structural health monitoring"
+  },
+  {
+    "sentence": "At the global scale, wireless sensor networks reduce cabling cost and enable scalable deployment, although power management, synchronization, and data loss become integral design constraints ref [20], ref [21].",
+    "refNo": 21,
+    "title": "A scalable smart sensor network for structural health monitoring"
+  },
+  {
+    "sentence": "Vision-based systems use cameras for displacement and vibration measurement, enabling rapid instrumentation of large structures ref [22], while laser Doppler vibrometry provides high-resolution vibration data without mass loading the structure ref [23].",
+    "refNo": 22,
+    "title": "Vision-based methods for structural health monitoring"
+  },
+  {
+    "sentence": "Vision-based systems use cameras for displacement and vibration measurement, enabling rapid instrumentation of large structures ref [22], while laser Doppler vibrometry provides high-resolution vibration data without mass loading the structure ref [23].",
+    "refNo": 23,
+    "title": "Modal testing using scanning laser Doppler vibrometry: an operational modal analysis approach"
+  },
+  {
+    "sentence": "Infrared thermography and acoustic emission complement dynamic sensing by targeting heat-flow anomalies and transient stress-wave events associated with cracking, delamination, and corrosion processes ref [24], ref [25].",
+    "refNo": 24,
+    "title": "Infrared thermography for condition monitoring of civil structures: a review"
+  },
+  {
+    "sentence": "Infrared thermography and acoustic emission complement dynamic sensing by targeting heat-flow anomalies and transient stress-wave events associated with cracking, delamination, and corrosion processes ref [24], ref [25].",
+    "refNo": 25,
+    "title": "Acoustic emission monitoring of reinforced concrete structures: a review"
+  },
+  {
+    "sentence": "Classical formulations include maximizing determinant- or trace-based criteria of the information matrix for parameter identification and dynamic state estimation, thereby linking OSP directly to identifiability and uncertainty reduction ref [26], ref [27], ref [28].",
+    "refNo": 26,
+    "title": "On Fisher information matrix in nonlinear system identification"
+  },
+  {
+    "sentence": "Classical formulations include maximizing determinant- or trace-based criteria of the information matrix for parameter identification and dynamic state estimation, thereby linking OSP directly to identifiability and uncertainty reduction ref [26], ref [27], ref [28].",
+    "refNo": 27,
+    "title": "Optimum sensor locations for parameter identification of distributed systems"
+  },
+  {
+    "sentence": "Classical formulations include maximizing determinant- or trace-based criteria of the information matrix for parameter identification and dynamic state estimation, thereby linking OSP directly to identifiability and uncertainty reduction ref [26], ref [27], ref [28].",
+    "refNo": 28,
+    "title": "Sensor Placement for On-Orbit Modal Identification and Correlation of Large Space Structures"
+  },
+  {
+    "sentence": "Effective independence (EI) methods select locations that contribute most strongly to the rank and conditioning of the modal matrix, whereas entropy- and mutual-information-based formulations quantify redundancy and complementarity among sensors ref [29], ref [30], ref [31].",
+    "refNo": 29,
+    "title": "The use of measured data in damage location analysis"
+  },
+  {
+    "sentence": "Effective independence (EI) methods select locations that contribute most strongly to the rank and conditioning of the modal matrix, whereas entropy- and mutual-information-based formulations quantify redundancy and complementarity among sensors ref [29], ref [30], ref [31].",
+    "refNo": 30,
+    "title": "An information entropy based approach for optimal sensor location in structural dynamics"
+  },
+  {
+    "sentence": "Effective independence (EI) methods select locations that contribute most strongly to the rank and conditioning of the modal matrix, whereas entropy- and mutual-information-based formulations quantify redundancy and complementarity among sensors ref [29], ref [30], ref [31].",
+    "refNo": 31,
+    "title": "Optimal sensor placement for structural health monitoring based on system reliability and redundancy reduction"
+  },
+  {
+    "sentence": "For damage detection, the objective may instead emphasize sensitivity to local stiffness loss, discrimination among damage scenarios, or robustness under modeling uncertainty, leading naturally to multiobjective and robust optimization formulations ref [32], ref [33].",
+    "refNo": 32,
+    "title": "Optimal sensor placement for structural health monitoring using genetic algorithms"
+  },
+  {
+    "sentence": "For damage detection, the objective may instead emphasize sensitivity to local stiffness loss, discrimination among damage scenarios, or robustness under modeling uncertainty, leading naturally to multiobjective and robust optimization formulations ref [32], ref [33].",
+    "refNo": 33,
+    "title": "A review of sensor placement studies for structural vibration measurement"
+  },
+  {
+    "sentence": "This perspective has motivated both exact and heuristic solvers, including sequential sensor elimination, convex relaxations, genetic algorithms, and Bayesian experimental design approaches, especially for large-scale civil infrastructure where exhaustive search is infeasible ref [28], ref [31], ref [34], ref [35].",
+    "refNo": 28,
+    "title": "Sensor Placement for On-Orbit Modal Identification and Correlation of Large Space Structures"
+  },
+  {
+    "sentence": "This perspective has motivated both exact and heuristic solvers, including sequential sensor elimination, convex relaxations, genetic algorithms, and Bayesian experimental design approaches, especially for large-scale civil infrastructure where exhaustive search is infeasible ref [28], ref [31], ref [34], ref [35].",
+    "refNo": 31,
+    "title": "Optimal sensor placement for structural health monitoring based on system reliability and redundancy reduction"
+  },
+  {
+    "sentence": "This perspective has motivated both exact and heuristic solvers, including sequential sensor elimination, convex relaxations, genetic algorithms, and Bayesian experimental design approaches, especially for large-scale civil infrastructure where exhaustive search is infeasible ref [28], ref [31], ref [34], ref [35].",
+    "refNo": 34,
+    "title": "Bayesian experimental design for structural health monitoring"
+  },
+  {
+    "sentence": "This perspective has motivated both exact and heuristic solvers, including sequential sensor elimination, convex relaxations, genetic algorithms, and Bayesian experimental design approaches, especially for large-scale civil infrastructure where exhaustive search is infeasible ref [28], ref [31], ref [34], ref [35].",
+    "refNo": 35,
+    "title": "Optimal sensor placement in structural dynamics: A review"
+  },
+  {
+    "sentence": "These considerations are especially acute in wireless SHM, where network lifetime, synchronization, packet loss, and onboard computation couple sensing decisions to communication topology and energy management rather than to structural observability alone ref [36], ref [37].",
+    "refNo": 36,
+    "title": "Wireless sensor networks for structural health monitoring"
+  },
+  {
+    "sentence": "These considerations are especially acute in wireless SHM, where network lifetime, synchronization, packet loss, and onboard computation couple sensing decisions to communication topology and energy management rather than to structural observability alone ref [36], ref [37].",
+    "refNo": 37,
+    "title": "Structural health monitoring using wireless sensor networks"
+  },
+  {
+    "sentence": "Placements optimized for a nominal finite-element model may degrade under modeling error, environmental variability, and operational uncertainty; robust formulations therefore account for uncertainty in modal parameters, excitation, and damage scenarios rather than maximizing a deterministic criterion only ref [38], ref [39].",
+    "refNo": 38,
+    "title": "Optimal Sensor Placement for Structural Health Monitoring: A Review"
+  },
+  {
+    "sentence": "Placements optimized for a nominal finite-element model may degrade under modeling error, environmental variability, and operational uncertainty; robust formulations therefore account for uncertainty in modal parameters, excitation, and damage scenarios rather than maximizing a deterministic criterion only ref [38], ref [39].",
+    "refNo": 39,
+    "title": "Optimal sensor placement for model-based health monitoring of civil infrastructures"
+  },
+  {
+    "sentence": "In large-scale systems, redundancy and fault tolerance become essential because sensor malfunction, drift, and calibration loss can compromise diagnostics over long monitoring horizons ref [40].",
+    "refNo": 40,
+    "title": "Sensor Fault Detection and Isolation for Structural Health Monitoring of Civil Infrastructure in a Wireless Sensor Network"
+  },
+  {
+    "sentence": "These issues motivate formulations that integrate identifiability, reliability, and reconfigurability, sometimes using information-theoretic or Bayesian criteria to balance uncertainty reduction against resource limits ref [41], ref [42].",
+    "refNo": 41,
+    "title": "A Bayesian probabilistic approach for optimal sensor placement in structural health monitoring"
+  },
+  {
+    "sentence": "These issues motivate formulations that integrate identifiability, reliability, and reconfigurability, sometimes using information-theoretic or Bayesian criteria to balance uncertainty reduction against resource limits ref [41], ref [42].",
+    "refNo": 42,
+    "title": "Information entropy based sensor placement optimization for structural health monitoring"
+  },
+  {
+    "sentence": "Accelerometers, strain gauges, fiber-optic sensors, and vision-based systems differ in spatial coverage, bandwidth, noise characteristics, and installation logistics, so feasible locations are often discrete and modality-specific ref [43], ref [44].",
+    "refNo": 43,
+    "title": "Fiber optic sensors for structural health monitoring of air platforms"
+  },
+  {
+    "sentence": "Accelerometers, strain gauges, fiber-optic sensors, and vision-based systems differ in spatial coverage, bandwidth, noise characteristics, and installation logistics, so feasible locations are often discrete and modality-specific ref [43], ref [44].",
+    "refNo": 44,
+    "title": "Vision-based displacement measurement for structural health monitoring"
+  },
+  {
+    "sentence": "Consequently, practical sensor placement is best viewed as a multi-objective design problem in which diagnostic performance must be traded against cost, durability, accessibility, and operability across the monitoring lifecycle ref [45].",
+    "refNo": 45,
+    "title": "Multi-objective optimization for sensor placement in structural health monitoring"
+  },
+  {
+    "sentence": "Early formulations based on effective independence (EFI) explicitly retain sensor sets that maximize independence of target mode shapes, while variants use kinetic energy or information entropy to improve robustness to modeling bias and mode truncation ref [46], ref [28], ref [47], ref [48].",
+    "refNo": 46,
+    "title": "On the Use of the Eigenvalue Decomposition for Modal Parameter Estimation"
+  },
+  {
+    "sentence": "Early formulations based on effective independence (EFI) explicitly retain sensor sets that maximize independence of target mode shapes, while variants use kinetic energy or information entropy to improve robustness to modeling bias and mode truncation ref [46], ref [28], ref [47], ref [48].",
+    "refNo": 28,
+    "title": "Sensor Placement for On-Orbit Modal Identification and Correlation of Large Space Structures"
+  },
+  {
+    "sentence": "Early formulations based on effective independence (EFI) explicitly retain sensor sets that maximize independence of target mode shapes, while variants use kinetic energy or information entropy to improve robustness to modeling bias and mode truncation ref [46], ref [28], ref [47], ref [48].",
+    "refNo": 47,
+    "title": "Optimal sensor placement for parameter identification of structures"
+  },
+  {
+    "sentence": "Early formulations based on effective independence (EFI) explicitly retain sensor sets that maximize independence of target mode shapes, while variants use kinetic energy or information entropy to improve robustness to modeling bias and mode truncation ref [46], ref [28], ref [47], ref [48].",
+    "refNo": 48,
+    "title": "Optimal placement of sensors for parameter identification of structural systems"
+  },
+  {
+    "sentence": "Here, placement is chosen to maximize sensitivity of measurements to stiffness-loss parameters, minimize posterior uncertainty in Bayesian model updating, or optimize classification performance for damage diagnosis ref [49], ref [50].",
+    "refNo": 49,
+    "title": "Optimal sensor placement for structural system identification using a genetic algorithm"
+  },
+  {
+    "sentence": "Here, placement is chosen to maximize sensitivity of measurements to stiffness-loss parameters, minimize posterior uncertainty in Bayesian model updating, or optimize classification performance for damage diagnosis ref [49], ref [50].",
+    "refNo": 50,
+    "title": "Bayesian experimental design for structural identification"
+  },
+  {
+    "sentence": "Typical objectives therefore trade off estimation quality against the number of sensors, wiring or communication burden, energy consumption, and redundancy, often using mutual information or entropy reduction for stochastic fields and wireless sensor networks ref [51], ref [52], ref [53].",
+    "refNo": 51,
+    "title": "Mutual information methods for adaptive Bayesian seismic tomography"
+  },
+  {
+    "sentence": "Typical objectives therefore trade off estimation quality against the number of sensors, wiring or communication burden, energy consumption, and redundancy, often using mutual information or entropy reduction for stochastic fields and wireless sensor networks ref [51], ref [52], ref [53].",
+    "refNo": 52,
+    "title": "Optimal sensor placement for structural health monitoring using wireless sensor networks"
+  },
+  {
+    "sentence": "Typical objectives therefore trade off estimation quality against the number of sensors, wiring or communication burden, energy consumption, and redundancy, often using mutual information or entropy reduction for stochastic fields and wireless sensor networks ref [51], ref [52], ref [53].",
+    "refNo": 53,
+    "title": "Near-optimal sensor placements in Gaussian processes: Theory, efficient algorithms and empirical studies"
+  },
+  {
+    "sentence": "In wireless SHM, this perspective is particularly important because communication and energy objectives can conflict directly with estimation accuracy [9].\",\n    \"From a formulation standpoint, the choice between single- and multi-objective models affects both interpretability and algorithm selection.",
+    "refNo": 9,
+    "title": "The Fundamental Axioms of Structural Health Monitoring"
+  },
+  {
+    "sentence": "This discrete view matches practical procurement and installation decisions and underlies formulations based on modal independence, Fisher information, or information entropy, as seen in effective independence and related methods for large structural systems ref [54], ref [55], ref [56].",
+    "refNo": 54,
+    "title": "On optimal sensor placement for structural dynamic testing"
+  },
+  {
+    "sentence": "This discrete view matches practical procurement and installation decisions and underlies formulations based on modal independence, Fisher information, or information entropy, as seen in effective independence and related methods for large structural systems ref [54], ref [55], ref [56].",
+    "refNo": 55,
+    "title": "A method for selection of sensor locations for on-orbit modal identification of large space structures"
+  },
+  {
+    "sentence": "This discrete view matches practical procurement and installation decisions and underlies formulations based on modal independence, Fisher information, or information entropy, as seen in effective independence and related methods for large structural systems ref [54], ref [55], ref [56].",
+    "refNo": 56,
+    "title": "Sensor placement optimization for structural health monitoring using genetic algorithms"
+  },
+  {
+    "sentence": "Such formulations are less common in civil SHM than binary placement models, but they appear in broader optimal experimental design and Bayesian inference settings where the design variable is spatially continuous and uncertainty reduction is measured through posterior covariance or expected utility ref [57], ref [58].",
+    "refNo": 57,
+    "title": "Bayesian experimental design: A review"
+  },
+  {
+    "sentence": "Such formulations are less common in civil SHM than binary placement models, but they appear in broader optimal experimental design and Bayesian inference settings where the design variable is spatially continuous and uncertainty reduction is measured through posterior covariance or expected utility ref [57], ref [58].",
+    "refNo": 58,
+    "title": "Optimal sensor placement strategies for model-based monitoring of spatially distributed processes"
+  },
+  {
+    "sentence": "Mixed spaces are especially important in wireless sensor networks, where placement interacts with communication range, energy consumption, and routing, producing coupled integer-continuous programs ref [59], ref [60].",
+    "refNo": 59,
+    "title": "A survey on sensor networks"
+  },
+  {
+    "sentence": "Mixed spaces are especially important in wireless sensor networks, where placement interacts with communication range, energy consumption, and routing, producing coupled integer-continuous programs ref [59], ref [60].",
+    "refNo": 60,
+    "title": "Coverage problems in wireless ad-hoc sensor networks"
+  },
+  {
+    "sentence": "Similar mixed formulations also appear in multi-type sensor deployment and damage-identification-oriented design, where heterogeneous sensing modalities and parametric constraints must be optimized simultaneously ref [38], ref [61].",
+    "refNo": 38,
+    "title": "Optimal Sensor Placement for Structural Health Monitoring: A Review"
+  },
+  {
+    "sentence": "Similar mixed formulations also appear in multi-type sensor deployment and damage-identification-oriented design, where heterogeneous sensing modalities and parametric constraints must be optimized simultaneously ref [38], ref [61].",
+    "refNo": 61,
+    "title": "Optimal design of sensor configurations for structural parameter identification"
+  },
+  {
+    "sentence": "The chosen decision-space representation strongly influences algorithm selection, from greedy and submodular methods for discrete placement to evolutionary or surrogate-assisted methods for mixed and continuous designs ref [53].",
+    "refNo": 53,
+    "title": "Near-optimal sensor placements in Gaussian processes: Theory, efficient algorithms and empirical studies"
+  },
+  {
+    "sentence": "Under this assumption, optimization commonly targets information-rich layouts through criteria derived from modal independence, observability, or estimation accuracy, such as effective independence or Fisher-information-based measures ref [62], ref [28].",
+    "refNo": 62,
+    "title": "On effective independence distribution vectors method for sensor placement in structural dynamics"
+  },
+  {
+    "sentence": "Under this assumption, optimization commonly targets information-rich layouts through criteria derived from modal independence, observability, or estimation accuracy, such as effective independence or Fisher-information-based measures ref [62], ref [28].",
+    "refNo": 28,
+    "title": "Sensor Placement for On-Orbit Modal Identification and Correlation of Large Space Structures"
+  },
+  {
+    "sentence": "Bayesian and information-theoretic sensor placement strategies exemplify this shift, where designs are selected to maximize expected information gain or reduce posterior uncertainty in model updating and damage identification ref [63], ref [64].",
+    "refNo": 63,
+    "title": "Optimal sensor placement for structural model updating and health monitoring using Bayesian experimental design"
+  },
+  {
+    "sentence": "Bayesian and information-theoretic sensor placement strategies exemplify this shift, where designs are selected to maximize expected information gain or reduce posterior uncertainty in model updating and damage identification ref [63], ref [64].",
+    "refNo": 64,
+    "title": "A Bayesian experimental design approach for structural health monitoring"
+  },
+  {
+    "sentence": "Related robust placement models also hedge against uncertainty in mode shapes or candidate damage patterns by seeking layouts whose performance degrades minimally under perturbations ref [65], ref [66].",
+    "refNo": 65,
+    "title": "Optimal sensor placement using genetic algorithms and robust Monte Carlo methods"
+  },
+  {
+    "sentence": "Related robust placement models also hedge against uncertainty in mode shapes or candidate damage patterns by seeking layouts whose performance degrades minimally under perturbations ref [65], ref [66].",
+    "refNo": 66,
+    "title": "Robust optimal sensor placement for structural identification considering measurement noise and model uncertainty"
+  },
+  {
+    "sentence": "Scenario-based optimization, min-max robustness, and reliability-constrained formulations occupy an intermediate space, balancing computational tractability with uncertainty awareness ref [67], ref [68].",
+    "refNo": 67,
+    "title": "A minmax entropy approach for the sensor placement problem in structural systems"
+  },
+  {
+    "sentence": "Scenario-based optimization, min-max robustness, and reliability-constrained formulations occupy an intermediate space, balancing computational tractability with uncertainty awareness ref [67], ref [68].",
+    "refNo": 68,
+    "title": "Optimal sensor placement for parameter identification of structural systems"
+  },
+  {
+    "sentence": "For wireless sensor networks used in SHM, stochasticity is further induced by packet loss, energy depletion, and communication failures, motivating probabilistic formulations that couple sensing quality with network reliability and lifetime ref [36].",
+    "refNo": 36,
+    "title": "Wireless sensor networks for structural health monitoring"
+  },
+  {
+    "sentence": "In SHM, such formulations often maximize modal independence, Fisher information, or damage-detectability surrogates under a one-shot design paradigm, as exemplified by effective independence and related pre-test methods for modal testing and damage identification ref [28], ref [69], ref [70].",
+    "refNo": 28,
+    "title": "Sensor Placement for On-Orbit Modal Identification and Correlation of Large Space Structures"
+  },
+  {
+    "sentence": "In SHM, such formulations often maximize modal independence, Fisher information, or damage-detectability surrogates under a one-shot design paradigm, as exemplified by effective independence and related pre-test methods for modal testing and damage identification ref [28], ref [69], ref [70].",
+    "refNo": 69,
+    "title": "On optimal sensor placement for structural health monitoring"
+  },
+  {
+    "sentence": "In SHM, such formulations often maximize modal independence, Fisher information, or damage-detectability surrogates under a one-shot design paradigm, as exemplified by effective independence and related pre-test methods for modal testing and damage identification ref [28], ref [69], ref [70].",
+    "refNo": 70,
+    "title": "A review of sensor placement studies for vibration-based structural health monitoring"
+  },
+  {
+    "sentence": "This idea is closely connected to Bayesian experimental design and information-driven monitoring, where sensor relocation or activation is selected to maximize expected entropy reduction, mutual information, or posterior utility ref [71], ref [72], ref [42].",
+    "refNo": 71,
+    "title": "Optimal sensor placement and configuration for structural health monitoring using Bayesian experimental design"
+  },
+  {
+    "sentence": "This idea is closely connected to Bayesian experimental design and information-driven monitoring, where sensor relocation or activation is selected to maximize expected entropy reduction, mutual information, or posterior utility ref [71], ref [72], ref [42].",
+    "refNo": 72,
+    "title": "A review of Bayesian experimental design for structural identification"
+  },
+  {
+    "sentence": "This idea is closely connected to Bayesian experimental design and information-driven monitoring, where sensor relocation or activation is selected to maximize expected entropy reduction, mutual information, or posterior utility ref [71], ref [72], ref [42].",
+    "refNo": 42,
+    "title": "Information entropy based sensor placement optimization for structural health monitoring"
+  },
+  {
+    "sentence": "In wireless sensor networks for SHM, adaptation also appears as dynamic scheduling or topology reconfiguration to balance information quality with energy and communication limits ref [36], ref [73].",
+    "refNo": 36,
+    "title": "Wireless sensor networks for structural health monitoring"
+  },
+  {
+    "sentence": "In wireless sensor networks for SHM, adaptation also appears as dynamic scheduling or topology reconfiguration to balance information quality with energy and communication limits ref [36], ref [73].",
+    "refNo": 73,
+    "title": "A survey on wireless sensor network technologies for structural health monitoring"
+  },
+  {
+    "sentence": "Consequently, many practical frameworks adopt hybrid strategies: an initially optimized static baseline is deployed, then refined through periodic updating, sparse mobile sensing, or event-triggered rescheduling ref [42], ref [73], ref [74].",
+    "refNo": 42,
+    "title": "Information entropy based sensor placement optimization for structural health monitoring"
+  },
+  {
+    "sentence": "Consequently, many practical frameworks adopt hybrid strategies: an initially optimized static baseline is deployed, then refined through periodic updating, sparse mobile sensing, or event-triggered rescheduling ref [42], ref [73], ref [74].",
+    "refNo": 73,
+    "title": "A survey on wireless sensor network technologies for structural health monitoring"
+  },
+  {
+    "sentence": "Consequently, many practical frameworks adopt hybrid strategies: an initially optimized static baseline is deployed, then refined through periodic updating, sparse mobile sensing, or event-triggered rescheduling ref [42], ref [73], ref [74].",
+    "refNo": 74,
+    "title": "Mobile sensor networks for structural health monitoring: A review"
+  },
+  {
+    "sentence": "A seminal line of work used effective independence and related matrix-rank criteria to prune candidate locations while preserving modal identifiability ref [75], and closely related formulations based on kinetic energy or information entropy were later developed for practical placement design ref [76], ref [77].",
+    "refNo": 75,
+    "title": "On optimum sensor placement for modal vibration testing"
+  },
+  {
+    "sentence": "A seminal line of work used effective independence and related matrix-rank criteria to prune candidate locations while preserving modal identifiability ref [75], and closely related formulations based on kinetic energy or information entropy were later developed for practical placement design ref [76], ref [77].",
+    "refNo": 76,
+    "title": "Optimal sensor placement for model identification using system realizations"
+  },
+  {
+    "sentence": "A seminal line of work used effective independence and related matrix-rank criteria to prune candidate locations while preserving modal identifiability ref [75], and closely related formulations based on kinetic energy or information entropy were later developed for practical placement design ref [76], ref [77].",
+    "refNo": 77,
+    "title": "Optimal placement of accelerometers for modal vibration tests"
+  },
+  {
+    "sentence": "Early studies on optimal instrumentation of large civil structures demonstrated how integer or mixed discrete-continuous programming can encode budget and redundancy constraints directly ref [78], while information-theoretic design criteria for dynamic system identification provided a principled basis for D-, A-, and E-optimal placement rules ref [79].",
+    "refNo": 78,
+    "title": "Optimal sensor placement for structural identification using system realization methods"
+  },
+  {
+    "sentence": "Early studies on optimal instrumentation of large civil structures demonstrated how integer or mixed discrete-continuous programming can encode budget and redundancy constraints directly ref [78], while information-theoretic design criteria for dynamic system identification provided a principled basis for D-, A-, and E-optimal placement rules ref [79].",
+    "refNo": 79,
+    "title": "Optimum sensor location for parameter identification of distributed systems"
+  },
+  {
+    "sentence": "These concerns motivated branch-and-bound and relaxation strategies for discrete sensor selection ref [80], as well as sparse reconstruction viewpoints that recast damage localization or sensing design into regularized optimization problems ref [81], ref [82].",
+    "refNo": 80,
+    "title": "Sensor placement for structural identification using genetic algorithm"
+  },
+  {
+    "sentence": "These concerns motivated branch-and-bound and relaxation strategies for discrete sensor selection ref [80], as well as sparse reconstruction viewpoints that recast damage localization or sensing design into regularized optimization problems ref [81], ref [82].",
+    "refNo": 81,
+    "title": "Compressed sensing"
+  },
+  {
+    "sentence": "These concerns motivated branch-and-bound and relaxation strategies for discrete sensor selection ref [80], as well as sparse reconstruction viewpoints that recast damage localization or sensing design into regularized optimization problems ref [81], ref [82].",
+    "refNo": 82,
+    "title": "Robust uncertainty principles: Exact signal reconstruction from highly incomplete frequency information"
+  },
+  {
+    "sentence": "Consequently, classical programming remains foundational not because it solves every SHM optimization problem outright, but because it provides the benchmark formulations, constraint handling mechanisms, and optimality concepts on which later heuristic, hybrid, and learning-assisted methods are built ref [35].",
+    "refNo": 35,
+    "title": "Optimal sensor placement in structural dynamics: A review"
+  },
+  {
+    "sentence": "Their efficiency derives from local derivative information, obtained analytically, by direct differentiation of finite-element equations, or through adjoint formulations that decouple gradient cost from the number of design variables ref [1], ref [83], ref [84].",
+    "refNo": 1,
+    "title": "A review of structural health monitoring literature: 1996–2001"
+  },
+  {
+    "sentence": "Their efficiency derives from local derivative information, obtained analytically, by direct differentiation of finite-element equations, or through adjoint formulations that decouple gradient cost from the number of design variables ref [1], ref [83], ref [84].",
+    "refNo": 83,
+    "title": "A review of structural health monitoring with the aid of big data and artificial intelligence: From condition assessment to damage detection"
+  },
+  {
+    "sentence": "Their efficiency derives from local derivative information, obtained analytically, by direct differentiation of finite-element equations, or through adjoint formulations that decouple gradient cost from the number of design variables ref [1], ref [83], ref [84].",
+    "refNo": 84,
+    "title": "A survey of structural health monitoring systems based on piezoelectric sensors"
+  },
+  {
+    "sentence": "Modal sensitivity formulations for damage localization and quantification were established early and remain influential because they link physical parameter changes to measurable eigenproperties ref [85], ref [86].",
+    "refNo": 85,
+    "title": "Sensitivity analysis of eigenvalues and eigenvectors as a basis for structural damage assessment"
+  },
+  {
+    "sentence": "Modal sensitivity formulations for damage localization and quantification were established early and remain influential because they link physical parameter changes to measurable eigenproperties ref [85], ref [86].",
+    "refNo": 86,
+    "title": "Damage detection in structures from changes in their vibration parameters: a review"
+  },
+  {
+    "sentence": "For larger inverse problems, finite-element model updating based on sensitivity matrices and regularized least-squares formulations has been used to improve numerical stability and identifiability in noisy settings ref [87], ref [88].",
+    "refNo": 87,
+    "title": "Finite element model updating in structural dynamics"
+  },
+  {
+    "sentence": "For larger inverse problems, finite-element model updating based on sensitivity matrices and regularized least-squares formulations has been used to improve numerical stability and identifiability in noisy settings ref [87], ref [88].",
+    "refNo": 88,
+    "title": "Regularization methods for ill-posed inverse problems in structural damage identification"
+  },
+  {
+    "sentence": "In sensor placement, gradient information has likewise been exploited to maximize Fisher information or related criteria, especially when continuous relaxations are adopted before discretization ref [89].",
+    "refNo": 89,
+    "title": "Optimal Sensor Placement for Model Identification Using System Realization Methods"
+  },
+  {
+    "sentence": "More recent work extends differentiable optimization to topology-oriented sensor layout and PDE-constrained inverse damage problems, indicating that gradient-based schemes remain highly competitive whenever reliable derivatives and adequate initialization are available ref [83], ref [84], ref [90].",
+    "refNo": 83,
+    "title": "A review of structural health monitoring with the aid of big data and artificial intelligence: From condition assessment to damage detection"
+  },
+  {
+    "sentence": "More recent work extends differentiable optimization to topology-oriented sensor layout and PDE-constrained inverse damage problems, indicating that gradient-based schemes remain highly competitive whenever reliable derivatives and adequate initialization are available ref [83], ref [84], ref [90].",
+    "refNo": 84,
+    "title": "A survey of structural health monitoring systems based on piezoelectric sensors"
+  },
+  {
+    "sentence": "More recent work extends differentiable optimization to topology-oriented sensor layout and PDE-constrained inverse damage problems, indicating that gradient-based schemes remain highly competitive whenever reliable derivatives and adequate initialization are available ref [83], ref [84], ref [90].",
+    "refNo": 90,
+    "title": "Topology optimization of sensor and actuator locations for vibration control and health monitoring"
+  },
+  {
+    "sentence": "The memetic paradigm of coupling population-based evolution with individual learning was formalized by Moscato and Cotta and later systematized in reviews of memetic computing, which provide the conceptual basis for many SHM-oriented hybrids ref [99], ref [100].",
+    "refNo": 99,
+    "title": "Memetic Algorithms"
+  },
+  {
+    "sentence": "The memetic paradigm of coupling population-based evolution with individual learning was formalized by Moscato and Cotta and later systematized in reviews of memetic computing, which provide the conceptual basis for many SHM-oriented hybrids ref [99], ref [100].",
+    "refNo": 100,
+    "title": "Optimal sensor placement methodology for parametric identification of structural systems"
+  },
+  {
+    "sentence": "For example, Papadimitriou developed information-theoretic formulations for optimal sensor placement in structural dynamics that naturally support sequential and hybrid search strategies under observability and uncertainty constraints ref [101].",
+    "refNo": 101,
+    "title": "Optimal sensor placement for health monitoring of high-rise structure using genetic algorithm"
+  },
+  {
+    "sentence": "used a multi-objective genetic algorithm for optimal sensor placement on high-rise buildings, illustrating how evolutionary search can be paired with engineering constraints and post-processing to obtain practical layouts ref [102].",
+    "refNo": 102,
+    "title": "Genetic algorithm in structural damage detection"
+  },
+  {
+    "sentence": "In damage identification, hybrid neural-network/genetic approaches were explored early by Chou and Ghaboussi, while Levin and Lieven combined genetic search with neural-network approximations to accelerate structural optimization, anticipating later surrogate-assisted SHM hybrids ref [103], ref [104].",
+    "refNo": 103,
+    "title": "A neural network approach to structural optimization"
+  },
+  {
+    "sentence": "In damage identification, hybrid neural-network/genetic approaches were explored early by Chou and Ghaboussi, while Levin and Lieven combined genetic search with neural-network approximations to accelerate structural optimization, anticipating later surrogate-assisted SHM hybrids ref [103], ref [104].",
+    "refNo": 104,
+    "title": "Approximation methods in multidisciplinary analysis and optimization: a panel discussion"
+  },
+  {
+    "sentence": "reviewed approximation methods in multidisciplinary design optimization, a foundation for surrogate-assisted hybrids widely transferable to SHM updating and placement tasks ref [105].",
+    "refNo": 105,
+    "title": "A comprehensive survey of fitness approximation in evolutionary computation"
+  },
+  {
+    "sentence": "Jin surveyed fitness approximation in evolutionary computation, clarifying when surrogate-enhanced memetic schemes are most effective for expensive simulations ref [106].",
+    "refNo": 106,
+    "title": "A taxonomy of hybrid metaheuristics"
+  },
+  {
+    "sentence": "reviewed benchmarked hybrid evolutionary approaches in engineering optimization, both of which are directly relevant for selecting exploration–exploitation balances in large-scale SHM applications ref [107], ref [10].",
+    "refNo": 107,
+    "title": "Metaheuristic applications in structures and infrastructures"
+  },
+  {
+    "sentence": "reviewed benchmarked hybrid evolutionary approaches in engineering optimization, both of which are directly relevant for selecting exploration–exploitation balances in large-scale SHM applications ref [107], ref [10].",
+    "refNo": 10,
+    "title": "Structural health monitoring system of Tsing Ma bridge"
+  },
+  {
+    "sentence": "A common pattern is surrogate-assisted optimization, where expensive finite-element or reliability evaluations are emulated by response surfaces such as kriging or other Gaussian-process models, enabling efficient sequential design and uncertainty-aware search ref [108], ref [109].",
+    "refNo": 108,
+    "title": "Design and Analysis of Computer Experiments"
+  },
+  {
+    "sentence": "A common pattern is surrogate-assisted optimization, where expensive finite-element or reliability evaluations are emulated by response surfaces such as kriging or other Gaussian-process models, enabling efficient sequential design and uncertainty-aware search ref [108], ref [109].",
+    "refNo": 109,
+    "title": "Kriging metamodels and simulation optimization"
+  },
+  {
+    "sentence": "Related Bayesian optimization ideas are especially attractive when objective evaluations are scarce and noisy, because acquisition functions explicitly balance exploitation and exploration ref [110].",
+    "refNo": 110,
+    "title": "A Tutorial on Bayesian Optimization of Expensive Cost Functions, with Application to Active User Modeling and Hierarchical Reinforcement Learning"
+  },
+  {
+    "sentence": "Early SHM-oriented studies showed that neural networks can emulate structural response mappings for model updating ref [111], while kriging-based reliability methods demonstrated how active learning can focus evaluations near limit states or informative regions of the design space ref [112], ref [113].",
+    "refNo": 111,
+    "title": "Neural network applications in structural health monitoring"
+  },
+  {
+    "sentence": "Early SHM-oriented studies showed that neural networks can emulate structural response mappings for model updating ref [111], while kriging-based reliability methods demonstrated how active learning can focus evaluations near limit states or informative regions of the design space ref [112], ref [113].",
+    "refNo": 112,
+    "title": "Active learning reliability method combining Kriging and Monte Carlo Simulation in structural reliability analysis"
+  },
+  {
+    "sentence": "Early SHM-oriented studies showed that neural networks can emulate structural response mappings for model updating ref [111], while kriging-based reliability methods demonstrated how active learning can focus evaluations near limit states or informative regions of the design space ref [112], ref [113].",
+    "refNo": 113,
+    "title": "AK-MCS: an active learning reliability method combining Kriging and Monte Carlo Simulation"
+  },
+  {
+    "sentence": "For sensor placement more specifically, machine learning also serves as a feature-selection engine: sparse regression and regularization-based learning can identify compact measurement sets while preserving reconstructability or classification accuracy, linking placement to compressed sensing and dictionary learning ideas ref [114], ref [115].",
+    "refNo": 114,
+    "title": "Sparse Sensor Placement Optimization for Classification"
+  },
+  {
+    "sentence": "For sensor placement more specifically, machine learning also serves as a feature-selection engine: sparse regression and regularization-based learning can identify compact measurement sets while preserving reconstructability or classification accuracy, linking placement to compressed sensing and dictionary learning ideas ref [114], ref [115].",
+    "refNo": 115,
+    "title": "Sensor placement for sparse classification in high-dimensional physics"
+  },
+  {
+    "sentence": "Graph-based models have been proposed for sensor placement on irregular structural graphs, learning transferable policies over candidate layouts ref [116], whereas deep reinforcement learning has been used to construct placement strategies through reward-driven interaction with structural simulators ref [117].",
+    "refNo": 116,
+    "title": "Graph neural networks: A review of methods and applications"
+  },
+  {
+    "sentence": "Graph-based models have been proposed for sensor placement on irregular structural graphs, learning transferable policies over candidate layouts ref [116], whereas deep reinforcement learning has been used to construct placement strategies through reward-driven interaction with structural simulators ref [117].",
+    "refNo": 117,
+    "title": "Deep reinforcement learning: An overview"
+  },
+  {
+    "sentence": "Classical gradient-based formulations are attractive when objective and constraint functions are smooth and sensitivities can be computed efficiently; this is evident in information-based sensor placement formulations derived from Fisher information or Bayesian criteria, which often admit principled local updates but may suffer from nonconvexity and dependence on initial guesses ref [118], ref [119].",
+    "refNo": 118,
+    "title": "On Fisher information matrix and optimal sensor placement"
+  },
+  {
+    "sentence": "Classical gradient-based formulations are attractive when objective and constraint functions are smooth and sensitivities can be computed efficiently; this is evident in information-based sensor placement formulations derived from Fisher information or Bayesian criteria, which often admit principled local updates but may suffer from nonconvexity and dependence on initial guesses ref [118], ref [119].",
+    "refNo": 119,
+    "title": "Optimal sensor placement for structural parameter identification using Bayesian experimental design"
+  },
+  {
+    "sentence": "By contrast, combinatorial formulations based on effective independence or modal criteria emphasize algebraic transparency and low implementation complexity, but their greedy or sequential nature can become suboptimal under multiple competing objectives ref [120], ref [121].",
+    "refNo": 120,
+    "title": "An effective independence distribution vector method for sensor placement in structural systems"
+  },
+  {
+    "sentence": "By contrast, combinatorial formulations based on effective independence or modal criteria emphasize algebraic transparency and low implementation complexity, but their greedy or sequential nature can become suboptimal under multiple competing objectives ref [120], ref [121].",
+    "refNo": 121,
+    "title": "A new method for the optimal placement of sensors based on the generic algorithm"
+  },
+  {
+    "sentence": "Genetic algorithms, ant colony optimization, and particle swarm optimization have all been reported to handle multimodal sensor placement landscapes and damage-identification inverse problems with limited derivative information ref [122], ref [123], ref [124].",
+    "refNo": 122,
+    "title": "Optimal sensor placement using genetic algorithms"
+  },
+  {
+    "sentence": "Genetic algorithms, ant colony optimization, and particle swarm optimization have all been reported to handle multimodal sensor placement landscapes and damage-identification inverse problems with limited derivative information ref [122], ref [123], ref [124].",
+    "refNo": 123,
+    "title": "A review of sensor placement strategies for structural health monitoring"
+  },
+  {
+    "sentence": "Genetic algorithms, ant colony optimization, and particle swarm optimization have all been reported to handle multimodal sensor placement landscapes and damage-identification inverse problems with limited derivative information ref [122], ref [123], ref [124].",
+    "refNo": 124,
+    "title": "Particle swarm optimization for structural damage detection"
+  },
+  {
+    "sentence": "Practical comparisons therefore favor algorithms that balance diversification with problem-specific exploitation, or that incorporate reduced-order models and surrogate evaluations to improve scalability ref [123], ref [125].",
+    "refNo": 123,
+    "title": "A review of sensor placement strategies for structural health monitoring"
+  },
+  {
+    "sentence": "Practical comparisons therefore favor algorithms that balance diversification with problem-specific exploitation, or that incorporate reduced-order models and surrogate evaluations to improve scalability ref [123], ref [125].",
+    "refNo": 125,
+    "title": "A review on structural health monitoring using optimization techniques and computational intelligence"
+  },
+  {
+    "sentence": "Comparative studies in sensor placement and damage detection increasingly advocate hybrid workflows that combine mathematically grounded initialization, sensitivity information, and population-based global search, while benchmarking with application-relevant criteria such as identifiability, sparsity, and computational time rather than best objective value alone ref [119], ref [125], ref [126].",
+    "refNo": 119,
+    "title": "Optimal sensor placement for structural parameter identification using Bayesian experimental design"
+  },
+  {
+    "sentence": "Comparative studies in sensor placement and damage detection increasingly advocate hybrid workflows that combine mathematically grounded initialization, sensitivity information, and population-based global search, while benchmarking with application-relevant criteria such as identifiability, sparsity, and computational time rather than best objective value alone ref [119], ref [125], ref [126].",
+    "refNo": 125,
+    "title": "A review on structural health monitoring using optimization techniques and computational intelligence"
+  },
+  {
+    "sentence": "Comparative studies in sensor placement and damage detection increasingly advocate hybrid workflows that combine mathematically grounded initialization, sensitivity information, and population-based global search, while benchmarking with application-relevant criteria such as identifiability, sparsity, and computational time rather than best objective value alone ref [119], ref [125], ref [126].",
+    "refNo": 126,
+    "title": "Sensor placement for structural health monitoring: A review"
+  },
+  {
+    "sentence": "Early optimal placement studies therefore used modal independence and estimation quality as proxies for information content, notably via the effective independence method and related Fisher-information formulations that maximize linear independence of target mode shapes or minimize parameter covariance under candidate layouts [1], ref [128], ref [56].",
+    "refNo": 1,
+    "title": "A review of structural health monitoring literature: 1996–2001"
+  },
+  {
+    "sentence": "Early optimal placement studies therefore used modal independence and estimation quality as proxies for information content, notably via the effective independence method and related Fisher-information formulations that maximize linear independence of target mode shapes or minimize parameter covariance under candidate layouts [1], ref [128], ref [56].",
+    "refNo": 128,
+    "title": "A modal test design strategy for acquiring structural dynamics data"
+  },
+  {
+    "sentence": "Early optimal placement studies therefore used modal independence and estimation quality as proxies for information content, notably via the effective independence method and related Fisher-information formulations that maximize linear independence of target mode shapes or minimize parameter covariance under candidate layouts [1], ref [128], ref [56].",
+    "refNo": 56,
+    "title": "Sensor placement optimization for structural health monitoring using genetic algorithms"
+  },
+  {
+    "sentence": "D-optimality and related criteria reward layouts that reduce posterior uncertainty in model updating and damage identification, while mutual-information formulations explicitly value sensors that maximize expected reduction in uncertainty about latent structural states or parameters [4], ref [130], ref [131].",
+    "refNo": 4,
+    "title": "Structural Health Monitoring: A Machine Learning Perspective"
+  },
+  {
+    "sentence": "D-optimality and related criteria reward layouts that reduce posterior uncertainty in model updating and damage identification, while mutual-information formulations explicitly value sensors that maximize expected reduction in uncertainty about latent structural states or parameters [4], ref [130], ref [131].",
+    "refNo": 130,
+    "title": "Optimal sensor placement for structural health monitoring using Bayesian experimental design"
+  },
+  {
+    "sentence": "D-optimality and related criteria reward layouts that reduce posterior uncertainty in model updating and damage identification, while mutual-information formulations explicitly value sensors that maximize expected reduction in uncertainty about latent structural states or parameters [4], ref [130], ref [131].",
+    "refNo": 131,
+    "title": "Mutual information-based optimal sensor placement for structural health monitoring"
+  },
+  {
+    "sentence": "Accordingly, more recent evaluation protocols compare layouts using inverse-problem performance indicators such as posterior variance, parameter correlation, condition number, or probability of correct damage scenario discrimination under model uncertainty [7], ref [132], ref [133].",
+    "refNo": 7,
+    "title": "Structural Health Monitoring of Civil Infrastructure Systems"
+  },
+  {
+    "sentence": "Accordingly, more recent evaluation protocols compare layouts using inverse-problem performance indicators such as posterior variance, parameter correlation, condition number, or probability of correct damage scenario discrimination under model uncertainty [7], ref [132], ref [133].",
+    "refNo": 132,
+    "title": "Sensor placement for structural health monitoring: A review of existing techniques and new trends"
+  },
+  {
+    "sentence": "Accordingly, more recent evaluation protocols compare layouts using inverse-problem performance indicators such as posterior variance, parameter correlation, condition number, or probability of correct damage scenario discrimination under model uncertainty [7], ref [132], ref [133].",
+    "refNo": 133,
+    "title": "Bayesian Probabilistic Approach for Structural Health Monitoring"
+  },
+  {
+    "sentence": "For fair comparison, surveys should distinguish criteria aimed at preserving modal basis quality from those tailored to damage-feature separability, since the latter better reflect decision-relevant information content in practical SHM deployments [10].",
+    "refNo": 10,
+    "title": "Structural health monitoring system of Tsing Ma bridge"
+  },
+  {
+    "sentence": "In vibration-based SHM, these metrics are often tied to changes in modal features or flexibility indicators, while in novelty-detection settings they are evaluated under baseline-versus-damaged discrimination tasks ref [13], ref [135], ref [136].",
+    "refNo": 13,
+    "title": "A statistical pattern recognition paradigm for vibration-based structural health monitoring"
+  },
+  {
+    "sentence": "In vibration-based SHM, these metrics are often tied to changes in modal features or flexibility indicators, while in novelty-detection settings they are evaluated under baseline-versus-damaged discrimination tasks ref [13], ref [135], ref [136].",
+    "refNo": 135,
+    "title": "Vibration-based damage detection using changes in flexibility"
+  },
+  {
+    "sentence": "In vibration-based SHM, these metrics are often tied to changes in modal features or flexibility indicators, while in novelty-detection settings they are evaluated under baseline-versus-damaged discrimination tasks ref [13], ref [135], ref [136].",
+    "refNo": 136,
+    "title": "Structural damage detection using changes in natural frequency and mode shape"
+  },
+  {
+    "sentence": "For guided-wave and impedance-based methods, localization is frequently benchmarked by imaging quality, centroid error, and damage index contrast, whereas model-based inverse methods may quantify estimation bias and variance in identified stiffness-loss parameters ref [16], ref [137], ref [138].",
+    "refNo": 16,
+    "title": "Guided wave structural health monitoring by piezoelectric transducers"
+  },
+  {
+    "sentence": "For guided-wave and impedance-based methods, localization is frequently benchmarked by imaging quality, centroid error, and damage index contrast, whereas model-based inverse methods may quantify estimation bias and variance in identified stiffness-loss parameters ref [16], ref [137], ref [138].",
+    "refNo": 137,
+    "title": "Electromechanical impedance-based structural health monitoring and nondestructive evaluation"
+  },
+  {
+    "sentence": "For guided-wave and impedance-based methods, localization is frequently benchmarked by imaging quality, centroid error, and damage index contrast, whereas model-based inverse methods may quantify estimation bias and variance in identified stiffness-loss parameters ref [16], ref [137], ref [138].",
+    "refNo": 138,
+    "title": "Damage assessment of structures using static test data"
+  },
+  {
+    "sentence": "Accordingly, evaluation protocols should separate binary detection from localization accuracy, report performance under multiple damage severities and positions, and include uncertainty bands over repeated noise realizations or environmental variations ref [139], ref [1], ref [140].",
+    "refNo": 139,
+    "title": "Structural Health Monitoring Using Lamb-Wave Methods"
+  },
+  {
+    "sentence": "Accordingly, evaluation protocols should separate binary detection from localization accuracy, report performance under multiple damage severities and positions, and include uncertainty bands over repeated noise realizations or environmental variations ref [139], ref [1], ref [140].",
+    "refNo": 1,
+    "title": "A review of structural health monitoring literature: 1996–2001"
+  },
+  {
+    "sentence": "Accordingly, evaluation protocols should separate binary detection from localization accuracy, report performance under multiple damage severities and positions, and include uncertainty bands over repeated noise realizations or environmental variations ref [139], ref [1], ref [140].",
+    "refNo": 140,
+    "title": "Structural health monitoring in operational environments: a review"
+  },
+  {
+    "sentence": "This is particularly important because environmental and operational variability can mask damage-sensitive features and inflate apparent localization performance if testing is restricted to idealized conditions ref [141].",
+    "refNo": 141,
+    "title": "Effects of environmental and operational variability on damage detection in aerospace structures"
+  },
+  {
+    "sentence": "Cost metrics are typically formulated as total installed cost or life-cycle cost, combining sensor procurement, cabling, installation, data acquisition, maintenance, and in some cases inspection savings; this viewpoint is especially important in wireless and large-scale civil infrastructure, where communication and deployment overhead can dominate hardware cost [1], ref [142].",
+    "refNo": 1,
+    "title": "A review of structural health monitoring literature: 1996–2001"
+  },
+  {
+    "sentence": "Cost metrics are typically formulated as total installed cost or life-cycle cost, combining sensor procurement, cabling, installation, data acquisition, maintenance, and in some cases inspection savings; this viewpoint is especially important in wireless and large-scale civil infrastructure, where communication and deployment overhead can dominate hardware cost [1], ref [142].",
+    "refNo": 142,
+    "title": "Decentralized Structural Health Monitoring Using Smart Sensors"
+  },
+  {
+    "sentence": "In optimization formulations, cost is therefore often treated as an explicit objective or budget constraint alongside information-based criteria, yielding Pareto trade-offs between monitoring quality and resource expenditure [3], ref [45].",
+    "refNo": 3,
+    "title": "A Review of Structural Health Monitoring with Applications to Aerospace Structures"
+  },
+  {
+    "sentence": "In optimization formulations, cost is therefore often treated as an explicit objective or budget constraint alongside information-based criteria, yielding Pareto trade-offs between monitoring quality and resource expenditure [3], ref [45].",
+    "refNo": 45,
+    "title": "Multi-objective optimization for sensor placement in structural health monitoring"
+  },
+  {
+    "sentence": "Accordingly, common measures include per-node and network-wide power consumption, expected battery lifetime, communication load, latency, and the number of transmissions needed for event detection or modal estimation [1], ref [144].",
+    "refNo": 1,
+    "title": "A review of structural health monitoring literature: 1996–2001"
+  },
+  {
+    "sentence": "Accordingly, common measures include per-node and network-wide power consumption, expected battery lifetime, communication load, latency, and the number of transmissions needed for event detection or modal estimation [1], ref [144].",
+    "refNo": 144,
+    "title": "Energy-efficient wireless sensor networks for structural health monitoring"
+  },
+  {
+    "sentence": "Closely related network-efficiency indicators include coverage/connectivity, robustness to packet loss, synchronization burden, and scalability with respect to node count, all of which affect the practical utility of dense smart-sensor deployments [6], ref [37].",
+    "refNo": 6,
+    "title": "Vibration-based structural health monitoring on bridges: review and case studies"
+  },
+  {
+    "sentence": "Closely related network-efficiency indicators include coverage/connectivity, robustness to packet loss, synchronization burden, and scalability with respect to node count, all of which affect the practical utility of dense smart-sensor deployments [6], ref [37].",
+    "refNo": 37,
+    "title": "Structural health monitoring using wireless sensor networks"
+  },
+  {
+    "sentence": "Recent benchmarking practice therefore favors multi-objective assessment rather than single-score reporting: algorithms are compared by information gain per sensor, detection or identification performance under fixed budget, and lifetime-aware utility under realistic communication architectures [3], ref [144], ref [146].",
+    "refNo": 3,
+    "title": "A Review of Structural Health Monitoring with Applications to Aerospace Structures"
+  },
+  {
+    "sentence": "Recent benchmarking practice therefore favors multi-objective assessment rather than single-score reporting: algorithms are compared by information gain per sensor, detection or identification performance under fixed budget, and lifetime-aware utility under realistic communication architectures [3], ref [144], ref [146].",
+    "refNo": 144,
+    "title": "Energy-efficient wireless sensor networks for structural health monitoring"
+  },
+  {
+    "sentence": "Recent benchmarking practice therefore favors multi-objective assessment rather than single-score reporting: algorithms are compared by information gain per sensor, detection or identification performance under fixed budget, and lifetime-aware utility under realistic communication architectures [3], ref [144], ref [146].",
+    "refNo": 146,
+    "title": "Structural health monitoring and intelligent infrastructure"
+  },
+  {
+    "sentence": "For fair comparison, studies should state whether cost models include wiring versus wireless infrastructure, centralized versus decentralized computation, and whether energy estimates are based on radio models, measured hardware consumption, or simplified proxy counts, since these assumptions materially change the ranking of competing placement strategies [2], ref [37], ref [73].",
+    "refNo": 2,
+    "title": "An Introduction to Structural Health Monitoring"
+  },
+  {
+    "sentence": "For fair comparison, studies should state whether cost models include wiring versus wireless infrastructure, centralized versus decentralized computation, and whether energy estimates are based on radio models, measured hardware consumption, or simplified proxy counts, since these assumptions materially change the ranking of competing placement strategies [2], ref [37], ref [73].",
+    "refNo": 37,
+    "title": "Structural health monitoring using wireless sensor networks"
+  },
+  {
+    "sentence": "For fair comparison, studies should state whether cost models include wiring versus wireless infrastructure, centralized versus decentralized computation, and whether energy estimates are based on radio models, measured hardware consumption, or simplified proxy counts, since these assumptions materially change the ranking of competing placement strategies [2], ref [37], ref [73].",
+    "refNo": 73,
+    "title": "A survey on wireless sensor network technologies for structural health monitoring"
+  },
+  {
+    "sentence": "Early vibration-based studies showed that damage-sensitive features can be strongly confounded by temperature and other changing conditions, implying that an algorithm that performs well in nominal simulations may fail in deployment unless uncertainty is explicitly represented in the evaluation protocol ref [1], ref [147].",
+    "refNo": 1,
+    "title": "A review of structural health monitoring literature: 1996–2001"
+  },
+  {
+    "sentence": "Early vibration-based studies showed that damage-sensitive features can be strongly confounded by temperature and other changing conditions, implying that an algorithm that performs well in nominal simulations may fail in deployment unless uncertainty is explicitly represented in the evaluation protocol ref [1], ref [147].",
+    "refNo": 147,
+    "title": "Cointegration: a novel approach for the removal of environmental trends in structural health monitoring data"
+  },
+  {
+    "sentence": "Statistical pattern-recognition frameworks have emphasized novelty-detection thresholds and outlier analysis under uncertain baselines ref [148], while Bayesian model updating and inference provide posterior credible intervals and natural mechanisms for propagating measurement and modeling uncertainty to damage decisions ref [133], ref [149].",
+    "refNo": 148,
+    "title": "Statistical pattern recognition for structural health monitoring"
+  },
+  {
+    "sentence": "Statistical pattern-recognition frameworks have emphasized novelty-detection thresholds and outlier analysis under uncertain baselines ref [148], while Bayesian model updating and inference provide posterior credible intervals and natural mechanisms for propagating measurement and modeling uncertainty to damage decisions ref [133], ref [149].",
+    "refNo": 133,
+    "title": "Bayesian Probabilistic Approach for Structural Health Monitoring"
+  },
+  {
+    "sentence": "Statistical pattern-recognition frameworks have emphasized novelty-detection thresholds and outlier analysis under uncertain baselines ref [148], while Bayesian model updating and inference provide posterior credible intervals and natural mechanisms for propagating measurement and modeling uncertainty to damage decisions ref [133], ref [149].",
+    "refNo": 149,
+    "title": "Model selection and damage detection via sparse Bayesian learning"
+  },
+  {
+    "sentence": "For sensor placement, robustness assessment should therefore test whether candidate layouts preserve detectability and localization accuracy when sensor readings are corrupted, missing, or biased, rather than only under deterministic forward models ref [32], ref [150].",
+    "refNo": 32,
+    "title": "Optimal sensor placement for structural health monitoring using genetic algorithms"
+  },
+  {
+    "sentence": "For sensor placement, robustness assessment should therefore test whether candidate layouts preserve detectability and localization accuracy when sensor readings are corrupted, missing, or biased, rather than only under deterministic forward models ref [32], ref [150].",
+    "refNo": 150,
+    "title": "Optimal sensor placement strategies for structural dynamic systems"
+  },
+  {
+    "sentence": "Robust algorithms are increasingly validated through Monte Carlo simulation, stochastic finite-element models, and environmental/operational variability compensation methods such as cointegration or low-dimensional latent representations ref [147], ref [151], ref [152].",
+    "refNo": 147,
+    "title": "Cointegration: a novel approach for the removal of environmental trends in structural health monitoring data"
+  },
+  {
+    "sentence": "Robust algorithms are increasingly validated through Monte Carlo simulation, stochastic finite-element models, and environmental/operational variability compensation methods such as cointegration or low-dimensional latent representations ref [147], ref [151], ref [152].",
+    "refNo": 151,
+    "title": "A machine learning paradigm for structural health monitoring"
+  },
+  {
+    "sentence": "Robust algorithms are increasingly validated through Monte Carlo simulation, stochastic finite-element models, and environmental/operational variability compensation methods such as cointegration or low-dimensional latent representations ref [147], ref [151], ref [152].",
+    "refNo": 152,
+    "title": "Environmental and operational conditions effects in structural health monitoring"
+  },
+  {
+    "sentence": "More recent probabilistic SHM reviews further recommend reporting calibration quality, uncertainty decomposition, and cross-condition generalization so that claimed gains are not limited to a single noise realization or laboratory condition ref [153].",
+    "refNo": 153,
+    "title": "Structural health monitoring and damage prognosis in composite aerostructures"
+  },
+  {
+    "sentence": "Widely used physical benchmarks include the IASC-ASCE phase I and phase II steel-frame testbeds, which were explicitly developed to compare damage detection methods under controlled stiffness-loss scenarios and measurement noise ref [154], ref [155].",
+    "refNo": 154,
+    "title": "Structural Health Monitoring Benchmark Problem using Simulated Data"
+  },
+  {
+    "sentence": "Widely used physical benchmarks include the IASC-ASCE phase I and phase II steel-frame testbeds, which were explicitly developed to compare damage detection methods under controlled stiffness-loss scenarios and measurement noise ref [154], ref [155].",
+    "refNo": 155,
+    "title": "Experimental Structural Health Monitoring Benchmark Problem for Phase II Simulation Studies"
+  },
+  {
+    "sentence": "For bridge SHM, full-scale monitored structures such as the Alamosa Canyon Bridge and the Z24 Bridge have become important reference cases because they expose algorithms to environmental variability, operational uncertainty, and realistic sensor layouts ref [156], ref [157].",
+    "refNo": 156,
+    "title": "Structural health monitoring using statistical pattern recognition on the Alamosa Canyon Bridge"
+  },
+  {
+    "sentence": "For bridge SHM, full-scale monitored structures such as the Alamosa Canyon Bridge and the Z24 Bridge have become important reference cases because they expose algorithms to environmental variability, operational uncertainty, and realistic sensor layouts ref [156], ref [157].",
+    "refNo": 157,
+    "title": "The Z24 Bridge Benchmark for Structural Health Monitoring"
+  },
+  {
+    "sentence": "Community software has also improved comparability: OpenSees provides a widely adopted open framework for nonlinear structural simulation and damage scenario generation ref [158], while benchmark-oriented studies in wireless sensing frequently use instrumented laboratory structures such as the LANL three-story frame to evaluate networked SHM strategies under realistic communication and power constraints ref [159].",
+    "refNo": 158,
+    "title": "OpenSees: Open System for Earthquake Engineering Simulation"
+  },
+  {
+    "sentence": "Community software has also improved comparability: OpenSees provides a widely adopted open framework for nonlinear structural simulation and damage scenario generation ref [158], while benchmark-oriented studies in wireless sensing frequently use instrumented laboratory structures such as the LANL three-story frame to evaluate networked SHM strategies under realistic communication and power constraints ref [159].",
+    "refNo": 159,
+    "title": "Design of a Wireless Sensor Network for Structural Monitoring"
+  },
+  {
+    "sentence": "This trend is reflected in benchmark data resources from long-term bridge monitoring and vibration-based damage identification studies, including Z24 and the Tianjin Yonghe Bridge, as well as comparative reviews emphasizing standardized testbeds for objective assessment ref [157], ref [160], ref [1], ref [161].",
+    "refNo": 157,
+    "title": "The Z24 Bridge Benchmark for Structural Health Monitoring"
+  },
+  {
+    "sentence": "This trend is reflected in benchmark data resources from long-term bridge monitoring and vibration-based damage identification studies, including Z24 and the Tianjin Yonghe Bridge, as well as comparative reviews emphasizing standardized testbeds for objective assessment ref [157], ref [160], ref [1], ref [161].",
+    "refNo": 160,
+    "title": "Structural damage detection based on output-only data of the Tianjin Yonghe Bridge"
+  },
+  {
+    "sentence": "This trend is reflected in benchmark data resources from long-term bridge monitoring and vibration-based damage identification studies, including Z24 and the Tianjin Yonghe Bridge, as well as comparative reviews emphasizing standardized testbeds for objective assessment ref [157], ref [160], ref [1], ref [161].",
+    "refNo": 1,
+    "title": "A review of structural health monitoring literature: 1996–2001"
+  },
+  {
+    "sentence": "This trend is reflected in benchmark data resources from long-term bridge monitoring and vibration-based damage identification studies, including Z24 and the Tianjin Yonghe Bridge, as well as comparative reviews emphasizing standardized testbeds for objective assessment ref [157], ref [160], ref [1], ref [161].",
+    "refNo": 161,
+    "title": "Vibration-based damage identification: a review and comparative study"
+  },
+  {
+    "sentence": "Reporting the structural model, boundary conditions, excitation type, sensor topology, and data availability is essential if optimization and sensor placement methods are to be reproducible and meaningfully compared across the SHM literature ref [158], ref [161], ref [162].",
+    "refNo": 158,
+    "title": "OpenSees: Open System for Earthquake Engineering Simulation"
+  },
+  {
+    "sentence": "Reporting the structural model, boundary conditions, excitation type, sensor topology, and data availability is essential if optimization and sensor placement methods are to be reproducible and meaningfully compared across the SHM literature ref [158], ref [161], ref [162].",
+    "refNo": 161,
+    "title": "Vibration-based damage identification: a review and comparative study"
+  },
+  {
+    "sentence": "Reporting the structural model, boundary conditions, excitation type, sensor topology, and data availability is essential if optimization and sensor placement methods are to be reproducible and meaningfully compared across the SHM literature ref [158], ref [161], ref [162].",
+    "refNo": 162,
+    "title": "A Review of Sensor Placement Studies for Structural Health Monitoring"
+  },
+  {
+    "sentence": "The broader reproducibility concerns identified in computational science and optimization are directly relevant here: insufficient disclosure of algorithms and implementation details impedes independent verification and fair comparison ref [163], ref [164], ref [165].",
+    "refNo": 163,
+    "title": "The Seven Sins of Memory Allocation for Data-Intensive Science"
+  },
+  {
+    "sentence": "The broader reproducibility concerns identified in computational science and optimization are directly relevant here: insufficient disclosure of algorithms and implementation details impedes independent verification and fair comparison ref [163], ref [164], ref [165].",
+    "refNo": 164,
+    "title": "Best Practices for Scientific Computing"
+  },
+  {
+    "sentence": "The broader reproducibility concerns identified in computational science and optimization are directly relevant here: insufficient disclosure of algorithms and implementation details impedes independent verification and fair comparison ref [163], ref [164], ref [165].",
+    "refNo": 165,
+    "title": "Experimental Methods for the Analysis of Optimization Algorithms"
+  },
+  {
+    "sentence": "In SHM, open benchmark data and code repositories have therefore become increasingly important complements to journal articles ref [166], ref [167].",
+    "refNo": 166,
+    "title": "A benchmark study on model updating, damage identification and health monitoring of a full-scale five-storey steel frame using simulated data"
+  },
+  {
+    "sentence": "In SHM, open benchmark data and code repositories have therefore become increasingly important complements to journal articles ref [166], ref [167].",
+    "refNo": 167,
+    "title": "The Los Alamos National Laboratory Three-Story Structure Testbed: A Benchmark for Structural Health Monitoring"
+  },
+  {
+    "sentence": "Established statistical tools for classifier comparison and repeated-experiment analysis, such as cross-validation based tests and multiple-comparison procedures, are useful when comparing damage detection pipelines or optimization heuristics ref [168], ref [169].",
+    "refNo": 168,
+    "title": "Approximate Statistical Tests for Comparing Supervised Classification Learning Algorithms"
+  },
+  {
+    "sentence": "Established statistical tools for classifier comparison and repeated-experiment analysis, such as cross-validation based tests and multiple-comparison procedures, are useful when comparing damage detection pipelines or optimization heuristics ref [168], ref [169].",
+    "refNo": 169,
+    "title": "A practical tutorial on the use of nonparametric statistical tests as a methodology for comparing evolutionary and swarm intelligence algorithms"
+  },
+  {
+    "sentence": "Recent methodological work in machine learning further cautions against over-interpreting average ranks or point estimates without paired statistical analysis and variance reporting ref [170], ref [171].",
+    "refNo": 170,
+    "title": "Deep Reinforcement Learning that Matters"
+  },
+  {
+    "sentence": "Recent methodological work in machine learning further cautions against over-interpreting average ranks or point estimates without paired statistical analysis and variance reporting ref [170], ref [171].",
+    "refNo": 171,
+    "title": "A Systematic Review of Reproducibility Research in Machine Learning"
+  },
+  {
+    "sentence": "When experimental data are scarce, bootstrap or resampling-based uncertainty quantification can still provide defensible confidence statements ref [172].",
+    "refNo": 172,
+    "title": "An Introduction to the Bootstrap"
+  },
+  {
+    "sentence": "Early bridge-focused studies established that optimal layouts can substantially improve modal identification and damage sensitivity compared with heuristic deployment, particularly when only a small number of channels is feasible ref [28], ref [173], ref [89].",
+    "refNo": 28,
+    "title": "Sensor Placement for On-Orbit Modal Identification and Correlation of Large Space Structures"
+  },
+  {
+    "sentence": "Early bridge-focused studies established that optimal layouts can substantially improve modal identification and damage sensitivity compared with heuristic deployment, particularly when only a small number of channels is feasible ref [28], ref [173], ref [89].",
+    "refNo": 173,
+    "title": "Placement of Sensors to Measure Structural Dynamic Response"
+  },
+  {
+    "sentence": "Early bridge-focused studies established that optimal layouts can substantially improve modal identification and damage sensitivity compared with heuristic deployment, particularly when only a small number of channels is feasible ref [28], ref [173], ref [89].",
+    "refNo": 89,
+    "title": "Optimal Sensor Placement for Model Identification Using System Realization Methods"
+  },
+  {
+    "sentence": "Ambient-vibration identification under traffic, wind, and temperature variations motivates robust formulations that seek sensor sets informative across multiple model realizations rather than for a single nominal finite-element model ref [38], ref [96].",
+    "refNo": 38,
+    "title": "Optimal Sensor Placement for Structural Health Monitoring: A Review"
+  },
+  {
+    "sentence": "Ambient-vibration identification under traffic, wind, and temperature variations motivates robust formulations that seek sensor sets informative across multiple model realizations rather than for a single nominal finite-element model ref [38], ref [96].",
+    "refNo": 96,
+    "title": "On optimum sensor placement for structural health monitoring"
+  },
+  {
+    "sentence": "This is especially important for long-span bridges and large buildings, where model reduction, accessibility of mounting locations, cable routing, and power supply constraints materially alter the admissible search space ref [7], ref [174].",
+    "refNo": 7,
+    "title": "Structural Health Monitoring of Civil Infrastructure Systems"
+  },
+  {
+    "sentence": "This is especially important for long-span bridges and large buildings, where model reduction, accessibility of mounting locations, cable routing, and power supply constraints materially alter the admissible search space ref [7], ref [174].",
+    "refNo": 174,
+    "title": "Recent advances in structural health monitoring and its application to cable-supported bridges"
+  },
+  {
+    "sentence": "Effective-independence and information-theoretic criteria developed for modal testing remain influential, but field deployments increasingly integrate wireless sensing, decentralized acquisition, and lifecycle considerations such as communication cost and battery usage ref [1], ref [36].",
+    "refNo": 1,
+    "title": "A review of structural health monitoring literature: 1996–2001"
+  },
+  {
+    "sentence": "Effective-independence and information-theoretic criteria developed for modal testing remain influential, but field deployments increasingly integrate wireless sensing, decentralized acquisition, and lifecycle considerations such as communication cost and battery usage ref [1], ref [36].",
+    "refNo": 36,
+    "title": "Wireless sensor networks for structural health monitoring"
+  },
+  {
+    "sentence": "Landmark full-scale implementations on structures such as the Tsing Ma Bridge and the Golden Gate Bridge illustrate this transition from purely identification-oriented placement toward network-aware SHM architectures intended for continuous operation ref [174], ref [175].",
+    "refNo": 174,
+    "title": "Recent advances in structural health monitoring and its application to cable-supported bridges"
+  },
+  {
+    "sentence": "Landmark full-scale implementations on structures such as the Tsing Ma Bridge and the Golden Gate Bridge illustrate this transition from purely identification-oriented placement toward network-aware SHM architectures intended for continuous operation ref [174], ref [175].",
+    "refNo": 175,
+    "title": "Structural health monitoring of the suspension span of the Golden Gate Bridge"
+  },
+  {
+    "sentence": "Early work established effective-independence and related Fisher-information criteria for selecting accelerometer locations that preserve target mode shapes in flexible airframes and space structures ref [176], ref [28].",
+    "refNo": 176,
+    "title": "On the Use of Guyan Reduction in Dynamic Test Planning"
+  },
+  {
+    "sentence": "Early work established effective-independence and related Fisher-information criteria for selecting accelerometer locations that preserve target mode shapes in flexible airframes and space structures ref [176], ref [28].",
+    "refNo": 28,
+    "title": "Sensor Placement for On-Orbit Modal Identification and Correlation of Large Space Structures"
+  },
+  {
+    "sentence": "These ideas were generalized to robust formulations that account for model uncertainty and test-analysis correlation, which is crucial because aerospace structures often exhibit closely spaced modes, lightweight damping, and configuration-dependent boundary conditions ref [177], ref [178].",
+    "refNo": 177,
+    "title": "Optimal Sensor Placement for Modal Identification Using System-Realization Methods"
+  },
+  {
+    "sentence": "These ideas were generalized to robust formulations that account for model uncertainty and test-analysis correlation, which is crucial because aerospace structures often exhibit closely spaced modes, lightweight damping, and configuration-dependent boundary conditions ref [177], ref [178].",
+    "refNo": 178,
+    "title": "Optimal Sensor Placement for Structural Model Identification Using System Realization Methods"
+  },
+  {
+    "sentence": "For damage detection, optimization often targets sensitivity of measured responses to stiffness loss or delamination, using modal strain energy, residual flexibility, or Bayesian utility as placement criteria ref [162], ref [179].",
+    "refNo": 162,
+    "title": "A Review of Sensor Placement Studies for Structural Health Monitoring"
+  },
+  {
+    "sentence": "For damage detection, optimization often targets sensitivity of measured responses to stiffness loss or delamination, using modal strain energy, residual flexibility, or Bayesian utility as placement criteria ref [162], ref [179].",
+    "refNo": 179,
+    "title": "Optimal Sensor Placement Methodology for Structural Damage Detection"
+  },
+  {
+    "sentence": "In mechanical systems with active vibration control, placement of collocated or near-collocated sensor-actuator pairs further couples monitoring and control objectives, leading to criteria based on controllability-observability balancing rather than diagnosis alone ref [180].",
+    "refNo": 180,
+    "title": "Control/Structure Design of Flexible Space Structures"
+  },
+  {
+    "sentence": "Wireless approaches remain less dominant than in civil SHM because of electromagnetic, reliability, and maintenance constraints, although distributed sensing concepts such as guided-wave and dense piezoelectric networks have been explored for aircraft skin and composite panels ref [181], ref [139].",
+    "refNo": 181,
+    "title": "Piezoelectric Sensor Diagnostics for Structural Health Monitoring"
+  },
+  {
+    "sentence": "Wireless approaches remain less dominant than in civil SHM because of electromagnetic, reliability, and maintenance constraints, although distributed sensing concepts such as guided-wave and dense piezoelectric networks have been explored for aircraft skin and composite panels ref [181], ref [139].",
+    "refNo": 139,
+    "title": "Structural Health Monitoring Using Lamb-Wave Methods"
+  },
+  {
+    "sentence": "Consequently, aerospace and mechanical studies often serve as a proving ground for high-fidelity model-based optimization, while field-scale adoption depends on demonstrating robustness under realistic operational environments ref [182].",
+    "refNo": 182,
+    "title": "Structural Health Monitoring of Aerospace Composite Structures Using Fiber Optic Sensors"
+  },
+  {
+    "sentence": "Case studies on offshore wind support structures therefore often combine reduced-order structural models with information-based criteria or model-updating objectives rather than relying only on classical mode-shape coverage metrics [1], [2].",
+    "refNo": 1,
+    "title": "A review of structural health monitoring literature: 1996–2001"
+  },
+  {
+    "sentence": "Case studies on offshore wind support structures therefore often combine reduced-order structural models with information-based criteria or model-updating objectives rather than relying only on classical mode-shape coverage metrics [1], [2].",
+    "refNo": 2,
+    "title": "An Introduction to Structural Health Monitoring"
+  },
+  {
+    "sentence": "This has encouraged robust placement formulations that trade nominal identifiability against redundancy and fault tolerance, especially when monitoring is intended for long-term integrity management rather than short-term testing [3], [4].",
+    "refNo": 3,
+    "title": "A Review of Structural Health Monitoring with Applications to Aerospace Structures"
+  },
+  {
+    "sentence": "This has encouraged robust placement formulations that trade nominal identifiability against redundancy and fault tolerance, especially when monitoring is intended for long-term integrity management rather than short-term testing [3], [4].",
+    "refNo": 4,
+    "title": "Structural Health Monitoring: A Machine Learning Perspective"
+  },
+  {
+    "sentence": "A related pattern in oil, gas, and subsea systems is the integration of SHM with digital-twin or Bayesian updating workflows, where sensor locations are selected to reduce uncertainty in fatigue hot spots, joint dynamics, or mooring-line states instead of maximizing a purely geometric observability index [5], [6].",
+    "refNo": 5,
+    "title": "Feature Extraction for Damage Detection in Structures: A Review"
+  },
+  {
+    "sentence": "A related pattern in oil, gas, and subsea systems is the integration of SHM with digital-twin or Bayesian updating workflows, where sensor locations are selected to reduce uncertainty in fatigue hot spots, joint dynamics, or mooring-line states instead of maximizing a purely geometric observability index [5], [6].",
+    "refNo": 6,
+    "title": "Vibration-based structural health monitoring on bridges: review and case studies"
+  },
+  {
+    "sentence": "Across energy assets more broadly, recurring lessons are that transferable optimization ideas exist, but objective functions are domain-specific: wind-turbine blades emphasize strain and aeroelastic state reconstruction, offshore jackets emphasize global-local fatigue interaction, and pipelines or risers emphasize distributed sensing for leak, vibration, or free-span detection [7], [8], [9].",
+    "refNo": 7,
+    "title": "Structural Health Monitoring of Civil Infrastructure Systems"
+  },
+  {
+    "sentence": "Across energy assets more broadly, recurring lessons are that transferable optimization ideas exist, but objective functions are domain-specific: wind-turbine blades emphasize strain and aeroelastic state reconstruction, offshore jackets emphasize global-local fatigue interaction, and pipelines or risers emphasize distributed sensing for leak, vibration, or free-span detection [7], [8], [9].",
+    "refNo": 8,
+    "title": "On the Use of Outlier Analysis for the Diagnosis of Damage in a Laboratory Structure"
+  },
+  {
+    "sentence": "Across energy assets more broadly, recurring lessons are that transferable optimization ideas exist, but objective functions are domain-specific: wind-turbine blades emphasize strain and aeroelastic state reconstruction, offshore jackets emphasize global-local fatigue interaction, and pipelines or risers emphasize distributed sensing for leak, vibration, or free-span detection [7], [8], [9].",
+    "refNo": 9,
+    "title": "The Fundamental Axioms of Structural Health Monitoring"
+  },
+  {
+    "sentence": "Consequently, methods imported from civil infrastructure are most successful when augmented with environmental robustness, maintenance logistics, and lifecycle cost considerations [10].",
+    "refNo": 10,
+    "title": "Structural health monitoring system of Tsing Ma bridge"
+  },
+  {
+    "sentence": "Early SHM deployments demonstrated that low-power wireless sensing can support modal identification and event-based monitoring at meaningful scales, but also revealed practical penalties from packet loss, clock drift, and limited onboard computation [1], [2].",
+    "refNo": 1,
+    "title": "A review of structural health monitoring literature: 1996–2001"
+  },
+  {
+    "sentence": "Early SHM deployments demonstrated that low-power wireless sensing can support modal identification and event-based monitoring at meaningful scales, but also revealed practical penalties from packet loss, clock drift, and limited onboard computation [1], [2].",
+    "refNo": 2,
+    "title": "An Introduction to Structural Health Monitoring"
+  },
+  {
+    "sentence": "Middleware and embedded platforms such as Narada and subsequent cyber-physical implementations enabled in-network interrogation, damage feature extraction, and adaptive triggering, making dense deployments more feasible on large civil structures [3], [4].",
+    "refNo": 3,
+    "title": "A Review of Structural Health Monitoring with Applications to Aerospace Structures"
+  },
+  {
+    "sentence": "Middleware and embedded platforms such as Narada and subsequent cyber-physical implementations enabled in-network interrogation, damage feature extraction, and adaptive triggering, making dense deployments more feasible on large civil structures [3], [4].",
+    "refNo": 4,
+    "title": "Structural Health Monitoring: A Machine Learning Perspective"
+  },
+  {
+    "sentence": "These developments also encouraged optimization formulations that co-design sensing and communication layers, for example by balancing modal coverage against radio topology robustness or by selecting gateway locations jointly with sensor nodes [5], [6].",
+    "refNo": 5,
+    "title": "Feature Extraction for Damage Detection in Structures: A Review"
+  },
+  {
+    "sentence": "These developments also encouraged optimization formulations that co-design sensing and communication layers, for example by balancing modal coverage against radio topology robustness or by selecting gateway locations jointly with sensor nodes [5], [6].",
+    "refNo": 6,
+    "title": "Vibration-based structural health monitoring on bridges: review and case studies"
+  },
+  {
+    "sentence": "Reviews of wireless SHM consistently identify energy harvesting, compressed or decentralized inference, and probabilistic treatment of missing data as key enablers for field deployment [7], [8].",
+    "refNo": 7,
+    "title": "Structural Health Monitoring of Civil Infrastructure Systems"
+  },
+  {
+    "sentence": "Reviews of wireless SHM consistently identify energy harvesting, compressed or decentralized inference, and probabilistic treatment of missing data as key enablers for field deployment [7], [8].",
+    "refNo": 8,
+    "title": "On the Use of Outlier Analysis for the Diagnosis of Damage in a Laboratory Structure"
+  },
+  {
+    "sentence": "More broadly, the sensor-network literature provides mature optimization tools for coverage-connectivity tradeoffs and lifetime maximization that are increasingly being adapted to SHM-specific objectives [9].",
+    "refNo": 9,
+    "title": "The Fundamental Axioms of Structural Health Monitoring"
+  },
+  {
+    "sentence": "In laboratory studies, optimal sensor placement and related inverse methods are usually tested on well-instrumented benchmark structures with controlled excitation, high signal-to-noise ratio, and stable boundary conditions, such as the IASC-ASCE Phase II benchmark and the Z24 bridge data sets ref [154], ref [200].",
+    "refNo": 154,
+    "title": "Structural Health Monitoring Benchmark Problem using Simulated Data"
+  },
+  {
+    "sentence": "In laboratory studies, optimal sensor placement and related inverse methods are usually tested on well-instrumented benchmark structures with controlled excitation, high signal-to-noise ratio, and stable boundary conditions, such as the IASC-ASCE Phase II benchmark and the Z24 bridge data sets ref [154], ref [200].",
+    "refNo": 200,
+    "title": "One-Year Monitoring of the Z24-Bridge: Environmental Effects versus Damage Events"
+  },
+  {
+    "sentence": "Laboratory campaigns have therefore been essential for comparing effective independence, Fisher-information, and modal kinetic energy based formulations before moving to operational systems ref [201], ref [202].",
+    "refNo": 201,
+    "title": "On the use of Guyan reduction, system equivalent reduction expansion process, and effective independence methods for sensor placement"
+  },
+  {
+    "sentence": "Laboratory campaigns have therefore been essential for comparing effective independence, Fisher-information, and modal kinetic energy based formulations before moving to operational systems ref [201], ref [202].",
+    "refNo": 202,
+    "title": "Optimal sensor placement for structural model identification using System Realization Method"
+  },
+  {
+    "sentence": "Long-term bridge and building monitoring programs have shown that temperature, traffic, and aging can dominate modal changes, complicating optimization objectives that are straightforward in the laboratory ref [203], ref [204].",
+    "refNo": 203,
+    "title": "Vibration monitoring of civil infrastructure using wireless sensor networks"
+  },
+  {
+    "sentence": "Long-term bridge and building monitoring programs have shown that temperature, traffic, and aging can dominate modal changes, complicating optimization objectives that are straightforward in the laboratory ref [203], ref [204].",
+    "refNo": 204,
+    "title": "Structural health monitoring using statistical pattern recognition techniques"
+  },
+  {
+    "sentence": "Wireless implementations add further trade-offs between estimation accuracy, synchronization, power consumption, and packet loss, so placement strategies must often co-optimize sensing and networking rather than structural observability alone ref [205], ref [196].",
+    "refNo": 205,
+    "title": "Monitoring civil structures with a wireless sensor network"
+  },
+  {
+    "sentence": "Wireless implementations add further trade-offs between estimation accuracy, synchronization, power consumption, and packet loss, so placement strategies must often co-optimize sensing and networking rather than structural observability alone ref [205], ref [196].",
+    "refNo": 196,
+    "title": "Decentralized modal identification using wireless smart sensor networks"
+  },
+  {
+    "sentence": "Practical demonstrations on large bridges and operational aerospace structures suggest that optimization is most transferable when uncertainty, environmental compensation, and maintainability are built into the objective from the outset rather than treated as post-processing issues ref [203], ref [206], ref [207].",
+    "refNo": 203,
+    "title": "Vibration monitoring of civil infrastructure using wireless sensor networks"
+  },
+  {
+    "sentence": "Practical demonstrations on large bridges and operational aerospace structures suggest that optimization is most transferable when uncertainty, environmental compensation, and maintainability are built into the objective from the outset rather than treated as post-processing issues ref [203], ref [206], ref [207].",
+    "refNo": 206,
+    "title": "A Review of Structural Health Monitoring Literature: 1996-2001"
+  },
+  {
+    "sentence": "Practical demonstrations on large bridges and operational aerospace structures suggest that optimization is most transferable when uncertainty, environmental compensation, and maintainability are built into the objective from the outset rather than treated as post-processing issues ref [203], ref [206], ref [207].",
+    "refNo": 207,
+    "title": "Structural Health Monitoring in Aerospace Structures"
+  },
+  {
+    "sentence": "In civil infrastructure, the concept couples physics-based models, sensing streams, and state-estimation algorithms so that model parameters, boundary conditions, and damage indicators can be revised online rather than fixed a priori ref [208], ref [209].",
+    "refNo": 208,
+    "title": "Structural health monitoring and damage prognosis of engineering structures using digital twins: A review"
+  },
+  {
+    "sentence": "In civil infrastructure, the concept couples physics-based models, sensing streams, and state-estimation algorithms so that model parameters, boundary conditions, and damage indicators can be revised online rather than fixed a priori ref [208], ref [209].",
+    "refNo": 209,
+    "title": "Digital Twin: Mitigating Unpredictable, Undesirable Emergent Behavior in Complex Systems"
+  },
+  {
+    "sentence": "Recent work on cyber-physical and Bayesian digital twins emphasizes streaming data assimilation, probabilistic calibration, and recursive state estimation for operational decision support ref [210], ref [211].",
+    "refNo": 210,
+    "title": "A Survey of Digital Twin Technologies and Applications"
+  },
+  {
+    "sentence": "Recent work on cyber-physical and Bayesian digital twins emphasizes streaming data assimilation, probabilistic calibration, and recursive state estimation for operational decision support ref [210], ref [211].",
+    "refNo": 211,
+    "title": "Towards a digital twin: PhD perspective on model-based engineering and data-driven monitoring of structures"
+  },
+  {
+    "sentence": "For vibration-based SHM, sequential Monte Carlo, Kalman filtering, and surrogate-assisted updating have demonstrated how latent structural states can be tracked under nonstationary environments, but scaling these methods to large finite-element models remains challenging ref [212], ref [213].",
+    "refNo": 212,
+    "title": "Bayesian model updating and robust predictions of hysteretic structural response"
+  },
+  {
+    "sentence": "For vibration-based SHM, sequential Monte Carlo, Kalman filtering, and surrogate-assisted updating have demonstrated how latent structural states can be tracked under nonstationary environments, but scaling these methods to large finite-element models remains challenging ref [212], ref [213].",
+    "refNo": 213,
+    "title": "A review on structural health monitoring using digital twin technology"
+  },
+  {
+    "sentence": "Digital twins must remain reliable under sensor faults, model-form mismatch, and sparse observations, while still supporting timely adaptation of sensor duty cycles, mobile sensing trajectories, or reconfiguration of wireless networks ref [214], ref [74].",
+    "refNo": 214,
+    "title": "Wireless sensor networks for structural health monitoring: A multi-scale approach"
+  },
+  {
+    "sentence": "Digital twins must remain reliable under sensor faults, model-form mismatch, and sparse observations, while still supporting timely adaptation of sensor duty cycles, mobile sensing trajectories, or reconfiguration of wireless networks ref [214], ref [74].",
+    "refNo": 74,
+    "title": "Mobile sensor networks for structural health monitoring: A review"
+  },
+  {
+    "sentence": "Future progress will likely depend on integrating semantic information models with operational SHM pipelines and on linking twin uncertainty directly to control and maintenance actions, as envisioned in broader digital-twin frameworks for the built environment ref [209], ref [215].",
+    "refNo": 209,
+    "title": "Digital Twin: Mitigating Unpredictable, Undesirable Emergent Behavior in Complex Systems"
+  },
+  {
+    "sentence": "Future progress will likely depend on integrating semantic information models with operational SHM pipelines and on linking twin uncertainty directly to control and maintenance actions, as envisioned in broader digital-twin frameworks for the built environment ref [209], ref [215].",
+    "refNo": 215,
+    "title": "Digital Twin for the Built Environment: Recent Developments and Future Directions"
+  },
+  {
+    "sentence": "For inverse problems relevant to SHM, such integration is especially attractive because it enables damage-sensitive estimation from incomplete and noisy measurements while reducing dependence on exhaustive labeled datasets [3].",
+    "refNo": 3,
+    "title": "A Review of Structural Health Monitoring with Applications to Aerospace Structures"
+  },
+  {
+    "sentence": "Data-centric methods such as Gaussian-process latent force models provide one principled mechanism for injecting mechanistic priors into stochastic learning [4], while Bayesian model updating remains a mature route for reconciling measured and simulated response under uncertainty [5].",
+    "refNo": 4,
+    "title": "Structural Health Monitoring: A Machine Learning Perspective"
+  },
+  {
+    "sentence": "Data-centric methods such as Gaussian-process latent force models provide one principled mechanism for injecting mechanistic priors into stochastic learning [4], while Bayesian model updating remains a mature route for reconciling measured and simulated response under uncertainty [5].",
+    "refNo": 5,
+    "title": "Feature Extraction for Damage Detection in Structures: A Review"
+  },
+  {
+    "sentence": "These directions are closely aligned with digital twin concepts, where continuously updated physics surrogates and streaming data support online state estimation and prognosis [8].",
+    "refNo": 8,
+    "title": "On the Use of Outlier Analysis for the Diagnosis of Damage in a Laboratory Structure"
+  },
+  {
+    "sentence": "Early information-theoretic and model-based formulations already exposed the combinatorial nature of large-network placement problems and the need for computationally efficient surrogates, sparse parameterizations, or decomposition strategies ref [225], ref [226].",
+    "refNo": 225,
+    "title": "On sensor placement for structural health monitoring"
+  },
+  {
+    "sentence": "Early information-theoretic and model-based formulations already exposed the combinatorial nature of large-network placement problems and the need for computationally efficient surrogates, sparse parameterizations, or decomposition strategies ref [225], ref [226].",
+    "refNo": 226,
+    "title": "A modal kinetic energy method for sensor placement in structural health monitoring"
+  },
+  {
+    "sentence": "Proper orthogonal decomposition and Krylov/substructuring ideas can compress high-fidelity dynamics while preserving damage-sensitive features, enabling repeated optimization or Bayesian updating on reduced spaces ref [227], ref [228].",
+    "refNo": 227,
+    "title": "Model reduction and approximation: theory and algorithms"
+  },
+  {
+    "sentence": "Proper orthogonal decomposition and Krylov/substructuring ideas can compress high-fidelity dynamics while preserving damage-sensitive features, enabling repeated optimization or Bayesian updating on reduced spaces ref [227], ref [228].",
+    "refNo": 228,
+    "title": "Domain decomposition methods—algorithms and theory"
+  },
+  {
+    "sentence": "On the placement side, convex relaxation and greedy algorithms with performance guarantees offer tractable alternatives to exhaustive search for large sensor candidate sets, particularly when the objective is tied to observability, estimation error covariance, or submodular information gain ref [229], ref [53].",
+    "refNo": 229,
+    "title": "Convex optimization of sensor selection problems"
+  },
+  {
+    "sentence": "On the placement side, convex relaxation and greedy algorithms with performance guarantees offer tractable alternatives to exhaustive search for large sensor candidate sets, particularly when the objective is tied to observability, estimation error covariance, or submodular information gain ref [229], ref [53].",
+    "refNo": 53,
+    "title": "Near-optimal sensor placements in Gaussian processes: Theory, efficient algorithms and empirical studies"
+  },
+  {
+    "sentence": "Wireless sensor network studies further show that scalability must be treated jointly with communication cost, synchronization, and decentralized inference rather than sensing performance alone ref [36].",
+    "refNo": 36,
+    "title": "Wireless sensor networks for structural health monitoring"
+  },
+  {
+    "sentence": "Recent graph neural network approaches for structural response modeling suggest a route to transferable surrogates across topologies and scales ref [230], while digital-twin frameworks for operational infrastructure highlight the need for continual model updating under streaming data and limited computational budgets ref [231].",
+    "refNo": 230,
+    "title": "Structure-informed graph networks for nonlinear structural response prediction"
+  },
+  {
+    "sentence": "Recent graph neural network approaches for structural response modeling suggest a route to transferable surrogates across topologies and scales ref [230], while digital-twin frameworks for operational infrastructure highlight the need for continual model updating under streaming data and limited computational budgets ref [231].",
+    "refNo": 231,
+    "title": "Digital twins for civil engineering systems"
+  },
+  {
+    "sentence": "Reliability-aware design therefore requires explicit uncertainty quantification (UQ) in both forward prediction and inverse identification, building on probabilistic model classes and Bayesian inference for structural dynamics and damage assessment ref [133], ref [232].",
+    "refNo": 133,
+    "title": "Bayesian Probabilistic Approach for Structural Health Monitoring"
+  },
+  {
+    "sentence": "Reliability-aware design therefore requires explicit uncertainty quantification (UQ) in both forward prediction and inverse identification, building on probabilistic model classes and Bayesian inference for structural dynamics and damage assessment ref [133], ref [232].",
+    "refNo": 232,
+    "title": "Damage identification in structures using Bayesian model class selection and parameter estimation"
+  },
+  {
+    "sentence": "In this setting, optimal sensor placement should be judged not only by nominal information gain, but also by its ability to reduce posterior uncertainty in damage-sensitive parameters and maintain acceptable probability of detection under uncertain conditions ref [233], ref [234].",
+    "refNo": 233,
+    "title": "A review of Bayesian methods for structural system identification and damage diagnosis"
+  },
+  {
+    "sentence": "In this setting, optimal sensor placement should be judged not only by nominal information gain, but also by its ability to reduce posterior uncertainty in damage-sensitive parameters and maintain acceptable probability of detection under uncertain conditions ref [233], ref [234].",
+    "refNo": 234,
+    "title": "Optimal sensor placement for model selection in structural dynamics"
+  },
+  {
+    "sentence": "Information-theoretic criteria such as expected utility and entropy reduction provide a principled route for selecting sensor layouts under uncertainty ref [57], while Bayesian finite-element updating offers a framework for propagating uncertainty from model class and data to posterior structural parameters ref [235].",
+    "refNo": 57,
+    "title": "Bayesian experimental design: A review"
+  },
+  {
+    "sentence": "Information-theoretic criteria such as expected utility and entropy reduction provide a principled route for selecting sensor layouts under uncertainty ref [57], while Bayesian finite-element updating offers a framework for propagating uncertainty from model class and data to posterior structural parameters ref [235].",
+    "refNo": 235,
+    "title": "Bayesian finite element model updating of civil engineering structures"
+  },
+  {
+    "sentence": "For damage diagnosis, probabilistic formulations based on Gaussian-process surrogates and hierarchical Bayesian learning can substantially reduce computational burden while preserving uncertainty estimates, which is crucial for large-scale infrastructure applications ref [236], ref [237].",
+    "refNo": 236,
+    "title": "Gaussian process models for structural health monitoring"
+  },
+  {
+    "sentence": "For damage diagnosis, probabilistic formulations based on Gaussian-process surrogates and hierarchical Bayesian learning can substantially reduce computational burden while preserving uncertainty estimates, which is crucial for large-scale infrastructure applications ref [236], ref [237].",
+    "refNo": 237,
+    "title": "Hierarchical Bayesian models for structural health monitoring and damage assessment"
+  },
+  {
+    "sentence": "Future research should couple reliability methods such as subset simulation and rare-event estimation with SHM decision pipelines ref [238], and embed robust or reliability-based optimization directly into sensor placement and monitoring policy design.",
+    "refNo": 238,
+    "title": "Subset Simulation Method for Rare Event Estimation: An Introduction"
+  },
+  {
+    "sentence": "Community use of shared experimental baselines such as the IASC-ASCE benchmark structure and large civil infrastructure monitoring programs has shown the value of common testbeds for comparing identification, damage detection, and feature-selection methods under realistic environmental and operational variability ref [239], ref [240], ref [156].",
+    "refNo": 239,
+    "title": "Benchmark Problems in Structural Health Monitoring"
+  },
+  {
+    "sentence": "Community use of shared experimental baselines such as the IASC-ASCE benchmark structure and large civil infrastructure monitoring programs has shown the value of common testbeds for comparing identification, damage detection, and feature-selection methods under realistic environmental and operational variability ref [239], ref [240], ref [156].",
+    "refNo": 240,
+    "title": "A benchmark problem for structural health monitoring and damage detection of high-rise buildings"
+  },
+  {
+    "sentence": "Community use of shared experimental baselines such as the IASC-ASCE benchmark structure and large civil infrastructure monitoring programs has shown the value of common testbeds for comparing identification, damage detection, and feature-selection methods under realistic environmental and operational variability ref [239], ref [240], ref [156].",
+    "refNo": 156,
+    "title": "Structural health monitoring using statistical pattern recognition on the Alamosa Canyon Bridge"
+  },
+  {
+    "sentence": "Existing public datasets from long-term bridge and building monitoring, including the Z24 Bridge, the Alamosa Canyon Bridge, and the Tianjin Yonghe Bridge, provide important precedents because they capture temperature, traffic, and long-duration operational effects that challenge idealized placement and inference methods ref [241], ref [242], ref [243].",
+    "refNo": 241,
+    "title": "Long-term monitoring of the Z24-Bridge: environmental effects versus damage events"
+  },
+  {
+    "sentence": "Existing public datasets from long-term bridge and building monitoring, including the Z24 Bridge, the Alamosa Canyon Bridge, and the Tianjin Yonghe Bridge, provide important precedents because they capture temperature, traffic, and long-duration operational effects that challenge idealized placement and inference methods ref [241], ref [242], ref [243].",
+    "refNo": 242,
+    "title": "Structural health monitoring benchmark studies on the IASC-ASCE phase II simulated SHM problem"
+  },
+  {
+    "sentence": "Existing public datasets from long-term bridge and building monitoring, including the Z24 Bridge, the Alamosa Canyon Bridge, and the Tianjin Yonghe Bridge, provide important precedents because they capture temperature, traffic, and long-duration operational effects that challenge idealized placement and inference methods ref [241], ref [242], ref [243].",
+    "refNo": 243,
+    "title": "Structural health monitoring of Tianjin Yonghe Bridge using embedded FBG sensor array"
+  },
+  {
+    "sentence": "Likewise, the Los Alamos National Laboratory studies on data normalization and damage-sensitive feature validation underscore the need for benchmark protocols that separate environmental compensation from true damage inference ref [244], ref [245].",
+    "refNo": 244,
+    "title": "A statistical pattern-recognition paradigm for vibration-based structural health monitoring"
+  },
+  {
+    "sentence": "Likewise, the Los Alamos National Laboratory studies on data normalization and damage-sensitive feature validation underscore the need for benchmark protocols that separate environmental compensation from true damage inference ref [244], ref [245].",
+    "refNo": 245,
+    "title": "Damage-sensitive features are local to structural configurations"
+  },
+  {
+    "sentence": "Shared simulation environments, such as the benchmark studies for statistical pattern recognition and vibration-based damage identification, can complement field data when used with clearly documented assumptions and domain-shift tests ref [239], ref [244], ref [246].",
+    "refNo": 239,
+    "title": "Benchmark Problems in Structural Health Monitoring"
+  },
+  {
+    "sentence": "Shared simulation environments, such as the benchmark studies for statistical pattern recognition and vibration-based damage identification, can complement field data when used with clearly documented assumptions and domain-shift tests ref [239], ref [244], ref [246].",
+    "refNo": 244,
+    "title": "A statistical pattern-recognition paradigm for vibration-based structural health monitoring"
+  },
+  {
+    "sentence": "Shared simulation environments, such as the benchmark studies for statistical pattern recognition and vibration-based damage identification, can complement field data when used with clearly documented assumptions and domain-shift tests ref [239], ref [244], ref [246].",
+    "refNo": 246,
+    "title": "Vibration-based damage identification: a benchmark study"
+  },
+  {
+    "sentence": "Progress toward community-wide repositories and objective comparison standards will be essential for translating promising optimization methods into reliable, generalizable SHM practice ref [247].",
+    "refNo": 247,
+    "title": "Structural health monitoring benchmark studies on the western span of the San Francisco–Oakland Bay Bridge"
+  },
+  {
+    "sentence": "Early visions of smart sensor networks emphasized decentralized decision making, embedded processing, and adaptive coordination, thereby laying the groundwork for self-organizing monitoring architectures suitable for resource-constrained civil infrastructure ref [248], ref [142].",
+    "refNo": 248,
+    "title": "Wireless Integrated Network Sensors for Monitoring Infrastructures"
+  },
+  {
+    "sentence": "Early visions of smart sensor networks emphasized decentralized decision making, embedded processing, and adaptive coordination, thereby laying the groundwork for self-organizing monitoring architectures suitable for resource-constrained civil infrastructure ref [248], ref [142].",
+    "refNo": 142,
+    "title": "Decentralized Structural Health Monitoring Using Smart Sensors"
+  },
+  {
+    "sentence": "More recent cyber-physical perspectives further argue that autonomy in SHM requires tight coupling among sensing, communication, model updating, and actuation rather than isolated advances in damage detection algorithms ref [249].",
+    "refNo": 249,
+    "title": "Cyber-Physical Systems for Civil Infrastructure Monitoring"
+  },
+  {
+    "sentence": "Reinforcement learning has already shown promise for optimal sensor scheduling in wireless sensor networks and for adaptive control under uncertainty, offering a natural paradigm for sequential monitoring decisions with energy, bandwidth, and risk constraints ref [250], ref [251].",
+    "refNo": 250,
+    "title": "A Survey of Reinforcement Learning and Its Applications to Adaptive User Interfaces"
+  },
+  {
+    "sentence": "Reinforcement learning has already shown promise for optimal sensor scheduling in wireless sensor networks and for adaptive control under uncertainty, offering a natural paradigm for sequential monitoring decisions with energy, bandwidth, and risk constraints ref [250], ref [251].",
+    "refNo": 251,
+    "title": "Reinforcement Learning for Adaptive Routing in Wireless Sensor Networks"
+  },
+  {
+    "sentence": "In parallel, active perception and informative path planning in robotics provide algorithmic templates for mobile or reconfigurable sensing platforms that seek measurements maximizing information gain while respecting operational constraints ref [252], ref [253].",
+    "refNo": 252,
+    "title": "Information-Theoretic Approaches to Sensor Management"
+  },
+  {
+    "sentence": "In parallel, active perception and informative path planning in robotics provide algorithmic templates for mobile or reconfigurable sensing platforms that seek measurements maximizing information gain while respecting operational constraints ref [252], ref [253].",
+    "refNo": 253,
+    "title": "Algorithms for Informative Path Planning"
+  },
+  {
+    "sentence": "Recent work on safe reinforcement learning and trustworthy autonomy highlights the need to embed constraints, uncertainty awareness, and human oversight directly into autonomous decision loops ref [254], ref [255].",
+    "refNo": 254,
+    "title": "Safe Reinforcement Learning: A Survey"
+  },
+  {
+    "sentence": "Recent work on safe reinforcement learning and trustworthy autonomy highlights the need to embed constraints, uncertainty awareness, and human oversight directly into autonomous decision loops ref [254], ref [255].",
+    "refNo": 255,
+    "title": "Engineering Trustworthy Self-Adaptive Software with Dynamic Assurance Cases"
+  }
+]

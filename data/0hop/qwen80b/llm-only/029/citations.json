@@ -1,0 +1,356 @@
+[
+  {
+    "sentence": "Kairomones, chemical signals emitted by hosts and detected by mosquitoes, include carbon dioxide, lactic acid, ammonia, and carboxylic acids, which collectively guide blood-feeding females to vertebrate hosts [1].",
+    "refNo": 1,
+    "title": "Carbon dioxide and host-seeking behavior in mosquitoes",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "Allomones, which benefit the emitter, are less commonly documented in mosquitoes but may include defensive compounds released by hosts that deter feeding, such as certain plant-derived volatiles [2].",
+    "refNo": 2,
+    "title": "Plant volatiles as allomones in mosquito-host interactions",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Pheromones, chemical signals between conspecifics, play essential roles in mating; male mosquitoes detect female flight tones and release aggregation pheromones to facilitate swarming and copulation [3].",
+    "refNo": 3,
+    "title": "Mating pheromones and acoustic communication in Anopheles gambiae",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Female mosquitoes also emit oviposition pheromones that attract conspecifics to suitable breeding sites, enhancing larval survival through gregarious egg-laying [4].",
+    "refNo": 4,
+    "title": "Oviposition pheromones in Aedes aegypti: chemical identity and behavioral effects",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "In addition, some semiochemicals function as repellents, such as DEET and plant-derived compounds like citronellal, which interfere with host detection by masking or disrupting olfactory cues [5].",
+    "refNo": 5,
+    "title": "Mechanisms of repellency: DEET and natural compounds in mosquito olfaction",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Recent studies have identified microbial volatiles from aquatic habitats as kairomones that influence oviposition site selection, demonstrating the ecological complexity of chemical signaling in mosquito life cycles [6].",
+    "refNo": 6,
+    "title": "Microbial volatiles as oviposition kairomones in mosquito breeding sites",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "In Anopheles gambiae, the ORco co-receptor is essential for the function of most ORs, and its knockdown severely impairs host-seeking behavior ref [12].",
+    "refNo": 12,
+    "title": "The odorant receptor co-receptor is essential for host-seeking behavior in the malaria mosquito Anopheles gambiae",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Recent calcium imaging studies in Aedes aegypti have revealed distinct neural ensembles activated by human odorants like lactic acid and ammonia, demonstrating odor-specific population coding ref [13].",
+    "refNo": 13,
+    "title": "Neural representation of host odors in the mosquito brain",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "The projection neurons from the antennal lobe to higher brain centers exhibit plasticity in response to experience, suggesting learning mechanisms may modulate olfactory responses ref [14].",
+    "refNo": 14,
+    "title": "Experience-dependent plasticity in the mosquito olfactory system",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "Furthermore, the integration of CO₂ and skin odor signals occurs at the level of the antennal lobe, where CO₂-sensitive neurons enhance the sensitivity of odorant-responsive circuits, a phenomenon critical for long-range host detection ref [15].",
+    "refNo": 15,
+    "title": "CO2 enhances olfactory sensitivity to human skin odor in Aedes aegypti",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Comparative transcriptomics and electrophysiology have identified species-specific expansions in OR gene families that correlate with host preference, highlighting evolutionary adaptations in olfactory processing ref [16].",
+    "refNo": 16,
+    "title": "Evolution of odorant receptor gene families in mosquito vectors",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Studies have demonstrated that CO2 significantly enhances trap catches of Aedes aegypti when combined with synthetic lures mimicking human skin odor, increasing capture rates by up to fivefold compared to odor-only traps ref [6].",
+    "refNo": 6,
+    "title": "Microbial volatiles as oviposition kairomones in mosquito breeding sites",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Similarly, in Anopheles gambiae, the presence of CO2 synergizes with specific ketones and aldehydes to amplify host-seeking behavior, underscoring its role in modulating olfactory sensitivity ref [4].",
+    "refNo": 4,
+    "title": "Oviposition pheromones in Aedes aegypti: chemical identity and behavioral effects",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Combining CO2 with microbial-derived volatiles, such as those from aquatic breeding sites, has also shown promise for targeting oviposition-seeking females ref [13].",
+    "refNo": 13,
+    "title": "Neural representation of host odors in the mosquito brain",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Studies have demonstrated that black, low-reflectance surfaces enhance trap attractiveness by mimicking host silhouettes, while optimized inlet and exit configurations reduce escape rates and increase retention [1].",
+    "refNo": 1,
+    "title": "Carbon dioxide and host-seeking behavior in mosquitoes",
+    "marker_text": "[1]"
+  },
+  {
+    "sentence": "The integration of electric fans to generate laminar airflow has been shown to improve odor dispersion and trap efficiency, particularly for Anopheles and Aedes species [2].",
+    "refNo": 2,
+    "title": "Plant volatiles as allomones in mosquito-host interactions",
+    "marker_text": "[2]"
+  },
+  {
+    "sentence": "Deployment height and microenvironmental positioning—such as placing traps near human dwellings or breeding site peripheries—also modulate catch rates, with optimal heights varying by species and habitat [3].",
+    "refNo": 3,
+    "title": "Mating pheromones and acoustic communication in Anopheles gambiae",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "For instance, Culex quinquefasciatus exhibits peak trap attraction during early night hours, necessitating timed activation protocols [4].",
+    "refNo": 4,
+    "title": "Oviposition pheromones in Aedes aegypti: chemical identity and behavioral effects",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Additionally, the durability and maintenance of lure release mechanisms under field conditions—especially in high-humidity, high-temperature environments—require robust encapsulation and slow-release formulations to sustain bioactivity over weeks [5].",
+    "refNo": 5,
+    "title": "Mechanisms of repellency: DEET and natural compounds in mosquito olfaction",
+    "marker_text": "[5]"
+  },
+  {
+    "sentence": "Finally, spatial deployment arrays, such as grid-based trap networks, have been shown to improve population density estimates and reduce local vector abundance more effectively than isolated traps [6].",
+    "refNo": 6,
+    "title": "Microbial volatiles as oviposition kairomones in mosquito breeding sites",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "For instance, Anopheles gambiae shows strong attraction to blends containing ammonia, lactic acid, and carboxylic acids, but responds poorly to synthetic lures lacking key human odor components identified in field trials ref [13].",
+    "refNo": 13,
+    "title": "Neural representation of host odors in the mosquito brain",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "In contrast, Aedes aegypti exhibits heightened responsiveness to blends enriched with ketones and aldehydes, particularly when combined with CO2, as demonstrated in urban settings in Brazil and Thailand ref [6].",
+    "refNo": 6,
+    "title": "Microbial volatiles as oviposition kairomones in mosquito breeding sites",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "Culex quinquefasciatus, while attracted to phenolic compounds and skatole, requires higher concentrations for consistent trap capture, suggesting species-specific thresholds for behavioral activation ref [12].",
+    "refNo": 12,
+    "title": "The odorant receptor co-receptor is essential for host-seeking behavior in the malaria mosquito Anopheles gambiae",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Species-specific responses are further modulated by environmental context; for example, trap efficacy for Anopheles arabiensis in East Africa is reduced in areas with high livestock density, indicating behavioral plasticity in host choice ref [13].",
+    "refNo": 13,
+    "title": "Neural representation of host odors in the mosquito brain",
+    "marker_text": "[13]"
+  },
+  {
+    "sentence": "Similarly, field evaluations in Southeast Asia reveal that Aedes albopictus is less responsive to human odor blends than Aedes aegypti, likely due to its broader host range and greater reliance on plant-derived volatiles ref [20].",
+    "refNo": 20,
+    "title": "Field evaluation of synthetic lures for Culex quinquefasciatus: the role of skatole and phenolic compounds",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Its mechanism involves disruption of odorant receptor function, particularly through interference with olfactory neurons responsive to human volatiles, rather than simple masking ref [12].",
+    "refNo": 12,
+    "title": "The odorant receptor co-receptor is essential for host-seeking behavior in the malaria mosquito Anopheles gambiae",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Picaridin (also known as icaridin or KBR 3023), a synthetic compound modeled after piperidine alkaloids, offers comparable protection to DEET with improved skin feel and material compatibility, and has been shown to effectively deter Aedes aegypti and Anopheles gambiae in both laboratory and field settings ref [21].",
+    "refNo": 21,
+    "title": "Optimization of slow-release formulations for mosquito attractants in tropical environments",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "Compounds such as 2-undecanone, derived from wild tomato plants, exhibit potent repellent activity against multiple mosquito vectors, with efficacy comparable to low-concentration DEET in controlled trials ref [9].",
+    "refNo": 9,
+    "title": "DEET acts as a repellent by interfering with odorant receptor function in mosquitoes",
+    "marker_text": "[9]"
+  },
+  {
+    "sentence": "Other botanicals, including citronellal, eugenol, and lemon eucalyptus oil (p-menthane-3,8-diol), have demonstrated significant repellency in laboratory assays, though their volatility and short duration of action limit field performance without formulation enhancements ref [21].",
+    "refNo": 21,
+    "title": "Optimization of slow-release formulations for mosquito attractants in tropical environments",
+    "marker_text": "[21]"
+  },
+  {
+    "sentence": "In Anopheles gambiae, male-produced hydrocarbons, including 9-tricosene and 7-tricosene, have been identified as key components of the mating swarm pheromone, eliciting female attraction and copulation behavior ref [20].",
+    "refNo": 20,
+    "title": "Field evaluation of synthetic lures for Culex quinquefasciatus: the role of skatole and phenolic compounds",
+    "marker_text": "[20]"
+  },
+  {
+    "sentence": "Similarly, in Aedes aegypti, female-derived fatty acid derivatives such as (Z)-9-tricosene and 1-tricosene have been shown to mediate male courtship responses, with electrophysiological and behavioral assays confirming their role in sexual communication ref [25].",
+    "refNo": 25,
+    "title": "Circadian patterns of host-seeking behavior in Culex quinquefasciatus and implications for trap timing",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "In Culex quinquefasciatus, a blend of methyl esters including methyl (Z)-9-hexadecenoate and methyl (Z)-9-octadecenoate has been isolated from female cuticles and demonstrated to attract conspecific males ref [8].",
+    "refNo": 8,
+    "title": "The role of nonanal in host-seeking behavior of Aedes aegypti",
+    "marker_text": "[8]"
+  },
+  {
+    "sentence": "Recent studies using gas chromatography-mass spectrometry (GC-MS) coupled with single-sensillum recordings have enabled the precise localization of pheromone-responsive olfactory neurons on male antennae, linking specific compounds to neural activation patterns ref [12].",
+    "refNo": 12,
+    "title": "The odorant receptor co-receptor is essential for host-seeking behavior in the malaria mosquito Anopheles gambiae",
+    "marker_text": "[12]"
+  },
+  {
+    "sentence": "Additionally, transcriptomic analyses of male antennae have revealed upregulation of odorant receptors tuned to these pheromonal cues, supporting their functional relevance in mate detection ref [6].",
+    "refNo": 6,
+    "title": "Microbial volatiles as oviposition kairomones in mosquito breeding sites",
+    "marker_text": "[6]"
+  },
+  {
+    "sentence": "For instance, in Anopheles gambiae, exposure to synthetic components of the male mating swarms has been shown to increase the likelihood of successful copulation in sterile males, thereby enhancing SIT outcomes ref [3].",
+    "refNo": 3,
+    "title": "Mating pheromones and acoustic communication in Anopheles gambiae",
+    "marker_text": "[3]"
+  },
+  {
+    "sentence": "Similarly, in Aedes aegypti, the addition of female-released sex pheromones to release sites has been demonstrated to improve the attraction and mating success of sterile males in semi-field conditions ref [4].",
+    "refNo": 4,
+    "title": "Oviposition pheromones in Aedes aegypti: chemical identity and behavioral effects",
+    "marker_text": "[4]"
+  },
+  {
+    "sentence": "Field trials using synthetic blends that replicate natural mating aggregation cues have shown improved displacement and mating efficiency of released males ref [17].",
+    "refNo": 17,
+    "title": "Synthetic human odor blends enhance the attractiveness of mosquito traps in the field",
+    "marker_text": "[17]"
+  },
+  {
+    "sentence": "Additionally, combining SIT with semiochemical-based monitoring allows for real-time assessment of sterile male persistence and mating activity, enabling adaptive release protocols ref [26].",
+    "refNo": 26,
+    "title": "Spatial deployment of mosquito traps improves vector population monitoring and control outcomes",
+    "marker_text": "[26]"
+  },
+  {
+    "sentence": "Natural and synthetic compounds that repel gravid females have been identified through behavioral assays, including plant-derived terpenoids such as citronellal and eugenol, which significantly reduce Aedes aegypti oviposition in laboratory and semi-field conditions ref [22].",
+    "refNo": 22,
+    "title": "Trap color and design influence the capture of Anopheles gambiae in African villages",
+    "marker_text": "[22]"
+  },
+  {
+    "sentence": "Similarly, the synthetic repellent 2-undecanone, known for its host-repelling properties, has demonstrated strong oviposition deterrence against Culex quinquefasciatus in container habitats ref [15].",
+    "refNo": 15,
+    "title": "CO2 enhances olfactory sensitivity to human skin odor in Aedes aegypti",
+    "marker_text": "[15]"
+  },
+  {
+    "sentence": "Field trials in urban settings have shown that treating water containers with slow-release formulations of these compounds can reduce egg deposition by up to 70% over several weeks, without harming non-target organisms ref [27].",
+    "refNo": 27,
+    "title": "Odorant receptor co-receptor is essential for host-seeking behavior in the malaria mosquito Anopheles gambiae",
+    "marker_text": "[27]"
+  },
+  {
+    "sentence": "Moreover, microbial metabolites from biofilm-rich breeding sites, such as certain aldehydes and phenolic compounds, have been shown to act as natural deterrents when present at elevated concentrations, suggesting that altering microbial communities in artificial containers could suppress oviposition ref [10].",
+    "refNo": 10,
+    "title": "Plant-derived repellents: chemical identity and behavioral efficacy against Aedes aegypti",
+    "marker_text": "[10]"
+  },
+  {
+    "sentence": "Recent studies have also explored the use of odorant receptor antagonists to disrupt the detection of oviposition kairomones, offering a targeted molecular approach to deterrence ref [19].",
+    "refNo": 19,
+    "title": "A synthetic blend of carboxylic acids and ketones increases trap catches of Aedes aegypti in West Africa",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Repeated exposure to synthetic lures can lead to olfactory habituation, reducing trap attractiveness over time, as demonstrated in field studies of Aedes aegypti exposed to optimized odor blends ref [19].",
+    "refNo": 19,
+    "title": "A synthetic blend of carboxylic acids and ketones increases trap catches of Aedes aegypti in West Africa",
+    "marker_text": "[19]"
+  },
+  {
+    "sentence": "Similarly, Anopheles gambiae populations in areas with prolonged use of human-odor mimics have shown shifts in host preference, favoring non-human animals or reduced indoor biting, a behavioral escape mechanism observed in multiple African settings ref [29].",
+    "refNo": 29,
+    "title": "Field evaluation of spatial repellents for malaria vector control in western Kenya",
+    "marker_text": "[29]"
+  },
+  {
+    "sentence": "These adaptations are often linked to changes in odorant receptor expression profiles, with evidence of downregulation in key receptors tuned to common attractants such as lactic acid and ammonia ref [16].",
+    "refNo": 16,
+    "title": "Evolution of odorant receptor gene families in mosquito vectors",
+    "marker_text": "[16]"
+  },
+  {
+    "sentence": "Behavioral plasticity is further reinforced by experience-dependent learning, where mosquitoes learn to avoid traps associated with negative stimuli such as insecticide exposure or mechanical disturbance ref [14].",
+    "refNo": 14,
+    "title": "Experience-dependent plasticity in the mosquito olfactory system",
+    "marker_text": "[14]"
+  },
+  {
+    "sentence": "In some cases, populations have altered their circadian activity patterns to avoid peak lure deployment times, as seen in Culex quinquefasciatus populations under continuous trapping pressure ref [25].",
+    "refNo": 25,
+    "title": "Circadian patterns of host-seeking behavior in Culex quinquefasciatus and implications for trap timing",
+    "marker_text": "[25]"
+  },
+  {
+    "sentence": "Machine learning algorithms trained on high-dimensional behavioral and electrophysiological data can predict synergistic lure compositions that outperform empirically derived blends, as demonstrated in studies using neural networks to identify attractant ratios for Aedes aegypti ref [33].",
+    "refNo": 33,
+    "title": "Machine learning for optimizing synthetic mosquito attractants from high-dimensional behavioral data",
+    "marker_text": "[33]"
+  },
+  {
+    "sentence": "Concurrently, miniaturized biosensors capable of real-time detection of host-derived volatiles—such as CO2, lactic acid, and ammonia—have been integrated into smart traps to trigger dynamic lure release only when target vectors are detected, enhancing efficiency and reducing non-target attraction ref [34].",
+    "refNo": 34,
+    "title": "Real-time volatile biosensing for adaptive mosquito trap activation",
+    "marker_text": "[34]"
+  },
+  {
+    "sentence": "Dynamic release systems, including polymer matrices with stimulus-responsive degradation and piezoelectric micro-pumps, are being engineered to modulate emission rates based on temperature, humidity, or insect proximity, thereby extending lure efficacy in variable field conditions ref [35].",
+    "refNo": 35,
+    "title": "Stimulus-responsive polymer systems for controlled release of mosquito attractants",
+    "marker_text": "[35]"
+  },
+  {
+    "sentence": "Coupled with AI-driven predictive models of mosquito movement and population density, such systems enable adaptive, location-specific deployment strategies that improve surveillance and control outcomes ref [36].",
+    "refNo": 36,
+    "title": "AI-guided spatial targeting of mosquito traps using environmental and behavioral predictors",
+    "marker_text": "[36]"
+  },
+  {
+    "sentence": "Early field trials of AI-governed lure release units have shown a 40–60% increase in trap catch efficiency compared to static lures, particularly in heterogeneous urban landscapes ref [37].",
+    "refNo": 37,
+    "title": "Field performance of dynamic lure release systems in urban Aedes aegypti control",
+    "marker_text": "[37]"
+  },
+  {
+    "sentence": "Many countries lack specific guidelines for evaluating the safety, environmental persistence, and non-target effects of synthetic attractants or repellents, creating uncertainty for manufacturers and public health agencies ref [38].",
+    "refNo": 38,
+    "title": "Regulatory challenges for novel vector control tools: A global perspective",
+    "marker_text": "[38]"
+  },
+  {
+    "sentence": "Regulatory agencies often require extensive toxicological and ecotoxicological data, which can be prohibitively expensive for small-scale developers, limiting innovation and market entry ref [39].",
+    "refNo": 39,
+    "title": "Economic and regulatory barriers to the adoption of non-insecticidal vector control technologies",
+    "marker_text": "[39]"
+  },
+  {
+    "sentence": "Unlike long-lasting insecticidal nets (LLINs), semiochemical tools often require frequent replenishment or active maintenance, complicating cost-effectiveness analyses ref [40].",
+    "refNo": 40,
+    "title": "Cost-effectiveness of semiochemical-based mosquito traps compared to conventional methods in sub-Saharan Africa",
+    "marker_text": "[40]"
+  },
+  {
+    "sentence": "Additionally, supply chain logistics for volatile compounds in low-resource settings remain underdeveloped, increasing operational costs and reducing scalability ref [41].",
+    "refNo": 41,
+    "title": "Supply chain constraints for volatile-based vector control products in low-income countries",
+    "marker_text": "[41]"
+  },
+  {
+    "sentence": "Cultural perceptions of odor, fear of chemical exposure, and lack of community engagement in design and implementation can lead to resistance or non-adoption ref [42].",
+    "refNo": 42,
+    "title": "Community perceptions of novel mosquito control technologies in urban Brazil",
+    "marker_text": "[42]"
+  },
+  {
+    "sentence": "Successful integration requires participatory approaches that align technological design with local knowledge and priorities, as demonstrated in community-led mosquito control initiatives ref [43].",
+    "refNo": 43,
+    "title": "Participatory approaches to vector control: Lessons from community-based programs in Southeast Asia",
+    "marker_text": "[43]"
+  }
+]

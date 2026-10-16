@@ -12,13 +12,13 @@
 
 <p>
 <img src="https://img.shields.io/badge/EMNLP_2026-Oral-6D4BC3?style=flat-square" alt="EMNLP 2026 Oral">
-<a href="data/0hop"><img src="https://img.shields.io/badge/Dataset-73%2C586_citation_events-287B74?style=flat-square" alt="73,586 citation events from 450 unique surveys"></a>
-<a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache_2.0-476C9B?style=flat-square" alt="Apache 2.0 license"></a>
+<a href="data/CATALOG.md"><img src="https://img.shields.io/badge/Dataset-77%2C015_citation_events-287B74?style=flat-square" alt="77,015 reviewed citation events from 550 paper entries"></a>
+<a href="data/LICENSE.md"><img src="https://img.shields.io/badge/Annotations-CC_BY_4.0-476C9B?style=flat-square" alt="CiteSpectrum annotations: CC BY 4.0"></a>
 </p>
 
 <p>
 <b>Paper</b> &nbsp;·&nbsp;
-<a href="data/0hop"><b>Browse data</b></a> &nbsp;·&nbsp;
+<a href="data/CATALOG.md"><b>Browse papers</b></a> &nbsp;·&nbsp;
 <a href="https://github.com/DISL-Lab/CiteSpectrum/archive/refs/heads/main.zip"><b>Download</b></a> &nbsp;·&nbsp;
 <a href="#quick-start"><b>Quick start</b></a>
 </p>
@@ -54,7 +54,7 @@ Each step adds a different form of guidance. The source topic stays fixed, so pa
 | **Text-Guided** | Human-authored prose and reference pool; the model restores citations | [50 surveys](data/0hop/gpt54/text-guided) | [50 surveys](data/0hop/qwen80b/text-guided) |
 | **Human-Authored** | Original human-authored survey | [50 shared surveys](data/0hop/human-authored) | [50 shared surveys](data/0hop/human-authored) |
 
-The release contains **73,586 citation events from 450 unique surveys**, stored in **450 per-paper JSON files**. The **same 50 human surveys** serve as the baseline for both models and are stored once in `human-authored/`. Source IDs `001`–`050` pair the same topics across all conditions and models.
+The reviewed survey release contains **69,120 citation events from 450 survey entries**, stored as per-paper JSONL files with companion reference catalogs. The **same 50 human surveys** serve as the baseline for both models and are stored once in `human-authored/`. Source IDs `001`–`050` pair the same topics across all conditions and models.
 
 ## What citation behavior reveals
 
@@ -95,74 +95,50 @@ A lightweight **Citation-MLP** uses citation behavior to distinguish AI-involved
 | Llama-3.2-3B | 0.793 | 0.792 | 0.924 |
 | **Citation-MLP (Ours)** | **0.880** | **0.876** | **0.944** |
 
-Results are from Table 4 of the paper, using domain-balanced five-fold cross-validation on 350 AI-generated and 100 human-authored papers. This detection split combines survey and method papers; the release below contains the **0-hop survey subset**.
+Results are from Table 4 of the paper, using domain-balanced five-fold cross-validation on 350 AI-generated and 100 human-authored papers. The data release includes both the 0-hop survey and method-paper collections.
 
 ## Released data
 
-The release contains **73,586 citation events** from the survey subset. Each paper has a `citations.json` array with one record per citation event: the citing sentence, local reference number, cited-paper title, and extraction fields where present. The shared human baseline is included once in this total.
+The reviewed release contains **77,015 citation events across 550 paper entries**: 450 surveys and 100 method papers. Each paper directory contains `citations.jsonl`, a matching `references.jsonl`, and a README with the full paper title, original author credit, source link, and source terms.
 
-| Resource | Location |
-|:---|:---|
-| GPT-5.4 · 200 papers · 36,625 citation events | [`data/0hop/gpt54/`](data/0hop/gpt54) |
-| Qwen3-Next-80B · 200 papers · 19,817 citation events | [`data/0hop/qwen80b/`](data/0hop/qwen80b) |
-| Shared Human-Authored baseline · 50 papers · 17,144 citation events | [`data/0hop/human-authored/`](data/0hop/human-authored) |
-| Model, condition, source ID, event count, file path, and checksum for every paper | [`data/0hop/manifest.json`](data/0hop/manifest.json) |
-| Data format and pairing guide | [`data/README.md`](data/README.md) |
-| Paper | — |
+| Collection | Papers | Citation events | Browse |
+|:---|---:|---:|:---|
+| GPT-5.4 surveys | 200 | 37,002 | [Four writing conditions](data/0hop/gpt54/) |
+| Qwen3-Next-80B-A3B-Instruct surveys | 200 | 19,262 | [Four writing conditions](data/0hop/qwen80b/) |
+| Shared Human-Authored surveys | 50 | 12,856 | [Human baseline](data/0hop/human-authored/) |
+| AI method papers | 50 | 2,412 | [AI methods](data/methods/ai/) |
+| Human method papers · ICLR 2026 Oral | 50 | 5,483 | [Human methods](data/methods/human/) |
+| **Total** | **550** | **77,015** | [All paper titles](data/CATALOG.md) |
 
-The full study covers **550 papers and 78,016 citation events**, including the survey and method subsets. This repository releases the survey subset's **450 papers and 73,586 citation events**. See Appendix C of the paper for the full study's corpus construction and statistics.
+Use the [manifest](data/manifest.json) or [CSV index](data/papers.csv) to select papers by corpus, model, writing condition, or source ID. The [data guide](data/README.md) describes citation identities and review statuses. These corrected extraction counts differ from the manuscript's original snapshot; the reported experimental results have not been recomputed.
 
 ## Quick start
 
-Clone the repository; reading the JSON files requires only Python's standard library.
+Only Python's standard library is needed.
 
 ```bash
 git clone https://github.com/DISL-Lab/CiteSpectrum.git
 cd CiteSpectrum
 ```
 
-Load the citation events for one RAG paper:
-
 ```python
 import json
 from pathlib import Path
 
-root = Path("data/0hop")
+root = Path("data")
 manifest = json.loads((root / "manifest.json").read_text(encoding="utf-8"))
-record = next(
-    row for row in manifest["papers"]
-    if row["model"] == "gpt54"
-    and row["condition"] == "rag"
-    and row["stable_source_id"] == 1
+paper = next(
+    p for p in manifest["papers"]
+    if p["corpus"] == "survey" and p["model"] == "gpt54"
+    and p["condition"] == "rag" and p["source_id"] == 1
 )
-citations = json.loads((root / record["path"]).read_text(encoding="utf-8"))
-
-print(record["title"], len(citations))
-for citation in citations[:3]:
-    print(citation["sentence"])
-    print(citation["refNo"], citation["title"])
+with (root / paper["path"]).open(encoding="utf-8") as f:
+    for line in f:
+        citation = json.loads(line)
+        print(citation["marker_text"], citation["title"])
 ```
 
-Compare the same source topic across all five conditions, including the shared human baseline:
-
-```python
-paired = {}
-for row in manifest["papers"]:
-    if row["model"] in ("gpt54", None) and row["stable_source_id"] == 1:
-        paired[row["condition"]] = json.loads(
-            (root / row["path"]).read_text(encoding="utf-8")
-        )
-
-print(sorted(paired))
-# ['human-authored', 'llm-only', 'outline-guided', 'rag', 'text-guided']
-```
-
-Count all released citation events:
-
-```python
-print(sum(row["citation_count"] for row in manifest["papers"]))
-# 73586
-```
+See [examples/load_data.py](examples/load_data.py) for streaming and paired-topic loading.
 
 <details>
 <summary><b>Repository layout</b></summary>
@@ -170,23 +146,34 @@ print(sum(row["citation_count"] for row in manifest["papers"]))
 ```text
 CiteSpectrum/
 ├── README.md
-├── LICENSE
-├── assets/                    # High-resolution figures and vector PDFs
+├── LICENSE                    # Code: Apache-2.0
+├── LICENSES/                  # Annotation and upstream license texts
+├── assets/                    # High-resolution figures
+├── examples/load_data.py
+├── scripts/validate_data.py
 └── data/
     ├── README.md
-    └── 0hop/
-        ├── manifest.json
-        ├── gpt54/
-        │   ├── llm-only/
-        │   ├── rag/
-        │   ├── outline-guided/
-        │   └── text-guided/
-        ├── qwen80b/            # Same four AI conditions
-        └── human-authored/     # Shared baseline for both models
-            └── 001/
-                └── citations.json
+    ├── LICENSE.md
+    ├── CATALOG.md             # Complete titles for all 550 entries
+    ├── SOURCES.md             # Original authors, sources, and terms
+    ├── manifest.json
+    ├── papers.csv
+    ├── sources.json
+    ├── audit/
+    ├── 0hop/
+    │   ├── gpt54/{llm-only,rag,outline-guided,text-guided}/001/
+    │   ├── qwen80b/{llm-only,rag,outline-guided,text-guided}/001/
+    │   └── human-authored/001/
+    └── methods/{ai,human}/001/
+        ├── README.md
+        ├── citations.jsonl
+        └── references.jsonl
 ```
 
 </details>
+
+## License and attribution
+
+CiteSpectrum annotations: [CC BY 4.0](data/LICENSE.md). Code: [Apache-2.0](LICENSE). Original paper excerpts and upstream materials retain the [source terms and author attribution](data/SOURCES.md).
 
 ## Citation

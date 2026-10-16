@@ -1,0 +1,97 @@
+{
+  "technical_validation": {
+    "papers": 500,
+    "citation_files": 500,
+    "reference_files": 500,
+    "citation_events": 64159,
+    "reference_statuses": {
+      "resolved_in_source": 63084,
+      "undefined_reference_in_source": 937,
+      "source_title_quality_review": 16,
+      "unresolved_author_year_in_source": 97,
+      "ambiguous_author_year_in_source": 24,
+      "source_title_missing": 1
+    },
+    "all_60872_old_rows_accounted_for": true,
+    "source_files_hashed": 21001,
+    "all_sources_unchanged": true,
+    "errors": 0,
+    "limits": [
+      "Resolved means source bibliography identity, not proof of external existence or scientific entailment.",
+      "Undefined model/source references remain explicit records with null titles. Unconfirmed narrative candidates are outside the main citation files.",
+      "Downloaded reference OCR identity reviews are recorded separately; they are not used to silently rewrite source bibliographies."
+    ]
+  },
+  "reference_ocr_scan": {
+    "files": 16342,
+    "unique_sha256": 12758,
+    "statuses": {
+      "possible_title_variant_review": 251,
+      "title_present_in_front_matter": 13120,
+      "downloaded_title_identity_review": 959,
+      "near_exact_title_in_heading": 493,
+      "front_matter_title_not_located_review": 55,
+      "no_expected_title": 1464
+    },
+    "read_errors": 0,
+    "limits": "Identity reviews do not automatically mean a wrong bibliography. Citation-source identities and downloaded-reference identities are separate."
+  },
+  "reference_ocr_reconciliation": {
+    "files": 16342,
+    "statuses": {
+      "downloaded_reference_identity_unresolved_review": 915,
+      "title_page_matches_rebuilt_source_reference": 14866,
+      "stored_download_association_conflict_review": 561
+    },
+    "source_reference_identities_with_title_page_support": 14948,
+    "limits": [
+      "A title-page match establishes downloaded-document identity only, not semantic support for every citing claim.",
+      "Review status is not a confirmed wrong download. No citation title or DOI is replaced with an unrelated downloaded document."
+    ]
+  },
+  "focal_method_pdf_validation": {
+    "papers_attempted": 67,
+    "pdfs_read": 67,
+    "source_titles_verified": 67,
+    "reference_statuses": {
+      "title_in_original_pdf_bibliography": 3257,
+      "title_not_exact_in_pdf_review": 16,
+      "title_missing_in_ocr": 1
+    }
+  },
+  "independent_method_group_scan": {
+    "citation_like_parenthetical_groups_checked": 3976,
+    "uncovered_groups": 7,
+    "reviewed_non_citation_examples": 7,
+    "unexplained": 0,
+    "scope": "Independent broad author-year group scan; checks missed groups, not scientific entailment or every typography of citation."
+  },
+  "primary_document_metadata_repairs": 61,
+  "human_restoration_validation": {
+    "papers": 50,
+    "citation_files": 100,
+    "reference_files": 100,
+    "citations_logical": 12856,
+    "citations_physical": 25712,
+    "source_files_hashed": 739,
+    "all_sources_unchanged": true,
+    "all_raw_rows_accounted_for": true,
+    "errors": 0,
+    "mapping_basis_counts": {
+      "actual_body_author_year_and_original_bibliography": 3908,
+      "previous_restoration_actual_body_position": 10760,
+      "actual_body_marker_and_original_printed_number": 7760,
+      "original_jats_xref_exact_body_context": 8197,
+      "original_pdf_superscript_exact_body_context": 287
+    },
+    "baseline_events_unretained_reasons": {
+      "noncitation_list_or_cross_reference": 9,
+      "previous_marker_started_inside_an_author_name": 2,
+      "previous_bibliography_version_has_different_reference_number": 10
+    },
+    "limits": [
+      "Validation covers emitted rows and recorded unresolved candidates; it is not a guarantee of every original-paper citation having been extracted.",
+      "External reference existence, downloaded reference PDF identity, semantic support and licenses are not reassessed."
+    ]
+  }
+}

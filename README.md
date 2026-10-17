@@ -13,7 +13,7 @@
 <p>
 <img src="https://img.shields.io/badge/EMNLP_2026-Oral-6D4BC3?style=flat-square" alt="EMNLP 2026 Oral">
 <a href="data/README.md"><img src="https://img.shields.io/badge/Dataset-78%2C016_citation_events-287B74?style=flat-square" alt="78,016 citation events from 550 paper entries"></a>
-<a href="LICENSE"><img src="https://img.shields.io/badge/Annotations-CC_BY_4.0-476C9B?style=flat-square" alt="CiteSpectrum annotations: CC BY 4.0"></a>
+<a href="LICENSE"><img src="https://img.shields.io/badge/Annotations-CC_BY--NC_4.0-476C9B?style=flat-square" alt="CiteSpectrum annotations: CC BY-NC 4.0"></a>
 </p>
 
 <p>
@@ -73,6 +73,6 @@ The dataset is in `CiteSpectrum/data/`.
 
 ## License
 
-CiteSpectrum annotations and original generated survey prose: [CC BY 4.0](LICENSE). Original excerpts and upstream materials retain their [source licenses and author credits](data/SOURCES.md).
+CiteSpectrum annotations and original generated survey prose: [CC BY-NC 4.0](LICENSE). Original excerpts and upstream materials retain their [source licenses and author credits](data/SOURCES.md).
 
 ## Citation

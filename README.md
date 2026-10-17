@@ -71,7 +71,7 @@ git clone --depth 1 https://github.com/DISL-Lab/CiteSpectrum.git
 
 The dataset is in `CiteSpectrum/data/`.
 
-## License and attribution
+## License
 
 CiteSpectrum annotations and original generated survey prose: [CC BY 4.0](LICENSE). Original excerpts and upstream materials retain their [source licenses and author credits](data/SOURCES.md).
 

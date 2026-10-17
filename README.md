@@ -75,6 +75,10 @@ Each line in `citations.jsonl` represents one citation event with three fields:
 
 The same sentence may appear in multiple rows when it contains multiple citations.
 
+## Reference full texts
+
+We do not distribute the full texts of cited reference papers due to copyright restrictions.
+
 ## Download
 
 ```bash

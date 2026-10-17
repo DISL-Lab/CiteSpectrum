@@ -63,6 +63,18 @@ The survey collection contains **69,983 citation events from 450 surveys**, stor
 
 [Browse all paper titles](data/README.md)
 
+## Data format
+
+Each line in `citations.jsonl` represents one citation event with three fields:
+
+| Field | Description |
+|:---|:---|
+| `sentence` | Citation context from the paper. |
+| `title` | Title of the cited paper; `null` if a title could not be established from the source. |
+| `marker_text` | Citation marker appearing in `sentence`, such as `[1]` or `Smith et al. (2020)`. |
+
+The same sentence may appear in multiple rows when it contains multiple citations.
+
 ## Download
 
 ```bash

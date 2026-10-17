@@ -2,7 +2,7 @@
 
 **78,016 citation events · 550 papers · 450 surveys and 100 method papers.**
 
-Each numbered paper directory contains one `citations.jsonl` file. Full paper titles and citation counts are listed below; [source credits and licenses](SOURCES.md) are indexed by source ID.
+Each numbered paper directory contains one `citations.jsonl` file. Full paper titles and citation counts are listed below; [source credits](SOURCES.md) are indexed by source ID.
 
 Survey IDs `001`–`050` pair the same source topic across models and writing conditions. The 50 Human-Authored surveys are shared by both models and stored once.
 

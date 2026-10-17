@@ -73,6 +73,6 @@ The dataset is in `CiteSpectrum/data/`.
 
 ## License
 
-CiteSpectrum annotations and original generated survey prose: [CC BY 4.0](LICENSE). Original excerpts and upstream materials retain their [source licenses and author credits](data/SOURCES.md).
+CiteSpectrum annotations and original generated survey prose: [CC BY 4.0](LICENSE).
 
 ## Citation

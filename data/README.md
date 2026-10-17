@@ -6,7 +6,7 @@ Each numbered paper directory contains one `citations.jsonl` file. Full paper ti
 
 Survey IDs `001`–`050` pair the same source topic across models and writing conditions. The 50 Human-Authored surveys are shared by both models and stored once.
 
-Each JSONL row is one citation event. `sentence` contains its context, `marker_text` its citation marker, and `refNo` and `title` identify the cited reference. `reference_status` records the mapping status; a `null` title indicates that a title could not be established from the source.
+Each JSONL row is one citation event with three fields: `sentence` (citation context), `title` (cited paper title), and `marker_text` (citation marker in the context). A `null` title indicates that a title could not be established from the source.
 
 ## GPT-5.4 · LLM-Only
 

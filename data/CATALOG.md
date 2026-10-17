@@ -405,44 +405,44 @@ All 550 entries are listed with their complete focal-paper titles. Survey IDs pa
 | survey | Qwen3-Next-80B-A3B-Instruct | Text-Guided | 049 | [The experiences of caregivers of Indigenous cancer survivors in Australia, Canada, New Zealand, and the United States: a systematic review](0hop/qwen80b/text-guided/049/) | 58 |
 | survey | Qwen3-Next-80B-A3B-Instruct | Text-Guided | 050 | [Do ultra-orphan medicinal products warrant ultra-high prices? A review](0hop/qwen80b/text-guided/050/) | 291 |
 | survey | Shared Human | Human-Authored Survey | 001 | [Annual research review: Towards a developmental neuroscience of atypical social cognition.](0hop/human-authored/001/) | 183 |
-| survey | Shared Human | Human-Authored Survey | 002 | [Ethical arguments concerning human-animal chimera research: a systematic review](0hop/human-authored/002/) | 143 |
-| survey | Shared Human | Human-Authored Survey | 003 | [Developmental malformation of the corpus callosum: a review of typical callosal development and examples of developmental disorders with callosal involvement](0hop/human-authored/003/) | 529 |
-| survey | Shared Human | Human-Authored Survey | 004 | [Does temporal discounting explain unhealthy behavior? A systematic review and reinforcement learning perspective](0hop/human-authored/004/) | 368 |
-| survey | Shared Human | Human-Authored Survey | 005 | [The Impact of Social Factors on Job Crafting: A Meta-Analysis and Review](0hop/human-authored/005/) | 233 |
+| survey | Shared Human | Human-Authored Survey | 002 | [Ethical arguments concerning human-animal chimera research: a systematic review](0hop/human-authored/002/) | 601 |
+| survey | Shared Human | Human-Authored Survey | 003 | [Developmental malformation of the corpus callosum: a review of typical callosal development and examples of developmental disorders with callosal involvement](0hop/human-authored/003/) | 591 |
+| survey | Shared Human | Human-Authored Survey | 004 | [Does temporal discounting explain unhealthy behavior? A systematic review and reinforcement learning perspective](0hop/human-authored/004/) | 385 |
+| survey | Shared Human | Human-Authored Survey | 005 | [The Impact of Social Factors on Job Crafting: A Meta-Analysis and Review](0hop/human-authored/005/) | 254 |
 | survey | Shared Human | Human-Authored Survey | 006 | [Psychosocial impact of pediatric cancer on parents: a literature review](0hop/human-authored/006/) | 137 |
 | survey | Shared Human | Human-Authored Survey | 007 | [Annual research review: Infant development, autism, and ADHD--early pathways to emerging disorders.](0hop/human-authored/007/) | 240 |
-| survey | Shared Human | Human-Authored Survey | 008 | [Technology Delivered Interventions for Depression and Anxiety in Children and Adolescents: A Systematic Review and Meta-analysis](0hop/human-authored/008/) | 152 |
-| survey | Shared Human | Human-Authored Survey | 009 | [Visuospatial Neglect - a Theory-Informed Overview of Current and Emerging Strategies and a Systematic Review on the Therapeutic Use of Non-invasive Brain Stimulation](0hop/human-authored/009/) | 208 |
-| survey | Shared Human | Human-Authored Survey | 010 | [Genetic Association Studies of Suicidal Behavior: A Review of the Past 10 Years, Progress, Limitations, and Future Directions](0hop/human-authored/010/) | 255 |
-| survey | Shared Human | Human-Authored Survey | 011 | [Recent Developments in Inertial and Centrifugal Microfluidic Systems along with the Involved Forces for Cancer Cell Separation: A Review](0hop/human-authored/011/) | 502 |
-| survey | Shared Human | Human-Authored Survey | 012 | [Resilon: A Comprehensive Literature Review](0hop/human-authored/012/) | 176 |
-| survey | Shared Human | Human-Authored Survey | 013 | [A Systematic Review of Optimization Algorithms for Structural Health Monitoring and Optimal Sensor Placement](0hop/human-authored/013/) | 285 |
-| survey | Shared Human | Human-Authored Survey | 014 | [A Survey on Swarming With Micro Air Vehicles: Fundamental Challenges and Constraints](0hop/human-authored/014/) | 390 |
-| survey | Shared Human | Human-Authored Survey | 015 | [Understanding the Beat-to-Beat Variations of P-Waves Morphologies in AF Patients During Sinus Rhythm: A Scoping Review of the Atrial Simulation Studies](0hop/human-authored/015/) | 430 |
-| survey | Shared Human | Human-Authored Survey | 016 | [A survey on computer aided diagnosis for ocular diseases](0hop/human-authored/016/) | 332 |
-| survey | Shared Human | Human-Authored Survey | 017 | [Health literacy and health outcomes in patients with low back pain: a scoping review](0hop/human-authored/017/) | 163 |
-| survey | Shared Human | Human-Authored Survey | 018 | [A holistic overview of deep learning approach in medical imaging](0hop/human-authored/018/) | 171 |
+| survey | Shared Human | Human-Authored Survey | 008 | [Technology Delivered Interventions for Depression and Anxiety in Children and Adolescents: A Systematic Review and Meta-analysis](0hop/human-authored/008/) | 241 |
+| survey | Shared Human | Human-Authored Survey | 009 | [Visuospatial Neglect - a Theory-Informed Overview of Current and Emerging Strategies and a Systematic Review on the Therapeutic Use of Non-invasive Brain Stimulation](0hop/human-authored/009/) | 247 |
+| survey | Shared Human | Human-Authored Survey | 010 | [Genetic Association Studies of Suicidal Behavior: A Review of the Past 10 Years, Progress, Limitations, and Future Directions](0hop/human-authored/010/) | 366 |
+| survey | Shared Human | Human-Authored Survey | 011 | [Recent Developments in Inertial and Centrifugal Microfluidic Systems along with the Involved Forces for Cancer Cell Separation: A Review](0hop/human-authored/011/) | 433 |
+| survey | Shared Human | Human-Authored Survey | 012 | [Resilon: A Comprehensive Literature Review](0hop/human-authored/012/) | 200 |
+| survey | Shared Human | Human-Authored Survey | 013 | [A Systematic Review of Optimization Algorithms for Structural Health Monitoring and Optimal Sensor Placement](0hop/human-authored/013/) | 393 |
+| survey | Shared Human | Human-Authored Survey | 014 | [A Survey on Swarming With Micro Air Vehicles: Fundamental Challenges and Constraints](0hop/human-authored/014/) | 446 |
+| survey | Shared Human | Human-Authored Survey | 015 | [Understanding the Beat-to-Beat Variations of P-Waves Morphologies in AF Patients During Sinus Rhythm: A Scoping Review of the Atrial Simulation Studies](0hop/human-authored/015/) | 514 |
+| survey | Shared Human | Human-Authored Survey | 016 | [A survey on computer aided diagnosis for ocular diseases](0hop/human-authored/016/) | 502 |
+| survey | Shared Human | Human-Authored Survey | 017 | [Health literacy and health outcomes in patients with low back pain: a scoping review](0hop/human-authored/017/) | 236 |
+| survey | Shared Human | Human-Authored Survey | 018 | [A holistic overview of deep learning approach in medical imaging](0hop/human-authored/018/) | 287 |
 | survey | Shared Human | Human-Authored Survey | 019 | [Noninvasive Brain Imaging and Stimulation in Post-Stroke Motor Rehabilitation: A Review](0hop/human-authored/019/) | 221 |
-| survey | Shared Human | Human-Authored Survey | 020 | [Innovations in Smart Packaging Concepts for Food: An Extensive Review](0hop/human-authored/020/) | 441 |
-| survey | Shared Human | Human-Authored Survey | 021 | [Navigating uncertain waters: a critical review of inferring foraging behaviour from location and dive data in pinnipeds](0hop/human-authored/021/) | 368 |
-| survey | Shared Human | Human-Authored Survey | 022 | [Recent advances in pharmacological research on Ecklonia species: a review](0hop/human-authored/022/) | 122 |
-| survey | Shared Human | Human-Authored Survey | 023 | [Zoonotic Potential of Influenza A Viruses: A Comprehensive Overview](0hop/human-authored/023/) | 493 |
-| survey | Shared Human | Human-Authored Survey | 024 | [Nutritional significance of amino acids, vitamins and minerals as nutraceuticals in poultry production and health – a comprehensive review](0hop/human-authored/024/) | 372 |
-| survey | Shared Human | Human-Authored Survey | 025 | [Prevalence of Schistosoma mansoni infection among children in Ethiopia: a systematic review and meta-analysis](0hop/human-authored/025/) | 59 |
+| survey | Shared Human | Human-Authored Survey | 020 | [Innovations in Smart Packaging Concepts for Food: An Extensive Review](0hop/human-authored/020/) | 453 |
+| survey | Shared Human | Human-Authored Survey | 021 | [Navigating uncertain waters: a critical review of inferring foraging behaviour from location and dive data in pinnipeds](0hop/human-authored/021/) | 400 |
+| survey | Shared Human | Human-Authored Survey | 022 | [Recent advances in pharmacological research on Ecklonia species: a review](0hop/human-authored/022/) | 272 |
+| survey | Shared Human | Human-Authored Survey | 023 | [Zoonotic Potential of Influenza A Viruses: A Comprehensive Overview](0hop/human-authored/023/) | 475 |
+| survey | Shared Human | Human-Authored Survey | 024 | [Nutritional significance of amino acids, vitamins and minerals as nutraceuticals in poultry production and health – a comprehensive review](0hop/human-authored/024/) | 439 |
+| survey | Shared Human | Human-Authored Survey | 025 | [Prevalence of Schistosoma mansoni infection among children in Ethiopia: a systematic review and meta-analysis](0hop/human-authored/025/) | 158 |
 | survey | Shared Human | Human-Authored Survey | 026 | [Ethnopharmacological review of medicinal plants used to manage diabetes in Morocco](0hop/human-authored/026/) | 251 |
-| survey | Shared Human | Human-Authored Survey | 027 | [The human microglial HMC3 cell line: where do we stand? A systematic literature review](0hop/human-authored/027/) | 299 |
-| survey | Shared Human | Human-Authored Survey | 028 | [Key Sites for P2X Receptor Function and Multimerization: Overview of Mutagenesis Studies on a Structural Basis](0hop/human-authored/028/) | 369 |
-| survey | Shared Human | Human-Authored Survey | 029 | [Controlling mosquitoes with semiochemicals: a review](0hop/human-authored/029/) | 486 |
-| survey | Shared Human | Human-Authored Survey | 030 | [MicroRNA in Glioblastoma: An Overview](0hop/human-authored/030/) | 235 |
-| survey | Shared Human | Human-Authored Survey | 031 | [Nonsurgical therapy for hydrocephalus: a comprehensive and critical review](0hop/human-authored/031/) | 305 |
-| survey | Shared Human | Human-Authored Survey | 032 | [Overview of research progress and application of experimental models of colorectal cancer](0hop/human-authored/032/) | 65 |
-| survey | Shared Human | Human-Authored Survey | 033 | [Supply chain risk management with machine learning technology: A literature review and future research directions](0hop/human-authored/033/) | 220 |
-| survey | Shared Human | Human-Authored Survey | 034 | [A Comprehensive Review of Autophagy and Its Various Roles in Infectious, Non-Infectious, and Lifestyle Diseases: Current Knowledge and Prospects for Disease Prevention, Novel Drug Design, and Therapy](0hop/human-authored/034/) | 539 |
-| survey | Shared Human | Human-Authored Survey | 035 | [Review of EEG-based neurofeedback as a therapeutic intervention to treat depression](0hop/human-authored/035/) | 128 |
-| survey | Shared Human | Human-Authored Survey | 036 | [A review of renewable energy based power supply options for telecom towers](0hop/human-authored/036/) | 359 |
-| survey | Shared Human | Human-Authored Survey | 037 | [Postdiagnosis body fatness, weight change and breast cancer prognosis: Global Cancer Update Program (CUP global) systematic literature review and meta‐analysis](0hop/human-authored/037/) | 131 |
-| survey | Shared Human | Human-Authored Survey | 038 | [Maternal smoking in pregnancy and birth defects: a systematic review based on 173 687 malformed cases and 11.7 million controls](0hop/human-authored/038/) | 65 |
-| survey | Shared Human | Human-Authored Survey | 039 | [Classical Hodgkin Lymphoma: From Past to Future—A Comprehensive Review of Pathophysiology and Therapeutic Advances](0hop/human-authored/039/) | 419 |
+| survey | Shared Human | Human-Authored Survey | 027 | [The human microglial HMC3 cell line: where do we stand? A systematic literature review](0hop/human-authored/027/) | 395 |
+| survey | Shared Human | Human-Authored Survey | 028 | [Key Sites for P2X Receptor Function and Multimerization: Overview of Mutagenesis Studies on a Structural Basis](0hop/human-authored/028/) | 377 |
+| survey | Shared Human | Human-Authored Survey | 029 | [Controlling mosquitoes with semiochemicals: a review](0hop/human-authored/029/) | 529 |
+| survey | Shared Human | Human-Authored Survey | 030 | [MicroRNA in Glioblastoma: An Overview](0hop/human-authored/030/) | 245 |
+| survey | Shared Human | Human-Authored Survey | 031 | [Nonsurgical therapy for hydrocephalus: a comprehensive and critical review](0hop/human-authored/031/) | 304 |
+| survey | Shared Human | Human-Authored Survey | 032 | [Overview of research progress and application of experimental models of colorectal cancer](0hop/human-authored/032/) | 248 |
+| survey | Shared Human | Human-Authored Survey | 033 | [Supply chain risk management with machine learning technology: A literature review and future research directions](0hop/human-authored/033/) | 231 |
+| survey | Shared Human | Human-Authored Survey | 034 | [A Comprehensive Review of Autophagy and Its Various Roles in Infectious, Non-Infectious, and Lifestyle Diseases: Current Knowledge and Prospects for Disease Prevention, Novel Drug Design, and Therapy](0hop/human-authored/034/) | 745 |
+| survey | Shared Human | Human-Authored Survey | 035 | [Review of EEG-based neurofeedback as a therapeutic intervention to treat depression](0hop/human-authored/035/) | 149 |
+| survey | Shared Human | Human-Authored Survey | 036 | [A review of renewable energy based power supply options for telecom towers](0hop/human-authored/036/) | 435 |
+| survey | Shared Human | Human-Authored Survey | 037 | [Postdiagnosis body fatness, weight change and breast cancer prognosis: Global Cancer Update Program (CUP global) systematic literature review and meta‐analysis](0hop/human-authored/037/) | 1,197 |
+| survey | Shared Human | Human-Authored Survey | 038 | [Maternal smoking in pregnancy and birth defects: a systematic review based on 173 687 malformed cases and 11.7 million controls](0hop/human-authored/038/) | 67 |
+| survey | Shared Human | Human-Authored Survey | 039 | [Classical Hodgkin Lymphoma: From Past to Future—A Comprehensive Review of Pathophysiology and Therapeutic Advances](0hop/human-authored/039/) | 471 |
 | survey | Shared Human | Human-Authored Survey | 040 | [Frequency of infraposition and missing contact points in implant‐supported restorations within natural dentitions over time: A systematic review with meta‐analysis](0hop/human-authored/040/) | 46 |
 | survey | Shared Human | Human-Authored Survey | 041 | [Review—Measurement and Analysis of Cancer Biomarkers Based on Electrochemical Biosensors](0hop/human-authored/041/) | 235 |
 | survey | Shared Human | Human-Authored Survey | 042 | [Biomedical Effects of Popular Phytonutrients and Their Phytochemicals: A Comprehensive Review](0hop/human-authored/042/) | 448 |
@@ -456,7 +456,7 @@ All 550 entries are listed with their complete focal-paper titles. Survey IDs pa
 | survey | Shared Human | Human-Authored Survey | 050 | [Do ultra-orphan medicinal products warrant ultra-high prices? A review](0hop/human-authored/050/) | 141 |
 | method | AI | AI Method Papers | 001 | [Transformers in Diffusion: Capturing Complex Dependencies with Transformer Denoiser](methods/ai/001/) | 18 |
 | method | AI | AI Method Papers | 002 | [SEMANTIC LATENT SPACE INTERPOLATION IN LOW-DIMENSIONAL DIFFUSION MODELS](methods/ai/002/) | 21 |
-| method | AI | AI Method Papers | 003 | [OPTIMIZING TRANSFORMERS: INITIALIZATION AND HYPERPARAMETERS FOR MODULAR ARITHMETIC AND PERMUTATIONS](methods/ai/003/) | 24 |
+| method | AI | AI Method Papers | 003 | [OPTIMIZING TRANSFORMERS: INITIALIZATION AND HYPERPARAMETERS FOR MODULAR ARITHMETIC AND PERMUTATIONS](methods/ai/003/) | 25 |
 | method | AI | AI Method Papers | 004 | [ADAPTIVE LAYER FUSION: ENHANCING MULTI-SCALE FEATURE LEARNING IN CHARACTER-LEVEL LANGUAGE MODELS](methods/ai/004/) | 22 |
 | method | AI | AI Method Papers | 005 | [UNLEASHING GROKKING: THE IMPACT OF ADAPTIVE TRAINING PAUSES ON NEURAL NETWORK LEARNING DYNAMICS](methods/ai/005/) | 19 |
 | method | AI | AI Method Papers | 006 | [SHARPENING SMALL: ENHANCING GENERALIZATION IN COMPACT LANGUAGE MODELS WITH SIMPLIFIED SAM](methods/ai/006/) | 35 |
@@ -497,60 +497,60 @@ All 550 entries are listed with their complete focal-paper titles. Survey IDs pa
 | method | AI | AI Method Papers | 041 | [Multi-Agent Adaptive Variance Reduction Technique for Decentralized Nonsmooth Nonconvex Stochastic Optimization](methods/ai/041/) | 59 |
 | method | AI | AI Method Papers | 042 | [Bayesian Quadrature-Conformal Prediction Framework for Enhanced Uncertainty Quantification in Spatio-Temporal Models](methods/ai/042/) | 294 |
 | method | AI | AI Method Papers | 043 | [COMD: Coherent Masked Diffusion](methods/ai/043/) | 138 |
-| method | AI | AI Method Papers | 044 | [RAG-MCP: Mitigating Prompt Bloat in LLM Tool Selection via Retrieval-Augmented Generation](methods/ai/044/) | 30 |
+| method | AI | AI Method Papers | 044 | [RAG-MCP: Mitigating Prompt Bloat in LLM Tool Selection via Retrieval-Augmented Generation](methods/ai/044/) | 31 |
 | method | AI | AI Method Papers | 045 | [Adaptive Evidential Meta-Learning with Hyper-Conditioned Priors for Calibrated ECG Personalisation](methods/ai/045/) | 18 |
-| method | AI | AI Method Papers | 046 | [Adaptive AI Governance: Mitigating Income Inequality through Predictive Analytics and Dynamic Policy Frameworks](methods/ai/046/) | 269 |
+| method | AI | AI Method Papers | 046 | [Adaptive AI Governance: Mitigating Income Inequality through Predictive Analytics and Dynamic Policy Frameworks](methods/ai/046/) | 270 |
 | method | AI | AI Method Papers | 047 | [Estimating Rural Rooftop Solar Potential Using Semantic Segmentation and Multi-Source Data](methods/ai/047/) | 22 |
 | method | AI | AI Method Papers | 048 | [LECTOR: LLM-Enhanced Concept-based Test-Oriented Repetition](methods/ai/048/) | 25 |
 | method | AI | AI Method Papers | 049 | [Decoupling Openness and Connectivity: Non-Monotonic Effects in LLM-Based Cultural Dynamics](methods/ai/049/) | 16 |
 | method | AI | AI Method Papers | 050 | [Hierarchical Change Signature Analysis: A Framework for Online Discrimination of Incipient Faults and Benign Drifts in Industrial Time Series](methods/ai/050/) | 56 |
 | method | Human | Human Method Papers | 001 | [Common Corpus: The Largest Collection of Ethical Data for LLM Pre-Training](methods/human/001/) | 88 |
-| method | Human | Human Method Papers | 002 | [Q-RAG: Long Context Multi‑Step Retrieval via Value‑Based Embedder Training](methods/human/002/) | 61 |
+| method | Human | Human Method Papers | 002 | [Q-RAG: Long Context Multi‑Step Retrieval via Value‑Based Embedder Training](methods/human/002/) | 62 |
 | method | Human | Human Method Papers | 003 | [From movement to cognitive maps: recurrent neural networks reveal how locomotor development shapes hippocampal spatial coding](methods/human/003/) | 121 |
-| method | Human | Human Method Papers | 004 | [FIRE: Frobenius-Isometry Reinitialization for Balancing the Stability–Plasticity Tradeoff](methods/human/004/) | 138 |
-| method | Human | Human Method Papers | 005 | [Exchangeability of GNN Representations with Applications to Graph Retrieval](methods/human/005/) | 226 |
+| method | Human | Human Method Papers | 004 | [FIRE: Frobenius-Isometry Reinitialization for Balancing the Stability–Plasticity Tradeoff](methods/human/004/) | 140 |
+| method | Human | Human Method Papers | 005 | [Exchangeability of GNN Representations with Applications to Graph Retrieval](methods/human/005/) | 229 |
 | method | Human | Human Method Papers | 006 | [Enhancing Generative Auto-bidding with Offline Reward Evaluation and Policy Search](methods/human/006/) | 94 |
 | method | Human | Human Method Papers | 007 | [Why DPO is a Misspecified Estimator and How to Fix It](methods/human/007/) | 35 |
-| method | Human | Human Method Papers | 008 | [WebDevJudge: Evaluating (M)LLMs as Critiques for Web Development Quality](methods/human/008/) | 102 |
+| method | Human | Human Method Papers | 008 | [WebDevJudge: Evaluating (M)LLMs as Critiques for Web Development Quality](methods/human/008/) | 103 |
 | method | Human | Human Method Papers | 009 | [SafeDPO: A Simple Approach to Direct Preference Optimization with Enhanced Safety](methods/human/009/) | 56 |
 | method | Human | Human Method Papers | 010 | [MedAgentGym: A Scalable Agentic Training Environment for Code-Centric Reasoning in Biomedical Data Science](methods/human/010/) | 318 |
-| method | Human | Human Method Papers | 011 | [Optimistic Task Inference for Behavior Foundation Models](methods/human/011/) | 111 |
-| method | Human | Human Method Papers | 012 | [CounselBench: A Large-Scale Expert Evaluation and Adversarial Benchmarking of Large Language Models in Mental Health Question Answering](methods/human/012/) | 106 |
+| method | Human | Human Method Papers | 011 | [Optimistic Task Inference for Behavior Foundation Models](methods/human/011/) | 112 |
+| method | Human | Human Method Papers | 012 | [CounselBench: A Large-Scale Expert Evaluation and Adversarial Benchmarking of Large Language Models in Mental Health Question Answering](methods/human/012/) | 107 |
 | method | Human | Human Method Papers | 013 | [AstaBench: Rigorous Benchmarking of AI Agents with a Scientific Research Suite](methods/human/013/) | 117 |
 | method | Human | Human Method Papers | 014 | [Neon: Negative Extrapolation From Self-Training Improves Image Generation](methods/human/014/) | 147 |
-| method | Human | Human Method Papers | 015 | [Compositional Diffusion with Guided search for Long-Horizon Planning](methods/human/015/) | 102 |
+| method | Human | Human Method Papers | 015 | [Compositional Diffusion with Guided search for Long-Horizon Planning](methods/human/015/) | 103 |
 | method | Human | Human Method Papers | 016 | [Visual symbolic mechanisms: Emergent symbol processing in Vision Language Models](methods/human/016/) | 58 |
 | method | Human | Human Method Papers | 017 | [Addressing divergent representations from causal interventions on neural networks](methods/human/017/) | 95 |
-| method | Human | Human Method Papers | 018 | [Cross-Domain Lossy Compression via Rate- and Classification-Constrained Optimal Transport](methods/human/018/) | 129 |
+| method | Human | Human Method Papers | 018 | [Cross-Domain Lossy Compression via Rate- and Classification-Constrained Optimal Transport](methods/human/018/) | 133 |
 | method | Human | Human Method Papers | 019 | [Latent Fourier Transform](methods/human/019/) | 144 |
-| method | Human | Human Method Papers | 020 | [GLASS Flows: Efficient Inference for Reward Alignment of Flow and Diffusion Models](methods/human/020/) | 152 |
-| method | Human | Human Method Papers | 021 | [Latent Speech-Text Transformer](methods/human/021/) | 77 |
-| method | Human | Human Method Papers | 022 | [LoongRL: Reinforcement Learning for Advanced Reasoning over Long Contexts](methods/human/022/) | 62 |
+| method | Human | Human Method Papers | 020 | [GLASS Flows: Efficient Inference for Reward Alignment of Flow and Diffusion Models](methods/human/020/) | 156 |
+| method | Human | Human Method Papers | 021 | [Latent Speech-Text Transformer](methods/human/021/) | 80 |
+| method | Human | Human Method Papers | 022 | [LoongRL: Reinforcement Learning for Advanced Reasoning over Long Contexts](methods/human/022/) | 65 |
 | method | Human | Human Method Papers | 023 | [Speculative Actions: A Lossless Framework for Faster AI Agents](methods/human/023/) | 34 |
 | method | Human | Human Method Papers | 024 | [Gaussian certified unlearning in high dimensions: A hypothesis testing approach](methods/human/024/) | 215 |
-| method | Human | Human Method Papers | 025 | [RedTeamCUA: Realistic Adversarial Testing of Computer-Use Agents in Hybrid Web-OS Environments](methods/human/025/) | 153 |
+| method | Human | Human Method Papers | 025 | [RedTeamCUA: Realistic Adversarial Testing of Computer-Use Agents in Hybrid Web-OS Environments](methods/human/025/) | 155 |
 | method | Human | Human Method Papers | 026 | [Exploratory Causal Inference in SAEnce](methods/human/026/) | 84 |
-| method | Human | Human Method Papers | 027 | [Every Language Model Has a Forgery-Resistant Signature](methods/human/027/) | 77 |
+| method | Human | Human Method Papers | 027 | [Every Language Model Has a Forgery-Resistant Signature](methods/human/027/) | 78 |
 | method | Human | Human Method Papers | 028 | [Pre-training under infinite compute](methods/human/028/) | 175 |
 | method | Human | Human Method Papers | 029 | [GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning](methods/human/029/) | 120 |
-| method | Human | Human Method Papers | 030 | [$p\textrm{-less}$ Sampling: A Robust Hyperparameter-Free Approach for LLM Decoding](methods/human/030/) | 69 |
+| method | Human | Human Method Papers | 030 | [$p\textrm{-less}$ Sampling: A Robust Hyperparameter-Free Approach for LLM Decoding](methods/human/030/) | 73 |
 | method | Human | Human Method Papers | 031 | [EigenBench: A Comparative Behavioral Measure of Value Alignment](methods/human/031/) | 37 |
 | method | Human | Human Method Papers | 032 | [A Representer Theorem for Hawkes Processes via Penalized Least Squares Minimization](methods/human/032/) | 90 |
 | method | Human | Human Method Papers | 033 | [UALM: Unified Audio Language Model for Understanding, Generation and Reasoning](methods/human/033/) | 206 |
-| method | Human | Human Method Papers | 034 | [Agent Data Protocol: Unifying Datasets for Diverse, Effective Fine-tuning of LLM Agents](methods/human/034/) | 127 |
-| method | Human | Human Method Papers | 035 | [OpenApps: Simulating Environment Variations to Measure UI Agent Reliability](methods/human/035/) | 1 |
-| method | Human | Human Method Papers | 036 | [Overparametrization bends the landscape: BBP transitions at initialization in simple Neural Networks](methods/human/036/) | 74 |
-| method | Human | Human Method Papers | 037 | [Softmax Transformers are Turing-Complete](methods/human/037/) | 123 |
+| method | Human | Human Method Papers | 034 | [Agent Data Protocol: Unifying Datasets for Diverse, Effective Fine-tuning of LLM Agents](methods/human/034/) | 129 |
+| method | Human | Human Method Papers | 035 | [OpenApps: Simulating Environment Variations to Measure UI Agent Reliability](methods/human/035/) | 83 |
+| method | Human | Human Method Papers | 036 | [Overparametrization bends the landscape: BBP transitions at initialization in simple Neural Networks](methods/human/036/) | 75 |
+| method | Human | Human Method Papers | 037 | [Softmax Transformers are Turing-Complete](methods/human/037/) | 124 |
 | method | Human | Human Method Papers | 038 | [Steering the Herd: A Framework for LLM-based Control of Social Learning](methods/human/038/) | 80 |
 | method | Human | Human Method Papers | 039 | [Quantitative Bounds for Length Generalization in Transformers](methods/human/039/) | 55 |
-| method | Human | Human Method Papers | 040 | [AgentGym-RL: An Open-Source Framework to Train LLM Agents for Long-Horizon Decision Making via Multi-Turn RL](methods/human/040/) | 175 |
-| method | Human | Human Method Papers | 041 | [LLM Fingerprinting via Semantically Conditioned Watermarks](methods/human/041/) | 124 |
-| method | Human | Human Method Papers | 042 | [Watch your steps: Dormant Adversarial Behaviors that Activate upon LLM Finetuning](methods/human/042/) | 94 |
+| method | Human | Human Method Papers | 040 | [AgentGym-RL: An Open-Source Framework to Train LLM Agents for Long-Horizon Decision Making via Multi-Turn RL](methods/human/040/) | 176 |
+| method | Human | Human Method Papers | 041 | [LLM Fingerprinting via Semantically Conditioned Watermarks](methods/human/041/) | 129 |
+| method | Human | Human Method Papers | 042 | [Watch your steps: Dormant Adversarial Behaviors that Activate upon LLM Finetuning](methods/human/042/) | 95 |
 | method | Human | Human Method Papers | 043 | [Universal Inverse Distillation for Matching Models with Real-Data Supervision (No GANs)](methods/human/043/) | 136 |
 | method | Human | Human Method Papers | 044 | [Mixture-of-Experts Can Surpass Dense LLMs Under Strictly Equal Resource](methods/human/044/) | 107 |
 | method | Human | Human Method Papers | 045 | [Pareto-Conditioned Diffusion Models for Offline Multi-Objective Optimization](methods/human/045/) | 146 |
 | method | Human | Human Method Papers | 046 | [The Coverage Principle: How Pre-Training Enables Post-Training](methods/human/046/) | 140 |
 | method | Human | Human Method Papers | 047 | [Transformers are Inherently Succinct](methods/human/047/) | 82 |
-| method | Human | Human Method Papers | 048 | [Conformal Robustness Control: A New Strategy for Robust Decision](methods/human/048/) | 91 |
-| method | Human | Human Method Papers | 049 | [HATSolver: Learning Gröbner Bases with Hierarchical Attention Transformers](methods/human/049/) | 86 |
-| method | Human | Human Method Papers | 050 | [It's All Just Vectorization: einx, a Universal Notation for Tensor Operations](methods/human/050/) | 43 |
+| method | Human | Human Method Papers | 048 | [Conformal Robustness Control: A New Strategy for Robust Decision](methods/human/048/) | 93 |
+| method | Human | Human Method Papers | 049 | [HATSolver: Learning Gröbner Bases with Hierarchical Attention Transformers](methods/human/049/) | 88 |
+| method | Human | Human Method Papers | 050 | [It's All Just Vectorization: einx, a Universal Notation for Tensor Operations](methods/human/050/) | 50 |

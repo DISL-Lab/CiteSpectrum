@@ -2,7 +2,7 @@
 
 **Shared Human baseline · Human-Authored Survey · ID 035**
 
-128 citation events · 128 source-resolved · 0 unresolved / title review.
+149 citation events · 149 source-resolved · 0 unresolved / title review.
 
 - [Citation events](citations.jsonl)
 - [Companion references](references.jsonl)

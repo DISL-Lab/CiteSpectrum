@@ -3209,35 +3209,35 @@
   },
   {
     "path": "0hop/human-authored/002/citations.jsonl",
-    "sha256": "b7625cf633ea533a92ec7996f1f2285b6c73ad64cb1c0d64702cd49e989c7b98"
+    "sha256": "3d47516c0e720680c090354cbcab9617e5c7d3760b3e01ad9f3ad98325993445"
   },
   {
     "path": "0hop/human-authored/002/references.jsonl",
-    "sha256": "d29b66d23b6709eb4db8412f7e3ac664273080dc4cd538e13aaab8d5b16e4983"
+    "sha256": "030784a8464da7e2583e03e8df49d782e7345170e00fa6d7790501e76698b3b2"
   },
   {
     "path": "0hop/human-authored/003/citations.jsonl",
-    "sha256": "03658e8dffb835ea00c8646b4f4e9a3c55d09afb777ab4d50864c3045b35916b"
+    "sha256": "9991a5fd988f2a38c3b8e6de86044be361f3de9a1d91fbe9451d3a63209366d4"
   },
   {
     "path": "0hop/human-authored/003/references.jsonl",
-    "sha256": "1289212cf0689e6810e6dae8ed94771dd35c24337ac4c747c8d9f28fff174b24"
+    "sha256": "b85ba9b7261b449ad1c41e17bbc4183df02c29931ac1fb2caaf36de116ae76ce"
   },
   {
     "path": "0hop/human-authored/004/citations.jsonl",
-    "sha256": "44f5f2319e76abc27143a499c6cfeeaf984a94da948fcb8f171c2f1569d77044"
+    "sha256": "e0ee9879e3a102f3ae1c745c488b5a0aa6092cf25bc10e3ac4440d5e9afe1a9e"
   },
   {
     "path": "0hop/human-authored/004/references.jsonl",
-    "sha256": "288d3c145c02a42f2105811dd0a410b8ac90446dc0bd3ec5976ba2dc9737b56d"
+    "sha256": "19ad74c03741327925f46d3316161ec8d60e3c413ed3c1ba523acab6860e36f1"
   },
   {
     "path": "0hop/human-authored/005/citations.jsonl",
-    "sha256": "b185fcaf1d7245579fff836e4d28a5e474ca749181e218ed190520a7064651c0"
+    "sha256": "c64e5193602844316d4f6b3f7619539932fc4e00b1568cda9b4d50332988d310"
   },
   {
     "path": "0hop/human-authored/005/references.jsonl",
-    "sha256": "bd1517711b5dc1fd50ca5f528d1cf0248e89448ddd0ddbafe3de15be4da22c8c"
+    "sha256": "c1748b1543edfd642f8dfe6d2d2a5d354336975e79d203b41ff432520e24f0a8"
   },
   {
     "path": "0hop/human-authored/006/citations.jsonl",
@@ -3257,91 +3257,91 @@
   },
   {
     "path": "0hop/human-authored/008/citations.jsonl",
-    "sha256": "29775e0d8764649007c7b1c9530e5f55ec38e8ac656ec8de9f93ae83e4d42752"
+    "sha256": "b5aa155588e9843dda2253b4583271b1d501d6b17a6695e8514b3b98f9d3ac9a"
   },
   {
     "path": "0hop/human-authored/008/references.jsonl",
-    "sha256": "60fe6b779bffd68accd347a7e957997c4146b3d01e56a9342c0c70b6acb6bb48"
+    "sha256": "ab08274fe3c92cc76a816ecbc5fe75662aafab5ad727005acc1edf472bd669cf"
   },
   {
     "path": "0hop/human-authored/009/citations.jsonl",
-    "sha256": "fa8b13563a91e8bdc695c456f56053c142e0a7a6c049fdb26b23fe86c1981f31"
+    "sha256": "4947aa549410650e4810195eab9f5d7e3e958e168060b4a5fe1b902371141fca"
   },
   {
     "path": "0hop/human-authored/009/references.jsonl",
-    "sha256": "bee3f187b8cb743808786d2890366ae5b8d9fd9ccc10c15b9ea985174962a089"
+    "sha256": "8ff8b94b1f2b54a7eb4b1cd68c9eda1f94367c1bba220d84e7cc48dcb8c5a9f1"
   },
   {
     "path": "0hop/human-authored/010/citations.jsonl",
-    "sha256": "06a36e32530006149a0f9d01ebd5f13843b089831f063dafc5f1610add4c9580"
+    "sha256": "3208953d0340a66ef129b4a368ee67cdfdc48f99e3c092531af01c866aad4eb0"
   },
   {
     "path": "0hop/human-authored/010/references.jsonl",
-    "sha256": "25fa4bc34b0fead93178b1ac5dfcc55b25f9d9946b3046340ea8e812832fd0da"
+    "sha256": "a8c1ed6131cc77a07be2c241660b2e5639fff0d987d79ccd74f184a1d531e843"
   },
   {
     "path": "0hop/human-authored/011/citations.jsonl",
-    "sha256": "8c5fdbf4fecd04f9ed99d2f5e1db7818b3a74ab5d71e6ba16ad5bfa0f0d67790"
+    "sha256": "c523f18366fce7f13bce52933208dd55896ef010ac30e32ebe101a851a1501a9"
   },
   {
     "path": "0hop/human-authored/011/references.jsonl",
-    "sha256": "9b7f4a614d2c33e7e15c556d1c132995b3a317039b84fa2c207c6a3a3b9f4af4"
+    "sha256": "3e6aeacf588b25dcfdc6006006c3120ddeb5026970e3128c136df1e078cb97e0"
   },
   {
     "path": "0hop/human-authored/012/citations.jsonl",
-    "sha256": "9af39fa7a87819201cbbe5777eaee7a36931dc91ba419eac47de5d72c860e4ca"
+    "sha256": "2c124e05570a27a9e1371d7c2459d059edcdaad4d23ed28d2759aee72ac53f23"
   },
   {
     "path": "0hop/human-authored/012/references.jsonl",
-    "sha256": "930265b74ef2f2589a49d2a91a22b4497c509c36420d8c1d8e2c2ebe0e084128"
+    "sha256": "5b545c6e33b671a30d321b4a4180da69e950aa7858f152f552699a589fdab679"
   },
   {
     "path": "0hop/human-authored/013/citations.jsonl",
-    "sha256": "763a9d50237605be5dcb4a448e358c2f808b977fe5a6dc4c48be610c63760051"
+    "sha256": "98ba96bb8e9b7c0d9a6beb3a9f08001bcb9ab83c1973ff3a6a75da4d3e2a2a37"
   },
   {
     "path": "0hop/human-authored/013/references.jsonl",
-    "sha256": "f4250fb57a6f0b3ae4abbd2eba2c177d669c7e6ddd48a87af83636bc7268a409"
+    "sha256": "f3610e5499a5b208e05779dcd592549fde390535308d079863a7f5c26d9102fd"
   },
   {
     "path": "0hop/human-authored/014/citations.jsonl",
-    "sha256": "d6ee7c3796dec512e05db48c37c6538622b907148009c2a0a2ee22c228307e0f"
+    "sha256": "517fb208c0f764ccce21a6da7f9b10b83b7c135a324b21a69702bec503f7bab0"
   },
   {
     "path": "0hop/human-authored/014/references.jsonl",
-    "sha256": "0fe6cb1426e600ecb531ef9e9e4ca8eb65f9dbebf858cfc5b03bd5d82cd2c554"
+    "sha256": "bf8b99e7cd229cdb53f836565b9937acb0fe87cad10eeefd9bfed01d6ec6d45e"
   },
   {
     "path": "0hop/human-authored/015/citations.jsonl",
-    "sha256": "6b933be494b975e78dc8946983c49f44b9b17be34b7a9e77439e8b69d3960a85"
+    "sha256": "f408b7b78b512e2f68b73611c864068dd77b68083f8ac5afdff5a1961de8811e"
   },
   {
     "path": "0hop/human-authored/015/references.jsonl",
-    "sha256": "8f4fa099264513c2c6706a18ede5561c29212b96cb454a4c08b582465c162005"
+    "sha256": "095394d60bf81d2aa8a049897c52e3a5d266f551b5060755ee484a53cb5e19bf"
   },
   {
     "path": "0hop/human-authored/016/citations.jsonl",
-    "sha256": "a6adca64e93f5f9a1e7ac21f1628ca146a68abf6ef1cf5ade34ecb620d9cc382"
+    "sha256": "38c6a8f6a2b7b2dc6a387780316bded4d63ca6292181d26ef31e63f6d2b4c6ac"
   },
   {
     "path": "0hop/human-authored/016/references.jsonl",
-    "sha256": "152ca40022cf495df8d96f9b6fabf64ee20d43fce09e0e5cef5f1707050fa2c7"
+    "sha256": "fcf99560144524962129b4c51d48eb4ce9d76cf2af1da8dc62f5187d402ca36f"
   },
   {
     "path": "0hop/human-authored/017/citations.jsonl",
-    "sha256": "f0f7d50e8c317a737c6d9ca2d75de9a75506850472f03e73607b6b89141413e1"
+    "sha256": "dcf8efda3b4808433672116fd177cff1a057ebb51f7d89db52aea1da8623d5dc"
   },
   {
     "path": "0hop/human-authored/017/references.jsonl",
-    "sha256": "a4439578185884b2a39c8b9ad1b81679a035286ed1ea3d105cbc4cd00410648a"
+    "sha256": "ddf15ebe2ac670f8c770d5f07710f01fed2e1edcf277a9ebc89e3ed0fe6a1a87"
   },
   {
     "path": "0hop/human-authored/018/citations.jsonl",
-    "sha256": "4aba8f7e86c105feaf5b08ce61e75f524013d19dbb4fc392c6bfe76ec4701aa9"
+    "sha256": "a04174dece1f11a358a8f39fab50a3cd7aee0635e67da800d7c72f7f359ff436"
   },
   {
     "path": "0hop/human-authored/018/references.jsonl",
-    "sha256": "e3efb731ada50fa5c723d2a7db27305c81ec124d270e653974f057716e176f63"
+    "sha256": "0605cd9dcfbdf3d78e2f08513a16dc9984e4385e9bf83a305c088284660bc11e"
   },
   {
     "path": "0hop/human-authored/019/citations.jsonl",
@@ -3353,51 +3353,51 @@
   },
   {
     "path": "0hop/human-authored/020/citations.jsonl",
-    "sha256": "4af986701d294207dcd53c364eecfd9d95e67e216d08e5fe7c96a583f62100dd"
+    "sha256": "377f7c21456899a8e0875087f0bf2b400b53eb81a16d00a97d6c8a3a008fedf2"
   },
   {
     "path": "0hop/human-authored/020/references.jsonl",
-    "sha256": "c83e6c639d1ace34991a5389c0b0a725a9dc61c7ba73c79886eda787544b6e62"
+    "sha256": "f9e2677317e314a31ba9c0f5bf4ccd5ae97ed2bbcf4fd6a29808b3ded82781d0"
   },
   {
     "path": "0hop/human-authored/021/citations.jsonl",
-    "sha256": "1e7ada0998e2bbc48beb0e3a4e6374b9e1569faeb660d8c9443132a945516bbf"
+    "sha256": "0f52304eb8f58ce3d7e3f55511e90b9923af72b669d07b9a35d7dc6835df0ea8"
   },
   {
     "path": "0hop/human-authored/021/references.jsonl",
-    "sha256": "ed9cf9c2bd3451c1d0f15046bd0389bbfa75adea7e75592a95babb5c2ffdc7eb"
+    "sha256": "350e01bb8daebeaaac80469d5503d20145f36638cc2928a37bb20b900e5b64a8"
   },
   {
     "path": "0hop/human-authored/022/citations.jsonl",
-    "sha256": "9a64787d9de0dc4e8c89c0943ff2af12baeab64d5b8dca056605758b7ae14b8a"
+    "sha256": "3bff988e9d170625ad1ee55217fc9abbe3fa71a8dd430bd88d54694bd71f9a23"
   },
   {
     "path": "0hop/human-authored/022/references.jsonl",
-    "sha256": "cfe4f7a1168a77a097940dfa2199ef9a5bf12d5c63dc0121f03626435c51cbf7"
+    "sha256": "6e5b260f5925ff19ea6c5443e71ecefef4ed163d2f2d6648a3e4b075930b031b"
   },
   {
     "path": "0hop/human-authored/023/citations.jsonl",
-    "sha256": "6615602857eb3153403d2f2051111ad9def0dd540e236d94f48375dfc2ae12f5"
+    "sha256": "d03fb98913fc72e4cfe16a416162db020b3fcf2d63d6cc037e9214093495bee5"
   },
   {
     "path": "0hop/human-authored/023/references.jsonl",
-    "sha256": "bd7d81ee40b59423f15af1536bc69ecdcc7349c15c5f2afdcb4a1240eb61f123"
+    "sha256": "4b1e40b8f854decca33cfc280babb55f8af905644c2cd39c2556810f506bebde"
   },
   {
     "path": "0hop/human-authored/024/citations.jsonl",
-    "sha256": "98f76dff46bde81236d228536a49ce030d114993d68dccf0ca4f0d8d42713d0f"
+    "sha256": "8ebfde3442923faa2c0adc3aa9af45b81b923a7b5758d7cc286956ce26ef4042"
   },
   {
     "path": "0hop/human-authored/024/references.jsonl",
-    "sha256": "9fae0e5551a7843a54266cb527b493ba7c4b1718e17bcace349b51195ed2ad7d"
+    "sha256": "2dadebfa30b11369a5a1a3677a17f1f9033dc337c5f2dd6c9886a48afa4b06d4"
   },
   {
     "path": "0hop/human-authored/025/citations.jsonl",
-    "sha256": "2a300229c8984f6d70ba3e749ed04ba9039bfcf0f85a1283b444d18c2e669a6e"
+    "sha256": "fa9fa52ec747dcbb124750ee9b4cedc92d4f07f40f2ea3ba53892e053b251203"
   },
   {
     "path": "0hop/human-authored/025/references.jsonl",
-    "sha256": "56f2c95bd51ce39339b49ed027ece2ab0db2f832cbe0351a5ef03930194e731d"
+    "sha256": "7fde4a9e8709a1d43cf6894f62b783a78faa4a7f19d6a5b5769669b4caa625ef"
   },
   {
     "path": "0hop/human-authored/026/citations.jsonl",
@@ -3409,107 +3409,107 @@
   },
   {
     "path": "0hop/human-authored/027/citations.jsonl",
-    "sha256": "c0fdd1b8ea39e0cde5b9ff3cf705e9e97422ab5f15f58319fbe1119bde06ffcc"
+    "sha256": "2c02c6d86b595155ab3d167423df681a4ef5cb68e19ed17169cbb33c09a3a3bf"
   },
   {
     "path": "0hop/human-authored/027/references.jsonl",
-    "sha256": "74788104c0035121aec36b2fbbe6fc0f53367f89ae55895f7d00a2392587d6b6"
+    "sha256": "83b74fe49ce0b236e3332807d1ce1ef2110ff5a26b5ef43454ca2914d8b19dca"
   },
   {
     "path": "0hop/human-authored/028/citations.jsonl",
-    "sha256": "c30ccf2a9b7b2626ed6d0e8e7c1fcffac36990363b21e0c78d74988defec2fcd"
+    "sha256": "86a41b23ef8de8ba0bcd5370a7e7a909063e34b52b9ac5fec776cfabbc460bd3"
   },
   {
     "path": "0hop/human-authored/028/references.jsonl",
-    "sha256": "bb6e5786ab6993145d82d345aa78f7cb43d28ce1a9e4a9433673ee6435b1a7a7"
+    "sha256": "c3efba1b10a3c4bbf4b9a2ef44d3bcf9816bc041eda3de53ebd2e36b5378734c"
   },
   {
     "path": "0hop/human-authored/029/citations.jsonl",
-    "sha256": "91cdd0395f965ebd0ab6fe158b99dddb66bbffc2fcc7e49f471b5d3c11689cd1"
+    "sha256": "74171c9a1dfeae73adb7feabc5b7455d40a583b4fbeb4c4d7a8a47b56c9bd5cc"
   },
   {
     "path": "0hop/human-authored/029/references.jsonl",
-    "sha256": "842ff6ebde66a6bbebe04f3b548a2e9a20b2804f01d60295467a2ca1aa9703ef"
+    "sha256": "113f22657a21494ef9df52115ae6fcb583f2db36853a1c3579e0a02f8d7b6316"
   },
   {
     "path": "0hop/human-authored/030/citations.jsonl",
-    "sha256": "5c98a589f5d6392eb257999a8e97c46eb31afddf5c69a71737da34fa3b480f86"
+    "sha256": "77af58834a080f03a134f1c1dbc887b827178dcdd2194686bdeab115e2175e7d"
   },
   {
     "path": "0hop/human-authored/030/references.jsonl",
-    "sha256": "6721fddd4b989222fdf500c6b7f2e0121d70a1f0d0d14a0837fa4fca4e890f42"
+    "sha256": "47bb3cc987d94db635e0b33de5fa6736e011a9ecd902e24306e8e091f121881a"
   },
   {
     "path": "0hop/human-authored/031/citations.jsonl",
-    "sha256": "9eb54b0a7dba1c7e348e11ac9d5cca1c55f5091ec719db2a255f95604de0ff47"
+    "sha256": "b2d8a6e62dde7fa819f0f7b5a25ffce2ac9bd23cd8e49dd3dcc5692c9a3f8ccf"
   },
   {
     "path": "0hop/human-authored/031/references.jsonl",
-    "sha256": "de3d1615777e956f164b9e938c4d0ebb494176fddd8d3d0d35e1ced57d91e1d8"
+    "sha256": "c4651f251d6f6fcc66968141dc1378c39d1f26a07b90d094372f95245128e3ab"
   },
   {
     "path": "0hop/human-authored/032/citations.jsonl",
-    "sha256": "1a1b71a1124348fc1fa23fb0d662f1b76b76b63d1bb6efce28dab23325b6111f"
+    "sha256": "4ef686e79ae926077b1a4b670d4d2a609f0c037c752f847a2a76dc8faf8a890e"
   },
   {
     "path": "0hop/human-authored/032/references.jsonl",
-    "sha256": "4b316d51b067725d04e38fc79d3b81a7209c6bab2aba0d1d7ab6f4cf736415fa"
+    "sha256": "27bf90f98b56938c01f8670a0fc35ba582433679950ed993de88d5b0dd93c6ff"
   },
   {
     "path": "0hop/human-authored/033/citations.jsonl",
-    "sha256": "c07e9dd7e50f9586d62f5cf816c5d5b6e378dbca0a06c9aaaf833bdcd33e3387"
+    "sha256": "e59a39c30b441c7f19d15235b34be626a2858f0bc856b9f6b7087a81259335ea"
   },
   {
     "path": "0hop/human-authored/033/references.jsonl",
-    "sha256": "e54176667fbe9dd03728c16fca6be5c09ad5c860df35935ad6c054d95a411b9e"
+    "sha256": "6c7a7bfb85f42ec795183fff4d43904b9c64a300d7f12371e4dc00d4215a0c30"
   },
   {
     "path": "0hop/human-authored/034/citations.jsonl",
-    "sha256": "1597541f6e097f6f8e3b23505891e808aaa89fffd9fc9537b362b11a42cc19cc"
+    "sha256": "b6a5c7ac45c1429c3d55525e991b5774915c4e527ba2e4ce873d1ba342ec9419"
   },
   {
     "path": "0hop/human-authored/034/references.jsonl",
-    "sha256": "cb85b39c44c4c049851623c42b1713260e8678e5aa6a0053e47523edd05e2927"
+    "sha256": "8d8de14f30ccedc83f3effd1c8006e348478d9e0ddd6a3f04aebe60f275e80c6"
   },
   {
     "path": "0hop/human-authored/035/citations.jsonl",
-    "sha256": "a801dcd7195f344be7256fd157f02076f5870d376f483625c377dcff111c641f"
+    "sha256": "ecb8bd612288371924759dc0696f3a7b879472583af36f3ebbce0d4c6dac43de"
   },
   {
     "path": "0hop/human-authored/035/references.jsonl",
-    "sha256": "97b63bdff47eecd25566c860ba4ec53912109b14677588ec552248cdcbc08369"
+    "sha256": "f1a160117cf8f1783945bb2e3e53add35eeffb6d9a46015bdc6205fc6a58f9c2"
   },
   {
     "path": "0hop/human-authored/036/citations.jsonl",
-    "sha256": "94d359c7c93a4232bda2ca1e202aaebb1572c6d37b6debcddab43f18130cfcad"
+    "sha256": "53cb0b4d9bfa65f7b977f471bff07d17583857340b8faf12565a734adee736ce"
   },
   {
     "path": "0hop/human-authored/036/references.jsonl",
-    "sha256": "73a48eb4153c8517e733f218d31ae6b8e90035ffb13cd8987bc5ee29e5571a17"
+    "sha256": "4b1b40abcbf0ad03fd095fab9d7a53d082165570103a2c0f5a68d40751f4e84a"
   },
   {
     "path": "0hop/human-authored/037/citations.jsonl",
-    "sha256": "1ad9f4729eb65943277ea00f8547a963831949ae0b8eb4f6996ece27fc76eb31"
+    "sha256": "716062e678ca24cb07ee525d788416da3ef35e4af1360058584e6d5902fd2550"
   },
   {
     "path": "0hop/human-authored/037/references.jsonl",
-    "sha256": "43b70eb9bec37e3b0d2e50d92708706a1ca106e9ce7dfa94345af72975534ed5"
+    "sha256": "5e400d90c2a75366eb7a7020dcdbec47e5faf9e623883773cb54808f7cc9af4c"
   },
   {
     "path": "0hop/human-authored/038/citations.jsonl",
-    "sha256": "bfb28cfc1dd98d2798eb7cf403c820b34b0bdb792380bb80a531314abe94ec0e"
+    "sha256": "1368b8c9a100f4cdc51e04e5fbc1e25eb1895b6ed423a6c672c009e760c5771f"
   },
   {
     "path": "0hop/human-authored/038/references.jsonl",
-    "sha256": "5b5c149f66603f2d44f5d729e241d82612ee59326514d3fc9d221203cd609c6f"
+    "sha256": "c4f4349b9164ae6aade42ddf5468d8e3d89c7fa3f06d74c6cfb81274bc8dd277"
   },
   {
     "path": "0hop/human-authored/039/citations.jsonl",
-    "sha256": "8cd03c37222b6eccce93387d29068ace4b05e63c05da8037bce124689352d16d"
+    "sha256": "21707d169184bb22992d45a641dc6801dbea39238b7c32e72017b209d7f303bb"
   },
   {
     "path": "0hop/human-authored/039/references.jsonl",
-    "sha256": "9dc2f84fe868b242fc6968f6ad62e2757beb0b8e30db18a4a35f66d15ca23a6d"
+    "sha256": "55557ea0ed26cc042f63af0d4408a782c194130c6a8f19dc0eb2a6d111ae4233"
   },
   {
     "path": "0hop/human-authored/040/citations.jsonl",
@@ -3617,11 +3617,11 @@
   },
   {
     "path": "methods/ai/003/citations.jsonl",
-    "sha256": "68df3ecef741ab0ece18fd12a25e551619adb0bc2a266a6dfa4df9c23f60b88d"
+    "sha256": "f2ff971b6457b179e35b9060cac68bfce38b1de925bbb47880a37454599a8e92"
   },
   {
     "path": "methods/ai/003/references.jsonl",
-    "sha256": "7b27481f35f3a3c9a324601f91ad7a4cdb95830b92510a1ff826f739a7d90634"
+    "sha256": "97e20fdcaa4db95a40567db7d140fee18e4c1cf658abed1c8f0033018cb81f8c"
   },
   {
     "path": "methods/ai/004/citations.jsonl",
@@ -3705,11 +3705,11 @@
   },
   {
     "path": "methods/ai/014/citations.jsonl",
-    "sha256": "47dc66a74b304fa0eacbc6ae3b557dd251e858c8a5a9d347daa27bd123e4a65e"
+    "sha256": "9fa39f3613a90fa7945843082425f35469d2c81e675559abce1185d6f0314409"
   },
   {
     "path": "methods/ai/014/references.jsonl",
-    "sha256": "38fe8c08ad33fbb249284c1a9c3d43932ed786bc9239752c3e045368d60c3b9d"
+    "sha256": "29e259bded72576aeb2c763e01e7bd3067e46a1461d363d238f764f7957adad7"
   },
   {
     "path": "methods/ai/015/citations.jsonl",
@@ -3945,11 +3945,11 @@
   },
   {
     "path": "methods/ai/044/citations.jsonl",
-    "sha256": "53a20cca02a0171295aa30594606ace08d429d5cb8eadff3944f293d213a4a8f"
+    "sha256": "a21254f8117d86f403d0200974589b11dd26bbfdffb3c57ae2d6cf83e2773f1a"
   },
   {
     "path": "methods/ai/044/references.jsonl",
-    "sha256": "4765de4378d25c5efd7317b21a01a29d68781596cf8b26d6c7c5e535ee58e04a"
+    "sha256": "694f6ce26a868b684636b5b2c0ca6ffdd0cd145b090328b7e2dda12c2925a274"
   },
   {
     "path": "methods/ai/045/citations.jsonl",
@@ -3961,11 +3961,11 @@
   },
   {
     "path": "methods/ai/046/citations.jsonl",
-    "sha256": "05821fc77f2b00bfc0c381e3804b8679cec98046813606fc9d2a5f8a3f3850a4"
+    "sha256": "f895681cba971ee7a8b755e3b1de1b96b675df44733cc3fc3431919bd0da8bd4"
   },
   {
     "path": "methods/ai/046/references.jsonl",
-    "sha256": "e68eb439291f925a488d51494484a1f4ba7db52a4d61f2f1c3f3606e86c12203"
+    "sha256": "13d402c278d56932137b8de65341bde8fd1c2cbca57794af5a86a4564ccd51f4"
   },
   {
     "path": "methods/ai/047/citations.jsonl",
@@ -4009,11 +4009,11 @@
   },
   {
     "path": "methods/human/002/citations.jsonl",
-    "sha256": "eba52cd7bf261d1486dd9d3062ae583f5e12402abf22b1e5f27d0ccbab5c7b8f"
+    "sha256": "fb85565ba9b8eb79b0194d3d1e3f87494cb960161067927d8ce1b6ebdea3d624"
   },
   {
     "path": "methods/human/002/references.jsonl",
-    "sha256": "451fa5d6709484e42eb4d38b7688783aa35b2d9db4e3c373f10580f47373457f"
+    "sha256": "e57a394a182259f1e08642e1fc43d02978ca31503004b1afa71b5f98220c774e"
   },
   {
     "path": "methods/human/003/citations.jsonl",
@@ -4025,19 +4025,19 @@
   },
   {
     "path": "methods/human/004/citations.jsonl",
-    "sha256": "62b9173c11f288eb1b45f675bc612f0bcbbea37a5737dcc789a4656f11c52eca"
+    "sha256": "20083977ec7a99631ce29964c9b87f4bf202763533c7206041acd2c99dd0e2ca"
   },
   {
     "path": "methods/human/004/references.jsonl",
-    "sha256": "d13e74be40e564e9f7ea71d6c233237e4cc405f8a4149334e6321a5aeb2636b8"
+    "sha256": "de5955bc36f113304e813aab89f0dbaac88a6187a6d2173426ceaf67ff6e56cf"
   },
   {
     "path": "methods/human/005/citations.jsonl",
-    "sha256": "eb31dc46f90f6826c1ef3cc36914a934d94ef6bedf7c82f2e63647fe64c5f0ee"
+    "sha256": "84e882c514484753f15521c7656e0359600efd0e6349f42315f9fbc536fdbb0b"
   },
   {
     "path": "methods/human/005/references.jsonl",
-    "sha256": "5fbc16ef0f99648ea692133ca3d4a898861b17db55ac52f5cd80538e987b5a71"
+    "sha256": "398ca99c0efaec254ff60d58036fe43531a2d574bbd4da5f095fea45b047a317"
   },
   {
     "path": "methods/human/006/citations.jsonl",
@@ -4057,11 +4057,11 @@
   },
   {
     "path": "methods/human/008/citations.jsonl",
-    "sha256": "8702d0d63ecd967aac4f40d0b329968bfb443436b1b0fa7d3bfa472b51ab1070"
+    "sha256": "51b2be3d3662080df1bba89be4883bab8ae6efa1b00e6111f50a4004ae29f0b8"
   },
   {
     "path": "methods/human/008/references.jsonl",
-    "sha256": "3c9f5752db62c79457d08d77633062558c6f2c3b5a5eb8d219acd95428e2338d"
+    "sha256": "547c24a7e23a5e01661be08118bbe2c2b832c4cee21e99c504b12a3c323912cf"
   },
   {
     "path": "methods/human/009/citations.jsonl",
@@ -4073,27 +4073,27 @@
   },
   {
     "path": "methods/human/010/citations.jsonl",
-    "sha256": "90527ab133450e2ba74be2a9646f61ccc35e8b95d1ebf0460cefcbf816e7b3e1"
+    "sha256": "41dff63af9191de67647822a942af17a0e0b5fd9adff1689dec70a5c025fee7d"
   },
   {
     "path": "methods/human/010/references.jsonl",
-    "sha256": "fd000098edfd0eeb113597152f2e1344a612cd6d99afe1646475f430b6ac4ef3"
+    "sha256": "60548b78ed55838f06c0b7411f5676c55068521e579fae040c8dbc08c54e1e61"
   },
   {
     "path": "methods/human/011/citations.jsonl",
-    "sha256": "68f166e66bdc9f1bc5acad18b666b5a61372760f9d1cdb61acef08db91c8a516"
+    "sha256": "30881e8410e13481bc9fae0917561de8949aa4fae3622564746d0185994043b6"
   },
   {
     "path": "methods/human/011/references.jsonl",
-    "sha256": "20a375773d09ad561de1f7a087a093cb208dd20bcbf839556d195ee477a697d5"
+    "sha256": "65172b2923347152897ccbc2e1f96ee85a8a63d134ff9f5b28adbe2673efffb7"
   },
   {
     "path": "methods/human/012/citations.jsonl",
-    "sha256": "6f63723e42c14e3c3a2c1de6e7d474a764cf60a12238dbe245611df0c3c3b012"
+    "sha256": "f87065f70e0afe07302efb3aaf4e224b74e677f7831a6c7d4c7e32e9c7d36078"
   },
   {
     "path": "methods/human/012/references.jsonl",
-    "sha256": "97dde82c843fbf961e18af5204785d1f204936a743c79ecd4971cc398822844a"
+    "sha256": "9d39b1e3fa1353828b04dbbc0fa843fbbbb2d0ee4ecec9843f32f35f39a0f5e6"
   },
   {
     "path": "methods/human/013/citations.jsonl",
@@ -4105,19 +4105,19 @@
   },
   {
     "path": "methods/human/014/citations.jsonl",
-    "sha256": "33898129b02bae55782778ab670d920b3753bf43bac904417a88e926abee7ddc"
+    "sha256": "e8c0e22d52c09f6dc1588d1d17c8a7346561d0fc8f18a86288470df73f4a8dfe"
   },
   {
     "path": "methods/human/014/references.jsonl",
-    "sha256": "d3f78ebb2b70404800b0b8454be4c6ca29fc2be3bf7390aac01fc3a9061379ec"
+    "sha256": "437c8c49973307261e0f64f408ffc9cc01841a0b2da53521fc6819c430338678"
   },
   {
     "path": "methods/human/015/citations.jsonl",
-    "sha256": "88202ca9842973291709574e8cd1ef24caa28e5d68410bd967219f8a6d3a84ba"
+    "sha256": "eb8013ef75f251be232fb3beea37bb8082a0613ffa188d21f799007c3acc41cc"
   },
   {
     "path": "methods/human/015/references.jsonl",
-    "sha256": "10b103972925d6d5253bba015334181d3f565c637d8da4c241cc31d67b85ccb5"
+    "sha256": "f7e496ffd20d4281aa3ee3da6819798baf4393c3d864230b3eaff7dc62bae85b"
   },
   {
     "path": "methods/human/016/citations.jsonl",
@@ -4137,11 +4137,11 @@
   },
   {
     "path": "methods/human/018/citations.jsonl",
-    "sha256": "296de755f1d66f39507560960ea83f8547f55ef212a922702baf49bcb489f8d6"
+    "sha256": "7f6d66919d03a073135a5e95f49c2d43c37f90b5b556b448cdd21df950326790"
   },
   {
     "path": "methods/human/018/references.jsonl",
-    "sha256": "4749153de6724129ace107fb91f37ea1b3fc7dbf4df3f633c150e015af3dbb1c"
+    "sha256": "b92286fe60ae37f694c65913763f9a151561937ea61e89a01639c3615b8100bc"
   },
   {
     "path": "methods/human/019/citations.jsonl",
@@ -4153,27 +4153,27 @@
   },
   {
     "path": "methods/human/020/citations.jsonl",
-    "sha256": "88fea213b574d0e75e8680ca5569971f4a9494164aedc87a8df1781ae54de25b"
+    "sha256": "5a9164f67ed6ee7d4c51a7b9bb5c4ff8726118467f668db7519e434e42f7ef47"
   },
   {
     "path": "methods/human/020/references.jsonl",
-    "sha256": "6cc0cc4caecbdb12f16e130eb4d8898375d4d06fd836ace486d410e239cb4cda"
+    "sha256": "a13a2de66147f40a3b942259ace0ac959213e52cea25a1600e934744e892e42c"
   },
   {
     "path": "methods/human/021/citations.jsonl",
-    "sha256": "112af714fa3c281664a4d7fdc317ca7ac50ccded3c52e5e75dc66259e78d4263"
+    "sha256": "515f194ac2bec28ef0f8f8add12fa24c1e9b352922cf4dd394a627fdf0e410b7"
   },
   {
     "path": "methods/human/021/references.jsonl",
-    "sha256": "a0f7f2b3c7f01d659d4c2bda42428883173a45fa9940fe20e765fa448bac268c"
+    "sha256": "257437c8c57b414b14829a62fe3360c99ad358331be7dfa314f3c64f09600eb1"
   },
   {
     "path": "methods/human/022/citations.jsonl",
-    "sha256": "b965e505d319b136b6dc13bc7e57b7abbac63cdcd70dac12cbe78e4dff37d1fa"
+    "sha256": "4ab35ad35790a299559cde4cc513e24716efc67920f0050eb10d42ded803637e"
   },
   {
     "path": "methods/human/022/references.jsonl",
-    "sha256": "23718f037e9e41f0bbf9595332b9f7e256304f792aaa7563bea17520a28d6a3c"
+    "sha256": "5d122909c495bf8407c8b15877fddcd629abb9d37bd4697310e6272438b1c34d"
   },
   {
     "path": "methods/human/023/citations.jsonl",
@@ -4185,19 +4185,19 @@
   },
   {
     "path": "methods/human/024/citations.jsonl",
-    "sha256": "604cd846f4bc405a9879b47fb1d643e2f9d11bfd372918ed0970e1cde400ebe0"
+    "sha256": "cc39d2b1c60982e633ea6fd2548677d5c210b799f14b8a5a1e13ee081324c9c8"
   },
   {
     "path": "methods/human/024/references.jsonl",
-    "sha256": "c04e0f78829466a35f2a111c3ea4c714a15b2713cc805233ade99053eed8cde6"
+    "sha256": "f5560be8e32f0040e5b7731a83a3180668a94044d119eb53bd0c08e7a2e3e2d1"
   },
   {
     "path": "methods/human/025/citations.jsonl",
-    "sha256": "19f63b265e57cc7600bfb664d268caa61018a9dd5baa66b321e553aa45c620b0"
+    "sha256": "66a997acde7c6316f8a7dc50321963f3a355470cb6c4034c3e261f3cbed2f402"
   },
   {
     "path": "methods/human/025/references.jsonl",
-    "sha256": "4ee849224ef2341f7779ac911ad2f0c02c1a0ff332d2dde9ff48b304ccfc41d7"
+    "sha256": "fcf5425b7bbc559d40b7d727ff5728cc3f9bcf79b51b54db558a94e5364eefaa"
   },
   {
     "path": "methods/human/026/citations.jsonl",
@@ -4209,11 +4209,11 @@
   },
   {
     "path": "methods/human/027/citations.jsonl",
-    "sha256": "2417bfd51f86546f36078a08a105e6964048f64bf4e02130733b9ac55427640b"
+    "sha256": "c9f31d323a109cf05cbb6d76801fb7822c8f44da46fb79262a899437f812fbd4"
   },
   {
     "path": "methods/human/027/references.jsonl",
-    "sha256": "d245d3821aa7673f82f01faf7d089ce59694cdfbbee09906f6ed4b49c6544c13"
+    "sha256": "8d4745ea6b71038723b0a00f64a1d6950cb99a8da62f0049a963ec02380cbc88"
   },
   {
     "path": "methods/human/028/citations.jsonl",
@@ -4233,11 +4233,11 @@
   },
   {
     "path": "methods/human/030/citations.jsonl",
-    "sha256": "f064a59c73f9136589a97f73d6e0b580d7dfa1dd3d80c2223355d0dffa630943"
+    "sha256": "2af8e90df7e9075268d0e7e9a1a56ba0800c65e01a2c116771cb1d848da7aa63"
   },
   {
     "path": "methods/human/030/references.jsonl",
-    "sha256": "32c24c8509172f67fff67350333b32e8bb6260b9beceaa991470290b6ec12b62"
+    "sha256": "27983e8e9555714b9dd50942b7c231638ca2b03dd7835cece83e5243d4d2a932"
   },
   {
     "path": "methods/human/031/citations.jsonl",
@@ -4265,35 +4265,35 @@
   },
   {
     "path": "methods/human/034/citations.jsonl",
-    "sha256": "dbe0e16fa62ed322749e7a7f62dee05a5973064ee028f756e7e33173c5731bf5"
+    "sha256": "761fe38f2967e5db42336fdab99f811f2060ee9d5571c4bbd60979c045e1130f"
   },
   {
     "path": "methods/human/034/references.jsonl",
-    "sha256": "eea9a42d1dbfeff9e4a95da35e0a2e4de8c2a39afb27aa6c3c69b00e0111ca0c"
+    "sha256": "a98478cd741dc5de2469636fac0c931c04182336f1136b02709bc053d7751fb3"
   },
   {
     "path": "methods/human/035/citations.jsonl",
-    "sha256": "a5f3a4e3a6ec258c81068e1044f1d183a77489db2eb5b49d15a229bf942e72d4"
+    "sha256": "322bbfd8a01e5203d764b120ca68d72f77944b2bcb8e346f058ab0bb53f9047d"
   },
   {
     "path": "methods/human/035/references.jsonl",
-    "sha256": "be6a7690088f0eb2f3045cdfe1b9c85bfcb40e1342ae7efed4b7e4db5eac326a"
+    "sha256": "45863144bf223cc95f0811b3d7887ab5c05212b7bffe739edfa874557253f802"
   },
   {
     "path": "methods/human/036/citations.jsonl",
-    "sha256": "2893bb14af349f0c859dbb1962bd93c2c42488e70be9871664aea640790a4fca"
+    "sha256": "0e239d4376f9783053e34e41fdfbedef56a2a03ba50d1230f3e9566e8b668f45"
   },
   {
     "path": "methods/human/036/references.jsonl",
-    "sha256": "d497db7cced6bd7dc72b5af71bfdd1458709bd7f55f1780afb2de1f38272b63d"
+    "sha256": "eb2ed67c01f6b8c2cd251a5d1cc68b058cd1a10d9d998a5912c30d361f34f26f"
   },
   {
     "path": "methods/human/037/citations.jsonl",
-    "sha256": "70b598228c924a9b3561ec7da7b73f621b947fd82488fd874427e6deda8fc418"
+    "sha256": "35b2406dfaf139bf9d82a187d16078ec802dd32fec2b81810135db796506913f"
   },
   {
     "path": "methods/human/037/references.jsonl",
-    "sha256": "46b55bee97f6d208267b65b4c7c9ad3a2633634822c32397cf4ccf99b59635b4"
+    "sha256": "7f4d578e08005c16144cd5a021a4dad6fed65504dabec5c52bf0d7660b607b08"
   },
   {
     "path": "methods/human/038/citations.jsonl",
@@ -4313,27 +4313,27 @@
   },
   {
     "path": "methods/human/040/citations.jsonl",
-    "sha256": "6574d22d74b45709bcbe7431a4500822e5b7cbe9214c3cdc29fa1885f1bbd2d9"
+    "sha256": "717cd30e4377a85df974a5a50ae90e303ed2fe2598af1ea99da0d8c5ae480722"
   },
   {
     "path": "methods/human/040/references.jsonl",
-    "sha256": "4e558d1eb2dbe69a83338cb4abfe10205b32d5c7593446a58258760818ccf43e"
+    "sha256": "bd1b69281466da547793179cbc26f42d7fc513fe59fe3ad4b31d2c1d403cbd81"
   },
   {
     "path": "methods/human/041/citations.jsonl",
-    "sha256": "c171df88e33fee5bdca04cbf324fc04a53ad36b0d7467a4a68b97179a4f95731"
+    "sha256": "d420c460ae497f1ec39f6b04341a24758b4f1aed406d67b0fa3b9b4a909d99df"
   },
   {
     "path": "methods/human/041/references.jsonl",
-    "sha256": "2ab812b2458e53160bbd58689a70a2064b47b178aec82aed439fa5ab533e0322"
+    "sha256": "8702dbdd0a968ad6875ceb24bee1b5e9b41c4cd19efb854cd4e0a0a1b56c3418"
   },
   {
     "path": "methods/human/042/citations.jsonl",
-    "sha256": "c0c94968a8f1ea1fbc325a48fe4697c0d93e61f8ba132fbf762d82a8d04bc4fa"
+    "sha256": "bb59678e5092d305942fe986a7771b527eaa3a1cfc78d7aa11246d721285e26a"
   },
   {
     "path": "methods/human/042/references.jsonl",
-    "sha256": "d6c10440eba887f5b315051ee610d1093545a1810d47a901bc7ec9dd15f3c2fa"
+    "sha256": "a26a96d6255b61005cc4ff471a5a9d39e052dd251d586640a8efd851d49fd378"
   },
   {
     "path": "methods/human/043/citations.jsonl",
@@ -4353,11 +4353,11 @@
   },
   {
     "path": "methods/human/045/citations.jsonl",
-    "sha256": "966afa39a63f4e8832f2440b878cb46117ed30d11cf5c3eb46534495a530b639"
+    "sha256": "abd09b1596aeff493716e2d4b2fd0006cffb764f42e9a08669d00a4f06fd9795"
   },
   {
     "path": "methods/human/045/references.jsonl",
-    "sha256": "d0fe60b5cd68b6d43e83fd9e27258adda72fcf088f46f051adf63a1df1a0777d"
+    "sha256": "b6ef2f3b88d5e0be320f3b8d4b883cd3ddc7b1a07563cbd4a3eca29d7288b63a"
   },
   {
     "path": "methods/human/046/citations.jsonl",
@@ -4377,26 +4377,26 @@
   },
   {
     "path": "methods/human/048/citations.jsonl",
-    "sha256": "9a6372ccaa17b975eeb7a620831d476af9155eed2d53119698c1359292421f0f"
+    "sha256": "8ec0ae88311bf6cd8a3c724e54d1e41a4060c70d1b0daeb149a263a834facad4"
   },
   {
     "path": "methods/human/048/references.jsonl",
-    "sha256": "1fdc836cb0ccb03cf009bb251d91900f609247a05963acd615f84947e90edc5c"
+    "sha256": "a6030ef5f20b8837822eddf13fdbbdd99a5e9a26370a79eeeda8fe05d68a7249"
   },
   {
     "path": "methods/human/049/citations.jsonl",
-    "sha256": "75bf0f24318cfe19c49b2d663ed40b01904516e26ccbdd325647a598377e13e5"
+    "sha256": "3b1a942bd95d34c1958bacfe9a3ddd9724f0c9b1e5e80f734a3636bb0036cc22"
   },
   {
     "path": "methods/human/049/references.jsonl",
-    "sha256": "60fc82767fcf3093a8f153bf22457d3a5bfe3ee2346ded907f1c64922aa03746"
+    "sha256": "995edfc059b714e63b88dc01f5db418d063430df4fc2a07a84bc28e7ca3ed1a8"
   },
   {
     "path": "methods/human/050/citations.jsonl",
-    "sha256": "cd05dc6201a4669cf489d0d6e0d7cb785efc5a292cdbb23e78fe80ace926bc9e"
+    "sha256": "a3e6a39a7fca8aa0f1f6fd0256b52131b7bf5cc221f56fe0f2e0b3bd07e30178"
   },
   {
     "path": "methods/human/050/references.jsonl",
-    "sha256": "2c6b6c86544c67cc38b5e0df01219596b573d894733d9d9378d19ac498e674a1"
+    "sha256": "03d555f9a919cb2c2321e01114f5a4bc84ae4700779909201ee8ee397a889adb"
   }
 ]

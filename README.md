@@ -12,7 +12,7 @@
 
 <p>
 <img src="https://img.shields.io/badge/EMNLP_2026-Oral-6D4BC3?style=flat-square" alt="EMNLP 2026 Oral">
-<a href="data/CATALOG.md"><img src="https://img.shields.io/badge/Dataset-77%2C015_citation_events-287B74?style=flat-square" alt="77,015 reviewed citation events from 550 paper entries"></a>
+<a href="data/CATALOG.md"><img src="https://img.shields.io/badge/Dataset-80%2C627_citation_events-287B74?style=flat-square" alt="80,627 reviewed citation events from 550 paper entries"></a>
 <a href="data/LICENSE.md"><img src="https://img.shields.io/badge/Annotations-CC_BY_4.0-476C9B?style=flat-square" alt="CiteSpectrum annotations: CC BY 4.0"></a>
 </p>
 
@@ -54,7 +54,7 @@ Each step adds a different form of guidance. The source topic stays fixed, so pa
 | **Text-Guided** | Human-authored prose and reference pool; the model restores citations | [50 surveys](data/0hop/gpt54/text-guided) | [50 surveys](data/0hop/qwen80b/text-guided) |
 | **Human-Authored** | Original human-authored survey | [50 shared surveys](data/0hop/human-authored) | [50 shared surveys](data/0hop/human-authored) |
 
-The reviewed survey release contains **69,120 citation events from 450 survey entries**, stored as per-paper JSONL files with companion reference catalogs. The **same 50 human surveys** serve as the baseline for both models and are stored once in `human-authored/`. Source IDs `001`–`050` pair the same topics across all conditions and models.
+The reviewed survey release contains **72,594 citation events from 450 survey entries**, stored as per-paper JSONL files with companion reference catalogs. The **same 50 human surveys** serve as the baseline for both models and are stored once in `human-authored/`. Source IDs `001`–`050` pair the same topics across all conditions and models.
 
 ## What citation behavior reveals
 
@@ -99,18 +99,24 @@ Results are from Table 4 of the paper, using domain-balanced five-fold cross-val
 
 ## Released data
 
-The reviewed release contains **77,015 citation events across 550 paper entries**: 450 surveys and 100 method papers. Each paper directory contains `citations.jsonl`, a matching `references.jsonl`, and a README with the full paper title, original author credit, source link, and source terms.
+The reviewed release contains **80,627 citation events across 550 paper entries**: 450 surveys and 100 method papers. Each paper directory contains `citations.jsonl`, a matching `references.jsonl`, and a README with the full paper title, original author credit, source link, and source terms.
 
 | Collection | Papers | Citation events | Browse |
 |:---|---:|---:|:---|
 | GPT-5.4 surveys | 200 | 37,002 | [Four writing conditions](data/0hop/gpt54/) |
 | Qwen3-Next-80B-A3B-Instruct surveys | 200 | 19,262 | [Four writing conditions](data/0hop/qwen80b/) |
-| Shared Human-Authored surveys | 50 | 12,856 | [Human baseline](data/0hop/human-authored/) |
-| AI method papers | 50 | 2,412 | [AI methods](data/methods/ai/) |
-| Human method papers · ICLR 2026 Oral | 50 | 5,483 | [Human methods](data/methods/human/) |
-| **Total** | **550** | **77,015** | [All paper titles](data/CATALOG.md) |
+| Shared Human-Authored surveys | 50 | 16,330 | [Human baseline](data/0hop/human-authored/) |
+| AI method papers | 50 | 2,415 | [AI methods](data/methods/ai/) |
+| Human method papers · ICLR 2026 Oral | 50 | 5,618 | [Human methods](data/methods/human/) |
+| **Total** | **550** | **80,627** | [All paper titles](data/CATALOG.md) |
 
 Use the [manifest](data/manifest.json) or [CSV index](data/papers.csv) to select papers by corpus, model, writing condition, or source ID. The [data guide](data/README.md) describes citation identities and review statuses. These corrected extraction counts differ from the manuscript's original snapshot; the reported experimental results have not been recomputed.
+
+<!-- DATA_VERSIONS_START -->
+The **full corrected release contains 80,627 events**. A separate **78,016-event subset** retains every generated survey and method event, with Human survey events selected proportionally within each paper. Its total matches the manuscript's reported size; its membership is a new reproducible selection.
+
+[Full release ZIP](https://github.com/DISL-Lab/CiteSpectrum/releases/download/data-2026-10-17/CiteSpectrum-full-20261017.zip) · [78,016-event subset ZIP](https://github.com/DISL-Lab/CiteSpectrum/releases/download/data-2026-10-17/CiteSpectrum-78016-20261017.zip) · [Subset selection and loading](data/subsets/78016/)
+<!-- DATA_VERSIONS_END -->
 
 ## Quick start
 
@@ -150,7 +156,7 @@ CiteSpectrum/
 ├── LICENSES/                  # Annotation and upstream license texts
 ├── assets/                    # High-resolution figures
 ├── examples/load_data.py
-├── scripts/validate_data.py
+├── scripts/                    # Validate, select, and export data
 └── data/
     ├── README.md
     ├── LICENSE.md
@@ -159,6 +165,7 @@ CiteSpectrum/
     ├── manifest.json
     ├── papers.csv
     ├── sources.json
+    ├── subsets/78016/          # Reproducible selection; no duplicate raw data
     ├── audit/
     ├── 0hop/
     │   ├── gpt54/{llm-only,rag,outline-guided,text-guided}/001/

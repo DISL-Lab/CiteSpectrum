@@ -2,7 +2,7 @@
 
 **ICAIS 2025 / AiraXiv · AI Method Papers · ID 046**
 
-269 citation events · 250 source-resolved · 19 unresolved / title review.
+270 citation events · 251 source-resolved · 19 unresolved / title review.
 
 - [Citation events](citations.jsonl)
 - [Companion references](references.jsonl)

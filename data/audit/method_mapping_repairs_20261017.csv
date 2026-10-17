@@ -1,0 +1,7 @@
+path,previous_line,marker_text,previous_reference_id,reference_id,title,basis
+methods/ai/014/citations.jsonl,4,Goodier & Campbell (2023),unresolved-ay:goodier|campbell|2023,ocr-bib-0003,Likelihood-based out-of-distribution detection with denoising diffusion probabilistic models,full_author_year_identity_after_literal_bibliography_boundary_repair
+methods/ai/014/citations.jsonl,5,Nichol & Dhariwal (2021),unresolved-ay:nichol|dhariwal|2021,ocr-bib-0008,Improved denoising diffusion probabilistic models,full_author_year_identity_after_literal_bibliography_boundary_repair
+methods/human/010/citations.jsonl,200,"Liu et al., 2025",unresolved-ay:liu|2025,ocr-bib-0044,Beyond distillation: Pushing the limits of medical llm reasoning with minimalist rule-based rl,original_pdf_citation_hyperlink_and_printed_suffix_across_page_break
+methods/human/014/citations.jsonl,66,"Nichol &amp; Dhariwal, 2021",unresolved-ay:nichol|dhariwal|2021,ocr-bib-0043,Improved denoising diffusion probabilistic models,full_author_year_identity_after_literal_bibliography_boundary_repair
+methods/human/036/citations.jsonl,11,"Sarao Mannelli et al., 2020",unresolved-ay:sarao|mannelli|2020,ocr-bib-0032,Complex dynamics in simple neural networks: Understanding gradient flow in phase retrieval,original_pdf_citation_hyperlink_and_printed_suffix_across_page_break
+methods/human/045/citations.jsonl,141,"Nichol & Dhariwal, 2021",unresolved-ay:nichol|dhariwal|2021,ocr-bib-0033,Improved denoising diffusion probabilistic models,full_author_year_identity_after_literal_bibliography_boundary_repair

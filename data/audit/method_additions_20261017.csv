@@ -1,0 +1,140 @@
+path,marker_text,title,source_reference_id,mapping_basis
+methods/ai/003/citations.jsonl,Ziaee & cCano (2022),Batch layer normalization,ocr-bib-0012,exact_bibliography_author_form_and_year_in_literal_body
+methods/ai/044/citations.jsonl,"gkamradt, 2024",The needle in a haystack test,ocr-bib-0005,exact_bibliography_author_form_and_year_in_literal_body
+methods/ai/046/citations.jsonl,"Akpe et al., 2021",Predictive analytics and scenario modeling for sme survival and competitiveness,ocr-bib-0044,exact_bibliography_author_form_and_year_in_literal_body
+methods/human/002/citations.jsonl,Gallici et al..,Simplifying deep temporal difference learning,ocr-bib-0006,original_pdf_hyperlink_and_literal_bibliography_verified_abbreviated_citation
+methods/human/004/citations.jsonl,(Jordan et al.),Muon: An optimizer for hidden layers in neural networks,ocr-bib-0023,original_pdf_hyperlink_and_literal_bibliography_verified_abbreviated_citation
+methods/human/004/citations.jsonl,(Jordan et al.),Muon: An optimizer for hidden layers in neural networks,ocr-bib-0023,original_pdf_hyperlink_and_literal_bibliography_verified_abbreviated_citation
+methods/human/005/citations.jsonl,Gionis et al.,Similarity search in high dimensions via hashing,ocr-bib-0037,original_pdf_hyperlink_and_literal_bibliography_verified_abbreviated_citation
+methods/human/005/citations.jsonl,Gionis et al.,Similarity search in high dimensions via hashing,ocr-bib-0037,original_pdf_hyperlink_and_literal_bibliography_verified_abbreviated_citation
+methods/human/005/citations.jsonl,Gionis et al.,Similarity search in high dimensions via hashing,ocr-bib-0037,original_pdf_hyperlink_and_literal_bibliography_verified_abbreviated_citation
+methods/human/008/citations.jsonl,"et al., 2023)",Benchmarking foundation models with language-model-as-an-examiner,ocr-bib-0004,original_pdf_citation_hyperlink_confirms_ocr_page_break_fragment
+methods/human/011/citations.jsonl,"Seeger, 2004",Low Rank Updates for the Cholesky Decomposition,ocr-bib-0035,exact_bibliography_author_form_and_year_in_literal_body
+methods/human/012/citations.jsonl,"ford et al., 2024)",Evaluation of large language models for summarization tasks in the medical domain: A narrative review,ocr-bib-0015,original_pdf_citation_hyperlink_confirms_ocr_page_break_fragment
+methods/human/015/citations.jsonl,\boxed{43},Generative skill chaining: Long-horizon skill planning with diffusion models,ocr-bib-0043,original_pdf_hyperlink_and_literal_bibliography_verified_abbreviated_citation
+methods/human/018/citations.jsonl,"Brekelmans et al., 2019",Exact rate-distortion in autoencoders via echo noise,ocr-bib-0014,exact_bibliography_author_form_and_year_in_literal_body
+methods/human/018/citations.jsonl,"Huang et al., 2020",Evaluating lossy compression rates of deep generative models,ocr-bib-0030,exact_bibliography_author_form_and_year_in_literal_body
+methods/human/018/citations.jsonl,"Park et al., 2020",Interpreting rate-distortion of variational autoencoder and using model uncertainty for anomaly detection,ocr-bib-0051,exact_bibliography_author_form_and_year_in_literal_body
+methods/human/018/citations.jsonl,2018,Fixing a broken elbo,ocr-bib-0005,original_pdf_citation_hyperlink_confirms_ocr_page_break_fragment
+methods/human/020/citations.jsonl,"Shaul et al., 2025",Transition matching: Scalable and flexible generative modeling,ocr-bib-0045,exact_bibliography_author_form_and_year_in_literal_body
+methods/human/020/citations.jsonl,"Karras et al., 2022",Elucidating the design space of diffusion-based generative models,ocr-bib-0028,exact_bibliography_author_form_and_year_in_literal_body
+methods/human/020/citations.jsonl,"Song et al., 2020b",Score-based generative modeling through stochastic differential equations,ocr-bib-0052,exact_bibliography_author_form_and_year_in_literal_body
+methods/human/020/citations.jsonl,"Song et al., 2020b",Score-based generative modeling through stochastic differential equations,ocr-bib-0052,exact_bibliography_author_form_and_year_in_literal_body
+methods/human/021/citations.jsonl,(Nachmani et al.),Spoken question answering and speech continuation using spectrogram-powered llm,ocr-bib-0022,original_pdf_hyperlink_and_literal_bibliography_verified_abbreviated_citation
+methods/human/021/citations.jsonl,Baade et al.,Syllablelm: Learning coarse semantic units for speech language models,ocr-bib-0001,original_pdf_hyperlink_and_literal_bibliography_verified_abbreviated_citation
+methods/human/021/citations.jsonl,"hexgrad, 2025",Kokoro-82m — when smaller means better in text-to-speech,ocr-bib-0013,exact_bibliography_author_form_and_year_in_literal_body
+methods/human/022/citations.jsonl,"Li et al., 2025",Minimax-01: Scaling foundation models with lightning attention,ocr-bib-0017,exact_bibliography_author_form_and_year_in_literal_body
+methods/human/022/citations.jsonl,"Liu et al., 2024",Deepseek-v3 technical report,ocr-bib-0023,exact_bibliography_author_form_and_year_in_literal_body
+methods/human/022/citations.jsonl,"Shang et al., 2025a",rstar2-agent: Agentic reasoning technical report,ocr-bib-0028,exact_bibliography_author_form_and_year_in_literal_body
+methods/human/025/citations.jsonl,Anthropic. (2025a),Claude 3.7 sonnet system card,ocr-bib-0006,exact_bibliography_author_form_and_year_in_literal_body
+methods/human/025/citations.jsonl,OpenAI. (2025a),Computer-using agent,ocr-bib-0040,exact_bibliography_author_form_and_year_in_literal_body
+methods/human/027/citations.jsonl,"et al., 2025",Huref: human-readable fingerprint for large language models,ocr-bib-0031,original_pdf_citation_hyperlink_confirms_ocr_page_break_fragment
+methods/human/030/citations.jsonl,(Holtzman et al.),The curious case of neural text degeneration,ocr-bib-0014,original_pdf_hyperlink_and_literal_bibliography_verified_abbreviated_citation
+methods/human/030/citations.jsonl,(Holtzman et al.),The curious case of neural text degeneration,ocr-bib-0014,original_pdf_hyperlink_and_literal_bibliography_verified_abbreviated_citation
+methods/human/030/citations.jsonl,(Holtzman et al.),The curious case of neural text degeneration,ocr-bib-0014,original_pdf_hyperlink_and_literal_bibliography_verified_abbreviated_citation
+methods/human/030/citations.jsonl,(Holtzman et al.),The curious case of neural text degeneration,ocr-bib-0014,original_pdf_hyperlink_and_literal_bibliography_verified_abbreviated_citation
+methods/human/034/citations.jsonl,(Anthropic Team),"The claude 3 model family: Opus, sonnet, haiku",ocr-bib-0002,original_pdf_hyperlink_and_literal_bibliography_verified_abbreviated_citation
+methods/human/034/citations.jsonl,(Anthropic Team),"The claude 3 model family: Opus, sonnet, haiku",ocr-bib-0002,original_pdf_hyperlink_and_literal_bibliography_verified_abbreviated_citation
+methods/human/035/citations.jsonl,(50),Osworld: Benchmarking multimodal agents for open-ended tasks in real computer environments,ocr-bib-0050,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,"(64, 21)",Webarena: A realistic web environment for building autonomous agents,ocr-bib-0064,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,"(64, 21)",VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks,ocr-bib-0021,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,(52),Theagentcompany: benchmarking llm agents on consequential real world tasks,ocr-bib-0052,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,"(28, 57)",Gaia: a benchmark for general ai assistants,ocr-bib-0028,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,"(28, 57)",$\tau$-bench: A benchmark for tool-agent-user interaction in real-world domains,ocr-bib-0057,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,(66),Establishing best practices for building rigorous agentic benchmarks,ocr-bib-0066,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,"(28, 33)",Gaia: a benchmark for general ai assistants,ocr-bib-0028,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,"(28, 33)",On the robustness of agentic function calling,ocr-bib-0033,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,"(56, 12)",WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents,ocr-bib-0056,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,"(56, 12)",Mind2Web: Towards a Generalist Agent for the Web,ocr-bib-0012,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,"(58, 17)",Realwebassist: A benchmark for long-horizon web assistance with real-world users,ocr-bib-0058,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,"(58, 17)",Real: Benchmarking autonomous agents on deterministic simulations of real websites,ocr-bib-0017,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,"(64, 21, 18, 59)",Webarena: A realistic web environment for building autonomous agents,ocr-bib-0064,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,"(64, 21, 18, 59)",VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks,ocr-bib-0021,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,"(64, 21, 18, 59)",Webvoyager: Building an end-to-end web agent with large multimodal models,ocr-bib-0018,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,"(64, 21, 18, 59)",AssistantBench: Can Web Agents Solve Realistic and Time-Consuming Tasks?,ocr-bib-0059,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,"(17, 58)",Real: Benchmarking autonomous agents on deterministic simulations of real websites,ocr-bib-0017,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,"(17, 58)",Realwebassist: A benchmark for long-horizon web assistance with real-world users,ocr-bib-0058,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,(64),Webarena: A realistic web environment for building autonomous agents,ocr-bib-0064,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,(40),World of bits: An open-domain platform for web-based agents,ocr-bib-0040,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,(23),The browsergym ecosystem for web agent research,ocr-bib-0023,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,(17),Real: Benchmarking autonomous agents on deterministic simulations of real websites,ocr-bib-0017,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,(52),Theagentcompany: benchmarking llm agents on consequential real world tasks,ocr-bib-0052,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,(13),WorkArena: How Capable Are Web Agents at Solving Common Knowledge Work Tasks?,ocr-bib-0013,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,(6),Workarena++: Towards compositional planning and reasoning-based common knowledge work tasks,ocr-bib-0006,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,(52),Theagentcompany: benchmarking llm agents on consequential real world tasks,ocr-bib-0052,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,(51),Osworld: Benchmarking multimodal agents for open-ended tasks in real computer environments,ocr-bib-0051,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,(26),Agentbench: Evaluating llms as agents,ocr-bib-0026,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,"(8, 43, 25)",A dataset for interactive vision-language navigation with unknown command feasibility,ocr-bib-0008,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,"(8, 43, 25)",Meta-gui: Towards multi-modal conversational agents on mobile gui,ocr-bib-0043,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,"(8, 43, 25)",Mapping natural language instructions to mobile ui action sequences,ocr-bib-0025,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,(36),Androidinthewild: A large-scale dataset for android device control,ocr-bib-0036,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,(22),Benchmarking mobile device control agents across diverse configurations,ocr-bib-0022,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,(37),Androidworld: A dynamic benchmarking environment for autonomous agents,ocr-bib-0037,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,(62),Llamatouch: A faithful and scalable testbed for mobile ui task automation,ocr-bib-0062,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,(66),Establishing best practices for building rigorous agentic benchmarks,ocr-bib-0066,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,(23),The browsergym ecosystem for web agent research,ocr-bib-0023,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,"(56, 65)",WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents,ocr-bib-0056,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,"(56, 65)",Webarena: A realistic web environment for building autonomous agents,ocr-bib-0065,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,(32),UI-TARS: Pioneering Automated GUI Interaction with Native Agents,ocr-bib-0032,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,(66),Establishing best practices for building rigorous agentic benchmarks,ocr-bib-0066,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,"(10, 67)",Deep reinforcement learning from human preferences,ocr-bib-0010,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,"(10, 67)",Fine-tuning language models from human preferences,ocr-bib-0067,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,"(38, 34)",Proximal policy optimization algorithms,ocr-bib-0038,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,"(38, 34)",Direct preference optimization: Your language model is secretly a reward model,ocr-bib-0034,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,"(35, 11)",Group robust preference optimization in reward-free rlhf,ocr-bib-0035,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,"(35, 11)",Deepseek-r1: Incentivizing reasoning capability in llms via reinforcement learning,ocr-bib-0011,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,(60),Reinforcement learning in healthcare: A survey,ocr-bib-0060,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,"(20, 44, 4)",Deep reinforcement learning for autonomous driving: A survey,ocr-bib-0020,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,"(20, 44, 4)",Exploring applications of deep reinforcement learning for real-world autonomous driving systems,ocr-bib-0044,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,"(20, 44, 4)",Survey of deep reinforcement learning for motion planning of autonomous vehicles,ocr-bib-0004,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,(45),Domain randomization for transferring deep neural networks from simulation to the real world,ocr-bib-0045,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,(30),Robust reinforcement learning: A review of foundations and recent advances,ocr-bib-0030,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,(63),Attacking Vision-Language Computer Agents via Pop-ups,ocr-bib-0063,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,(27),Caution for the Environment: Multimodal Agents are Susceptible to Environmental Distractions,ocr-bib-0027,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,(55),Agentoccam: A simple yet strong baseline for llm-based web agents,ocr-bib-0055,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,(54),Swe-agent: Agent-computer interfaces enable automated software engineering,ocr-bib-0054,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,(41),Step: Stacked llm policies for web actions,ocr-bib-0041,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,(9),Automanual: Constructing instruction manuals by llm agents via interactive environmental learning,ocr-bib-0009,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,(16),Autoguide: Automated generation and selection of context-aware guidelines for large language model agents,ocr-bib-0016,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,(48),Agent workflow memory,ocr-bib-0048,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,(2),Agent s: An open agentic framework that uses computers like a human,ocr-bib-0002,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,(19),Automated design of agentic systems,ocr-bib-0019,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,(61),Darwin godel machine: Open-ended evolution of self-improving agents,ocr-bib-0061,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,(39),Scribeagent: Towards specialized web agents using production-scale workflow data,ocr-bib-0039,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,(42),Learn-by-interact: A data-centric framework for self-adaptive agents in realistic environments,ocr-bib-0042,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,(31),Webrl: Training llm web agents via self-evolving online curriculum reinforcement learning,ocr-bib-0031,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,(49),Webagent-r1: Training web agents via end-to-end multi-turn reinforcement learning,ocr-bib-0049,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,(47),How to train your llm web agent: A statistical diagnosis,ocr-bib-0047,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,(53),Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V,ocr-bib-0053,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,(1),Agent-E: From Autonomous Web Navigation to Foundational Design Principles in Agentic Systems,ocr-bib-0001,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,(3),Are: Scaling up agent environments and evaluations,ocr-bib-0003,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,"(3, 15)",Are: Scaling up agent environments and evaluations,ocr-bib-0003,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,"(3, 15)",Mcptoolbench++: A large scale ai agent model context protocol mcp tool use benchmark,ocr-bib-0015,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,(5),The arcade learning environment: An evaluation platform for general agents,ocr-bib-0005,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,(7),OpenAI Gym,ocr-bib-0007,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,(29),Human-level control through deep reinforcement learning,ocr-bib-0029,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,(46),Mujoco: A physics engine for model-based control,ocr-bib-0046,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,(45),Domain randomization for transferring deep neural networks from simulation to the real world,ocr-bib-0045,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,(14),Minedojo: Building open-ended embodied agents with internet-scale knowledge,ocr-bib-0014,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,(24),Open-world reinforcement learning over long short-term imagination,ocr-bib-0024,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/035/citations.jsonl,(23),The browsergym ecosystem for web agent research,ocr-bib-0023,original_pdf_confirmed_parenthetical_numeric_citation
+methods/human/036/citations.jsonl,(1991),Sliced inverse regression for dimension reduction,ocr-bib-0017,original_pdf_hyperlink_and_literal_bibliography_verified_abbreviated_citation
+methods/human/037/citations.jsonl,HUANG ET AL. (2025),A formal framework for understanding length generalization in transformers,ocr-bib-0013,exact_bibliography_author_form_and_year_in_literal_body
+methods/human/040/citations.jsonl,"xAI, 2025",Grok 4,ocr-bib-0072,exact_bibliography_author_form_and_year_in_literal_body
+methods/human/041/citations.jsonl,(Foundation),Wikimedia downloads,ocr-bib-0023,original_pdf_hyperlink_and_literal_bibliography_verified_abbreviated_citation
+methods/human/041/citations.jsonl,(Foundation),Wikimedia downloads,ocr-bib-0023,original_pdf_hyperlink_and_literal_bibliography_verified_abbreviated_citation
+methods/human/041/citations.jsonl,"WHO, Regional Office for Africa (2019)","Integrated disease surveillance and response technical guidelines: Booklet two: Sections 1, 2, and 3",ocr-bib-0062,exact_bibliography_author_form_and_year_in_literal_body
+methods/human/041/citations.jsonl,"WHO, Regional Office for Africa (2019)","Integrated disease surveillance and response technical guidelines: Booklet two: Sections 1, 2, and 3",ocr-bib-0062,exact_bibliography_author_form_and_year_in_literal_body
+methods/human/041/citations.jsonl,"et al., 2024)",Openmathinstruct-1: A 1.8 million math instruction tuning dataset,ocr-bib-0060,original_pdf_citation_hyperlink_confirms_ocr_page_break_fragment
+methods/human/042/citations.jsonl,(OpenAI),GPT-4 technical report,ocr-bib-0045,original_pdf_hyperlink_and_literal_bibliography_verified_abbreviated_citation
+methods/human/048/citations.jsonl,Yeh et al. 2024,End-to-end conformal calibration for optimization under uncertainty,ocr-bib-0044,exact_bibliography_author_form_and_year_in_literal_body
+methods/human/048/citations.jsonl,KIYANI ET AL. (2025),Decision theoretic foundations for conformal prediction: Optimal uncertainty quantification for risk-averse agents,ocr-bib-0024,exact_bibliography_author_form_and_year_in_literal_body
+methods/human/049/citations.jsonl,KERA ET AL. (2024),Learning to compute gröbner bases,ocr-bib-0022,exact_bibliography_author_form_and_year_in_literal_body
+methods/human/049/citations.jsonl,WU ET AL. (2021),Hi-transformer: Hierarchical interactive transformer for efficient and effective long document modeling,ocr-bib-0036,exact_bibliography_author_form_and_year_in_literal_body
+methods/human/050/citations.jsonl,(2011),First commit to numpy introducing np.einsum,ocr-bib-0028,original_pdf_hyperlink_and_literal_bibliography_verified_abbreviated_citation
+methods/human/050/citations.jsonl,(2022a),Einops: Clear and reliable tensor manipulations with einstein-like notation,ocr-bib-0022,original_pdf_hyperlink_and_literal_bibliography_verified_abbreviated_citation
+methods/human/050/citations.jsonl,(2022b),"einops.pack, einops.unpack",ocr-bib-0023,original_pdf_hyperlink_and_literal_bibliography_verified_abbreviated_citation
+methods/human/050/citations.jsonl,(2023),eindex,ocr-bib-0024,original_pdf_hyperlink_and_literal_bibliography_verified_abbreviated_citation
+methods/human/050/citations.jsonl,Wiebe’s,First commit to numpy introducing np.einsum,ocr-bib-0028,original_pdf_hyperlink_and_literal_bibliography_verified_abbreviated_citation
+methods/human/050/citations.jsonl,Harris et al.,Array programming with numpy,ocr-bib-0014,original_pdf_hyperlink_and_literal_bibliography_verified_abbreviated_citation
+methods/human/050/citations.jsonl,Chiang et al.,Named tensor notation,ocr-bib-0007,original_pdf_hyperlink_and_literal_bibliography_verified_abbreviated_citation

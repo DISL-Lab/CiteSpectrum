@@ -1,12 +1,12 @@
 # AI Method Papers
 
-50 papers · 2,412 citation events.
+50 papers · 2,415 citation events.
 
 | ID | Full paper title | Citation events |
 |:---|:---|---:|
 | 001 | [Transformers in Diffusion: Capturing Complex Dependencies with Transformer Denoiser](001/) | 18 |
 | 002 | [SEMANTIC LATENT SPACE INTERPOLATION IN LOW-DIMENSIONAL DIFFUSION MODELS](002/) | 21 |
-| 003 | [OPTIMIZING TRANSFORMERS: INITIALIZATION AND HYPERPARAMETERS FOR MODULAR ARITHMETIC AND PERMUTATIONS](003/) | 24 |
+| 003 | [OPTIMIZING TRANSFORMERS: INITIALIZATION AND HYPERPARAMETERS FOR MODULAR ARITHMETIC AND PERMUTATIONS](003/) | 25 |
 | 004 | [ADAPTIVE LAYER FUSION: ENHANCING MULTI-SCALE FEATURE LEARNING IN CHARACTER-LEVEL LANGUAGE MODELS](004/) | 22 |
 | 005 | [UNLEASHING GROKKING: THE IMPACT OF ADAPTIVE TRAINING PAUSES ON NEURAL NETWORK LEARNING DYNAMICS](005/) | 19 |
 | 006 | [SHARPENING SMALL: ENHANCING GENERALIZATION IN COMPACT LANGUAGE MODELS WITH SIMPLIFIED SAM](006/) | 35 |
@@ -47,9 +47,9 @@
 | 041 | [Multi-Agent Adaptive Variance Reduction Technique for Decentralized Nonsmooth Nonconvex Stochastic Optimization](041/) | 59 |
 | 042 | [Bayesian Quadrature-Conformal Prediction Framework for Enhanced Uncertainty Quantification in Spatio-Temporal Models](042/) | 294 |
 | 043 | [COMD: Coherent Masked Diffusion](043/) | 138 |
-| 044 | [RAG-MCP: Mitigating Prompt Bloat in LLM Tool Selection via Retrieval-Augmented Generation](044/) | 30 |
+| 044 | [RAG-MCP: Mitigating Prompt Bloat in LLM Tool Selection via Retrieval-Augmented Generation](044/) | 31 |
 | 045 | [Adaptive Evidential Meta-Learning with Hyper-Conditioned Priors for Calibrated ECG Personalisation](045/) | 18 |
-| 046 | [Adaptive AI Governance: Mitigating Income Inequality through Predictive Analytics and Dynamic Policy Frameworks](046/) | 269 |
+| 046 | [Adaptive AI Governance: Mitigating Income Inequality through Predictive Analytics and Dynamic Policy Frameworks](046/) | 270 |
 | 047 | [Estimating Rural Rooftop Solar Potential Using Semantic Segmentation and Multi-Source Data](047/) | 22 |
 | 048 | [LECTOR: LLM-Enhanced Concept-based Test-Oriented Repetition](048/) | 25 |
 | 049 | [Decoupling Openness and Connectivity: Non-Monotonic Effects in LLM-Based Cultural Dynamics](049/) | 16 |

@@ -101,18 +101,58 @@ def main():
     assert {x["path"] for x in hashes} == expected_paths
     for item in hashes:
         assert digest(DATA / item["path"]) == item["sha256"]
-    assert event_count == manifest["summary"]["citation_events"] == 77015
+    assert event_count == manifest["summary"]["citation_events"]
+    assert statuses["resolved_in_source"] == manifest["summary"]["resolved_events"]
     with (DATA / "audit/unresolved_citations.csv").open(encoding="utf-8-sig") as file:
         unresolved = list(csv.DictReader(file))
-    assert len(unresolved) == event_count - statuses["resolved_in_source"] == 1075
+    assert len(unresolved) == event_count - statuses["resolved_in_source"]
+    assert len(unresolved) == manifest["summary"]["unresolved_or_review_events"]
     for model in ["gpt54", "qwen80b"]:
         for condition in ["llm-only", "rag", "outline-guided", "text-guided"]:
             selection = [p for p in papers if p["model"] == model and p["condition"] == condition]
             assert len(selection) == 50
             assert {p["source_id"] for p in selection} == set(range(1, 51))
+    subset_counts = {}
+    for selection_path in sorted((DATA / "subsets").glob("*/selection.json")):
+        selection = read_json(selection_path.read_text(encoding="utf-8"))
+        assert selection["full_manifest_sha256"] == digest(DATA / "manifest.json")
+        indexed = {p["paper_id"]: p for p in papers}
+        chosen = selection["papers"]
+        assert len(chosen) == len({p["paper_id"] for p in chosen}) == len(papers)
+        count = 0
+        for item in chosen:
+            paper = indexed[item["paper_id"]]
+            assert item["path"] == paper["path"]
+            assert item["full_file_sha256"] == paper["sha256"]
+            rows = item["rows"]
+            if rows == "all":
+                assert item["citation_count"] == paper["citation_count"]
+            else:
+                assert paper["setting"] == 5, "Complete generated/method collections must be preserved"
+                assert rows == sorted(set(rows))
+                assert rows and rows[0] >= 1 and rows[-1] <= paper["citation_count"]
+                assert len(rows) == item["citation_count"]
+            if paper["setting"] != 5:
+                assert rows == "all"
+            count += item["citation_count"]
+        assert count == selection["citation_events"] == 78016
+        subset_counts[selection["subset_id"]] = count
+    provenance_path = DATA / "audit" / "extraction_provenance.jsonl"
+    if provenance_path.exists():
+        citation_cache = {}
+        seen = set()
+        for proof in records(provenance_path):
+            path = proof["path"]
+            if path not in citation_cache:
+                citation_cache[path] = list(records(DATA / path))
+            row = citation_cache[path][proof["line"] - 1]
+            assert row["source_reference_id"] == proof["source_reference_id"]
+            assert (path, proof["line"]) not in seen
+            seen.add((path, proof["line"]))
     print(json.dumps({
         "papers": len(papers), "sources": len(sources), "citation_events": event_count,
-        "checksums_verified": len(hashes), "reference_statuses": dict(statuses), "errors": 0,
+        "checksums_verified": len(hashes), "reference_statuses": dict(statuses),
+        "subsets": subset_counts, "errors": 0,
     }, ensure_ascii=False, indent=2))
 
 

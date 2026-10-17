@@ -2,7 +2,7 @@
 
 **AI Scientist · AI Method Papers · ID 003**
 
-24 citation events · 24 source-resolved · 0 unresolved / title review.
+25 citation events · 25 source-resolved · 0 unresolved / title review.
 
 - [Citation events](citations.jsonl)
 - [Companion references](references.jsonl)

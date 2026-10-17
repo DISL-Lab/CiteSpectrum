@@ -2,7 +2,7 @@
 
 **AI Scientist · AI Method Papers · ID 014**
 
-16 citation events · 14 source-resolved · 2 unresolved / title review.
+16 citation events · 16 source-resolved · 0 unresolved / title review.
 
 - [Citation events](citations.jsonl)
 - [Companion references](references.jsonl)

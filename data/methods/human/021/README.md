@@ -2,7 +2,7 @@
 
 **ICLR 2026 Oral · Human Method Papers · ID 021**
 
-77 citation events · 77 source-resolved · 0 unresolved / title review.
+80 citation events · 80 source-resolved · 0 unresolved / title review.
 
 - [Citation events](citations.jsonl)
 - [Companion references](references.jsonl)

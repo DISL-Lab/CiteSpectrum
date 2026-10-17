@@ -19,7 +19,7 @@
 <p>
 <b>Paper</b> &nbsp;·&nbsp;
 <a href="data/README.md"><b>Browse papers</b></a> &nbsp;·&nbsp;
-<a href="https://github.com/DISL-Lab/CiteSpectrum/releases/download/data-78016/CiteSpectrum-78016.zip"><b>Download</b></a>
+<a href="#download"><b>Download</b></a>
 </p>
 
 <a href="assets/overview.pdf"><img src="assets/overview.svg" width="100%" alt="CiteSpectrum study overview: five levels of AI involvement, three dimensions of citation behavior, and citation-based AI paper detection"></a>
@@ -109,7 +109,15 @@ Results are from Table 4 of the paper, using domain-balanced five-fold cross-val
 | Human method papers · ICLR 2026 Oral | 50 | 5,618 | [Human methods](data/methods/human/) |
 | **Total** | **550** | **78,016** | [Full paper titles](data/README.md) |
 
-[Browse all paper titles](data/README.md) · [Download the dataset](https://github.com/DISL-Lab/CiteSpectrum/releases/download/data-78016/CiteSpectrum-78016.zip)
+[Browse all paper titles](data/README.md)
+
+## Download
+
+```bash
+git clone --depth 1 https://github.com/DISL-Lab/CiteSpectrum.git
+```
+
+The dataset is in `CiteSpectrum/data/`.
 
 ## License and attribution
 

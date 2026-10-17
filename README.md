@@ -54,11 +54,11 @@ The survey collection contains **69,983 citation events from 450 surveys**, stor
 
 | Collection | Papers | Browse |
 |:---|---:|:---|
-| GPT-5.4 surveys | 200 | [Four writing conditions](data/survey/gpt54/) |
-| Qwen3-Next-80B-A3B-Instruct surveys | 200 | [Four writing conditions](data/survey/qwen80b/) |
-| Human-Authored surveys | 50 | [Human baseline](data/survey/human-authored/) |
-| AI method papers | 50 | [AI methods](data/methods/ai/) |
-| Human method papers · ICLR 2026 Oral | 50 | [Human methods](data/methods/human/) |
+| **Survey** · GPT-5.4 | 200 | [Four writing conditions](data/survey/gpt54/) |
+| **Survey** · Qwen3-Next | 200 | [Four writing conditions](data/survey/qwen80b/) |
+| **Survey** · Human | 50 | [Human baseline](data/survey/human-authored/) |
+| **Method** · AI | 50 | [AI methods](data/methods/ai/) |
+| **Method** · Human | 50 | [Human methods](data/methods/human/) |
 | **Total** | **550** | [Full paper titles](data/README.md) |
 
 [Browse all paper titles](data/README.md)

@@ -1,4 +1,0 @@
-paper_id,extraction_title,canonical_title,source_url
-method:human:020,GLASS FLOWS: TRANSITION SAMPLING FOR ALIGNMENT OF FLOW AND DIFFUSION MODELS,GLASS Flows: Efficient Inference for Reward Alignment of Flow and Diffusion Models,https://proceedings.iclr.cc/paper_files/paper/2026/hash/ad6ac52e02e14e0f2ddc0d4587ab47f1-Abstract-Conference.html
-method:human:023,SPECULATIVE ACTIONS: A LOSSLESS FRAMEWORK FOR FASTER AGENTIC SYSTEMS,Speculative Actions: A Lossless Framework for Faster AI Agents,https://proceedings.iclr.cc/paper_files/paper/2026/hash/fb279d7a134ad6fead7953ac7fd77fc4-Abstract-Conference.html
-method:human:030,p-LESS SAMPLING: A ROBUST HYPERPARAMETER-FREE APPROACH FOR LLM DECODING,$p\textrm{-less}$ Sampling: A Robust Hyperparameter-Free Approach for LLM Decoding,https://proceedings.iclr.cc/paper_files/paper/2026/hash/c2366657bff61d33c048c92972b19369-Abstract-Conference.html

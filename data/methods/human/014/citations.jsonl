@@ -74,7 +74,6 @@
 {"sentence": "CTM (Kim et al., 2024)", "title": "Consistency trajectory models: Learning probability flow ODE trajectory of diffusion", "marker_text": "Kim et al., 2024"}
 {"sentence": "sCT (Song et al., 2023)", "title": "Consistency models", "marker_text": "Song et al., 2023"}
 {"sentence": "IMM (Zhou et al., 2025a)", "title": "Inductive moment matching", "marker_text": "Zhou et al., 2025a"}
-{"sentence": "EDM + DG (Kynkääinniemi et al., 2024)", "title": null, "marker_text": "Kynkääinniemi et al., 2024"}
 {"sentence": "EDM + DDO (Zheng et al., 2025)", "title": "Direct discriminative optimization: Your likelihood-based visual generative model is secretly a GAN discriminator", "marker_text": "Zheng et al., 2025"}
 {"sentence": "EDM + SIMS (Alemohammad et al., 2024b)", "title": "Self-improving diffusion models with synthetic data", "marker_text": "Alemohammad et al., 2024b"}
 {"sentence": "EDM + SiD $ ^{2} $A (Zhou et al., 2025b)", "title": "Adversarial score identity distillation: Rapidly surpassing the teacher in one step", "marker_text": "Zhou et al., 2025b"}

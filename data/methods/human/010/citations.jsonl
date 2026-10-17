@@ -87,7 +87,6 @@
 {"sentence": "$ \\dagger $codex-mini (2025-05-16) (Chen et al., 2021)", "title": "Evaluating large language models trained on code", "marker_text": "Chen et al., 2021"}
 {"sentence": "Qwen3-1.7B (Qwen, 2025a)", "title": "Qwen3: Think deeper, act faster", "marker_text": "Qwen, 2025a"}
 {"sentence": "Qwen3-4B (Qwen, 2025a)", "title": "Qwen3: Think deeper, act faster", "marker_text": "Qwen, 2025a"}
-{"sentence": "gemma-3-4b-it (Giemma, 2025)", "title": null, "marker_text": "Giemma, 2025"}
 {"sentence": "$ \\dagger $medgemma-4b-it (Google, 2025)", "title": "Medgemma hugging face", "marker_text": "Google, 2025"}
 {"sentence": "Qwen2.5-7B-Instruct (Yang et al., 2024a)", "title": "Qwen2.5 technical report", "marker_text": "Yang et al., 2024a"}
 {"sentence": "Llama-3.1-8B-Instruct (Dubey et al., 2024)", "title": "The llama 3 herd of models", "marker_text": "Dubey et al., 2024"}
@@ -155,19 +154,13 @@
 {"sentence": "Following Pang et al. (2024), we repeat this data collection and policy update cycle (iDPO) for further refinement, resampling trajectories and reconstructing preference pairs after each DPO update.", "title": "Iterative reasoning preference optimization", "marker_text": "Pang et al. (2024)"}
 {"sentence": "gpt-4o-mini (Hurst et al., 2024)", "title": "Gpt-4o system card", "marker_text": "Hurst et al., 2024"}
 {"sentence": "gpt-4o (Hurst et al., 2024), 2025a", "title": "Gpt-4o system card", "marker_text": "Hurst et al., 2024"}
-{"sentence": "gpt-4.4-mini (Openg et al., 2025a)", "title": null, "marker_text": "Openg et al., 2025a"}
 {"sentence": "gpt-4.1 (OpenAI, 2025a)", "title": "Introducing gpt-4.1 in the api", "marker_text": "OpenAI, 2025a"}
 {"sentence": "gpt-o4-mini (OpenAI, 2025b)", "title": "Openai o3 and o4-mini system card", "marker_text": "OpenAI, 2025b"}
-{"sentence": "Owen3-1.7B (Owen, 2025a)", "title": null, "marker_text": "Owen, 2025a"}
-{"sentence": "Owen3-4B (Owen, 2025a)", "title": null, "marker_text": "Owen, 2025a"}
-{"sentence": "Owen3-8B (Owen, 2025a)", "title": null, "marker_text": "Owen, 2025a"}
 {"sentence": "VHuatoGPT-o1-7B (Chen et al., 2024)", "title": "HuatuoGPT-o1, Towards Medical Complex Reasoning with LLMs", "marker_text": "Chen et al., 2024"}
 {"sentence": "Owen2.5-7B-Inst (Yang et al., 2024a)", "title": "Qwen2.5 technical report", "marker_text": "Yang et al., 2024a"}
-{"sentence": "Owen3-14B (Owen, 2025a)", "title": null, "marker_text": "Owen, 2025a"}
 {"sentence": "Owen2.5-Coder-14B-Inst (Hui et al., 2024)", "title": "Qwen2. 5-coder technical report", "marker_text": "Hui et al., 2024"}
 {"sentence": "Owen2.5-14B-Inst (Yang et al., 2024a)", "title": "Qwen2.5 technical report", "marker_text": "Yang et al., 2024a"}
 {"sentence": "R1-Dis-Owen-14B (Guo et al., 2025)", "title": "Deepseek-r1: Incentivizing reasoning capability in llms via reinforcement learning", "marker_text": "Guo et al., 2025"}
-{"sentence": "Owen3-32B (Owen, 2025a)", "title": null, "marker_text": "Owen, 2025a"}
 {"sentence": "In particular, incorporating online RL optimization techniques, especially GRPO (Shao et al., 2024b), can effectively improve performance on unseen, out-of-distribution tasks.", "title": "Deepseekmath: Pushing the limits of mathematical reasoning in open language models", "marker_text": "Shao et al., 2024b"}
 {"sentence": "MIMIC-III (Johnson et al., 2016; Lee et al., 2022)", "title": "Mimic-iii, a freely accessible critical care database", "marker_text": "Johnson et al., 2016"}
 {"sentence": "MIMIC-III (Johnson et al., 2016; Lee et al., 2022)", "title": "Ehrsql: A practical text-to-sql benchmark for electronic health records", "marker_text": "Lee et al., 2022"}

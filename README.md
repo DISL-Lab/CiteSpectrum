@@ -46,7 +46,7 @@ Each step adds a different form of guidance. The source topic stays fixed, so pa
 | **Text-Guided** | Human-authored prose and reference pool; the model restores citations | [50 surveys](data/survey/gpt54/text-guided) | [50 surveys](data/survey/qwen80b/text-guided) |
 | **Human-Authored** | Original human-authored survey | [50 surveys](data/survey/human-authored) | [50 surveys](data/survey/human-authored) |
 
-The survey collection contains **69,983 citation events from 450 surveys**, stored as per-paper `citations.jsonl` files. The **same 50 human surveys** serve as the baseline for both models and are stored once in `human-authored/`. Source IDs `001`–`050` pair the same topics across all conditions and models.
+The survey collection contains **70,099 citation events from 450 surveys**, stored as per-paper `citations.jsonl` files. The **same 50 human surveys** serve as the baseline for both models and are stored once in `human-authored/`. Source IDs `001`–`050` pair the same topics across all conditions and models.
 
 ## Released data
 
@@ -70,7 +70,7 @@ Each line in `citations.jsonl` represents one citation event with three fields:
 | Field | Description |
 |:---|:---|
 | `sentence` | Citation context from the paper. |
-| `title` | Title of the cited paper; `null` if a title could not be established from the source. |
+| `title` | Title of the cited paper. |
 | `marker_text` | Citation marker appearing in `sentence`, such as `[1]` or `Smith et al. (2020)`. |
 
 The same sentence may appear in multiple rows when it contains multiple citations.

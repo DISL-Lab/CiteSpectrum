@@ -4,7 +4,6 @@
 {"sentence": "Diffusion models (Sohl-Dickstein et al., 2015; Ho et al., 2020; Song et al., 2021) transform data into noise through a forward process and then learn a reverse-time stochastic differential equation (SDE) to recover the data distribution.", "title": "Denoising diffusion probabilistic models", "marker_text": "Ho et al., 2020"}
 {"sentence": "Diffusion models (Sohl-Dickstein et al., 2015; Ho et al., 2020; Song et al., 2021) transform data into noise through a forward process and then learn a reverse-time stochastic differential equation (SDE) to recover the data distribution.", "title": "Score-based generative modeling through stochastic differential equations", "marker_text": "Song et al., 2021"}
 {"sentence": "Flow Matching (Lipman et al., 2023; Liu, 2022)", "title": "Flow matching for generative modeling", "marker_text": "Lipman et al., 2023"}
-{"sentence": "Flow Matching (Lipman et al., 2023; Liu, 2022)", "title": null, "marker_text": "Liu, 2022"}
 {"sentence": "Beyond these, Bridge Matching (Peluchetti, 2023; Liu et al., 2022) and Stochastic Interpolants (Albergo et al., 2023) generalize the framework and naturally support data couplings, which are crucial for data-to-data translation.", "title": "Non-denoising forward-time diffusions", "marker_text": "Peluchetti, 2023"}
 {"sentence": "Beyond these, Bridge Matching (Peluchetti, 2023; Liu et al., 2022) and Stochastic Interpolants (Albergo et al., 2023) generalize the framework and naturally support data couplings, which are crucial for data-to-data translation.", "title": "Let us build bridges: Understanding and extending diffusion generative models", "marker_text": "Liu et al., 2022"}
 {"sentence": "Beyond these, Bridge Matching (Peluchetti, 2023; Liu et al., 2022) and Stochastic Interpolants (Albergo et al., 2023) generalize the framework and naturally support data couplings, which are crucial for data-to-data translation.", "title": "Stochastic interpolants: A unifying framework for flows and diffusions", "marker_text": "Albergo et al., 2023"}
@@ -45,9 +44,7 @@
 {"sentence": "StyleGAN2+ADA+Tune+DI (Luo et al., 2023)", "title": "Diff-instruct: A universal approach for transferring knowledge from pre-trained diffusion models", "marker_text": "Luo et al., 2023"}
 {"sentence": "VP-EDM (Karras et al., 2022)", "title": "Elucidating the design space of diffusion-based generative models", "marker_text": "Karras et al., 2022"}
 {"sentence": "Diffusion ProjectedGAN (Wang et al., 2022)", "title": "Diffusion-gan: Training gans with diffusion", "marker_text": "Wang et al., 2022"}
-{"sentence": "GEF-Base (Xeng et al., 2023)", "title": null, "marker_text": "Xeng et al., 2023"}
 {"sentence": "iCT-deep (Song &amp; Dhariwal, 2023)", "title": "Improved techniques for training consistency models", "marker_text": "Song &amp; Dhariwal, 2023"}
-{"sentence": "BigGAN+Bock (et al., 2018)", "title": null, "marker_text": "Bock (et al., 2018)"}
 {"sentence": "Diff-Instruct (Luo et al., 2023)", "title": "Diff-instruct: A universal approach for transferring knowledge from pre-trained diffusion models", "marker_text": "Luo et al., 2023"}
 {"sentence": "StyleGAN2+ADA (Karras et al., 2020)", "title": "Analyzing and improving the image quality of stylegan", "marker_text": "Karras et al., 2020"}
 {"sentence": "DMD (Yin et al., 2024b)", "title": "One-step diffusion with distribution matching distillation", "marker_text": "Yin et al., 2024b"}
@@ -55,7 +52,6 @@
 {"sentence": "CTM (Kim et al., 2023)", "title": "Consistency trajectory models: Learning probability flow ode trajectory of diffusion", "marker_text": "Kim et al., 2023"}
 {"sentence": "StyleGAN2+ADA+Tune+DI (Luo et al., 2023)", "title": "Diff-instruct: A universal approach for transferring knowledge from pre-trained diffusion models", "marker_text": "Luo et al., 2023"}
 {"sentence": "sCD (Lu &amp; Song, 2024)", "title": "Simplifying, stabilizing and scaling continuous-time consistency models", "marker_text": "Lu &amp; Song, 2024"}
-{"sentence": "StyleGAN-XL (Suier et al., 2023)", "title": null, "marker_text": "Suier et al., 2023"}
 {"sentence": "sCT (Lu &amp; Song, 2024)", "title": "Simplifying, stabilizing and scaling continuous-time consistency models", "marker_text": "Lu &amp; Song, 2024"}
 {"sentence": "StyleGAN-XL (Takida et al., 2023)", "title": "San: Inducing metrizability of gan with discriminative normalized linear layer", "marker_text": "Takida et al., 2023"}
 {"sentence": "SID,  $ \\alpha_{sD} = 1.0 $ (Zhou et al., 2024b)", "title": "Score identity distillation: Exponentially fast distillation of pretrained diffusion models for one-step generation", "marker_text": "Zhou et al., 2024b"}
@@ -72,7 +68,6 @@
 {"sentence": "CTM (Kim et al., 2023)", "title": "Consistency trajectory models: Learning probability flow ode trajectory of diffusion", "marker_text": "Kim et al., 2023"}
 {"sentence": "IMM (Zhou et al., 2025)", "title": "Inductive moment matching", "marker_text": "Zhou et al., 2025"}
 {"sentence": "SID,  $ \\alpha_{sD} = 1.0 $ (Zhou et al., 2024b)", "title": "Score identity distillation: Exponentially fast distillation of pretrained diffusion models for one-step generation", "marker_text": "Zhou et al., 2024b"}
-{"sentence": "MeanFlow (Song et al., 2025)", "title": null, "marker_text": "Song et al., 2025"}
 {"sentence": "SID,  $ \\alpha_{sD} = 1.2 $ (Zhou et al., 2024b)", "title": "Score identity distillation: Exponentially fast distillation of pretrained diffusion models for one-step generation", "marker_text": "Zhou et al., 2024b"}
 {"sentence": "FACM (Peng et al., 2025)", "title": "Flow-anchored consistency models", "marker_text": "Peng et al., 2025"}
 {"sentence": "SID $ ^{2} $A,  $ \\alpha_{sD} = 1.0 $ (Zhou et al., 2024a)", "title": "Adversarial score identity distillation: Rapidly surpassing the teacher in one step", "marker_text": "Zhou et al., 2024a"}

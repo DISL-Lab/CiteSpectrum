@@ -1,6 +1,6 @@
 # Original paper sources and attribution
 
-Paper titles, authors, source links, and source terms are listed below. CiteSpectrum citation annotations in this release are [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Existing source materials retain their own terms.
+Paper titles, authors, source links, and source terms are listed below. CiteSpectrum citation annotations are [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Existing source materials retain their own terms.
 
 Citation contexts were extracted and serialized; citation identities and titles were reviewed and corrected where supported by the source. No endorsement by original authors is implied.
 
